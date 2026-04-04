@@ -1,0 +1,15 @@
+INSERT INTO Clinic (id, name, address, city, pin_code) VALUES
+(1, 'Apex Clinic', '1219, Sammilani Park Rd, near Big Bazaar-KOLKATA-HILAND PARK-THE METROPOLIS, Hiland Park, Survey Park, Santoshpur, Kolkata, West Bengal 700099', 'Kolkata', '700099'),
+(2, 'Manipal Clinic', 'C.I.T Scheme, Gariahat Rd, Dhakuria, LXXII Block A, P-4 & 5, Kolkata, West Bengal 700029', 'Kolkata', '700029'),
+(3, 'Apollo Clinic', '56, Leela, Jamini Roy Sarani, Dover Terrace, Ballygunge, Kolkata, West Bengal 700019', 'Kolkata', '700019'),
+(4, 'CRMS Clinic', '294, Mahatma Gandhi Rd, Jiban Mohini Ghosh Park, Paschim Putiary, Kolkata, West Bengal 700082', 'Kolkata', '700082'),
+(5, 'Belle Vue Clinic', '9, Formerly, Sir UN Brahmachari Sarani, Kolkata, West Bengal 700017', 'Kolkata', '700017'),
+(6, 'NRS Clinic', '138, Acharya Jagdish Chandra Bose Rd, Sealdah, Raja Bazar, Kolkata, West Bengal 700014', 'Kolkata', '700014'),
+(7, 'ILS Clinic', 'DD 6, Salt Lake Bypass, DD Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064', 'Kolkata', '700064'),
+(8, 'Midland Clinic', '13A, Mohendra Bose Ln, Mahendra Colony, Bidhan Sarani, Baghbazar, Kolkata, West Bengal 700003', 'Kolkata', '700003'),
+(9, 'Ohio Clinic', 'Service Road, Plot No. DG-6, Street Number 358, Kolkata, West Bengal 700156', 'Kolkata', '700156'),
+(10, 'Aastha Clinic', 'Unit 238, PS Abacus, Action Area II, Newtown, Kolkata, New Town, West Bengal 700161', 'Kolkata', '700161'),
+(11, 'Atreya Clinic', '25(1012), 5 NO.KHALISHAKOTA PALLY, Khalisha Kota, Birati, Kolkata, West Bengal 700051', 'Kolkata', '700051'),
+(12, 'Lifeline Clinic', '237/1, Surya Sen Rd, Satin Sen Nagar, more, New Barrakpur, Kolkata, West Bengal 700131', 'Kolkata', '700131'),
+(13, 'Sagar Clinic', 'MRI SERVICE AND EMERGENCY WARD, Graham Rd, Kamarhati, Kolkata, West Bengal 700058', 'Kolkata', '700058'),
+(14, 'INK Clinic', '185, Acharya Jagdish Chandra Bose Rd, Elgin, Kolkata, West Bengal 700017', 'Kolkata', '700017');
