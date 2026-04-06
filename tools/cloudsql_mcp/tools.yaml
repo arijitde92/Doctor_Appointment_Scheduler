@@ -1,0 +1,134 @@
+kind: sources
+name: doctor-mysql-db
+type: cloud-sql-mysql
+project: ${GOOGLE_CLOUD_PROJECT}
+region: ${REGION}
+instance: doctor-db
+database: doctor_data
+user: ${DB_USER}
+password: ${DB_PASSWORD}
+---
+kind: tools
+name: find-doctors
+type: mysql-sql
+source: doctor-mysql-db
+description: >
+  Find doctors by specialization and city.
+  Use this when the user wants a shortlist of doctors to choose from.
+statement: |
+  SELECT
+    d.id AS doctor_id,
+    d.name,
+    d.gender,
+    d.age,
+    d.years_of_experience,
+    d.specialization,
+    c.id AS clinic_id,
+    c.name AS clinic_name,
+    c.address,
+    c.city,
+    c.pin_code
+  FROM Doctor d
+  JOIN DoctorClinic dc ON d.id = dc.doctor_id
+  JOIN Clinic c ON c.id = dc.clinic_id
+  WHERE d.specialization = ?
+    AND c.city = ?
+  ORDER BY d.years_of_experience DESC, d.name ASC
+  LIMIT 20
+parameters:
+  - name: specialization
+    type: string
+    description: Doctor specialization to search for.
+  - name: city
+    type: string
+    description: City to search within.
+---
+kind: tools
+name: get-doctor-details
+type: mysql-sql
+source: doctor-mysql-db
+description: >
+  Get a doctor's profile by doctor ID.
+statement: |
+  SELECT
+    id,
+    name,
+    gender,
+    age,
+    years_of_experience,
+    specialization
+  FROM Doctor
+  WHERE id = ?
+parameters:
+  - name: doctor_id
+    type: integer
+    description: Doctor ID.
+---
+kind: tools
+name: get-doctor-clinics
+type: mysql-sql
+source: doctor-mysql-db
+description: >
+  List all clinics where a doctor practices.
+statement: |
+  SELECT
+    c.id,
+    c.name,
+    c.address,
+    c.city,
+    c.pin_code
+  FROM Clinic c
+  JOIN DoctorClinic dc ON c.id = dc.clinic_id
+  WHERE dc.doctor_id = ?
+  ORDER BY c.name
+parameters:
+  - name: doctor_id
+    type: integer
+    description: Doctor ID.
+---
+kind: tools
+name: get-doctor-availability
+type: mysql-sql
+source: doctor-mysql-db
+description: >
+  Get availability for a doctor at a clinic on a given day.
+statement: |
+  SELECT
+    slot_1, slot_2, slot_3, slot_4, slot_5, slot_6, slot_7
+  FROM Availability
+  WHERE doctor_id = ?
+    AND clinic_id = ?
+    AND day_of_week = ?
+parameters:
+  - name: doctor_id
+    type: integer
+    description: Doctor ID.
+  - name: clinic_id
+    type: integer
+    description: Clinic ID.
+  - name: day_of_week
+    type: string
+    description: Day of week, e.g. Monday.
+---
+kind: tools
+name: get-clinic-location
+type: mysql-sql
+source: doctor-mysql-db
+description: >
+  Get full address details for a clinic by its ID.
+  Returns the clinic name, address, city, and pin code which can be
+  used to look up the clinic location on a map or compute travel routes.
+statement: |
+  SELECT
+    id,
+    name,
+    address,
+    city,
+    pin_code,
+    CONCAT(address, ', ', city, ', ', pin_code) AS full_address
+  FROM Clinic
+  WHERE id = ?
+parameters:
+  - name: clinic_id
+    type: integer
+    description: Clinic ID.
