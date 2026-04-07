@@ -33,6 +33,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from google.adk.agents.llm_agent import Agent
+from google.genai import types
 from toolbox_core import ToolboxSyncClient
 from tools.maps_mcp.tools import get_maps_mcp_toolset
 import os
@@ -122,6 +123,7 @@ These tools connect to Google Maps Platform via MCP:
 2. Present results clearly in a structured format including:
    - Doctor name, gender, age, years of experience
    - Clinic name and address
+   - Group all clinics for a specific doctor together. For example if Dr. XYZ practices in 3 clinics, then list all 3 clinics under Dr. XYZ.
 
 3. **If the user's current location is provided** (by the root agent):
    - For each matched doctor/clinic, use `get-clinic-location` to get the
@@ -140,7 +142,9 @@ These tools connect to Google Maps Platform via MCP:
    - Present results sorted by experience as usual.
 
 5. If asked about a specific doctor's availability, use `get-doctor-availability`.
-   Present the available time slots clearly.
+   Present the available time slots clearly. The database has timings in slot format, where value 1 means booked and value 0 means available.
+   where slot_1 means 10:00AM - 11:00AM, slot_2 means 11:00AM - 12:00PM, slot_3 means 12:00PM to 1:00PM, slot_4 means 1:00PM to 2:00PM, slot_5 means 2:00PM to 3:00PM, slot_6 means 3:00PM to 4:00PM, slot_7 means 4:00PM to 5:00PM.
+   Present the user the available slots in a readable format.
 6. If asked for clinic details, use `get-doctor-clinics`.
 7. Always be concise, factual, and helpful.
 8. If no results are found, say so clearly and suggest broadening the search
@@ -164,4 +168,9 @@ root_agent = Agent(
     description=DOCTOR_MATCHER_DESCRIPTION,
     instruction=DOCTOR_MATCHER_INSTRUCTION,
     tools=tools,
+    generate_content_config=types.GenerateContentConfig(
+        http_options=types.HttpOptions(
+            retry_options=types.HttpRetryOptions(initial_delay=1, attempts=2)
+        )
+    )
 )

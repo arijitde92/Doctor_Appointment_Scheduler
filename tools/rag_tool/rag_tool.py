@@ -27,6 +27,7 @@ import logging
 import vertexai
 from vertexai import rag
 from vertexai.generative_models import GenerativeModel, Tool
+from google.api_core import retry, exceptions
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Logging
@@ -37,9 +38,9 @@ logger = logging.getLogger(__name__)
 # Configuration from environment
 # ─────────────────────────────────────────────────────────────────────────────
 PROJECT_ID = os.environ.get("GOOGLE_CLOUD_PROJECT", "arijit-de-1992")
-LOCATION = os.environ.get("GOOGLE_CLOUD_LOCATION", "us-central1")
+LOCATION = os.environ.get("GOOGLE_CLOUD_LOCATION", "asia-south1")
 GCS_BUCKET_URI = os.environ.get(
-    "GCS_REVIEWS_BUCKET_URI", "gs://your-bucket-name/doctor-reviews/"
+    "GCS_REVIEWS_BUCKET_URI", "gs://doctor-reviews-arijit-de-1992/doctor-reviews/"
 )
 CORPUS_DISPLAY_NAME = os.environ.get(
     "RAG_CORPUS_DISPLAY_NAME", "doctor_reviews_corpus"
@@ -109,7 +110,7 @@ def get_or_create_rag_corpus() -> str:
                 chunk_overlap=100,
             )
         ),
-        max_embedding_requests_per_min=1000,
+        max_embedding_requests_per_min=100,
     )
     logger.info("File import complete.")
 
@@ -152,7 +153,7 @@ def build_rag_model() -> GenerativeModel:
     )
 
     model = GenerativeModel(
-        model_name="gemini-2.0-flash-001",
+        model_name="gemini-2.5-flash",
         tools=[rag_retrieval_tool],
         system_instruction=(
             "You are a helpful medical information assistant. "
@@ -172,6 +173,13 @@ def build_rag_model() -> GenerativeModel:
 _rag_model: GenerativeModel | None = None
 
 
+@retry.Retry(
+    predicate=retry.if_exception_type(exceptions.ResourceExhausted),
+    initial=2.0,
+    multiplier=2.0,
+    maximum=60.0,
+    timeout=300.0,
+)
 def query_doctor_reviews(question: str) -> str:
     """
     Queries the doctor review knowledge base and returns a natural-language

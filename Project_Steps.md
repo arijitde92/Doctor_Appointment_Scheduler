@@ -316,3 +316,68 @@ References
 
 1. <https://developers.google.com/maps/ai/grounding-lite>
 2. <https://github.com/google/mcp/tree/main/examples/launchmybakery>
+
+## Phase 7 -- Setting Up Google Calendar MCP (Composio)
+
+The Scheduler Agent uses the [Composio](https://composio.dev) MCP Tool Router to create Google Calendar events for doctor appointments.
+
+### External Setup Steps
+
+#### 1. Create a Composio Account
+
+1. Go to <https://platform.composio.dev> and sign up / sign in.
+2. Navigate to **Settings → API Keys** and create (or copy) your API key.
+
+#### 2. Connect Google Calendar
+
+1. In the Composio dashboard, go to the **Marketplace** and find **Google Calendar**.
+2. Click **Connect** and complete the Google OAuth flow to authorize calendar access.
+3. This is a one-time setup — Composio handles token refresh automatically.
+
+#### 3. Update `.env` file
+
+Add the following environment variables to your `.env` file:
+
+```text
+COMPOSIO_API_KEY=<your-composio-api-key>
+COMPOSIO_USER_ID=<your-user-id>
+```
+
+- `COMPOSIO_API_KEY` — Your API key from the Composio dashboard Settings page.
+- `COMPOSIO_USER_ID` — A stable user identifier for the Composio session (e.g., your username or email).
+
+#### 4. Install dependency
+
+```bash
+pip install composio composio_google_adk
+```
+
+### Project Structure
+
+- **Scheduler Agent**: [agents/scheduler_agent/agent.py](agents/scheduler_agent/agent.py) — The ADK agent that receives appointment details from the root agent and creates Google Calendar events.
+- **Calendar MCP Tool**: [tools/calendar_mcp/tools.py](tools/calendar_mcp/tools.py) — Creates a Composio session scoped to the `googlecalendar` toolkit and returns an `McpToolset` that the scheduler agent uses for tool calls.
+
+### How It Works
+
+1. On startup, `tools/calendar_mcp/tools.py` initializes a Composio client, creates a session for the `googlecalendar` toolkit, and obtains an MCP URL.
+2. The MCP URL is wrapped in an ADK `McpToolset` with `StreamableHTTPConnectionParams`.
+3. The scheduler agent uses this toolset to search for Google Calendar actions and execute them (e.g., create events).
+4. The root agent collects all appointment details (doctor name, specialization, clinic name, clinic address, date, time) and delegates to the scheduler agent with a structured message.
+
+### Verify
+
+Run the agent system and test a full booking flow:
+
+```bash
+cd agents
+adk web .
+```
+
+Then walk through: search for doctor → select → check availability → book appointment. A Google Calendar event should be created with the appointment details.
+
+References
+
+1. <https://docs.composio.dev/docs/providers/google-adk>
+2. <https://composio.dev/toolkits/googlecalendar/framework/google-adk>
+3. <https://docs.composio.dev/toolkits/googlecalendar>
+

@@ -18,6 +18,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from google.adk.agents.llm_agent import Agent
+from google.genai import types
 
 from tools.rag_tool import query_doctor_reviews
 
@@ -42,4 +43,14 @@ root_agent = Agent(
         "with the doctor's name included in the question."
     ),
     tools=[query_doctor_reviews],
+    generate_content_config=types.GenerateContentConfig(
+        http_options=types.HttpOptions(
+            retry_options=types.HttpRetryOptions(
+                initial_delay=2.0,
+                exp_base=2.0,
+                max_delay=60.0,
+                attempts=5
+            )
+        )
+    )
 )

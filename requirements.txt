@@ -5,3 +5,5 @@ uvicorn
 uv
 toolbox-adk
 python-dotenv
+composio
+composio_google_adk
