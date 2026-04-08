@@ -70,6 +70,11 @@ This project uses a modular Google Cloud and MCP-first architecture so each part
 
 ![Architecture Diagram](assets/images/architecture_diagram.png)
 
+## Live Demo
+
+The application is deployed on Google Cloud Run:
+[https://doctor-appointment-app-173427564927.asia-south1.run.app](https://doctor-appointment-app-173427564927.asia-south1.run.app)
+
 ## Installation and Setup
 
 The complete environment setup, Google Cloud configuration, database creation, MCP setup, RAG pipeline preparation, Maps integration, and Google Calendar integration steps are documented in [Project_Steps.md](Project_Steps.md).
