@@ -77,7 +77,7 @@ Create a virtual environment and activate it
 ```bash
 python -m venv venv
 source venv/bin/activate
-pip install google-adk google-cloud-aiplatform fastapi uvicorn
+pip install -r requirements.txt
 ```
 
 ## Phase 3 -- Database (Google Cloud SQL)
