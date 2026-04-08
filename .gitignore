@@ -212,3 +212,7 @@ venv/
 .venv/
 .claude/
 toolbox
+.adk/
+agents/root_agent/.adk/
+agents/root_agent/.adk/session.db
+.codex

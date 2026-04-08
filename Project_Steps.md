@@ -174,13 +174,18 @@ You can use [populate_data.sh](data/seed_sql/populate_data.sh) script that perfo
 Populate the below values
 
 ```text
-GOOGLE_CLOUD_PROJECT=<Your Project ID>
-GOOGLE_CLOUD_LOCATION=global
+GOOGLE_CLOUD_PROJECT=<YOUR PROJECT ID>
+GOOGLE_CLOUD_LOCATION=<YOUR REGION>
 GOOGLE_GENAI_USE_VERTEXAI=true
-REGION=<Your Region>
-DB_USER=<Non root user name>
-DB_PASSWORD=<Password for non root user>
+REGION=<Same as GOOGLE_CLOUD_LOCATION>
+DB_USER=<YOUR DB USERNAME>
+DB_PASSWORD=<YOUR DB PASSWORD>
 TOOLBOX_URL=http://127.0.0.1:5000
+MAPS_API_KEY=<YOUR MAPS API KEY>
+GEMINI_API_KEY=<YOUR GEMINI API KEY>
+GOOGLE_API_KEY=<Same as GEMINI_API_KEY>
+COMPOSIO_API_KEY=<YOUR COMPOSIO API KEY>
+COMPOSIO_USER_ID=<YOUR COMPOSIO USER ID>
 ```
 
 ### Download MCP Toolbox
@@ -336,7 +341,7 @@ The Scheduler Agent uses the [Composio](https://composio.dev) MCP Tool Router to
 
 #### 3. Update `.env` file
 
-Add the following environment variables to your `.env` file:
+Add the following environment variables to your `.env` file if not already added:
 
 ```text
 COMPOSIO_API_KEY=<your-composio-api-key>
@@ -381,3 +386,5 @@ References
 2. <https://composio.dev/toolkits/googlecalendar/framework/google-adk>
 3. <https://docs.composio.dev/toolkits/googlecalendar>
 
+## Phase 8 -- Cloud Run Deployment
+See <https://codelabs.developers.google.com/travel-agent-mcp-toolbox-adk#8>
