@@ -374,8 +374,8 @@ pip install composio composio_google_adk
 Run the agent system and test a full booking flow:
 
 ```bash
-cd agents
-adk web .
+# Run from the project root (not inside agents/)
+adk web agents
 ```
 
 Then walk through: search for doctor → select → check availability → book appointment. A Google Calendar event should be created with the appointment details.
@@ -387,4 +387,59 @@ References
 3. <https://docs.composio.dev/toolkits/googlecalendar>
 
 ## Phase 8 -- Cloud Run Deployment
-See <https://codelabs.developers.google.com/travel-agent-mcp-toolbox-adk#8>
+### Upload tools.yaml to Secret Manager
+```bash
+gcloud secrets create tools-yaml --data-file=agents/tools/cloudsql_mcp/tools.yaml
+```
+
+### Add Secret Accesor Permission to Service Account
+```bash
+export PROJECT_ID=$(gcloud config get-value project)
+
+gcloud projects add-iam-policy-binding $PROJECT_ID \
+  --member="serviceAccount:agent-sa@${PROJECT_ID}.iam.gserviceaccount.com" \
+  --role="roles/secretmanager.secretAccessor"
+```
+
+### Deplpy Toolbox to Cloud Run using official Toolbox Image
+```bash
+# Load variables again just in case
+set -a
+source .env
+set +a
+
+export IMAGE="us-central1-docker.pkg.dev/database-toolbox/toolbox/toolbox:latest"
+
+gcloud run deploy toolbox \
+  --image $IMAGE \
+  --service-account "agent-sa@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com" \
+  --region $REGION \
+  --set-secrets "/app/tools.yaml=tools:latest" \
+  --set-env-vars="GOOGLE_CLOUD_PROJECT=${GOOGLE_CLOUD_PROJECT},REGION=${REGION},DB_USER=${DB_USER},DB_PASSWORD=${DB_PASSWORD}" \
+  --args="--config=/app/tools.yaml","--address=0.0.0.0","--port=8080" \
+  --allow-unauthenticated
+```
+
+**Note the Toolbox URL and update the `TOOLBOX_URL` in your `.env` file.**
+
+In my case it is <https://toolbox-173427564927.asia-south1.run.app>
+
+Reference - <https://mcp-toolbox.dev/documentation/deploy-to/cloud-run/>
+
+### Deploy Agent to Cloud Run
+```bash
+export GOOGLE_CLOUD_PROJECT=$(gcloud config get-value project)
+export GOOGLE_CLOUD_LOCATION="asia-south1"
+export AGENT_PATH="agents"
+export SERVICE_NAME="doctor-appointment-app"
+export APP_NAME="Doctor_Appointment_Scheduler"
+
+PYTHONPATH=. adk deploy cloud_run \
+  --project=$GOOGLE_CLOUD_PROJECT \
+  --region=$GOOGLE_CLOUD_LOCATION \
+  --service_name=$SERVICE_NAME \
+  --app_name=$APP_NAME \
+  --with_ui \
+  $AGENT_PATH \
+  -- --env-vars-file=.env
+```

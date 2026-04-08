@@ -13,14 +13,17 @@ Required environment variables (set in .env or export_env_vars.sh):
     RAG_CORPUS_RESOURCE_NAME - (Optional) Pre-existing corpus resource name.
 """
 
-import sys
-from pathlib import Path
-sys.path.insert(0, str(Path(__file__).parent.parent.parent))
+# import sys
+# from pathlib import Path
+# sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from google.adk.agents.llm_agent import Agent
 from google.genai import types
 
-from tools.rag_tool import query_doctor_reviews
+try:
+    from ..tools.rag_tool import query_doctor_reviews
+except ImportError:
+    from tools.rag_tool import query_doctor_reviews
 
 # ─────────────────────────────────────────────────────────────────────────────
 # ADK Agent definition — entry point discovered by the ADK runner

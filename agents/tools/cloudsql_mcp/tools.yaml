@@ -1,14 +1,14 @@
-kind: sources
+kind: source
 name: doctor-mysql-db
 type: cloud-sql-mysql
-project: ${GOOGLE_CLOUD_PROJECT}
-region: ${REGION}
+project: arijit-de-1992
+region: asia-south1
 instance: doctor-db
 database: doctor_data
 user: ${DB_USER}
 password: ${DB_PASSWORD}
 ---
-kind: tools
+kind: tool
 name: find-doctors
 type: mysql-sql
 source: doctor-mysql-db
@@ -43,7 +43,7 @@ parameters:
     type: string
     description: City to search within.
 ---
-kind: tools
+kind: tool
 name: get-doctor-details
 type: mysql-sql
 source: doctor-mysql-db
@@ -64,7 +64,7 @@ parameters:
     type: integer
     description: Doctor ID.
 ---
-kind: tools
+kind: tool
 name: get-doctor-clinics
 type: mysql-sql
 source: doctor-mysql-db
@@ -86,7 +86,7 @@ parameters:
     type: integer
     description: Doctor ID.
 ---
-kind: tools
+kind: tool
 name: get-doctor-availability
 type: mysql-sql
 source: doctor-mysql-db
@@ -110,7 +110,7 @@ parameters:
     type: string
     description: Day of week, e.g. Monday.
 ---
-kind: tools
+kind: tool
 name: get-clinic-location
 type: mysql-sql
 source: doctor-mysql-db

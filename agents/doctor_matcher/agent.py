@@ -28,14 +28,17 @@ Required environment variables:
     MAPS_API_KEY  – Google Maps Platform API key
 """
 
-import sys
-from pathlib import Path
-sys.path.insert(0, str(Path(__file__).parent.parent.parent))
+# import sys
+# from pathlib import Path
+# sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from google.adk.agents.llm_agent import Agent
 from google.genai import types
 from toolbox_core import ToolboxSyncClient
-from tools.maps_mcp.tools import get_maps_mcp_toolset
+try:
+    from ..tools.maps_mcp.tools import get_maps_mcp_toolset
+except ImportError:
+    from tools.maps_mcp.tools import get_maps_mcp_toolset
 import os
 
 # ─────────────────────────────────────────────────────────────────────────────

@@ -21,15 +21,23 @@ References:
     https://adk.dev/agents/multi-agents/#coordinatordispatcher-pattern
     https://adk.dev/agents/multi-agents/#human-in-the-loop-pattern
 """
+# import sys
+# from pathlib import Path
+# sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from google.adk.agents.llm_agent import Agent
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Import sub-agents from their respective modules
 # ─────────────────────────────────────────────────────────────────────────────
-from doctor_matcher.agent import root_agent as doctor_matcher_agent
-from doctor_rag_agent.agent import root_agent as doctor_rag_agent
-from scheduler_agent.agent import root_agent as scheduler_agent
+try:
+    from ..doctor_matcher.agent import root_agent as doctor_matcher_agent
+    from ..doctor_rag_agent.agent import root_agent as doctor_rag_agent
+    from ..scheduler_agent.agent import root_agent as scheduler_agent
+except ImportError:
+    from doctor_matcher.agent import root_agent as doctor_matcher_agent
+    from doctor_rag_agent.agent import root_agent as doctor_rag_agent
+    from scheduler_agent.agent import root_agent as scheduler_agent
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Root Agent definition

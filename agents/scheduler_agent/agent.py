@@ -14,14 +14,17 @@ Required environment variables (set in .env):
     COMPOSIO_USER_ID   – User identifier for the Composio session
 """
 
-import sys
-from pathlib import Path
-sys.path.insert(0, str(Path(__file__).parent.parent.parent))
+# import sys
+# from pathlib import Path
+# sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from google.adk.agents.llm_agent import Agent
 from google.genai import types
 
-from tools.calendar_mcp.tools import get_calendar_mcp_toolset
+try:
+    from ..tools.calendar_mcp.tools import get_calendar_mcp_toolset
+except ImportError:
+    from tools.calendar_mcp.tools import get_calendar_mcp_toolset
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Composio Google Calendar MCP Toolset

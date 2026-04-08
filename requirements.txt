@@ -4,6 +4,7 @@ fastapi
 uvicorn
 uv
 toolbox-adk
+toolbox-core
 python-dotenv
 composio
 composio_google_adk
