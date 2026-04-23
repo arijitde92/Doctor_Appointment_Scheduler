@@ -10,7 +10,7 @@ The application is deployed on Google Cloud Run:
 [https://doctor-appointment-app-173427564927.asia-south1.run.app](https://doctor-appointment-app-173427564927.asia-south1.run.app)
 
 ## Demo Video
-Checkout the demo video [here](assets/videos/GenAI_APAC_hackathon_demo.mp4)
+Checkout the demo video [here](https://drive.google.com/file/d/1crVf8UKEkUTxU_4_jolV2aocKHAVfUUn/view?usp=drive_link)
 
 ## Why This Project Matters
 
