@@ -4,6 +4,14 @@
 
 Doctor Appointment Scheduler is an AI-powered, multi-agent doctor appointment booking solution built to simplify the complete patient journey in a single conversational experience. Instead of forcing users to search across clinic portals, compare doctors manually, read reviews from separate sources, calculate travel time, check availability, and then book on another platform, this system brings all of those steps together through coordinated AI agents and MCP-based tool integrations. It helps users discover suitable doctors by specialization and city, evaluate options using clinic location and patient feedback, choose convenient time slots, and finally schedule the appointment directly on Google Calendar, making the overall process faster, smarter, and more user-friendly.
 
+## Live Demo
+
+The application is deployed on Google Cloud Run:
+[https://doctor-appointment-app-173427564927.asia-south1.run.app](https://doctor-appointment-app-173427564927.asia-south1.run.app)
+
+## Demo Video
+Checkout the demo video [here](assets/videos/GenAI_APAC_hackathon_demo.mp4)
+
 ## Why This Project Matters
 
 Most doctor discovery and appointment booking experiences are fragmented. Users often need to switch between multiple apps and websites just to answer a few basic questions:
@@ -69,11 +77,6 @@ This project uses a modular Google Cloud and MCP-first architecture so each part
 ## Architecture Diagram
 
 ![Architecture Diagram](assets/images/architecture_diagram.png)
-
-## Live Demo
-
-The application is deployed on Google Cloud Run:
-[https://doctor-appointment-app-173427564927.asia-south1.run.app](https://doctor-appointment-app-173427564927.asia-south1.run.app)
 
 ## Installation and Setup
 
