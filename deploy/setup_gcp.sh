@@ -4,13 +4,19 @@
 #   - creates the Cloud SQL database that stores ADK chat sessions
 #   - stores backend secrets in Secret Manager
 #   - creates the frontend service account (web-sa)
+#   - lets the backend (agent-sa) write traces to Cloud Trace and metrics to
+#     Cloud Monitoring (dashboard: bash deploy/setup_monitoring.sh)
 #
 # Usage (from the repo root):  bash deploy/setup_gcp.sh
 source "$(dirname "$0")/common.sh"
 
 log "Enabling APIs in $PROJECT"
 gcloud services enable run.googleapis.com cloudbuild.googleapis.com artifactregistry.googleapis.com \
-  secretmanager.googleapis.com sqladmin.googleapis.com iam.googleapis.com --project "$PROJECT"
+  secretmanager.googleapis.com sqladmin.googleapis.com iam.googleapis.com cloudtrace.googleapis.com \
+  monitoring.googleapis.com telemetry.googleapis.com logging.googleapis.com \
+  cloudresourcemanager.googleapis.com --project "$PROJECT"
+# cloudresourcemanager: ADK's telemetry looks up the project number at startup
+# (otherwise it logs a "Failed to look up the project's other identifier" warning).
 
 log "Creating Cloud SQL database '$SESSION_DB_NAME' on instance '$DB_INSTANCE' (ADK sessions)"
 if gcloud sql databases describe "$SESSION_DB_NAME" --instance "$DB_INSTANCE" --project "$PROJECT" >/dev/null 2>&1; then
@@ -49,5 +55,11 @@ if gcloud iam service-accounts describe "$WEB_SA" --project "$PROJECT" >/dev/nul
 else
   gcloud iam service-accounts create "$WEB_SA_NAME" --display-name "Doctor Appointment web frontend" --project "$PROJECT"
 fi
+
+log "Granting $AGENT_SA permission to write Cloud Trace spans and Cloud Monitoring metrics"
+for role in roles/cloudtrace.agent roles/monitoring.metricWriter; do
+  gcloud projects add-iam-policy-binding "$PROJECT" --member "serviceAccount:$AGENT_SA" \
+    --role "$role" --condition=None >/dev/null
+done
 
 log "Setup complete. Next: bash deploy/deploy_backend.sh"

@@ -12,3 +12,11 @@ aiosqlite
 # Required by aiomysql/PyMySQL for MySQL 8 caching_sha2_password auth
 cryptography
 uvicorn[standard]
+# Cloud Trace exporter for ADK's OpenTelemetry spans (TRACE_TO_CLOUD=true).
+# Installed directly instead of google-adk[gcp], which pulls in many unrelated
+# Google Cloud clients.
+opentelemetry-exporter-gcp-trace>=1.9,<2
+# Cloud Monitoring metrics (METRICS_TO_CLOUD=true): ADK exports over OTLP/HTTP
+# to telemetry.googleapis.com and tags points with the Cloud Run resource.
+opentelemetry-exporter-otlp-proto-http>=1.36
+opentelemetry-resourcedetector-gcp>=1.9.0a0,<2

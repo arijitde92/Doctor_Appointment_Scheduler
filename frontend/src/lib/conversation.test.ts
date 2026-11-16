@@ -161,10 +161,21 @@ describe("tool response parsing", () => {
 
 describe("prompts & dates", () => {
   it("composes the intake message with and without location", () => {
-    expect(intakePrompt({ specialization: "Cardiology", city: "Kolkata", location: "Park Street", preferredDay: "Monday" })).toBe(
+    expect(intakePrompt({ specialization: "Cardiology", city: "Kolkata", location: "Park Street", preferredDays: ["Monday"] })).toBe(
       "I'm looking for a Cardiology doctor in Kolkata. My current location is: Park Street. Please show the distance and travel time to each clinic, closest first. I'd prefer an appointment on a Monday.",
     );
     expect(intakePrompt({ specialization: "Cardiology", city: "Kolkata" })).toContain("I'd rather not share my location");
+  });
+
+  it("lists several preferred days and treats none or all seven as any day", () => {
+    const base = { specialization: "Cardiology", city: "Kolkata" };
+    expect(intakePrompt({ ...base, preferredDays: ["Monday", "Wednesday", "Friday"] })).toContain(
+      "I'd prefer an appointment on a Monday, Wednesday or Friday.",
+    );
+    expect(intakePrompt({ ...base, preferredDays: ["Saturday", "Sunday"] })).toContain("on a Saturday or Sunday.");
+    const allDays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+    expect(intakePrompt({ ...base, preferredDays: allDays })).not.toContain("I'd prefer");
+    expect(intakePrompt({ ...base, preferredDays: [] })).not.toContain("I'd prefer");
   });
 
   it("round-trips booking prompts", () => {

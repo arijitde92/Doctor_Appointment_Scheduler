@@ -2,7 +2,7 @@ import clsx from "clsx";
 import { CalendarCheck, ClipboardList, Loader2, LocateFixed, MapPin, Search, ShieldCheck, Star, Stethoscope } from "lucide-react";
 import { useId, useState, type FormEvent } from "react";
 
-import { CITIES, DAYS, SPECIALIZATIONS } from "../config/catalog";
+import { CITIES, DAYS, SPECIALIZATIONS, type Day } from "../config/catalog";
 import { intakePrompt } from "../lib/prompts";
 import { Button, Card } from "./ui";
 
@@ -21,11 +21,22 @@ export function IntakePanel({ busy, onSubmit }: { busy: boolean; onSubmit: (prom
   const [specialization, setSpecialization] = useState("");
   const [city, setCity] = useState<string>(CITIES[0]);
   const [location, setLocation] = useState("");
-  const [day, setDay] = useState("");
+  // Selected weekdays, kept in week order. All seven selected = "Any".
+  const [days, setDays] = useState<Day[]>([...DAYS]);
   const [locating, setLocating] = useState(false);
   const [locationNote, setLocationNote] = useState<string | null>(null);
 
   const canSubmit = !!specialization && !!city.trim() && !busy;
+  const anyDay = days.length === DAYS.length;
+
+  /** "Any" selects every day; pressing it again clears the selection. */
+  function toggleAny() {
+    setDays(anyDay ? [] : [...DAYS]);
+  }
+
+  function toggleDay(d: Day) {
+    setDays((prev) => DAYS.filter((x) => (x === d ? !prev.includes(d) : prev.includes(x))));
+  }
 
   function useMyLocation() {
     if (!("geolocation" in navigator)) {
@@ -51,7 +62,7 @@ export function IntakePanel({ busy, onSubmit }: { busy: boolean; onSubmit: (prom
   function submit(e: FormEvent) {
     e.preventDefault();
     if (!canSubmit) return;
-    onSubmit(intakePrompt({ specialization, city: city.trim(), location, preferredDay: day || undefined }));
+    onSubmit(intakePrompt({ specialization, city: city.trim(), location, preferredDays: days }));
   }
 
   return (
@@ -147,23 +158,14 @@ export function IntakePanel({ busy, onSubmit }: { busy: boolean; onSubmit: (prom
           </div>
 
           <fieldset>
-            <legend className="mb-1.5 text-sm font-medium text-slate-700">Preferred day</legend>
+            <legend className="mb-1.5 flex w-full items-center justify-between text-sm font-medium text-slate-700">
+              Preferred days
+              <span className="text-xs font-normal text-slate-400">Select one or more</span>
+            </legend>
             <div className="flex flex-wrap gap-1.5">
-              {["", ...DAYS].map((d) => (
-                <button
-                  key={d || "any"}
-                  type="button"
-                  aria-pressed={day === d}
-                  onClick={() => setDay(d)}
-                  className={clsx(
-                    "h-8 rounded-lg border px-2.5 text-[0.8125rem] font-medium transition-colors",
-                    day === d
-                      ? "border-brand-600 bg-brand-600 text-white"
-                      : "border-slate-200 bg-white text-slate-600 hover:border-brand-300 hover:text-brand-800",
-                  )}
-                >
-                  {d ? d.slice(0, 3) : "Any"}
-                </button>
+              <DayChip label="Any" title="Any day" pressed={anyDay} onClick={toggleAny} />
+              {DAYS.map((d) => (
+                <DayChip key={d} label={d.slice(0, 3)} title={d} pressed={days.includes(d)} onClick={() => toggleDay(d)} />
               ))}
             </div>
           </fieldset>
@@ -199,5 +201,25 @@ export function IntakePanel({ busy, onSubmit }: { busy: boolean; onSubmit: (prom
         </p>
       </Card>
     </div>
+  );
+}
+
+function DayChip({ label, title, pressed, onClick }: { label: string; title: string; pressed: boolean; onClick: () => void }) {
+  return (
+    <button
+      type="button"
+      aria-pressed={pressed}
+      aria-label={title}
+      title={title}
+      onClick={onClick}
+      className={clsx(
+        "h-8 rounded-lg border px-2.5 text-[0.8125rem] font-medium transition-colors",
+        pressed
+          ? "border-brand-600 bg-brand-600 text-white"
+          : "border-slate-200 bg-white text-slate-600 hover:border-brand-300 hover:text-brand-800",
+      )}
+    >
+      {label}
+    </button>
   );
 }

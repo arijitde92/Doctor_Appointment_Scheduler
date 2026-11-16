@@ -463,10 +463,11 @@ bash deploy/setup_gcp.sh
 
 [setup_gcp.sh](deploy/setup_gcp.sh) does the following, and is safe to re-run:
 
-- Enables the Cloud Run, Cloud Build, Artifact Registry, Secret Manager and Cloud SQL Admin APIs.
+- Enables the Cloud Run, Cloud Build, Artifact Registry, Secret Manager, Cloud SQL Admin, Cloud Trace, Cloud Monitoring, Telemetry, Cloud Logging and Cloud Resource Manager APIs.
 - Creates the `adk_sessions` database on the `doctor-db` instance. ADK creates its session tables on first use. `DB_USER` must have privileges on this database.
-- Stores `DB_PASSWORD`, `COMPOSIO_API_KEY` and `MAPS_API_KEY` in Secret Manager (`db-password`, `composio-api-key`, `maps-api-key`) and grants `agent-sa` access to them.
+- Stores `DB_PASSWORD`, `COMPOSIO_API_KEY`, `MAPS_API_KEY` and the Google AI Studio key (`GOOGLE_API_KEY`, or `GEMINI_API_KEY` if that is unset) in Secret Manager (`db-password`, `composio-api-key`, `maps-api-key`, `gemini-api-key`) and grants `agent-sa` access to them.
 - Creates the frontend service account `web-sa`, which has no project roles.
+- Grants `agent-sa` the `roles/cloudtrace.agent` and `roles/monitoring.metricWriter` roles so the backend can write traces and metrics (see [Phase 10](#phase-10----observability-cloud-trace-cloud-monitoring-and-logs)).
 
 #### 2. Deploy the backend (private)
 
@@ -480,6 +481,8 @@ bash deploy/deploy_backend.sh
 - `--no-allow-unauthenticated`
 - `--add-cloudsql-instances PROJECT:REGION:doctor-db`. `backend/main.py` connects to `adk_sessions` through `/cloudsql/...` with `mysql+aiomysql`.
 - Non-secret configuration through `--env-vars-file`, a YAML file generated from `.env`. Secrets come from `--set-secrets`.
+- When `GOOGLE_GENAI_USE_VERTEXAI=false`, the agents call Gemini through Google AI Studio, and the `gemini-api-key` secret is passed as `GOOGLE_API_KEY`. The review tool always uses Vertex AI RAG Engine through `agent-sa`.
+- `TRACE_TO_CLOUD=true` (default) exports agent traces to Cloud Trace, and `ADK_CAPTURE_MESSAGE_CONTENT_IN_SPANS=false` (default) keeps conversation text out of them. `METRICS_TO_CLOUD=true` (default) exports token-usage and latency metrics to Cloud Monitoring. Override any of them in `.env`.
 - `--timeout 3600`, so long agent runs can stream over SSE.
 
 #### 3. Deploy the frontend (public)
@@ -541,3 +544,149 @@ Reference - <https://adk.dev/deploy/cloud-run/> · <https://cloud.google.com/run
    Other scripts: `npm test` (unit tests), `npm run typecheck`, `npm run build && npm start` (production build on :8080).
 
 The ADK developer UI is still available locally for debugging: `adk web .` from the repo root, then pick the `agents` app.
+
+Tracing and metrics are off locally by default. To send local runs to Cloud Trace or Cloud Monitoring, run `gcloud auth application-default login` first, then start the backend with `TRACE_TO_CLOUD=true` and/or `METRICS_TO_CLOUD=true`. Without Application Default Credentials the backend fails at startup when either is on. Local metrics take their region from `REGION` and report as `job="doctor-appointment-api-local"`, so they stay out of the dashboard.
+
+## Phase 10 -- Observability (Cloud Trace, Cloud Monitoring and logs)
+
+The deployed backend sends three kinds of telemetry:
+
+- **Traces** ([Cloud Trace](https://cloud.google.com/trace/docs)): one trace per chat message, showing each agent step, LLM call and tool call with timings and token counts. Use these to look at one conversation.
+- **Metrics** ([Cloud Monitoring](https://cloud.google.com/monitoring/docs)): ADK's GenAI metrics, aggregated into totals, averages and percentiles: token usage, LLM latency per response, agent, tool and turn latency. A dashboard shows them (see [Metrics and dashboard](#metrics-and-dashboard)).
+- **Logs** (Cloud Logging): all three Cloud Run services send their logs automatically.
+
+### How it is wired
+
+- [backend/main.py](backend/main.py) passes `trace_to_cloud=TRACE_TO_CLOUD` to ADK's `get_fast_api_app`. ADK then adds a Cloud Trace exporter (`opentelemetry-exporter-gcp-trace`, listed in [backend/requirements.txt](backend/requirements.txt)) for project `GOOGLE_CLOUD_PROJECT`.
+- With `METRICS_TO_CLOUD=true`, the same file installs an OpenTelemetry meter provider before the app is built. It uses the OTLP/HTTP exporter (`opentelemetry-exporter-otlp-proto-http`) to send ADK's metrics to the Telemetry API (`telemetry.googleapis.com`), which stores them in Cloud Monitoring. `opentelemetry-resourcedetector-gcp` labels the metrics with the Cloud Run service, region and instance.
+- `FlushTelemetryMiddleware` in the same file exports telemetry before each response's last chunk. Cloud Run throttles CPU as soon as a response ends, so without this the exporters' background threads never run and nothing arrives. Spans are flushed on every response. Metrics are flushed at most every `METRICS_FLUSH_INTERVAL_S` seconds (default 10), because Cloud Monitoring rejects points for the same series written less than 5 s apart. The metric reader's own background export is turned off for the same reason. Metric values are cumulative, so a skipped flush loses nothing; the next one carries the totals. Both are flushed again when Cloud Run shuts the instance down. This keeps request-based billing; the alternative would be `--no-cpu-throttling`, which bills idle instance time.
+- With tracing on, the backend defaults `OTEL_TRACES_SAMPLER` to `always_on`. Cloud Run adds a `traceparent` header to every request, usually marked "not sampled". OpenTelemetry's default sampler follows that parent, which would drop every agent span. Because the agent spans continue Cloud Run's trace ID, they appear in the same trace as Cloud Run's own request span.
+- [deploy/setup_gcp.sh](deploy/setup_gcp.sh) enables the Cloud Trace, Cloud Monitoring, Telemetry, Logging and Resource Manager APIs, and grants `agent-sa` the `roles/cloudtrace.agent` and `roles/monitoring.metricWriter` roles. ADK looks the project up through the Resource Manager API at startup; without it, ADK logs a "Failed to look up the project's other identifier" warning.
+- [deploy/deploy_backend.sh](deploy/deploy_backend.sh) sets `TRACE_TO_CLOUD=true`, `METRICS_TO_CLOUD=true` and `ADK_CAPTURE_MESSAGE_CONTENT_IN_SPANS=false` on the service.
+- [deploy/setup_monitoring.sh](deploy/setup_monitoring.sh) creates the `consultations_started` log-based metric and the dashboard.
+
+| Setting | Default on Cloud Run | Effect |
+|---|---|---|
+| `TRACE_TO_CLOUD` | `true` | Export agent spans to Cloud Trace |
+| `METRICS_TO_CLOUD` | `true` | Export ADK metrics to Cloud Monitoring |
+| `METRICS_FLUSH_INTERVAL_S` | `10` | Minimum seconds between metric exports (never below 5.5) |
+| `ADK_CAPTURE_MESSAGE_CONTENT_IN_SPANS` | `false` | Add prompts and model responses to spans. Off by default because conversations contain health needs and locations; anyone with Cloud Trace access could read them. |
+| `OTEL_TRACES_SAMPLER` | `always_on` (set by `backend/main.py`) | Which messages are traced. With heavy traffic, set e.g. `OTEL_TRACES_SAMPLER=traceidratio` and `OTEL_TRACES_SAMPLER_ARG=0.1` to keep 10%. Cloud Trace bills by spans ingested; a chat message produces roughly 10–30 spans. |
+
+To change any of these, add it to `.env` and run `bash deploy/deploy_backend.sh` again.
+
+### Metrics and dashboard
+
+Create (or update) the dashboard once the backend is deployed:
+
+```bash
+bash deploy/setup_monitoring.sh
+```
+
+It prints the dashboard URL. You can also find it under Monitoring → Dashboards → **Doctor Appointment Scheduler - Agents and LLM**. The definition is [deploy/monitoring/dashboard.json](deploy/monitoring/dashboard.json); edit it and re-run the script to change the dashboard.
+
+| Tile | What it shows |
+|---|---|
+| Consultations (24h) | New consultations: one per ADK session, i.e. each **New consultation** in the UI once its first message is sent |
+| Total tokens (24h), Tokens by type, Tokens by agent | Input and output tokens across all Gemini calls, and which agent used them |
+| Avg tokens per consultation (24h) | Total tokens ÷ consultations |
+| LLM calls (24h) | Number of Gemini calls |
+| Avg / p95 LLM latency, Avg LLM latency per response by agent, LLM latency percentiles | Latency of each Gemini response (`generate_content` call) |
+| Chat message (turn) latency | Time from a user message to the final reply (average and p95) |
+| Avg tool latency by tool | `find-doctors`, `compute_routes`, `query_doctor_reviews`, calendar tools, … |
+| Input tokens served from cache (%) | Share of input tokens Gemini served from its implicit cache (billed at a lower rate) |
+| Avg LLM calls per agent turn | How many Gemini calls each agent makes per turn |
+
+Scorecards cover the last 24 hours. Charts follow the dashboard's time range.
+
+**Sources:**
+
+- **ADK metrics** (in Cloud Monitoring as `prometheus.googleapis.com/gen_ai.*`):
+
+  | Metric | Measures | Split by |
+  |---|---|---|
+  | `gen_ai.client.token.usage` | Tokens per Gemini call (histogram) | `gen_ai.agent.name`, `gen_ai.token.type` (input / output), model |
+  | `gen_ai.client.operation.duration` | Seconds per Gemini call (histogram) | agent, model |
+  | `gen_ai.invoke_workflow.duration` | Seconds per chat message (histogram) | |
+  | `gen_ai.invoke_agent.duration` | Seconds per agent turn (histogram) | agent |
+  | `gen_ai.execute_tool.duration` | Seconds per tool call (histogram) | agent, `gen_ai.tool.name` |
+  | `gen_ai.invoke_agent.inference_calls`, `gen_ai.invoke_agent.tool_calls` | Model and tool calls per agent turn (histogram) | agent |
+  | `gen_ai.client.inference.usage.input_tokens`, `.output_tokens`, `.reasoning.output_tokens`, `.cache_read.input_tokens` | Token counters | model |
+
+- **`consultations_started`:** a log-based counter matching ADK's `New session created` log line in `doctor-appointment-api`. It only counts from when it was created; there is no backfill.
+
+The dashboard queries use PromQL. Metric names contain dots, so they are quoted, and the `job` label is the Cloud Run service name. Histograms expose `_sum`, `_count` and `_bucket` series:
+
+```promql
+# Total tokens in the last 24 h
+sum(increase({"gen_ai.client.token.usage_sum", job="doctor-appointment-api"}[1d]))
+
+# Average LLM latency per response, by agent
+sum by ("gen_ai.agent.name") (increase({"gen_ai.client.operation.duration_sum", job="doctor-appointment-api"}[1h]))
+  / sum by ("gen_ai.agent.name") (increase({"gen_ai.client.operation.duration_count", job="doctor-appointment-api"}[1h]))
+```
+
+Run your own queries in Monitoring → Metrics Explorer → PromQL, or use these for alerting policies, e.g. p95 LLM latency above 10 s, or daily tokens over a budget.
+
+**Limits:**
+
+- Metrics aren't split by session ID, since a series per conversation would be expensive. For one conversation's tokens and latency, use its trace (below).
+- The review tool's own Gemini call (inside `query_doctor_reviews`) runs through the Vertex AI SDK, not ADK. Its tokens aren't counted; its time is in the tool's latency.
+- Percentiles are estimated from histogram buckets, so p95 is approximate.
+
+### What a trace contains
+
+One trace per chat message (one ADK invocation):
+
+| Span | What it shows | Useful attributes |
+|---|---|---|
+| `invoke_workflow root_agent` | The whole turn | `gen_ai.conversation.id` (the ADK session ID) |
+| `invoke_agent <agent>` | Time spent in each agent (`root_agent`, `doctor_matcher`, `doctor_rag_agent`, `scheduler_agent`) | `gen_ai.agent.name`, `gen_ai.conversation.id` |
+| `generate_content <model>` | One Gemini call | `gen_ai.usage.input_tokens`, `gen_ai.usage.output_tokens`, `gen_ai.usage.reasoning.output_tokens`, `gen_ai.usage.cache_read.input_tokens` (input tokens served from Gemini's implicit cache, billed at a lower rate), `gen_ai.request.model`, `gen_ai.agent.name`, `gen_ai.conversation.id` |
+| `execute_tool <tool>` | One tool call, such as `find-doctors`, `compute_routes`, `query_doctor_reviews` or `transfer_to_agent` | `gen_ai.tool.name` |
+| `MCP ...` | Calls to the MCP servers (Toolbox, Maps, Composio) | |
+
+The review tool's own Gemini call (in [rag_tool.py](agents/tools/rag_tool/rag_tool.py), made through the Vertex AI SDK) is not a `generate_content` span. Its time is in the `execute_tool query_doctor_reviews` span, but its tokens are not counted.
+
+### View traces
+
+1. Open [Trace Explorer](https://console.cloud.google.com/traces/explorer) in project `doctor-appointment-1234`.
+2. Filter by span name, e.g. `generate_content`, or by attribute, e.g. `gen_ai.conversation.id` = a session ID, to see one conversation's calls.
+3. Open a trace for the waterfall view of the turn.
+
+To find a conversation's session ID, open the app in the browser and check DevTools → Application → Local Storage → `careconnect.sessionId` (`careconnect.userId` holds the user ID).
+
+You can also start from a log entry. Each Cloud Run request log entry has a `trace` field, and Logs Explorer links it to the trace. Traces can take a minute or two to appear in Trace Explorer searches; opening a trace by its ID works sooner.
+
+The backend logs `First trace flush: ok=True in …` once after each deploy. That line confirms the export works. A `Trace flush did not finish within 10s` warning means spans may be delayed or lost.
+
+### Token usage per conversation without Cloud Trace
+
+Every model reply stored in the session (Cloud SQL `adk_sessions`) has a `usageMetadata` field (`promptTokenCount`, `candidatesTokenCount`, `thoughtsTokenCount`, `totalTokenCount`) and a `modelVersion`. Fetch the session from the private backend:
+
+```bash
+U=$(gcloud run services describe doctor-appointment-api --region $REGION --project $GOOGLE_CLOUD_PROJECT --format 'value(status.url)')
+T=$(gcloud auth print-identity-token)
+curl -s -H "Authorization: Bearer $T" "$U/apps/agents/users/<userId>/sessions/<sessionId>"
+```
+
+`GET $U/apps/agents/users/<userId>/sessions` lists a user's sessions.
+
+### Logs
+
+Cloud Run sends each service's stdout/stderr and an HTTP request log to Cloud Logging. Open a service in the Cloud Run console and use the **Logs** tab, or query them:
+
+```bash
+# Backend errors from the last day
+gcloud logging read 'resource.type=cloud_run_revision AND resource.labels.service_name=doctor-appointment-api AND severity>=ERROR' \
+  --project $GOOGLE_CLOUD_PROJECT --freshness=1d
+
+# Request log: method, URL, status and latency
+gcloud logging read 'resource.type=cloud_run_revision AND resource.labels.service_name=doctor-appointment-api AND log_id("run.googleapis.com/requests")' \
+  --project $GOOGLE_CLOUD_PROJECT --limit=20 \
+  --format='table(timestamp,httpRequest.requestMethod,httpRequest.requestUrl,httpRequest.status,httpRequest.latency)'
+```
+
+Change `service_name` to `doctor-appointment-web` or `toolbox` for the other services. The backend logs at `LOG_LEVEL` (default `INFO`). Python tracebacks are plain text, so each traceback line is a separate log entry.
+
+References - <https://adk.dev/integrations/cloud-trace/> · <https://cloud.google.com/trace/docs/trace-explorer>

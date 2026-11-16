@@ -1,0 +1,341 @@
+{
+  "displayName": "Doctor Appointment Scheduler - Agents and LLM",
+  "labels": {
+    "doctor-appointment": ""
+  },
+  "mosaicLayout": {
+    "columns": 48,
+    "tiles": [
+      {
+        "xPos": 0,
+        "yPos": 0,
+        "width": 48,
+        "height": 4,
+        "widget": {
+          "text": {
+            "format": "MARKDOWN",
+            "content": "**Scorecards cover the last 24 hours; charts follow the dashboard time range.** Sources: ADK OpenTelemetry metrics from the `__SERVICE__` Cloud Run service, and the `consultations_started` log-based metric (one per new ADK session, i.e. each \"New consultation\" that sends a message). Per-conversation detail is in Cloud Trace (filter `gen_ai.conversation.id`). The review tool's internal Gemini call is not included in token counts."
+          }
+        }
+      },
+      {
+        "xPos": 0,
+        "yPos": 4,
+        "width": 8,
+        "height": 8,
+        "widget": {
+          "title": "Consultations (24h)",
+          "scorecard": {
+            "timeSeriesQuery": {
+              "prometheusQuery": "sum(increase(logging_googleapis_com:user_consultations_started{service_name=\"__SERVICE__\"}[1d]))"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 8,
+        "yPos": 4,
+        "width": 8,
+        "height": 8,
+        "widget": {
+          "title": "Total tokens (24h)",
+          "scorecard": {
+            "timeSeriesQuery": {
+              "prometheusQuery": "sum(increase({\"gen_ai.client.token.usage_sum\", job=\"__SERVICE__\"}[1d]))"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 16,
+        "yPos": 4,
+        "width": 8,
+        "height": 8,
+        "widget": {
+          "title": "Avg tokens per consultation (24h)",
+          "scorecard": {
+            "timeSeriesQuery": {
+              "prometheusQuery": "sum(increase({\"gen_ai.client.token.usage_sum\", job=\"__SERVICE__\"}[1d])) / sum(increase(logging_googleapis_com:user_consultations_started{service_name=\"__SERVICE__\"}[1d]))"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 24,
+        "yPos": 4,
+        "width": 8,
+        "height": 8,
+        "widget": {
+          "title": "LLM calls (24h)",
+          "scorecard": {
+            "timeSeriesQuery": {
+              "prometheusQuery": "sum(increase({\"gen_ai.client.operation.duration_count\", job=\"__SERVICE__\"}[1d]))"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 32,
+        "yPos": 4,
+        "width": 8,
+        "height": 8,
+        "widget": {
+          "title": "Avg LLM latency (24h, s)",
+          "scorecard": {
+            "timeSeriesQuery": {
+              "prometheusQuery": "sum(increase({\"gen_ai.client.operation.duration_sum\", job=\"__SERVICE__\"}[1d])) / sum(increase({\"gen_ai.client.operation.duration_count\", job=\"__SERVICE__\"}[1d]))",
+              "unitOverride": "s"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 40,
+        "yPos": 4,
+        "width": 8,
+        "height": 8,
+        "widget": {
+          "title": "p95 LLM latency (24h, s)",
+          "scorecard": {
+            "timeSeriesQuery": {
+              "prometheusQuery": "histogram_quantile(0.95, sum by (le) (increase({\"gen_ai.client.operation.duration_bucket\", job=\"__SERVICE__\"}[1d])))",
+              "unitOverride": "s"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 0,
+        "yPos": 12,
+        "width": 24,
+        "height": 16,
+        "widget": {
+          "title": "Tokens by type (input / output)",
+          "xyChart": {
+            "dataSets": [
+              {
+                "plotType": "STACKED_BAR",
+                "timeSeriesQuery": {
+                  "prometheusQuery": "sum by (\"gen_ai.token.type\") (increase({\"gen_ai.client.token.usage_sum\", job=\"__SERVICE__\"}[${__interval}]))"
+                }
+              }
+            ],
+            "yAxis": {
+              "label": "tokens",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 24,
+        "yPos": 12,
+        "width": 24,
+        "height": 16,
+        "widget": {
+          "title": "Tokens by agent",
+          "xyChart": {
+            "dataSets": [
+              {
+                "plotType": "STACKED_BAR",
+                "timeSeriesQuery": {
+                  "prometheusQuery": "sum by (\"gen_ai.agent.name\") (increase({\"gen_ai.client.token.usage_sum\", job=\"__SERVICE__\"}[${__interval}]))"
+                }
+              }
+            ],
+            "yAxis": {
+              "label": "tokens",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 0,
+        "yPos": 28,
+        "width": 24,
+        "height": 16,
+        "widget": {
+          "title": "Avg LLM latency per response, by agent (s)",
+          "xyChart": {
+            "dataSets": [
+              {
+                "plotType": "LINE",
+                "timeSeriesQuery": {
+                  "prometheusQuery": "sum by (\"gen_ai.agent.name\") (increase({\"gen_ai.client.operation.duration_sum\", job=\"__SERVICE__\"}[${__interval}])) / sum by (\"gen_ai.agent.name\") (increase({\"gen_ai.client.operation.duration_count\", job=\"__SERVICE__\"}[${__interval}]))",
+                  "unitOverride": "s"
+                }
+              }
+            ],
+            "yAxis": {
+              "label": "seconds",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 24,
+        "yPos": 28,
+        "width": 24,
+        "height": 16,
+        "widget": {
+          "title": "LLM latency percentiles, all agents (s)",
+          "xyChart": {
+            "dataSets": [
+              {
+                "plotType": "LINE",
+                "legendTemplate": "p50",
+                "timeSeriesQuery": {
+                  "prometheusQuery": "histogram_quantile(0.5, sum by (le) (increase({\"gen_ai.client.operation.duration_bucket\", job=\"__SERVICE__\"}[${__interval}])))",
+                  "unitOverride": "s"
+                }
+              },
+              {
+                "plotType": "LINE",
+                "legendTemplate": "p95",
+                "timeSeriesQuery": {
+                  "prometheusQuery": "histogram_quantile(0.95, sum by (le) (increase({\"gen_ai.client.operation.duration_bucket\", job=\"__SERVICE__\"}[${__interval}])))",
+                  "unitOverride": "s"
+                }
+              }
+            ],
+            "yAxis": {
+              "label": "seconds",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 0,
+        "yPos": 44,
+        "width": 24,
+        "height": 16,
+        "widget": {
+          "title": "Chat message (turn) latency (s)",
+          "xyChart": {
+            "dataSets": [
+              {
+                "plotType": "LINE",
+                "legendTemplate": "average",
+                "timeSeriesQuery": {
+                  "prometheusQuery": "sum(increase({\"gen_ai.invoke_workflow.duration_sum\", job=\"__SERVICE__\"}[${__interval}])) / sum(increase({\"gen_ai.invoke_workflow.duration_count\", job=\"__SERVICE__\"}[${__interval}]))",
+                  "unitOverride": "s"
+                }
+              },
+              {
+                "plotType": "LINE",
+                "legendTemplate": "p95",
+                "timeSeriesQuery": {
+                  "prometheusQuery": "histogram_quantile(0.95, sum by (le) (increase({\"gen_ai.invoke_workflow.duration_bucket\", job=\"__SERVICE__\"}[${__interval}])))",
+                  "unitOverride": "s"
+                }
+              }
+            ],
+            "yAxis": {
+              "label": "seconds",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 24,
+        "yPos": 44,
+        "width": 24,
+        "height": 16,
+        "widget": {
+          "title": "Avg tool latency by tool (s)",
+          "xyChart": {
+            "dataSets": [
+              {
+                "plotType": "LINE",
+                "timeSeriesQuery": {
+                  "prometheusQuery": "sum by (\"gen_ai.tool.name\") (increase({\"gen_ai.execute_tool.duration_sum\", job=\"__SERVICE__\"}[${__interval}])) / sum by (\"gen_ai.tool.name\") (increase({\"gen_ai.execute_tool.duration_count\", job=\"__SERVICE__\"}[${__interval}]))",
+                  "unitOverride": "s"
+                }
+              }
+            ],
+            "yAxis": {
+              "label": "seconds",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 0,
+        "yPos": 60,
+        "width": 16,
+        "height": 16,
+        "widget": {
+          "title": "Consultations started",
+          "xyChart": {
+            "dataSets": [
+              {
+                "plotType": "STACKED_BAR",
+                "legendTemplate": "consultations",
+                "timeSeriesQuery": {
+                  "prometheusQuery": "sum(increase(logging_googleapis_com:user_consultations_started{service_name=\"__SERVICE__\"}[${__interval}]))"
+                }
+              }
+            ],
+            "yAxis": {
+              "label": "consultations",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 16,
+        "yPos": 60,
+        "width": 16,
+        "height": 16,
+        "widget": {
+          "title": "Input tokens served from cache (%)",
+          "xyChart": {
+            "dataSets": [
+              {
+                "plotType": "LINE",
+                "legendTemplate": "cached share",
+                "timeSeriesQuery": {
+                  "prometheusQuery": "100 * sum(increase({\"gen_ai.client.inference.usage.cache_read.input_tokens\", job=\"__SERVICE__\"}[${__interval}])) / sum(increase({\"gen_ai.client.inference.usage.input_tokens\", job=\"__SERVICE__\"}[${__interval}]))",
+                  "unitOverride": "%"
+                }
+              }
+            ],
+            "yAxis": {
+              "label": "%",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      },
+      {
+        "xPos": 32,
+        "yPos": 60,
+        "width": 16,
+        "height": 16,
+        "widget": {
+          "title": "Avg LLM calls per agent turn",
+          "xyChart": {
+            "dataSets": [
+              {
+                "plotType": "LINE",
+                "timeSeriesQuery": {
+                  "prometheusQuery": "sum by (\"gen_ai.agent.name\") (increase({\"gen_ai.invoke_agent.inference_calls_sum\", job=\"__SERVICE__\"}[${__interval}])) / sum by (\"gen_ai.agent.name\") (increase({\"gen_ai.invoke_agent.inference_calls_count\", job=\"__SERVICE__\"}[${__interval}]))"
+                }
+              }
+            ],
+            "yAxis": {
+              "label": "calls",
+              "scale": "LINEAR"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

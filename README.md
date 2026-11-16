@@ -68,7 +68,7 @@ This project uses a modular Google Cloud and MCP-first architecture so each part
 
 - Google ADK for multi-agent orchestration and delegation
 - Gemini 3.5 Flash for conversational reasoning and task coordination
-- Vertex AI for model access and agentic AI integration
+- Google AI Studio (Gemini API) for the agents' model calls, or Vertex AI with `GOOGLE_GENAI_USE_VERTEXAI=true`
 - Vertex AI RAG Engine for grounded retrieval over doctor review data
 - `text-embedding-005` for review document embeddings
 - Google Cloud SQL for structured doctor, clinic, and availability data
@@ -80,6 +80,8 @@ This project uses a modular Google Cloud and MCP-first architecture so each part
 - React + TypeScript + Vite + Tailwind CSS for the patient-facing UI, served by a small Express backend-for-frontend
 - Cloud Run for both services: a public frontend and a private backend, linked by service-to-service ID-token auth
 - Cloud SQL (MySQL) for persistent ADK chat sessions, and Secret Manager for API keys and the DB password
+- Cloud Trace (via ADK's OpenTelemetry spans) and Cloud Logging for tracing every agent step, LLM call, tool call and token count
+- Cloud Monitoring (ADK's GenAI metrics via the Telemetry API) for a dashboard of token usage, LLM latency per response, and agent, tool and turn latency
 
 ### Why This Stack
 
@@ -109,16 +111,25 @@ Browser ──▶ doctor-appointment-web  (Cloud Run, public)
                 ├─ Google Maps Grounding Lite MCP
                 ├─ Vertex AI RAG Engine (doctor reviews)
                 ├─ Composio ─▶ Google Calendar
-                └─ ADK sessions ─▶ Cloud SQL database adk_sessions
+                ├─ ADK sessions ─▶ Cloud SQL database adk_sessions
+                └─ OpenTelemetry ─▶ Cloud Trace (spans) · Cloud Monitoring (metrics)
 ```
 
 ```bash
-bash deploy/setup_gcp.sh        # one-time: APIs, sessions DB, secrets, web-sa
+bash deploy/setup_gcp.sh        # one-time: APIs, sessions DB, secrets, web-sa, trace + metrics access
 bash deploy/deploy_backend.sh   # private API service (root Dockerfile)
 bash deploy/deploy_frontend.sh  # public web service (frontend/Dockerfile) + invoker binding
+bash deploy/setup_monitoring.sh # Cloud Monitoring dashboard + consultations metric
 ```
 
 See [Project_Steps.md, Phase 8](Project_Steps.md#phase-8----cloud-run-deployment) for details, and Phase 9 for local development.
+
+### Observability
+
+- **Dashboard (Cloud Monitoring):** *Doctor Appointment Scheduler - Agents and LLM*, created by `deploy/setup_monitoring.sh`. It shows consultations, total tokens (by input/output and by agent), average tokens per consultation, LLM latency per response (average, p50/p95, by agent), chat turn latency, tool latency and the share of cached input tokens. It is built from ADK's OpenTelemetry metrics and a log-based count of new consultations.
+- **Traces (Cloud Trace):** one trace per chat message in [Trace Explorer](https://console.cloud.google.com/traces/explorer), showing each agent handoff, Gemini call (with token counts) and tool call, with timings. Filter on `gen_ai.conversation.id` to see one conversation. Prompts and responses are left out of traces by default because conversations contain health details.
+
+See [Project_Steps.md, Phase 10](Project_Steps.md#phase-10----observability-cloud-trace-cloud-monitoring-and-logs) for how it's wired, settings, the metrics and PromQL queries behind the dashboard, logs, and per-conversation token usage.
 
 ## Installation and Setup
 

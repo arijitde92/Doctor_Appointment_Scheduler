@@ -11,10 +11,11 @@ export interface IntakeInput {
   specialization: string;
   city: string;
   location?: string;
-  preferredDay?: string;
+  /** Preferred weekdays in week order. Empty or all seven means "any day". */
+  preferredDays?: readonly string[];
 }
 
-export function intakePrompt({ specialization, city, location, preferredDay }: IntakeInput): string {
+export function intakePrompt({ specialization, city, location, preferredDays = [] }: IntakeInput): string {
   const lines = [`I'm looking for a ${specialization} doctor in ${city}.`];
   if (location?.trim()) {
     lines.push(
@@ -23,8 +24,15 @@ export function intakePrompt({ specialization, city, location, preferredDay }: I
   } else {
     lines.push("I'd rather not share my location, so please skip distance and travel time.");
   }
-  if (preferredDay) lines.push(`I'd prefer an appointment on a ${preferredDay}.`);
+  if (preferredDays.length > 0 && preferredDays.length < 7) {
+    lines.push(`I'd prefer an appointment on a ${joinWithOr(preferredDays)}.`);
+  }
   return lines.join(" ");
+}
+
+/** ["Monday"] -> "Monday"; ["Monday", "Wednesday", "Friday"] -> "Monday, Wednesday or Friday". */
+function joinWithOr(items: readonly string[]): string {
+  return items.length <= 1 ? (items[0] ?? "") : `${items.slice(0, -1).join(", ")} or ${items[items.length - 1]}`;
 }
 
 export function reviewsPrompt(doctor: Pick<Doctor, "name" | "id">): string {

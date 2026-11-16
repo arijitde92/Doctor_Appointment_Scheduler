@@ -35,6 +35,12 @@ yaml_kv COMPOSIO_USER_ID "$COMPOSIO_USER_ID"
 yaml_kv DB_USER "$DB_USER"
 yaml_kv INSTANCE_CONNECTION_NAME "$INSTANCE_CONNECTION_NAME"
 yaml_kv SESSION_DB_NAME "$SESSION_DB_NAME"
+# Cloud Trace: on by default for the deployed backend. Message content stays
+# out of spans unless ADK_CAPTURE_MESSAGE_CONTENT_IN_SPANS=true in .env.
+yaml_kv TRACE_TO_CLOUD "${TRACE_TO_CLOUD:-true}"
+yaml_kv ADK_CAPTURE_MESSAGE_CONTENT_IN_SPANS "${ADK_CAPTURE_MESSAGE_CONTENT_IN_SPANS:-false}"
+# Cloud Monitoring: ADK token-usage and latency metrics (on by default).
+yaml_kv METRICS_TO_CLOUD "${METRICS_TO_CLOUD:-true}"
 
 SECRETS="DB_PASSWORD=$SECRET_DB_PASSWORD:latest,COMPOSIO_API_KEY=$SECRET_COMPOSIO_API_KEY:latest,MAPS_API_KEY=$SECRET_MAPS_API_KEY:latest"
 # Agents call Gemini through Google AI Studio unless GOOGLE_GENAI_USE_VERTEXAI
