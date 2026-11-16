@@ -216,3 +216,14 @@ toolbox
 agents/root_agent/.adk/
 agents/root_agent/.adk/session.db
 .codex
+
+# Frontend (React / Express BFF)
+frontend/node_modules/
+frontend/dist/
+# Local ADK session store used by backend/main.py when not on Cloud SQL
+.adk_sessions.db
+# The Python "lib/" rule above must not hide the React client library code
+!frontend/src/lib/
+.mcp.json
+
+.vscode/

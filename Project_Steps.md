@@ -4,8 +4,8 @@
 
 ### Create Project
 
-1. Create a GCP Project called "abcd-project" with project id "abcd-project-1234" from <https://console.cloud.google.com>. Add proper billing account.
-2. In glcoud CLI, make sure you are authenticated using `gcloud auth login` and set the project using `gcloud config set project abcd-project-1234`
+1. Create a GCP Project called "doctor-appointment-scheduler" with project id "doctor-appointment-1234" from <https://console.cloud.google.com>. Add proper billing account.
+2. In glcoud CLI, make sure you are authenticated using `gcloud auth login` and set the project using `gcloud config set project doctor-appointment-1234`
 
 ### Enable APIs
 
@@ -25,17 +25,17 @@ compute.googleapis.com
 1. `gcloud iam service-accounts create agent-sa`
 2. Set roles
 
-`gcloud projects add-iam-policy-binding abcd-project-1234 --member="serviceAccount:agent-sa@abcd-project-1234.iam.gserviceaccount.com" --role="roles/aiplatform.user"`
+`gcloud projects add-iam-policy-binding doctor-appointment-1234 --member="serviceAccount:agent-sa@doctor-appointment-1234.iam.gserviceaccount.com" --role="roles/aiplatform.user"`
 
-`gcloud projects add-iam-policy-binding abcd-project-1234 --member="serviceAccount:agent-sa@abcd-project-1234.iam.gserviceaccount.com" --role="roles/cloudsql.client"`
+`gcloud projects add-iam-policy-binding doctor-appointment-1234 --member="serviceAccount:agent-sa@doctor-appointment-1234.iam.gserviceaccount.com" --role="roles/cloudsql.client"`
 
-`gcloud projects add-iam-policy-binding abcd-project-1234 --role="roles/storage.admin" --member="serviceAccount:agent-sa@abcd-project-1234.iam.gserviceaccount.com"`
+`gcloud projects add-iam-policy-binding doctor-appointment-1234 --role="roles/storage.admin" --member="serviceAccount:agent-sa@doctor-appointment-1234.iam.gserviceaccount.com"`
 
-`gcloud projects add-iam-policy-binding abcd-project-1234 --role="roles/run.admin" --member="serviceAccount:agent-sa@abcd-project-1234.iam.gserviceaccount.com"`
+`gcloud projects add-iam-policy-binding doctor-appointment-1234 --role="roles/run.admin" --member="serviceAccount:agent-sa@doctor-appointment-1234.iam.gserviceaccount.com"`
 
 3. Download key
 
-`gcloud iam service-accounts keys create key.json --iam-account=agent-sa@abcd-project-1234.iam.gserviceaccount.com`
+`gcloud iam service-accounts keys create key.json --iam-account=agent-sa@doctor-appointment-1234.iam.gserviceaccount.com`
 
 ## Phase 2 -- GitHub + Project Setup
 
@@ -126,7 +126,7 @@ gcloud command:
 
 ```bash
 gcloud storage buckets add-iam-policy-binding gs://doctor-agent-sql-seed \
-        --member="serviceAccount:agent-sa@abcd-project-1234.iam.gserviceaccount.com" \
+        --member="serviceAccount:agent-sa@doctor-appointment-1234.iam.gserviceaccount.com" \
         --role="roles/storage.objectAdmin"
 ```
 
@@ -392,7 +392,7 @@ References
 gcloud secrets create tools-yaml --data-file=agents/tools/cloudsql_mcp/tools.yaml
 ```
 
-### Add Secret Accesor Permission to Service Account
+### Add Secret Accessor Permission to Service Account
 ```bash
 export PROJECT_ID=$(gcloud config get-value project)
 
@@ -401,7 +401,7 @@ gcloud projects add-iam-policy-binding $PROJECT_ID \
   --role="roles/secretmanager.secretAccessor"
 ```
 
-### Deplpy Toolbox to Cloud Run using official Toolbox Image
+### Deploy Toolbox to Cloud Run using official Toolbox Image
 ```bash
 # Load variables again just in case
 set -a
@@ -414,7 +414,7 @@ gcloud run deploy toolbox \
   --image $IMAGE \
   --service-account "agent-sa@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com" \
   --region $REGION \
-  --set-secrets "/app/tools.yaml=tools:latest" \
+  --set-secrets "/app/tools.yaml=tools-yaml:latest" \
   --set-env-vars="GOOGLE_CLOUD_PROJECT=${GOOGLE_CLOUD_PROJECT},REGION=${REGION},DB_USER=${DB_USER},DB_PASSWORD=${DB_PASSWORD}" \
   --args="--config=/app/tools.yaml","--address=0.0.0.0","--port=8080" \
   --allow-unauthenticated
@@ -426,20 +426,118 @@ In my case it is <https://toolbox-173427564927.asia-south1.run.app>
 
 Reference - <https://mcp-toolbox.dev/documentation/deploy-to/cloud-run/>
 
-### Deploy Agent to Cloud Run
-```bash
-export GOOGLE_CLOUD_PROJECT=$(gcloud config get-value project)
-export GOOGLE_CLOUD_LOCATION="asia-south1"
-export AGENT_PATH="agents"
-export SERVICE_NAME="doctor-appointment-app"
-export APP_NAME="Doctor_Appointment_Scheduler"
+### Deploy the App to Cloud Run (backend + frontend)
 
-PYTHONPATH=. adk deploy cloud_run \
-  --project=$GOOGLE_CLOUD_PROJECT \
-  --region=$GOOGLE_CLOUD_LOCATION \
-  --service_name=$SERVICE_NAME \
-  --app_name=$APP_NAME \
-  --with_ui \
-  $AGENT_PATH \
-  -- --env-vars-file=.env
+The app runs as **two Cloud Run services**:
+
+| Service | What it runs | Access |
+|---|---|---|
+| `doctor-appointment-api` | [backend/main.py](backend/main.py): FastAPI + Google ADK API server (no dev UI). Sessions are stored in Cloud SQL. | **Private** (`--no-allow-unauthenticated`) |
+| `doctor-appointment-web` | [frontend/](frontend): React UI + a small Express server that serves it and proxies `/api/*` to the backend with a Google ID token. | Public |
+
+```text
+Browser ──▶ doctor-appointment-web (public)
+              Express BFF: /api/sessions, /api/chat (SSE)  ── ID token (web-sa) ──▶
+            doctor-appointment-api (private, agent-sa)
+              ADK agents ──▶ Toolbox (Cloud SQL) · Maps MCP · Vertex AI RAG · Composio Calendar
+              ADK sessions ──▶ Cloud SQL doctor-db / adk_sessions (unix socket)
 ```
+
+The browser can only reach three narrow endpoints on the frontend, never the ADK API directly. The backend accepts requests only from the frontend's service account (`roles/run.invoker`).
+
+All deploy scripts read the `.env` file described in Phase 4. Make sure it also contains:
+
+```text
+TOOLBOX_URL=<URL of the toolbox Cloud Run service deployed above>
+RAG_CORPUS_RESOURCE_NAME=<corpus resource name printed in Phase 5>
+GCS_REVIEWS_BUCKET_URI=<gs:// URI of the reviews>
+```
+
+The scripts pass `--project` explicitly using `GOOGLE_CLOUD_PROJECT`, so they don't depend on your active `gcloud config` project.
+
+#### 1. One-time setup
+
+```bash
+bash deploy/setup_gcp.sh
+```
+
+[setup_gcp.sh](deploy/setup_gcp.sh) does the following, and is safe to re-run:
+
+- Enables the Cloud Run, Cloud Build, Artifact Registry, Secret Manager and Cloud SQL Admin APIs.
+- Creates the `adk_sessions` database on the `doctor-db` instance. ADK creates its session tables on first use. `DB_USER` must have privileges on this database.
+- Stores `DB_PASSWORD`, `COMPOSIO_API_KEY` and `MAPS_API_KEY` in Secret Manager (`db-password`, `composio-api-key`, `maps-api-key`) and grants `agent-sa` access to them.
+- Creates the frontend service account `web-sa`, which has no project roles.
+
+#### 2. Deploy the backend (private)
+
+```bash
+bash deploy/deploy_backend.sh
+```
+
+[deploy_backend.sh](deploy/deploy_backend.sh) builds the root [Dockerfile](Dockerfile) with Cloud Build (`gcloud run deploy --source .`) and deploys it with these settings:
+
+- `--service-account agent-sa@...` (Vertex AI, Cloud SQL client and Secret Manager access)
+- `--no-allow-unauthenticated`
+- `--add-cloudsql-instances PROJECT:REGION:doctor-db`. `backend/main.py` connects to `adk_sessions` through `/cloudsql/...` with `mysql+aiomysql`.
+- Non-secret configuration through `--env-vars-file`, a YAML file generated from `.env`. Secrets come from `--set-secrets`.
+- `--timeout 3600`, so long agent runs can stream over SSE.
+
+#### 3. Deploy the frontend (public)
+
+```bash
+bash deploy/deploy_frontend.sh
+```
+
+[deploy_frontend.sh](deploy/deploy_frontend.sh) works in three steps:
+
+1. It looks up the backend URL.
+2. It grants `web-sa` the `roles/run.invoker` role on the backend.
+3. It deploys [frontend/Dockerfile](frontend/Dockerfile) with `BACKEND_URL` and `ADK_APP_NAME=agents`.
+
+The Express server mints and refreshes the ID token automatically with `google-auth-library`.
+
+#### 4. Verify
+
+```bash
+# The backend must reject unauthenticated calls (expect 403)
+curl -s -o /dev/null -w "%{http_code}
+" "$(gcloud run services describe doctor-appointment-api --region $REGION --format 'value(status.url)')/list-apps"
+
+# The frontend is public
+gcloud run services describe doctor-appointment-web --region $REGION --format 'value(status.url)'
+```
+
+Open the frontend URL and go through the full flow: search, reviews, open slots and booking. Reload the page mid-conversation. The chat is restored from Cloud SQL.
+
+#### 5. Retire the old ADK dev-UI service (optional)
+
+The earlier `adk deploy cloud_run --with_ui` service is no longer needed once the new services are verified:
+
+```bash
+gcloud run services delete doctor-appointment-app --region $REGION
+```
+
+Reference - <https://adk.dev/deploy/cloud-run/> · <https://cloud.google.com/run/docs/authenticating/service-to-service>
+
+## Phase 9 -- Local Development
+
+1. **Toolbox**: either run `./toolbox --tools-file agents/tools/cloudsql_mcp/tools.yaml` locally (`TOOLBOX_URL=http://127.0.0.1:5000`) or point `TOOLBOX_URL` at the deployed toolbox.
+2. **Backend** (from the repo root, with the venv active and `gcloud auth application-default login` done):
+
+   ```bash
+   pip install -r requirements.txt
+   uvicorn backend.main:app --port 8000
+   ```
+
+   Without `INSTANCE_CONNECTION_NAME` or `SESSION_SERVICE_URI`, sessions are stored in a local SQLite file (`.adk_sessions.db`).
+3. **Frontend** (Node 22+):
+
+   ```bash
+   cd frontend
+   npm install
+   npm run dev          # Vite on http://localhost:5173 + Express BFF on :8080 -> backend :8000
+   ```
+
+   Other scripts: `npm test` (unit tests), `npm run typecheck`, `npm run build && npm start` (production build on :8080).
+
+The ADK developer UI is still available locally for debugging: `adk web .` from the repo root, then pick the `agents` app.

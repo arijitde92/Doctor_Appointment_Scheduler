@@ -184,7 +184,7 @@ Follow this general flow, but be flexible based on what the user needs:
 """
 
 root_agent = Agent(
-    model="gemini-2.5-flash",
+    model="gemini-3.5-flash",
     name="root_agent",
     description=ROOT_AGENT_DESCRIPTION,
     instruction=ROOT_AGENT_INSTRUCTION,

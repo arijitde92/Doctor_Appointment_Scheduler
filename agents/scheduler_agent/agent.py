@@ -97,7 +97,7 @@ for creating an event, then use COMPOSIO_MULTI_EXECUTE_TOOL to execute it.
 """
 
 root_agent = Agent(
-    model="gemini-2.5-flash",
+    model="gemini-3.5-flash",
     name="scheduler_agent",
     description=SCHEDULER_DESCRIPTION,
     instruction=SCHEDULER_INSTRUCTION,

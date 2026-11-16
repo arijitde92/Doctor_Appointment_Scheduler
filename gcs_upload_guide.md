@@ -8,9 +8,10 @@ This guide walks you through uploading every `.txt` review file from `data/revie
 
 | Requirement | Notes |
 |---|---|
+| GCP project | Name `doctor-appointment-scheduler`, ID `doctor-appointment-1234` |
 | `gcloud` CLI installed | [Install guide](https://cloud.google.com/sdk/docs/install) |
 | Authenticated session | `gcloud auth login` |
-| Project set | `gcloud config set project arijit-de-1992` |
+| Project set | `gcloud config set project doctor-appointment-1234` |
 | Billing enabled on the project | Required for GCS + Vertex AI |
 
 ---
@@ -19,12 +20,12 @@ This guide walks you through uploading every `.txt` review file from `data/revie
 
 ```bash
 gcloud auth login
-gcloud config set project arijit-de-1992
+gcloud config set project doctor-appointment-1234
 gcloud config set compute/region asia-south1
 ```
 
 > [!NOTE]
-> Your project is `arijit-de-1992` and preferred region is `asia-south1` (from your `.env`). You can use any region that supports Vertex AI RAG Engine (e.g. `us-central1`, `us-east4`). **The RAG corpus region must match** `GOOGLE_CLOUD_LOCATION` in your `.env`.
+> Your project is `doctor-appointment-scheduler` (ID `doctor-appointment-1234`). The bucket and the RAG corpus live in `asia-south1` (`GOOGLE_CLOUD_LOCATION` in your `.env`). Cloud SQL and Cloud Run use `asia-south2` (`REGION`), but RAG Engine isn't offered there, so keep Vertex AI and the bucket in `asia-south1`. **The RAG corpus region must match** `GOOGLE_CLOUD_LOCATION`.
 
 ---
 
@@ -34,9 +35,9 @@ Pick a globally unique bucket name (bucket names are global across all GCP proje
 
 ```bash
 # Set variables — adjust as needed
-export PROJECT_ID="arijit-de-1992"
+export PROJECT_ID="doctor-appointment-1234"
 export REGION="asia-south1"           # Must match GOOGLE_CLOUD_LOCATION
-export BUCKET_NAME="doctor-reviews-${PROJECT_ID}"   # e.g. doctor-reviews-arijit-de-1992
+export BUCKET_NAME="doctor-reviews-${PROJECT_ID}"   # e.g. doctor-reviews-doctor-appointment-1234
 
 # Create the bucket
 gcloud storage buckets create gs://${BUCKET_NAME} \
@@ -125,13 +126,13 @@ Add the following variables to your `.env` (or `export_env_vars.sh`):
 
 ```bash
 # In .env
-GCS_REVIEWS_BUCKET_URI=gs://doctor-reviews-arijit-de-1992/doctor-reviews/
+GCS_REVIEWS_BUCKET_URI=gs://doctor-reviews-doctor-appointment-1234/doctor-reviews/
 RAG_CORPUS_DISPLAY_NAME=doctor_reviews_corpus
-GOOGLE_CLOUD_LOCATION=us-central1    # Must match the bucket region if using a single-region bucket
+GOOGLE_CLOUD_LOCATION=asia-south1    # Must match the bucket region if using a single-region bucket
 ```
 
 > [!WARNING]
-> `GOOGLE_CLOUD_LOCATION` in your current `.env` is set to `global`. Vertex AI RAG Engine requires a **specific region** (e.g. `us-central1`, `us-east4`, `asia-southeast1`). Update it before running the agent. If you created the bucket in `asia-south1`, use that for `GOOGLE_CLOUD_LOCATION` as well — provided Vertex AI RAG Engine is available there. Check the [supported regions](https://cloud.google.com/vertex-ai/generative-ai/docs/rag-engine/rag-overview#supported-regions).
+> Vertex AI RAG Engine requires a **specific region**, not `global`. For this project use `asia-south1`, the same region as the bucket. Don't use `asia-south2` (the Cloud SQL / Cloud Run region), because RAG Engine isn't available there. Check the [supported regions](https://cloud.google.com/vertex-ai/generative-ai/docs/rag-engine/rag-overview#supported-regions).
 
 ---
 
@@ -146,7 +147,7 @@ Copy the printed resource name and add it to `.env` so future restarts skip the 
 
 ```bash
 # Example value printed by the agent:
-RAG_CORPUS_RESOURCE_NAME=projects/arijit-de-1992/locations/us-central1/ragCorpora/1234567890
+RAG_CORPUS_RESOURCE_NAME=projects/doctor-appointment-1234/locations/asia-south1/ragCorpora/1234567890
 ```
 
 ---
@@ -154,8 +155,8 @@ RAG_CORPUS_RESOURCE_NAME=projects/arijit-de-1992/locations/us-central1/ragCorpor
 ## Quick Reference — All commands in order
 
 ```bash
-export PROJECT_ID="arijit-de-1992"
-export REGION="us-central1"
+export PROJECT_ID="doctor-appointment-1234"
+export REGION="asia-south1"
 export BUCKET_NAME="doctor-reviews-${PROJECT_ID}"
 
 # 1. Auth + project setup
@@ -195,5 +196,5 @@ adk run agents/doctor_rag_agent
 |---|---|---|
 | `403 Forbidden` on bucket creation | Missing `storage.buckets.create` IAM role | Run as owner or add `roles/storage.admin` to your account |
 | `PERMISSION_DENIED` on RAG import | Vertex AI SA missing bucket access | Re-run Step 6 |
-| `InvalidArgument: location` | Wrong/unsupported region for RAG Engine | Use `us-central1` or `us-east4` |
+| `InvalidArgument: location` | Wrong/unsupported region for RAG Engine | Set `GOOGLE_CLOUD_LOCATION=asia-south1` (not `global` or `asia-south2`) |
 | Corpus already exists error | Re-running without `RAG_CORPUS_RESOURCE_NAME` | Set the env var from the printed corpus name |

@@ -1,10 +1,3 @@
-google-adk
-google-cloud-aiplatform
-fastapi
-uvicorn
-uv
-toolbox-adk
-toolbox-core
-python-dotenv
-composio
-composio_google_adk
+# Local development: agents + backend API (FastAPI/ADK, DB session drivers).
+# See backend/requirements.txt and agents/requirements.txt.
+-r backend/requirements.txt

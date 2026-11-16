@@ -166,7 +166,7 @@ These tools connect to Google Maps Platform via MCP:
 """
 
 root_agent = Agent(
-    model="gemini-2.5-flash",
+    model="gemini-3.5-flash",
     name="doctor_matcher",
     description=DOCTOR_MATCHER_DESCRIPTION,
     instruction=DOCTOR_MATCHER_INSTRUCTION,

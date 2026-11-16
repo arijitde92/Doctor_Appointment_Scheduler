@@ -37,10 +37,11 @@ logger = logging.getLogger(__name__)
 # ─────────────────────────────────────────────────────────────────────────────
 # Configuration from environment
 # ─────────────────────────────────────────────────────────────────────────────
-PROJECT_ID = os.environ.get("GOOGLE_CLOUD_PROJECT", "arijit-de-1992")
+PROJECT_ID = os.environ.get("GOOGLE_CLOUD_PROJECT", "doctor-appointment-1234")
 LOCATION = os.environ.get("GOOGLE_CLOUD_LOCATION", "asia-south1")
 GCS_BUCKET_URI = os.environ.get(
-    "GCS_REVIEWS_BUCKET_URI", "gs://doctor-reviews-arijit-de-1992/doctor-reviews/"
+    "GCS_REVIEWS_BUCKET_URI",
+    "gs://doctor-reviews-doctor-appointment-1234/doctor-reviews/",
 )
 CORPUS_DISPLAY_NAME = os.environ.get(
     "RAG_CORPUS_DISPLAY_NAME", "doctor_reviews_corpus"
@@ -153,7 +154,7 @@ def build_rag_model() -> GenerativeModel:
     )
 
     model = GenerativeModel(
-        model_name="gemini-2.5-flash",
+        model_name="gemini-3.5-flash",
         tools=[rag_retrieval_tool],
         system_instruction=(
             "You are a helpful medical information assistant. "

@@ -1,0 +1,139 @@
+@import "tailwindcss";
+
+/* ── Design tokens ─────────────────────────────────────────────────────────
+   Clinical teal as the brand colour, sky as a secondary accent, on a soft,
+   cool off-white canvas. Status colours: emerald = available/confirmed,
+   amber = pending, rose = error, slate = booked/neutral. */
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-display: "Plus Jakarta Sans", "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  --color-canvas: #f4f7f9;
+  --color-brand-50: #f0fdfa;
+  --color-brand-100: #ccfbf1;
+  --color-brand-200: #99f6e4;
+  --color-brand-300: #5eead4;
+  --color-brand-400: #2dd4bf;
+  --color-brand-500: #14b8a6;
+  --color-brand-600: #0d9488;
+  --color-brand-700: #0f766e;
+  --color-brand-800: #115e59;
+  --color-brand-900: #134e4a;
+  --color-ink: #0f1d2b;
+
+  --shadow-card: 0 1px 2px rgb(15 29 43 / 0.04), 0 4px 16px -4px rgb(15 29 43 / 0.08);
+  --shadow-pop: 0 12px 40px -8px rgb(15 29 43 / 0.25);
+
+  --animate-fade-in: fade-in 220ms ease-out both;
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(4px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+}
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+  body {
+    @apply bg-canvas font-sans text-ink antialiased;
+  }
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-brand-600;
+  }
+  button:not(:disabled),
+  [role="button"]:not([aria-disabled="true"]) {
+    cursor: pointer;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Thin, unobtrusive scrollbars inside panels */
+.panel-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(148 163 184 / 0.5) transparent;
+}
+
+/* ── Markdown inside assistant messages ──────────────────────────────────── */
+.chat-md {
+  @apply text-[0.9375rem] leading-relaxed text-slate-700;
+}
+.chat-md > * + * {
+  @apply mt-3;
+}
+.chat-md h1,
+.chat-md h2,
+.chat-md h3,
+.chat-md h4 {
+  @apply font-display font-semibold text-ink;
+}
+.chat-md h1 {
+  @apply text-lg;
+}
+.chat-md h2 {
+  @apply text-base;
+}
+.chat-md h3,
+.chat-md h4 {
+  @apply text-[0.9375rem];
+}
+.chat-md strong {
+  @apply font-semibold text-ink;
+}
+.chat-md a {
+  @apply font-medium text-brand-700 underline decoration-brand-300 underline-offset-2 hover:decoration-brand-700;
+}
+.chat-md ul {
+  @apply list-disc space-y-1 pl-5 marker:text-brand-500;
+}
+.chat-md ol {
+  @apply list-decimal space-y-1 pl-5 marker:font-semibold marker:text-brand-700;
+}
+.chat-md li > ul,
+.chat-md li > ol {
+  @apply mt-1;
+}
+.chat-md code {
+  @apply rounded bg-slate-100 px-1 py-0.5 text-[0.85em] text-slate-800;
+}
+.chat-md blockquote {
+  @apply border-l-4 border-brand-200 pl-3 text-slate-600 italic;
+}
+.chat-md hr {
+  @apply border-slate-200;
+}
+.chat-md .table-wrap {
+  @apply overflow-x-auto rounded-xl border border-slate-200;
+}
+.chat-md table {
+  @apply w-full border-collapse text-left text-sm;
+}
+.chat-md thead {
+  @apply bg-slate-50;
+}
+.chat-md th {
+  @apply px-3 py-2 text-xs font-semibold tracking-wide whitespace-nowrap text-slate-500 uppercase;
+}
+.chat-md td {
+  @apply border-t border-slate-100 px-3 py-2 align-top;
+}
+.chat-md tbody tr:hover {
+  @apply bg-brand-50/40;
+}

@@ -29,7 +29,7 @@ except ImportError:
 # ADK Agent definition — entry point discovered by the ADK runner
 # ─────────────────────────────────────────────────────────────────────────────
 root_agent = Agent(
-    model="gemini-2.5-flash",
+    model="gemini-3.5-flash",
     name="doctor_rag_agent",
     description=(
         "An AI agent that answers questions about doctors by retrieving "

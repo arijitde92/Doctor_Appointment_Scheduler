@@ -1,0 +1,14 @@
+data: {"author":"root_agent","invocationId":"e-inv-1","id":"e30","timestamp":1794808700.1,"content":{"role":"model","parts":[{"functionCall":{"id":"adk-t2","name":"transfer_to_agent","args":{"agent_name":"scheduler_agent"}}}]},"actions":{"stateDelta":{},"artifactDelta":{},"requestedAuthConfigs":{},"requestedToolConfirmations":{}}}
+
+data: {"author":"root_agent","invocationId":"e-inv-1","id":"e31","timestamp":1794808700.1,"content":{"role":"user","parts":[{"functionResponse":{"id":"adk-t2","name":"transfer_to_agent","response":{"result":null}}}]},"actions":{"stateDelta":{},"artifactDelta":{},"requestedAuthConfigs":{},"requestedToolConfirmations":{}}}
+
+data: {"author":"scheduler_agent","invocationId":"e-inv-1","id":"e32","timestamp":1794808700.1,"content":{"role":"model","parts":[{"text":"Let me add this to your calendar.","thought":true},{"functionCall":{"id":"adk-c1","name":"COMPOSIO_SEARCH_TOOLS","args":{"queries":[{"use_case":"create event"}]}}}]},"actions":{"stateDelta":{},"artifactDelta":{},"requestedAuthConfigs":{},"requestedToolConfirmations":{}}}
+
+data: {"author":"scheduler_agent","invocationId":"e-inv-1","id":"e33","timestamp":1794808700.1,"content":{"role":"user","parts":[{"functionResponse":{"id":"adk-c1","name":"COMPOSIO_SEARCH_TOOLS","response":{"content":[{"type":"text","text":"{\"successful\":true}"}],"isError":false}}}]},"actions":{"stateDelta":{},"artifactDelta":{},"requestedAuthConfigs":{},"requestedToolConfirmations":{}}}
+
+data: {"author":"scheduler_agent","invocationId":"e-inv-1","id":"e34","timestamp":1794808700.1,"content":{"role":"model","parts":[{"functionCall":{"id":"adk-c2","name":"COMPOSIO_MULTI_EXECUTE_TOOL","args":{"tools":[{"tool_slug":"GOOGLECALENDAR_CREATE_EVENT"}]}}}]},"actions":{"stateDelta":{},"artifactDelta":{},"requestedAuthConfigs":{},"requestedToolConfirmations":{}}}
+
+data: {"author":"scheduler_agent","invocationId":"e-inv-1","id":"e35","timestamp":1794808700.1,"content":{"role":"user","parts":[{"functionResponse":{"id":"adk-c2","name":"COMPOSIO_MULTI_EXECUTE_TOOL","response":{"content":[{"type":"text","text":"{\"successful\": true, \"data\": {\"results\": [{\"response\": {\"successful\": true, \"data\": {\"htmlLink\": \"https://www.google.com/calendar/event?eid=abc123XYZ\", \"status\": \"confirmed\"}}}]}}"}],"isError":false}}}]},"actions":{"stateDelta":{},"artifactDelta":{},"requestedAuthConfigs":{},"requestedToolConfirmations":{}}}
+
+data: {"author":"scheduler_agent","invocationId":"e-inv-1","id":"e36","timestamp":1794808700.1,"content":{"role":"model","parts":[{"text":"Your appointment with Dr. Priyanka Roy is booked for Monday, 23 Nov 2026 at 11:00 AM."}]},"actions":{"stateDelta":{},"artifactDelta":{},"requestedAuthConfigs":{},"requestedToolConfirmations":{}}}
+

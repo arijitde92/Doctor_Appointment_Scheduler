@@ -1,8 +1,8 @@
 kind: source
 name: doctor-mysql-db
 type: cloud-sql-mysql
-project: arijit-de-1992
-region: asia-south1
+project: ${GOOGLE_CLOUD_PROJECT}
+region: ${REGION}
 instance: doctor-db
 database: doctor_data
 user: ${DB_USER}

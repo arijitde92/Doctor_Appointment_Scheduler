@@ -1,0 +1,5 @@
+# Files excluded from the frontend Cloud Run source upload (gcloud run deploy --source frontend)
+.gcloudignore
+node_modules/
+dist/
+*.local

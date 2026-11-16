@@ -1,0 +1,6 @@
+data: {"author":"doctor_matcher","invocationId":"e-inv-1","id":"e20","timestamp":1794808700.1,"content":{"role":"model","parts":[{"functionCall":{"id":"adk-a1","name":"get-doctor-availability","args":{"doctor_id":33,"clinic_id":2,"day_of_week":"Monday"}}}]},"actions":{"stateDelta":{},"artifactDelta":{},"requestedAuthConfigs":{},"requestedToolConfirmations":{}}}
+
+data: {"author":"doctor_matcher","invocationId":"e-inv-1","id":"e21","timestamp":1794808700.1,"content":{"role":"user","parts":[{"functionResponse":{"id":"adk-a1","name":"get-doctor-availability","response":{"result":"[{\"slot_1\": 1, \"slot_2\": 0, \"slot_3\": 0, \"slot_4\": 1, \"slot_5\": 0, \"slot_6\": 0, \"slot_7\": 1}]"}}}]},"actions":{"stateDelta":{},"artifactDelta":{},"requestedAuthConfigs":{},"requestedToolConfirmations":{}}}
+
+data: {"author":"doctor_matcher","invocationId":"e-inv-1","id":"e22","timestamp":1794808700.1,"content":{"role":"model","parts":[{"text":"Dr. Priyanka Roy has 4 open slots on Monday."}]},"actions":{"stateDelta":{},"artifactDelta":{},"requestedAuthConfigs":{},"requestedToolConfirmations":{}}}
+

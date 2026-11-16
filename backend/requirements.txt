@@ -1,0 +1,14 @@
+# Backend (Cloud Run API service) dependencies.
+# Agent dependencies are shared with the agents package.
+-r ../agents/requirements.txt
+
+# Pinned ADK version this backend was verified against. Extras:
+#   [db]  async SQLAlchemy for DatabaseSessionService (Cloud SQL / SQLite sessions)
+#   [mcp] the `mcp` client used by McpToolset (Maps + Composio Calendar);
+#         it is optional in ADK 2.x and the agents fail to import without it
+google-adk[db,mcp]==2.14.1
+aiomysql
+aiosqlite
+# Required by aiomysql/PyMySQL for MySQL 8 caching_sha2_password auth
+cryptography
+uvicorn[standard]

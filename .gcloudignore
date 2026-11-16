@@ -1,0 +1,26 @@
+# Files excluded from the backend Cloud Run source upload (gcloud run deploy --source .)
+.gcloudignore
+.git
+.gitignore
+.github/
+.vscode/
+.claude/
+
+# Not needed by the backend image
+frontend/
+assets/
+data/
+data_creation_artifacts/
+deploy/
+*.md
+
+# Local/dev artefacts and secrets
+.env
+.env.*
+key.json
+venv/
+.venv/
+**/__pycache__/
+**/.adk/
+.adk_sessions.db
+toolbox
