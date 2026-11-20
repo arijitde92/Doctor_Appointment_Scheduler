@@ -1,0 +1,59 @@
+Doctor: Dr. Amanda Silva
+Doctor ID: 644
+Specialization: Pathology
+Gender: Female
+Years of experience: 12
+City: Rio de Janeiro, Brazil
+Clinics: Centro Médico Ipanema Sul (clinic ID 86); Policlínica Barra Saúde (clinic ID 87)
+
+Review 1 for Dr. Amanda Silva, Pathology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Policlínica Barra Saúde
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Quick appointment and a fair price in Rio de Janeiro, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Amanda Silva, Pathology, Rio de Janeiro
+Rating: 9/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: She was upfront about what could and could not be treated, and did not oversell any option. The molecular test results were presented with a clear explanation of what they meant and what they did not.
+
+Review 3 for Dr. Amanda Silva, Pathology, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Policlínica Barra Saúde
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Amanda Silva, Pathology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Policlínica Barra Saúde
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Amanda Silva, Pathology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Dr. Amanda Silva was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Amanda Silva, Pathology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Policlínica Barra Saúde
+Description: Good bedside manner from Dr. Amanda Silva, but the parking near Policlínica Barra Saúde is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Amanda Silva, Pathology, Rio de Janeiro
+Rating: 5/10
+Clinic visited: Policlínica Barra Saúde
+Description: Helpful in clarifying a borderline result, though Dr. Amanda Silva gave little guidance about whether to repeat it. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Amanda Silva, Pathology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Amanda Silva answered my questions kindly, though the call back took three days. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Amanda Silva, Pathology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Amanda Silva, Pathology, Rio de Janeiro
+Rating: 5/10
+Clinic visited: Policlínica Barra Saúde
+Description: The blood draw was painless, but the waiting area at Policlínica Barra Saúde was crowded in the early morning. I liked the advice I got from Dr. Amanda Silva, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Amanda Silva, Pathology, Rio de Janeiro: 6.60/10 from 10 reviews

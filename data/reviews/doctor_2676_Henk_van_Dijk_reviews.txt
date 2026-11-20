@@ -1,0 +1,64 @@
+Doctor: Dr. Henk van Dijk
+Doctor ID: 2676
+Specialization: Neurology
+Gender: Male
+Years of experience: 4
+City: Utrecht, Netherlands
+Clinics: Medisch Centrum Oudegracht (clinic ID 350); Huisartsenpraktijk Lombok (clinic ID 351); Polikliniek Wittevrouwen (clinic ID 353)
+
+Review 1 for Dr. Henk van Dijk, Neurology, Utrecht
+Rating: 8/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 2 for Dr. Henk van Dijk, Neurology, Utrecht
+Rating: 9/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: He was upfront about what could and could not be treated, and did not oversell any option. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Henk van Dijk, Neurology, Utrecht
+Rating: 9/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: I always leave Dr. Henk van Dijk's office with a short written summary of changes, which helps my family keep up.
+
+Review 4 for Dr. Henk van Dijk, Neurology, Utrecht
+Rating: 8/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: The EEG appointment ran on time, and Dr. Henk van Dijk reviewed the tracing with me the same week. The waiting room at Medisch Centrum Oudegracht was clean, quiet and comfortable, with enough seating and water available.
+
+Review 5 for Dr. Henk van Dijk, Neurology, Utrecht
+Rating: 6/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Henk van Dijk, Neurology, Utrecht
+Rating: 8/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. I felt listened to about my numb hands, and the nerve conduction test was done promptly at Polikliniek Wittevrouwen. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Henk van Dijk, Neurology, Utrecht
+Rating: 9/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: Prescriptions from Dr. Henk van Dijk were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 8 for Dr. Henk van Dijk, Neurology, Utrecht
+Rating: 9/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Henk van Dijk felt well organized from start to finish. He patiently explained my MRI findings and calmed my worries about memory problems.
+
+Review 9 for Dr. Henk van Dijk, Neurology, Utrecht
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: The neurological exam by Dr. Henk van Dijk was thorough, with every reflex test and gait check explained as it happened.
+
+Review 10 for Dr. Henk van Dijk, Neurology, Utrecht
+Rating: 6/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 11 for Dr. Henk van Dijk, Neurology, Utrecht
+Rating: 7/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: I liked the advice I got from Dr. Henk van Dijk, but I would have liked more time to ask follow-up questions before the visit ended. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Henk van Dijk, Neurology, Utrecht: 7.91/10 from 11 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Samar Abdel Rahman
+Doctor ID: 5849
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 2
+City: Alexandria, Egypt
+Clinics: Roushdy Medical Centre (clinic ID 756); San Stefano Care Polyclinic (clinic ID 757)
+
+Review 1 for Dr. Samar Abdel Rahman, Gastroenterology, Alexandria
+Rating: 9/10
+Clinic visited: Roushdy Medical Centre
+Description: Dr. Samar Abdel Rahman took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards.
+
+Review 2 for Dr. Samar Abdel Rahman, Gastroenterology, Alexandria
+Rating: 7/10
+Clinic visited: Roushdy Medical Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Samar Abdel Rahman, Gastroenterology, Alexandria
+Rating: 8/10
+Clinic visited: Roushdy Medical Centre
+Description: Helpful dietitian referral from Dr. Samar Abdel Rahman and written guidance for living with ulcerative colitis.
+
+Review 4 for Dr. Samar Abdel Rahman, Gastroenterology, Alexandria
+Rating: 9/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Samar Abdel Rahman, Gastroenterology, Alexandria
+Rating: 9/10
+Clinic visited: Roushdy Medical Centre
+Description: I get regular check-ups for my Crohn's disease, and Dr. Samar Abdel Rahman adjusts my treatment carefully and always explains why. The nurse was friendly and efficient, and the whole visit with Dr. Samar Abdel Rahman felt well organized from start to finish.
+
+Review 6 for Dr. Samar Abdel Rahman, Gastroenterology, Alexandria
+Rating: 8/10
+Clinic visited: Roushdy Medical Centre
+Description: A gentle, respectful manner from Dr. Samar Abdel Rahman made a very awkward exam bearable, with every step explained before it happened. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Samar Abdel Rahman, Gastroenterology, Alexandria
+Rating: 7/10
+Clinic visited: Roushdy Medical Centre
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 8 for Dr. Samar Abdel Rahman, Gastroenterology, Alexandria
+Rating: 7/10
+Clinic visited: San Stefano Care Polyclinic
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Samar Abdel Rahman, Gastroenterology, Alexandria
+Rating: 10/10
+Clinic visited: San Stefano Care Polyclinic
+Description: The receptionist at San Stefano Care Polyclinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 10 for Dr. Samar Abdel Rahman, Gastroenterology, Alexandria
+Rating: 7/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Samar Abdel Rahman, Gastroenterology, Alexandria: 8.10/10 from 10 reviews

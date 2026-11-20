@@ -1,0 +1,49 @@
+Doctor: Dr. Magdalena Kowalska
+Doctor ID: 2865
+Specialization: General
+Gender: Female
+Years of experience: 25
+City: Wroclaw, Poland
+Clinics: Gabinety Lekarskie Borek (clinic ID 374)
+
+Review 1 for Dr. Magdalena Kowalska, General, Wroclaw
+Rating: 4/10
+Clinic visited: Gabinety Lekarskie Borek
+Description: I came in about worsening headaches and was told to drink more water and relax, with no examination at all. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Review 2 for Dr. Magdalena Kowalska, General, Wroclaw
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Borek
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I went in with months of tiredness, and Dr. Magdalena Kowalska ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 3 for Dr. Magdalena Kowalska, General, Wroclaw
+Rating: 10/10
+Clinic visited: Gabinety Lekarskie Borek
+Description: Booking online at Gabinety Lekarskie Borek was simple, and I got a confirmation text with clear directions and a reminder the day before. She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 4 for Dr. Magdalena Kowalska, General, Wroclaw
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Borek
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 5 for Dr. Magdalena Kowalska, General, Wroclaw
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Borek
+Description: As a new patient in Wroclaw, I felt welcomed at Gabinety Lekarskie Borek, and my whole history was reviewed in one relaxed visit. Prescriptions from Dr. Magdalena Kowalska were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 6 for Dr. Magdalena Kowalska, General, Wroclaw
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Borek
+Description: Managing my type 2 diabetes with Dr. Magdalena Kowalska has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 7 for Dr. Magdalena Kowalska, General, Wroclaw
+Rating: 6/10
+Clinic visited: Gabinety Lekarskie Borek
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Magdalena Kowalska, General, Wroclaw
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Borek
+Description: The receptionist at Gabinety Lekarskie Borek remembered my name and had my forms ready, so check-in took less than a minute.
+
+Overall rating for Dr. Magdalena Kowalska, General, Wroclaw: 7.50/10 from 8 reviews

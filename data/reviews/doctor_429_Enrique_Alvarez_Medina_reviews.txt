@@ -1,0 +1,49 @@
+Doctor: Dr. Enrique Álvarez Medina
+Doctor ID: 429
+Specialization: Neurology
+Gender: Male
+Years of experience: 11
+City: Guadalajara, Mexico
+Clinics: Policlínica Minerva (clinic ID 59)
+
+Review 1 for Dr. Enrique Álvarez Medina, Neurology, Guadalajara
+Rating: 7/10
+Clinic visited: Policlínica Minerva
+Description: I got what I needed, but the next available appointment was three weeks away. Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 2 for Dr. Enrique Álvarez Medina, Neurology, Guadalajara
+Rating: 8/10
+Clinic visited: Policlínica Minerva
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. He patiently explained my MRI findings and calmed my worries about memory problems.
+
+Review 3 for Dr. Enrique Álvarez Medina, Neurology, Guadalajara
+Rating: 8/10
+Clinic visited: Policlínica Minerva
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. I asked about the cost before the visit and received an honest estimate that matched the final bill. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Enrique Álvarez Medina, Neurology, Guadalajara
+Rating: 6/10
+Clinic visited: Policlínica Minerva
+Description: Dr. Enrique Álvarez Medina explained my results well, although the visit felt short for such a complex condition. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Enrique Álvarez Medina, Neurology, Guadalajara
+Rating: 9/10
+Clinic visited: Policlínica Minerva
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried.
+
+Review 6 for Dr. Enrique Álvarez Medina, Neurology, Guadalajara
+Rating: 5/10
+Clinic visited: Policlínica Minerva
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 7 for Dr. Enrique Álvarez Medina, Neurology, Guadalajara
+Rating: 7/10
+Clinic visited: Policlínica Minerva
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 8 for Dr. Enrique Álvarez Medina, Neurology, Guadalajara
+Rating: 6/10
+Clinic visited: Policlínica Minerva
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Enrique Álvarez Medina, Neurology, Guadalajara: 7.00/10 from 8 reviews

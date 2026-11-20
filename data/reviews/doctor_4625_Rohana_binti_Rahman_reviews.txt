@@ -1,0 +1,69 @@
+Doctor: Dr. Rohana binti Rahman
+Doctor ID: 4625
+Specialization: Pathology
+Gender: Female
+Years of experience: 7
+City: George Town, Malaysia
+Clinics: Klinik Kasih Sayang (clinic ID 597); Bayu Medical Centre (clinic ID 598)
+
+Review 1 for Dr. Rohana binti Rahman, Pathology, George Town
+Rating: 6/10
+Clinic visited: Bayu Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Rohana binti Rahman, Pathology, George Town
+Rating: 6/10
+Clinic visited: Bayu Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 3 for Dr. Rohana binti Rahman, Pathology, George Town
+Rating: 5/10
+Clinic visited: Klinik Kasih Sayang
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 4 for Dr. Rohana binti Rahman, Pathology, George Town
+Rating: 6/10
+Clinic visited: Klinik Kasih Sayang
+Description: Dr. Rohana binti Rahman answered my questions kindly, though the call back took three days. I liked the advice I got from Dr. Rohana binti Rahman, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 5 for Dr. Rohana binti Rahman, Pathology, George Town
+Rating: 6/10
+Clinic visited: Klinik Kasih Sayang
+Description: The blood draw was painless, but the waiting area at Klinik Kasih Sayang was crowded in the early morning.
+
+Review 6 for Dr. Rohana binti Rahman, Pathology, George Town
+Rating: 6/10
+Clinic visited: Klinik Kasih Sayang
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Rohana binti Rahman, Pathology, George Town
+Rating: 8/10
+Clinic visited: Bayu Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. The biopsy report was returned in three days, and Dr. Rohana binti Rahman took time on the phone to explain every term in it.
+
+Review 8 for Dr. Rohana binti Rahman, Pathology, George Town
+Rating: 7/10
+Clinic visited: Klinik Kasih Sayang
+Description: Helpful in clarifying a borderline result, though Dr. Rohana binti Rahman gave little guidance about whether to repeat it. Quick appointment and a fair price in George Town, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 9 for Dr. Rohana binti Rahman, Pathology, George Town
+Rating: 6/10
+Clinic visited: Bayu Medical Centre
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 10 for Dr. Rohana binti Rahman, Pathology, George Town
+Rating: 5/10
+Clinic visited: Bayu Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 11 for Dr. Rohana binti Rahman, Pathology, George Town
+Rating: 5/10
+Clinic visited: Klinik Kasih Sayang
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 12 for Dr. Rohana binti Rahman, Pathology, George Town
+Rating: 6/10
+Clinic visited: Bayu Medical Centre
+Description: Dr. Rohana binti Rahman was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Rohana binti Rahman, Pathology, George Town: 6.00/10 from 12 reviews

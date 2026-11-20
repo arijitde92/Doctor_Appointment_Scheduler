@@ -1,0 +1,49 @@
+Doctor: Dr. Adam Patel
+Doctor ID: 220
+Specialization: General
+Gender: Male
+Years of experience: 12
+City: San Francisco, USA
+Clinics: Golden Gate Family Practice (clinic ID 30); Van Ness Medical Group (clinic ID 31)
+
+Review 1 for Dr. Adam Patel, General, San Francisco
+Rating: 8/10
+Clinic visited: Golden Gate Family Practice
+Description: My blood pressure had crept up and Dr. Adam Patel walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 2 for Dr. Adam Patel, General, San Francisco
+Rating: 9/10
+Clinic visited: Van Ness Medical Group
+Description: Getting to Van Ness Medical Group from across San Francisco was easy, and the same-week appointment saved me an urgent care trip. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Adam Patel, General, San Francisco
+Rating: 9/10
+Clinic visited: Van Ness Medical Group
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Vaccination advice from Dr. Adam Patel for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 4 for Dr. Adam Patel, General, San Francisco
+Rating: 10/10
+Clinic visited: Van Ness Medical Group
+Description: Managing my type 2 diabetes with Dr. Adam Patel has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 5 for Dr. Adam Patel, General, San Francisco
+Rating: 9/10
+Clinic visited: Golden Gate Family Practice
+Description: My annual check-up with Dr. Adam Patel took forty minutes, with every screening explained and nothing rushed.
+
+Review 6 for Dr. Adam Patel, General, San Francisco
+Rating: 10/10
+Clinic visited: Van Ness Medical Group
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 7 for Dr. Adam Patel, General, San Francisco
+Rating: 9/10
+Clinic visited: Van Ness Medical Group
+Description: I always hear back within a day when I leave a question with the nurse at Van Ness Medical Group, and Dr. Adam Patel follows up on lab results personally. A same-day slot was found for me at Van Ness Medical Group when I called with a worrying symptom. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Adam Patel, General, San Francisco
+Rating: 8/10
+Clinic visited: Van Ness Medical Group
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. The waiting room at Van Ness Medical Group was clean, quiet and comfortable, with enough seating and water available.
+
+Overall rating for Dr. Adam Patel, General, San Francisco: 9.00/10 from 8 reviews

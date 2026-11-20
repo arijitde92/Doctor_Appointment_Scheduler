@@ -1,0 +1,49 @@
+Doctor: Dr. Harry Wilson
+Doctor ID: 1177
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 1
+City: Manchester, UK
+Clinics: Hardman Square Polyclinic (clinic ID 153)
+
+Review 1 for Dr. Harry Wilson, Gastroenterology, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 2 for Dr. Harry Wilson, Gastroenterology, Manchester
+Rating: 10/10
+Clinic visited: Hardman Square Polyclinic
+Description: Getting to Hardman Square Polyclinic by public transport in Manchester was easy, and there is a step-free entrance for wheelchairs. The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed.
+
+Review 3 for Dr. Harry Wilson, Gastroenterology, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: Helpful dietitian referral from Dr. Harry Wilson and written guidance for living with ulcerative colitis. Dr. Harry Wilson drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Harry Wilson, Gastroenterology, Manchester
+Rating: 9/10
+Clinic visited: Hardman Square Polyclinic
+Description: Clear explanation from Dr. Harry Wilson of fatty liver and exactly which lifestyle changes would make a measurable difference. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 5 for Dr. Harry Wilson, Gastroenterology, Manchester
+Rating: 10/10
+Clinic visited: Hardman Square Polyclinic
+Description: Dr. Harry Wilson took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Harry Wilson, Gastroenterology, Manchester
+Rating: 9/10
+Clinic visited: Hardman Square Polyclinic
+Description: After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Harry Wilson, Gastroenterology, Manchester
+Rating: 10/10
+Clinic visited: Hardman Square Polyclinic
+Description: He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. The receptionist at Hardman Square Polyclinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 8 for Dr. Harry Wilson, Gastroenterology, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Harry Wilson, Gastroenterology, Manchester: 8.88/10 from 8 reviews

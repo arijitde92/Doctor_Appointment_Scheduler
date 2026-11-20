@@ -1,0 +1,54 @@
+Doctor: Dr. Enrique Ortiz Jiménez
+Doctor ID: 534
+Specialization: General
+Gender: Male
+Years of experience: 1
+City: Puebla, Mexico
+Clinics: Consultorios Médicos Las Ánimas (clinic ID 72); Clínica Familiar San Manuel (clinic ID 73)
+
+Review 1 for Dr. Enrique Ortiz Jiménez, General, Puebla
+Rating: 5/10
+Clinic visited: Consultorios Médicos Las Ánimas
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 2 for Dr. Enrique Ortiz Jiménez, General, Puebla
+Rating: 4/10
+Clinic visited: Clínica Familiar San Manuel
+Description: The waiting room at Clínica Familiar San Manuel was overcrowded and there was nowhere to sit, even for elderly patients. I was sent for a battery of tests that had nothing to do with my complaint and received a surprise bill afterwards.
+
+Review 3 for Dr. Enrique Ortiz Jiménez, General, Puebla
+Rating: 5/10
+Clinic visited: Clínica Familiar San Manuel
+Description: The treatment plan from Dr. Enrique Ortiz Jiménez made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Enrique Ortiz Jiménez, General, Puebla
+Rating: 4/10
+Clinic visited: Clínica Familiar San Manuel
+Description: The staff at Clínica Familiar San Manuel were curt on the phone, and it took four attempts to book a simple follow-up. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 5 for Dr. Enrique Ortiz Jiménez, General, Puebla
+Rating: 4/10
+Clinic visited: Clínica Familiar San Manuel
+Description: My lab results from Clínica Familiar San Manuel were never called in, and I only found them by chasing the front desk three times. The prescription from Dr. Enrique Ortiz Jiménez was not the one we discussed, and I only noticed when I got home. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 6 for Dr. Enrique Ortiz Jiménez, General, Puebla
+Rating: 3/10
+Clinic visited: Consultorios Médicos Las Ánimas
+Description: I felt dismissed by Dr. Enrique Ortiz Jiménez when I brought up a second concern, and was told to book another appointment for it. My persistent fatigue was brushed aside as stress by Dr. Enrique Ortiz Jiménez, and it took a second doctor to find the actual cause.
+
+Review 7 for Dr. Enrique Ortiz Jiménez, General, Puebla
+Rating: 6/10
+Clinic visited: Clínica Familiar San Manuel
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 8 for Dr. Enrique Ortiz Jiménez, General, Puebla
+Rating: 5/10
+Clinic visited: Consultorios Médicos Las Ánimas
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Consultorios Médicos Las Ánimas were inconsistent. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Enrique Ortiz Jiménez, General, Puebla
+Rating: 6/10
+Clinic visited: Consultorios Médicos Las Ánimas
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Enrique Ortiz Jiménez, General, Puebla: 4.67/10 from 9 reviews

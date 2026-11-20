@@ -1,0 +1,59 @@
+Doctor: Dr. To Thanh
+Doctor ID: 5005
+Specialization: Pathology
+Gender: Male
+Years of experience: 15
+City: Hanoi, Vietnam
+Clinics: Phong Kham Gia Dinh Tam Duc (clinic ID 647)
+
+Review 1 for Dr. To Thanh, Pathology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. To Thanh, Pathology, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Dr. To Thanh answered my questions kindly, though the call back took three days.
+
+Review 3 for Dr. To Thanh, Pathology, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Helpful in clarifying a borderline result, though Dr. To Thanh gave little guidance about whether to repeat it.
+
+Review 4 for Dr. To Thanh, Pathology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 5 for Dr. To Thanh, Pathology, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 6 for Dr. To Thanh, Pathology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. To Thanh, Pathology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: The lab at Phong Kham Gia Dinh Tam Duc had a quick, friendly blood draw and the phlebotomist found my vein on the first try. The practice in Hanoi is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. To Thanh, Pathology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. To Thanh, Pathology, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. To Thanh, Pathology, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. To Thanh, Pathology, Hanoi: 6.50/10 from 10 reviews

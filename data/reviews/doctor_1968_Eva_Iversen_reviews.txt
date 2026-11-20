@@ -1,0 +1,54 @@
+Doctor: Dr. Eva Iversen
+Doctor ID: 1968
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 11
+City: Bergen, Norway
+Clinics: Medisinsk Senter Olav Kyrres (clinic ID 257)
+
+Review 1 for Dr. Eva Iversen, Psychiatry, Bergen
+Rating: 5/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 2 for Dr. Eva Iversen, Psychiatry, Bergen
+Rating: 6/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Eva Iversen, Psychiatry, Bergen
+Rating: 7/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Eva Iversen, Psychiatry, Bergen
+Rating: 3/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: I was not told about common side effects by Dr. Eva Iversen, and I had a rough first two weeks that could have been avoided. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 5 for Dr. Eva Iversen, Psychiatry, Bergen
+Rating: 8/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Sensitive questions were handled by Dr. Eva Iversen with discretion and without a hint of judgment. I felt heard by Dr. Eva Iversen during a very hard time, and nobody rushed me out of the room.
+
+Review 6 for Dr. Eva Iversen, Psychiatry, Bergen
+Rating: 6/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Quick appointment and a fair price in Bergen, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Eva Iversen, Psychiatry, Bergen
+Rating: 7/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 8 for Dr. Eva Iversen, Psychiatry, Bergen
+Rating: 6/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Good listener, yet the refill process at Medisinsk Senter Olav Kyrres is slow and requires several phone calls.
+
+Review 9 for Dr. Eva Iversen, Psychiatry, Bergen
+Rating: 8/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Eva Iversen, Psychiatry, Bergen: 6.22/10 from 9 reviews

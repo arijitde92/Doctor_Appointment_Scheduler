@@ -1,0 +1,54 @@
+Doctor: Dr. Anton Solovyov
+Doctor ID: 3748
+Specialization: General
+Gender: Male
+Years of experience: 9
+City: Moscow, Russia
+Clinics: Klinika Beryozka (clinic ID 484)
+
+Review 1 for Dr. Anton Solovyov, General, Moscow
+Rating: 8/10
+Clinic visited: Klinika Beryozka
+Description: My annual check-up with Dr. Anton Solovyov took forty minutes, with every screening explained and nothing rushed. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 2 for Dr. Anton Solovyov, General, Moscow
+Rating: 10/10
+Clinic visited: Klinika Beryozka
+Description: I always hear back within a day when I leave a question with the nurse at Klinika Beryozka, and Dr. Anton Solovyov follows up on lab results personally. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Anton Solovyov, General, Moscow
+Rating: 9/10
+Clinic visited: Klinika Beryozka
+Description: Getting to Klinika Beryozka from across Moscow was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 4 for Dr. Anton Solovyov, General, Moscow
+Rating: 9/10
+Clinic visited: Klinika Beryozka
+Description: As a new patient in Moscow, I felt welcomed at Klinika Beryozka, and my whole history was reviewed in one relaxed visit.
+
+Review 5 for Dr. Anton Solovyov, General, Moscow
+Rating: 10/10
+Clinic visited: Klinika Beryozka
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 6 for Dr. Anton Solovyov, General, Moscow
+Rating: 10/10
+Clinic visited: Klinika Beryozka
+Description: Booking online at Klinika Beryozka was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 7 for Dr. Anton Solovyov, General, Moscow
+Rating: 10/10
+Clinic visited: Klinika Beryozka
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. My blood pressure had crept up and Dr. Anton Solovyov walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 8 for Dr. Anton Solovyov, General, Moscow
+Rating: 10/10
+Clinic visited: Klinika Beryozka
+Description: Managing my type 2 diabetes with Dr. Anton Solovyov has been steady and practical, with quarterly blood sugar reviews and no lectures. The waiting room at Klinika Beryozka was clean, quiet and comfortable, with enough seating and water available. This is the first doctor I have trusted completely in years.
+
+Review 9 for Dr. Anton Solovyov, General, Moscow
+Rating: 9/10
+Clinic visited: Klinika Beryozka
+Description: A translator was arranged for my mother without us asking twice, and Dr. Anton Solovyov spoke directly to her throughout. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Anton Solovyov, General, Moscow: 9.44/10 from 9 reviews

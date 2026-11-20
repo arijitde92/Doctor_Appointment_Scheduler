@@ -1,0 +1,64 @@
+Doctor: Dr. Patricia Hernández Gil
+Doctor ID: 1445
+Specialization: Radiology
+Gender: Female
+Years of experience: 5
+City: Seville, Spain
+Clinics: Clínica Santa Justa (clinic ID 188)
+
+Review 1 for Dr. Patricia Hernández Gil, Radiology, Seville
+Rating: 4/10
+Clinic visited: Clínica Santa Justa
+Description: I waited two weeks for a report from Dr. Patricia Hernández Gil and had to call three times before anyone could tell me the result.
+
+Review 2 for Dr. Patricia Hernández Gil, Radiology, Seville
+Rating: 7/10
+Clinic visited: Clínica Santa Justa
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Patricia Hernández Gil, Radiology, Seville
+Rating: 7/10
+Clinic visited: Clínica Santa Justa
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 4 for Dr. Patricia Hernández Gil, Radiology, Seville
+Rating: 7/10
+Clinic visited: Clínica Santa Justa
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Patricia Hernández Gil, Radiology, Seville
+Rating: 7/10
+Clinic visited: Clínica Santa Justa
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 6 for Dr. Patricia Hernández Gil, Radiology, Seville
+Rating: 9/10
+Clinic visited: Clínica Santa Justa
+Description: Reviewing my X-ray together with Dr. Patricia Hernández Gil on the screen made it much easier to understand my arthritis. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Patricia Hernández Gil, Radiology, Seville
+Rating: 4/10
+Clinic visited: Clínica Santa Justa
+Description: The visit felt rushed, and Dr. Patricia Hernández Gil was already halfway out the door when I started to describe my second symptom. I left disappointed and will take my business to another clinic.
+
+Review 8 for Dr. Patricia Hernández Gil, Radiology, Seville
+Rating: 9/10
+Clinic visited: Clínica Santa Justa
+Description: Dr. Patricia Hernández Gil looked me in the eye, listened to the whole story and only then started typing. The staff at Clínica Santa Justa in Seville explained the contrast dye and its side effects before I signed anything.
+
+Review 9 for Dr. Patricia Hernández Gil, Radiology, Seville
+Rating: 7/10
+Clinic visited: Clínica Santa Justa
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 10 for Dr. Patricia Hernández Gil, Radiology, Seville
+Rating: 8/10
+Clinic visited: Clínica Santa Justa
+Description: The report from Dr. Patricia Hernández Gil was detailed but written so a non-medical person could follow it, with a short summary at the top. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 11 for Dr. Patricia Hernández Gil, Radiology, Seville
+Rating: 7/10
+Clinic visited: Clínica Santa Justa
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Patricia Hernández Gil, Radiology, Seville: 6.91/10 from 11 reviews

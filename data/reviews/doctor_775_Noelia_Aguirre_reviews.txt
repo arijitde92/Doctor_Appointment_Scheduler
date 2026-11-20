@@ -1,0 +1,59 @@
+Doctor: Dr. Noelia Aguirre
+Doctor ID: 775
+Specialization: Cardiology
+Gender: Female
+Years of experience: 7
+City: Cordoba, Argentina
+Clinics: Consultorios Médicos Colón (clinic ID 102)
+
+Review 1 for Dr. Noelia Aguirre, Cardiology, Cordoba
+Rating: 6/10
+Clinic visited: Consultorios Médicos Colón
+Description: Great care in the visit itself, but the billing for the tests at Consultorios Médicos Colón was confusing. Quick appointment and a fair price in Cordoba, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Noelia Aguirre, Cardiology, Cordoba
+Rating: 5/10
+Clinic visited: Consultorios Médicos Colón
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 3 for Dr. Noelia Aguirre, Cardiology, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: I liked the advice I got from Dr. Noelia Aguirre, but I would have liked more time to ask follow-up questions before the visit ended. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Noelia Aguirre, Cardiology, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: Helpful with my cholesterol, Dr. Noelia Aguirre still gave dietary advice that was a little generic. Booking was easy online, but the confirmation email contained the wrong address for Consultorios Médicos Colón.
+
+Review 5 for Dr. Noelia Aguirre, Cardiology, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: I got what I needed, but the next available appointment was three weeks away. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Noelia Aguirre, Cardiology, Cordoba
+Rating: 8/10
+Clinic visited: Consultorios Médicos Colón
+Description: Everything was explained in plain English by Dr. Noelia Aguirre, and nothing was left to guess. Clear and calm advice at Consultorios Médicos Colón about exercise after my stent, including a gradual written schedule. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Noelia Aguirre, Cardiology, Cordoba
+Rating: 6/10
+Clinic visited: Consultorios Médicos Colón
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 8 for Dr. Noelia Aguirre, Cardiology, Cordoba
+Rating: 4/10
+Clinic visited: Consultorios Médicos Colón
+Description: My test results sat on Dr. Noelia Aguirre's desk for two weeks, and I only learned about a medication change when I called the pharmacy. Dr. Noelia Aguirre did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 9 for Dr. Noelia Aguirre, Cardiology, Cordoba
+Rating: 4/10
+Clinic visited: Consultorios Médicos Colón
+Description: Dr. Noelia Aguirre spent most of the appointment looking at the screen and gave very brief answers to my questions. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 10 for Dr. Noelia Aguirre, Cardiology, Cordoba
+Rating: 5/10
+Clinic visited: Consultorios Médicos Colón
+Description: Dr. Noelia Aguirre adjusted my blood pressure medication carefully, though I had to call twice for a refill. The treatment plan from Dr. Noelia Aguirre made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Noelia Aguirre, Cardiology, Cordoba: 5.90/10 from 10 reviews

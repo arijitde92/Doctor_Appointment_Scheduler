@@ -1,0 +1,49 @@
+Doctor: Dr. Duong Tung
+Doctor ID: 5018
+Specialization: Neurology
+Gender: Male
+Years of experience: 2
+City: Hanoi, Vietnam
+Clinics: Phong Kham An Khang Plus (clinic ID 649)
+
+Review 1 for Dr. Duong Tung, Neurology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Duong Tung, Neurology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Duong Tung, Neurology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Getting a same-month appointment in Hanoi for my sudden headaches was a real relief, and the work-up was prompt. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Duong Tung, Neurology, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham An Khang Plus
+Description: I was given a printed summary of the visit, which I shared with my family at home. My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Duong Tung, Neurology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham An Khang Plus
+Description: The EEG appointment ran on time, and Dr. Duong Tung reviewed the tracing with me the same week. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Duong Tung, Neurology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Sensitive questions were handled by Dr. Duong Tung with discretion and without a hint of judgment.
+
+Review 7 for Dr. Duong Tung, Neurology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Getting to Phong Kham An Khang Plus by public transport in Hanoi was easy, and there is a step-free entrance for wheelchairs. The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 8 for Dr. Duong Tung, Neurology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Duong Tung, Neurology, Hanoi: 8.00/10 from 8 reviews

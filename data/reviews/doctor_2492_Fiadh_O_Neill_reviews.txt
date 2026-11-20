@@ -1,0 +1,49 @@
+Doctor: Dr. Fiadh O'Neill
+Doctor ID: 2492
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 30
+City: Galway, Ireland
+Clinics: Eyre Square Health Practice (clinic ID 325)
+
+Review 1 for Dr. Fiadh O'Neill, Psychiatry, Galway
+Rating: 5/10
+Clinic visited: Eyre Square Health Practice
+Description: Dr. Fiadh O'Neill is knowledgeable, though I waited several weeks for my first appointment. Good bedside manner from Dr. Fiadh O'Neill, but the parking near Eyre Square Health Practice is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Fiadh O'Neill, Psychiatry, Galway
+Rating: 8/10
+Clinic visited: Eyre Square Health Practice
+Description: I felt heard by Dr. Fiadh O'Neill during a very hard time, and nobody rushed me out of the room.
+
+Review 3 for Dr. Fiadh O'Neill, Psychiatry, Galway
+Rating: 4/10
+Clinic visited: Eyre Square Health Practice
+Description: I was not told about common side effects by Dr. Fiadh O'Neill, and I had a rough first two weeks that could have been avoided. The staff at Eyre Square Health Practice were curt on the phone, and it took four attempts to book a simple follow-up. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 4 for Dr. Fiadh O'Neill, Psychiatry, Galway
+Rating: 7/10
+Clinic visited: Eyre Square Health Practice
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Fiadh O'Neill, Psychiatry, Galway
+Rating: 8/10
+Clinic visited: Eyre Square Health Practice
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Fiadh O'Neill, Psychiatry, Galway
+Rating: 8/10
+Clinic visited: Eyre Square Health Practice
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 7 for Dr. Fiadh O'Neill, Psychiatry, Galway
+Rating: 7/10
+Clinic visited: Eyre Square Health Practice
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 8 for Dr. Fiadh O'Neill, Psychiatry, Galway
+Rating: 7/10
+Clinic visited: Eyre Square Health Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I like the measured approach, but sometimes I wanted more discussion of non-medication options. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Fiadh O'Neill, Psychiatry, Galway: 6.75/10 from 8 reviews

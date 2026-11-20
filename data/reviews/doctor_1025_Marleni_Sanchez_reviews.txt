@@ -1,0 +1,64 @@
+Doctor: Dr. Marleni Sánchez
+Doctor ID: 1025
+Specialization: Neurology
+Gender: Female
+Years of experience: 22
+City: Trujillo, Peru
+Clinics: Instituto de Salud Víctor Larco (clinic ID 134)
+
+Review 1 for Dr. Marleni Sánchez, Neurology, Trujillo
+Rating: 6/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Marleni Sánchez, Neurology, Trujillo
+Rating: 4/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: I was told my MRI was 'fine' with no further explanation, and I left still not knowing what was causing my symptoms. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 3 for Dr. Marleni Sánchez, Neurology, Trujillo
+Rating: 5/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Marleni Sánchez, Neurology, Trujillo
+Rating: 7/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Helpful visit overall, although I only found out about an extra charge after I had paid. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Marleni Sánchez, Neurology, Trujillo
+Rating: 8/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: She patiently explained my MRI findings and calmed my worries about memory problems. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Marleni Sánchez, Neurology, Trujillo
+Rating: 5/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Marleni Sánchez, Neurology, Trujillo
+Rating: 3/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: I felt dismissed by Dr. Marleni Sánchez when I brought up a second concern, and was told to book another appointment for it. The follow-up call about my test results never happened and I had to track them down myself. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 8 for Dr. Marleni Sánchez, Neurology, Trujillo
+Rating: 7/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Dr. Marleni Sánchez was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 9 for Dr. Marleni Sánchez, Neurology, Trujillo
+Rating: 5/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 10 for Dr. Marleni Sánchez, Neurology, Trujillo
+Rating: 5/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. Marleni Sánchez, Neurology, Trujillo
+Rating: 7/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Marleni Sánchez, Neurology, Trujillo: 5.64/10 from 11 reviews

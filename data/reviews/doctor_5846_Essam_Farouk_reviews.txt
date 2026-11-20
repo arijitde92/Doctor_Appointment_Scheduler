@@ -1,0 +1,64 @@
+Doctor: Dr. Essam Farouk
+Doctor ID: 5846
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 2
+City: Alexandria, Egypt
+Clinics: Smouha Family Health Clinic (clinic ID 755)
+
+Review 1 for Dr. Essam Farouk, Pediatrics, Alexandria
+Rating: 7/10
+Clinic visited: Smouha Family Health Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Essam Farouk, Pediatrics, Alexandria
+Rating: 6/10
+Clinic visited: Smouha Family Health Clinic
+Description: Dr. Essam Farouk was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Essam Farouk, Pediatrics, Alexandria
+Rating: 7/10
+Clinic visited: Smouha Family Health Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Essam Farouk, Pediatrics, Alexandria
+Rating: 7/10
+Clinic visited: Smouha Family Health Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Smouha Family Health Clinic. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Essam Farouk, Pediatrics, Alexandria
+Rating: 7/10
+Clinic visited: Smouha Family Health Clinic
+Description: Caring and gentle with my child, Dr. Essam Farouk nonetheless ran forty minutes behind schedule at most appointments. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Essam Farouk, Pediatrics, Alexandria
+Rating: 7/10
+Clinic visited: Smouha Family Health Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Dr. Essam Farouk is thorough with exams, but the after-hours phone line at Smouha Family Health Clinic is hard to reach.
+
+Review 7 for Dr. Essam Farouk, Pediatrics, Alexandria
+Rating: 7/10
+Clinic visited: Smouha Family Health Clinic
+Description: I liked the advice I got from Dr. Essam Farouk, but I would have liked more time to ask follow-up questions before the visit ended. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 8 for Dr. Essam Farouk, Pediatrics, Alexandria
+Rating: 8/10
+Clinic visited: Smouha Family Health Clinic
+Description: Kind to anxious parents, Dr. Essam Farouk never showed a hint of impatience when I felt silly asking about a rash. A translator was arranged for my mother without us asking twice, and Dr. Essam Farouk spoke directly to her throughout.
+
+Review 9 for Dr. Essam Farouk, Pediatrics, Alexandria
+Rating: 6/10
+Clinic visited: Smouha Family Health Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 10 for Dr. Essam Farouk, Pediatrics, Alexandria
+Rating: 9/10
+Clinic visited: Smouha Family Health Clinic
+Description: The practice in Alexandria is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 11 for Dr. Essam Farouk, Pediatrics, Alexandria
+Rating: 6/10
+Clinic visited: Smouha Family Health Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Essam Farouk, Pediatrics, Alexandria: 7.00/10 from 11 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Thandi Mabaso
+Doctor ID: 5821
+Specialization: Pathology
+Gender: Female
+Years of experience: 14
+City: Pretoria, South Africa
+Clinics: Hatfield Plaza Health Clinic (clinic ID 752); Church Street Care Practice (clinic ID 754)
+
+Review 1 for Dr. Thandi Mabaso, Pathology, Pretoria
+Rating: 6/10
+Clinic visited: Church Street Care Practice
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 2 for Dr. Thandi Mabaso, Pathology, Pretoria
+Rating: 7/10
+Clinic visited: Church Street Care Practice
+Description: Dr. Thandi Mabaso answered my questions kindly, though the call back took three days.
+
+Review 3 for Dr. Thandi Mabaso, Pathology, Pretoria
+Rating: 4/10
+Clinic visited: Church Street Care Practice
+Description: The prescription from Dr. Thandi Mabaso was not the one we discussed, and I only noticed when I got home. The staff were curt and impatient when I asked how to read the reference ranges on my report. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 4 for Dr. Thandi Mabaso, Pathology, Pretoria
+Rating: 7/10
+Clinic visited: Church Street Care Practice
+Description: The blood draw was painless, but the waiting area at Church Street Care Practice was crowded in the early morning. Dr. Thandi Mabaso was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Thandi Mabaso, Pathology, Pretoria
+Rating: 7/10
+Clinic visited: Church Street Care Practice
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 6 for Dr. Thandi Mabaso, Pathology, Pretoria
+Rating: 5/10
+Clinic visited: Church Street Care Practice
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Thandi Mabaso, Pathology, Pretoria
+Rating: 5/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Thandi Mabaso gave little guidance about whether to repeat it.
+
+Review 8 for Dr. Thandi Mabaso, Pathology, Pretoria
+Rating: 6/10
+Clinic visited: Church Street Care Practice
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Dr. Thandi Mabaso was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Thandi Mabaso, Pathology, Pretoria: 5.88/10 from 8 reviews

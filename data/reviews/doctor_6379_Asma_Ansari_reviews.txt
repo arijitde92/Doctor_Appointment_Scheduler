@@ -1,0 +1,49 @@
+Doctor: Dr. Asma Ansari
+Doctor ID: 6379
+Specialization: Pathology
+Gender: Female
+Years of experience: 26
+City: Lahore, Pakistan
+Clinics: Johar Town Sehat Centre (clinic ID 826)
+
+Review 1 for Dr. Asma Ansari, Pathology, Lahore
+Rating: 8/10
+Clinic visited: Johar Town Sehat Centre
+Description: The lab at Johar Town Sehat Centre had a quick, friendly blood draw and the phlebotomist found my vein on the first try. My whole family is switching over after seeing how good the care was.
+
+Review 2 for Dr. Asma Ansari, Pathology, Lahore
+Rating: 5/10
+Clinic visited: Johar Town Sehat Centre
+Description: Dr. Asma Ansari answered my questions kindly, though the call back took three days. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Asma Ansari, Pathology, Lahore
+Rating: 7/10
+Clinic visited: Johar Town Sehat Centre
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 4 for Dr. Asma Ansari, Pathology, Lahore
+Rating: 8/10
+Clinic visited: Johar Town Sehat Centre
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Asma Ansari felt well organized from start to finish.
+
+Review 5 for Dr. Asma Ansari, Pathology, Lahore
+Rating: 10/10
+Clinic visited: Johar Town Sehat Centre
+Description: The receptionist at Johar Town Sehat Centre remembered my name and had my forms ready, so check-in took less than a minute. I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Review 6 for Dr. Asma Ansari, Pathology, Lahore
+Rating: 6/10
+Clinic visited: Johar Town Sehat Centre
+Description: The blood draw was painless, but the waiting area at Johar Town Sehat Centre was crowded in the early morning. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Asma Ansari, Pathology, Lahore
+Rating: 6/10
+Clinic visited: Johar Town Sehat Centre
+Description: Helpful in clarifying a borderline result, though Dr. Asma Ansari gave little guidance about whether to repeat it. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Asma Ansari, Pathology, Lahore
+Rating: 7/10
+Clinic visited: Johar Town Sehat Centre
+Description: I liked the advice I got from Dr. Asma Ansari, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Asma Ansari, Pathology, Lahore: 7.12/10 from 8 reviews

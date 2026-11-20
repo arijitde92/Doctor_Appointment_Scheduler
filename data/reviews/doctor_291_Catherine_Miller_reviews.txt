@@ -1,0 +1,49 @@
+Doctor: Dr. Catherine Miller
+Doctor ID: 291
+Specialization: Radiology
+Gender: Female
+Years of experience: 15
+City: Montreal, Canada
+Clinics: Clinique Médicale du Plateau (clinic ID 40)
+
+Review 1 for Dr. Catherine Miller, Radiology, Montreal
+Rating: 6/10
+Clinic visited: Clinique Médicale du Plateau
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 2 for Dr. Catherine Miller, Radiology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Catherine Miller, Radiology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Booking a CT scan online at Clinique Médicale du Plateau took two minutes, and I was in and out within forty minutes.
+
+Review 4 for Dr. Catherine Miller, Radiology, Montreal
+Rating: 6/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clinique Médicale du Plateau.
+
+Review 5 for Dr. Catherine Miller, Radiology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale du Plateau
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Catherine Miller, Radiology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale du Plateau
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 7 for Dr. Catherine Miller, Radiology, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Getting to Clinique Médicale du Plateau by public transport in Montreal was easy, and there is a step-free entrance for wheelchairs. My ultrasound was unhurried, and Dr. Catherine Miller took time to show me the images and explain what each measurement meant. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Catherine Miller, Radiology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale du Plateau
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Overall rating for Dr. Catherine Miller, Radiology, Montreal: 7.38/10 from 8 reviews

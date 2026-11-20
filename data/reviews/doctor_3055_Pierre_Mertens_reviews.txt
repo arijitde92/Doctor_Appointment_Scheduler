@@ -1,0 +1,49 @@
+Doctor: Dr. Pierre Mertens
+Doctor ID: 3055
+Specialization: Psychology
+Gender: Male
+Years of experience: 6
+City: Antwerp, Belgium
+Clinics: Gezondheidscentrum Berchem (clinic ID 398)
+
+Review 1 for Dr. Pierre Mertens, Psychology, Antwerp
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The first assessment was thorough, but I waited almost three weeks for a follow-up slot.
+
+Review 2 for Dr. Pierre Mertens, Psychology, Antwerp
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 3 for Dr. Pierre Mertens, Psychology, Antwerp
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Pierre Mertens, Psychology, Antwerp
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: Insightful and kind, though progress with Dr. Pierre Mertens felt slow, and I wished for more structured homework between sessions. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 5 for Dr. Pierre Mertens, Psychology, Antwerp
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: Good bedside manner from Dr. Pierre Mertens, but the parking near Gezondheidscentrum Berchem is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Pierre Mertens, Psychology, Antwerp
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: I liked the advice I got from Dr. Pierre Mertens, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Pierre Mertens, Psychology, Antwerp
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: Quick appointment and a fair price in Antwerp, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Pierre Mertens listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 8 for Dr. Pierre Mertens, Psychology, Antwerp
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Pierre Mertens designed around my actual job.
+
+Overall rating for Dr. Pierre Mertens, Psychology, Antwerp: 6.75/10 from 8 reviews

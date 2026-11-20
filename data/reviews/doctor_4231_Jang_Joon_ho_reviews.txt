@@ -1,0 +1,54 @@
+Doctor: Dr. Jang Joon-ho
+Doctor ID: 4231
+Specialization: Radiology
+Gender: Male
+Years of experience: 4
+City: Incheon, South Korea
+Clinics: Songdo Bitna Medical Clinic (clinic ID 545); Bupyeong Hanul Family Clinic (clinic ID 546); Cheongna Dure Medical Clinic (clinic ID 549)
+
+Review 1 for Dr. Jang Joon-ho, Radiology, Incheon
+Rating: 7/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Dr. Jang Joon-ho answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Jang Joon-ho, Radiology, Incheon
+Rating: 7/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Jang Joon-ho, Radiology, Incheon
+Rating: 9/10
+Clinic visited: Bupyeong Hanul Family Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Jang Joon-ho felt well organized from start to finish.
+
+Review 4 for Dr. Jang Joon-ho, Radiology, Incheon
+Rating: 7/10
+Clinic visited: Bupyeong Hanul Family Clinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I liked the advice I got from Dr. Jang Joon-ho, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 5 for Dr. Jang Joon-ho, Radiology, Incheon
+Rating: 6/10
+Clinic visited: Bupyeong Hanul Family Clinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Quick appointment and a fair price in Incheon, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Jang Joon-ho, Radiology, Incheon
+Rating: 6/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: The report from Dr. Jang Joon-ho was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 7 for Dr. Jang Joon-ho, Radiology, Incheon
+Rating: 8/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. Everything was explained in plain English by Dr. Jang Joon-ho, and nothing was left to guess.
+
+Review 8 for Dr. Jang Joon-ho, Radiology, Incheon
+Rating: 9/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Booking a CT scan online at Songdo Bitna Medical Clinic took two minutes, and I was in and out within forty minutes. I asked about the cost before the visit and received an honest estimate that matched the final bill. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Jang Joon-ho, Radiology, Incheon
+Rating: 6/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Jang Joon-ho, Radiology, Incheon: 7.22/10 from 9 reviews

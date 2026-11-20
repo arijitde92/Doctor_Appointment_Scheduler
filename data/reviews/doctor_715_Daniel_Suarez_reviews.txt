@@ -1,0 +1,54 @@
+Doctor: Dr. Daniel Suárez
+Doctor ID: 715
+Specialization: Neurology
+Gender: Male
+Years of experience: 4
+City: Buenos Aires, Argentina
+Clinics: Centro Médico Recoleta Norte (clinic ID 95); Consultorios Médicos Caballito (clinic ID 97)
+
+Review 1 for Dr. Daniel Suárez, Neurology, Buenos Aires
+Rating: 9/10
+Clinic visited: Consultorios Médicos Caballito
+Description: The neurological exam by Dr. Daniel Suárez was thorough, with every reflex test and gait check explained as it happened. Paperwork at Consultorios Médicos Caballito was kept to a minimum, and the staff helped me complete the insurance form. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Daniel Suárez, Neurology, Buenos Aires
+Rating: 6/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 3 for Dr. Daniel Suárez, Neurology, Buenos Aires
+Rating: 7/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. I got what I needed, but the next available appointment was three weeks away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Daniel Suárez, Neurology, Buenos Aires
+Rating: 6/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Daniel Suárez, Neurology, Buenos Aires
+Rating: 7/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Daniel Suárez at Centro Médico Recoleta Norte are difficult to schedule. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Daniel Suárez, Neurology, Buenos Aires
+Rating: 6/10
+Clinic visited: Consultorios Médicos Caballito
+Description: I liked the advice I got from Dr. Daniel Suárez, but I would have liked more time to ask follow-up questions before the visit ended. The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 7 for Dr. Daniel Suárez, Neurology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Dr. Daniel Suárez explained my results well, although the visit felt short for such a complex condition. Quick appointment and a fair price in Buenos Aires, but the staff seemed overwhelmed and a bit curt on the phone. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Daniel Suárez, Neurology, Buenos Aires
+Rating: 7/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Daniel Suárez, Neurology, Buenos Aires
+Rating: 6/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Helpful visit overall, although I only found out about an extra charge after I had paid. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Daniel Suárez, Neurology, Buenos Aires: 6.78/10 from 9 reviews

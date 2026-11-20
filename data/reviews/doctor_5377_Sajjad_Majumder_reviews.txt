@@ -1,0 +1,59 @@
+Doctor: Dr. Sajjad Majumder
+Doctor ID: 5377
+Specialization: Cardiology
+Gender: Male
+Years of experience: 22
+City: Chittagong, Bangladesh
+Clinics: Karnaphuli Family Clinic (clinic ID 695); Panchlaish Health Point (clinic ID 698)
+
+Review 1 for Dr. Sajjad Majumder, Cardiology, Chittagong
+Rating: 6/10
+Clinic visited: Karnaphuli Family Clinic
+Description: Great care in the visit itself, but the billing for the tests at Karnaphuli Family Clinic was confusing. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Sajjad Majumder, Cardiology, Chittagong
+Rating: 6/10
+Clinic visited: Karnaphuli Family Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Dr. Sajjad Majumder was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Sajjad Majumder, Cardiology, Chittagong
+Rating: 7/10
+Clinic visited: Karnaphuli Family Clinic
+Description: Helpful with my cholesterol, Dr. Sajjad Majumder still gave dietary advice that was a little generic. I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Sajjad Majumder, Cardiology, Chittagong
+Rating: 6/10
+Clinic visited: Karnaphuli Family Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Sajjad Majumder adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 5 for Dr. Sajjad Majumder, Cardiology, Chittagong
+Rating: 7/10
+Clinic visited: Panchlaish Health Point
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Helpful visit overall, although I only found out about an extra charge after I had paid. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Sajjad Majumder, Cardiology, Chittagong
+Rating: 6/10
+Clinic visited: Karnaphuli Family Clinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 7 for Dr. Sajjad Majumder, Cardiology, Chittagong
+Rating: 8/10
+Clinic visited: Panchlaish Health Point
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Honest about the risks and benefits of the procedure, Dr. Sajjad Majumder never pressured me toward surgery.
+
+Review 8 for Dr. Sajjad Majumder, Cardiology, Chittagong
+Rating: 9/10
+Clinic visited: Panchlaish Health Point
+Description: My test results arrived in the portal within two days, together with a short note that made sense. My stress test was supervised carefully, and Dr. Sajjad Majumder reviewed the results in the same visit with a plan for my cholesterol. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Sajjad Majumder, Cardiology, Chittagong
+Rating: 4/10
+Clinic visited: Panchlaish Health Point
+Description: I reported chest tightness and was sent home with a leaflet and no ECG. The prescription from Dr. Sajjad Majumder was not the one we discussed, and I only noticed when I got home.
+
+Review 10 for Dr. Sajjad Majumder, Cardiology, Chittagong
+Rating: 7/10
+Clinic visited: Panchlaish Health Point
+Description: Good bedside manner from Dr. Sajjad Majumder, but the parking near Panchlaish Health Point is limited and I had to circle for fifteen minutes. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Overall rating for Dr. Sajjad Majumder, Cardiology, Chittagong: 6.60/10 from 10 reviews

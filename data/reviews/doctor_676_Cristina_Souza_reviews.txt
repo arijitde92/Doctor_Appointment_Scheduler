@@ -1,0 +1,49 @@
+Doctor: Dr. Cristina Souza
+Doctor ID: 676
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 7
+City: Sao Paulo, Brazil
+Clinics: Clínica Vila Madalena Saúde (clinic ID 90); Centro Médico Faria Lima (clinic ID 91); Clínica Santo Amaro Integrada (clinic ID 93)
+
+Review 1 for Dr. Cristina Souza, Pediatrics, Sao Paulo
+Rating: 7/10
+Clinic visited: Centro Médico Faria Lima
+Description: The treatment plan from Dr. Cristina Souza made sense, but I wished it had been written down for me to take away. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 2 for Dr. Cristina Souza, Pediatrics, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: Caring and gentle with my child, Dr. Cristina Souza nonetheless ran forty minutes behind schedule at most appointments. Quick appointment and a fair price in Sao Paulo, but the staff seemed overwhelmed and a bit curt on the phone. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Cristina Souza, Pediatrics, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 4 for Dr. Cristina Souza, Pediatrics, Sao Paulo
+Rating: 4/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: The visit felt rushed, and my worries about my toddler's feeding were waved away as normal. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. I left disappointed and will take my business to another clinic.
+
+Review 5 for Dr. Cristina Souza, Pediatrics, Sao Paulo
+Rating: 8/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: At my visit, Dr. Cristina Souza took notes on my medication list, checked for interactions and explained the changes simply. My teenager actually spoke up during the visit, and Dr. Cristina Souza handled sensitive topics with respect.
+
+Review 6 for Dr. Cristina Souza, Pediatrics, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The telehealth visit was convenient, though the connection dropped twice and we had to restart. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Cristina Souza, Pediatrics, Sao Paulo
+Rating: 8/10
+Clinic visited: Centro Médico Faria Lima
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 8 for Dr. Cristina Souza, Pediatrics, Sao Paulo
+Rating: 8/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. The waiting room in Sao Paulo has a play corner and separate seating for sick children, which I really valued.
+
+Overall rating for Dr. Cristina Souza, Pediatrics, Sao Paulo: 6.62/10 from 8 reviews

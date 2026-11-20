@@ -1,0 +1,49 @@
+Doctor: Dr. Jan Sørensen
+Doctor ID: 2402
+Specialization: Cardiology
+Gender: Male
+Years of experience: 11
+City: Odense, Denmark
+Clinics: Klinik Overgade Plus (clinic ID 314)
+
+Review 1 for Dr. Jan Sørensen, Cardiology, Odense
+Rating: 9/10
+Clinic visited: Klinik Overgade Plus
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. After my palpitations began, Dr. Jan Sørensen arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 2 for Dr. Jan Sørensen, Cardiology, Odense
+Rating: 10/10
+Clinic visited: Klinik Overgade Plus
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 3 for Dr. Jan Sørensen, Cardiology, Odense
+Rating: 6/10
+Clinic visited: Klinik Overgade Plus
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Jan Sørensen, Cardiology, Odense
+Rating: 8/10
+Clinic visited: Klinik Overgade Plus
+Description: My atrial fibrillation is well managed by Dr. Jan Sørensen, and I know exactly what symptoms mean I should call.
+
+Review 5 for Dr. Jan Sørensen, Cardiology, Odense
+Rating: 7/10
+Clinic visited: Klinik Overgade Plus
+Description: Dr. Jan Sørensen adjusted my blood pressure medication carefully, though I had to call twice for a refill. Dr. Jan Sørensen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Jan Sørensen, Cardiology, Odense
+Rating: 8/10
+Clinic visited: Klinik Overgade Plus
+Description: Dr. Jan Sørensen looked me in the eye, listened to the whole story and only then started typing.
+
+Review 7 for Dr. Jan Sørensen, Cardiology, Odense
+Rating: 10/10
+Clinic visited: Klinik Overgade Plus
+Description: A same-day slot was found for me at Klinik Overgade Plus when I called with a worrying symptom. Managing my blood pressure with Dr. Jan Sørensen has been steady and practical, with home readings reviewed at every visit.
+
+Review 8 for Dr. Jan Sørensen, Cardiology, Odense
+Rating: 9/10
+Clinic visited: Klinik Overgade Plus
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Overall rating for Dr. Jan Sørensen, Cardiology, Odense: 8.38/10 from 8 reviews

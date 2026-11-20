@@ -1,0 +1,54 @@
+Doctor: Dr. Rustam Solovyov
+Doctor ID: 3753
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 14
+City: Moscow, Russia
+Clinics: Klinika Beryozka (clinic ID 484)
+
+Review 1 for Dr. Rustam Solovyov, Obstetrics and Gynecology (OB/GYN), Moscow
+Rating: 6/10
+Clinic visited: Klinika Beryozka
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit.
+
+Review 2 for Dr. Rustam Solovyov, Obstetrics and Gynecology (OB/GYN), Moscow
+Rating: 8/10
+Clinic visited: Klinika Beryozka
+Description: Fertility questions were handled with honesty about timelines and realistic options, and I never felt rushed. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Rustam Solovyov, Obstetrics and Gynecology (OB/GYN), Moscow
+Rating: 4/10
+Clinic visited: Klinika Beryozka
+Description: I was left waiting ninety minutes for a routine prenatal check with Dr. Rustam Solovyov, which lasted only a few minutes.
+
+Review 4 for Dr. Rustam Solovyov, Obstetrics and Gynecology (OB/GYN), Moscow
+Rating: 6/10
+Clinic visited: Klinika Beryozka
+Description: A respectful exam, but I wished for more discussion on pain management before my procedure.
+
+Review 5 for Dr. Rustam Solovyov, Obstetrics and Gynecology (OB/GYN), Moscow
+Rating: 7/10
+Clinic visited: Klinika Beryozka
+Description: Dr. Rustam Solovyov was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Rustam Solovyov, Obstetrics and Gynecology (OB/GYN), Moscow
+Rating: 8/10
+Clinic visited: Klinika Beryozka
+Description: The staff made a sensitive appointment feel comfortable, and Dr. Rustam Solovyov respected my questions about my body. A same-day slot was found for me at Klinika Beryozka when I called with a worrying symptom. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Rustam Solovyov, Obstetrics and Gynecology (OB/GYN), Moscow
+Rating: 8/10
+Clinic visited: Klinika Beryozka
+Description: My test results arrived in the portal within two days, together with a short note that made sense. I appreciated being asked what I wanted from my birth experience before any decisions were made. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Rustam Solovyov, Obstetrics and Gynecology (OB/GYN), Moscow
+Rating: 7/10
+Clinic visited: Klinika Beryozka
+Description: Dr. Rustam Solovyov was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Rustam Solovyov, Obstetrics and Gynecology (OB/GYN), Moscow
+Rating: 6/10
+Clinic visited: Klinika Beryozka
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues.
+
+Overall rating for Dr. Rustam Solovyov, Obstetrics and Gynecology (OB/GYN), Moscow: 6.67/10 from 9 reviews

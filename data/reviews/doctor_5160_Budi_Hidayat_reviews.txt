@@ -1,0 +1,49 @@
+Doctor: Dr. Budi Hidayat
+Doctor ID: 5160
+Specialization: Radiology
+Gender: Male
+Years of experience: 16
+City: Jakarta, Indonesia
+Clinics: Klinik Utama Bina Husada (clinic ID 667)
+
+Review 1 for Dr. Budi Hidayat, Radiology, Jakarta
+Rating: 9/10
+Clinic visited: Klinik Utama Bina Husada
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Budi Hidayat sent a clear report within a day.
+
+Review 2 for Dr. Budi Hidayat, Radiology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Utama Bina Husada
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Budi Hidayat, Radiology, Jakarta
+Rating: 10/10
+Clinic visited: Klinik Utama Bina Husada
+Description: Reviewing my X-ray together with Dr. Budi Hidayat on the screen made it much easier to understand my arthritis. The waiting room at Klinik Utama Bina Husada was clean, quiet and comfortable, with enough seating and water available.
+
+Review 4 for Dr. Budi Hidayat, Radiology, Jakarta
+Rating: 9/10
+Clinic visited: Klinik Utama Bina Husada
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 5 for Dr. Budi Hidayat, Radiology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Utama Bina Husada
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. My referral letter was written on the spot, and the specialist's office had my details before I called. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Budi Hidayat, Radiology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Utama Bina Husada
+Description: The report from Dr. Budi Hidayat was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 7 for Dr. Budi Hidayat, Radiology, Jakarta
+Rating: 9/10
+Clinic visited: Klinik Utama Bina Husada
+Description: Dr. Budi Hidayat compared my new scan with last year's and pointed out exactly what had stayed the same. Dr. Budi Hidayat drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 8 for Dr. Budi Hidayat, Radiology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Utama Bina Husada
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Budi Hidayat, Radiology, Jakarta: 8.25/10 from 8 reviews

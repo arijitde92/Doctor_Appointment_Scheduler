@@ -1,0 +1,59 @@
+Doctor: Dr. Barbara Gerber
+Doctor ID: 1756
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 8
+City: Geneva, Switzerland
+Clinics: Centre de Santé Champel Parc (clinic ID 229)
+
+Review 1 for Dr. Barbara Gerber, Orthopedic, Geneva
+Rating: 6/10
+Clinic visited: Centre de Santé Champel Parc
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Barbara Gerber, Orthopedic, Geneva
+Rating: 9/10
+Clinic visited: Centre de Santé Champel Parc
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Follow-up scans were compared with the earlier ones, and Dr. Barbara Gerber showed me how the bone had healed.
+
+Review 3 for Dr. Barbara Gerber, Orthopedic, Geneva
+Rating: 8/10
+Clinic visited: Centre de Santé Champel Parc
+Description: Dr. Barbara Gerber explained my back scan using a model of the spine, and I finally understood my sciatica. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 4 for Dr. Barbara Gerber, Orthopedic, Geneva
+Rating: 6/10
+Clinic visited: Centre de Santé Champel Parc
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Barbara Gerber, Orthopedic, Geneva
+Rating: 8/10
+Clinic visited: Centre de Santé Champel Parc
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. I feel lucky to have found this practice in my area.
+
+Review 6 for Dr. Barbara Gerber, Orthopedic, Geneva
+Rating: 8/10
+Clinic visited: Centre de Santé Champel Parc
+Description: The X-ray was reviewed with me on screen, and she pointed out exactly where the cartilage had worn down. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 7 for Dr. Barbara Gerber, Orthopedic, Geneva
+Rating: 8/10
+Clinic visited: Centre de Santé Champel Parc
+Description: The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule.
+
+Review 8 for Dr. Barbara Gerber, Orthopedic, Geneva
+Rating: 6/10
+Clinic visited: Centre de Santé Champel Parc
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 9 for Dr. Barbara Gerber, Orthopedic, Geneva
+Rating: 9/10
+Clinic visited: Centre de Santé Champel Parc
+Description: Getting around Geneva on crutches was hard, but the accessible entrance and short waiting time at Centre de Santé Champel Parc helped a lot. This is the first doctor I have trusted completely in years.
+
+Review 10 for Dr. Barbara Gerber, Orthopedic, Geneva
+Rating: 8/10
+Clinic visited: Centre de Santé Champel Parc
+Description: My test results arrived in the portal within two days, together with a short note that made sense. I appreciated Dr. Barbara Gerber's honest comparison between injections, therapy and surgery for my hip pain.
+
+Overall rating for Dr. Barbara Gerber, Orthopedic, Geneva: 7.60/10 from 10 reviews

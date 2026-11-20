@@ -1,0 +1,54 @@
+Doctor: Dr. Oleksandr Ivanov
+Doctor ID: 3632
+Specialization: Psychology
+Gender: Male
+Years of experience: 16
+City: Lviv, Ukraine
+Clinics: Klinika Dobryi Likar (clinic ID 469)
+
+Review 1 for Dr. Oleksandr Ivanov, Psychology, Lviv
+Rating: 7/10
+Clinic visited: Klinika Dobryi Likar
+Description: My trauma work felt well paced, although the schedule changed several times at Klinika Dobryi Likar. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Oleksandr Ivanov, Psychology, Lviv
+Rating: 6/10
+Clinic visited: Klinika Dobryi Likar
+Description: Dr. Oleksandr Ivanov listens well, though some sessions felt like a recap of the previous one without much new direction. Good bedside manner from Dr. Oleksandr Ivanov, but the parking near Klinika Dobryi Likar is limited and I had to circle for fifteen minutes. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Oleksandr Ivanov, Psychology, Lviv
+Rating: 9/10
+Clinic visited: Klinika Dobryi Likar
+Description: A same-day slot was found for me at Klinika Dobryi Likar when I called with a worrying symptom.
+
+Review 4 for Dr. Oleksandr Ivanov, Psychology, Lviv
+Rating: 8/10
+Clinic visited: Klinika Dobryi Likar
+Description: Getting to Klinika Dobryi Likar by public transport in Lviv was easy, and there is a step-free entrance for wheelchairs.
+
+Review 5 for Dr. Oleksandr Ivanov, Psychology, Lviv
+Rating: 8/10
+Clinic visited: Klinika Dobryi Likar
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Oleksandr Ivanov gave me practical tools I still use. I felt like a person rather than a case number, and he asked about my life as well as my symptoms. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Oleksandr Ivanov, Psychology, Lviv
+Rating: 9/10
+Clinic visited: Klinika Dobryi Likar
+Description: He has a calm way of asking the difficult questions that makes it feel safe to answer honestly.
+
+Review 7 for Dr. Oleksandr Ivanov, Psychology, Lviv
+Rating: 7/10
+Clinic visited: Klinika Dobryi Likar
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Oleksandr Ivanov, Psychology, Lviv
+Rating: 9/10
+Clinic visited: Klinika Dobryi Likar
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected. Sensitive questions were handled by Dr. Oleksandr Ivanov with discretion and without a hint of judgment.
+
+Review 9 for Dr. Oleksandr Ivanov, Psychology, Lviv
+Rating: 9/10
+Clinic visited: Klinika Dobryi Likar
+Description: The office in Lviv is quiet and private, and the receptionist never mentions anything in front of other patients.
+
+Overall rating for Dr. Oleksandr Ivanov, Psychology, Lviv: 8.00/10 from 9 reviews

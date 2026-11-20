@@ -1,0 +1,64 @@
+Doctor: Dr. Carolina Sosa
+Doctor ID: 728
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 19
+City: Buenos Aires, Argentina
+Clinics: Clínica Belgrano Salud (clinic ID 96); Policlínica Palermo Integral (clinic ID 98)
+
+Review 1 for Dr. Carolina Sosa, Pulmonology, Buenos Aires
+Rating: 8/10
+Clinic visited: Policlínica Palermo Integral
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 2 for Dr. Carolina Sosa, Pulmonology, Buenos Aires
+Rating: 9/10
+Clinic visited: Policlínica Palermo Integral
+Description: Clear, honest answers from Dr. Carolina Sosa about my shortness of breath, and no unnecessary tests were ordered. A translator was arranged for my mother without us asking twice, and Dr. Carolina Sosa spoke directly to her throughout.
+
+Review 3 for Dr. Carolina Sosa, Pulmonology, Buenos Aires
+Rating: 9/10
+Clinic visited: Clínica Belgrano Salud
+Description: I was given a printed summary of the visit, which I shared with my family at home. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Carolina Sosa, Pulmonology, Buenos Aires
+Rating: 10/10
+Clinic visited: Policlínica Palermo Integral
+Description: She called personally with my scan results and walked me through what the findings did and did not mean. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Carolina Sosa, Pulmonology, Buenos Aires
+Rating: 9/10
+Clinic visited: Clínica Belgrano Salud
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 6 for Dr. Carolina Sosa, Pulmonology, Buenos Aires
+Rating: 10/10
+Clinic visited: Clínica Belgrano Salud
+Description: After years of poorly controlled asthma, Dr. Carolina Sosa reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. Dr. Carolina Sosa drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 7 for Dr. Carolina Sosa, Pulmonology, Buenos Aires
+Rating: 10/10
+Clinic visited: Policlínica Palermo Integral
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Carolina Sosa, Pulmonology, Buenos Aires
+Rating: 5/10
+Clinic visited: Clínica Belgrano Salud
+Description: I liked the advice I got from Dr. Carolina Sosa, but I would have liked more time to ask follow-up questions before the visit ended. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 9 for Dr. Carolina Sosa, Pulmonology, Buenos Aires
+Rating: 10/10
+Clinic visited: Policlínica Palermo Integral
+Description: I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 10 for Dr. Carolina Sosa, Pulmonology, Buenos Aires
+Rating: 10/10
+Clinic visited: Clínica Belgrano Salud
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 11 for Dr. Carolina Sosa, Pulmonology, Buenos Aires
+Rating: 8/10
+Clinic visited: Policlínica Palermo Integral
+Description: The spirometry test was explained step by step, and Dr. Carolina Sosa put the results in context with a clear picture of my lung function. The nurse was friendly and efficient, and the whole visit with Dr. Carolina Sosa felt well organized from start to finish.
+
+Overall rating for Dr. Carolina Sosa, Pulmonology, Buenos Aires: 8.91/10 from 11 reviews

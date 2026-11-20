@@ -1,0 +1,59 @@
+Doctor: Dr. Ly Oanh
+Doctor ID: 4986
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 2
+City: Hai Phong, Vietnam
+Clinics: Phong Kham Da Khoa Tuong Lai (clinic ID 644)
+
+Review 1 for Dr. Ly Oanh, Pulmonology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 2 for Dr. Ly Oanh, Pulmonology, Hai Phong
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 3 for Dr. Ly Oanh, Pulmonology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: Good bedside manner from Dr. Ly Oanh, but the parking near Phong Kham Da Khoa Tuong Lai is limited and I had to circle for fifteen minutes. Helpful and honest about my prognosis, Dr. Ly Oanh could still have given me more written material to take home.
+
+Review 4 for Dr. Ly Oanh, Pulmonology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: Pleasant manner and careful lung exam, though the waiting time at Phong Kham Da Khoa Tuong Lai regularly exceeded forty minutes.
+
+Review 5 for Dr. Ly Oanh, Pulmonology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 6 for Dr. Ly Oanh, Pulmonology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. At Phong Kham Da Khoa Tuong Lai, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Ly Oanh, Pulmonology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. Dr. Ly Oanh double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 8 for Dr. Ly Oanh, Pulmonology, Hai Phong
+Rating: 4/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: I was told to just keep using my inhaler and nobody checked whether I was using it properly. I felt dismissed by Dr. Ly Oanh when I brought up a second concern, and was told to book another appointment for it.
+
+Review 9 for Dr. Ly Oanh, Pulmonology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Ly Oanh, Pulmonology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: Dr. Ly Oanh adjusted my asthma medication well, but the breathing test appointment was a month away. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Ly Oanh, Pulmonology, Hai Phong: 6.40/10 from 10 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Patrick Hansen
+Doctor ID: 3304
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 5
+City: Esch-sur-Alzette, Luxembourg
+Clinics: Clinique du Brill (clinic ID 428); Centre de Santé Lallange (clinic ID 429)
+
+Review 1 for Dr. Patrick Hansen, Pulmonology, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Clinique du Brill
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Patrick Hansen, Pulmonology, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Clinique du Brill
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Helpful and honest about my prognosis, Dr. Patrick Hansen could still have given me more written material to take home.
+
+Review 3 for Dr. Patrick Hansen, Pulmonology, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Centre de Santé Lallange
+Description: I came away understanding my condition better than I have in years of previous appointments. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 4 for Dr. Patrick Hansen, Pulmonology, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Clinique du Brill
+Description: Getting to Clinique du Brill by public transport in Esch-sur-Alzette was easy, and there is a step-free entrance for wheelchairs. At Clinique du Brill, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Patrick Hansen, Pulmonology, Esch-sur-Alzette
+Rating: 9/10
+Clinic visited: Clinique du Brill
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Esch-sur-Alzette. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 6 for Dr. Patrick Hansen, Pulmonology, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Clinique du Brill
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 7 for Dr. Patrick Hansen, Pulmonology, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Centre de Santé Lallange
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Patrick Hansen.
+
+Review 8 for Dr. Patrick Hansen, Pulmonology, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Clinique du Brill
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. Booking online at Clinique du Brill was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Overall rating for Dr. Patrick Hansen, Pulmonology, Esch-sur-Alzette: 8.00/10 from 8 reviews

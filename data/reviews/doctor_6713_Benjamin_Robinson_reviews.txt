@@ -1,0 +1,54 @@
+Doctor: Dr. Benjamin Robinson
+Doctor ID: 6713
+Specialization: Cardiology
+Gender: Male
+Years of experience: 23
+City: Wellington, New Zealand
+Clinics: Tui Medical Centre (clinic ID 870); Fernbird Family Doctors (clinic ID 872); Manuka Health Clinic (clinic ID 873)
+
+Review 1 for Dr. Benjamin Robinson, Cardiology, Wellington
+Rating: 10/10
+Clinic visited: Tui Medical Centre
+Description: My stress test was supervised carefully, and Dr. Benjamin Robinson reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 2 for Dr. Benjamin Robinson, Cardiology, Wellington
+Rating: 9/10
+Clinic visited: Manuka Health Clinic
+Description: Honest about the risks and benefits of the procedure, Dr. Benjamin Robinson never pressured me toward surgery. Never once did I feel rushed, even though the clinic was clearly busy that morning. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Benjamin Robinson, Cardiology, Wellington
+Rating: 8/10
+Clinic visited: Manuka Health Clinic
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 4 for Dr. Benjamin Robinson, Cardiology, Wellington
+Rating: 9/10
+Clinic visited: Fernbird Family Doctors
+Description: Appointment reminders came by text and email, and rescheduling took two taps. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Benjamin Robinson, Cardiology, Wellington
+Rating: 9/10
+Clinic visited: Fernbird Family Doctors
+Description: Clear and calm advice at Fernbird Family Doctors about exercise after my stent, including a gradual written schedule. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 6 for Dr. Benjamin Robinson, Cardiology, Wellington
+Rating: 8/10
+Clinic visited: Tui Medical Centre
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 7 for Dr. Benjamin Robinson, Cardiology, Wellington
+Rating: 9/10
+Clinic visited: Fernbird Family Doctors
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 8 for Dr. Benjamin Robinson, Cardiology, Wellington
+Rating: 9/10
+Clinic visited: Fernbird Family Doctors
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Benjamin Robinson, Cardiology, Wellington
+Rating: 8/10
+Clinic visited: Fernbird Family Doctors
+Description: Seeing Dr. Benjamin Robinson in Wellington meant my whole family history was reviewed, and now my sister is being screened too.
+
+Overall rating for Dr. Benjamin Robinson, Cardiology, Wellington: 8.78/10 from 9 reviews

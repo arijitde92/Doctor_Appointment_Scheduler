@@ -1,0 +1,49 @@
+Doctor: Dr. Bongani Ngcobo
+Doctor ID: 5819
+Specialization: General
+Gender: Male
+Years of experience: 2
+City: Pretoria, South Africa
+Clinics: Centurion Lakes Medical Centre (clinic ID 751)
+
+Review 1 for Dr. Bongani Ngcobo, General, Pretoria
+Rating: 8/10
+Clinic visited: Centurion Lakes Medical Centre
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 2 for Dr. Bongani Ngcobo, General, Pretoria
+Rating: 9/10
+Clinic visited: Centurion Lakes Medical Centre
+Description: My blood pressure had crept up and Dr. Bongani Ngcobo walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 3 for Dr. Bongani Ngcobo, General, Pretoria
+Rating: 9/10
+Clinic visited: Centurion Lakes Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Managing my type 2 diabetes with Dr. Bongani Ngcobo has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 4 for Dr. Bongani Ngcobo, General, Pretoria
+Rating: 9/10
+Clinic visited: Centurion Lakes Medical Centre
+Description: As a new patient in Pretoria, I felt welcomed at Centurion Lakes Medical Centre, and my whole history was reviewed in one relaxed visit.
+
+Review 5 for Dr. Bongani Ngcobo, General, Pretoria
+Rating: 7/10
+Clinic visited: Centurion Lakes Medical Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 6 for Dr. Bongani Ngcobo, General, Pretoria
+Rating: 7/10
+Clinic visited: Centurion Lakes Medical Centre
+Description: Dr. Bongani Ngcobo is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The treatment plan from Dr. Bongani Ngcobo made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Bongani Ngcobo, General, Pretoria
+Rating: 8/10
+Clinic visited: Centurion Lakes Medical Centre
+Description: The practice in Pretoria is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I went in with months of tiredness, and Dr. Bongani Ngcobo ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 8 for Dr. Bongani Ngcobo, General, Pretoria
+Rating: 7/10
+Clinic visited: Centurion Lakes Medical Centre
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Centurion Lakes Medical Centre were inconsistent.
+
+Overall rating for Dr. Bongani Ngcobo, General, Pretoria: 8.00/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Hesham Hanna
+Doctor ID: 5978
+Specialization: General
+Gender: Male
+Years of experience: 1
+City: Luxor, Egypt
+Clinics: Nile Corniche Medical Centre (clinic ID 771)
+
+Review 1 for Dr. Hesham Hanna, General, Luxor
+Rating: 6/10
+Clinic visited: Nile Corniche Medical Centre
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The treatment plan from Dr. Hesham Hanna made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Hesham Hanna, General, Luxor
+Rating: 4/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Dr. Hesham Hanna seemed distracted by the computer screen throughout and missed that I had mentioned chest tightness twice. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 3 for Dr. Hesham Hanna, General, Luxor
+Rating: 6/10
+Clinic visited: Nile Corniche Medical Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 4 for Dr. Hesham Hanna, General, Luxor
+Rating: 6/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 5 for Dr. Hesham Hanna, General, Luxor
+Rating: 7/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Dr. Hesham Hanna is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Dr. Hesham Hanna was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Hesham Hanna, General, Luxor
+Rating: 6/10
+Clinic visited: Nile Corniche Medical Centre
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Good bedside manner from Dr. Hesham Hanna, but the parking near Nile Corniche Medical Centre is limited and I had to circle for fifteen minutes. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Hesham Hanna, General, Luxor
+Rating: 6/10
+Clinic visited: Nile Corniche Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Nile Corniche Medical Centre were inconsistent.
+
+Review 8 for Dr. Hesham Hanna, General, Luxor
+Rating: 6/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Referrals from Dr. Hesham Hanna are handled well, but getting test results back took longer than I was told to expect. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Hesham Hanna, General, Luxor
+Rating: 8/10
+Clinic visited: Nile Corniche Medical Centre
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. Prescriptions from Dr. Hesham Hanna were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 10 for Dr. Hesham Hanna, General, Luxor
+Rating: 9/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Dr. Hesham Hanna spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Overall rating for Dr. Hesham Hanna, General, Luxor: 6.40/10 from 10 reviews

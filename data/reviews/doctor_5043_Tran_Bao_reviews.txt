@@ -1,0 +1,49 @@
+Doctor: Dr. Tran Bao
+Doctor ID: 5043
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 25
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Minh Tam (clinic ID 652)
+
+Review 1 for Dr. Tran Bao, Pulmonology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Minh Tam
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks.
+
+Review 2 for Dr. Tran Bao, Pulmonology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Minh Tam
+Description: Clear, honest answers from Dr. Tran Bao about my shortness of breath, and no unnecessary tests were ordered. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Tran Bao, Pulmonology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Minh Tam
+Description: My oxygen levels are monitored carefully at Phong Kham Minh Tam, and the home equipment was arranged without any hassle.
+
+Review 4 for Dr. Tran Bao, Pulmonology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Minh Tam
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Tran Bao.
+
+Review 5 for Dr. Tran Bao, Pulmonology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Minh Tam
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 6 for Dr. Tran Bao, Pulmonology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Minh Tam
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 7 for Dr. Tran Bao, Pulmonology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Minh Tam
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan.
+
+Review 8 for Dr. Tran Bao, Pulmonology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Minh Tam
+Description: Everything was explained in plain English by Dr. Tran Bao, and nothing was left to guess.
+
+Overall rating for Dr. Tran Bao, Pulmonology, Ho Chi Minh City: 9.50/10 from 8 reviews

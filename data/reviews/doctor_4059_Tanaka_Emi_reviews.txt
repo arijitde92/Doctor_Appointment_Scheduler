@@ -1,0 +1,59 @@
+Doctor: Dr. Tanaka Emi
+Doctor ID: 4059
+Specialization: Neurology
+Gender: Female
+Years of experience: 12
+City: Osaka, Japan
+Clinics: Shin-Osaka Tsubasa Clinic (clinic ID 524)
+
+Review 1 for Dr. Tanaka Emi, Neurology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Getting a same-month appointment in Osaka for my sudden headaches was a real relief, and the work-up was prompt. My whole family is switching over after seeing how good the care was.
+
+Review 2 for Dr. Tanaka Emi, Neurology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Clear and honest talk with Dr. Tanaka Emi about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 3 for Dr. Tanaka Emi, Neurology, Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. Even the billing team was helpful, and a mistake on my statement was corrected within a day. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Tanaka Emi, Neurology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. Dr. Tanaka Emi double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 5 for Dr. Tanaka Emi, Neurology, Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Living with multiple sclerosis feels less frightening because Dr. Tanaka Emi explains and discusses every change in my plan.
+
+Review 6 for Dr. Tanaka Emi, Neurology, Osaka
+Rating: 10/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: After years of migraines, Dr. Tanaka Emi built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 7 for Dr. Tanaka Emi, Neurology, Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 8 for Dr. Tanaka Emi, Neurology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I always leave Dr. Tanaka Emi's office with a short written summary of changes, which helps my family keep up.
+
+Review 9 for Dr. Tanaka Emi, Neurology, Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Dr. Tanaka Emi was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Tanaka Emi, Neurology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: The neurological exam by Dr. Tanaka Emi was thorough, with every reflex test and gait check explained as it happened.
+
+Overall rating for Dr. Tanaka Emi, Neurology, Osaka: 8.20/10 from 10 reviews

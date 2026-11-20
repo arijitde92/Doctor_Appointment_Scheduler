@@ -1,0 +1,64 @@
+Doctor: Dr. Simon Côté
+Doctor ID: 248
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 5
+City: Calgary, Canada
+Clinics: Prairie Sky Medical Clinic (clinic ID 35)
+
+Review 1 for Dr. Simon Côté, Orthopedic, Calgary
+Rating: 6/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. Booking was easy online, but the confirmation email contained the wrong address for Prairie Sky Medical Clinic.
+
+Review 2 for Dr. Simon Côté, Orthopedic, Calgary
+Rating: 6/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Good bedside manner from Dr. Simon Côté, but the parking near Prairie Sky Medical Clinic is limited and I had to circle for fifteen minutes. Dr. Simon Côté explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 3 for Dr. Simon Côté, Orthopedic, Calgary
+Rating: 4/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: The waiting room at Prairie Sky Medical Clinic was overcrowded and there was nowhere to sit, even for elderly patients. After my fracture, nobody explained the cast care, and I ended up back in the clinic with skin irritation.
+
+Review 4 for Dr. Simon Côté, Orthopedic, Calgary
+Rating: 8/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Follow-up scans were compared with the earlier ones, and Dr. Simon Côté showed me how the bone had healed. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Simon Côté, Orthopedic, Calgary
+Rating: 5/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Simon Côté, Orthopedic, Calgary
+Rating: 9/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Simon Côté felt well organized from start to finish. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Simon Côté, Orthopedic, Calgary
+Rating: 5/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Simon Côté, Orthopedic, Calgary
+Rating: 6/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Very skilled with my knee, but Dr. Simon Côté's clinic runs behind and the wait was over an hour. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Simon Côté, Orthopedic, Calgary
+Rating: 6/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Dr. Simon Côté was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 10 for Dr. Simon Côté, Orthopedic, Calgary
+Rating: 5/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. Simon Côté, Orthopedic, Calgary
+Rating: 6/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Simon Côté, Orthopedic, Calgary: 6.00/10 from 11 reviews

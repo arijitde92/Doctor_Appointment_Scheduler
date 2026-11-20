@@ -1,0 +1,64 @@
+Doctor: Dr. Ong Wei Jie
+Doctor ID: 4736
+Specialization: Pathology
+Gender: Male
+Years of experience: 10
+City: Kuala Lumpur, Malaysia
+Clinics: Taman Sari Medical Centre (clinic ID 612); Seri Impian Family Clinic (clinic ID 614)
+
+Review 1 for Dr. Ong Wei Jie, Pathology, Kuala Lumpur
+Rating: 8/10
+Clinic visited: Taman Sari Medical Centre
+Description: The lab under Dr. Ong Wei Jie was clean, organized and never overbooked, and results arrived exactly when promised.
+
+Review 2 for Dr. Ong Wei Jie, Pathology, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Seri Impian Family Clinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Ong Wei Jie, Pathology, Kuala Lumpur
+Rating: 7/10
+Clinic visited: Taman Sari Medical Centre
+Description: Helpful in clarifying a borderline result, though Dr. Ong Wei Jie gave little guidance about whether to repeat it. I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Ong Wei Jie, Pathology, Kuala Lumpur
+Rating: 5/10
+Clinic visited: Seri Impian Family Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 5 for Dr. Ong Wei Jie, Pathology, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Seri Impian Family Clinic
+Description: The treatment plan from Dr. Ong Wei Jie made sense, but I wished it had been written down for me to take away. The blood draw was painless, but the waiting area at Seri Impian Family Clinic was crowded in the early morning.
+
+Review 6 for Dr. Ong Wei Jie, Pathology, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Taman Sari Medical Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 7 for Dr. Ong Wei Jie, Pathology, Kuala Lumpur
+Rating: 8/10
+Clinic visited: Taman Sari Medical Centre
+Description: The lab at Taman Sari Medical Centre had a quick, friendly blood draw and the phlebotomist found my vein on the first try. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 8 for Dr. Ong Wei Jie, Pathology, Kuala Lumpur
+Rating: 8/10
+Clinic visited: Seri Impian Family Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 9 for Dr. Ong Wei Jie, Pathology, Kuala Lumpur
+Rating: 7/10
+Clinic visited: Taman Sari Medical Centre
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 10 for Dr. Ong Wei Jie, Pathology, Kuala Lumpur
+Rating: 8/10
+Clinic visited: Seri Impian Family Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 11 for Dr. Ong Wei Jie, Pathology, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Seri Impian Family Clinic
+Description: Dr. Ong Wei Jie answered my questions kindly, though the call back took three days. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Ong Wei Jie, Pathology, Kuala Lumpur: 6.82/10 from 11 reviews

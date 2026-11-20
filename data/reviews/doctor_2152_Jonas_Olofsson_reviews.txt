@@ -1,0 +1,49 @@
+Doctor: Dr. Jonas Olofsson
+Doctor ID: 2152
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 1
+City: Malmo, Sweden
+Clinics: Vårdcentralen Södra Förstan Plus (clinic ID 280); Läkarmottagningen Östra Förstan (clinic ID 284)
+
+Review 1 for Dr. Jonas Olofsson, Pulmonology, Malmo
+Rating: 5/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Jonas Olofsson, Pulmonology, Malmo
+Rating: 7/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 3 for Dr. Jonas Olofsson, Pulmonology, Malmo
+Rating: 9/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Everything was explained in plain English by Dr. Jonas Olofsson, and nothing was left to guess. He called personally with my scan results and walked me through what the findings did and did not mean.
+
+Review 4 for Dr. Jonas Olofsson, Pulmonology, Malmo
+Rating: 8/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: I was called in within five minutes of my appointment time at Vårdcentralen Södra Förstan Plus, which is rare and much appreciated.
+
+Review 5 for Dr. Jonas Olofsson, Pulmonology, Malmo
+Rating: 7/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Jonas Olofsson adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 6 for Dr. Jonas Olofsson, Pulmonology, Malmo
+Rating: 9/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: After years of poorly controlled asthma, Dr. Jonas Olofsson reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 7 for Dr. Jonas Olofsson, Pulmonology, Malmo
+Rating: 10/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Jonas Olofsson was practical and never preachy.
+
+Review 8 for Dr. Jonas Olofsson, Pulmonology, Malmo
+Rating: 8/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Overall rating for Dr. Jonas Olofsson, Pulmonology, Malmo: 7.88/10 from 8 reviews

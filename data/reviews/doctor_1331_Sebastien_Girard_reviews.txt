@@ -1,0 +1,49 @@
+Doctor: Dr. Sébastien Girard
+Doctor ID: 1331
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 14
+City: Toulouse, France
+Clinics: Centre de Santé Compans (clinic ID 173)
+
+Review 1 for Dr. Sébastien Girard, Pulmonology, Toulouse
+Rating: 7/10
+Clinic visited: Centre de Santé Compans
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Sébastien Girard, Pulmonology, Toulouse
+Rating: 8/10
+Clinic visited: Centre de Santé Compans
+Description: A translator was arranged for my mother without us asking twice, and Dr. Sébastien Girard spoke directly to her throughout.
+
+Review 3 for Dr. Sébastien Girard, Pulmonology, Toulouse
+Rating: 8/10
+Clinic visited: Centre de Santé Compans
+Description: I always leave Dr. Sébastien Girard's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 4 for Dr. Sébastien Girard, Pulmonology, Toulouse
+Rating: 5/10
+Clinic visited: Centre de Santé Compans
+Description: I got what I needed, but the next available appointment was three weeks away. Good advice about triggers, but the clinic's phone line is difficult to get through to. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Sébastien Girard, Pulmonology, Toulouse
+Rating: 10/10
+Clinic visited: Centre de Santé Compans
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 6 for Dr. Sébastien Girard, Pulmonology, Toulouse
+Rating: 8/10
+Clinic visited: Centre de Santé Compans
+Description: Booking online at Centre de Santé Compans was simple, and I got a confirmation text with clear directions and a reminder the day before. After years of poorly controlled asthma, Dr. Sébastien Girard reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 7 for Dr. Sébastien Girard, Pulmonology, Toulouse
+Rating: 9/10
+Clinic visited: Centre de Santé Compans
+Description: Clear, honest answers from Dr. Sébastien Girard about my shortness of breath, and no unnecessary tests were ordered. Dr. Sébastien Girard looked me in the eye, listened to the whole story and only then started typing. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Sébastien Girard, Pulmonology, Toulouse
+Rating: 6/10
+Clinic visited: Centre de Santé Compans
+Description: Pleasant manner and careful lung exam, though the waiting time at Centre de Santé Compans regularly exceeded forty minutes. Good bedside manner from Dr. Sébastien Girard, but the parking near Centre de Santé Compans is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Sébastien Girard, Pulmonology, Toulouse: 7.62/10 from 8 reviews

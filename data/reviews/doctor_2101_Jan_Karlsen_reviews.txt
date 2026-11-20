@@ -1,0 +1,49 @@
+Doctor: Dr. Jan Karlsen
+Doctor ID: 2101
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 9
+City: Trondheim, Norway
+Clinics: Legesenteret Klæbu Vei (clinic ID 274)
+
+Review 1 for Dr. Jan Karlsen, Pulmonology, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Dr. Jan Karlsen adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 2 for Dr. Jan Karlsen, Pulmonology, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 3 for Dr. Jan Karlsen, Pulmonology, Trondheim
+Rating: 6/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 4 for Dr. Jan Karlsen, Pulmonology, Trondheim
+Rating: 6/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Pleasant manner and careful lung exam, though the waiting time at Legesenteret Klæbu Vei regularly exceeded forty minutes. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Jan Karlsen, Pulmonology, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Helpful and honest about my prognosis, Dr. Jan Karlsen could still have given me more written material to take home. Dr. Jan Karlsen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 6 for Dr. Jan Karlsen, Pulmonology, Trondheim
+Rating: 9/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: A translator was arranged for my mother without us asking twice, and Dr. Jan Karlsen spoke directly to her throughout.
+
+Review 7 for Dr. Jan Karlsen, Pulmonology, Trondheim
+Rating: 9/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: The waiting room at Legesenteret Klæbu Vei was clean, quiet and comfortable, with enough seating and water available. After years of poorly controlled asthma, Dr. Jan Karlsen reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Jan Karlsen, Pulmonology, Trondheim
+Rating: 6/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Everything about the care was decent, but the cost was higher than I expected for a short appointment. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Jan Karlsen, Pulmonology, Trondheim: 7.12/10 from 8 reviews

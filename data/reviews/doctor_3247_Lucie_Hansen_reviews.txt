@@ -1,0 +1,49 @@
+Doctor: Dr. Lucie Hansen
+Doctor ID: 3247
+Specialization: Neurology
+Gender: Female
+Years of experience: 5
+City: Dudelange, Luxembourg
+Clinics: Centre Médical Gare-Usines (clinic ID 421)
+
+Review 1 for Dr. Lucie Hansen, Neurology, Dudelange
+Rating: 8/10
+Clinic visited: Centre Médical Gare-Usines
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 2 for Dr. Lucie Hansen, Neurology, Dudelange
+Rating: 10/10
+Clinic visited: Centre Médical Gare-Usines
+Description: I always leave Dr. Lucie Hansen's office with a short written summary of changes, which helps my family keep up. Prescriptions from Dr. Lucie Hansen were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 3 for Dr. Lucie Hansen, Neurology, Dudelange
+Rating: 8/10
+Clinic visited: Centre Médical Gare-Usines
+Description: Clear and honest talk with Dr. Lucie Hansen about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 4 for Dr. Lucie Hansen, Neurology, Dudelange
+Rating: 9/10
+Clinic visited: Centre Médical Gare-Usines
+Description: Dr. Lucie Hansen took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. Dr. Lucie Hansen used a calm, steady voice that settled my nerves before a stressful procedure. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Lucie Hansen, Neurology, Dudelange
+Rating: 10/10
+Clinic visited: Centre Médical Gare-Usines
+Description: The neurological exam by Dr. Lucie Hansen was thorough, with every reflex test and gait check explained as it happened.
+
+Review 6 for Dr. Lucie Hansen, Neurology, Dudelange
+Rating: 9/10
+Clinic visited: Centre Médical Gare-Usines
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Centre Médical Gare-Usines.
+
+Review 7 for Dr. Lucie Hansen, Neurology, Dudelange
+Rating: 7/10
+Clinic visited: Centre Médical Gare-Usines
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Clear explanations, but the follow-up call took a week longer than I had been told. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Lucie Hansen, Neurology, Dudelange
+Rating: 7/10
+Clinic visited: Centre Médical Gare-Usines
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Overall rating for Dr. Lucie Hansen, Neurology, Dudelange: 8.50/10 from 8 reviews

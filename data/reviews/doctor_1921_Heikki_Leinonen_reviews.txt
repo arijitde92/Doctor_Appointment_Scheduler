@@ -1,0 +1,59 @@
+Doctor: Dr. Heikki Leinonen
+Doctor ID: 1921
+Specialization: General
+Gender: Male
+Years of experience: 8
+City: Turku, Finland
+Clinics: Lääkärikeskus Aurajoki Plus (clinic ID 250); Lääkärikeskus Kauppiaskatu (clinic ID 252); Terveyskeskus Länsikeskus Turku (clinic ID 254)
+
+Review 1 for Dr. Heikki Leinonen, General, Turku
+Rating: 8/10
+Clinic visited: Terveyskeskus Länsikeskus Turku
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Heikki Leinonen, General, Turku
+Rating: 7/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Heikki Leinonen, General, Turku
+Rating: 8/10
+Clinic visited: Terveyskeskus Länsikeskus Turku
+Description: I always hear back within a day when I leave a question with the nurse at Terveyskeskus Länsikeskus Turku, and Dr. Heikki Leinonen follows up on lab results personally.
+
+Review 4 for Dr. Heikki Leinonen, General, Turku
+Rating: 10/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 5 for Dr. Heikki Leinonen, General, Turku
+Rating: 10/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Heikki Leinonen, General, Turku
+Rating: 9/10
+Clinic visited: Lääkärikeskus Kauppiaskatu
+Description: By the time I left the room, Dr. Heikki Leinonen had sorted the sick note, referral letter and prescription refill. Prescriptions from Dr. Heikki Leinonen were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Heikki Leinonen, General, Turku
+Rating: 9/10
+Clinic visited: Terveyskeskus Länsikeskus Turku
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list.
+
+Review 8 for Dr. Heikki Leinonen, General, Turku
+Rating: 10/10
+Clinic visited: Terveyskeskus Länsikeskus Turku
+Description: At my visit, Dr. Heikki Leinonen took notes on my medication list, checked for interactions and explained the changes simply. I went in with months of tiredness, and Dr. Heikki Leinonen ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 9 for Dr. Heikki Leinonen, General, Turku
+Rating: 8/10
+Clinic visited: Lääkärikeskus Kauppiaskatu
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 10 for Dr. Heikki Leinonen, General, Turku
+Rating: 9/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Vaccination advice from Dr. Heikki Leinonen for my travel plans was thorough and specific to the countries I was visiting. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Heikki Leinonen, General, Turku: 8.80/10 from 10 reviews

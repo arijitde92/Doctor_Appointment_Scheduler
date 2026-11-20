@@ -1,0 +1,49 @@
+Doctor: Dr. Ahmed Abbasi
+Doctor ID: 6324
+Specialization: Cardiology
+Gender: Male
+Years of experience: 11
+City: Islamabad, Pakistan
+Clinics: I-8 Markaz Health Practice (clinic ID 818); F-10 Markaz Wellness Clinic (clinic ID 819)
+
+Review 1 for Dr. Ahmed Abbasi, Cardiology, Islamabad
+Rating: 9/10
+Clinic visited: I-8 Markaz Health Practice
+Description: Dr. Ahmed Abbasi drew a quick sketch to explain what was going on, which helped me remember it afterwards. The cardiology unit at I-8 Markaz Health Practice runs on time, and the technicians were professional during my echocardiogram.
+
+Review 2 for Dr. Ahmed Abbasi, Cardiology, Islamabad
+Rating: 9/10
+Clinic visited: F-10 Markaz Wellness Clinic
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning.
+
+Review 3 for Dr. Ahmed Abbasi, Cardiology, Islamabad
+Rating: 8/10
+Clinic visited: I-8 Markaz Health Practice
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 4 for Dr. Ahmed Abbasi, Cardiology, Islamabad
+Rating: 9/10
+Clinic visited: F-10 Markaz Wellness Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. After my palpitations began, Dr. Ahmed Abbasi arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 5 for Dr. Ahmed Abbasi, Cardiology, Islamabad
+Rating: 8/10
+Clinic visited: I-8 Markaz Health Practice
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 6 for Dr. Ahmed Abbasi, Cardiology, Islamabad
+Rating: 8/10
+Clinic visited: F-10 Markaz Wellness Clinic
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. The waiting room at F-10 Markaz Wellness Clinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 7 for Dr. Ahmed Abbasi, Cardiology, Islamabad
+Rating: 9/10
+Clinic visited: I-8 Markaz Health Practice
+Description: Dr. Ahmed Abbasi explained the difference between my statin options and let me weigh in on the choice. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 8 for Dr. Ahmed Abbasi, Cardiology, Islamabad
+Rating: 10/10
+Clinic visited: I-8 Markaz Health Practice
+Description: My atrial fibrillation is well managed by Dr. Ahmed Abbasi, and I know exactly what symptoms mean I should call.
+
+Overall rating for Dr. Ahmed Abbasi, Cardiology, Islamabad: 8.75/10 from 8 reviews

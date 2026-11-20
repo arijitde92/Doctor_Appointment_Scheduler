@@ -1,0 +1,54 @@
+Doctor: Dr. Renata Dudek
+Doctor ID: 2833
+Specialization: General
+Gender: Female
+Years of experience: 4
+City: Wroclaw, Poland
+Clinics: Centrum Medyczne Rynek Plus (clinic ID 370); Przychodnia Krzyki Park (clinic ID 371)
+
+Review 1 for Dr. Renata Dudek, General, Wroclaw
+Rating: 7/10
+Clinic visited: Centrum Medyczne Rynek Plus
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Renata Dudek, General, Wroclaw
+Rating: 7/10
+Clinic visited: Przychodnia Krzyki Park
+Description: Dr. Renata Dudek is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Renata Dudek, General, Wroclaw
+Rating: 7/10
+Clinic visited: Przychodnia Krzyki Park
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 4 for Dr. Renata Dudek, General, Wroclaw
+Rating: 8/10
+Clinic visited: Przychodnia Krzyki Park
+Description: The waiting room at Przychodnia Krzyki Park was clean, quiet and comfortable, with enough seating and water available. Best family doctor I have had; She treats the whole person and not just the symptom list.
+
+Review 5 for Dr. Renata Dudek, General, Wroclaw
+Rating: 8/10
+Clinic visited: Przychodnia Krzyki Park
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Vaccination advice from Dr. Renata Dudek for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 6 for Dr. Renata Dudek, General, Wroclaw
+Rating: 5/10
+Clinic visited: Przychodnia Krzyki Park
+Description: The treatment plan from Dr. Renata Dudek made sense, but I wished it had been written down for me to take away. Referrals from Dr. Renata Dudek are handled well, but getting test results back took longer than I was told to expect.
+
+Review 7 for Dr. Renata Dudek, General, Wroclaw
+Rating: 6/10
+Clinic visited: Centrum Medyczne Rynek Plus
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Centrum Medyczne Rynek Plus were inconsistent. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 8 for Dr. Renata Dudek, General, Wroclaw
+Rating: 6/10
+Clinic visited: Przychodnia Krzyki Park
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 9 for Dr. Renata Dudek, General, Wroclaw
+Rating: 5/10
+Clinic visited: Przychodnia Krzyki Park
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Renata Dudek, General, Wroclaw: 6.56/10 from 9 reviews

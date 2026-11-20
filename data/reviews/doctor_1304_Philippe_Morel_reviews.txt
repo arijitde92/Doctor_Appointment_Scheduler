@@ -1,0 +1,49 @@
+Doctor: Dr. Philippe Morel
+Doctor ID: 1304
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 8
+City: Toulouse, France
+Clinics: Centre Médical du Capitole (clinic ID 170); Polyclinique de Rangueil (clinic ID 174)
+
+Review 1 for Dr. Philippe Morel, Psychiatry, Toulouse
+Rating: 10/10
+Clinic visited: Polyclinique de Rangueil
+Description: A translator was arranged for my mother without us asking twice, and Dr. Philippe Morel spoke directly to her throughout. I can ring Polyclinique de Rangueil with an urgent question and receive a thoughtful reply the same day.
+
+Review 2 for Dr. Philippe Morel, Psychiatry, Toulouse
+Rating: 7/10
+Clinic visited: Polyclinique de Rangueil
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 3 for Dr. Philippe Morel, Psychiatry, Toulouse
+Rating: 8/10
+Clinic visited: Centre Médical du Capitole
+Description: Dr. Philippe Morel looked me in the eye, listened to the whole story and only then started typing. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 4 for Dr. Philippe Morel, Psychiatry, Toulouse
+Rating: 9/10
+Clinic visited: Polyclinique de Rangueil
+Description: Excellent at explaining how therapy and medication work together, and Dr. Philippe Morel coordinated with my counselor. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 5 for Dr. Philippe Morel, Psychiatry, Toulouse
+Rating: 7/10
+Clinic visited: Polyclinique de Rangueil
+Description: Good listener, yet the refill process at Polyclinique de Rangueil is slow and requires several phone calls. Clear explanations, but the follow-up call took a week longer than I had been told. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Philippe Morel, Psychiatry, Toulouse
+Rating: 7/10
+Clinic visited: Centre Médical du Capitole
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 7 for Dr. Philippe Morel, Psychiatry, Toulouse
+Rating: 7/10
+Clinic visited: Centre Médical du Capitole
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 8 for Dr. Philippe Morel, Psychiatry, Toulouse
+Rating: 9/10
+Clinic visited: Centre Médical du Capitole
+Description: My depression finally has a treatment plan from Dr. Philippe Morel that works, with regular check-ins and careful dose changes. Dr. Philippe Morel drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Overall rating for Dr. Philippe Morel, Psychiatry, Toulouse: 8.00/10 from 8 reviews

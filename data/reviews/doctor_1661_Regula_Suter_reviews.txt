@@ -1,0 +1,69 @@
+Doctor: Dr. Regula Suter
+Doctor ID: 1661
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 2
+City: Basel, Switzerland
+Clinics: Gesundheitszentrum Clara (clinic ID 217)
+
+Review 1 for Dr. Regula Suter, Pediatrics, Basel
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Clara
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Regula Suter, Pediatrics, Basel
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Regula Suter, Pediatrics, Basel
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 4 for Dr. Regula Suter, Pediatrics, Basel
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Clara
+Description: My child had a fever for three days and Dr. Regula Suter said to wait it out, with no examination of the ears or throat. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 5 for Dr. Regula Suter, Pediatrics, Basel
+Rating: 3/10
+Clinic visited: Gesundheitszentrum Clara
+Description: The referral to a specialist never arrived, and I had to chase it myself for weeks. The staff at Gesundheitszentrum Clara were curt on the phone, and it took four attempts to book a simple follow-up. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 6 for Dr. Regula Suter, Pediatrics, Basel
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Regula Suter, Pediatrics, Basel
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Dr. Regula Suter was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 8 for Dr. Regula Suter, Pediatrics, Basel
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Clara
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Caring and gentle with my child, Dr. Regula Suter nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 9 for Dr. Regula Suter, Pediatrics, Basel
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I got what I needed, but the next available appointment was three weeks away.
+
+Review 10 for Dr. Regula Suter, Pediatrics, Basel
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Clara
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 11 for Dr. Regula Suter, Pediatrics, Basel
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Clara
+Description: My child's asthma action plan from Dr. Regula Suter was written out clearly so that school staff could follow it too. I was called in within five minutes of my appointment time at Gesundheitszentrum Clara, which is rare and much appreciated.
+
+Review 12 for Dr. Regula Suter, Pediatrics, Basel
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Dr. Regula Suter is thorough with exams, but the after-hours phone line at Gesundheitszentrum Clara is hard to reach. Good bedside manner from Dr. Regula Suter, but the parking near Gesundheitszentrum Clara is limited and I had to circle for fifteen minutes. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Regula Suter, Pediatrics, Basel: 5.25/10 from 12 reviews

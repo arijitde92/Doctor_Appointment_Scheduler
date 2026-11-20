@@ -1,0 +1,64 @@
+Doctor: Dr. Björn Lundberg
+Doctor ID: 2169
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 2
+City: Malmo, Sweden
+Clinics: Medicinskt Centrum Stora Nygatan (clinic ID 282)
+
+Review 1 for Dr. Björn Lundberg, Pediatrics, Malmo
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: Caring and gentle with my child, Dr. Björn Lundberg nonetheless ran forty minutes behind schedule at most appointments. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Björn Lundberg, Pediatrics, Malmo
+Rating: 10/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 3 for Dr. Björn Lundberg, Pediatrics, Malmo
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: Our family has been coming for years, and he remembers each child's history and personality. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Björn Lundberg, Pediatrics, Malmo
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 5 for Dr. Björn Lundberg, Pediatrics, Malmo
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Björn Lundberg, Pediatrics, Malmo
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: Booking online at Medicinskt Centrum Stora Nygatan was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 7 for Dr. Björn Lundberg, Pediatrics, Malmo
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Björn Lundberg, Pediatrics, Malmo
+Rating: 10/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: The growth chart review was detailed, and I appreciated that Dr. Björn Lundberg talked to my child as well as to me. Dr. Björn Lundberg drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 9 for Dr. Björn Lundberg, Pediatrics, Malmo
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Björn Lundberg, Pediatrics, Malmo
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: Vaccination visits with Dr. Björn Lundberg are painless and well explained, and my questions about the schedule were answered without any pressure. A translator was arranged for my mother without us asking twice, and Dr. Björn Lundberg spoke directly to her throughout.
+
+Review 11 for Dr. Björn Lundberg, Pediatrics, Malmo
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: Dr. Björn Lundberg is thorough with exams, but the after-hours phone line at Medicinskt Centrum Stora Nygatan is hard to reach. Booking was easy online, but the confirmation email contained the wrong address for Medicinskt Centrum Stora Nygatan. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Björn Lundberg, Pediatrics, Malmo: 7.82/10 from 11 reviews

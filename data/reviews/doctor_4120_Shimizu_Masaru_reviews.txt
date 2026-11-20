@@ -1,0 +1,59 @@
+Doctor: Dr. Shimizu Masaru
+Doctor ID: 4120
+Specialization: Neurology
+Gender: Male
+Years of experience: 4
+City: Yokohama, Japan
+Clinics: Yokohama Station Kaze Medical Clinic (clinic ID 531)
+
+Review 1 for Dr. Shimizu Masaru, Neurology, Yokohama
+Rating: 7/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Shimizu Masaru, Neurology, Yokohama
+Rating: 9/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 3 for Dr. Shimizu Masaru, Neurology, Yokohama
+Rating: 7/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Shimizu Masaru, Neurology, Yokohama
+Rating: 6/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 5 for Dr. Shimizu Masaru, Neurology, Yokohama
+Rating: 7/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Shimizu Masaru at Yokohama Station Kaze Medical Clinic are difficult to schedule. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Shimizu Masaru, Neurology, Yokohama
+Rating: 8/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: At my visit, Dr. Shimizu Masaru took notes on my medication list, checked for interactions and explained the changes simply. The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 7 for Dr. Shimizu Masaru, Neurology, Yokohama
+Rating: 9/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: The receptionist at Yokohama Station Kaze Medical Clinic remembered my name and had my forms ready, so check-in took less than a minute. Getting a same-month appointment in Yokohama for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 8 for Dr. Shimizu Masaru, Neurology, Yokohama
+Rating: 8/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: I always leave Dr. Shimizu Masaru's office with a short written summary of changes, which helps my family keep up. Dr. Shimizu Masaru drew a quick sketch to explain what was going on, which helped me remember it afterwards. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Shimizu Masaru, Neurology, Yokohama
+Rating: 8/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: The memory assessment for my father at Yokohama Station Kaze Medical Clinic was gentle and respectful, and the family received a clear written summary. The waiting room at Yokohama Station Kaze Medical Clinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 10 for Dr. Shimizu Masaru, Neurology, Yokohama
+Rating: 8/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Shimizu Masaru, Neurology, Yokohama: 7.70/10 from 10 reviews

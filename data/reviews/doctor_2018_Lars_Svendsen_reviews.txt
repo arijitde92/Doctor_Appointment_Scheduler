@@ -1,0 +1,54 @@
+Doctor: Dr. Lars Svendsen
+Doctor ID: 2018
+Specialization: Neurology
+Gender: Male
+Years of experience: 9
+City: Oslo, Norway
+Clinics: Legekontoret Grønland (clinic ID 263)
+
+Review 1 for Dr. Lars Svendsen, Neurology, Oslo
+Rating: 5/10
+Clinic visited: Legekontoret Grønland
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Lars Svendsen, Neurology, Oslo
+Rating: 8/10
+Clinic visited: Legekontoret Grønland
+Description: He patiently explained my MRI findings and calmed my worries about memory problems. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 3 for Dr. Lars Svendsen, Neurology, Oslo
+Rating: 8/10
+Clinic visited: Legekontoret Grønland
+Description: After years of migraines, Dr. Lars Svendsen built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Lars Svendsen, Neurology, Oslo
+Rating: 7/10
+Clinic visited: Legekontoret Grønland
+Description: I liked the advice I got from Dr. Lars Svendsen, but I would have liked more time to ask follow-up questions before the visit ended. Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 5 for Dr. Lars Svendsen, Neurology, Oslo
+Rating: 10/10
+Clinic visited: Legekontoret Grønland
+Description: Booking online at Legekontoret Grønland was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 6 for Dr. Lars Svendsen, Neurology, Oslo
+Rating: 10/10
+Clinic visited: Legekontoret Grønland
+Description: Clear and honest talk with Dr. Lars Svendsen about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Review 7 for Dr. Lars Svendsen, Neurology, Oslo
+Rating: 9/10
+Clinic visited: Legekontoret Grønland
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 8 for Dr. Lars Svendsen, Neurology, Oslo
+Rating: 8/10
+Clinic visited: Legekontoret Grønland
+Description: Dr. Lars Svendsen took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy.
+
+Review 9 for Dr. Lars Svendsen, Neurology, Oslo
+Rating: 7/10
+Clinic visited: Legekontoret Grønland
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Overall rating for Dr. Lars Svendsen, Neurology, Oslo: 8.00/10 from 9 reviews

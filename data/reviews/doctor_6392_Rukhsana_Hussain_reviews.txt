@@ -1,0 +1,54 @@
+Doctor: Dr. Rukhsana Hussain
+Doctor ID: 6392
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 9
+City: Lahore, Pakistan
+Clinics: DHA Raya Health Practice (clinic ID 828); Ravi Bank Medical Centre (clinic ID 829)
+
+Review 1 for Dr. Rukhsana Hussain, Pediatrics, Lahore
+Rating: 8/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Our family has been coming for years, and she remembers each child's history and personality. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 2 for Dr. Rukhsana Hussain, Pediatrics, Lahore
+Rating: 5/10
+Clinic visited: DHA Raya Health Practice
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Rukhsana Hussain, Pediatrics, Lahore
+Rating: 7/10
+Clinic visited: DHA Raya Health Practice
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 4 for Dr. Rukhsana Hussain, Pediatrics, Lahore
+Rating: 5/10
+Clinic visited: DHA Raya Health Practice
+Description: Quick appointment and a fair price in Lahore, but the staff seemed overwhelmed and a bit curt on the phone. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Rukhsana Hussain, Pediatrics, Lahore
+Rating: 7/10
+Clinic visited: Ravi Bank Medical Centre
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Rukhsana Hussain is thorough with exams, but the after-hours phone line at Ravi Bank Medical Centre is hard to reach.
+
+Review 6 for Dr. Rukhsana Hussain, Pediatrics, Lahore
+Rating: 6/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 7 for Dr. Rukhsana Hussain, Pediatrics, Lahore
+Rating: 5/10
+Clinic visited: DHA Raya Health Practice
+Description: Caring and gentle with my child, Dr. Rukhsana Hussain nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 8 for Dr. Rukhsana Hussain, Pediatrics, Lahore
+Rating: 8/10
+Clinic visited: Ravi Bank Medical Centre
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 9 for Dr. Rukhsana Hussain, Pediatrics, Lahore
+Rating: 5/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Overall rating for Dr. Rukhsana Hussain, Pediatrics, Lahore: 6.22/10 from 9 reviews

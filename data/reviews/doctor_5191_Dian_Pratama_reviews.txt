@@ -1,0 +1,59 @@
+Doctor: Dr. Dian Pratama
+Doctor ID: 5191
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: Surabaya, Indonesia
+Clinics: Klinik Mitra Sehat (clinic ID 671)
+
+Review 1 for Dr. Dian Pratama, Cardiology, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Mitra Sehat
+Description: Dr. Dian Pratama double-checked my allergy list before prescribing anything, and that careful habit earned my trust. My atrial fibrillation is well managed by Dr. Dian Pratama, and I know exactly what symptoms mean I should call.
+
+Review 2 for Dr. Dian Pratama, Cardiology, Surabaya
+Rating: 4/10
+Clinic visited: Klinik Mitra Sehat
+Description: My questions were answered by Dr. Dian Pratama with short, vague replies, and I left without a clear plan. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 3 for Dr. Dian Pratama, Cardiology, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Mitra Sehat
+Description: Great care in the visit itself, but the billing for the tests at Klinik Mitra Sehat was confusing.
+
+Review 4 for Dr. Dian Pratama, Cardiology, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Mitra Sehat
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 5 for Dr. Dian Pratama, Cardiology, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Mitra Sehat
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Helpful with my cholesterol, Dr. Dian Pratama still gave dietary advice that was a little generic.
+
+Review 6 for Dr. Dian Pratama, Cardiology, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Mitra Sehat
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 7 for Dr. Dian Pratama, Cardiology, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Mitra Sehat
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 8 for Dr. Dian Pratama, Cardiology, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Mitra Sehat
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Dian Pratama, Cardiology, Surabaya
+Rating: 5/10
+Clinic visited: Klinik Mitra Sehat
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 10 for Dr. Dian Pratama, Cardiology, Surabaya
+Rating: 4/10
+Clinic visited: Klinik Mitra Sehat
+Description: The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes. The clinic never returned my call about my test results, and I had to chase them for over a week. I left disappointed and will take my business to another clinic.
+
+Overall rating for Dr. Dian Pratama, Cardiology, Surabaya: 6.20/10 from 10 reviews

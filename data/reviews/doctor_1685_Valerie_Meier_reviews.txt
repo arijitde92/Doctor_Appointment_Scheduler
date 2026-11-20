@@ -1,0 +1,54 @@
+Doctor: Dr. Valérie Meier
+Doctor ID: 1685
+Specialization: Radiology
+Gender: Female
+Years of experience: 1
+City: Bern, Switzerland
+Clinics: Praxis Spitalgasse Bern (clinic ID 220)
+
+Review 1 for Dr. Valérie Meier, Radiology, Bern
+Rating: 7/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 2 for Dr. Valérie Meier, Radiology, Bern
+Rating: 9/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Valérie Meier were respectful throughout. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Valérie Meier, Radiology, Bern
+Rating: 8/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Valérie Meier sent a clear report within a day.
+
+Review 4 for Dr. Valérie Meier, Radiology, Bern
+Rating: 9/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: The staff at Praxis Spitalgasse Bern in Bern explained the contrast dye and its side effects before I signed anything.
+
+Review 5 for Dr. Valérie Meier, Radiology, Bern
+Rating: 8/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 6 for Dr. Valérie Meier, Radiology, Bern
+Rating: 9/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 7 for Dr. Valérie Meier, Radiology, Bern
+Rating: 9/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 8 for Dr. Valérie Meier, Radiology, Bern
+Rating: 9/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 9 for Dr. Valérie Meier, Radiology, Bern
+Rating: 10/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Valérie Meier, Radiology, Bern: 8.67/10 from 9 reviews

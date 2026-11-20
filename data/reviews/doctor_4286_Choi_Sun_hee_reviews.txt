@@ -1,0 +1,54 @@
+Doctor: Dr. Choi Sun-hee
+Doctor ID: 4286
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 29
+City: Seoul, South Korea
+Clinics: Mapo Barun Internal Medicine Clinic (clinic ID 552)
+
+Review 1 for Dr. Choi Sun-hee, Orthopedic, Seoul
+Rating: 5/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Dr. Choi Sun-hee was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Choi Sun-hee, Orthopedic, Seoul
+Rating: 7/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 3 for Dr. Choi Sun-hee, Orthopedic, Seoul
+Rating: 5/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Very skilled with my knee, but Dr. Choi Sun-hee's clinic runs behind and the wait was over an hour. Dr. Choi Sun-hee was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Choi Sun-hee, Orthopedic, Seoul
+Rating: 7/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 5 for Dr. Choi Sun-hee, Orthopedic, Seoul
+Rating: 8/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. After my knee replacement, Dr. Choi Sun-hee explained the entire recovery timeline, and I was walking with a cane by week three.
+
+Review 6 for Dr. Choi Sun-hee, Orthopedic, Seoul
+Rating: 8/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 7 for Dr. Choi Sun-hee, Orthopedic, Seoul
+Rating: 6/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 8 for Dr. Choi Sun-hee, Orthopedic, Seoul
+Rating: 7/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Dr. Choi Sun-hee explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 9 for Dr. Choi Sun-hee, Orthopedic, Seoul
+Rating: 4/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: I was told by Dr. Choi Sun-hee that my knee pain was just age without any scan or exam, and the pain kept getting worse. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Overall rating for Dr. Choi Sun-hee, Orthopedic, Seoul: 6.33/10 from 9 reviews

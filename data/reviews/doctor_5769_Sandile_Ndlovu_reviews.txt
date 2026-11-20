@@ -1,0 +1,59 @@
+Doctor: Dr. Sandile Ndlovu
+Doctor ID: 5769
+Specialization: Radiology
+Gender: Male
+Years of experience: 2
+City: Johannesburg, South Africa
+Clinics: Sandton Gardens Family Practice (clinic ID 745); Rosebank Medical Rooms (clinic ID 746); Melville Koppies Health Clinic (clinic ID 747)
+
+Review 1 for Dr. Sandile Ndlovu, Radiology, Johannesburg
+Rating: 4/10
+Clinic visited: Rosebank Medical Rooms
+Description: I was charged for a second scan that I was told was a free repeat after an image problem. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. Not a place I would choose again, and I hope others have a better experience.
+
+Review 2 for Dr. Sandile Ndlovu, Radiology, Johannesburg
+Rating: 5/10
+Clinic visited: Sandton Gardens Family Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I liked the advice I got from Dr. Sandile Ndlovu, but I would have liked more time to ask follow-up questions before the visit ended. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Sandile Ndlovu, Radiology, Johannesburg
+Rating: 5/10
+Clinic visited: Sandton Gardens Family Practice
+Description: The report from Dr. Sandile Ndlovu was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 4 for Dr. Sandile Ndlovu, Radiology, Johannesburg
+Rating: 7/10
+Clinic visited: Sandton Gardens Family Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Sandile Ndlovu answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 5 for Dr. Sandile Ndlovu, Radiology, Johannesburg
+Rating: 4/10
+Clinic visited: Sandton Gardens Family Practice
+Description: Dr. Sandile Ndlovu was never available to discuss my findings, and the report left me more confused than before. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Review 6 for Dr. Sandile Ndlovu, Radiology, Johannesburg
+Rating: 7/10
+Clinic visited: Rosebank Medical Rooms
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Sandile Ndlovu, Radiology, Johannesburg
+Rating: 5/10
+Clinic visited: Melville Koppies Health Clinic
+Description: Good bedside manner from Dr. Sandile Ndlovu, but the parking near Melville Koppies Health Clinic is limited and I had to circle for fifteen minutes. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 8 for Dr. Sandile Ndlovu, Radiology, Johannesburg
+Rating: 7/10
+Clinic visited: Rosebank Medical Rooms
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 9 for Dr. Sandile Ndlovu, Radiology, Johannesburg
+Rating: 5/10
+Clinic visited: Melville Koppies Health Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 10 for Dr. Sandile Ndlovu, Radiology, Johannesburg
+Rating: 7/10
+Clinic visited: Melville Koppies Health Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Melville Koppies Health Clinic. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Overall rating for Dr. Sandile Ndlovu, Radiology, Johannesburg: 5.60/10 from 10 reviews

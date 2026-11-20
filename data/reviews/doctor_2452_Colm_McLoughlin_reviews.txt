@@ -1,0 +1,49 @@
+Doctor: Dr. Colm McLoughlin
+Doctor ID: 2452
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 11
+City: Dublin, Ireland
+Clinics: Baggot Street Medical Centre (clinic ID 320)
+
+Review 1 for Dr. Colm McLoughlin, Orthopedic, Dublin
+Rating: 10/10
+Clinic visited: Baggot Street Medical Centre
+Description: I appreciated Dr. Colm McLoughlin's honest comparison between injections, therapy and surgery for my hip pain. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Colm McLoughlin, Orthopedic, Dublin
+Rating: 10/10
+Clinic visited: Baggot Street Medical Centre
+Description: Seen the same day at Baggot Street Medical Centre after a bad ankle sprain, with an X-ray done and a brace fitted before I left.
+
+Review 3 for Dr. Colm McLoughlin, Orthopedic, Dublin
+Rating: 8/10
+Clinic visited: Baggot Street Medical Centre
+Description: Follow-up scans were compared with the earlier ones, and Dr. Colm McLoughlin showed me how the bone had healed. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 4 for Dr. Colm McLoughlin, Orthopedic, Dublin
+Rating: 9/10
+Clinic visited: Baggot Street Medical Centre
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Colm McLoughlin, Orthopedic, Dublin
+Rating: 8/10
+Clinic visited: Baggot Street Medical Centre
+Description: Dr. Colm McLoughlin explained my back scan using a model of the spine, and I finally understood my sciatica. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Colm McLoughlin, Orthopedic, Dublin
+Rating: 10/10
+Clinic visited: Baggot Street Medical Centre
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Colm McLoughlin, Orthopedic, Dublin
+Rating: 9/10
+Clinic visited: Baggot Street Medical Centre
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. Appointment reminders came by text and email, and rescheduling took two taps. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Colm McLoughlin, Orthopedic, Dublin
+Rating: 10/10
+Clinic visited: Baggot Street Medical Centre
+Description: Everything was explained in plain English by Dr. Colm McLoughlin, and nothing was left to guess. The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule.
+
+Overall rating for Dr. Colm McLoughlin, Orthopedic, Dublin: 9.25/10 from 8 reviews

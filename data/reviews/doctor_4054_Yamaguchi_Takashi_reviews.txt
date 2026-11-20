@@ -1,0 +1,59 @@
+Doctor: Dr. Yamaguchi Takashi
+Doctor ID: 4054
+Specialization: General
+Gender: Male
+Years of experience: 8
+City: Osaka, Japan
+Clinics: Honmachi Kaede Health Clinic (clinic ID 523)
+
+Review 1 for Dr. Yamaguchi Takashi, General, Osaka
+Rating: 7/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: I liked the advice I got from Dr. Yamaguchi Takashi, but I would have liked more time to ask follow-up questions before the visit ended. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 2 for Dr. Yamaguchi Takashi, General, Osaka
+Rating: 9/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: At my visit, Dr. Yamaguchi Takashi took notes on my medication list, checked for interactions and explained the changes simply. My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Yamaguchi Takashi, General, Osaka
+Rating: 5/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Honmachi Kaede Health Clinic were inconsistent. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Yamaguchi Takashi, General, Osaka
+Rating: 10/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: My annual check-up with Dr. Yamaguchi Takashi took forty minutes, with every screening explained and nothing rushed. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 5 for Dr. Yamaguchi Takashi, General, Osaka
+Rating: 10/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: By the time I left the room, Dr. Yamaguchi Takashi had sorted the sick note, referral letter and prescription refill. Dr. Yamaguchi Takashi drew a quick sketch to explain what was going on, which helped me remember it afterwards. I feel lucky to have found this practice in my area.
+
+Review 6 for Dr. Yamaguchi Takashi, General, Osaka
+Rating: 8/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: The waiting room at Honmachi Kaede Health Clinic was clean, quiet and comfortable, with enough seating and water available. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Yamaguchi Takashi, General, Osaka
+Rating: 7/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 8 for Dr. Yamaguchi Takashi, General, Osaka
+Rating: 7/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 9 for Dr. Yamaguchi Takashi, General, Osaka
+Rating: 8/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: As a new patient in Osaka, I felt welcomed at Honmachi Kaede Health Clinic, and my whole history was reviewed in one relaxed visit. Everything was explained in plain English by Dr. Yamaguchi Takashi, and nothing was left to guess.
+
+Review 10 for Dr. Yamaguchi Takashi, General, Osaka
+Rating: 7/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Dr. Yamaguchi Takashi is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Overall rating for Dr. Yamaguchi Takashi, General, Osaka: 7.80/10 from 10 reviews

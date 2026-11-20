@@ -1,0 +1,49 @@
+Doctor: Dr. Amit Ansari
+Doctor ID: 6106
+Specialization: Cardiology
+Gender: Male
+Years of experience: 12
+City: Dubai, UAE
+Clinics: Deira Creekside Health Practice (clinic ID 788)
+
+Review 1 for Dr. Amit Ansari, Cardiology, Dubai
+Rating: 6/10
+Clinic visited: Deira Creekside Health Practice
+Description: I got what I needed, but the next available appointment was three weeks away. Great care in the visit itself, but the billing for the tests at Deira Creekside Health Practice was confusing.
+
+Review 2 for Dr. Amit Ansari, Cardiology, Dubai
+Rating: 7/10
+Clinic visited: Deira Creekside Health Practice
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Amit Ansari, Cardiology, Dubai
+Rating: 7/10
+Clinic visited: Deira Creekside Health Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 4 for Dr. Amit Ansari, Cardiology, Dubai
+Rating: 8/10
+Clinic visited: Deira Creekside Health Practice
+Description: I appreciated that he offered more than one option and let me choose what suited my life. I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning.
+
+Review 5 for Dr. Amit Ansari, Cardiology, Dubai
+Rating: 6/10
+Clinic visited: Deira Creekside Health Practice
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. The treatment plan from Dr. Amit Ansari made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Amit Ansari, Cardiology, Dubai
+Rating: 5/10
+Clinic visited: Deira Creekside Health Practice
+Description: Helpful with my cholesterol, Dr. Amit Ansari still gave dietary advice that was a little generic.
+
+Review 7 for Dr. Amit Ansari, Cardiology, Dubai
+Rating: 9/10
+Clinic visited: Deira Creekside Health Practice
+Description: Clear and calm advice at Deira Creekside Health Practice about exercise after my stent, including a gradual written schedule. Booking online at Deira Creekside Health Practice was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 8 for Dr. Amit Ansari, Cardiology, Dubai
+Rating: 8/10
+Clinic visited: Deira Creekside Health Practice
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Overall rating for Dr. Amit Ansari, Cardiology, Dubai: 7.00/10 from 8 reviews

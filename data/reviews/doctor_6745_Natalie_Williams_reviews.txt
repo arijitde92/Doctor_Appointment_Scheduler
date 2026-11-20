@@ -1,0 +1,49 @@
+Doctor: Dr. Natalie Williams
+Doctor ID: 6745
+Specialization: General
+Gender: Female
+Years of experience: 4
+City: Wellington, New Zealand
+Clinics: Waitemata Medical Practice (clinic ID 874)
+
+Review 1 for Dr. Natalie Williams, General, Wellington
+Rating: 9/10
+Clinic visited: Waitemata Medical Practice
+Description: I was given a printed summary of the visit, which I shared with my family at home. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Natalie Williams, General, Wellington
+Rating: 9/10
+Clinic visited: Waitemata Medical Practice
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 3 for Dr. Natalie Williams, General, Wellington
+Rating: 9/10
+Clinic visited: Waitemata Medical Practice
+Description: A translator was arranged for my mother without us asking twice, and Dr. Natalie Williams spoke directly to her throughout.
+
+Review 4 for Dr. Natalie Williams, General, Wellington
+Rating: 10/10
+Clinic visited: Waitemata Medical Practice
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. Paperwork at Waitemata Medical Practice was kept to a minimum, and the staff helped me complete the insurance form. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Natalie Williams, General, Wellington
+Rating: 10/10
+Clinic visited: Waitemata Medical Practice
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Natalie Williams, General, Wellington
+Rating: 7/10
+Clinic visited: Waitemata Medical Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Waitemata Medical Practice. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Natalie Williams, General, Wellington
+Rating: 8/10
+Clinic visited: Waitemata Medical Practice
+Description: The practice in Wellington is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Getting to Waitemata Medical Practice from across Wellington was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 8 for Dr. Natalie Williams, General, Wellington
+Rating: 9/10
+Clinic visited: Waitemata Medical Practice
+Description: As a new patient in Wellington, I felt welcomed at Waitemata Medical Practice, and my whole history was reviewed in one relaxed visit.
+
+Overall rating for Dr. Natalie Williams, General, Wellington: 8.88/10 from 8 reviews

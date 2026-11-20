@@ -1,0 +1,49 @@
+Doctor: Dr. Miguel Pérez Moreno
+Doctor ID: 1395
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 9
+City: Madrid, Spain
+Clinics: Policlínica del Retiro (clinic ID 182); Clínica Nuestra Señora del Pilar (clinic ID 183)
+
+Review 1 for Dr. Miguel Pérez Moreno, Orthopedic, Madrid
+Rating: 9/10
+Clinic visited: Policlínica del Retiro
+Description: Seen the same day at Policlínica del Retiro after a bad ankle sprain, with an X-ray done and a brace fitted before I left.
+
+Review 2 for Dr. Miguel Pérez Moreno, Orthopedic, Madrid
+Rating: 9/10
+Clinic visited: Policlínica del Retiro
+Description: Dr. Miguel Pérez Moreno explained my back scan using a model of the spine, and I finally understood my sciatica. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Miguel Pérez Moreno, Orthopedic, Madrid
+Rating: 9/10
+Clinic visited: Policlínica del Retiro
+Description: The X-ray was reviewed with me on screen, and he pointed out exactly where the cartilage had worn down. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 4 for Dr. Miguel Pérez Moreno, Orthopedic, Madrid
+Rating: 9/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. I asked about the cost before the visit and received an honest estimate that matched the final bill. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Miguel Pérez Moreno, Orthopedic, Madrid
+Rating: 9/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Miguel Pérez Moreno, Orthopedic, Madrid
+Rating: 7/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clínica Nuestra Señora del Pilar. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 7 for Dr. Miguel Pérez Moreno, Orthopedic, Madrid
+Rating: 6/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Dr. Miguel Pérez Moreno was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Miguel Pérez Moreno, Orthopedic, Madrid
+Rating: 9/10
+Clinic visited: Policlínica del Retiro
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Overall rating for Dr. Miguel Pérez Moreno, Orthopedic, Madrid: 8.38/10 from 8 reviews

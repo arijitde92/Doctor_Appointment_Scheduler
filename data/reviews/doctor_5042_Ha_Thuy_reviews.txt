@@ -1,0 +1,69 @@
+Doctor: Dr. Ha Thuy
+Doctor ID: 5042
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 10
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Minh Tam (clinic ID 652)
+
+Review 1 for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Minh Tam
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Minh Tam
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 3 for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Minh Tam
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Ha Thuy felt well organized from start to finish. After years of undiagnosed stomach pain, she identified celiac disease with the right blood tests and a careful plan.
+
+Review 4 for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Minh Tam
+Description: I was given a printed summary of the visit, which I shared with my family at home. Results of the biopsy were shared within a week, with a phone call to walk me through them. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Minh Tam
+Description: Dr. Ha Thuy is thorough, but I waited nearly two months to get the first available slot. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Minh Tam
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good care during my endoscopy, although the recovery area was crowded and noisy. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Minh Tam
+Description: She never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City
+Rating: 5/10
+Clinic visited: Phong Kham Minh Tam
+Description: The treatment plan from Dr. Ha Thuy made sense, but I wished it had been written down for me to take away. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 9 for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Minh Tam
+Description: Sensitive questions were handled by Dr. Ha Thuy with discretion and without a hint of judgment.
+
+Review 10 for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Minh Tam
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 11 for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Minh Tam
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 12 for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Minh Tam
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Ha Thuy, Gastroenterology, Ho Chi Minh City: 7.67/10 from 12 reviews

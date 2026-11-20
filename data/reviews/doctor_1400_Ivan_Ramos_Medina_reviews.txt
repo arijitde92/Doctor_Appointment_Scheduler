@@ -1,0 +1,49 @@
+Doctor: Dr. Iván Ramos Medina
+Doctor ID: 1400
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 3
+City: Madrid, Spain
+Clinics: Clínica Nuestra Señora del Pilar (clinic ID 183)
+
+Review 1 for Dr. Iván Ramos Medina, Pediatrics, Madrid
+Rating: 4/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: The visit felt rushed, and Dr. Iván Ramos Medina was already halfway out the door when I started to describe my second symptom.
+
+Review 2 for Dr. Iván Ramos Medina, Pediatrics, Madrid
+Rating: 3/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: The waiting room at Clínica Nuestra Señora del Pilar was overcrowded and there was nowhere to sit, even for elderly patients. We were left waiting over an hour with a sick, crying baby and received no apology.
+
+Review 3 for Dr. Iván Ramos Medina, Pediatrics, Madrid
+Rating: 6/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Dr. Iván Ramos Medina was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 4 for Dr. Iván Ramos Medina, Pediatrics, Madrid
+Rating: 4/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: The referral to a specialist never arrived, and I had to chase it myself for weeks. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 5 for Dr. Iván Ramos Medina, Pediatrics, Madrid
+Rating: 6/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Quick appointment and a fair price in Madrid, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Iván Ramos Medina, Pediatrics, Madrid
+Rating: 4/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: There was no translator available, and my parent was left unable to follow what was being said. I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 7 for Dr. Iván Ramos Medina, Pediatrics, Madrid
+Rating: 7/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clínica Nuestra Señora del Pilar.
+
+Review 8 for Dr. Iván Ramos Medina, Pediatrics, Madrid
+Rating: 4/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Dr. Iván Ramos Medina spoke mostly to the computer, and my child clung to me throughout the whole appointment. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Overall rating for Dr. Iván Ramos Medina, Pediatrics, Madrid: 4.75/10 from 8 reviews

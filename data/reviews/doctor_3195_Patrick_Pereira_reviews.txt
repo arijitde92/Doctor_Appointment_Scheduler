@@ -1,0 +1,49 @@
+Doctor: Dr. Patrick Pereira
+Doctor ID: 3195
+Specialization: Radiology
+Gender: Male
+Years of experience: 6
+City: Differdange, Luxembourg
+Clinics: Cabinet Médical Differdange Centre (clinic ID 415); Centre Médical Oberkorn (clinic ID 416); Clinique Fousbann (clinic ID 418)
+
+Review 1 for Dr. Patrick Pereira, Radiology, Differdange
+Rating: 7/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: The report from Dr. Patrick Pereira was thorough, though full of technical terms that needed my regular doctor to translate. The doctor was kind, though the clinic's evening hours are very limited for working people. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Patrick Pereira, Radiology, Differdange
+Rating: 10/10
+Clinic visited: Centre Médical Oberkorn
+Description: The practice in Differdange is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 3 for Dr. Patrick Pereira, Radiology, Differdange
+Rating: 6/10
+Clinic visited: Clinique Fousbann
+Description: Dr. Patrick Pereira was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 4 for Dr. Patrick Pereira, Radiology, Differdange
+Rating: 9/10
+Clinic visited: Clinique Fousbann
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 5 for Dr. Patrick Pereira, Radiology, Differdange
+Rating: 6/10
+Clinic visited: Centre Médical Oberkorn
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 6 for Dr. Patrick Pereira, Radiology, Differdange
+Rating: 8/10
+Clinic visited: Centre Médical Oberkorn
+Description: When my scan showed something that needed a second look, Dr. Patrick Pereira arranged the follow-up the same day. Dr. Patrick Pereira drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 7 for Dr. Patrick Pereira, Radiology, Differdange
+Rating: 7/10
+Clinic visited: Centre Médical Oberkorn
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 8 for Dr. Patrick Pereira, Radiology, Differdange
+Rating: 9/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Patrick Pereira, Radiology, Differdange: 7.75/10 from 8 reviews

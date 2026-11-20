@@ -1,0 +1,49 @@
+Doctor: Dr. Matthias Wagner
+Doctor ID: 3019
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 2
+City: Vienna, Austria
+Clinics: Medizinisches Zentrum Landstraße (clinic ID 393)
+
+Review 1 for Dr. Matthias Wagner, Psychiatry, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Matthias Wagner, Psychiatry, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely.
+
+Review 3 for Dr. Matthias Wagner, Psychiatry, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Appointments in Vienna are always on schedule, and the waiting area is peaceful and private.
+
+Review 4 for Dr. Matthias Wagner, Psychiatry, Vienna
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Matthias Wagner, Psychiatry, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Dr. Matthias Wagner took a full history before suggesting any medication and explained the likely side effects honestly. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 6 for Dr. Matthias Wagner, Psychiatry, Vienna
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Matthias Wagner, Psychiatry, Vienna
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. At my visit, Dr. Matthias Wagner took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 8 for Dr. Matthias Wagner, Psychiatry, Vienna
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Excellent at explaining how therapy and medication work together, and Dr. Matthias Wagner coordinated with my counselor. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Overall rating for Dr. Matthias Wagner, Psychiatry, Vienna: 8.50/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Rey Bautista
+Doctor ID: 6111
+Specialization: Psychology
+Gender: Male
+Years of experience: 10
+City: Dubai, UAE
+Clinics: Al Barsha Wellness Clinic (clinic ID 789)
+
+Review 1 for Dr. Rey Bautista, Psychology, Dubai
+Rating: 6/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The first assessment was thorough, but I waited almost three weeks for a follow-up slot. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Rey Bautista, Psychology, Dubai
+Rating: 8/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 3 for Dr. Rey Bautista, Psychology, Dubai
+Rating: 7/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: Dr. Rey Bautista was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Rey Bautista, Psychology, Dubai
+Rating: 8/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: Prescriptions from Dr. Rey Bautista were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Warm, patient and honest, Dr. Rey Bautista told me what progress to expect and it matched reality.
+
+Review 5 for Dr. Rey Bautista, Psychology, Dubai
+Rating: 7/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: Good bedside manner from Dr. Rey Bautista, but the parking near Al Barsha Wellness Clinic is limited and I had to circle for fifteen minutes. Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 6 for Dr. Rey Bautista, Psychology, Dubai
+Rating: 7/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 7 for Dr. Rey Bautista, Psychology, Dubai
+Rating: 7/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: Dr. Rey Bautista listens well, though some sessions felt like a recap of the previous one without much new direction. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Rey Bautista, Psychology, Dubai
+Rating: 9/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 9 for Dr. Rey Bautista, Psychology, Dubai
+Rating: 7/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Rey Bautista, Psychology, Dubai
+Rating: 9/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Overall rating for Dr. Rey Bautista, Psychology, Dubai: 7.50/10 from 10 reviews

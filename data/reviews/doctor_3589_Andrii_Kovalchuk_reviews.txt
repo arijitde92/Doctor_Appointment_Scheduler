@@ -1,0 +1,49 @@
+Doctor: Dr. Andrii Kovalchuk
+Doctor ID: 3589
+Specialization: Psychology
+Gender: Male
+Years of experience: 26
+City: Kyiv, Ukraine
+Clinics: Klinika Sofiivska Dobrota (clinic ID 464)
+
+Review 1 for Dr. Andrii Kovalchuk, Psychology, Kyiv
+Rating: 10/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Working through my grief felt guided but never forced, and we always ended each session with something concrete to try.
+
+Review 2 for Dr. Andrii Kovalchuk, Psychology, Kyiv
+Rating: 8/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Getting to Klinika Sofiivska Dobrota by public transport in Kyiv was easy, and there is a step-free entrance for wheelchairs.
+
+Review 3 for Dr. Andrii Kovalchuk, Psychology, Kyiv
+Rating: 10/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Warm, patient and honest, Dr. Andrii Kovalchuk told me what progress to expect and it matched reality. The nurse was friendly and efficient, and the whole visit with Dr. Andrii Kovalchuk felt well organized from start to finish.
+
+Review 4 for Dr. Andrii Kovalchuk, Psychology, Kyiv
+Rating: 9/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 5 for Dr. Andrii Kovalchuk, Psychology, Kyiv
+Rating: 10/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Booking online at Klinika Sofiivska Dobrota was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 6 for Dr. Andrii Kovalchuk, Psychology, Kyiv
+Rating: 8/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Couples therapy at Klinika Sofiivska Dobrota helped us stop repeating the same argument. We now have a way to pause and listen.
+
+Review 7 for Dr. Andrii Kovalchuk, Psychology, Kyiv
+Rating: 7/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Dr. Andrii Kovalchuk listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 8 for Dr. Andrii Kovalchuk, Psychology, Kyiv
+Rating: 7/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Insightful and kind, though progress with Dr. Andrii Kovalchuk felt slow, and I wished for more structured homework between sessions.
+
+Overall rating for Dr. Andrii Kovalchuk, Psychology, Kyiv: 8.62/10 from 8 reviews

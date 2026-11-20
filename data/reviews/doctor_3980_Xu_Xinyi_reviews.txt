@@ -1,0 +1,54 @@
+Doctor: Dr. Xu Xinyi
+Doctor ID: 3980
+Specialization: General
+Gender: Female
+Years of experience: 23
+City: Shenzhen, China
+Clinics: Shennan Hengxin Polyclinic (clinic ID 513)
+
+Review 1 for Dr. Xu Xinyi, General, Shenzhen
+Rating: 7/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Shennan Hengxin Polyclinic were inconsistent. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Xu Xinyi, General, Shenzhen
+Rating: 6/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Xu Xinyi, General, Shenzhen
+Rating: 7/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 4 for Dr. Xu Xinyi, General, Shenzhen
+Rating: 7/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 5 for Dr. Xu Xinyi, General, Shenzhen
+Rating: 7/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Quick appointment and a fair price in Shenzhen, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Xu Xinyi is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Xu Xinyi, General, Shenzhen
+Rating: 9/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Dr. Xu Xinyi spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Xu Xinyi, General, Shenzhen
+Rating: 6/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Xu Xinyi, General, Shenzhen
+Rating: 4/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: The visit felt rushed, and Dr. Xu Xinyi was already halfway out the door when I started to describe my second symptom. My lab results from Shennan Hengxin Polyclinic were never called in, and I only found them by chasing the front desk three times. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 9 for Dr. Xu Xinyi, General, Shenzhen
+Rating: 4/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: I came in about worsening headaches and was told to drink more water and relax, with no examination at all. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Overall rating for Dr. Xu Xinyi, General, Shenzhen: 6.33/10 from 9 reviews

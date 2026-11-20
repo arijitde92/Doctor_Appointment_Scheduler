@@ -1,0 +1,59 @@
+Doctor: Dr. Adam Miller
+Doctor ID: 140
+Specialization: Cardiology
+Gender: Male
+Years of experience: 28
+City: Houston, USA
+Clinics: Bayou City Family Medicine (clinic ID 20)
+
+Review 1 for Dr. Adam Miller, Cardiology, Houston
+Rating: 6/10
+Clinic visited: Bayou City Family Medicine
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Great care in the visit itself, but the billing for the tests at Bayou City Family Medicine was confusing.
+
+Review 2 for Dr. Adam Miller, Cardiology, Houston
+Rating: 4/10
+Clinic visited: Bayou City Family Medicine
+Description: My worries about side effects from my medication were waved off, and nobody offered an alternative. Dr. Adam Miller did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 3 for Dr. Adam Miller, Cardiology, Houston
+Rating: 6/10
+Clinic visited: Bayou City Family Medicine
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Adam Miller, Cardiology, Houston
+Rating: 6/10
+Clinic visited: Bayou City Family Medicine
+Description: Helpful with my cholesterol, Dr. Adam Miller still gave dietary advice that was a little generic. Booking was easy online, but the confirmation email contained the wrong address for Bayou City Family Medicine.
+
+Review 5 for Dr. Adam Miller, Cardiology, Houston
+Rating: 8/10
+Clinic visited: Bayou City Family Medicine
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 6 for Dr. Adam Miller, Cardiology, Houston
+Rating: 5/10
+Clinic visited: Bayou City Family Medicine
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Dr. Adam Miller was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Adam Miller, Cardiology, Houston
+Rating: 5/10
+Clinic visited: Bayou City Family Medicine
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. I liked the advice I got from Dr. Adam Miller, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Adam Miller, Cardiology, Houston
+Rating: 7/10
+Clinic visited: Bayou City Family Medicine
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Adam Miller, Cardiology, Houston
+Rating: 8/10
+Clinic visited: Bayou City Family Medicine
+Description: After my palpitations began, Dr. Adam Miller arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 10 for Dr. Adam Miller, Cardiology, Houston
+Rating: 5/10
+Clinic visited: Bayou City Family Medicine
+Description: Quick appointment and a fair price in Houston, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Adam Miller adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Overall rating for Dr. Adam Miller, Cardiology, Houston: 6.00/10 from 10 reviews

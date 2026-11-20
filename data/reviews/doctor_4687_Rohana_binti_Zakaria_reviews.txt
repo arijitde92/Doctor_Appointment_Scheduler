@@ -1,0 +1,64 @@
+Doctor: Dr. Rohana binti Zakaria
+Doctor ID: 4687
+Specialization: Pathology
+Gender: Female
+Years of experience: 1
+City: Johor Bahru, Malaysia
+Clinics: Klinik Sinar Mutiara (clinic ID 606)
+
+Review 1 for Dr. Rohana binti Zakaria, Pathology, Johor Bahru
+Rating: 6/10
+Clinic visited: Klinik Sinar Mutiara
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Rohana binti Zakaria, Pathology, Johor Bahru
+Rating: 6/10
+Clinic visited: Klinik Sinar Mutiara
+Description: Dr. Rohana binti Zakaria answered my questions kindly, though the call back took three days. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Rohana binti Zakaria, Pathology, Johor Bahru
+Rating: 4/10
+Clinic visited: Klinik Sinar Mutiara
+Description: I was billed twice for the same panel and it took a month to get a correction. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 4 for Dr. Rohana binti Zakaria, Pathology, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sinar Mutiara
+Description: The treatment plan from Dr. Rohana binti Zakaria made sense, but I wished it had been written down for me to take away. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 5 for Dr. Rohana binti Zakaria, Pathology, Johor Bahru
+Rating: 7/10
+Clinic visited: Klinik Sinar Mutiara
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Rohana binti Zakaria, Pathology, Johor Bahru
+Rating: 6/10
+Clinic visited: Klinik Sinar Mutiara
+Description: Quick appointment and a fair price in Johor Bahru, but the staff seemed overwhelmed and a bit curt on the phone. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Rohana binti Zakaria, Pathology, Johor Bahru
+Rating: 7/10
+Clinic visited: Klinik Sinar Mutiara
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 8 for Dr. Rohana binti Zakaria, Pathology, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sinar Mutiara
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Rohana binti Zakaria, Pathology, Johor Bahru
+Rating: 3/10
+Clinic visited: Klinik Sinar Mutiara
+Description: There was no translator available, and my parent was left unable to follow what was being said. Dr. Rohana binti Zakaria was never available to talk about my result, and the front desk repeated that I should ask my referring physician.
+
+Review 10 for Dr. Rohana binti Zakaria, Pathology, Johor Bahru
+Rating: 1/10
+Clinic visited: Klinik Sinar Mutiara
+Description: My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 11 for Dr. Rohana binti Zakaria, Pathology, Johor Bahru
+Rating: 7/10
+Clinic visited: Klinik Sinar Mutiara
+Description: The blood draw was painless, but the waiting area at Klinik Sinar Mutiara was crowded in the early morning. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Rohana binti Zakaria, Pathology, Johor Bahru: 5.18/10 from 11 reviews

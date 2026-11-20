@@ -1,0 +1,54 @@
+Doctor: Dr. Han Kyung-soo
+Doctor ID: 4170
+Specialization: Cardiology
+Gender: Male
+Years of experience: 16
+City: Busan, South Korea
+Clinics: Nampo Hanbit Health Clinic (clinic ID 537)
+
+Review 1 for Dr. Han Kyung-soo, Cardiology, Busan
+Rating: 6/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: Helpful with my cholesterol, Dr. Han Kyung-soo still gave dietary advice that was a little generic.
+
+Review 2 for Dr. Han Kyung-soo, Cardiology, Busan
+Rating: 7/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: Great care in the visit itself, but the billing for the tests at Nampo Hanbit Health Clinic was confusing. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Han Kyung-soo, Cardiology, Busan
+Rating: 8/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Han Kyung-soo felt well organized from start to finish.
+
+Review 4 for Dr. Han Kyung-soo, Cardiology, Busan
+Rating: 4/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: My worries about side effects from my medication were waved off, and nobody offered an alternative. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 5 for Dr. Han Kyung-soo, Cardiology, Busan
+Rating: 7/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Han Kyung-soo, Cardiology, Busan
+Rating: 6/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: Dr. Han Kyung-soo adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 7 for Dr. Han Kyung-soo, Cardiology, Busan
+Rating: 5/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 8 for Dr. Han Kyung-soo, Cardiology, Busan
+Rating: 6/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Han Kyung-soo, Cardiology, Busan
+Rating: 8/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Clear and calm advice at Nampo Hanbit Health Clinic about exercise after my stent, including a gradual written schedule. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Han Kyung-soo, Cardiology, Busan: 6.33/10 from 9 reviews

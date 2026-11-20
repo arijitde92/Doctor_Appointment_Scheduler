@@ -1,0 +1,54 @@
+Doctor: Dr. Mai Duc
+Doctor ID: 4970
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 25
+City: Hai Phong, Vietnam
+Clinics: Phong Kham Da Khoa Nam Phuong (clinic ID 642)
+
+Review 1 for Dr. Mai Duc, Obstetrics and Gynecology (OB/GYN), Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: Dr. Mai Duc explained my options well, though the office was often running an hour behind.
+
+Review 2 for Dr. Mai Duc, Obstetrics and Gynecology (OB/GYN), Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: A respectful exam, but I wished for more discussion on pain management before my procedure. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Mai Duc, Obstetrics and Gynecology (OB/GYN), Hai Phong
+Rating: 4/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: My concerns about heavy bleeding were met with 'that's normal' and no tests, and I felt dismissed.
+
+Review 4 for Dr. Mai Duc, Obstetrics and Gynecology (OB/GYN), Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: Dr. Mai Duc was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked.
+
+Review 5 for Dr. Mai Duc, Obstetrics and Gynecology (OB/GYN), Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: The ultrasound images from Dr. Mai Duc were great, but I had to call twice to get the written report.
+
+Review 6 for Dr. Mai Duc, Obstetrics and Gynecology (OB/GYN), Hai Phong
+Rating: 4/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: My questions about birth options were brushed aside and I felt pushed toward a plan I had not chosen.
+
+Review 7 for Dr. Mai Duc, Obstetrics and Gynecology (OB/GYN), Hai Phong
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. Dr. Mai Duc was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Mai Duc, Obstetrics and Gynecology (OB/GYN), Hai Phong
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: The treatment plan from Dr. Mai Duc made sense, but I wished it had been written down for me to take away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Mai Duc, Obstetrics and Gynecology (OB/GYN), Hai Phong
+Rating: 4/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: Results of my screening were never communicated, and I only learned about them at the next appointment.
+
+Overall rating for Dr. Mai Duc, Obstetrics and Gynecology (OB/GYN), Hai Phong: 5.22/10 from 9 reviews

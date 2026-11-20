@@ -1,0 +1,59 @@
+Doctor: Dr. Cao Jie
+Doctor ID: 3912
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 19
+City: Shanghai, China
+Clinics: Lujiazui Kangtai Medical Centre (clinic ID 505)
+
+Review 1 for Dr. Cao Jie, Psychiatry, Shanghai
+Rating: 7/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Good listener, yet the refill process at Lujiazui Kangtai Medical Centre is slow and requires several phone calls.
+
+Review 2 for Dr. Cao Jie, Psychiatry, Shanghai
+Rating: 7/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Dr. Cao Jie was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. Cao Jie is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 3 for Dr. Cao Jie, Psychiatry, Shanghai
+Rating: 6/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 4 for Dr. Cao Jie, Psychiatry, Shanghai
+Rating: 5/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 5 for Dr. Cao Jie, Psychiatry, Shanghai
+Rating: 7/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 6 for Dr. Cao Jie, Psychiatry, Shanghai
+Rating: 6/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 7 for Dr. Cao Jie, Psychiatry, Shanghai
+Rating: 6/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Cao Jie, Psychiatry, Shanghai
+Rating: 7/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Booking was easy online, but the confirmation email contained the wrong address for Lujiazui Kangtai Medical Centre.
+
+Review 9 for Dr. Cao Jie, Psychiatry, Shanghai
+Rating: 7/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 10 for Dr. Cao Jie, Psychiatry, Shanghai
+Rating: 6/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Overall rating for Dr. Cao Jie, Psychiatry, Shanghai: 6.40/10 from 10 reviews

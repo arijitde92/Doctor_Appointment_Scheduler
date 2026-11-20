@@ -1,0 +1,54 @@
+Doctor: Dr. Jussi Turunen
+Doctor ID: 1913
+Specialization: Cardiology
+Gender: Male
+Years of experience: 3
+City: Tampere, Finland
+Clinics: Terveyskeskus Tahmela (clinic ID 249)
+
+Review 1 for Dr. Jussi Turunen, Cardiology, Tampere
+Rating: 6/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Helpful with my cholesterol, Dr. Jussi Turunen still gave dietary advice that was a little generic. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Jussi Turunen, Cardiology, Tampere
+Rating: 9/10
+Clinic visited: Terveyskeskus Tahmela
+Description: My atrial fibrillation is well managed by Dr. Jussi Turunen, and I know exactly what symptoms mean I should call. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 3 for Dr. Jussi Turunen, Cardiology, Tampere
+Rating: 8/10
+Clinic visited: Terveyskeskus Tahmela
+Description: After my palpitations began, Dr. Jussi Turunen arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 4 for Dr. Jussi Turunen, Cardiology, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Jussi Turunen, Cardiology, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Dr. Jussi Turunen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. Jussi Turunen adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 6 for Dr. Jussi Turunen, Cardiology, Tampere
+Rating: 6/10
+Clinic visited: Terveyskeskus Tahmela
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Jussi Turunen, Cardiology, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Good bedside manner from Dr. Jussi Turunen, but the parking near Terveyskeskus Tahmela is limited and I had to circle for fifteen minutes. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Jussi Turunen, Cardiology, Tampere
+Rating: 8/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. I asked about the cost before the visit and received an honest estimate that matched the final bill. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Jussi Turunen, Cardiology, Tampere
+Rating: 9/10
+Clinic visited: Terveyskeskus Tahmela
+Description: The cardiology unit at Terveyskeskus Tahmela runs on time, and the technicians were professional during my echocardiogram. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Jussi Turunen, Cardiology, Tampere: 7.44/10 from 9 reviews

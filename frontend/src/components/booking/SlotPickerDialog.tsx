@@ -6,6 +6,7 @@ import { SLOT_TIMES } from "../../config/catalog";
 import { ApiError, bookedSlots } from "../../lib/api";
 import { formatLongDate, weekdayName } from "../../lib/calendar";
 import { toIsoDate } from "../../lib/dates";
+import { clinicTimeZone, viewerTime, zonedInstant, zoneLabel } from "../../lib/timezones";
 import type { AvailabilityResult } from "../../lib/types";
 import { Modal } from "../Modal";
 import { Button } from "../ui";
@@ -43,6 +44,9 @@ export function SlotPickerDialog({
 }) {
   const iso = toIsoDate(date);
   const weekday = weekdayName(date);
+  const timeZone = clinicTimeZone(target.clinic);
+  // Offset on the chosen day (it can differ from today's around DST changes).
+  const midday = timeZone ? zonedInstant(iso, "12:00 PM", timeZone) : null;
   const [taken, setTaken] = useState<number[] | null>(null);
   const [selected, setSelected] = useState<number | null>(target.slotIndex ?? null);
   const [submitting, setSubmitting] = useState(false);
@@ -171,6 +175,7 @@ export function SlotPickerDialog({
                   const time = SLOT_TIMES[i];
                   const available = state === "available";
                   const isSelected = selected === i;
+                  const yours = viewerTime(iso, time.start, timeZone);
                   return (
                     <button
                       key={i}
@@ -191,10 +196,20 @@ export function SlotPickerDialog({
                       <span className={clsx("block text-[0.6875rem]", isSelected ? "text-brand-100" : "opacity-80")}>
                         {available ? `until ${time.end}` : state === "taken" ? "Just booked" : "Booked"}
                       </span>
+                      {yours && available && (
+                        <span className={clsx("mt-0.5 block text-[0.625rem]", isSelected ? "text-brand-100" : "text-slate-500")}>
+                          {yours} your time
+                        </span>
+                      )}
                     </button>
                   );
                 })}
               </div>
+              {timeZone && (
+                <p className="mt-2 text-xs text-slate-500">
+                  Clinic local time: {zoneLabel(timeZone, midday ?? undefined)}.
+                </p>
+              )}
               {openCount === 0 && (
                 <p className="mt-3 text-sm text-slate-500">No open times on this day. Try another date.</p>
               )}

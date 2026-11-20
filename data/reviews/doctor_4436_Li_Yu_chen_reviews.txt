@@ -1,0 +1,49 @@
+Doctor: Dr. Li Yu-chen
+Doctor ID: 4436
+Specialization: Psychology
+Gender: Female
+Years of experience: 8
+City: Taipei, Taiwan
+Clinics: Daan Mingde Health Clinic (clinic ID 572)
+
+Review 1 for Dr. Li Yu-chen, Psychology, Taipei
+Rating: 9/10
+Clinic visited: Daan Mingde Health Clinic
+Description: I never felt judged by Dr. Li Yu-chen when talking about my burnout, and the sessions gave me language for things I could not explain before. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Li Yu-chen, Psychology, Taipei
+Rating: 8/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Dr. Li Yu-chen adapted the approach when the first method did not suit me, and that flexibility made all the difference.
+
+Review 3 for Dr. Li Yu-chen, Psychology, Taipei
+Rating: 7/10
+Clinic visited: Daan Mingde Health Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Li Yu-chen, Psychology, Taipei
+Rating: 10/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Warm, patient and honest, Dr. Li Yu-chen told me what progress to expect and it matched reality.
+
+Review 5 for Dr. Li Yu-chen, Psychology, Taipei
+Rating: 5/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Dr. Li Yu-chen listens well, though some sessions felt like a recap of the previous one without much new direction. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Li Yu-chen, Psychology, Taipei
+Rating: 10/10
+Clinic visited: Daan Mingde Health Clinic
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Li Yu-chen gave me practical tools I still use.
+
+Review 7 for Dr. Li Yu-chen, Psychology, Taipei
+Rating: 10/10
+Clinic visited: Daan Mingde Health Clinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Li Yu-chen, Psychology, Taipei
+Rating: 8/10
+Clinic visited: Daan Mingde Health Clinic
+Description: I appreciated the written summary Dr. Li Yu-chen sent after each session and the short worksheets between visits. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Overall rating for Dr. Li Yu-chen, Psychology, Taipei: 8.38/10 from 8 reviews

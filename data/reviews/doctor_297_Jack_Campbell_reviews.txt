@@ -1,0 +1,59 @@
+Doctor: Dr. Jack Campbell
+Doctor ID: 297
+Specialization: General
+Gender: Male
+Years of experience: 12
+City: Montreal, Canada
+Clinics: Clinique Médicale du Plateau (clinic ID 40)
+
+Review 1 for Dr. Jack Campbell, General, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale du Plateau
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Jack Campbell, General, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Dr. Jack Campbell drew a quick sketch to explain what was going on, which helped me remember it afterwards. My annual check-up with Dr. Jack Campbell took forty minutes, with every screening explained and nothing rushed. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Jack Campbell, General, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Cholesterol results were explained by Dr. Jack Campbell with a simple chart, and we agreed on a plan I could realistically follow. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 4 for Dr. Jack Campbell, General, Montreal
+Rating: 10/10
+Clinic visited: Clinique Médicale du Plateau
+Description: I went in with months of tiredness, and Dr. Jack Campbell ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. The nurse was friendly and efficient, and the whole visit with Dr. Jack Campbell felt well organized from start to finish.
+
+Review 5 for Dr. Jack Campbell, General, Montreal
+Rating: 6/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Jack Campbell, General, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale du Plateau
+Description: The practice in Montreal is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 7 for Dr. Jack Campbell, General, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 8 for Dr. Jack Campbell, General, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Getting to Clinique Médicale du Plateau from across Montreal was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 9 for Dr. Jack Campbell, General, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale du Plateau
+Description: As a new patient in Montreal, I felt welcomed at Clinique Médicale du Plateau, and my whole history was reviewed in one relaxed visit. Dr. Jack Campbell used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 10 for Dr. Jack Campbell, General, Montreal
+Rating: 6/10
+Clinic visited: Clinique Médicale du Plateau
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Overall rating for Dr. Jack Campbell, General, Montreal: 8.00/10 from 10 reviews

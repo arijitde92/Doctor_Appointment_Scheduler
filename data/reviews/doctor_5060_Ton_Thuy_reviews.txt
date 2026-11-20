@@ -1,0 +1,59 @@
+Doctor: Dr. Ton Thuy
+Doctor ID: 5060
+Specialization: Pathology
+Gender: Female
+Years of experience: 4
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Dong Duong (clinic ID 654)
+
+Review 1 for Dr. Ton Thuy, Pathology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Dong Duong
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Ton Thuy answered my questions kindly, though the call back took three days. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Ton Thuy, Pathology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Dong Duong
+Description: The waiting room at Phong Kham Dong Duong was clean, quiet and comfortable, with enough seating and water available. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Ton Thuy, Pathology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Dong Duong
+Description: I was nervous about the biopsy result, and the call from Dr. Ton Thuy was gentle, honest and unhurried. Dr. Ton Thuy used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 4 for Dr. Ton Thuy, Pathology, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Dong Duong
+Description: Dr. Ton Thuy was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 5 for Dr. Ton Thuy, Pathology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Dong Duong
+Description: Getting to Phong Kham Dong Duong by public transport in Ho Chi Minh City was easy, and there is a step-free entrance for wheelchairs.
+
+Review 6 for Dr. Ton Thuy, Pathology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Dong Duong
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 7 for Dr. Ton Thuy, Pathology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Dong Duong
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 8 for Dr. Ton Thuy, Pathology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Dong Duong
+Description: The lab under Dr. Ton Thuy was clean, organized and never overbooked, and results arrived exactly when promised. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 9 for Dr. Ton Thuy, Pathology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Dong Duong
+Description: The lab at Phong Kham Dong Duong had a quick, friendly blood draw and the phlebotomist found my vein on the first try. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 10 for Dr. Ton Thuy, Pathology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Dong Duong
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Helpful in clarifying a borderline result, though Dr. Ton Thuy gave little guidance about whether to repeat it.
+
+Overall rating for Dr. Ton Thuy, Pathology, Ho Chi Minh City: 8.00/10 from 10 reviews

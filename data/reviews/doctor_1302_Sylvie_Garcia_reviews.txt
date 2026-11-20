@@ -1,0 +1,54 @@
+Doctor: Dr. Sylvie Garcia
+Doctor ID: 1302
+Specialization: Psychology
+Gender: Female
+Years of experience: 11
+City: Paris, France
+Clinics: Polyclinique des Batignolles (clinic ID 169)
+
+Review 1 for Dr. Sylvie Garcia, Psychology, Paris
+Rating: 9/10
+Clinic visited: Polyclinique des Batignolles
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Sylvie Garcia, Psychology, Paris
+Rating: 4/10
+Clinic visited: Polyclinique des Batignolles
+Description: Dr. Sylvie Garcia did not seem to have read my notes and asked me to repeat my whole history from the beginning. I raised concerns about the pace of treatment and they were dismissed rather than discussed.
+
+Review 3 for Dr. Sylvie Garcia, Psychology, Paris
+Rating: 7/10
+Clinic visited: Polyclinique des Batignolles
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 4 for Dr. Sylvie Garcia, Psychology, Paris
+Rating: 5/10
+Clinic visited: Polyclinique des Batignolles
+Description: My trauma work felt well paced, although the schedule changed several times at Polyclinique des Batignolles. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Sylvie Garcia, Psychology, Paris
+Rating: 8/10
+Clinic visited: Polyclinique des Batignolles
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 6 for Dr. Sylvie Garcia, Psychology, Paris
+Rating: 5/10
+Clinic visited: Polyclinique des Batignolles
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. Dr. Sylvie Garcia was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Sylvie Garcia, Psychology, Paris
+Rating: 5/10
+Clinic visited: Polyclinique des Batignolles
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Sylvie Garcia, Psychology, Paris
+Rating: 8/10
+Clinic visited: Polyclinique des Batignolles
+Description: I appreciated the written summary Dr. Sylvie Garcia sent after each session and the short worksheets between visits. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 9 for Dr. Sylvie Garcia, Psychology, Paris
+Rating: 7/10
+Clinic visited: Polyclinique des Batignolles
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. Good bedside manner from Dr. Sylvie Garcia, but the parking near Polyclinique des Batignolles is limited and I had to circle for fifteen minutes. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Sylvie Garcia, Psychology, Paris: 6.44/10 from 9 reviews

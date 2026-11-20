@@ -1,0 +1,54 @@
+Doctor: Dr. Sara Gil Cortés
+Doctor ID: 1343
+Specialization: Neurology
+Gender: Female
+Years of experience: 4
+City: Barcelona, Spain
+Clinics: Clínica Sant Jordi (clinic ID 175)
+
+Review 1 for Dr. Sara Gil Cortés, Neurology, Barcelona
+Rating: 7/10
+Clinic visited: Clínica Sant Jordi
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Sara Gil Cortés at Clínica Sant Jordi are difficult to schedule. Good bedside manner from Dr. Sara Gil Cortés, but the parking near Clínica Sant Jordi is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Sara Gil Cortés, Neurology, Barcelona
+Rating: 8/10
+Clinic visited: Clínica Sant Jordi
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Living with multiple sclerosis feels less frightening because Dr. Sara Gil Cortés explains and discusses every change in my plan.
+
+Review 3 for Dr. Sara Gil Cortés, Neurology, Barcelona
+Rating: 8/10
+Clinic visited: Clínica Sant Jordi
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 4 for Dr. Sara Gil Cortés, Neurology, Barcelona
+Rating: 5/10
+Clinic visited: Clínica Sant Jordi
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Sara Gil Cortés, Neurology, Barcelona
+Rating: 6/10
+Clinic visited: Clínica Sant Jordi
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Sara Gil Cortés, Neurology, Barcelona
+Rating: 6/10
+Clinic visited: Clínica Sant Jordi
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Sara Gil Cortés, Neurology, Barcelona
+Rating: 6/10
+Clinic visited: Clínica Sant Jordi
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The migraine plan has helped, though the first medication caused side effects that were not fully explained. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Sara Gil Cortés, Neurology, Barcelona
+Rating: 6/10
+Clinic visited: Clínica Sant Jordi
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 9 for Dr. Sara Gil Cortés, Neurology, Barcelona
+Rating: 7/10
+Clinic visited: Clínica Sant Jordi
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Overall rating for Dr. Sara Gil Cortés, Neurology, Barcelona: 6.56/10 from 9 reviews

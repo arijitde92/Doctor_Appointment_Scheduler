@@ -1,0 +1,64 @@
+Doctor: Dr. Sven van Dijk
+Doctor ID: 2595
+Specialization: General
+Gender: Male
+Years of experience: 12
+City: Rotterdam, Netherlands
+Clinics: Medisch Centrum Coolsingel (clinic ID 340); Gezondheidscentrum Delfshaven (clinic ID 342)
+
+Review 1 for Dr. Sven van Dijk, General, Rotterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Gezondheidscentrum Delfshaven were inconsistent. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Sven van Dijk, General, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 3 for Dr. Sven van Dijk, General, Rotterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Sven van Dijk, General, Rotterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 5 for Dr. Sven van Dijk, General, Rotterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Referrals from Dr. Sven van Dijk are handled well, but getting test results back took longer than I was told to expect. Quick appointment and a fair price in Rotterdam, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Sven van Dijk, General, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: The practice in Rotterdam is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. My blood pressure had crept up and Dr. Sven van Dijk walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 7 for Dr. Sven van Dijk, General, Rotterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Sven van Dijk, General, Rotterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 9 for Dr. Sven van Dijk, General, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: By the time I left the room, Dr. Sven van Dijk had sorted the sick note, referral letter and prescription refill. I will be coming back for all my future check-ups.
+
+Review 10 for Dr. Sven van Dijk, General, Rotterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: Vaccination advice from Dr. Sven van Dijk for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 11 for Dr. Sven van Dijk, General, Rotterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: A same-day slot was found for me at Medisch Centrum Coolsingel when I called with a worrying symptom.
+
+Overall rating for Dr. Sven van Dijk, General, Rotterdam: 7.64/10 from 11 reviews

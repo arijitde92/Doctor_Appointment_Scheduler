@@ -1,0 +1,59 @@
+Doctor: Dr. Wayan Wijaya
+Doctor ID: 5156
+Specialization: Neurology
+Gender: Male
+Years of experience: 4
+City: Jakarta, Indonesia
+Clinics: Klinik Cahaya Medika (clinic ID 666); Klinik Medika Nusantara (clinic ID 669)
+
+Review 1 for Dr. Wayan Wijaya, Neurology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Cahaya Medika
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 2 for Dr. Wayan Wijaya, Neurology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Cahaya Medika
+Description: The memory assessment for my father at Klinik Cahaya Medika was gentle and respectful, and the family received a clear written summary.
+
+Review 3 for Dr. Wayan Wijaya, Neurology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Medika Nusantara
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Booking was easy online, but the confirmation email contained the wrong address for Klinik Medika Nusantara.
+
+Review 4 for Dr. Wayan Wijaya, Neurology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Medika Nusantara
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 5 for Dr. Wayan Wijaya, Neurology, Jakarta
+Rating: 6/10
+Clinic visited: Klinik Medika Nusantara
+Description: Dr. Wayan Wijaya explained my results well, although the visit felt short for such a complex condition. The treatment plan from Dr. Wayan Wijaya made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Wayan Wijaya, Neurology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Medika Nusantara
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. I liked the advice I got from Dr. Wayan Wijaya, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Wayan Wijaya, Neurology, Jakarta
+Rating: 5/10
+Clinic visited: Klinik Medika Nusantara
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Wayan Wijaya, Neurology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Medika Nusantara
+Description: Dr. Wayan Wijaya was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 9 for Dr. Wayan Wijaya, Neurology, Jakarta
+Rating: 5/10
+Clinic visited: Klinik Cahaya Medika
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 10 for Dr. Wayan Wijaya, Neurology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Medika Nusantara
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Wayan Wijaya at Klinik Medika Nusantara are difficult to schedule. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Wayan Wijaya, Neurology, Jakarta: 6.70/10 from 10 reviews

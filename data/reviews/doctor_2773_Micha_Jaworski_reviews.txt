@@ -1,0 +1,49 @@
+Doctor: Dr. Michał Jaworski
+Doctor ID: 2773
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 27
+City: Krakow, Poland
+Clinics: Centrum Zdrowia Wieliczka Trakt (clinic ID 363)
+
+Review 1 for Dr. Michał Jaworski, Orthopedic, Krakow
+Rating: 6/10
+Clinic visited: Centrum Zdrowia Wieliczka Trakt
+Description: Very skilled with my knee, but Dr. Michał Jaworski's clinic runs behind and the wait was over an hour. I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Michał Jaworski, Orthopedic, Krakow
+Rating: 7/10
+Clinic visited: Centrum Zdrowia Wieliczka Trakt
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Michał Jaworski, Orthopedic, Krakow
+Rating: 9/10
+Clinic visited: Centrum Zdrowia Wieliczka Trakt
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Clear aftercare instructions from Dr. Michał Jaworski and a direct number to call if something felt wrong after my surgery.
+
+Review 4 for Dr. Michał Jaworski, Orthopedic, Krakow
+Rating: 7/10
+Clinic visited: Centrum Zdrowia Wieliczka Trakt
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Michał Jaworski, Orthopedic, Krakow
+Rating: 6/10
+Clinic visited: Centrum Zdrowia Wieliczka Trakt
+Description: Dr. Michał Jaworski explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Dr. Michał Jaworski was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Michał Jaworski, Orthopedic, Krakow
+Rating: 8/10
+Clinic visited: Centrum Zdrowia Wieliczka Trakt
+Description: The X-ray was reviewed with me on screen, and he pointed out exactly where the cartilage had worn down.
+
+Review 7 for Dr. Michał Jaworski, Orthopedic, Krakow
+Rating: 4/10
+Clinic visited: Centrum Zdrowia Wieliczka Trakt
+Description: The appointment lasted five minutes and ended with an injection I had not agreed to beforehand. My questions were answered by Dr. Michał Jaworski with short, vague replies, and I left without a clear plan. I will not be returning and have already started looking for another doctor.
+
+Review 8 for Dr. Michał Jaworski, Orthopedic, Krakow
+Rating: 5/10
+Clinic visited: Centrum Zdrowia Wieliczka Trakt
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Michał Jaworski, Orthopedic, Krakow: 6.50/10 from 8 reviews

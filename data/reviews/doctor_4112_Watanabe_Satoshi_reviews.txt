@@ -1,0 +1,49 @@
+Doctor: Dr. Watanabe Satoshi
+Doctor ID: 4112
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 2
+City: Yokohama, Japan
+Clinics: Minato Mirai Nami Clinic (clinic ID 530)
+
+Review 1 for Dr. Watanabe Satoshi, Psychiatry, Yokohama
+Rating: 8/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 2 for Dr. Watanabe Satoshi, Psychiatry, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Watanabe Satoshi, Psychiatry, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Appointments in Yokohama are always on schedule, and the waiting area is peaceful and private. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Watanabe Satoshi, Psychiatry, Yokohama
+Rating: 9/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Telehealth follow-ups at Minato Mirai Nami Clinic are punctual and calm, and refills are dealt with quickly.
+
+Review 5 for Dr. Watanabe Satoshi, Psychiatry, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Dr. Watanabe Satoshi drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 6 for Dr. Watanabe Satoshi, Psychiatry, Yokohama
+Rating: 7/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: I liked the advice I got from Dr. Watanabe Satoshi, but I would have liked more time to ask follow-up questions before the visit ended. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 7 for Dr. Watanabe Satoshi, Psychiatry, Yokohama
+Rating: 7/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 8 for Dr. Watanabe Satoshi, Psychiatry, Yokohama
+Rating: 7/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Overall rating for Dr. Watanabe Satoshi, Psychiatry, Yokohama: 8.50/10 from 8 reviews

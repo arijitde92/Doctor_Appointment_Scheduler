@@ -1,0 +1,54 @@
+Doctor: Dr. Federico Romero
+Doctor ID: 729
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 15
+City: Buenos Aires, Argentina
+Clinics: Clínica Belgrano Salud (clinic ID 96)
+
+Review 1 for Dr. Federico Romero, Gastroenterology, Buenos Aires
+Rating: 9/10
+Clinic visited: Clínica Belgrano Salud
+Description: Dr. Federico Romero was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. The receptionist at Clínica Belgrano Salud remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 2 for Dr. Federico Romero, Gastroenterology, Buenos Aires
+Rating: 8/10
+Clinic visited: Clínica Belgrano Salud
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Federico Romero, Gastroenterology, Buenos Aires
+Rating: 6/10
+Clinic visited: Clínica Belgrano Salud
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 4 for Dr. Federico Romero, Gastroenterology, Buenos Aires
+Rating: 9/10
+Clinic visited: Clínica Belgrano Salud
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 5 for Dr. Federico Romero, Gastroenterology, Buenos Aires
+Rating: 6/10
+Clinic visited: Clínica Belgrano Salud
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Good bedside manner from Dr. Federico Romero, but the parking near Clínica Belgrano Salud is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Federico Romero, Gastroenterology, Buenos Aires
+Rating: 10/10
+Clinic visited: Clínica Belgrano Salud
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Review 7 for Dr. Federico Romero, Gastroenterology, Buenos Aires
+Rating: 8/10
+Clinic visited: Clínica Belgrano Salud
+Description: A gentle, respectful manner from Dr. Federico Romero made a very awkward exam bearable, with every step explained before it happened.
+
+Review 8 for Dr. Federico Romero, Gastroenterology, Buenos Aires
+Rating: 9/10
+Clinic visited: Clínica Belgrano Salud
+Description: Getting to Clínica Belgrano Salud in Buenos Aires was simple, and the day-procedure unit was calm and efficient. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 9 for Dr. Federico Romero, Gastroenterology, Buenos Aires
+Rating: 8/10
+Clinic visited: Clínica Belgrano Salud
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. Everything was explained in plain English by Dr. Federico Romero, and nothing was left to guess.
+
+Overall rating for Dr. Federico Romero, Gastroenterology, Buenos Aires: 8.11/10 from 9 reviews

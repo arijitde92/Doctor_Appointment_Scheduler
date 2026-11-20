@@ -1,0 +1,64 @@
+Doctor: Dr. Nimal Pathirana
+Doctor ID: 5606
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 20
+City: Jaffna, Sri Lanka
+Clinics: Nallur Family Clinic (clinic ID 725); Palmyra Medical Centre (clinic ID 726); Kokuvil Health Practice (clinic ID 727)
+
+Review 1 for Dr. Nimal Pathirana, Orthopedic, Jaffna
+Rating: 6/10
+Clinic visited: Palmyra Medical Centre
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. Dr. Nimal Pathirana was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Nimal Pathirana, Orthopedic, Jaffna
+Rating: 6/10
+Clinic visited: Palmyra Medical Centre
+Description: The treatment plan from Dr. Nimal Pathirana made sense, but I wished it had been written down for me to take away. The cast was applied well, but the instructions for showering and sleeping were rushed. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Nimal Pathirana, Orthopedic, Jaffna
+Rating: 7/10
+Clinic visited: Nallur Family Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 4 for Dr. Nimal Pathirana, Orthopedic, Jaffna
+Rating: 7/10
+Clinic visited: Palmyra Medical Centre
+Description: I liked the advice I got from Dr. Nimal Pathirana, but I would have liked more time to ask follow-up questions before the visit ended. Very skilled with my knee, but Dr. Nimal Pathirana's clinic runs behind and the wait was over an hour. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Nimal Pathirana, Orthopedic, Jaffna
+Rating: 6/10
+Clinic visited: Kokuvil Health Practice
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 6 for Dr. Nimal Pathirana, Orthopedic, Jaffna
+Rating: 5/10
+Clinic visited: Nallur Family Clinic
+Description: Dr. Nimal Pathirana explained surgery options clearly, though the physiotherapy referral took weeks to arrive. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Nimal Pathirana, Orthopedic, Jaffna
+Rating: 6/10
+Clinic visited: Nallur Family Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 8 for Dr. Nimal Pathirana, Orthopedic, Jaffna
+Rating: 9/10
+Clinic visited: Kokuvil Health Practice
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 9 for Dr. Nimal Pathirana, Orthopedic, Jaffna
+Rating: 7/10
+Clinic visited: Kokuvil Health Practice
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 10 for Dr. Nimal Pathirana, Orthopedic, Jaffna
+Rating: 6/10
+Clinic visited: Kokuvil Health Practice
+Description: Dr. Nimal Pathirana was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 11 for Dr. Nimal Pathirana, Orthopedic, Jaffna
+Rating: 7/10
+Clinic visited: Palmyra Medical Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Nimal Pathirana, Orthopedic, Jaffna: 6.55/10 from 11 reviews

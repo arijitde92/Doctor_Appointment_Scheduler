@@ -1,0 +1,64 @@
+Doctor: Dr. Markku Koskinen
+Doctor ID: 1851
+Specialization: Cardiology
+Gender: Male
+Years of experience: 1
+City: Helsinki, Finland
+Clinics: Terveysasema Kluuvi (clinic ID 241)
+
+Review 1 for Dr. Markku Koskinen, Cardiology, Helsinki
+Rating: 5/10
+Clinic visited: Terveysasema Kluuvi
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 2 for Dr. Markku Koskinen, Cardiology, Helsinki
+Rating: 5/10
+Clinic visited: Terveysasema Kluuvi
+Description: Helpful with my cholesterol, Dr. Markku Koskinen still gave dietary advice that was a little generic. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Markku Koskinen, Cardiology, Helsinki
+Rating: 3/10
+Clinic visited: Terveysasema Kluuvi
+Description: The prescription from Dr. Markku Koskinen was not the one we discussed, and I only noticed when I got home. Dr. Markku Koskinen spent most of the appointment looking at the screen and gave very brief answers to my questions.
+
+Review 4 for Dr. Markku Koskinen, Cardiology, Helsinki
+Rating: 4/10
+Clinic visited: Terveysasema Kluuvi
+Description: I was billed separately for tests that I understood to be part of the original consultation. The visit felt rushed, and Dr. Markku Koskinen was already halfway out the door when I started to describe my second symptom.
+
+Review 5 for Dr. Markku Koskinen, Cardiology, Helsinki
+Rating: 6/10
+Clinic visited: Terveysasema Kluuvi
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Good bedside manner from Dr. Markku Koskinen, but the parking near Terveysasema Kluuvi is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Markku Koskinen, Cardiology, Helsinki
+Rating: 5/10
+Clinic visited: Terveysasema Kluuvi
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Markku Koskinen, Cardiology, Helsinki
+Rating: 2/10
+Clinic visited: Terveysasema Kluuvi
+Description: I reported chest tightness and was sent home with a leaflet and no ECG. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 8 for Dr. Markku Koskinen, Cardiology, Helsinki
+Rating: 2/10
+Clinic visited: Terveysasema Kluuvi
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 9 for Dr. Markku Koskinen, Cardiology, Helsinki
+Rating: 3/10
+Clinic visited: Terveysasema Kluuvi
+Description: My test results sat on Dr. Markku Koskinen's desk for two weeks, and I only learned about a medication change when I called the pharmacy.
+
+Review 10 for Dr. Markku Koskinen, Cardiology, Helsinki
+Rating: 5/10
+Clinic visited: Terveysasema Kluuvi
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. Markku Koskinen, Cardiology, Helsinki
+Rating: 5/10
+Clinic visited: Terveysasema Kluuvi
+Description: Dr. Markku Koskinen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Markku Koskinen, Cardiology, Helsinki: 4.09/10 from 11 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Foo Boon Keng
+Doctor ID: 4546
+Specialization: Radiology
+Gender: Male
+Years of experience: 4
+City: Singapore, Singapore
+Clinics: Paya Lebar Health Practice (clinic ID 586)
+
+Review 1 for Dr. Foo Boon Keng, Radiology, Singapore
+Rating: 8/10
+Clinic visited: Paya Lebar Health Practice
+Description: The report from Dr. Foo Boon Keng was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 2 for Dr. Foo Boon Keng, Radiology, Singapore
+Rating: 9/10
+Clinic visited: Paya Lebar Health Practice
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. He called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 3 for Dr. Foo Boon Keng, Radiology, Singapore
+Rating: 7/10
+Clinic visited: Paya Lebar Health Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 4 for Dr. Foo Boon Keng, Radiology, Singapore
+Rating: 8/10
+Clinic visited: Paya Lebar Health Practice
+Description: Booking online at Paya Lebar Health Practice was simple, and I got a confirmation text with clear directions and a reminder the day before. Images from Paya Lebar Health Practice were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 5 for Dr. Foo Boon Keng, Radiology, Singapore
+Rating: 6/10
+Clinic visited: Paya Lebar Health Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. My MRI was comfortable, but getting a copy of the images on disc took several requests. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Foo Boon Keng, Radiology, Singapore
+Rating: 9/10
+Clinic visited: Paya Lebar Health Practice
+Description: The staff at Paya Lebar Health Practice in Singapore explained the contrast dye and its side effects before I signed anything. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 7 for Dr. Foo Boon Keng, Radiology, Singapore
+Rating: 8/10
+Clinic visited: Paya Lebar Health Practice
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 8 for Dr. Foo Boon Keng, Radiology, Singapore
+Rating: 8/10
+Clinic visited: Paya Lebar Health Practice
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 9 for Dr. Foo Boon Keng, Radiology, Singapore
+Rating: 8/10
+Clinic visited: Paya Lebar Health Practice
+Description: Reviewing my X-ray together with Dr. Foo Boon Keng on the screen made it much easier to understand my arthritis. Everything was explained in plain English by Dr. Foo Boon Keng, and nothing was left to guess. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 10 for Dr. Foo Boon Keng, Radiology, Singapore
+Rating: 8/10
+Clinic visited: Paya Lebar Health Practice
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Foo Boon Keng sent a clear report within a day. Prescriptions from Dr. Foo Boon Keng were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 11 for Dr. Foo Boon Keng, Radiology, Singapore
+Rating: 7/10
+Clinic visited: Paya Lebar Health Practice
+Description: Dr. Foo Boon Keng was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 12 for Dr. Foo Boon Keng, Radiology, Singapore
+Rating: 8/10
+Clinic visited: Paya Lebar Health Practice
+Description: My ultrasound was unhurried, and Dr. Foo Boon Keng took time to show me the images and explain what each measurement meant. The nurse was friendly and efficient, and the whole visit with Dr. Foo Boon Keng felt well organized from start to finish.
+
+Overall rating for Dr. Foo Boon Keng, Radiology, Singapore: 7.83/10 from 12 reviews

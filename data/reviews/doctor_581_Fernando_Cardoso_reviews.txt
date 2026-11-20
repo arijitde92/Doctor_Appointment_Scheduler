@@ -1,0 +1,69 @@
+Doctor: Dr. Fernando Cardoso
+Doctor ID: 581
+Specialization: General
+Gender: Male
+Years of experience: 3
+City: Belo Horizonte, Brazil
+Clinics: Clínica Mangabeiras Vida (clinic ID 78)
+
+Review 1 for Dr. Fernando Cardoso, General, Belo Horizonte
+Rating: 6/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 2 for Dr. Fernando Cardoso, General, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: As a new patient in Belo Horizonte, I felt welcomed at Clínica Mangabeiras Vida, and my whole history was reviewed in one relaxed visit.
+
+Review 3 for Dr. Fernando Cardoso, General, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Clínica Mangabeiras Vida were inconsistent.
+
+Review 4 for Dr. Fernando Cardoso, General, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: Sensitive questions were handled by Dr. Fernando Cardoso with discretion and without a hint of judgment.
+
+Review 5 for Dr. Fernando Cardoso, General, Belo Horizonte
+Rating: 9/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Fernando Cardoso, General, Belo Horizonte
+Rating: 9/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. The practice in Belo Horizonte is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Fernando Cardoso, General, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Fernando Cardoso, General, Belo Horizonte
+Rating: 6/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Fernando Cardoso, General, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: Dr. Fernando Cardoso looked me in the eye, listened to the whole story and only then started typing. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 10 for Dr. Fernando Cardoso, General, Belo Horizonte
+Rating: 6/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 11 for Dr. Fernando Cardoso, General, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: Dr. Fernando Cardoso is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 12 for Dr. Fernando Cardoso, General, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: Dr. Fernando Cardoso spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. My test results arrived in the portal within two days, together with a short note that made sense. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Fernando Cardoso, General, Belo Horizonte: 7.42/10 from 12 reviews

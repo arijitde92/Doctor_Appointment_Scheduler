@@ -1,0 +1,54 @@
+Doctor: Dr. Amelia Williams
+Doctor ID: 6525
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 19
+City: Perth, Australia
+Clinics: Jacaranda Family Practice (clinic ID 845); Outback Road Medical (clinic ID 846); Boronia Health Centre (clinic ID 847)
+
+Review 1 for Dr. Amelia Williams, Psychiatry, Perth
+Rating: 9/10
+Clinic visited: Boronia Health Centre
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Amelia Williams, Psychiatry, Perth
+Rating: 6/10
+Clinic visited: Boronia Health Centre
+Description: Booking was easy online, but the confirmation email contained the wrong address for Boronia Health Centre. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 3 for Dr. Amelia Williams, Psychiatry, Perth
+Rating: 5/10
+Clinic visited: Boronia Health Centre
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 4 for Dr. Amelia Williams, Psychiatry, Perth
+Rating: 6/10
+Clinic visited: Outback Road Medical
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 5 for Dr. Amelia Williams, Psychiatry, Perth
+Rating: 5/10
+Clinic visited: Jacaranda Family Practice
+Description: I liked the advice I got from Dr. Amelia Williams, but I would have liked more time to ask follow-up questions before the visit ended. Good listener, yet the refill process at Jacaranda Family Practice is slow and requires several phone calls.
+
+Review 6 for Dr. Amelia Williams, Psychiatry, Perth
+Rating: 5/10
+Clinic visited: Outback Road Medical
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 7 for Dr. Amelia Williams, Psychiatry, Perth
+Rating: 5/10
+Clinic visited: Boronia Health Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 8 for Dr. Amelia Williams, Psychiatry, Perth
+Rating: 7/10
+Clinic visited: Jacaranda Family Practice
+Description: Dr. Amelia Williams is knowledgeable, though I waited several weeks for my first appointment. I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Amelia Williams, Psychiatry, Perth
+Rating: 7/10
+Clinic visited: Jacaranda Family Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Amelia Williams, Psychiatry, Perth: 6.11/10 from 9 reviews

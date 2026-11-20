@@ -1,0 +1,69 @@
+Doctor: Dr. Nicolás Molina
+Doctor ID: 828
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 4
+City: Mendoza, Argentina
+Clinics: Instituto de Salud Belgrano (clinic ID 109)
+
+Review 1 for Dr. Nicolás Molina, Pulmonology, Mendoza
+Rating: 8/10
+Clinic visited: Instituto de Salud Belgrano
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. He called personally with my scan results and walked me through what the findings did and did not mean. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Nicolás Molina, Pulmonology, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Nicolás Molina, Pulmonology, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Pleasant manner and careful lung exam, though the waiting time at Instituto de Salud Belgrano regularly exceeded forty minutes.
+
+Review 4 for Dr. Nicolás Molina, Pulmonology, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Nicolás Molina, Pulmonology, Mendoza
+Rating: 8/10
+Clinic visited: Instituto de Salud Belgrano
+Description: A translator was arranged for my mother without us asking twice, and Dr. Nicolás Molina spoke directly to her throughout. Dr. Nicolás Molina explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 6 for Dr. Nicolás Molina, Pulmonology, Mendoza
+Rating: 7/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Dr. Nicolás Molina adjusted my asthma medication well, but the breathing test appointment was a month away. I liked the advice I got from Dr. Nicolás Molina, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Nicolás Molina, Pulmonology, Mendoza
+Rating: 5/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Helpful and honest about my prognosis, Dr. Nicolás Molina could still have given me more written material to take home.
+
+Review 8 for Dr. Nicolás Molina, Pulmonology, Mendoza
+Rating: 8/10
+Clinic visited: Instituto de Salud Belgrano
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting. I came away understanding my condition better than I have in years of previous appointments. My whole family is switching over after seeing how good the care was.
+
+Review 9 for Dr. Nicolás Molina, Pulmonology, Mendoza
+Rating: 7/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 10 for Dr. Nicolás Molina, Pulmonology, Mendoza
+Rating: 10/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Nicolás Molina. Getting to Instituto de Salud Belgrano by public transport in Mendoza was easy, and there is a step-free entrance for wheelchairs. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 11 for Dr. Nicolás Molina, Pulmonology, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 12 for Dr. Nicolás Molina, Pulmonology, Mendoza
+Rating: 8/10
+Clinic visited: Instituto de Salud Belgrano
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Nicolás Molina, Pulmonology, Mendoza: 7.08/10 from 12 reviews

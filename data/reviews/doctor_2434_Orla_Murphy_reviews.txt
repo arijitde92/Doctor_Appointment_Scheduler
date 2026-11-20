@@ -1,0 +1,49 @@
+Doctor: Dr. Orla Murphy
+Doctor ID: 2434
+Specialization: General
+Gender: Female
+Years of experience: 3
+City: Cork, Ireland
+Clinics: Blackpool Polyclinic (clinic ID 318)
+
+Review 1 for Dr. Orla Murphy, General, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: Everything was explained in plain English by Dr. Orla Murphy, and nothing was left to guess. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Orla Murphy, General, Cork
+Rating: 6/10
+Clinic visited: Blackpool Polyclinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Referrals from Dr. Orla Murphy are handled well, but getting test results back took longer than I was told to expect.
+
+Review 3 for Dr. Orla Murphy, General, Cork
+Rating: 5/10
+Clinic visited: Blackpool Polyclinic
+Description: Dr. Orla Murphy was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Orla Murphy, General, Cork
+Rating: 6/10
+Clinic visited: Blackpool Polyclinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 5 for Dr. Orla Murphy, General, Cork
+Rating: 5/10
+Clinic visited: Blackpool Polyclinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Orla Murphy is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 6 for Dr. Orla Murphy, General, Cork
+Rating: 6/10
+Clinic visited: Blackpool Polyclinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Orla Murphy, General, Cork
+Rating: 5/10
+Clinic visited: Blackpool Polyclinic
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Orla Murphy, General, Cork
+Rating: 6/10
+Clinic visited: Blackpool Polyclinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Blackpool Polyclinic were inconsistent. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Orla Murphy, General, Cork: 6.12/10 from 8 reviews

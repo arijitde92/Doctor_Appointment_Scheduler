@@ -1,0 +1,69 @@
+Doctor: Dr. Michael Thomas
+Doctor ID: 141
+Specialization: Pathology
+Gender: Male
+Years of experience: 5
+City: Houston, USA
+Clinics: Bayou City Family Medicine (clinic ID 20)
+
+Review 1 for Dr. Michael Thomas, Pathology, Houston
+Rating: 6/10
+Clinic visited: Bayou City Family Medicine
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 2 for Dr. Michael Thomas, Pathology, Houston
+Rating: 8/10
+Clinic visited: Bayou City Family Medicine
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Michael Thomas, Pathology, Houston
+Rating: 7/10
+Clinic visited: Bayou City Family Medicine
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 4 for Dr. Michael Thomas, Pathology, Houston
+Rating: 7/10
+Clinic visited: Bayou City Family Medicine
+Description: Dr. Michael Thomas answered my questions kindly, though the call back took three days. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Michael Thomas, Pathology, Houston
+Rating: 8/10
+Clinic visited: Bayou City Family Medicine
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. I was called in within five minutes of my appointment time at Bayou City Family Medicine, which is rare and much appreciated.
+
+Review 6 for Dr. Michael Thomas, Pathology, Houston
+Rating: 7/10
+Clinic visited: Bayou City Family Medicine
+Description: Helpful in clarifying a borderline result, though Dr. Michael Thomas gave little guidance about whether to repeat it. I liked the advice I got from Dr. Michael Thomas, but I would have liked more time to ask follow-up questions before the visit ended. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Michael Thomas, Pathology, Houston
+Rating: 6/10
+Clinic visited: Bayou City Family Medicine
+Description: Good bedside manner from Dr. Michael Thomas, but the parking near Bayou City Family Medicine is limited and I had to circle for fifteen minutes. The blood draw was painless, but the waiting area at Bayou City Family Medicine was crowded in the early morning. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Michael Thomas, Pathology, Houston
+Rating: 7/10
+Clinic visited: Bayou City Family Medicine
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 9 for Dr. Michael Thomas, Pathology, Houston
+Rating: 7/10
+Clinic visited: Bayou City Family Medicine
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 10 for Dr. Michael Thomas, Pathology, Houston
+Rating: 6/10
+Clinic visited: Bayou City Family Medicine
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 11 for Dr. Michael Thomas, Pathology, Houston
+Rating: 6/10
+Clinic visited: Bayou City Family Medicine
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I got what I needed, but the next available appointment was three weeks away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 12 for Dr. Michael Thomas, Pathology, Houston
+Rating: 9/10
+Clinic visited: Bayou City Family Medicine
+Description: Dr. Michael Thomas took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. I appreciated that he offered more than one option and let me choose what suited my life. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Michael Thomas, Pathology, Houston: 7.00/10 from 12 reviews

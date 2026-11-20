@@ -1,0 +1,64 @@
+Doctor: Dr. Daniel Karlsson
+Doctor ID: 2121
+Specialization: Cardiology
+Gender: Male
+Years of experience: 7
+City: Gothenburg, Sweden
+Clinics: Läkarhuset Östra Hamngatan (clinic ID 276); Läkarmottagningen Långgatan (clinic ID 279)
+
+Review 1 for Dr. Daniel Karlsson, Cardiology, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 2 for Dr. Daniel Karlsson, Cardiology, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: After my heart attack, Dr. Daniel Karlsson explained the rehab plan and medication changes with great patience and kindness.
+
+Review 3 for Dr. Daniel Karlsson, Cardiology, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Clear and calm advice at Läkarhuset Östra Hamngatan about exercise after my stent, including a gradual written schedule. Booking online at Läkarhuset Östra Hamngatan was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 4 for Dr. Daniel Karlsson, Cardiology, Gothenburg
+Rating: 10/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Honest about the risks and benefits of the procedure, Dr. Daniel Karlsson never pressured me toward surgery.
+
+Review 5 for Dr. Daniel Karlsson, Cardiology, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Quick to coordinate with my regular doctor, so my medications were consistent across both offices.
+
+Review 6 for Dr. Daniel Karlsson, Cardiology, Gothenburg
+Rating: 9/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: After my palpitations began, Dr. Daniel Karlsson arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 7 for Dr. Daniel Karlsson, Cardiology, Gothenburg
+Rating: 9/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 8 for Dr. Daniel Karlsson, Cardiology, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Managing my blood pressure with Dr. Daniel Karlsson has been steady and practical, with home readings reviewed at every visit.
+
+Review 9 for Dr. Daniel Karlsson, Cardiology, Gothenburg
+Rating: 10/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: My stress test was supervised carefully, and Dr. Daniel Karlsson reviewed the results in the same visit with a plan for my cholesterol. My test results arrived in the portal within two days, together with a short note that made sense. Highly recommended, and I have already told two colleagues about it.
+
+Review 10 for Dr. Daniel Karlsson, Cardiology, Gothenburg
+Rating: 10/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: My atrial fibrillation is well managed by Dr. Daniel Karlsson, and I know exactly what symptoms mean I should call. Dr. Daniel Karlsson looked me in the eye, listened to the whole story and only then started typing.
+
+Review 11 for Dr. Daniel Karlsson, Cardiology, Gothenburg
+Rating: 9/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Overall rating for Dr. Daniel Karlsson, Cardiology, Gothenburg: 8.82/10 from 11 reviews

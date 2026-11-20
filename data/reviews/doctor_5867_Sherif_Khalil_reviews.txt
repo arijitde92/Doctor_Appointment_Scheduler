@@ -1,0 +1,64 @@
+Doctor: Dr. Sherif Khalil
+Doctor ID: 5867
+Specialization: Radiology
+Gender: Male
+Years of experience: 1
+City: Alexandria, Egypt
+Clinics: Sidi Gaber Wellness Practice (clinic ID 758)
+
+Review 1 for Dr. Sherif Khalil, Radiology, Alexandria
+Rating: 4/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. I waited two weeks for a report from Dr. Sherif Khalil and had to call three times before anyone could tell me the result. I will not be returning and have already started looking for another doctor.
+
+Review 2 for Dr. Sherif Khalil, Radiology, Alexandria
+Rating: 6/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 3 for Dr. Sherif Khalil, Radiology, Alexandria
+Rating: 6/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Sherif Khalil, Radiology, Alexandria
+Rating: 5/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Sherif Khalil, Radiology, Alexandria
+Rating: 6/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 6 for Dr. Sherif Khalil, Radiology, Alexandria
+Rating: 6/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 7 for Dr. Sherif Khalil, Radiology, Alexandria
+Rating: 4/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 8 for Dr. Sherif Khalil, Radiology, Alexandria
+Rating: 6/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Dr. Sherif Khalil answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 9 for Dr. Sherif Khalil, Radiology, Alexandria
+Rating: 7/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: The report from Dr. Sherif Khalil was thorough, though full of technical terms that needed my regular doctor to translate. I liked the advice I got from Dr. Sherif Khalil, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 10 for Dr. Sherif Khalil, Radiology, Alexandria
+Rating: 6/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: The treatment plan from Dr. Sherif Khalil made sense, but I wished it had been written down for me to take away.
+
+Review 11 for Dr. Sherif Khalil, Radiology, Alexandria
+Rating: 9/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Fast, clean and professional; the bone density scan with Dr. Sherif Khalil was painless and the results were explained clearly. I asked about the cost before the visit and received an honest estimate that matched the final bill. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Sherif Khalil, Radiology, Alexandria: 5.91/10 from 11 reviews

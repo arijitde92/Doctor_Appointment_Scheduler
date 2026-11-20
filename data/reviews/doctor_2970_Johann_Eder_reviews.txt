@@ -1,0 +1,59 @@
+Doctor: Dr. Johann Eder
+Doctor ID: 2970
+Specialization: Cardiology
+Gender: Male
+Years of experience: 22
+City: Salzburg, Austria
+Clinics: Gesundheitszentrum Lehen (clinic ID 387)
+
+Review 1 for Dr. Johann Eder, Cardiology, Salzburg
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Johann Eder, Cardiology, Salzburg
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Helpful with my cholesterol, Dr. Johann Eder still gave dietary advice that was a little generic.
+
+Review 3 for Dr. Johann Eder, Cardiology, Salzburg
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Managing my blood pressure with Dr. Johann Eder has been steady and practical, with home readings reviewed at every visit.
+
+Review 4 for Dr. Johann Eder, Cardiology, Salzburg
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning.
+
+Review 5 for Dr. Johann Eder, Cardiology, Salzburg
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 6 for Dr. Johann Eder, Cardiology, Salzburg
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. After my heart attack, Dr. Johann Eder explained the rehab plan and medication changes with great patience and kindness.
+
+Review 7 for Dr. Johann Eder, Cardiology, Salzburg
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: After my palpitations began, Dr. Johann Eder arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 8 for Dr. Johann Eder, Cardiology, Salzburg
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: Paperwork at Gesundheitszentrum Lehen was kept to a minimum, and the staff helped me complete the insurance form. The cardiology unit at Gesundheitszentrum Lehen runs on time, and the technicians were professional during my echocardiogram.
+
+Review 9 for Dr. Johann Eder, Cardiology, Salzburg
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: My stress test was supervised carefully, and Dr. Johann Eder reviewed the results in the same visit with a plan for my cholesterol. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 10 for Dr. Johann Eder, Cardiology, Salzburg
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Johann Eder, Cardiology, Salzburg: 9.40/10 from 10 reviews

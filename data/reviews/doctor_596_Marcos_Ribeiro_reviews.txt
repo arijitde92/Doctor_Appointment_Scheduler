@@ -1,0 +1,59 @@
+Doctor: Dr. Marcos Ribeiro
+Doctor ID: 596
+Specialization: Neurology
+Gender: Male
+Years of experience: 1
+City: Curitiba, Brazil
+Clinics: Clínica Batel Saúde Integral (clinic ID 80)
+
+Review 1 for Dr. Marcos Ribeiro, Neurology, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 2 for Dr. Marcos Ribeiro, Neurology, Curitiba
+Rating: 8/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: After years of migraines, Dr. Marcos Ribeiro built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. The practice in Curitiba is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Marcos Ribeiro, Neurology, Curitiba
+Rating: 5/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: The treatment plan from Dr. Marcos Ribeiro made sense, but I wished it had been written down for me to take away. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Marcos Ribeiro, Neurology, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Marcos Ribeiro, Neurology, Curitiba
+Rating: 6/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Dr. Marcos Ribeiro was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Marcos Ribeiro, Neurology, Curitiba
+Rating: 9/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: Clear and honest talk with Dr. Marcos Ribeiro about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Review 7 for Dr. Marcos Ribeiro, Neurology, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Marcos Ribeiro, Neurology, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clínica Batel Saúde Integral. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 9 for Dr. Marcos Ribeiro, Neurology, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 10 for Dr. Marcos Ribeiro, Neurology, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Marcos Ribeiro, Neurology, Curitiba: 7.00/10 from 10 reviews

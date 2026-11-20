@@ -1,0 +1,49 @@
+Doctor: Dr. Pablo Ortiz
+Doctor ID: 861
+Specialization: Psychology
+Gender: Male
+Years of experience: 1
+City: Rosario, Argentina
+Clinics: Policlínica Alberdi (clinic ID 113)
+
+Review 1 for Dr. Pablo Ortiz, Psychology, Rosario
+Rating: 6/10
+Clinic visited: Policlínica Alberdi
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Pablo Ortiz, Psychology, Rosario
+Rating: 7/10
+Clinic visited: Policlínica Alberdi
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 3 for Dr. Pablo Ortiz, Psychology, Rosario
+Rating: 8/10
+Clinic visited: Policlínica Alberdi
+Description: I appreciated the written summary Dr. Pablo Ortiz sent after each session and the short worksheets between visits.
+
+Review 4 for Dr. Pablo Ortiz, Psychology, Rosario
+Rating: 10/10
+Clinic visited: Policlínica Alberdi
+Description: Sessions with Dr. Pablo Ortiz start on time and end on time, which is a small thing that made me feel respected.
+
+Review 5 for Dr. Pablo Ortiz, Psychology, Rosario
+Rating: 7/10
+Clinic visited: Policlínica Alberdi
+Description: Insightful and kind, though progress with Dr. Pablo Ortiz felt slow, and I wished for more structured homework between sessions. The treatment plan from Dr. Pablo Ortiz made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Pablo Ortiz, Psychology, Rosario
+Rating: 10/10
+Clinic visited: Policlínica Alberdi
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Pablo Ortiz designed around my actual job. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 7 for Dr. Pablo Ortiz, Psychology, Rosario
+Rating: 4/10
+Clinic visited: Policlínica Alberdi
+Description: Dr. Pablo Ortiz offered general advice that I could have found online, with no plan tailored to my situation. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 8 for Dr. Pablo Ortiz, Psychology, Rosario
+Rating: 8/10
+Clinic visited: Policlínica Alberdi
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Overall rating for Dr. Pablo Ortiz, Psychology, Rosario: 7.50/10 from 8 reviews

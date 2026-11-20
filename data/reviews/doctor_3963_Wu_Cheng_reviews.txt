@@ -1,0 +1,69 @@
+Doctor: Dr. Wu Cheng
+Doctor ID: 3963
+Specialization: General
+Gender: Male
+Years of experience: 3
+City: Shenzhen, China
+Clinics: Nanshan Anda Clinic (clinic ID 511)
+
+Review 1 for Dr. Wu Cheng, General, Shenzhen
+Rating: 6/10
+Clinic visited: Nanshan Anda Clinic
+Description: Referrals from Dr. Wu Cheng are handled well, but getting test results back took longer than I was told to expect. Dr. Wu Cheng was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Wu Cheng, General, Shenzhen
+Rating: 10/10
+Clinic visited: Nanshan Anda Clinic
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. Dr. Wu Cheng used a calm, steady voice that settled my nerves before a stressful procedure. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Wu Cheng, General, Shenzhen
+Rating: 7/10
+Clinic visited: Nanshan Anda Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Wu Cheng, General, Shenzhen
+Rating: 9/10
+Clinic visited: Nanshan Anda Clinic
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Wu Cheng, General, Shenzhen
+Rating: 9/10
+Clinic visited: Nanshan Anda Clinic
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Wu Cheng, General, Shenzhen
+Rating: 8/10
+Clinic visited: Nanshan Anda Clinic
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 7 for Dr. Wu Cheng, General, Shenzhen
+Rating: 8/10
+Clinic visited: Nanshan Anda Clinic
+Description: Managing my type 2 diabetes with Dr. Wu Cheng has been steady and practical, with quarterly blood sugar reviews and no lectures. Booking online at Nanshan Anda Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 8 for Dr. Wu Cheng, General, Shenzhen
+Rating: 8/10
+Clinic visited: Nanshan Anda Clinic
+Description: My blood pressure had crept up and Dr. Wu Cheng walked me through diet changes before suggesting anything else. Three months later my readings were normal. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 9 for Dr. Wu Cheng, General, Shenzhen
+Rating: 6/10
+Clinic visited: Nanshan Anda Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Nanshan Anda Clinic were inconsistent.
+
+Review 10 for Dr. Wu Cheng, General, Shenzhen
+Rating: 9/10
+Clinic visited: Nanshan Anda Clinic
+Description: Sensitive questions were handled by Dr. Wu Cheng with discretion and without a hint of judgment. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 11 for Dr. Wu Cheng, General, Shenzhen
+Rating: 6/10
+Clinic visited: Nanshan Anda Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Dr. Wu Cheng was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 12 for Dr. Wu Cheng, General, Shenzhen
+Rating: 8/10
+Clinic visited: Nanshan Anda Clinic
+Description: A same-day slot was found for me at Nanshan Anda Clinic when I called with a worrying symptom.
+
+Overall rating for Dr. Wu Cheng, General, Shenzhen: 7.83/10 from 12 reviews

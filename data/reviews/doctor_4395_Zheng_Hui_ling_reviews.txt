@@ -1,0 +1,59 @@
+Doctor: Dr. Zheng Hui-ling
+Doctor ID: 4395
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 28
+City: Tainan, Taiwan
+Clinics: East District Jiaxin Family Clinic (clinic ID 566); West Central Fuhe Health Clinic (clinic ID 567)
+
+Review 1 for Dr. Zheng Hui-ling, Gastroenterology, Tainan
+Rating: 6/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. The doctor was kind, though the clinic's evening hours are very limited for working people. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Zheng Hui-ling, Gastroenterology, Tainan
+Rating: 4/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: The visit felt rushed, and Dr. Zheng Hui-ling was already halfway out the door when I started to describe my second symptom. I described ongoing stomach pain and was told it was stress, with no tests ordered for months. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 3 for Dr. Zheng Hui-ling, Gastroenterology, Tainan
+Rating: 6/10
+Clinic visited: West Central Fuhe Health Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Zheng Hui-ling, Gastroenterology, Tainan
+Rating: 2/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 5 for Dr. Zheng Hui-ling, Gastroenterology, Tainan
+Rating: 5/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: Dr. Zheng Hui-ling was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 6 for Dr. Zheng Hui-ling, Gastroenterology, Tainan
+Rating: 7/10
+Clinic visited: West Central Fuhe Health Clinic
+Description: Dr. Zheng Hui-ling is thorough, but I waited nearly two months to get the first available slot.
+
+Review 7 for Dr. Zheng Hui-ling, Gastroenterology, Tainan
+Rating: 4/10
+Clinic visited: West Central Fuhe Health Clinic
+Description: The waiting room at West Central Fuhe Health Clinic was overcrowded and there was nowhere to sit, even for elderly patients. I will not be returning and have already started looking for another doctor.
+
+Review 8 for Dr. Zheng Hui-ling, Gastroenterology, Tainan
+Rating: 3/10
+Clinic visited: West Central Fuhe Health Clinic
+Description: The bowel prep instructions from Dr. Zheng Hui-ling's office were contradictory, and I had to reschedule my colonoscopy because of the confusion. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 9 for Dr. Zheng Hui-ling, Gastroenterology, Tainan
+Rating: 5/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 10 for Dr. Zheng Hui-ling, Gastroenterology, Tainan
+Rating: 5/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Overall rating for Dr. Zheng Hui-ling, Gastroenterology, Tainan: 4.70/10 from 10 reviews

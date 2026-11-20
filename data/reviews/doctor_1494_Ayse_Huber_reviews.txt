@@ -1,0 +1,54 @@
+Doctor: Dr. Ayşe Huber
+Doctor ID: 1494
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 1
+City: Berlin, Germany
+Clinics: Praxiszentrum am Kurfürstendamm (clinic ID 195); Ärztehaus Neukölln-Süd (clinic ID 198)
+
+Review 1 for Dr. Ayşe Huber, Psychiatry, Berlin
+Rating: 8/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Booking online at Praxiszentrum am Kurfürstendamm was simple, and I got a confirmation text with clear directions and a reminder the day before. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Ayşe Huber, Psychiatry, Berlin
+Rating: 7/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Ayşe Huber, Psychiatry, Berlin
+Rating: 8/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Excellent at explaining how therapy and medication work together, and Dr. Ayşe Huber coordinated with my counselor. I was given a printed summary of the visit, which I shared with my family at home. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Ayşe Huber, Psychiatry, Berlin
+Rating: 7/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Supportive in crisis, but follow-up between visits could have been more regular. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Ayşe Huber, Psychiatry, Berlin
+Rating: 7/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Ayşe Huber is knowledgeable, though I waited several weeks for my first appointment. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Ayşe Huber, Psychiatry, Berlin
+Rating: 9/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Dr. Ayşe Huber drew a quick sketch to explain what was going on, which helped me remember it afterwards. Telehealth follow-ups at Praxiszentrum am Kurfürstendamm are punctual and calm, and refills are dealt with quickly. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Ayşe Huber, Psychiatry, Berlin
+Rating: 8/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Never once did Dr. Ayşe Huber make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 8 for Dr. Ayşe Huber, Psychiatry, Berlin
+Rating: 8/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 9 for Dr. Ayşe Huber, Psychiatry, Berlin
+Rating: 6/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Dr. Ayşe Huber was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Overall rating for Dr. Ayşe Huber, Psychiatry, Berlin: 7.56/10 from 9 reviews

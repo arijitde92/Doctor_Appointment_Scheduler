@@ -1,0 +1,54 @@
+Doctor: Dr. Sabine Meyer
+Doctor ID: 1581
+Specialization: General
+Gender: Female
+Years of experience: 9
+City: Hamburg, Germany
+Clinics: Ärztehaus Eppendorfer Park (clinic ID 206)
+
+Review 1 for Dr. Sabine Meyer, General, Hamburg
+Rating: 6/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Sabine Meyer, General, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Prescriptions from Dr. Sabine Meyer were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 3 for Dr. Sabine Meyer, General, Hamburg
+Rating: 5/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Sabine Meyer, General, Hamburg
+Rating: 7/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 5 for Dr. Sabine Meyer, General, Hamburg
+Rating: 6/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 6 for Dr. Sabine Meyer, General, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. Dr. Sabine Meyer used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 7 for Dr. Sabine Meyer, General, Hamburg
+Rating: 5/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Ärztehaus Eppendorfer Park were inconsistent.
+
+Review 8 for Dr. Sabine Meyer, General, Hamburg
+Rating: 9/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: I went in with months of tiredness, and Dr. Sabine Meyer ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 9 for Dr. Sabine Meyer, General, Hamburg
+Rating: 6/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Dr. Sabine Meyer is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Sabine Meyer, General, Hamburg: 6.67/10 from 9 reviews

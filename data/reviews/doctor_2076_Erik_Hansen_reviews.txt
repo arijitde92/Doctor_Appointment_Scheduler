@@ -1,0 +1,64 @@
+Doctor: Dr. Erik Hansen
+Doctor ID: 2076
+Specialization: Pathology
+Gender: Male
+Years of experience: 20
+City: Trondheim, Norway
+Clinics: Legesenteret Kongens gate Plus (clinic ID 270); Helsehuset Nidelven (clinic ID 271); Medisinsk Senter Prinsens gate (clinic ID 272)
+
+Review 1 for Dr. Erik Hansen, Pathology, Trondheim
+Rating: 8/10
+Clinic visited: Helsehuset Nidelven
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Erik Hansen felt well organized from start to finish.
+
+Review 2 for Dr. Erik Hansen, Pathology, Trondheim
+Rating: 10/10
+Clinic visited: Helsehuset Nidelven
+Description: The lab at Helsehuset Nidelven had a quick, friendly blood draw and the phlebotomist found my vein on the first try. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 3 for Dr. Erik Hansen, Pathology, Trondheim
+Rating: 9/10
+Clinic visited: Legesenteret Kongens gate Plus
+Description: Dr. Erik Hansen used a calm, steady voice that settled my nerves before a stressful procedure. Dr. Erik Hansen took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 4 for Dr. Erik Hansen, Pathology, Trondheim
+Rating: 9/10
+Clinic visited: Legesenteret Kongens gate Plus
+Description: Allergy panel results were explained in detail by Dr. Erik Hansen, with a note on which results mattered clinically and which did not.
+
+Review 5 for Dr. Erik Hansen, Pathology, Trondheim
+Rating: 10/10
+Clinic visited: Legesenteret Kongens gate Plus
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Erik Hansen, Pathology, Trondheim
+Rating: 9/10
+Clinic visited: Helsehuset Nidelven
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 7 for Dr. Erik Hansen, Pathology, Trondheim
+Rating: 10/10
+Clinic visited: Medisinsk Senter Prinsens gate
+Description: The lab under Dr. Erik Hansen was clean, organized and never overbooked, and results arrived exactly when promised. Dr. Erik Hansen drew a quick sketch to explain what was going on, which helped me remember it afterwards. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Erik Hansen, Pathology, Trondheim
+Rating: 9/10
+Clinic visited: Legesenteret Kongens gate Plus
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 9 for Dr. Erik Hansen, Pathology, Trondheim
+Rating: 10/10
+Clinic visited: Legesenteret Kongens gate Plus
+Description: Dr. Erik Hansen looked me in the eye, listened to the whole story and only then started typing. I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Review 10 for Dr. Erik Hansen, Pathology, Trondheim
+Rating: 8/10
+Clinic visited: Legesenteret Kongens gate Plus
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Trondheim. Everything was explained in plain English by Dr. Erik Hansen, and nothing was left to guess.
+
+Review 11 for Dr. Erik Hansen, Pathology, Trondheim
+Rating: 8/10
+Clinic visited: Helsehuset Nidelven
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Overall rating for Dr. Erik Hansen, Pathology, Trondheim: 9.09/10 from 11 reviews

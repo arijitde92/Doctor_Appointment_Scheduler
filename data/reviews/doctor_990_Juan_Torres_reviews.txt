@@ -1,0 +1,54 @@
+Doctor: Dr. Juan Torres
+Doctor ID: 990
+Specialization: Pathology
+Gender: Male
+Years of experience: 23
+City: Trujillo, Peru
+Clinics: Clínica Primavera Norte (clinic ID 130); Centro Médico Larco (clinic ID 131)
+
+Review 1 for Dr. Juan Torres, Pathology, Trujillo
+Rating: 6/10
+Clinic visited: Centro Médico Larco
+Description: Booking was easy online, but the confirmation email contained the wrong address for Centro Médico Larco. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 2 for Dr. Juan Torres, Pathology, Trujillo
+Rating: 6/10
+Clinic visited: Centro Médico Larco
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Juan Torres, Pathology, Trujillo
+Rating: 9/10
+Clinic visited: Centro Médico Larco
+Description: The biopsy report was returned in three days, and Dr. Juan Torres took time on the phone to explain every term in it. Everything was explained in plain English by Dr. Juan Torres, and nothing was left to guess.
+
+Review 4 for Dr. Juan Torres, Pathology, Trujillo
+Rating: 4/10
+Clinic visited: Centro Médico Larco
+Description: I was billed twice for the same panel and it took a month to get a correction.
+
+Review 5 for Dr. Juan Torres, Pathology, Trujillo
+Rating: 8/10
+Clinic visited: Centro Médico Larco
+Description: The practice in Trujillo is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 6 for Dr. Juan Torres, Pathology, Trujillo
+Rating: 6/10
+Clinic visited: Clínica Primavera Norte
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Juan Torres answered my questions kindly, though the call back took three days.
+
+Review 7 for Dr. Juan Torres, Pathology, Trujillo
+Rating: 6/10
+Clinic visited: Centro Médico Larco
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 8 for Dr. Juan Torres, Pathology, Trujillo
+Rating: 5/10
+Clinic visited: Clínica Primavera Norte
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Juan Torres, Pathology, Trujillo
+Rating: 4/10
+Clinic visited: Centro Médico Larco
+Description: The staff were curt and impatient when I asked how to read the reference ranges on my report. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Overall rating for Dr. Juan Torres, Pathology, Trujillo: 6.00/10 from 9 reviews

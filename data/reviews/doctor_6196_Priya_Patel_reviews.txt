@@ -1,0 +1,59 @@
+Doctor: Dr. Priya Patel
+Doctor ID: 6196
+Specialization: Cardiology
+Gender: Female
+Years of experience: 29
+City: Al Wakrah, Qatar
+Clinics: Wakrah Bay Family Clinic (clinic ID 800); Al Mashaf Wellness Clinic (clinic ID 804)
+
+Review 1 for Dr. Priya Patel, Cardiology, Al Wakrah
+Rating: 7/10
+Clinic visited: Al Mashaf Wellness Clinic
+Description: Great care in the visit itself, but the billing for the tests at Al Mashaf Wellness Clinic was confusing.
+
+Review 2 for Dr. Priya Patel, Cardiology, Al Wakrah
+Rating: 6/10
+Clinic visited: Al Mashaf Wellness Clinic
+Description: Helpful with my cholesterol, Dr. Priya Patel still gave dietary advice that was a little generic. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 3 for Dr. Priya Patel, Cardiology, Al Wakrah
+Rating: 8/10
+Clinic visited: Al Mashaf Wellness Clinic
+Description: Clear and calm advice at Al Mashaf Wellness Clinic about exercise after my stent, including a gradual written schedule. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 4 for Dr. Priya Patel, Cardiology, Al Wakrah
+Rating: 7/10
+Clinic visited: Wakrah Bay Family Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 5 for Dr. Priya Patel, Cardiology, Al Wakrah
+Rating: 7/10
+Clinic visited: Al Mashaf Wellness Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Priya Patel, Cardiology, Al Wakrah
+Rating: 9/10
+Clinic visited: Al Mashaf Wellness Clinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. Seeing Dr. Priya Patel in Al Wakrah meant my whole family history was reviewed, and now my sister is being screened too.
+
+Review 7 for Dr. Priya Patel, Cardiology, Al Wakrah
+Rating: 6/10
+Clinic visited: Al Mashaf Wellness Clinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 8 for Dr. Priya Patel, Cardiology, Al Wakrah
+Rating: 7/10
+Clinic visited: Al Mashaf Wellness Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 9 for Dr. Priya Patel, Cardiology, Al Wakrah
+Rating: 9/10
+Clinic visited: Wakrah Bay Family Clinic
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices.
+
+Review 10 for Dr. Priya Patel, Cardiology, Al Wakrah
+Rating: 7/10
+Clinic visited: Al Mashaf Wellness Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Dr. Priya Patel adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Overall rating for Dr. Priya Patel, Cardiology, Al Wakrah: 7.30/10 from 10 reviews

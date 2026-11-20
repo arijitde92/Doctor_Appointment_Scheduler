@@ -1,0 +1,64 @@
+Doctor: Dr. Paul Smith
+Doctor ID: 1083
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 5
+City: Edinburgh, UK
+Clinics: Morningside Family Clinic (clinic ID 142)
+
+Review 1 for Dr. Paul Smith, Psychiatry, Edinburgh
+Rating: 10/10
+Clinic visited: Morningside Family Clinic
+Description: My depression finally has a treatment plan from Dr. Paul Smith that works, with regular check-ins and careful dose changes.
+
+Review 2 for Dr. Paul Smith, Psychiatry, Edinburgh
+Rating: 10/10
+Clinic visited: Morningside Family Clinic
+Description: I felt heard by Dr. Paul Smith during a very hard time, and nobody rushed me out of the room.
+
+Review 3 for Dr. Paul Smith, Psychiatry, Edinburgh
+Rating: 8/10
+Clinic visited: Morningside Family Clinic
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. Never once did I feel rushed, even though the clinic was clearly busy that morning. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Paul Smith, Psychiatry, Edinburgh
+Rating: 9/10
+Clinic visited: Morningside Family Clinic
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. I appreciated that he offered more than one option and let me choose what suited my life. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Paul Smith, Psychiatry, Edinburgh
+Rating: 7/10
+Clinic visited: Morningside Family Clinic
+Description: Dr. Paul Smith is knowledgeable, though I waited several weeks for my first appointment. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Paul Smith, Psychiatry, Edinburgh
+Rating: 7/10
+Clinic visited: Morningside Family Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good listener, yet the refill process at Morningside Family Clinic is slow and requires several phone calls.
+
+Review 7 for Dr. Paul Smith, Psychiatry, Edinburgh
+Rating: 8/10
+Clinic visited: Morningside Family Clinic
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Paul Smith, Psychiatry, Edinburgh
+Rating: 6/10
+Clinic visited: Morningside Family Clinic
+Description: Quick appointment and a fair price in Edinburgh, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 9 for Dr. Paul Smith, Psychiatry, Edinburgh
+Rating: 6/10
+Clinic visited: Morningside Family Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Paul Smith, Psychiatry, Edinburgh
+Rating: 8/10
+Clinic visited: Morningside Family Clinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Highly recommended, and I have already told two colleagues about it.
+
+Review 11 for Dr. Paul Smith, Psychiatry, Edinburgh
+Rating: 7/10
+Clinic visited: Morningside Family Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Booking was easy online, but the confirmation email contained the wrong address for Morningside Family Clinic.
+
+Overall rating for Dr. Paul Smith, Psychiatry, Edinburgh: 7.82/10 from 11 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Ricardo Aguirre
+Doctor ID: 799
+Specialization: Psychology
+Gender: Male
+Years of experience: 22
+City: Mendoza, Argentina
+Clinics: Clínica Cuyo Salud (clinic ID 105)
+
+Review 1 for Dr. Ricardo Aguirre, Psychology, Mendoza
+Rating: 8/10
+Clinic visited: Clínica Cuyo Salud
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 2 for Dr. Ricardo Aguirre, Psychology, Mendoza
+Rating: 10/10
+Clinic visited: Clínica Cuyo Salud
+Description: The office in Mendoza is quiet and private, and the receptionist never mentions anything in front of other patients. Everything was explained in plain English by Dr. Ricardo Aguirre, and nothing was left to guess.
+
+Review 3 for Dr. Ricardo Aguirre, Psychology, Mendoza
+Rating: 9/10
+Clinic visited: Clínica Cuyo Salud
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 4 for Dr. Ricardo Aguirre, Psychology, Mendoza
+Rating: 8/10
+Clinic visited: Clínica Cuyo Salud
+Description: Online sessions through Clínica Cuyo Salud worked just as well as in-person ones, and the video link never once failed.
+
+Review 5 for Dr. Ricardo Aguirre, Psychology, Mendoza
+Rating: 10/10
+Clinic visited: Clínica Cuyo Salud
+Description: I never felt judged by Dr. Ricardo Aguirre when talking about my burnout, and the sessions gave me language for things I could not explain before.
+
+Review 6 for Dr. Ricardo Aguirre, Psychology, Mendoza
+Rating: 10/10
+Clinic visited: Clínica Cuyo Salud
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 7 for Dr. Ricardo Aguirre, Psychology, Mendoza
+Rating: 9/10
+Clinic visited: Clínica Cuyo Salud
+Description: I appreciated the written summary Dr. Ricardo Aguirre sent after each session and the short worksheets between visits.
+
+Review 8 for Dr. Ricardo Aguirre, Psychology, Mendoza
+Rating: 9/10
+Clinic visited: Clínica Cuyo Salud
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 9 for Dr. Ricardo Aguirre, Psychology, Mendoza
+Rating: 7/10
+Clinic visited: Clínica Cuyo Salud
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. Dr. Ricardo Aguirre was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Ricardo Aguirre, Psychology, Mendoza: 8.89/10 from 9 reviews

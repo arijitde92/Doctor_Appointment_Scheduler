@@ -1,0 +1,59 @@
+Doctor: Dr. Charlotte Wilson
+Doctor ID: 1092
+Specialization: General
+Gender: Female
+Years of experience: 6
+City: Edinburgh, UK
+Clinics: Queensferry Street Polyclinic (clinic ID 143); Raeburn Place Medical Practice (clinic ID 144)
+
+Review 1 for Dr. Charlotte Wilson, General, Edinburgh
+Rating: 5/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Referrals from Dr. Charlotte Wilson are handled well, but getting test results back took longer than I was told to expect. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Charlotte Wilson, General, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Charlotte Wilson, General, Edinburgh
+Rating: 8/10
+Clinic visited: Queensferry Street Polyclinic
+Description: I always hear back within a day when I leave a question with the nurse at Queensferry Street Polyclinic, and Dr. Charlotte Wilson follows up on lab results personally. Dr. Charlotte Wilson looked me in the eye, listened to the whole story and only then started typing.
+
+Review 4 for Dr. Charlotte Wilson, General, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Raeburn Place Medical Practice were inconsistent. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Charlotte Wilson, General, Edinburgh
+Rating: 8/10
+Clinic visited: Queensferry Street Polyclinic
+Description: My blood pressure had crept up and Dr. Charlotte Wilson walked me through diet changes before suggesting anything else. Three months later my readings were normal. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 6 for Dr. Charlotte Wilson, General, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: By the time I left the room, Dr. Charlotte Wilson had sorted the sick note, referral letter and prescription refill.
+
+Review 7 for Dr. Charlotte Wilson, General, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Charlotte Wilson, General, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 9 for Dr. Charlotte Wilson, General, Edinburgh
+Rating: 10/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I went in with months of tiredness, and Dr. Charlotte Wilson ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 10 for Dr. Charlotte Wilson, General, Edinburgh
+Rating: 8/10
+Clinic visited: Queensferry Street Polyclinic
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Overall rating for Dr. Charlotte Wilson, General, Edinburgh: 7.60/10 from 10 reviews

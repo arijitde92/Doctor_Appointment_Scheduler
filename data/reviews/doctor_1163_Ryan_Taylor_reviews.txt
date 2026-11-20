@@ -1,0 +1,69 @@
+Doctor: Dr. Ryan Taylor
+Doctor ID: 1163
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 20
+City: Manchester, UK
+Clinics: Wilmslow Road Family Clinic (clinic ID 152)
+
+Review 1 for Dr. Ryan Taylor, Pediatrics, Manchester
+Rating: 6/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 2 for Dr. Ryan Taylor, Pediatrics, Manchester
+Rating: 5/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Ryan Taylor, Pediatrics, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 4 for Dr. Ryan Taylor, Pediatrics, Manchester
+Rating: 6/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Ryan Taylor, Pediatrics, Manchester
+Rating: 6/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Caring and gentle with my child, Dr. Ryan Taylor nonetheless ran forty minutes behind schedule at most appointments. Good bedside manner from Dr. Ryan Taylor, but the parking near Wilmslow Road Family Clinic is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Ryan Taylor, Pediatrics, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Dr. Ryan Taylor is thorough with exams, but the after-hours phone line at Wilmslow Road Family Clinic is hard to reach.
+
+Review 7 for Dr. Ryan Taylor, Pediatrics, Manchester
+Rating: 4/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Review 8 for Dr. Ryan Taylor, Pediatrics, Manchester
+Rating: 5/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 9 for Dr. Ryan Taylor, Pediatrics, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: My teenager actually spoke up during the visit, and Dr. Ryan Taylor handled sensitive topics with respect.
+
+Review 10 for Dr. Ryan Taylor, Pediatrics, Manchester
+Rating: 4/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: We were left waiting over an hour with a sick, crying baby and received no apology. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 11 for Dr. Ryan Taylor, Pediatrics, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 12 for Dr. Ryan Taylor, Pediatrics, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Overall rating for Dr. Ryan Taylor, Pediatrics, Manchester: 6.08/10 from 12 reviews

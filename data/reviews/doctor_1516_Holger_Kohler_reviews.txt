@@ -1,0 +1,49 @@
+Doctor: Dr. Holger Köhler
+Doctor ID: 1516
+Specialization: Neurology
+Gender: Male
+Years of experience: 12
+City: Berlin, Germany
+Clinics: Ärztehaus Neukölln-Süd (clinic ID 198); Praxis am Steglitzer Kreisel Park (clinic ID 199)
+
+Review 1 for Dr. Holger Köhler, Neurology, Berlin
+Rating: 9/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: The EEG appointment ran on time, and Dr. Holger Köhler reviewed the tracing with me the same week. A translator was arranged for my mother without us asking twice, and Dr. Holger Köhler spoke directly to her throughout. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Holger Köhler, Neurology, Berlin
+Rating: 7/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 3 for Dr. Holger Köhler, Neurology, Berlin
+Rating: 7/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. I liked the advice I got from Dr. Holger Köhler, but I would have liked more time to ask follow-up questions before the visit ended. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Holger Köhler, Neurology, Berlin
+Rating: 10/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: Getting a same-month appointment in Berlin for my sudden headaches was a real relief, and the work-up was prompt. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Holger Köhler, Neurology, Berlin
+Rating: 10/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: Getting to Praxis am Steglitzer Kreisel Park by public transport in Berlin was easy, and there is a step-free entrance for wheelchairs. He patiently explained my MRI findings and calmed my worries about memory problems. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Holger Köhler, Neurology, Berlin
+Rating: 10/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices. Appointment reminders came by text and email, and rescheduling took two taps. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Holger Köhler, Neurology, Berlin
+Rating: 10/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. My tremor was assessed carefully and the explanation of the options was balanced and unhurried. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Holger Köhler, Neurology, Berlin
+Rating: 10/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: Living with multiple sclerosis feels less frightening because Dr. Holger Köhler explains and discusses every change in my plan.
+
+Overall rating for Dr. Holger Köhler, Neurology, Berlin: 9.12/10 from 8 reviews

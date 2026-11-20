@@ -1,0 +1,49 @@
+Doctor: Dr. Andrés Vargas Salazar
+Doctor ID: 485
+Specialization: General
+Gender: Male
+Years of experience: 29
+City: Monterrey, Mexico
+Clinics: Centro Médico Valle Oriente (clinic ID 66)
+
+Review 1 for Dr. Andrés Vargas Salazar, General, Monterrey
+Rating: 8/10
+Clinic visited: Centro Médico Valle Oriente
+Description: By the time I left the room, Dr. Andrés Vargas Salazar had sorted the sick note, referral letter and prescription refill. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Andrés Vargas Salazar, General, Monterrey
+Rating: 8/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Managing my type 2 diabetes with Dr. Andrés Vargas Salazar has been steady and practical, with quarterly blood sugar reviews and no lectures. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 3 for Dr. Andrés Vargas Salazar, General, Monterrey
+Rating: 7/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Centro Médico Valle Oriente were inconsistent. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Andrés Vargas Salazar, General, Monterrey
+Rating: 6/10
+Clinic visited: Centro Médico Valle Oriente
+Description: I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Andrés Vargas Salazar, General, Monterrey
+Rating: 7/10
+Clinic visited: Centro Médico Valle Oriente
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 6 for Dr. Andrés Vargas Salazar, General, Monterrey
+Rating: 8/10
+Clinic visited: Centro Médico Valle Oriente
+Description: My blood pressure had crept up and Dr. Andrés Vargas Salazar walked me through diet changes before suggesting anything else. Three months later my readings were normal. Sensitive questions were handled by Dr. Andrés Vargas Salazar with discretion and without a hint of judgment. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Andrés Vargas Salazar, General, Monterrey
+Rating: 9/10
+Clinic visited: Centro Médico Valle Oriente
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I always hear back within a day when I leave a question with the nurse at Centro Médico Valle Oriente, and Dr. Andrés Vargas Salazar follows up on lab results personally. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Andrés Vargas Salazar, General, Monterrey
+Rating: 8/10
+Clinic visited: Centro Médico Valle Oriente
+Description: As a new patient in Monterrey, I felt welcomed at Centro Médico Valle Oriente, and my whole history was reviewed in one relaxed visit. The visit began with a short, friendly chat that put me at ease before any examination started. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Andrés Vargas Salazar, General, Monterrey: 7.62/10 from 8 reviews

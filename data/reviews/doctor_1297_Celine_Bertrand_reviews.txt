@@ -1,0 +1,49 @@
+Doctor: Dr. Céline Bertrand
+Doctor ID: 1297
+Specialization: General
+Gender: Female
+Years of experience: 1
+City: Paris, France
+Clinics: Polyclinique des Batignolles (clinic ID 169)
+
+Review 1 for Dr. Céline Bertrand, General, Paris
+Rating: 7/10
+Clinic visited: Polyclinique des Batignolles
+Description: Dr. Céline Bertrand is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 2 for Dr. Céline Bertrand, General, Paris
+Rating: 7/10
+Clinic visited: Polyclinique des Batignolles
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Céline Bertrand, General, Paris
+Rating: 5/10
+Clinic visited: Polyclinique des Batignolles
+Description: Referrals from Dr. Céline Bertrand are handled well, but getting test results back took longer than I was told to expect. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Céline Bertrand, General, Paris
+Rating: 8/10
+Clinic visited: Polyclinique des Batignolles
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. The waiting room at Polyclinique des Batignolles was clean, quiet and comfortable, with enough seating and water available.
+
+Review 5 for Dr. Céline Bertrand, General, Paris
+Rating: 10/10
+Clinic visited: Polyclinique des Batignolles
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 6 for Dr. Céline Bertrand, General, Paris
+Rating: 8/10
+Clinic visited: Polyclinique des Batignolles
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Céline Bertrand, General, Paris
+Rating: 9/10
+Clinic visited: Polyclinique des Batignolles
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. By the time I left the room, Dr. Céline Bertrand had sorted the sick note, referral letter and prescription refill. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Céline Bertrand, General, Paris
+Rating: 8/10
+Clinic visited: Polyclinique des Batignolles
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. My annual check-up with Dr. Céline Bertrand took forty minutes, with every screening explained and nothing rushed.
+
+Overall rating for Dr. Céline Bertrand, General, Paris: 7.75/10 from 8 reviews

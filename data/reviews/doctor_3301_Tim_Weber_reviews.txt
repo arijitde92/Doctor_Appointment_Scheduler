@@ -1,0 +1,64 @@
+Doctor: Dr. Tim Weber
+Doctor ID: 3301
+Specialization: Neurology
+Gender: Male
+Years of experience: 20
+City: Esch-sur-Alzette, Luxembourg
+Clinics: Clinique du Brill (clinic ID 428)
+
+Review 1 for Dr. Tim Weber, Neurology, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Clinique du Brill
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 2 for Dr. Tim Weber, Neurology, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Clinique du Brill
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 3 for Dr. Tim Weber, Neurology, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Clinique du Brill
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Dr. Tim Weber took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy.
+
+Review 4 for Dr. Tim Weber, Neurology, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Clinique du Brill
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Tim Weber, Neurology, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Clinique du Brill
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Tim Weber at Clinique du Brill are difficult to schedule. Good bedside manner from Dr. Tim Weber, but the parking near Clinique du Brill is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Tim Weber, Neurology, Esch-sur-Alzette
+Rating: 5/10
+Clinic visited: Clinique du Brill
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Tim Weber, Neurology, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Clinique du Brill
+Description: Paperwork at Clinique du Brill was kept to a minimum, and the staff helped me complete the insurance form. Clear and honest talk with Dr. Tim Weber about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Review 8 for Dr. Tim Weber, Neurology, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Clinique du Brill
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Tim Weber, Neurology, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Clinique du Brill
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Tim Weber, Neurology, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Clinique du Brill
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 11 for Dr. Tim Weber, Neurology, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Clinique du Brill
+Description: Dr. Tim Weber explained my results well, although the visit felt short for such a complex condition.
+
+Overall rating for Dr. Tim Weber, Neurology, Esch-sur-Alzette: 6.82/10 from 11 reviews

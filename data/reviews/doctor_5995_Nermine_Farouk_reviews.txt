@@ -1,0 +1,54 @@
+Doctor: Dr. Nermine Farouk
+Doctor ID: 5995
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 18
+City: Luxor, Egypt
+Clinics: Thebes Care Clinic (clinic ID 774)
+
+Review 1 for Dr. Nermine Farouk, Orthopedic, Luxor
+Rating: 3/10
+Clinic visited: Thebes Care Clinic
+Description: The appointment lasted five minutes and ended with an injection I had not agreed to beforehand. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 2 for Dr. Nermine Farouk, Orthopedic, Luxor
+Rating: 5/10
+Clinic visited: Thebes Care Clinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Nermine Farouk, Orthopedic, Luxor
+Rating: 4/10
+Clinic visited: Thebes Care Clinic
+Description: The surgery fee ended up far higher than the quote, and billing staff could not explain the difference. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. I will not be returning and have already started looking for another doctor.
+
+Review 4 for Dr. Nermine Farouk, Orthopedic, Luxor
+Rating: 7/10
+Clinic visited: Thebes Care Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Very skilled with my knee, but Dr. Nermine Farouk's clinic runs behind and the wait was over an hour.
+
+Review 5 for Dr. Nermine Farouk, Orthopedic, Luxor
+Rating: 4/10
+Clinic visited: Thebes Care Clinic
+Description: My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed.
+
+Review 6 for Dr. Nermine Farouk, Orthopedic, Luxor
+Rating: 7/10
+Clinic visited: Thebes Care Clinic
+Description: Dr. Nermine Farouk was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Nermine Farouk, Orthopedic, Luxor
+Rating: 4/10
+Clinic visited: Thebes Care Clinic
+Description: Dr. Nermine Farouk seemed to dismiss my concerns about swelling after the operation, and I had to go elsewhere.
+
+Review 8 for Dr. Nermine Farouk, Orthopedic, Luxor
+Rating: 6/10
+Clinic visited: Thebes Care Clinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Nermine Farouk, Orthopedic, Luxor
+Rating: 7/10
+Clinic visited: Thebes Care Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Overall rating for Dr. Nermine Farouk, Orthopedic, Luxor: 5.22/10 from 9 reviews

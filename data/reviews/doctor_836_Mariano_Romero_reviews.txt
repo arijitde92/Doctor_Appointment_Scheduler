@@ -1,0 +1,54 @@
+Doctor: Dr. Mariano Romero
+Doctor ID: 836
+Specialization: General
+Gender: Male
+Years of experience: 16
+City: Rosario, Argentina
+Clinics: Clínica Oroño Salud (clinic ID 110); Consultorios Médicos Córdoba (clinic ID 112); Instituto Médico Fisherton (clinic ID 114)
+
+Review 1 for Dr. Mariano Romero, General, Rosario
+Rating: 6/10
+Clinic visited: Instituto Médico Fisherton
+Description: Dr. Mariano Romero was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Mariano Romero, General, Rosario
+Rating: 7/10
+Clinic visited: Clínica Oroño Salud
+Description: Referrals from Dr. Mariano Romero are handled well, but getting test results back took longer than I was told to expect.
+
+Review 3 for Dr. Mariano Romero, General, Rosario
+Rating: 9/10
+Clinic visited: Clínica Oroño Salud
+Description: My blood pressure had crept up and Dr. Mariano Romero walked me through diet changes before suggesting anything else. Three months later my readings were normal. The nurse was friendly and efficient, and the whole visit with Dr. Mariano Romero felt well organized from start to finish.
+
+Review 4 for Dr. Mariano Romero, General, Rosario
+Rating: 9/10
+Clinic visited: Instituto Médico Fisherton
+Description: As a new patient in Rosario, I felt welcomed at Instituto Médico Fisherton, and my whole history was reviewed in one relaxed visit.
+
+Review 5 for Dr. Mariano Romero, General, Rosario
+Rating: 7/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 6 for Dr. Mariano Romero, General, Rosario
+Rating: 7/10
+Clinic visited: Instituto Médico Fisherton
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 7 for Dr. Mariano Romero, General, Rosario
+Rating: 8/10
+Clinic visited: Clínica Oroño Salud
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. I always hear back within a day when I leave a question with the nurse at Clínica Oroño Salud, and Dr. Mariano Romero follows up on lab results personally.
+
+Review 8 for Dr. Mariano Romero, General, Rosario
+Rating: 8/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: Dr. Mariano Romero double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Getting to Consultorios Médicos Córdoba from across Rosario was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 9 for Dr. Mariano Romero, General, Rosario
+Rating: 6/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Mariano Romero, General, Rosario: 7.44/10 from 9 reviews

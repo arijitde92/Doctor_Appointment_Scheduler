@@ -1,0 +1,64 @@
+Doctor: Dr. Xu Xiaoli
+Doctor ID: 3981
+Specialization: Pathology
+Gender: Female
+Years of experience: 29
+City: Shenzhen, China
+Clinics: Shennan Hengxin Polyclinic (clinic ID 513)
+
+Review 1 for Dr. Xu Xiaoli, Pathology, Shenzhen
+Rating: 5/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Xu Xiaoli, Pathology, Shenzhen
+Rating: 5/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Helpful in clarifying a borderline result, though Dr. Xu Xiaoli gave little guidance about whether to repeat it. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Xu Xiaoli, Pathology, Shenzhen
+Rating: 5/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Dr. Xu Xiaoli answered my questions kindly, though the call back took three days.
+
+Review 4 for Dr. Xu Xiaoli, Pathology, Shenzhen
+Rating: 6/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Xu Xiaoli, Pathology, Shenzhen
+Rating: 6/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. The treatment plan from Dr. Xu Xiaoli made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Xu Xiaoli, Pathology, Shenzhen
+Rating: 5/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Quick appointment and a fair price in Shenzhen, but the staff seemed overwhelmed and a bit curt on the phone. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Xu Xiaoli, Pathology, Shenzhen
+Rating: 8/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. Paperwork at Shennan Hengxin Polyclinic was kept to a minimum, and the staff helped me complete the insurance form. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Xu Xiaoli, Pathology, Shenzhen
+Rating: 4/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. The report was handed over by Dr. Xu Xiaoli with no explanation, and I left frightened and confused about the terminology. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 9 for Dr. Xu Xiaoli, Pathology, Shenzhen
+Rating: 3/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: I was billed twice for the same panel and it took a month to get a correction. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 10 for Dr. Xu Xiaoli, Pathology, Shenzhen
+Rating: 4/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found. The staff were curt and impatient when I asked how to read the reference ranges on my report.
+
+Review 11 for Dr. Xu Xiaoli, Pathology, Shenzhen
+Rating: 6/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: I liked the advice I got from Dr. Xu Xiaoli, but I would have liked more time to ask follow-up questions before the visit ended. The blood draw was painless, but the waiting area at Shennan Hengxin Polyclinic was crowded in the early morning.
+
+Overall rating for Dr. Xu Xiaoli, Pathology, Shenzhen: 5.18/10 from 11 reviews

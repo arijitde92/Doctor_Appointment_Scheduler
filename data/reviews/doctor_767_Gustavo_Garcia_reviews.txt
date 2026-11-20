@@ -1,0 +1,59 @@
+Doctor: Dr. Gustavo García
+Doctor ID: 767
+Specialization: Neurology
+Gender: Male
+Years of experience: 25
+City: Cordoba, Argentina
+Clinics: Centro Médico Cerro de las Rosas (clinic ID 101)
+
+Review 1 for Dr. Gustavo García, Neurology, Cordoba
+Rating: 10/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Centro Médico Cerro de las Rosas.
+
+Review 2 for Dr. Gustavo García, Neurology, Cordoba
+Rating: 10/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 3 for Dr. Gustavo García, Neurology, Cordoba
+Rating: 10/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 4 for Dr. Gustavo García, Neurology, Cordoba
+Rating: 8/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Gustavo García, Neurology, Cordoba
+Rating: 8/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 6 for Dr. Gustavo García, Neurology, Cordoba
+Rating: 9/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: After years of migraines, Dr. Gustavo García built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 7 for Dr. Gustavo García, Neurology, Cordoba
+Rating: 7/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 8 for Dr. Gustavo García, Neurology, Cordoba
+Rating: 8/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Living with multiple sclerosis feels less frightening because Dr. Gustavo García explains and discusses every change in my plan.
+
+Review 9 for Dr. Gustavo García, Neurology, Cordoba
+Rating: 9/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. The memory assessment for my father at Centro Médico Cerro de las Rosas was gentle and respectful, and the family received a clear written summary.
+
+Review 10 for Dr. Gustavo García, Neurology, Cordoba
+Rating: 9/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: Clear and honest talk with Dr. Gustavo García about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist. A translator was arranged for my mother without us asking twice, and Dr. Gustavo García spoke directly to her throughout. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Gustavo García, Neurology, Cordoba: 8.80/10 from 10 reviews

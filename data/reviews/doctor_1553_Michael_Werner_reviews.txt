@@ -1,0 +1,49 @@
+Doctor: Dr. Michael Werner
+Doctor ID: 1553
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 12
+City: Frankfurt, Germany
+Clinics: Medizinisches Zentrum Bahnhofsviertel (clinic ID 202)
+
+Review 1 for Dr. Michael Werner, Pediatrics, Frankfurt
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 2 for Dr. Michael Werner, Pediatrics, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Dr. Michael Werner is thorough with exams, but the after-hours phone line at Medizinisches Zentrum Bahnhofsviertel is hard to reach.
+
+Review 3 for Dr. Michael Werner, Pediatrics, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Caring and gentle with my child, Dr. Michael Werner nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 4 for Dr. Michael Werner, Pediatrics, Frankfurt
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 5 for Dr. Michael Werner, Pediatrics, Frankfurt
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Michael Werner, Pediatrics, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Michael Werner, Pediatrics, Frankfurt
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Good bedside manner from Dr. Michael Werner, but the parking near Medizinisches Zentrum Bahnhofsviertel is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Michael Werner, Pediatrics, Frankfurt
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: I liked the advice I got from Dr. Michael Werner, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Michael Werner, Pediatrics, Frankfurt: 6.25/10 from 8 reviews

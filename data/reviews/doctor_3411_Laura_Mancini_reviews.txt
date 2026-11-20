@@ -1,0 +1,64 @@
+Doctor: Dr. Laura Mancini
+Doctor ID: 3411
+Specialization: Cardiology
+Gender: Female
+Years of experience: 4
+City: Milan, Italy
+Clinics: Studio Medico Brera (clinic ID 442)
+
+Review 1 for Dr. Laura Mancini, Cardiology, Milan
+Rating: 10/10
+Clinic visited: Studio Medico Brera
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 2 for Dr. Laura Mancini, Cardiology, Milan
+Rating: 9/10
+Clinic visited: Studio Medico Brera
+Description: She was upfront about what could and could not be treated, and did not oversell any option. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 3 for Dr. Laura Mancini, Cardiology, Milan
+Rating: 5/10
+Clinic visited: Studio Medico Brera
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 4 for Dr. Laura Mancini, Cardiology, Milan
+Rating: 7/10
+Clinic visited: Studio Medico Brera
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Laura Mancini, Cardiology, Milan
+Rating: 6/10
+Clinic visited: Studio Medico Brera
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 6 for Dr. Laura Mancini, Cardiology, Milan
+Rating: 8/10
+Clinic visited: Studio Medico Brera
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 7 for Dr. Laura Mancini, Cardiology, Milan
+Rating: 7/10
+Clinic visited: Studio Medico Brera
+Description: Great care in the visit itself, but the billing for the tests at Studio Medico Brera was confusing. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Laura Mancini, Cardiology, Milan
+Rating: 8/10
+Clinic visited: Studio Medico Brera
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning. The practice in Milan is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 9 for Dr. Laura Mancini, Cardiology, Milan
+Rating: 6/10
+Clinic visited: Studio Medico Brera
+Description: Dr. Laura Mancini adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 10 for Dr. Laura Mancini, Cardiology, Milan
+Rating: 8/10
+Clinic visited: Studio Medico Brera
+Description: After my heart attack, Dr. Laura Mancini explained the rehab plan and medication changes with great patience and kindness.
+
+Review 11 for Dr. Laura Mancini, Cardiology, Milan
+Rating: 6/10
+Clinic visited: Studio Medico Brera
+Description: Booking was easy online, but the confirmation email contained the wrong address for Studio Medico Brera.
+
+Overall rating for Dr. Laura Mancini, Cardiology, Milan: 7.27/10 from 11 reviews

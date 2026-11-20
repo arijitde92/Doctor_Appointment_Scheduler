@@ -1,0 +1,69 @@
+Doctor: Dr. Thawatchai Boonmee
+Doctor ID: 5232
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 13
+City: Bangkok, Thailand
+Clinics: Phra Nakhon Medical Clinic (clinic ID 677)
+
+Review 1 for Dr. Thawatchai Boonmee, Pediatrics, Bangkok
+Rating: 5/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 2 for Dr. Thawatchai Boonmee, Pediatrics, Bangkok
+Rating: 5/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 3 for Dr. Thawatchai Boonmee, Pediatrics, Bangkok
+Rating: 6/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Thawatchai Boonmee, Pediatrics, Bangkok
+Rating: 3/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 5 for Dr. Thawatchai Boonmee, Pediatrics, Bangkok
+Rating: 4/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: The referral to a specialist never arrived, and I had to chase it myself for weeks. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 6 for Dr. Thawatchai Boonmee, Pediatrics, Bangkok
+Rating: 5/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Thawatchai Boonmee, Pediatrics, Bangkok
+Rating: 3/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: The visit felt rushed, and Dr. Thawatchai Boonmee was already halfway out the door when I started to describe my second symptom. I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why.
+
+Review 8 for Dr. Thawatchai Boonmee, Pediatrics, Bangkok
+Rating: 4/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: I felt dismissed by Dr. Thawatchai Boonmee when I brought up a second concern, and was told to book another appointment for it. Dr. Thawatchai Boonmee spoke mostly to the computer, and my child clung to me throughout the whole appointment.
+
+Review 9 for Dr. Thawatchai Boonmee, Pediatrics, Bangkok
+Rating: 5/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: Caring and gentle with my child, Dr. Thawatchai Boonmee nonetheless ran forty minutes behind schedule at most appointments. Good bedside manner from Dr. Thawatchai Boonmee, but the parking near Phra Nakhon Medical Clinic is limited and I had to circle for fifteen minutes.
+
+Review 10 for Dr. Thawatchai Boonmee, Pediatrics, Bangkok
+Rating: 8/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: The school physical at Phra Nakhon Medical Clinic was quick, thorough and the forms were completed on the spot. The waiting room at Phra Nakhon Medical Clinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 11 for Dr. Thawatchai Boonmee, Pediatrics, Bangkok
+Rating: 5/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I will give it one more visit before I decide whether to stay.
+
+Review 12 for Dr. Thawatchai Boonmee, Pediatrics, Bangkok
+Rating: 7/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: Dr. Thawatchai Boonmee is thorough with exams, but the after-hours phone line at Phra Nakhon Medical Clinic is hard to reach. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Thawatchai Boonmee, Pediatrics, Bangkok: 5.00/10 from 12 reviews

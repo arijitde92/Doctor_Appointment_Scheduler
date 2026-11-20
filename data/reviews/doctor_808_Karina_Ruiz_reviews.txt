@@ -1,0 +1,49 @@
+Doctor: Dr. Karina Ruiz
+Doctor ID: 808
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 5
+City: Mendoza, Argentina
+Clinics: Centro Médico Las Heras (clinic ID 106); Consultorios Médicos Aconcagua (clinic ID 107)
+
+Review 1 for Dr. Karina Ruiz, Pediatrics, Mendoza
+Rating: 9/10
+Clinic visited: Centro Médico Las Heras
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Karina Ruiz felt well organized from start to finish.
+
+Review 2 for Dr. Karina Ruiz, Pediatrics, Mendoza
+Rating: 8/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: The waiting room at Consultorios Médicos Aconcagua was clean, quiet and comfortable, with enough seating and water available. The growth chart review was detailed, and I appreciated that Dr. Karina Ruiz talked to my child as well as to me.
+
+Review 3 for Dr. Karina Ruiz, Pediatrics, Mendoza
+Rating: 10/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 4 for Dr. Karina Ruiz, Pediatrics, Mendoza
+Rating: 10/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: I was called in within five minutes of my appointment time at Consultorios Médicos Aconcagua, which is rare and much appreciated. Vaccination visits with Dr. Karina Ruiz are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 5 for Dr. Karina Ruiz, Pediatrics, Mendoza
+Rating: 9/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: The waiting room in Mendoza has a play corner and separate seating for sick children, which I really valued. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 6 for Dr. Karina Ruiz, Pediatrics, Mendoza
+Rating: 10/10
+Clinic visited: Centro Médico Las Heras
+Description: The school physical at Centro Médico Las Heras was quick, thorough and the forms were completed on the spot. Getting to Centro Médico Las Heras by public transport in Mendoza was easy, and there is a step-free entrance for wheelchairs. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Karina Ruiz, Pediatrics, Mendoza
+Rating: 8/10
+Clinic visited: Centro Médico Las Heras
+Description: Our family has been coming for years, and she remembers each child's history and personality. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 8 for Dr. Karina Ruiz, Pediatrics, Mendoza
+Rating: 9/10
+Clinic visited: Centro Médico Las Heras
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Overall rating for Dr. Karina Ruiz, Pediatrics, Mendoza: 9.12/10 from 8 reviews

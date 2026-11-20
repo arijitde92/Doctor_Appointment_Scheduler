@@ -1,0 +1,49 @@
+Doctor: Dr. Michael Anderson
+Doctor ID: 6665
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 24
+City: Christchurch, New Zealand
+Clinics: Puriri Medical Practice (clinic ID 864)
+
+Review 1 for Dr. Michael Anderson, Psychiatry, Christchurch
+Rating: 6/10
+Clinic visited: Puriri Medical Practice
+Description: Good bedside manner from Dr. Michael Anderson, but the parking near Puriri Medical Practice is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Michael Anderson, Psychiatry, Christchurch
+Rating: 6/10
+Clinic visited: Puriri Medical Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 3 for Dr. Michael Anderson, Psychiatry, Christchurch
+Rating: 8/10
+Clinic visited: Puriri Medical Practice
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Excellent at explaining how therapy and medication work together, and Dr. Michael Anderson coordinated with my counselor. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Michael Anderson, Psychiatry, Christchurch
+Rating: 6/10
+Clinic visited: Puriri Medical Practice
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 5 for Dr. Michael Anderson, Psychiatry, Christchurch
+Rating: 5/10
+Clinic visited: Puriri Medical Practice
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 6 for Dr. Michael Anderson, Psychiatry, Christchurch
+Rating: 6/10
+Clinic visited: Puriri Medical Practice
+Description: Dr. Michael Anderson was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Michael Anderson, Psychiatry, Christchurch
+Rating: 8/10
+Clinic visited: Puriri Medical Practice
+Description: A translator was arranged for my mother without us asking twice, and Dr. Michael Anderson spoke directly to her throughout. I felt heard by Dr. Michael Anderson during a very hard time, and nobody rushed me out of the room. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Michael Anderson, Psychiatry, Christchurch
+Rating: 8/10
+Clinic visited: Puriri Medical Practice
+Description: I was called in within five minutes of my appointment time at Puriri Medical Practice, which is rare and much appreciated.
+
+Overall rating for Dr. Michael Anderson, Psychiatry, Christchurch: 6.62/10 from 8 reviews

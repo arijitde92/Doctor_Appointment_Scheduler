@@ -1,0 +1,54 @@
+Doctor: Dr. Ishikawa Kazuya
+Doctor ID: 4063
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 24
+City: Osaka, Japan
+Clinics: Shin-Osaka Tsubasa Clinic (clinic ID 524)
+
+Review 1 for Dr. Ishikawa Kazuya, Pediatrics, Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Ishikawa Kazuya, Pediatrics, Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 3 for Dr. Ishikawa Kazuya, Pediatrics, Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Ishikawa Kazuya, Pediatrics, Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Our newborn check-ups with Dr. Ishikawa Kazuya were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Review 5 for Dr. Ishikawa Kazuya, Pediatrics, Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 6 for Dr. Ishikawa Kazuya, Pediatrics, Osaka
+Rating: 6/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Caring and gentle with my child, Dr. Ishikawa Kazuya nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 7 for Dr. Ishikawa Kazuya, Pediatrics, Osaka
+Rating: 4/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: The referral to a specialist never arrived, and I had to chase it myself for weeks.
+
+Review 8 for Dr. Ishikawa Kazuya, Pediatrics, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Everything was explained in plain English by Dr. Ishikawa Kazuya, and nothing was left to guess. He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 9 for Dr. Ishikawa Kazuya, Pediatrics, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. My child's asthma action plan from Dr. Ishikawa Kazuya was written out clearly so that school staff could follow it too. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Ishikawa Kazuya, Pediatrics, Osaka: 7.44/10 from 9 reviews

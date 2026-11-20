@@ -1,0 +1,54 @@
+Doctor: Dr. Graciela Pérez
+Doctor ID: 748
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 1
+City: Buenos Aires, Argentina
+Clinics: Instituto Médico Corrientes (clinic ID 99)
+
+Review 1 for Dr. Graciela Pérez, Gastroenterology, Buenos Aires
+Rating: 7/10
+Clinic visited: Instituto Médico Corrientes
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Graciela Pérez, Gastroenterology, Buenos Aires
+Rating: 9/10
+Clinic visited: Instituto Médico Corrientes
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner.
+
+Review 3 for Dr. Graciela Pérez, Gastroenterology, Buenos Aires
+Rating: 9/10
+Clinic visited: Instituto Médico Corrientes
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 4 for Dr. Graciela Pérez, Gastroenterology, Buenos Aires
+Rating: 9/10
+Clinic visited: Instituto Médico Corrientes
+Description: I came away understanding my condition better than I have in years of previous appointments. Dr. Graciela Pérez was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry.
+
+Review 5 for Dr. Graciela Pérez, Gastroenterology, Buenos Aires
+Rating: 8/10
+Clinic visited: Instituto Médico Corrientes
+Description: She was upfront about what could and could not be treated, and did not oversell any option. Helpful dietitian referral from Dr. Graciela Pérez and written guidance for living with ulcerative colitis. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Graciela Pérez, Gastroenterology, Buenos Aires
+Rating: 10/10
+Clinic visited: Instituto Médico Corrientes
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Graciela Pérez, Gastroenterology, Buenos Aires
+Rating: 7/10
+Clinic visited: Instituto Médico Corrientes
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Knowledgeable about my reflux, Dr. Graciela Pérez still gave diet advice that felt generic and not tailored to my habits.
+
+Review 8 for Dr. Graciela Pérez, Gastroenterology, Buenos Aires
+Rating: 8/10
+Clinic visited: Instituto Médico Corrientes
+Description: Clear explanation from Dr. Graciela Pérez of fatty liver and exactly which lifestyle changes would make a measurable difference. Dr. Graciela Pérez looked me in the eye, listened to the whole story and only then started typing. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Graciela Pérez, Gastroenterology, Buenos Aires
+Rating: 8/10
+Clinic visited: Instituto Médico Corrientes
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed.
+
+Overall rating for Dr. Graciela Pérez, Gastroenterology, Buenos Aires: 8.33/10 from 9 reviews

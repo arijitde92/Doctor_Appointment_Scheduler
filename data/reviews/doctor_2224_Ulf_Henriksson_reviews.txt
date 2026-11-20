@@ -1,0 +1,49 @@
+Doctor: Dr. Ulf Henriksson
+Doctor ID: 2224
+Specialization: Pathology
+Gender: Male
+Years of experience: 6
+City: Uppsala, Sweden
+Clinics: Vårdcentralen Drottninggatan Uppsala (clinic ID 290)
+
+Review 1 for Dr. Ulf Henriksson, Pathology, Uppsala
+Rating: 8/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: Fast turnaround at Vårdcentralen Drottninggatan Uppsala on my thyroid panel, with results in my online account by the next morning. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Ulf Henriksson, Pathology, Uppsala
+Rating: 8/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: Allergy panel results were explained in detail by Dr. Ulf Henriksson, with a note on which results mattered clinically and which did not. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 3 for Dr. Ulf Henriksson, Pathology, Uppsala
+Rating: 8/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 4 for Dr. Ulf Henriksson, Pathology, Uppsala
+Rating: 4/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. The prescription from Dr. Ulf Henriksson was not the one we discussed, and I only noticed when I got home. Not a place I would choose again, and I hope others have a better experience.
+
+Review 5 for Dr. Ulf Henriksson, Pathology, Uppsala
+Rating: 9/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Review 6 for Dr. Ulf Henriksson, Pathology, Uppsala
+Rating: 10/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: The staff and Dr. Ulf Henriksson patiently went through my cholesterol and glucose numbers and explained what each meant for me. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Ulf Henriksson, Pathology, Uppsala
+Rating: 7/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 8 for Dr. Ulf Henriksson, Pathology, Uppsala
+Rating: 8/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: Dr. Ulf Henriksson took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Overall rating for Dr. Ulf Henriksson, Pathology, Uppsala: 7.75/10 from 8 reviews

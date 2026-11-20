@@ -1,0 +1,49 @@
+Doctor: Dr. Andrea Eder
+Doctor ID: 2898
+Specialization: Neurology
+Gender: Female
+Years of experience: 2
+City: Graz, Austria
+Clinics: Medizinisches Zentrum Leonhard (clinic ID 378)
+
+Review 1 for Dr. Andrea Eder, Neurology, Graz
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Andrea Eder, Neurology, Graz
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The migraine plan has helped, though the first medication caused side effects that were not fully explained. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Andrea Eder, Neurology, Graz
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Andrea Eder, Neurology, Graz
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: Dr. Andrea Eder explained my results well, although the visit felt short for such a complex condition. I liked the advice I got from Dr. Andrea Eder, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 5 for Dr. Andrea Eder, Neurology, Graz
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 6 for Dr. Andrea Eder, Neurology, Graz
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Booking was easy online, but the confirmation email contained the wrong address for Medizinisches Zentrum Leonhard.
+
+Review 7 for Dr. Andrea Eder, Neurology, Graz
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: She coordinated with my regular doctor so my medicine list was consistent in both offices. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Andrea Eder, Neurology, Graz
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Andrea Eder, Neurology, Graz: 7.00/10 from 8 reviews

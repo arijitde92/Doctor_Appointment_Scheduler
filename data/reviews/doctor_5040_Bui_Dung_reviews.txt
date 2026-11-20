@@ -1,0 +1,59 @@
+Doctor: Dr. Bui Dung
+Doctor ID: 5040
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 2
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Da Khoa Hong Ngoc (clinic ID 651); Phong Kham Minh Tam (clinic ID 652); Phong Kham Dong Duong (clinic ID 654)
+
+Review 1 for Dr. Bui Dung, Psychiatry, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Prescriptions from Dr. Bui Dung were sent to my pharmacy before I even left the building, and the dosage instructions were written down. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Bui Dung, Psychiatry, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Minh Tam
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 3 for Dr. Bui Dung, Psychiatry, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: My depression finally has a treatment plan from Dr. Bui Dung that works, with regular check-ins and careful dose changes.
+
+Review 4 for Dr. Bui Dung, Psychiatry, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Dong Duong
+Description: At my visit, Dr. Bui Dung took notes on my medication list, checked for interactions and explained the changes simply. My family was included in a session at my request, and Dr. Bui Dung handled it with great tact.
+
+Review 5 for Dr. Bui Dung, Psychiatry, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Minh Tam
+Description: Telehealth follow-ups at Phong Kham Minh Tam are punctual and calm, and refills are dealt with quickly. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 6 for Dr. Bui Dung, Psychiatry, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Dong Duong
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 7 for Dr. Bui Dung, Psychiatry, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 8 for Dr. Bui Dung, Psychiatry, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Minh Tam
+Description: The treatment plan from Dr. Bui Dung made sense, but I wished it had been written down for me to take away. Good listener, yet the refill process at Phong Kham Minh Tam is slow and requires several phone calls.
+
+Review 9 for Dr. Bui Dung, Psychiatry, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Dong Duong
+Description: Never once did Dr. Bui Dung make me feel weak for asking for help, and the stigma I carried really began to ease. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 10 for Dr. Bui Dung, Psychiatry, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Bui Dung, Psychiatry, Ho Chi Minh City: 8.70/10 from 10 reviews

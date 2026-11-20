@@ -1,0 +1,54 @@
+Doctor: Dr. Oliver Smith
+Doctor ID: 6454
+Specialization: Radiology
+Gender: Male
+Years of experience: 16
+City: Brisbane, Australia
+Clinics: Bluegum Medical Group (clinic ID 836)
+
+Review 1 for Dr. Oliver Smith, Radiology, Brisbane
+Rating: 8/10
+Clinic visited: Bluegum Medical Group
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Oliver Smith were respectful throughout. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Oliver Smith, Radiology, Brisbane
+Rating: 9/10
+Clinic visited: Bluegum Medical Group
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. He called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 3 for Dr. Oliver Smith, Radiology, Brisbane
+Rating: 6/10
+Clinic visited: Bluegum Medical Group
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Oliver Smith, Radiology, Brisbane
+Rating: 9/10
+Clinic visited: Bluegum Medical Group
+Description: The report from Dr. Oliver Smith was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 5 for Dr. Oliver Smith, Radiology, Brisbane
+Rating: 7/10
+Clinic visited: Bluegum Medical Group
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Oliver Smith, Radiology, Brisbane
+Rating: 9/10
+Clinic visited: Bluegum Medical Group
+Description: Fast, clean and professional; the bone density scan with Dr. Oliver Smith was painless and the results were explained clearly. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Oliver Smith, Radiology, Brisbane
+Rating: 8/10
+Clinic visited: Bluegum Medical Group
+Description: Reviewing my X-ray together with Dr. Oliver Smith on the screen made it much easier to understand my arthritis.
+
+Review 8 for Dr. Oliver Smith, Radiology, Brisbane
+Rating: 8/10
+Clinic visited: Bluegum Medical Group
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. My test results arrived in the portal within two days, together with a short note that made sense. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. Oliver Smith, Radiology, Brisbane
+Rating: 10/10
+Clinic visited: Bluegum Medical Group
+Description: I was called in within five minutes of my appointment time at Bluegum Medical Group, which is rare and much appreciated.
+
+Overall rating for Dr. Oliver Smith, Radiology, Brisbane: 8.22/10 from 9 reviews

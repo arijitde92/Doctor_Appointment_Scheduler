@@ -1,0 +1,64 @@
+Doctor: Dr. Marta Michalska
+Doctor ID: 2808
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 3
+City: Warsaw, Poland
+Clinics: Poliklinika Jerozolimskie Centrum (clinic ID 367)
+
+Review 1 for Dr. Marta Michalska, Psychiatry, Warsaw
+Rating: 6/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: I liked the advice I got from Dr. Marta Michalska, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Marta Michalska, Psychiatry, Warsaw
+Rating: 7/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Booking was easy online, but the confirmation email contained the wrong address for Poliklinika Jerozolimskie Centrum. Good listener, yet the refill process at Poliklinika Jerozolimskie Centrum is slow and requires several phone calls.
+
+Review 3 for Dr. Marta Michalska, Psychiatry, Warsaw
+Rating: 8/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 4 for Dr. Marta Michalska, Psychiatry, Warsaw
+Rating: 6/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 5 for Dr. Marta Michalska, Psychiatry, Warsaw
+Rating: 8/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: I can ring Poliklinika Jerozolimskie Centrum with an urgent question and receive a thoughtful reply the same day. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 6 for Dr. Marta Michalska, Psychiatry, Warsaw
+Rating: 8/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 7 for Dr. Marta Michalska, Psychiatry, Warsaw
+Rating: 8/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Dr. Marta Michalska used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 8 for Dr. Marta Michalska, Psychiatry, Warsaw
+Rating: 7/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Dr. Marta Michalska is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 9 for Dr. Marta Michalska, Psychiatry, Warsaw
+Rating: 6/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 10 for Dr. Marta Michalska, Psychiatry, Warsaw
+Rating: 10/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Prescriptions from Dr. Marta Michalska were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 11 for Dr. Marta Michalska, Psychiatry, Warsaw
+Rating: 6/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Overall rating for Dr. Marta Michalska, Psychiatry, Warsaw: 7.27/10 from 11 reviews

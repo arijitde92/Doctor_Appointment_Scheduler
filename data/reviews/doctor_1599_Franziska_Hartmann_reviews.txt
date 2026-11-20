@@ -1,0 +1,69 @@
+Doctor: Dr. Franziska Hartmann
+Doctor ID: 1599
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 1
+City: Hamburg, Germany
+Clinics: Medizinisches Zentrum Wandsbek Markt (clinic ID 208)
+
+Review 1 for Dr. Franziska Hartmann, Gastroenterology, Hamburg
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Franziska Hartmann, Gastroenterology, Hamburg
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 3 for Dr. Franziska Hartmann, Gastroenterology, Hamburg
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 4 for Dr. Franziska Hartmann, Gastroenterology, Hamburg
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: I got what I needed, but the next available appointment was three weeks away. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 5 for Dr. Franziska Hartmann, Gastroenterology, Hamburg
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: Dr. Franziska Hartmann used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 6 for Dr. Franziska Hartmann, Gastroenterology, Hamburg
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: Booking was easy online, but the confirmation email contained the wrong address for Medizinisches Zentrum Wandsbek Markt. Knowledgeable about my reflux, Dr. Franziska Hartmann still gave diet advice that felt generic and not tailored to my habits. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Franziska Hartmann, Gastroenterology, Hamburg
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Franziska Hartmann, Gastroenterology, Hamburg
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: I get regular check-ups for my Crohn's disease, and Dr. Franziska Hartmann adjusts my treatment carefully and always explains why. Booking online at Medizinisches Zentrum Wandsbek Markt was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 9 for Dr. Franziska Hartmann, Gastroenterology, Hamburg
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Dr. Franziska Hartmann was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Franziska Hartmann, Gastroenterology, Hamburg
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 11 for Dr. Franziska Hartmann, Gastroenterology, Hamburg
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: Dr. Franziska Hartmann is thorough, but I waited nearly two months to get the first available slot.
+
+Review 12 for Dr. Franziska Hartmann, Gastroenterology, Hamburg
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: After years of undiagnosed stomach pain, she identified celiac disease with the right blood tests and a careful plan. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Franziska Hartmann, Gastroenterology, Hamburg: 7.08/10 from 12 reviews

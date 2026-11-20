@@ -1,0 +1,64 @@
+Doctor: Dr. Aroha Henare
+Doctor ID: 6725
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 11
+City: Wellington, New Zealand
+Clinics: Southern Alps Health Practice (clinic ID 871); Waitemata Medical Practice (clinic ID 874)
+
+Review 1 for Dr. Aroha Henare, Psychiatry, Wellington
+Rating: 6/10
+Clinic visited: Waitemata Medical Practice
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Aroha Henare, Psychiatry, Wellington
+Rating: 6/10
+Clinic visited: Waitemata Medical Practice
+Description: The treatment plan from Dr. Aroha Henare made sense, but I wished it had been written down for me to take away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Aroha Henare, Psychiatry, Wellington
+Rating: 6/10
+Clinic visited: Waitemata Medical Practice
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Supportive in crisis, but follow-up between visits could have been more regular. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Aroha Henare, Psychiatry, Wellington
+Rating: 5/10
+Clinic visited: Southern Alps Health Practice
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 5 for Dr. Aroha Henare, Psychiatry, Wellington
+Rating: 7/10
+Clinic visited: Waitemata Medical Practice
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Aroha Henare, Psychiatry, Wellington
+Rating: 7/10
+Clinic visited: Southern Alps Health Practice
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Aroha Henare, Psychiatry, Wellington
+Rating: 4/10
+Clinic visited: Waitemata Medical Practice
+Description: The visit felt rushed, and Dr. Aroha Henare was already halfway out the door when I started to describe my second symptom. Appointments were rescheduled at short notice three times, which made continuity of care almost impossible.
+
+Review 8 for Dr. Aroha Henare, Psychiatry, Wellington
+Rating: 9/10
+Clinic visited: Southern Alps Health Practice
+Description: The ADHD assessment by Dr. Aroha Henare was careful and detailed, with clear written conclusions and realistic expectations. Even the billing team was helpful, and a mistake on my statement was corrected within a day. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Aroha Henare, Psychiatry, Wellington
+Rating: 5/10
+Clinic visited: Waitemata Medical Practice
+Description: I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Aroha Henare, Psychiatry, Wellington
+Rating: 8/10
+Clinic visited: Southern Alps Health Practice
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 11 for Dr. Aroha Henare, Psychiatry, Wellington
+Rating: 7/10
+Clinic visited: Southern Alps Health Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Southern Alps Health Practice. Good listener, yet the refill process at Southern Alps Health Practice is slow and requires several phone calls.
+
+Overall rating for Dr. Aroha Henare, Psychiatry, Wellington: 6.36/10 from 11 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Vladimir Nikolaev
+Doctor ID: 3786
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 2
+City: Novosibirsk, Russia
+Clinics: Frunze Health Practice (clinic ID 488)
+
+Review 1 for Dr. Vladimir Nikolaev, Psychiatry, Novosibirsk
+Rating: 8/10
+Clinic visited: Frunze Health Practice
+Description: Sensitive questions were handled by Dr. Vladimir Nikolaev with discretion and without a hint of judgment.
+
+Review 2 for Dr. Vladimir Nikolaev, Psychiatry, Novosibirsk
+Rating: 5/10
+Clinic visited: Frunze Health Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 3 for Dr. Vladimir Nikolaev, Psychiatry, Novosibirsk
+Rating: 8/10
+Clinic visited: Frunze Health Practice
+Description: My depression finally has a treatment plan from Dr. Vladimir Nikolaev that works, with regular check-ins and careful dose changes.
+
+Review 4 for Dr. Vladimir Nikolaev, Psychiatry, Novosibirsk
+Rating: 6/10
+Clinic visited: Frunze Health Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 5 for Dr. Vladimir Nikolaev, Psychiatry, Novosibirsk
+Rating: 6/10
+Clinic visited: Frunze Health Practice
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Vladimir Nikolaev, Psychiatry, Novosibirsk
+Rating: 4/10
+Clinic visited: Frunze Health Practice
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. My first visit was fifteen minutes long and ended with a prescription and almost no discussion.
+
+Review 7 for Dr. Vladimir Nikolaev, Psychiatry, Novosibirsk
+Rating: 6/10
+Clinic visited: Frunze Health Practice
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 8 for Dr. Vladimir Nikolaev, Psychiatry, Novosibirsk
+Rating: 8/10
+Clinic visited: Frunze Health Practice
+Description: Dr. Vladimir Nikolaev drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 9 for Dr. Vladimir Nikolaev, Psychiatry, Novosibirsk
+Rating: 7/10
+Clinic visited: Frunze Health Practice
+Description: Good listener, yet the refill process at Frunze Health Practice is slow and requires several phone calls. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Vladimir Nikolaev, Psychiatry, Novosibirsk
+Rating: 8/10
+Clinic visited: Frunze Health Practice
+Description: Appointments in Novosibirsk are always on schedule, and the waiting area is peaceful and private.
+
+Review 11 for Dr. Vladimir Nikolaev, Psychiatry, Novosibirsk
+Rating: 5/10
+Clinic visited: Frunze Health Practice
+Description: I liked the advice I got from Dr. Vladimir Nikolaev, but I would have liked more time to ask follow-up questions before the visit ended. Dr. Vladimir Nikolaev is knowledgeable, though I waited several weeks for my first appointment.
+
+Overall rating for Dr. Vladimir Nikolaev, Psychiatry, Novosibirsk: 6.45/10 from 11 reviews

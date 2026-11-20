@@ -1,0 +1,49 @@
+Doctor: Dr. Alexandre Robert
+Doctor ID: 1230
+Specialization: Radiology
+Gender: Male
+Years of experience: 22
+City: Marseille, France
+Clinics: Centre Médical du Vieux-Port (clinic ID 160)
+
+Review 1 for Dr. Alexandre Robert, Radiology, Marseille
+Rating: 9/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. The practice in Marseille is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Alexandre Robert, Radiology, Marseille
+Rating: 7/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 3 for Dr. Alexandre Robert, Radiology, Marseille
+Rating: 6/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The report from Dr. Alexandre Robert was thorough, though full of technical terms that needed my regular doctor to translate. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Alexandre Robert, Radiology, Marseille
+Rating: 10/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Alexandre Robert, Radiology, Marseille
+Rating: 10/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Parking was simple, the waiting room was calm, and I never felt like a number. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Alexandre Robert, Radiology, Marseille
+Rating: 9/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Alexandre Robert were respectful throughout. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Alexandre Robert, Radiology, Marseille
+Rating: 9/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Dr. Alexandre Robert compared my new scan with last year's and pointed out exactly what had stayed the same. My referral letter was written on the spot, and the specialist's office had my details before I called. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Alexandre Robert, Radiology, Marseille
+Rating: 8/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Dr. Alexandre Robert looked me in the eye, listened to the whole story and only then started typing. Booking a CT scan online at Centre Médical du Vieux-Port took two minutes, and I was in and out within forty minutes.
+
+Overall rating for Dr. Alexandre Robert, Radiology, Marseille: 8.50/10 from 8 reviews

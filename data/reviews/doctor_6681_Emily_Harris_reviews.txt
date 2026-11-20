@@ -1,0 +1,64 @@
+Doctor: Dr. Emily Harris
+Doctor ID: 6681
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 7
+City: Hamilton, New Zealand
+Clinics: Matai Medical Centre (clinic ID 866); Korimako Medical Group (clinic ID 869)
+
+Review 1 for Dr. Emily Harris, Pediatrics, Hamilton
+Rating: 7/10
+Clinic visited: Matai Medical Centre
+Description: Good bedside manner from Dr. Emily Harris, but the parking near Matai Medical Centre is limited and I had to circle for fifteen minutes. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Emily Harris, Pediatrics, Hamilton
+Rating: 8/10
+Clinic visited: Matai Medical Centre
+Description: At my visit, Dr. Emily Harris took notes on my medication list, checked for interactions and explained the changes simply. Dr. Emily Harris noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 3 for Dr. Emily Harris, Pediatrics, Hamilton
+Rating: 7/10
+Clinic visited: Korimako Medical Group
+Description: Caring and gentle with my child, Dr. Emily Harris nonetheless ran forty minutes behind schedule at most appointments. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Emily Harris, Pediatrics, Hamilton
+Rating: 6/10
+Clinic visited: Korimako Medical Group
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I liked the advice I got from Dr. Emily Harris, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 5 for Dr. Emily Harris, Pediatrics, Hamilton
+Rating: 9/10
+Clinic visited: Matai Medical Centre
+Description: Vaccination visits with Dr. Emily Harris are painless and well explained, and my questions about the schedule were answered without any pressure. The waiting room at Matai Medical Centre was clean, quiet and comfortable, with enough seating and water available.
+
+Review 6 for Dr. Emily Harris, Pediatrics, Hamilton
+Rating: 8/10
+Clinic visited: Matai Medical Centre
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Kind to anxious parents, Dr. Emily Harris never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 7 for Dr. Emily Harris, Pediatrics, Hamilton
+Rating: 9/10
+Clinic visited: Matai Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Emily Harris, Pediatrics, Hamilton
+Rating: 6/10
+Clinic visited: Matai Medical Centre
+Description: Dr. Emily Harris was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 9 for Dr. Emily Harris, Pediatrics, Hamilton
+Rating: 8/10
+Clinic visited: Korimako Medical Group
+Description: My test results arrived in the portal within two days, together with a short note that made sense. I have no hesitation sending my own relatives here.
+
+Review 10 for Dr. Emily Harris, Pediatrics, Hamilton
+Rating: 9/10
+Clinic visited: Korimako Medical Group
+Description: Getting to Korimako Medical Group by public transport in Hamilton was easy, and there is a step-free entrance for wheelchairs.
+
+Review 11 for Dr. Emily Harris, Pediatrics, Hamilton
+Rating: 9/10
+Clinic visited: Matai Medical Centre
+Description: The practice in Hamilton is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Overall rating for Dr. Emily Harris, Pediatrics, Hamilton: 7.82/10 from 11 reviews

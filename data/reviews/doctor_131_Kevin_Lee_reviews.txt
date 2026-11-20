@@ -1,0 +1,64 @@
+Doctor: Dr. Kevin Lee
+Doctor ID: 131
+Specialization: Pathology
+Gender: Male
+Years of experience: 25
+City: Chicago, USA
+Clinics: Windy City Urgent and Primary Care (clinic ID 19)
+
+Review 1 for Dr. Kevin Lee, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. Sensitive questions were handled by Dr. Kevin Lee with discretion and without a hint of judgment.
+
+Review 2 for Dr. Kevin Lee, Pathology, Chicago
+Rating: 7/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I got what I needed, but the next available appointment was three weeks away.
+
+Review 3 for Dr. Kevin Lee, Pathology, Chicago
+Rating: 10/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Getting to Windy City Urgent and Primary Care by public transport in Chicago was easy, and there is a step-free entrance for wheelchairs.
+
+Review 4 for Dr. Kevin Lee, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: I was given a printed summary of the visit, which I shared with my family at home. Dr. Kevin Lee took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 5 for Dr. Kevin Lee, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: The biopsy report was returned in three days, and Dr. Kevin Lee took time on the phone to explain every term in it.
+
+Review 6 for Dr. Kevin Lee, Pathology, Chicago
+Rating: 6/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: The blood draw was painless, but the waiting area at Windy City Urgent and Primary Care was crowded in the early morning. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Kevin Lee, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: The receptionist at Windy City Urgent and Primary Care remembered my name and had my forms ready, so check-in took less than a minute. My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 8 for Dr. Kevin Lee, Pathology, Chicago
+Rating: 5/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Dr. Kevin Lee was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Kevin Lee answered my questions kindly, though the call back took three days.
+
+Review 9 for Dr. Kevin Lee, Pathology, Chicago
+Rating: 4/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: I was billed twice for the same panel and it took a month to get a correction.
+
+Review 10 for Dr. Kevin Lee, Pathology, Chicago
+Rating: 7/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Helpful in clarifying a borderline result, though Dr. Kevin Lee gave little guidance about whether to repeat it.
+
+Review 11 for Dr. Kevin Lee, Pathology, Chicago
+Rating: 6/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Overall rating for Dr. Kevin Lee, Pathology, Chicago: 7.00/10 from 11 reviews

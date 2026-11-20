@@ -1,0 +1,64 @@
+Doctor: Dr. Bas Dijkstra
+Doctor ID: 2698
+Specialization: General
+Gender: Male
+Years of experience: 10
+City: Utrecht, Netherlands
+Clinics: Polikliniek Wittevrouwen (clinic ID 353)
+
+Review 1 for Dr. Bas Dijkstra, General, Utrecht
+Rating: 6/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: Referrals from Dr. Bas Dijkstra are handled well, but getting test results back took longer than I was told to expect.
+
+Review 2 for Dr. Bas Dijkstra, General, Utrecht
+Rating: 7/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 3 for Dr. Bas Dijkstra, General, Utrecht
+Rating: 6/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 4 for Dr. Bas Dijkstra, General, Utrecht
+Rating: 6/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I like that he listens to the full story, even if it means the appointment runs behind schedule. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Bas Dijkstra, General, Utrecht
+Rating: 6/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 6 for Dr. Bas Dijkstra, General, Utrecht
+Rating: 7/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Polikliniek Wittevrouwen were inconsistent. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Bas Dijkstra, General, Utrecht
+Rating: 3/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: My visit with Dr. Bas Dijkstra lasted barely six minutes, and I left with more questions than I arrived with. The staff at Polikliniek Wittevrouwen were curt on the phone, and it took four attempts to book a simple follow-up. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 8 for Dr. Bas Dijkstra, General, Utrecht
+Rating: 6/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Dr. Bas Dijkstra is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Bas Dijkstra, General, Utrecht
+Rating: 6/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: The treatment plan from Dr. Bas Dijkstra made sense, but I wished it had been written down for me to take away.
+
+Review 10 for Dr. Bas Dijkstra, General, Utrecht
+Rating: 8/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: I always hear back within a day when I leave a question with the nurse at Polikliniek Wittevrouwen, and Dr. Bas Dijkstra follows up on lab results personally.
+
+Review 11 for Dr. Bas Dijkstra, General, Utrecht
+Rating: 6/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Bas Dijkstra, General, Utrecht: 6.09/10 from 11 reviews

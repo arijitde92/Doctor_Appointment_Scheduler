@@ -1,0 +1,64 @@
+Doctor: Dr. Cecilia Ramos
+Doctor ID: 4888
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 28
+City: Quezon City, Philippines
+Clinics: Santo Nino Polyclinic (clinic ID 631)
+
+Review 1 for Dr. Cecilia Ramos, Psychiatry, Quezon City
+Rating: 7/10
+Clinic visited: Santo Nino Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Cecilia Ramos, Psychiatry, Quezon City
+Rating: 6/10
+Clinic visited: Santo Nino Polyclinic
+Description: Dr. Cecilia Ramos is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 3 for Dr. Cecilia Ramos, Psychiatry, Quezon City
+Rating: 8/10
+Clinic visited: Santo Nino Polyclinic
+Description: Dr. Cecilia Ramos took a full history before suggesting any medication and explained the likely side effects honestly. Sensitive questions were handled by Dr. Cecilia Ramos with discretion and without a hint of judgment. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Cecilia Ramos, Psychiatry, Quezon City
+Rating: 8/10
+Clinic visited: Santo Nino Polyclinic
+Description: Appointments in Quezon City are always on schedule, and the waiting area is peaceful and private.
+
+Review 5 for Dr. Cecilia Ramos, Psychiatry, Quezon City
+Rating: 10/10
+Clinic visited: Santo Nino Polyclinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 6 for Dr. Cecilia Ramos, Psychiatry, Quezon City
+Rating: 10/10
+Clinic visited: Santo Nino Polyclinic
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Cecilia Ramos, Psychiatry, Quezon City
+Rating: 8/10
+Clinic visited: Santo Nino Polyclinic
+Description: The ADHD assessment by Dr. Cecilia Ramos was careful and detailed, with clear written conclusions and realistic expectations. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 8 for Dr. Cecilia Ramos, Psychiatry, Quezon City
+Rating: 7/10
+Clinic visited: Santo Nino Polyclinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Cecilia Ramos, Psychiatry, Quezon City
+Rating: 9/10
+Clinic visited: Santo Nino Polyclinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 10 for Dr. Cecilia Ramos, Psychiatry, Quezon City
+Rating: 7/10
+Clinic visited: Santo Nino Polyclinic
+Description: Good listener, yet the refill process at Santo Nino Polyclinic is slow and requires several phone calls. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 11 for Dr. Cecilia Ramos, Psychiatry, Quezon City
+Rating: 8/10
+Clinic visited: Santo Nino Polyclinic
+Description: Prescriptions from Dr. Cecilia Ramos were sent to my pharmacy before I even left the building, and the dosage instructions were written down. My depression finally has a treatment plan from Dr. Cecilia Ramos that works, with regular check-ins and careful dose changes.
+
+Overall rating for Dr. Cecilia Ramos, Psychiatry, Quezon City: 8.00/10 from 11 reviews

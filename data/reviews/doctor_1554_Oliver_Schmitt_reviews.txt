@@ -1,0 +1,69 @@
+Doctor: Dr. Oliver Schmitt
+Doctor ID: 1554
+Specialization: General
+Gender: Male
+Years of experience: 17
+City: Frankfurt, Germany
+Clinics: Gesundheitspraxis Bockenheimer Warte (clinic ID 203)
+
+Review 1 for Dr. Oliver Schmitt, General, Frankfurt
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 2 for Dr. Oliver Schmitt, General, Frankfurt
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Cholesterol results were explained by Dr. Oliver Schmitt with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 3 for Dr. Oliver Schmitt, General, Frankfurt
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 4 for Dr. Oliver Schmitt, General, Frankfurt
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Getting to Gesundheitspraxis Bockenheimer Warte from across Frankfurt was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 5 for Dr. Oliver Schmitt, General, Frankfurt
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Quick appointment and a fair price in Frankfurt, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Oliver Schmitt, General, Frankfurt
+Rating: 5/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Dr. Oliver Schmitt is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Dr. Oliver Schmitt was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Oliver Schmitt, General, Frankfurt
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: My test results arrived in the portal within two days, together with a short note that made sense. As a new patient in Frankfurt, I felt welcomed at Gesundheitspraxis Bockenheimer Warte, and my whole history was reviewed in one relaxed visit. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Oliver Schmitt, General, Frankfurt
+Rating: 4/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: The waiting room at Gesundheitspraxis Bockenheimer Warte was overcrowded and there was nowhere to sit, even for elderly patients. My lab results from Gesundheitspraxis Bockenheimer Warte were never called in, and I only found them by chasing the front desk three times. I will not be returning and have already started looking for another doctor.
+
+Review 9 for Dr. Oliver Schmitt, General, Frankfurt
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: I always hear back within a day when I leave a question with the nurse at Gesundheitspraxis Bockenheimer Warte, and Dr. Oliver Schmitt follows up on lab results personally.
+
+Review 10 for Dr. Oliver Schmitt, General, Frankfurt
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: A translator was arranged for my mother without us asking twice, and Dr. Oliver Schmitt spoke directly to her throughout. Managing my type 2 diabetes with Dr. Oliver Schmitt has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 11 for Dr. Oliver Schmitt, General, Frankfurt
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: By the time I left the room, Dr. Oliver Schmitt had sorted the sick note, referral letter and prescription refill. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 12 for Dr. Oliver Schmitt, General, Frankfurt
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Oliver Schmitt, General, Frankfurt: 7.58/10 from 12 reviews

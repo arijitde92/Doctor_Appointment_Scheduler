@@ -1,0 +1,49 @@
+Doctor: Dr. Vitaly Vasiliev
+Doctor ID: 3788
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 4
+City: Novosibirsk, Russia
+Clinics: Klinika Akademgorodok Plus (clinic ID 489)
+
+Review 1 for Dr. Vitaly Vasiliev, Psychiatry, Novosibirsk
+Rating: 8/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 2 for Dr. Vitaly Vasiliev, Psychiatry, Novosibirsk
+Rating: 6/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: I liked the advice I got from Dr. Vitaly Vasiliev, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Vitaly Vasiliev, Psychiatry, Novosibirsk
+Rating: 4/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: My concerns about how I felt on the dose were waved away rather than explored. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. I will not be returning and have already started looking for another doctor.
+
+Review 4 for Dr. Vitaly Vasiliev, Psychiatry, Novosibirsk
+Rating: 7/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: Good listener, yet the refill process at Klinika Akademgorodok Plus is slow and requires several phone calls. Booking was easy online, but the confirmation email contained the wrong address for Klinika Akademgorodok Plus. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Vitaly Vasiliev, Psychiatry, Novosibirsk
+Rating: 5/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Vitaly Vasiliev, Psychiatry, Novosibirsk
+Rating: 6/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Vitaly Vasiliev, Psychiatry, Novosibirsk
+Rating: 5/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 8 for Dr. Vitaly Vasiliev, Psychiatry, Novosibirsk
+Rating: 6/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: Dr. Vitaly Vasiliev is knowledgeable, though I waited several weeks for my first appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Vitaly Vasiliev, Psychiatry, Novosibirsk: 5.88/10 from 8 reviews

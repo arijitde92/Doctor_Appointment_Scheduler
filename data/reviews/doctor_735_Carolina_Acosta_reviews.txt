@@ -1,0 +1,54 @@
+Doctor: Dr. Carolina Acosta
+Doctor ID: 735
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 1
+City: Buenos Aires, Argentina
+Clinics: Consultorios Médicos Caballito (clinic ID 97)
+
+Review 1 for Dr. Carolina Acosta, Pulmonology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Carolina Acosta, Pulmonology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Helpful and honest about my prognosis, Dr. Carolina Acosta could still have given me more written material to take home.
+
+Review 3 for Dr. Carolina Acosta, Pulmonology, Buenos Aires
+Rating: 8/10
+Clinic visited: Consultorios Médicos Caballito
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Carolina Acosta, Pulmonology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 5 for Dr. Carolina Acosta, Pulmonology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 6 for Dr. Carolina Acosta, Pulmonology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Pleasant manner and careful lung exam, though the waiting time at Consultorios Médicos Caballito regularly exceeded forty minutes.
+
+Review 7 for Dr. Carolina Acosta, Pulmonology, Buenos Aires
+Rating: 5/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 8 for Dr. Carolina Acosta, Pulmonology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Dr. Carolina Acosta adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 9 for Dr. Carolina Acosta, Pulmonology, Buenos Aires
+Rating: 6/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Quick appointment and a fair price in Buenos Aires, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Carolina Acosta, Pulmonology, Buenos Aires: 6.78/10 from 9 reviews

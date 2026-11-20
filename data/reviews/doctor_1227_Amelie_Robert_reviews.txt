@@ -1,0 +1,54 @@
+Doctor: Dr. Amélie Robert
+Doctor ID: 1227
+Specialization: Neurology
+Gender: Female
+Years of experience: 30
+City: Marseille, France
+Clinics: Centre Médical du Vieux-Port (clinic ID 160); Cabinet Médical Castellane (clinic ID 161); Centre de Santé de la Joliette (clinic ID 163)
+
+Review 1 for Dr. Amélie Robert, Neurology, Marseille
+Rating: 6/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Amélie Robert, Neurology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Amélie Robert, Neurology, Marseille
+Rating: 6/10
+Clinic visited: Cabinet Médical Castellane
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Amélie Robert, Neurology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Amélie Robert at Centre de Santé de la Joliette are difficult to schedule. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Amélie Robert, Neurology, Marseille
+Rating: 8/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The memory assessment for my father at Centre de Santé de la Joliette was gentle and respectful, and the family received a clear written summary. Sensitive questions were handled by Dr. Amélie Robert with discretion and without a hint of judgment.
+
+Review 6 for Dr. Amélie Robert, Neurology, Marseille
+Rating: 8/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Amélie Robert, Neurology, Marseille
+Rating: 10/10
+Clinic visited: Cabinet Médical Castellane
+Description: Dr. Amélie Robert drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 8 for Dr. Amélie Robert, Neurology, Marseille
+Rating: 7/10
+Clinic visited: Cabinet Médical Castellane
+Description: Dr. Amélie Robert explained my results well, although the visit felt short for such a complex condition.
+
+Review 9 for Dr. Amélie Robert, Neurology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Amélie Robert, Neurology, Marseille: 7.33/10 from 9 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Alejandra Silva
+Doctor ID: 793
+Specialization: Neurology
+Gender: Female
+Years of experience: 25
+City: Cordoba, Argentina
+Clinics: Instituto de Salud Vélez Sarsfield (clinic ID 104)
+
+Review 1 for Dr. Alejandra Silva, Neurology, Cordoba
+Rating: 9/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 2 for Dr. Alejandra Silva, Neurology, Cordoba
+Rating: 10/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: The neurological exam by Dr. Alejandra Silva was thorough, with every reflex test and gait check explained as it happened. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 3 for Dr. Alejandra Silva, Neurology, Cordoba
+Rating: 9/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: After years of migraines, Dr. Alejandra Silva built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. Dr. Alejandra Silva used a calm, steady voice that settled my nerves before a stressful procedure. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Alejandra Silva, Neurology, Cordoba
+Rating: 8/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: I was called in within five minutes of my appointment time at Instituto de Salud Vélez Sarsfield, which is rare and much appreciated.
+
+Review 5 for Dr. Alejandra Silva, Neurology, Cordoba
+Rating: 6/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Alejandra Silva at Instituto de Salud Vélez Sarsfield are difficult to schedule. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Alejandra Silva, Neurology, Cordoba
+Rating: 8/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: The EEG appointment ran on time, and Dr. Alejandra Silva reviewed the tracing with me the same week. At my visit, Dr. Alejandra Silva took notes on my medication list, checked for interactions and explained the changes simply. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Alejandra Silva, Neurology, Cordoba
+Rating: 8/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. Everything was explained in plain English by Dr. Alejandra Silva, and nothing was left to guess. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Alejandra Silva, Neurology, Cordoba
+Rating: 7/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 9 for Dr. Alejandra Silva, Neurology, Cordoba
+Rating: 9/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Living with multiple sclerosis feels less frightening because Dr. Alejandra Silva explains and discusses every change in my plan. The waiting room at Instituto de Salud Vélez Sarsfield was clean, quiet and comfortable, with enough seating and water available.
+
+Review 10 for Dr. Alejandra Silva, Neurology, Cordoba
+Rating: 7/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Dr. Alejandra Silva was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Alejandra Silva, Neurology, Cordoba: 8.10/10 from 10 reviews

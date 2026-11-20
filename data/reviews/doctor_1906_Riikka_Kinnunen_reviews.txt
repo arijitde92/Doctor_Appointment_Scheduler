@@ -1,0 +1,59 @@
+Doctor: Dr. Riikka Kinnunen
+Doctor ID: 1906
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 19
+City: Tampere, Finland
+Clinics: Lääkäriasema Tammela Tampere (clinic ID 248)
+
+Review 1 for Dr. Riikka Kinnunen, Pediatrics, Tampere
+Rating: 7/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: Caring and gentle with my child, Dr. Riikka Kinnunen nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 2 for Dr. Riikka Kinnunen, Pediatrics, Tampere
+Rating: 7/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: Quick appointment and a fair price in Tampere, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Riikka Kinnunen, Pediatrics, Tampere
+Rating: 8/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: The waiting room at Lääkäriasema Tammela Tampere was clean, quiet and comfortable, with enough seating and water available. My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 4 for Dr. Riikka Kinnunen, Pediatrics, Tampere
+Rating: 4/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: We were left waiting over an hour with a sick, crying baby and received no apology.
+
+Review 5 for Dr. Riikka Kinnunen, Pediatrics, Tampere
+Rating: 5/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Riikka Kinnunen, Pediatrics, Tampere
+Rating: 4/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why. My questions were answered by Dr. Riikka Kinnunen with short, vague replies, and I left without a clear plan.
+
+Review 7 for Dr. Riikka Kinnunen, Pediatrics, Tampere
+Rating: 3/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: The visit felt rushed, and Dr. Riikka Kinnunen was already halfway out the door when I started to describe my second symptom. I left disappointed and will take my business to another clinic.
+
+Review 8 for Dr. Riikka Kinnunen, Pediatrics, Tampere
+Rating: 5/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. The treatment plan from Dr. Riikka Kinnunen made sense, but I wished it had been written down for me to take away.
+
+Review 9 for Dr. Riikka Kinnunen, Pediatrics, Tampere
+Rating: 6/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 10 for Dr. Riikka Kinnunen, Pediatrics, Tampere
+Rating: 2/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. The referral to a specialist never arrived, and I had to chase it myself for weeks.
+
+Overall rating for Dr. Riikka Kinnunen, Pediatrics, Tampere: 5.10/10 from 10 reviews

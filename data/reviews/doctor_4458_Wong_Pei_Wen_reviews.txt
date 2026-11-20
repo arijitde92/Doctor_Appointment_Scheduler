@@ -1,0 +1,49 @@
+Doctor: Dr. Wong Pei Wen
+Doctor ID: 4458
+Specialization: Neurology
+Gender: Female
+Years of experience: 22
+City: Singapore, Singapore
+Clinics: Harbour Lane Family Clinic (clinic ID 575); Sunrise Medical Centre (clinic ID 576); Pasir View Polyclinic (clinic ID 577)
+
+Review 1 for Dr. Wong Pei Wen, Neurology, Singapore
+Rating: 9/10
+Clinic visited: Pasir View Polyclinic
+Description: Living with multiple sclerosis feels less frightening because Dr. Wong Pei Wen explains and discusses every change in my plan. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 2 for Dr. Wong Pei Wen, Neurology, Singapore
+Rating: 7/10
+Clinic visited: Pasir View Polyclinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 3 for Dr. Wong Pei Wen, Neurology, Singapore
+Rating: 7/10
+Clinic visited: Sunrise Medical Centre
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Wong Pei Wen at Sunrise Medical Centre are difficult to schedule.
+
+Review 4 for Dr. Wong Pei Wen, Neurology, Singapore
+Rating: 8/10
+Clinic visited: Sunrise Medical Centre
+Description: She coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 5 for Dr. Wong Pei Wen, Neurology, Singapore
+Rating: 8/10
+Clinic visited: Sunrise Medical Centre
+Description: After years of migraines, Dr. Wong Pei Wen built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Wong Pei Wen, Neurology, Singapore
+Rating: 9/10
+Clinic visited: Harbour Lane Family Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Getting a same-month appointment in Singapore for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 7 for Dr. Wong Pei Wen, Neurology, Singapore
+Rating: 7/10
+Clinic visited: Pasir View Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 8 for Dr. Wong Pei Wen, Neurology, Singapore
+Rating: 7/10
+Clinic visited: Harbour Lane Family Clinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Wong Pei Wen, Neurology, Singapore: 7.75/10 from 8 reviews

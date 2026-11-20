@@ -1,0 +1,69 @@
+Doctor: Dr. Laura Kinnunen
+Doctor ID: 1844
+Specialization: General
+Gender: Female
+Years of experience: 19
+City: Helsinki, Finland
+Clinics: Lääkärikeskus Mannerheimintie Plus (clinic ID 240)
+
+Review 1 for Dr. Laura Kinnunen, General, Helsinki
+Rating: 5/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Good bedside manner from Dr. Laura Kinnunen, but the parking near Lääkärikeskus Mannerheimintie Plus is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Laura Kinnunen, General, Helsinki
+Rating: 7/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: Referrals from Dr. Laura Kinnunen are handled well, but getting test results back took longer than I was told to expect. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Laura Kinnunen, General, Helsinki
+Rating: 6/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. I liked the advice I got from Dr. Laura Kinnunen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Laura Kinnunen, General, Helsinki
+Rating: 7/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Laura Kinnunen, General, Helsinki
+Rating: 10/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: Vaccination advice from Dr. Laura Kinnunen for my travel plans was thorough and specific to the countries I was visiting. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 6 for Dr. Laura Kinnunen, General, Helsinki
+Rating: 7/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: I got what I needed, but the next available appointment was three weeks away. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 7 for Dr. Laura Kinnunen, General, Helsinki
+Rating: 5/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: Dr. Laura Kinnunen is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 8 for Dr. Laura Kinnunen, General, Helsinki
+Rating: 5/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Lääkärikeskus Mannerheimintie Plus were inconsistent.
+
+Review 9 for Dr. Laura Kinnunen, General, Helsinki
+Rating: 9/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: I always hear back within a day when I leave a question with the nurse at Lääkärikeskus Mannerheimintie Plus, and Dr. Laura Kinnunen follows up on lab results personally.
+
+Review 10 for Dr. Laura Kinnunen, General, Helsinki
+Rating: 5/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 11 for Dr. Laura Kinnunen, General, Helsinki
+Rating: 7/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Decent care overall, and I will probably return unless I find something closer.
+
+Review 12 for Dr. Laura Kinnunen, General, Helsinki
+Rating: 6/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Laura Kinnunen, General, Helsinki: 6.58/10 from 12 reviews

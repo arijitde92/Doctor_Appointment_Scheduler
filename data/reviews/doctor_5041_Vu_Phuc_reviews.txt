@@ -1,0 +1,59 @@
+Doctor: Dr. Vu Phuc
+Doctor ID: 5041
+Specialization: Radiology
+Gender: Male
+Years of experience: 27
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Da Khoa Hong Ngoc (clinic ID 651)
+
+Review 1 for Dr. Vu Phuc, Radiology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 2 for Dr. Vu Phuc, Radiology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 3 for Dr. Vu Phuc, Radiology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Vu Phuc, Radiology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: My ultrasound was unhurried, and Dr. Vu Phuc took time to show me the images and explain what each measurement meant. Prescriptions from Dr. Vu Phuc were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 5 for Dr. Vu Phuc, Radiology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 6 for Dr. Vu Phuc, Radiology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Vu Phuc were respectful throughout.
+
+Review 7 for Dr. Vu Phuc, Radiology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Vu Phuc, Radiology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Dr. Vu Phuc compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 9 for Dr. Vu Phuc, Radiology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: At my visit, Dr. Vu Phuc took notes on my medication list, checked for interactions and explained the changes simply. The report from Dr. Vu Phuc was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 10 for Dr. Vu Phuc, Radiology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Overall rating for Dr. Vu Phuc, Radiology, Ho Chi Minh City: 8.60/10 from 10 reviews

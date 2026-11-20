@@ -10,8 +10,11 @@ CREATE TABLE IF NOT EXISTS Clinic (
     name VARCHAR(255) NOT NULL,
     address TEXT NOT NULL,
     city VARCHAR(100) NOT NULL,
-    pin_code VARCHAR(10) NOT NULL
-);
+    state_region VARCHAR(100) NOT NULL DEFAULT '',
+    country VARCHAR(100) NOT NULL,
+    pin_code VARCHAR(20) NOT NULL DEFAULT '',
+    time_zone VARCHAR(64) NOT NULL DEFAULT 'UTC'   -- IANA name; slot times are clinic-local
+) DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 -- -----------------------------
 -- TABLE: Doctor
@@ -26,7 +29,7 @@ CREATE TABLE IF NOT EXISTS Doctor (
 
     CONSTRAINT chk_age_experience
         CHECK (age >= years_of_experience + 24)
-);
+) DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 -- -----------------------------
 -- TABLE: DoctorClinic (Mapping)
@@ -45,7 +48,7 @@ CREATE TABLE IF NOT EXISTS DoctorClinic (
         ON DELETE CASCADE,
 
     CONSTRAINT unique_doctor_clinic UNIQUE (doctor_id, clinic_id)
-);
+) DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 -- -----------------------------
 -- TABLE: Availability
@@ -74,4 +77,4 @@ CREATE TABLE IF NOT EXISTS Availability (
     CONSTRAINT fk_av_clinic
         FOREIGN KEY (clinic_id) REFERENCES Clinic(id)
         ON DELETE CASCADE
-);
+) DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;

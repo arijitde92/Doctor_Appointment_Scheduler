@@ -1,0 +1,69 @@
+Doctor: Dr. Sanjeewa Silva
+Doctor ID: 5674
+Specialization: Cardiology
+Gender: Male
+Years of experience: 8
+City: Kandy, Sri Lanka
+Clinics: Sembuwatta Care Clinic (clinic ID 733)
+
+Review 1 for Dr. Sanjeewa Silva, Cardiology, Kandy
+Rating: 7/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Great care in the visit itself, but the billing for the tests at Sembuwatta Care Clinic was confusing. The treatment plan from Dr. Sanjeewa Silva made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Sanjeewa Silva, Cardiology, Kandy
+Rating: 6/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Sanjeewa Silva, Cardiology, Kandy
+Rating: 6/10
+Clinic visited: Sembuwatta Care Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Helpful with my cholesterol, Dr. Sanjeewa Silva still gave dietary advice that was a little generic.
+
+Review 4 for Dr. Sanjeewa Silva, Cardiology, Kandy
+Rating: 6/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 5 for Dr. Sanjeewa Silva, Cardiology, Kandy
+Rating: 7/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Quick appointment and a fair price in Kandy, but the staff seemed overwhelmed and a bit curt on the phone. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 6 for Dr. Sanjeewa Silva, Cardiology, Kandy
+Rating: 6/10
+Clinic visited: Sembuwatta Care Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 7 for Dr. Sanjeewa Silva, Cardiology, Kandy
+Rating: 7/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Sanjeewa Silva adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 8 for Dr. Sanjeewa Silva, Cardiology, Kandy
+Rating: 6/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Good bedside manner from Dr. Sanjeewa Silva, but the parking near Sembuwatta Care Clinic is limited and I had to circle for fifteen minutes.
+
+Review 9 for Dr. Sanjeewa Silva, Cardiology, Kandy
+Rating: 7/10
+Clinic visited: Sembuwatta Care Clinic
+Description: I liked the advice I got from Dr. Sanjeewa Silva, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 10 for Dr. Sanjeewa Silva, Cardiology, Kandy
+Rating: 7/10
+Clinic visited: Sembuwatta Care Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 11 for Dr. Sanjeewa Silva, Cardiology, Kandy
+Rating: 5/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Dr. Sanjeewa Silva was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Decent care overall, and I will probably return unless I find something closer.
+
+Review 12 for Dr. Sanjeewa Silva, Cardiology, Kandy
+Rating: 5/10
+Clinic visited: Sembuwatta Care Clinic
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Sanjeewa Silva, Cardiology, Kandy: 6.25/10 from 12 reviews

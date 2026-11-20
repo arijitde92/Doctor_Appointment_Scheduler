@@ -1,0 +1,54 @@
+Doctor: Dr. Amr Khalil
+Doctor ID: 5840
+Specialization: Neurology
+Gender: Male
+Years of experience: 4
+City: Alexandria, Egypt
+Clinics: Smouha Family Health Clinic (clinic ID 755)
+
+Review 1 for Dr. Amr Khalil, Neurology, Alexandria
+Rating: 6/10
+Clinic visited: Smouha Family Health Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Amr Khalil, Neurology, Alexandria
+Rating: 6/10
+Clinic visited: Smouha Family Health Clinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 3 for Dr. Amr Khalil, Neurology, Alexandria
+Rating: 4/10
+Clinic visited: Smouha Family Health Clinic
+Description: Dr. Amr Khalil did not look up from the notes while I described my seizure, and I felt completely unheard. The waiting room at Smouha Family Health Clinic was overcrowded and there was nowhere to sit, even for elderly patients. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 4 for Dr. Amr Khalil, Neurology, Alexandria
+Rating: 1/10
+Clinic visited: Smouha Family Health Clinic
+Description: Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. The bill included tests that I had never been told about, and nobody could explain them.
+
+Review 5 for Dr. Amr Khalil, Neurology, Alexandria
+Rating: 2/10
+Clinic visited: Smouha Family Health Clinic
+Description: My questions were answered by Dr. Amr Khalil with short, vague replies, and I left without a clear plan. The follow-up call about my test results never happened and I had to track them down myself. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 6 for Dr. Amr Khalil, Neurology, Alexandria
+Rating: 4/10
+Clinic visited: Smouha Family Health Clinic
+Description: My worsening headaches were put down to stress without a proper neurological exam or any imaging. There was no translator available, and my parent was left unable to follow what was being said. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 7 for Dr. Amr Khalil, Neurology, Alexandria
+Rating: 4/10
+Clinic visited: Smouha Family Health Clinic
+Description: After a long wait, my appointment with Dr. Amr Khalil lasted a few minutes and ended with a new prescription and no discussion. The prescription from Dr. Amr Khalil was not the one we discussed, and I only noticed when I got home.
+
+Review 8 for Dr. Amr Khalil, Neurology, Alexandria
+Rating: 5/10
+Clinic visited: Smouha Family Health Clinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. I liked the advice I got from Dr. Amr Khalil, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 9 for Dr. Amr Khalil, Neurology, Alexandria
+Rating: 6/10
+Clinic visited: Smouha Family Health Clinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Amr Khalil at Smouha Family Health Clinic are difficult to schedule.
+
+Overall rating for Dr. Amr Khalil, Neurology, Alexandria: 4.22/10 from 9 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Francisca Ferreira
+Doctor ID: 656
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 29
+City: Rio de Janeiro, Brazil
+Clinics: Policlínica Barra Saúde (clinic ID 87); Centro de Saúde Tijuca Vida (clinic ID 89)
+
+Review 1 for Dr. Francisca Ferreira, Orthopedic, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Policlínica Barra Saúde
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The treatment plan from Dr. Francisca Ferreira made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Francisca Ferreira, Orthopedic, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Paperwork at Centro de Saúde Tijuca Vida was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 3 for Dr. Francisca Ferreira, Orthopedic, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 4 for Dr. Francisca Ferreira, Orthopedic, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Policlínica Barra Saúde
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Francisca Ferreira, Orthopedic, Rio de Janeiro
+Rating: 9/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Clear aftercare instructions from Dr. Francisca Ferreira and a direct number to call if something felt wrong after my surgery.
+
+Review 6 for Dr. Francisca Ferreira, Orthopedic, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: The waiting room at Centro de Saúde Tijuca Vida was clean, quiet and comfortable, with enough seating and water available.
+
+Review 7 for Dr. Francisca Ferreira, Orthopedic, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Policlínica Barra Saúde
+Description: She set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up.
+
+Review 8 for Dr. Francisca Ferreira, Orthopedic, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Policlínica Barra Saúde
+Description: The X-ray was reviewed with me on screen, and she pointed out exactly where the cartilage had worn down. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Francisca Ferreira, Orthopedic, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Policlínica Barra Saúde
+Description: Very skilled with my knee, but Dr. Francisca Ferreira's clinic runs behind and the wait was over an hour. Helpful visit overall, although I only found out about an extra charge after I had paid. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Francisca Ferreira, Orthopedic, Rio de Janeiro: 7.56/10 from 9 reviews

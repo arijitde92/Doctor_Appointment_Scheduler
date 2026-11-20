@@ -1,0 +1,49 @@
+Doctor: Dr. Maya Rahman
+Doctor ID: 5093
+Specialization: Psychology
+Gender: Female
+Years of experience: 25
+City: Bandung, Indonesia
+Clinics: Klinik Surya Medika (clinic ID 658)
+
+Review 1 for Dr. Maya Rahman, Psychology, Bandung
+Rating: 10/10
+Clinic visited: Klinik Surya Medika
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 2 for Dr. Maya Rahman, Psychology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Surya Medika
+Description: Dr. Maya Rahman listens well, though some sessions felt like a recap of the previous one without much new direction. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Maya Rahman, Psychology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Surya Medika
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 4 for Dr. Maya Rahman, Psychology, Bandung
+Rating: 8/10
+Clinic visited: Klinik Surya Medika
+Description: The office in Bandung is quiet and private, and the receptionist never mentions anything in front of other patients.
+
+Review 5 for Dr. Maya Rahman, Psychology, Bandung
+Rating: 9/10
+Clinic visited: Klinik Surya Medika
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Working through my grief felt guided but never forced, and we always ended each session with something concrete to try.
+
+Review 6 for Dr. Maya Rahman, Psychology, Bandung
+Rating: 10/10
+Clinic visited: Klinik Surya Medika
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. The waiting room at Klinik Surya Medika was clean, quiet and comfortable, with enough seating and water available.
+
+Review 7 for Dr. Maya Rahman, Psychology, Bandung
+Rating: 8/10
+Clinic visited: Klinik Surya Medika
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months. The practice in Bandung is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 8 for Dr. Maya Rahman, Psychology, Bandung
+Rating: 10/10
+Clinic visited: Klinik Surya Medika
+Description: Getting to Klinik Surya Medika by public transport in Bandung was easy, and there is a step-free entrance for wheelchairs. Couples therapy at Klinik Surya Medika helped us stop repeating the same argument. We now have a way to pause and listen. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Maya Rahman, Psychology, Bandung: 8.62/10 from 8 reviews

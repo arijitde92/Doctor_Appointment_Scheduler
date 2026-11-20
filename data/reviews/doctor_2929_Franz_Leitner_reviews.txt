@@ -1,0 +1,69 @@
+Doctor: Dr. Franz Leitner
+Doctor ID: 2929
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 29
+City: Innsbruck, Austria
+Clinics: Gesundheitszentrum Innrain (clinic ID 382)
+
+Review 1 for Dr. Franz Leitner, Pediatrics, Innsbruck
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Franz Leitner, Pediatrics, Innsbruck
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Kind to anxious parents, Dr. Franz Leitner never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 3 for Dr. Franz Leitner, Pediatrics, Innsbruck
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: Dr. Franz Leitner was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Franz Leitner, Pediatrics, Innsbruck
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Sensitive questions were handled by Dr. Franz Leitner with discretion and without a hint of judgment.
+
+Review 5 for Dr. Franz Leitner, Pediatrics, Innsbruck
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: Dr. Franz Leitner is thorough with exams, but the after-hours phone line at Gesundheitszentrum Innrain is hard to reach.
+
+Review 6 for Dr. Franz Leitner, Pediatrics, Innsbruck
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 7 for Dr. Franz Leitner, Pediatrics, Innsbruck
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 8 for Dr. Franz Leitner, Pediatrics, Innsbruck
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: Our family has been coming for years, and he remembers each child's history and personality. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 9 for Dr. Franz Leitner, Pediatrics, Innsbruck
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: The treatment plan from Dr. Franz Leitner made sense, but I wished it had been written down for me to take away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Franz Leitner, Pediatrics, Innsbruck
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 11 for Dr. Franz Leitner, Pediatrics, Innsbruck
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: My child had a fever for three days and Dr. Franz Leitner said to wait it out, with no examination of the ears or throat. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 12 for Dr. Franz Leitner, Pediatrics, Innsbruck
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Franz Leitner, Pediatrics, Innsbruck: 7.00/10 from 12 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Riikka Leinonen
+Doctor ID: 1908
+Specialization: Pathology
+Gender: Female
+Years of experience: 24
+City: Tampere, Finland
+Clinics: Terveyskeskus Tahmela (clinic ID 249)
+
+Review 1 for Dr. Riikka Leinonen, Pathology, Tampere
+Rating: 6/10
+Clinic visited: Terveyskeskus Tahmela
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Riikka Leinonen, Pathology, Tampere
+Rating: 5/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Riikka Leinonen, Pathology, Tampere
+Rating: 5/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Quick appointment and a fair price in Tampere, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Riikka Leinonen, Pathology, Tampere
+Rating: 5/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Helpful in clarifying a borderline result, though Dr. Riikka Leinonen gave little guidance about whether to repeat it. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Riikka Leinonen, Pathology, Tampere
+Rating: 3/10
+Clinic visited: Terveyskeskus Tahmela
+Description: I was billed twice for the same panel and it took a month to get a correction.
+
+Review 6 for Dr. Riikka Leinonen, Pathology, Tampere
+Rating: 3/10
+Clinic visited: Terveyskeskus Tahmela
+Description: The waiting room at Terveyskeskus Tahmela was overcrowded and there was nowhere to sit, even for elderly patients. The staff were curt and impatient when I asked how to read the reference ranges on my report.
+
+Review 7 for Dr. Riikka Leinonen, Pathology, Tampere
+Rating: 5/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Riikka Leinonen, Pathology, Tampere
+Rating: 6/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Riikka Leinonen, Pathology, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Good bedside manner from Dr. Riikka Leinonen, but the parking near Terveyskeskus Tahmela is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Riikka Leinonen, Pathology, Tampere: 5.00/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Zinhle Zulu
+Doctor ID: 5745
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 20
+City: Durban, South Africa
+Clinics: Morningside Jacaranda Clinic (clinic ID 742)
+
+Review 1 for Dr. Zinhle Zulu, Pulmonology, Durban
+Rating: 8/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Zinhle Zulu.
+
+Review 2 for Dr. Zinhle Zulu, Pulmonology, Durban
+Rating: 9/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 3 for Dr. Zinhle Zulu, Pulmonology, Durban
+Rating: 6/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Zinhle Zulu, Pulmonology, Durban
+Rating: 4/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 5 for Dr. Zinhle Zulu, Pulmonology, Durban
+Rating: 6/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 6 for Dr. Zinhle Zulu, Pulmonology, Durban
+Rating: 7/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Zinhle Zulu, Pulmonology, Durban
+Rating: 7/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: Helpful and honest about my prognosis, Dr. Zinhle Zulu could still have given me more written material to take home.
+
+Review 8 for Dr. Zinhle Zulu, Pulmonology, Durban
+Rating: 7/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Pleasant manner and careful lung exam, though the waiting time at Morningside Jacaranda Clinic regularly exceeded forty minutes. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Zinhle Zulu, Pulmonology, Durban: 6.75/10 from 8 reviews

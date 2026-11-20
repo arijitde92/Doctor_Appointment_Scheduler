@@ -1,0 +1,49 @@
+Doctor: Dr. Andrea Fuchs
+Doctor ID: 2933
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 28
+City: Innsbruck, Austria
+Clinics: Gesundheitszentrum Innrain (clinic ID 382)
+
+Review 1 for Dr. Andrea Fuchs, Gastroenterology, Innsbruck
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 2 for Dr. Andrea Fuchs, Gastroenterology, Innsbruck
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: Dr. Andrea Fuchs used a calm, steady voice that settled my nerves before a stressful procedure. After years of undiagnosed stomach pain, she identified celiac disease with the right blood tests and a careful plan.
+
+Review 3 for Dr. Andrea Fuchs, Gastroenterology, Innsbruck
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: I was nervous about my screening, but the team at Gesundheitszentrum Innrain made me feel at ease, and I was home within hours.
+
+Review 4 for Dr. Andrea Fuchs, Gastroenterology, Innsbruck
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I received a full summary letter from Gesundheitszentrum Innrain after my endoscopy, which my regular doctor found very useful.
+
+Review 5 for Dr. Andrea Fuchs, Gastroenterology, Innsbruck
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 6 for Dr. Andrea Fuchs, Gastroenterology, Innsbruck
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 7 for Dr. Andrea Fuchs, Gastroenterology, Innsbruck
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: Clear explanation from Dr. Andrea Fuchs of fatty liver and exactly which lifestyle changes would make a measurable difference. Never once did I feel rushed, even though the clinic was clearly busy that morning. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Andrea Fuchs, Gastroenterology, Innsbruck
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: I liked the advice I got from Dr. Andrea Fuchs, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Andrea Fuchs, Gastroenterology, Innsbruck: 7.50/10 from 8 reviews

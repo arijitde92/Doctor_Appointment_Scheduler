@@ -1,0 +1,49 @@
+Doctor: Dr. Emma Patel
+Doctor ID: 6448
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 22
+City: Brisbane, Australia
+Clinics: Kookaburra Family Medicine (clinic ID 835); Bluegum Medical Group (clinic ID 836); Federation Square Doctors (clinic ID 837)
+
+Review 1 for Dr. Emma Patel, Pediatrics, Brisbane
+Rating: 7/10
+Clinic visited: Federation Square Doctors
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 2 for Dr. Emma Patel, Pediatrics, Brisbane
+Rating: 9/10
+Clinic visited: Federation Square Doctors
+Description: My teenager actually spoke up during the visit, and Dr. Emma Patel handled sensitive topics with respect. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 3 for Dr. Emma Patel, Pediatrics, Brisbane
+Rating: 8/10
+Clinic visited: Kookaburra Family Medicine
+Description: Booking online at Kookaburra Family Medicine was simple, and I got a confirmation text with clear directions and a reminder the day before. The school physical at Kookaburra Family Medicine was quick, thorough and the forms were completed on the spot.
+
+Review 4 for Dr. Emma Patel, Pediatrics, Brisbane
+Rating: 10/10
+Clinic visited: Federation Square Doctors
+Description: Dr. Emma Patel noticed a speech delay early and referred us to a therapist, which has made a real difference. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Emma Patel, Pediatrics, Brisbane
+Rating: 8/10
+Clinic visited: Bluegum Medical Group
+Description: My toddler was terrified of doctors, but Dr. Emma Patel sat on the floor, played with a stuffed toy and examined everything without a single tear.
+
+Review 6 for Dr. Emma Patel, Pediatrics, Brisbane
+Rating: 9/10
+Clinic visited: Bluegum Medical Group
+Description: At my visit, Dr. Emma Patel took notes on my medication list, checked for interactions and explained the changes simply. My child's asthma action plan from Dr. Emma Patel was written out clearly so that school staff could follow it too.
+
+Review 7 for Dr. Emma Patel, Pediatrics, Brisbane
+Rating: 10/10
+Clinic visited: Kookaburra Family Medicine
+Description: Paperwork at Kookaburra Family Medicine was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 8 for Dr. Emma Patel, Pediatrics, Brisbane
+Rating: 7/10
+Clinic visited: Federation Square Doctors
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Emma Patel is thorough with exams, but the after-hours phone line at Federation Square Doctors is hard to reach.
+
+Overall rating for Dr. Emma Patel, Pediatrics, Brisbane: 8.50/10 from 8 reviews

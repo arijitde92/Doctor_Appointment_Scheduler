@@ -1,0 +1,49 @@
+Doctor: Dr. Katherine Davis
+Doctor ID: 230
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: San Francisco, USA
+Clinics: Cow Hollow Health Associates (clinic ID 32)
+
+Review 1 for Dr. Katherine Davis, Cardiology, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 2 for Dr. Katherine Davis, Cardiology, San Francisco
+Rating: 10/10
+Clinic visited: Cow Hollow Health Associates
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 3 for Dr. Katherine Davis, Cardiology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: Honest about the risks and benefits of the procedure, Dr. Katherine Davis never pressured me toward surgery. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Katherine Davis, Cardiology, San Francisco
+Rating: 10/10
+Clinic visited: Cow Hollow Health Associates
+Description: The receptionist at Cow Hollow Health Associates remembered my name and had my forms ready, so check-in took less than a minute. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Katherine Davis, Cardiology, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: Dr. Katherine Davis explained the difference between my statin options and let me weigh in on the choice.
+
+Review 6 for Dr. Katherine Davis, Cardiology, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: Seeing Dr. Katherine Davis in San Francisco meant my whole family history was reviewed, and now my sister is being screened too. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 7 for Dr. Katherine Davis, Cardiology, San Francisco
+Rating: 7/10
+Clinic visited: Cow Hollow Health Associates
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Great care in the visit itself, but the billing for the tests at Cow Hollow Health Associates was confusing.
+
+Review 8 for Dr. Katherine Davis, Cardiology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: Getting to Cow Hollow Health Associates by public transport in San Francisco was easy, and there is a step-free entrance for wheelchairs.
+
+Overall rating for Dr. Katherine Davis, Cardiology, San Francisco: 8.75/10 from 8 reviews

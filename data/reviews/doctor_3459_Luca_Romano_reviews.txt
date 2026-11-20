@@ -1,0 +1,54 @@
+Doctor: Dr. Luca Romano
+Doctor ID: 3459
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 18
+City: Naples, Italy
+Clinics: Clinica Posillipo (clinic ID 448)
+
+Review 1 for Dr. Luca Romano, Psychiatry, Naples
+Rating: 6/10
+Clinic visited: Clinica Posillipo
+Description: Dr. Luca Romano is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 2 for Dr. Luca Romano, Psychiatry, Naples
+Rating: 6/10
+Clinic visited: Clinica Posillipo
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 3 for Dr. Luca Romano, Psychiatry, Naples
+Rating: 5/10
+Clinic visited: Clinica Posillipo
+Description: Good listener, yet the refill process at Clinica Posillipo is slow and requires several phone calls.
+
+Review 4 for Dr. Luca Romano, Psychiatry, Naples
+Rating: 6/10
+Clinic visited: Clinica Posillipo
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Dr. Luca Romano was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 5 for Dr. Luca Romano, Psychiatry, Naples
+Rating: 7/10
+Clinic visited: Clinica Posillipo
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 6 for Dr. Luca Romano, Psychiatry, Naples
+Rating: 5/10
+Clinic visited: Clinica Posillipo
+Description: Dr. Luca Romano was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Luca Romano, Psychiatry, Naples
+Rating: 8/10
+Clinic visited: Clinica Posillipo
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Luca Romano, Psychiatry, Naples
+Rating: 7/10
+Clinic visited: Clinica Posillipo
+Description: Supportive in crisis, but follow-up between visits could have been more regular. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Luca Romano, Psychiatry, Naples
+Rating: 6/10
+Clinic visited: Clinica Posillipo
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Quick appointment and a fair price in Naples, but the staff seemed overwhelmed and a bit curt on the phone. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Luca Romano, Psychiatry, Naples: 6.22/10 from 9 reviews

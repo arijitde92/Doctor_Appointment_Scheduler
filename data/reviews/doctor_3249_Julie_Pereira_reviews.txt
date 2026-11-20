@@ -1,0 +1,49 @@
+Doctor: Dr. Julie Pereira
+Doctor ID: 3249
+Specialization: Pathology
+Gender: Female
+Years of experience: 8
+City: Dudelange, Luxembourg
+Clinics: Centre Médical Gare-Usines (clinic ID 421); Clinique Burange (clinic ID 423)
+
+Review 1 for Dr. Julie Pereira, Pathology, Dudelange
+Rating: 8/10
+Clinic visited: Clinique Burange
+Description: Allergy panel results were explained in detail by Dr. Julie Pereira, with a note on which results mattered clinically and which did not. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 2 for Dr. Julie Pereira, Pathology, Dudelange
+Rating: 6/10
+Clinic visited: Centre Médical Gare-Usines
+Description: The blood draw was painless, but the waiting area at Centre Médical Gare-Usines was crowded in the early morning. The treatment plan from Dr. Julie Pereira made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Julie Pereira, Pathology, Dudelange
+Rating: 8/10
+Clinic visited: Centre Médical Gare-Usines
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. The lab under Dr. Julie Pereira was clean, organized and never overbooked, and results arrived exactly when promised. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Julie Pereira, Pathology, Dudelange
+Rating: 10/10
+Clinic visited: Centre Médical Gare-Usines
+Description: The staff and Dr. Julie Pereira patiently went through my cholesterol and glucose numbers and explained what each meant for me. Prescriptions from Dr. Julie Pereira were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 5 for Dr. Julie Pereira, Pathology, Dudelange
+Rating: 9/10
+Clinic visited: Centre Médical Gare-Usines
+Description: Dr. Julie Pereira took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. Dr. Julie Pereira looked me in the eye, listened to the whole story and only then started typing.
+
+Review 6 for Dr. Julie Pereira, Pathology, Dudelange
+Rating: 7/10
+Clinic visited: Clinique Burange
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The doctor was kind, though the clinic's evening hours are very limited for working people. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Julie Pereira, Pathology, Dudelange
+Rating: 8/10
+Clinic visited: Clinique Burange
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not.
+
+Review 8 for Dr. Julie Pereira, Pathology, Dudelange
+Rating: 6/10
+Clinic visited: Clinique Burange
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Julie Pereira, Pathology, Dudelange: 7.75/10 from 8 reviews

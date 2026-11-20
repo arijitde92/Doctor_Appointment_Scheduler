@@ -1,0 +1,69 @@
+Doctor: Dr. Jussi Savolainen
+Doctor ID: 1815
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 11
+City: Espoo, Finland
+Clinics: Lääkärikeskus Matinkylä (clinic ID 237)
+
+Review 1 for Dr. Jussi Savolainen, Pulmonology, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Dr. Jussi Savolainen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Jussi Savolainen, Pulmonology, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 3 for Dr. Jussi Savolainen, Pulmonology, Espoo
+Rating: 8/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Prescriptions from Dr. Jussi Savolainen were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 4 for Dr. Jussi Savolainen, Pulmonology, Espoo
+Rating: 5/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Dr. Jussi Savolainen adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 5 for Dr. Jussi Savolainen, Pulmonology, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Pleasant manner and careful lung exam, though the waiting time at Lääkärikeskus Matinkylä regularly exceeded forty minutes. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Jussi Savolainen, Pulmonology, Espoo
+Rating: 3/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Dr. Jussi Savolainen rushed through my scan results and I left the room unsure whether I needed treatment. The staff at Lääkärikeskus Matinkylä were curt on the phone, and it took four attempts to book a simple follow-up. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 7 for Dr. Jussi Savolainen, Pulmonology, Espoo
+Rating: 6/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: I liked the advice I got from Dr. Jussi Savolainen, but I would have liked more time to ask follow-up questions before the visit ended. Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 8 for Dr. Jussi Savolainen, Pulmonology, Espoo
+Rating: 4/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: The bill for my pulmonary function tests was far higher than the estimate I had been given. I felt dismissed by Dr. Jussi Savolainen when I brought up a second concern, and was told to book another appointment for it. I left disappointed and will take my business to another clinic.
+
+Review 9 for Dr. Jussi Savolainen, Pulmonology, Espoo
+Rating: 6/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Jussi Savolainen, Pulmonology, Espoo
+Rating: 6/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. The treatment plan from Dr. Jussi Savolainen made sense, but I wished it had been written down for me to take away. I would come back, but only if the waiting time improves.
+
+Review 11 for Dr. Jussi Savolainen, Pulmonology, Espoo
+Rating: 5/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Helpful and honest about my prognosis, Dr. Jussi Savolainen could still have given me more written material to take home.
+
+Review 12 for Dr. Jussi Savolainen, Pulmonology, Espoo
+Rating: 6/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Jussi Savolainen, Pulmonology, Espoo: 5.83/10 from 12 reviews

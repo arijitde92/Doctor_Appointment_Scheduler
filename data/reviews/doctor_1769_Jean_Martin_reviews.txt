@@ -1,0 +1,49 @@
+Doctor: Dr. Jean Martin
+Doctor ID: 1769
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 19
+City: Zurich, Switzerland
+Clinics: Aerztezentrum Seefeld Plus (clinic ID 230); Praxis Limmatblick (clinic ID 231)
+
+Review 1 for Dr. Jean Martin, Pediatrics, Zurich
+Rating: 9/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: Vaccination visits with Dr. Jean Martin are painless and well explained, and my questions about the schedule were answered without any pressure. Getting to Aerztezentrum Seefeld Plus by public transport in Zurich was easy, and there is a step-free entrance for wheelchairs.
+
+Review 2 for Dr. Jean Martin, Pediatrics, Zurich
+Rating: 6/10
+Clinic visited: Praxis Limmatblick
+Description: The treatment plan from Dr. Jean Martin made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Jean Martin, Pediatrics, Zurich
+Rating: 9/10
+Clinic visited: Praxis Limmatblick
+Description: Our newborn check-ups with Dr. Jean Martin were reassuring; every question about feeding and sleep got a calm, practical answer. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 4 for Dr. Jean Martin, Pediatrics, Zurich
+Rating: 8/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Jean Martin, Pediatrics, Zurich
+Rating: 9/10
+Clinic visited: Praxis Limmatblick
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. The school physical at Praxis Limmatblick was quick, thorough and the forms were completed on the spot.
+
+Review 6 for Dr. Jean Martin, Pediatrics, Zurich
+Rating: 7/10
+Clinic visited: Praxis Limmatblick
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Jean Martin is thorough with exams, but the after-hours phone line at Praxis Limmatblick is hard to reach.
+
+Review 7 for Dr. Jean Martin, Pediatrics, Zurich
+Rating: 7/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Jean Martin, Pediatrics, Zurich
+Rating: 8/10
+Clinic visited: Praxis Limmatblick
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Jean Martin, Pediatrics, Zurich: 7.88/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Jouni Salo
+Doctor ID: 1919
+Specialization: Pathology
+Gender: Male
+Years of experience: 5
+City: Turku, Finland
+Clinics: Lääkärikeskus Aurajoki Plus (clinic ID 250); Lääkärikeskus Kauppiaskatu (clinic ID 252); Terveyskeskus Länsikeskus Turku (clinic ID 254)
+
+Review 1 for Dr. Jouni Salo, Pathology, Turku
+Rating: 7/10
+Clinic visited: Terveyskeskus Länsikeskus Turku
+Description: The blood draw was painless, but the waiting area at Terveyskeskus Länsikeskus Turku was crowded in the early morning.
+
+Review 2 for Dr. Jouni Salo, Pathology, Turku
+Rating: 9/10
+Clinic visited: Lääkärikeskus Kauppiaskatu
+Description: Dr. Jouni Salo double-checked my allergy list before prescribing anything, and that careful habit earned my trust. He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Jouni Salo, Pathology, Turku
+Rating: 8/10
+Clinic visited: Terveyskeskus Länsikeskus Turku
+Description: Dr. Jouni Salo drew a quick sketch to explain what was going on, which helped me remember it afterwards. The molecular test results were presented with a clear explanation of what they meant and what they did not.
+
+Review 4 for Dr. Jouni Salo, Pathology, Turku
+Rating: 9/10
+Clinic visited: Terveyskeskus Länsikeskus Turku
+Description: The practice in Turku is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 5 for Dr. Jouni Salo, Pathology, Turku
+Rating: 8/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: The lab at Lääkärikeskus Aurajoki Plus had a quick, friendly blood draw and the phlebotomist found my vein on the first try. He was upfront about what could and could not be treated, and did not oversell any option. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Jouni Salo, Pathology, Turku
+Rating: 8/10
+Clinic visited: Terveyskeskus Länsikeskus Turku
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Jouni Salo, Pathology, Turku
+Rating: 10/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Fast turnaround at Lääkärikeskus Aurajoki Plus on my thyroid panel, with results in my online account by the next morning.
+
+Review 8 for Dr. Jouni Salo, Pathology, Turku
+Rating: 10/10
+Clinic visited: Terveyskeskus Länsikeskus Turku
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Dr. Jouni Salo took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Overall rating for Dr. Jouni Salo, Pathology, Turku: 8.62/10 from 8 reviews

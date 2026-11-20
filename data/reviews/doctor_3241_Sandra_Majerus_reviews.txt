@@ -1,0 +1,49 @@
+Doctor: Dr. Sandra Majerus
+Doctor ID: 3241
+Specialization: Radiology
+Gender: Female
+Years of experience: 16
+City: Dudelange, Luxembourg
+Clinics: Cabinet Médical Dudelange Centre (clinic ID 420); Polyclinique Italiens (clinic ID 422); Clinique Burange (clinic ID 423)
+
+Review 1 for Dr. Sandra Majerus, Radiology, Dudelange
+Rating: 5/10
+Clinic visited: Cabinet Médical Dudelange Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Sandra Majerus answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 2 for Dr. Sandra Majerus, Radiology, Dudelange
+Rating: 8/10
+Clinic visited: Cabinet Médical Dudelange Centre
+Description: Images from Cabinet Médical Dudelange Centre were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. At my visit, Dr. Sandra Majerus took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 3 for Dr. Sandra Majerus, Radiology, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Helpful visit overall, although I only found out about an extra charge after I had paid. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Sandra Majerus, Radiology, Dudelange
+Rating: 6/10
+Clinic visited: Clinique Burange
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 5 for Dr. Sandra Majerus, Radiology, Dudelange
+Rating: 8/10
+Clinic visited: Polyclinique Italiens
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Sandra Majerus were respectful throughout. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Sandra Majerus, Radiology, Dudelange
+Rating: 7/10
+Clinic visited: Cabinet Médical Dudelange Centre
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Sandra Majerus, Radiology, Dudelange
+Rating: 2/10
+Clinic visited: Polyclinique Italiens
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. I waited two weeks for a report from Dr. Sandra Majerus and had to call three times before anyone could tell me the result.
+
+Review 8 for Dr. Sandra Majerus, Radiology, Dudelange
+Rating: 6/10
+Clinic visited: Polyclinique Italiens
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Sandra Majerus, Radiology, Dudelange: 6.12/10 from 8 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Nusrat Howlader
+Doctor ID: 5417
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 2
+City: Dhaka, Bangladesh
+Clinics: Dhanshiri Medical Centre (clinic ID 701); Uttara Nirapod Polyclinic (clinic ID 702)
+
+Review 1 for Dr. Nusrat Howlader, Pediatrics, Dhaka
+Rating: 9/10
+Clinic visited: Uttara Nirapod Polyclinic
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 2 for Dr. Nusrat Howlader, Pediatrics, Dhaka
+Rating: 8/10
+Clinic visited: Uttara Nirapod Polyclinic
+Description: Sensitive questions were handled by Dr. Nusrat Howlader with discretion and without a hint of judgment.
+
+Review 3 for Dr. Nusrat Howlader, Pediatrics, Dhaka
+Rating: 9/10
+Clinic visited: Uttara Nirapod Polyclinic
+Description: She was upfront about what could and could not be treated, and did not oversell any option. I phoned after hours about a fever and was called back within the hour with calm, sensible advice. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Nusrat Howlader, Pediatrics, Dhaka
+Rating: 7/10
+Clinic visited: Uttara Nirapod Polyclinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Nusrat Howlader, Pediatrics, Dhaka
+Rating: 7/10
+Clinic visited: Dhanshiri Medical Centre
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 6 for Dr. Nusrat Howlader, Pediatrics, Dhaka
+Rating: 10/10
+Clinic visited: Dhanshiri Medical Centre
+Description: I was given a printed summary of the visit, which I shared with my family at home. Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 7 for Dr. Nusrat Howlader, Pediatrics, Dhaka
+Rating: 6/10
+Clinic visited: Uttara Nirapod Polyclinic
+Description: Dr. Nusrat Howlader is thorough with exams, but the after-hours phone line at Uttara Nirapod Polyclinic is hard to reach.
+
+Review 8 for Dr. Nusrat Howlader, Pediatrics, Dhaka
+Rating: 7/10
+Clinic visited: Dhanshiri Medical Centre
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Good bedside manner from Dr. Nusrat Howlader, but the parking near Dhanshiri Medical Centre is limited and I had to circle for fifteen minutes. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Nusrat Howlader, Pediatrics, Dhaka
+Rating: 7/10
+Clinic visited: Uttara Nirapod Polyclinic
+Description: The treatment plan from Dr. Nusrat Howlader made sense, but I wished it had been written down for me to take away.
+
+Review 10 for Dr. Nusrat Howlader, Pediatrics, Dhaka
+Rating: 9/10
+Clinic visited: Uttara Nirapod Polyclinic
+Description: Everything was explained in plain English by Dr. Nusrat Howlader, and nothing was left to guess. The school physical at Uttara Nirapod Polyclinic was quick, thorough and the forms were completed on the spot.
+
+Review 11 for Dr. Nusrat Howlader, Pediatrics, Dhaka
+Rating: 6/10
+Clinic visited: Dhanshiri Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Nusrat Howlader, Pediatrics, Dhaka: 7.73/10 from 11 reviews

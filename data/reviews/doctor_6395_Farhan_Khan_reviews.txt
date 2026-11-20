@@ -1,0 +1,54 @@
+Doctor: Dr. Farhan Khan
+Doctor ID: 6395
+Specialization: Pathology
+Gender: Male
+Years of experience: 12
+City: Lahore, Pakistan
+Clinics: DHA Raya Health Practice (clinic ID 828)
+
+Review 1 for Dr. Farhan Khan, Pathology, Lahore
+Rating: 6/10
+Clinic visited: DHA Raya Health Practice
+Description: Dr. Farhan Khan was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Farhan Khan, Pathology, Lahore
+Rating: 6/10
+Clinic visited: DHA Raya Health Practice
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 3 for Dr. Farhan Khan, Pathology, Lahore
+Rating: 4/10
+Clinic visited: DHA Raya Health Practice
+Description: My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 4 for Dr. Farhan Khan, Pathology, Lahore
+Rating: 6/10
+Clinic visited: DHA Raya Health Practice
+Description: Helpful in clarifying a borderline result, though Dr. Farhan Khan gave little guidance about whether to repeat it. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Farhan Khan, Pathology, Lahore
+Rating: 5/10
+Clinic visited: DHA Raya Health Practice
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 6 for Dr. Farhan Khan, Pathology, Lahore
+Rating: 6/10
+Clinic visited: DHA Raya Health Practice
+Description: Dr. Farhan Khan was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Farhan Khan, Pathology, Lahore
+Rating: 6/10
+Clinic visited: DHA Raya Health Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 8 for Dr. Farhan Khan, Pathology, Lahore
+Rating: 3/10
+Clinic visited: DHA Raya Health Practice
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. I was billed twice for the same panel and it took a month to get a correction. I left disappointed and will take my business to another clinic.
+
+Review 9 for Dr. Farhan Khan, Pathology, Lahore
+Rating: 5/10
+Clinic visited: DHA Raya Health Practice
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Farhan Khan, Pathology, Lahore: 5.22/10 from 9 reviews

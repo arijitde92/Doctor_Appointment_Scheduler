@@ -1,0 +1,64 @@
+Doctor: Dr. David Kelly
+Doctor ID: 2436
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 2
+City: Cork, Ireland
+Clinics: Blackpool Polyclinic (clinic ID 318)
+
+Review 1 for Dr. David Kelly, Pulmonology, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. The allergy-related asthma triggers we identified have made a visible difference to my winters in Cork. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. David Kelly, Pulmonology, Cork
+Rating: 7/10
+Clinic visited: Blackpool Polyclinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Blackpool Polyclinic regularly exceeded forty minutes. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. David Kelly, Pulmonology, Cork
+Rating: 7/10
+Clinic visited: Blackpool Polyclinic
+Description: Dr. David Kelly was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. David Kelly, Pulmonology, Cork
+Rating: 8/10
+Clinic visited: Blackpool Polyclinic
+Description: Clear, honest answers from Dr. David Kelly about my shortness of breath, and no unnecessary tests were ordered. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 5 for Dr. David Kelly, Pulmonology, Cork
+Rating: 9/10
+Clinic visited: Blackpool Polyclinic
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. David Kelly, Pulmonology, Cork
+Rating: 9/10
+Clinic visited: Blackpool Polyclinic
+Description: I was called in within five minutes of my appointment time at Blackpool Polyclinic, which is rare and much appreciated. At Blackpool Polyclinic, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 7 for Dr. David Kelly, Pulmonology, Cork
+Rating: 5/10
+Clinic visited: Blackpool Polyclinic
+Description: Good bedside manner from Dr. David Kelly, but the parking near Blackpool Polyclinic is limited and I had to circle for fifteen minutes. Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 8 for Dr. David Kelly, Pulmonology, Cork
+Rating: 7/10
+Clinic visited: Blackpool Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. David Kelly, Pulmonology, Cork
+Rating: 6/10
+Clinic visited: Blackpool Polyclinic
+Description: Helpful and honest about my prognosis, Dr. David Kelly could still have given me more written material to take home. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 10 for Dr. David Kelly, Pulmonology, Cork
+Rating: 8/10
+Clinic visited: Blackpool Polyclinic
+Description: Sensitive questions were handled by Dr. David Kelly with discretion and without a hint of judgment. My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 11 for Dr. David Kelly, Pulmonology, Cork
+Rating: 7/10
+Clinic visited: Blackpool Polyclinic
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. David Kelly, Pulmonology, Cork: 7.55/10 from 11 reviews

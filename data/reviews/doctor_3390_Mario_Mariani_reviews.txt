@@ -1,0 +1,64 @@
+Doctor: Dr. Mario Mariani
+Doctor ID: 3390
+Specialization: General
+Gender: Male
+Years of experience: 15
+City: Milan, Italy
+Clinics: Poliambulatorio Navigli (clinic ID 440); Poliambulatorio Isola (clinic ID 444)
+
+Review 1 for Dr. Mario Mariani, General, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Navigli
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 2 for Dr. Mario Mariani, General, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Navigli
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 3 for Dr. Mario Mariani, General, Milan
+Rating: 7/10
+Clinic visited: Poliambulatorio Navigli
+Description: Good bedside manner from Dr. Mario Mariani, but the parking near Poliambulatorio Navigli is limited and I had to circle for fifteen minutes. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Mario Mariani, General, Milan
+Rating: 7/10
+Clinic visited: Poliambulatorio Isola
+Description: Dr. Mario Mariani is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The treatment plan from Dr. Mario Mariani made sense, but I wished it had been written down for me to take away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Mario Mariani, General, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Navigli
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Poliambulatorio Navigli were inconsistent.
+
+Review 6 for Dr. Mario Mariani, General, Milan
+Rating: 7/10
+Clinic visited: Poliambulatorio Navigli
+Description: Referrals from Dr. Mario Mariani are handled well, but getting test results back took longer than I was told to expect.
+
+Review 7 for Dr. Mario Mariani, General, Milan
+Rating: 9/10
+Clinic visited: Poliambulatorio Navigli
+Description: A same-day slot was found for me at Poliambulatorio Navigli when I called with a worrying symptom. Dr. Mario Mariani spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 8 for Dr. Mario Mariani, General, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Navigli
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 9 for Dr. Mario Mariani, General, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Isola
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. The receptionist at Poliambulatorio Isola remembered my name and had my forms ready, so check-in took less than a minute. Worth every minute of travel, and I would go again without a second thought.
+
+Review 10 for Dr. Mario Mariani, General, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Navigli
+Description: Everything was explained in plain English by Dr. Mario Mariani, and nothing was left to guess. Best family doctor I have had; He treats the whole person and not just the symptom list.
+
+Review 11 for Dr. Mario Mariani, General, Milan
+Rating: 5/10
+Clinic visited: Poliambulatorio Navigli
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Overall rating for Dr. Mario Mariani, General, Milan: 7.18/10 from 11 reviews

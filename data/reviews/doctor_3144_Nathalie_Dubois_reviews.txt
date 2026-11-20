@@ -1,0 +1,49 @@
+Doctor: Dr. Nathalie Dubois
+Doctor ID: 3144
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 15
+City: Ghent, Belgium
+Clinics: Gezondheidscentrum Ledeberg (clinic ID 408)
+
+Review 1 for Dr. Nathalie Dubois, Pediatrics, Ghent
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 2 for Dr. Nathalie Dubois, Pediatrics, Ghent
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 3 for Dr. Nathalie Dubois, Pediatrics, Ghent
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 4 for Dr. Nathalie Dubois, Pediatrics, Ghent
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 5 for Dr. Nathalie Dubois, Pediatrics, Ghent
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 6 for Dr. Nathalie Dubois, Pediatrics, Ghent
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Dr. Nathalie Dubois is thorough with exams, but the after-hours phone line at Gezondheidscentrum Ledeberg is hard to reach. Good bedside manner from Dr. Nathalie Dubois, but the parking near Gezondheidscentrum Ledeberg is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Nathalie Dubois, Pediatrics, Ghent
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Caring and gentle with my child, Dr. Nathalie Dubois nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 8 for Dr. Nathalie Dubois, Pediatrics, Ghent
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: My child's asthma action plan from Dr. Nathalie Dubois was written out clearly so that school staff could follow it too.
+
+Overall rating for Dr. Nathalie Dubois, Pediatrics, Ghent: 6.75/10 from 8 reviews

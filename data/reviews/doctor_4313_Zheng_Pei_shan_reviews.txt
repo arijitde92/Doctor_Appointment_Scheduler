@@ -1,0 +1,64 @@
+Doctor: Dr. Zheng Pei-shan
+Doctor ID: 4313
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 3
+City: Kaohsiung, Taiwan
+Clinics: Sanduo Fuhe Medical Clinic (clinic ID 555); Zuoying Anxin Family Clinic (clinic ID 556); Xinxing Jiali Medical Clinic (clinic ID 559)
+
+Review 1 for Dr. Zheng Pei-shan, Orthopedic, Kaohsiung
+Rating: 7/10
+Clinic visited: Zuoying Anxin Family Clinic
+Description: Dr. Zheng Pei-shan explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Zheng Pei-shan, Orthopedic, Kaohsiung
+Rating: 10/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: The surgeon at Sanduo Fuhe Medical Clinic spent time on my goals as a runner and shaped the treatment around them. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 3 for Dr. Zheng Pei-shan, Orthopedic, Kaohsiung
+Rating: 10/10
+Clinic visited: Zuoying Anxin Family Clinic
+Description: The X-ray was reviewed with me on screen, and she pointed out exactly where the cartilage had worn down.
+
+Review 4 for Dr. Zheng Pei-shan, Orthopedic, Kaohsiung
+Rating: 6/10
+Clinic visited: Zuoying Anxin Family Clinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 5 for Dr. Zheng Pei-shan, Orthopedic, Kaohsiung
+Rating: 7/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 6 for Dr. Zheng Pei-shan, Orthopedic, Kaohsiung
+Rating: 9/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 7 for Dr. Zheng Pei-shan, Orthopedic, Kaohsiung
+Rating: 9/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Zheng Pei-shan, Orthopedic, Kaohsiung
+Rating: 9/10
+Clinic visited: Zuoying Anxin Family Clinic
+Description: The practice in Kaohsiung is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Clear aftercare instructions from Dr. Zheng Pei-shan and a direct number to call if something felt wrong after my surgery.
+
+Review 9 for Dr. Zheng Pei-shan, Orthopedic, Kaohsiung
+Rating: 5/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Sanduo Fuhe Medical Clinic.
+
+Review 10 for Dr. Zheng Pei-shan, Orthopedic, Kaohsiung
+Rating: 10/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 11 for Dr. Zheng Pei-shan, Orthopedic, Kaohsiung
+Rating: 9/10
+Clinic visited: Zuoying Anxin Family Clinic
+Description: Plain, honest advice from Dr. Zheng Pei-shan for my arthritis, including which exercises to avoid and which would help. The waiting room at Zuoying Anxin Family Clinic was clean, quiet and comfortable, with enough seating and water available.
+
+Overall rating for Dr. Zheng Pei-shan, Orthopedic, Kaohsiung: 8.27/10 from 11 reviews

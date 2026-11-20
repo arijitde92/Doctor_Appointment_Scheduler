@@ -1,0 +1,64 @@
+Doctor: Dr. Laura Salminen
+Doctor ID: 1820
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 27
+City: Espoo, Finland
+Clinics: Lääkärikeskus Matinkylä (clinic ID 237)
+
+Review 1 for Dr. Laura Salminen, Orthopedic, Espoo
+Rating: 5/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 2 for Dr. Laura Salminen, Orthopedic, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Dr. Laura Salminen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Laura Salminen, Orthopedic, Espoo
+Rating: 6/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: I got what I needed, but the next available appointment was three weeks away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Laura Salminen, Orthopedic, Espoo
+Rating: 9/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: The X-ray was reviewed with me on screen, and she pointed out exactly where the cartilage had worn down. I was called in within five minutes of my appointment time at Lääkärikeskus Matinkylä, which is rare and much appreciated.
+
+Review 5 for Dr. Laura Salminen, Orthopedic, Espoo
+Rating: 8/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Dr. Laura Salminen explained my back scan using a model of the spine, and I finally understood my sciatica. Dr. Laura Salminen double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 6 for Dr. Laura Salminen, Orthopedic, Espoo
+Rating: 8/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Getting around Espoo on crutches was hard, but the accessible entrance and short waiting time at Lääkärikeskus Matinkylä helped a lot.
+
+Review 7 for Dr. Laura Salminen, Orthopedic, Espoo
+Rating: 8/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: I appreciated that she offered more than one option and let me choose what suited my life. Plain, honest advice from Dr. Laura Salminen for my arthritis, including which exercises to avoid and which would help.
+
+Review 8 for Dr. Laura Salminen, Orthopedic, Espoo
+Rating: 9/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Prescriptions from Dr. Laura Salminen were sent to my pharmacy before I even left the building, and the dosage instructions were written down. My torn rotator cuff was managed first by Dr. Laura Salminen with physiotherapy, and surgery was only suggested when it truly was needed.
+
+Review 9 for Dr. Laura Salminen, Orthopedic, Espoo
+Rating: 9/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Sensitive questions were handled by Dr. Laura Salminen with discretion and without a hint of judgment.
+
+Review 10 for Dr. Laura Salminen, Orthopedic, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Worth trying, but I would not call it the best option in the area.
+
+Review 11 for Dr. Laura Salminen, Orthopedic, Espoo
+Rating: 8/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum. Dr. Laura Salminen looked me in the eye, listened to the whole story and only then started typing.
+
+Overall rating for Dr. Laura Salminen, Orthopedic, Espoo: 7.64/10 from 11 reviews

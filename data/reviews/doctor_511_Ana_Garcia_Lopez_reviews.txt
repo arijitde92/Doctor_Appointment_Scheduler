@@ -1,0 +1,49 @@
+Doctor: Dr. Ana García López
+Doctor ID: 511
+Specialization: Neurology
+Gender: Female
+Years of experience: 2
+City: Monterrey, Mexico
+Clinics: Policlínica Centro Regio (clinic ID 69)
+
+Review 1 for Dr. Ana García López, Neurology, Monterrey
+Rating: 6/10
+Clinic visited: Policlínica Centro Regio
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Quick appointment and a fair price in Monterrey, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Ana García López, Neurology, Monterrey
+Rating: 8/10
+Clinic visited: Policlínica Centro Regio
+Description: A same-day slot was found for me at Policlínica Centro Regio when I called with a worrying symptom. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Ana García López, Neurology, Monterrey
+Rating: 7/10
+Clinic visited: Policlínica Centro Regio
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 4 for Dr. Ana García López, Neurology, Monterrey
+Rating: 4/10
+Clinic visited: Policlínica Centro Regio
+Description: I was told my MRI was 'fine' with no further explanation, and I left still not knowing what was causing my symptoms. The prescription from Dr. Ana García López was not the one we discussed, and I only noticed when I got home.
+
+Review 5 for Dr. Ana García López, Neurology, Monterrey
+Rating: 8/10
+Clinic visited: Policlínica Centro Regio
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. The EEG appointment ran on time, and Dr. Ana García López reviewed the tracing with me the same week. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Ana García López, Neurology, Monterrey
+Rating: 5/10
+Clinic visited: Policlínica Centro Regio
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. The telehealth visit was convenient, though the connection dropped twice and we had to restart. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Ana García López, Neurology, Monterrey
+Rating: 8/10
+Clinic visited: Policlínica Centro Regio
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Ana García López, Neurology, Monterrey
+Rating: 5/10
+Clinic visited: Policlínica Centro Regio
+Description: Dr. Ana García López explained my results well, although the visit felt short for such a complex condition.
+
+Overall rating for Dr. Ana García López, Neurology, Monterrey: 6.38/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Peng Tao
+Doctor ID: 3903
+Specialization: Radiology
+Gender: Male
+Years of experience: 8
+City: Guangzhou, China
+Clinics: Haizhu Mingde Medical Clinic (clinic ID 504)
+
+Review 1 for Dr. Peng Tao, Radiology, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Good bedside manner from Dr. Peng Tao, but the parking near Haizhu Mingde Medical Clinic is limited and I had to circle for fifteen minutes. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Peng Tao, Radiology, Guangzhou
+Rating: 9/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: My ultrasound was unhurried, and Dr. Peng Tao took time to show me the images and explain what each measurement meant. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 3 for Dr. Peng Tao, Radiology, Guangzhou
+Rating: 9/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Everything was explained in plain English by Dr. Peng Tao, and nothing was left to guess. Five stars from me, and I would book again tomorrow.
+
+Review 4 for Dr. Peng Tao, Radiology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The report from Dr. Peng Tao was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 5 for Dr. Peng Tao, Radiology, Guangzhou
+Rating: 9/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Peng Tao were respectful throughout.
+
+Review 6 for Dr. Peng Tao, Radiology, Guangzhou
+Rating: 9/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 7 for Dr. Peng Tao, Radiology, Guangzhou
+Rating: 9/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Booking online at Haizhu Mingde Medical Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before. When my scan showed something that needed a second look, Dr. Peng Tao arranged the follow-up the same day.
+
+Review 8 for Dr. Peng Tao, Radiology, Guangzhou
+Rating: 10/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 9 for Dr. Peng Tao, Radiology, Guangzhou
+Rating: 9/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The report from Dr. Peng Tao was detailed but written so a non-medical person could follow it, with a short summary at the top. Dr. Peng Tao drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 10 for Dr. Peng Tao, Radiology, Guangzhou
+Rating: 10/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Overall rating for Dr. Peng Tao, Radiology, Guangzhou: 8.70/10 from 10 reviews

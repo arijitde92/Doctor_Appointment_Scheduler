@@ -1,0 +1,69 @@
+Doctor: Dr. Marieke Hendriks
+Doctor ID: 2580
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 11
+City: Amsterdam, Netherlands
+Clinics: Gezondheidscentrum Beethoven (clinic ID 337)
+
+Review 1 for Dr. Marieke Hendriks, Psychiatry, Amsterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Good listener, yet the refill process at Gezondheidscentrum Beethoven is slow and requires several phone calls. Dr. Marieke Hendriks was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Marieke Hendriks, Psychiatry, Amsterdam
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 3 for Dr. Marieke Hendriks, Psychiatry, Amsterdam
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 4 for Dr. Marieke Hendriks, Psychiatry, Amsterdam
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Booking was easy online, but the confirmation email contained the wrong address for Gezondheidscentrum Beethoven.
+
+Review 5 for Dr. Marieke Hendriks, Psychiatry, Amsterdam
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. I like the measured approach, but sometimes I wanted more discussion of non-medication options. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Marieke Hendriks, Psychiatry, Amsterdam
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Marieke Hendriks, Psychiatry, Amsterdam
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Dr. Marieke Hendriks is knowledgeable, though I waited several weeks for my first appointment. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Marieke Hendriks, Psychiatry, Amsterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Helpful diagnosis, though the billing for my first long assessment was confusing. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Marieke Hendriks, Psychiatry, Amsterdam
+Rating: 4/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 10 for Dr. Marieke Hendriks, Psychiatry, Amsterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 11 for Dr. Marieke Hendriks, Psychiatry, Amsterdam
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 12 for Dr. Marieke Hendriks, Psychiatry, Amsterdam
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: The treatment plan from Dr. Marieke Hendriks made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Marieke Hendriks, Psychiatry, Amsterdam: 5.83/10 from 12 reviews

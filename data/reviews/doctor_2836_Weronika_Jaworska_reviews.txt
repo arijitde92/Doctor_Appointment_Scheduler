@@ -1,0 +1,49 @@
+Doctor: Dr. Weronika Jaworska
+Doctor ID: 2836
+Specialization: Psychology
+Gender: Female
+Years of experience: 5
+City: Wroclaw, Poland
+Clinics: Przychodnia Krzyki Park (clinic ID 371)
+
+Review 1 for Dr. Weronika Jaworska, Psychology, Wroclaw
+Rating: 5/10
+Clinic visited: Przychodnia Krzyki Park
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Weronika Jaworska, Psychology, Wroclaw
+Rating: 8/10
+Clinic visited: Przychodnia Krzyki Park
+Description: I was given a printed summary of the visit, which I shared with my family at home. Working through my grief felt guided but never forced, and we always ended each session with something concrete to try.
+
+Review 3 for Dr. Weronika Jaworska, Psychology, Wroclaw
+Rating: 8/10
+Clinic visited: Przychodnia Krzyki Park
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Weronika Jaworska gave me practical tools I still use.
+
+Review 4 for Dr. Weronika Jaworska, Psychology, Wroclaw
+Rating: 7/10
+Clinic visited: Przychodnia Krzyki Park
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. Dr. Weronika Jaworska was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Weronika Jaworska, Psychology, Wroclaw
+Rating: 7/10
+Clinic visited: Przychodnia Krzyki Park
+Description: Insightful and kind, though progress with Dr. Weronika Jaworska felt slow, and I wished for more structured homework between sessions.
+
+Review 6 for Dr. Weronika Jaworska, Psychology, Wroclaw
+Rating: 8/10
+Clinic visited: Przychodnia Krzyki Park
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Weronika Jaworska, Psychology, Wroclaw
+Rating: 8/10
+Clinic visited: Przychodnia Krzyki Park
+Description: Dr. Weronika Jaworska adapted the approach when the first method did not suit me, and that flexibility made all the difference.
+
+Review 8 for Dr. Weronika Jaworska, Psychology, Wroclaw
+Rating: 4/10
+Clinic visited: Przychodnia Krzyki Park
+Description: I felt interrupted by Dr. Weronika Jaworska several times while describing my situation and left without feeling heard. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Overall rating for Dr. Weronika Jaworska, Psychology, Wroclaw: 6.88/10 from 8 reviews

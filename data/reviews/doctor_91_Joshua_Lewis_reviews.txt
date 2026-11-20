@@ -1,0 +1,59 @@
+Doctor: Dr. Joshua Lewis
+Doctor ID: 91
+Specialization: Radiology
+Gender: Male
+Years of experience: 13
+City: Chicago, USA
+Clinics: Lakeshore Internal Medicine (clinic ID 15); Northside Care Partners (clinic ID 17)
+
+Review 1 for Dr. Joshua Lewis, Radiology, Chicago
+Rating: 7/10
+Clinic visited: Northside Care Partners
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Joshua Lewis, Radiology, Chicago
+Rating: 10/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Dr. Joshua Lewis compared my new scan with last year's and pointed out exactly what had stayed the same. At my visit, Dr. Joshua Lewis took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 3 for Dr. Joshua Lewis, Radiology, Chicago
+Rating: 7/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Joshua Lewis, Radiology, Chicago
+Rating: 10/10
+Clinic visited: Lakeshore Internal Medicine
+Description: I was called in within five minutes of my appointment time at Lakeshore Internal Medicine, which is rare and much appreciated. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Joshua Lewis, Radiology, Chicago
+Rating: 8/10
+Clinic visited: Northside Care Partners
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 6 for Dr. Joshua Lewis, Radiology, Chicago
+Rating: 7/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 7 for Dr. Joshua Lewis, Radiology, Chicago
+Rating: 6/10
+Clinic visited: Northside Care Partners
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Quick appointment and a fair price in Chicago, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 8 for Dr. Joshua Lewis, Radiology, Chicago
+Rating: 9/10
+Clinic visited: Lakeshore Internal Medicine
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Joshua Lewis were respectful throughout. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 9 for Dr. Joshua Lewis, Radiology, Chicago
+Rating: 8/10
+Clinic visited: Northside Care Partners
+Description: The receptionist at Northside Care Partners remembered my name and had my forms ready, so check-in took less than a minute. Images from Northside Care Partners were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 10 for Dr. Joshua Lewis, Radiology, Chicago
+Rating: 10/10
+Clinic visited: Northside Care Partners
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. The staff at Northside Care Partners in Chicago explained the contrast dye and its side effects before I signed anything.
+
+Overall rating for Dr. Joshua Lewis, Radiology, Chicago: 8.20/10 from 10 reviews

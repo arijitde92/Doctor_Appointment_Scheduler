@@ -1,0 +1,54 @@
+Doctor: Dr. Heba Soliman
+Doctor ID: 5977
+Specialization: Neurology
+Gender: Female
+Years of experience: 7
+City: Luxor, Egypt
+Clinics: Nile Corniche Medical Centre (clinic ID 771); Khaled Ibn El Walid Polyclinic (clinic ID 772)
+
+Review 1 for Dr. Heba Soliman, Neurology, Luxor
+Rating: 9/10
+Clinic visited: Khaled Ibn El Walid Polyclinic
+Description: Getting a same-month appointment in Luxor for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 2 for Dr. Heba Soliman, Neurology, Luxor
+Rating: 7/10
+Clinic visited: Nile Corniche Medical Centre
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Heba Soliman explained my results well, although the visit felt short for such a complex condition.
+
+Review 3 for Dr. Heba Soliman, Neurology, Luxor
+Rating: 10/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Clear and honest talk with Dr. Heba Soliman about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist. The waiting room at Nile Corniche Medical Centre was clean, quiet and comfortable, with enough seating and water available.
+
+Review 4 for Dr. Heba Soliman, Neurology, Luxor
+Rating: 10/10
+Clinic visited: Nile Corniche Medical Centre
+Description: After years of migraines, Dr. Heba Soliman built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer.
+
+Review 5 for Dr. Heba Soliman, Neurology, Luxor
+Rating: 9/10
+Clinic visited: Nile Corniche Medical Centre
+Description: She patiently explained my MRI findings and calmed my worries about memory problems.
+
+Review 6 for Dr. Heba Soliman, Neurology, Luxor
+Rating: 8/10
+Clinic visited: Khaled Ibn El Walid Polyclinic
+Description: The neurological exam by Dr. Heba Soliman was thorough, with every reflex test and gait check explained as it happened. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Heba Soliman, Neurology, Luxor
+Rating: 7/10
+Clinic visited: Nile Corniche Medical Centre
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Heba Soliman, Neurology, Luxor
+Rating: 7/10
+Clinic visited: Khaled Ibn El Walid Polyclinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Heba Soliman, Neurology, Luxor
+Rating: 9/10
+Clinic visited: Nile Corniche Medical Centre
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Overall rating for Dr. Heba Soliman, Neurology, Luxor: 8.44/10 from 9 reviews

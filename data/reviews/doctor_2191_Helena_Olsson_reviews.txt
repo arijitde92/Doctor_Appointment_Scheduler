@@ -1,0 +1,69 @@
+Doctor: Dr. Helena Olsson
+Doctor ID: 2191
+Specialization: General
+Gender: Female
+Years of experience: 7
+City: Stockholm, Sweden
+Clinics: Läkarhuset Götgatan (clinic ID 286)
+
+Review 1 for Dr. Helena Olsson, General, Stockholm
+Rating: 3/10
+Clinic visited: Läkarhuset Götgatan
+Description: My persistent fatigue was brushed aside as stress by Dr. Helena Olsson, and it took a second doctor to find the actual cause.
+
+Review 2 for Dr. Helena Olsson, General, Stockholm
+Rating: 6/10
+Clinic visited: Läkarhuset Götgatan
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 3 for Dr. Helena Olsson, General, Stockholm
+Rating: 6/10
+Clinic visited: Läkarhuset Götgatan
+Description: I liked the advice I got from Dr. Helena Olsson, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Helena Olsson, General, Stockholm
+Rating: 4/10
+Clinic visited: Läkarhuset Götgatan
+Description: My lab results from Läkarhuset Götgatan were never called in, and I only found them by chasing the front desk three times. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 5 for Dr. Helena Olsson, General, Stockholm
+Rating: 4/10
+Clinic visited: Läkarhuset Götgatan
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. I came in about worsening headaches and was told to drink more water and relax, with no examination at all. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 6 for Dr. Helena Olsson, General, Stockholm
+Rating: 6/10
+Clinic visited: Läkarhuset Götgatan
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Helena Olsson, General, Stockholm
+Rating: 5/10
+Clinic visited: Läkarhuset Götgatan
+Description: Referrals from Dr. Helena Olsson are handled well, but getting test results back took longer than I was told to expect. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Helena Olsson, General, Stockholm
+Rating: 4/10
+Clinic visited: Läkarhuset Götgatan
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 9 for Dr. Helena Olsson, General, Stockholm
+Rating: 8/10
+Clinic visited: Läkarhuset Götgatan
+Description: I went in with months of tiredness, and Dr. Helena Olsson ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 10 for Dr. Helena Olsson, General, Stockholm
+Rating: 6/10
+Clinic visited: Läkarhuset Götgatan
+Description: Dr. Helena Olsson was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 11 for Dr. Helena Olsson, General, Stockholm
+Rating: 6/10
+Clinic visited: Läkarhuset Götgatan
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Läkarhuset Götgatan were inconsistent. Decent care overall, and I will probably return unless I find something closer.
+
+Review 12 for Dr. Helena Olsson, General, Stockholm
+Rating: 5/10
+Clinic visited: Läkarhuset Götgatan
+Description: Dr. Helena Olsson is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Helena Olsson, General, Stockholm: 5.25/10 from 12 reviews

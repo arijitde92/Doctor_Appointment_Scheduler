@@ -1,0 +1,69 @@
+Doctor: Dr. Joanne Wilson
+Doctor ID: 1063
+Specialization: General
+Gender: Female
+Years of experience: 28
+City: Edinburgh, UK
+Clinics: Queen Street Medical Centre (clinic ID 140)
+
+Review 1 for Dr. Joanne Wilson, General, Edinburgh
+Rating: 5/10
+Clinic visited: Queen Street Medical Centre
+Description: Dr. Joanne Wilson is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Joanne Wilson, General, Edinburgh
+Rating: 9/10
+Clinic visited: Queen Street Medical Centre
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I went in with months of tiredness, and Dr. Joanne Wilson ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 3 for Dr. Joanne Wilson, General, Edinburgh
+Rating: 8/10
+Clinic visited: Queen Street Medical Centre
+Description: I was called in within five minutes of my appointment time at Queen Street Medical Centre, which is rare and much appreciated. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 4 for Dr. Joanne Wilson, General, Edinburgh
+Rating: 7/10
+Clinic visited: Queen Street Medical Centre
+Description: Booking was easy online, but the confirmation email contained the wrong address for Queen Street Medical Centre. I like that she listens to the full story, even if it means the appointment runs behind schedule. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Joanne Wilson, General, Edinburgh
+Rating: 6/10
+Clinic visited: Queen Street Medical Centre
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 6 for Dr. Joanne Wilson, General, Edinburgh
+Rating: 8/10
+Clinic visited: Queen Street Medical Centre
+Description: Getting to Queen Street Medical Centre from across Edinburgh was easy, and the same-week appointment saved me an urgent care trip. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 7 for Dr. Joanne Wilson, General, Edinburgh
+Rating: 8/10
+Clinic visited: Queen Street Medical Centre
+Description: Getting to Queen Street Medical Centre by public transport in Edinburgh was easy, and there is a step-free entrance for wheelchairs. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Joanne Wilson, General, Edinburgh
+Rating: 7/10
+Clinic visited: Queen Street Medical Centre
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Joanne Wilson, General, Edinburgh
+Rating: 7/10
+Clinic visited: Queen Street Medical Centre
+Description: Dr. Joanne Wilson was thoughtful and clear, though the front desk was disorganized and lost my first referral form. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 10 for Dr. Joanne Wilson, General, Edinburgh
+Rating: 5/10
+Clinic visited: Queen Street Medical Centre
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Queen Street Medical Centre were inconsistent. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 11 for Dr. Joanne Wilson, General, Edinburgh
+Rating: 10/10
+Clinic visited: Queen Street Medical Centre
+Description: Vaccination advice from Dr. Joanne Wilson for my travel plans was thorough and specific to the countries I was visiting. The waiting room at Queen Street Medical Centre was clean, quiet and comfortable, with enough seating and water available.
+
+Review 12 for Dr. Joanne Wilson, General, Edinburgh
+Rating: 6/10
+Clinic visited: Queen Street Medical Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Referrals from Dr. Joanne Wilson are handled well, but getting test results back took longer than I was told to expect.
+
+Overall rating for Dr. Joanne Wilson, General, Edinburgh: 7.17/10 from 12 reviews

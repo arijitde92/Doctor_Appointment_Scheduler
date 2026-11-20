@@ -1,0 +1,54 @@
+Doctor: Dr. Sandra García
+Doctor ID: 957
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 20
+City: Lima, Peru
+Clinics: Clínica San Isidro Familiar (clinic ID 125); Consultorios Médicos Arequipa (clinic ID 128)
+
+Review 1 for Dr. Sandra García, Psychiatry, Lima
+Rating: 5/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 2 for Dr. Sandra García, Psychiatry, Lima
+Rating: 8/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: The ADHD assessment by Dr. Sandra García was careful and detailed, with clear written conclusions and realistic expectations. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 3 for Dr. Sandra García, Psychiatry, Lima
+Rating: 6/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 4 for Dr. Sandra García, Psychiatry, Lima
+Rating: 6/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Dr. Sandra García was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Sandra García, Psychiatry, Lima
+Rating: 6/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 6 for Dr. Sandra García, Psychiatry, Lima
+Rating: 8/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. I was called in within five minutes of my appointment time at Clínica San Isidro Familiar, which is rare and much appreciated.
+
+Review 7 for Dr. Sandra García, Psychiatry, Lima
+Rating: 7/10
+Clinic visited: Clínica San Isidro Familiar
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good listener, yet the refill process at Clínica San Isidro Familiar is slow and requires several phone calls. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Sandra García, Psychiatry, Lima
+Rating: 8/10
+Clinic visited: Clínica San Isidro Familiar
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. Paperwork at Clínica San Isidro Familiar was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 9 for Dr. Sandra García, Psychiatry, Lima
+Rating: 7/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Sandra García, Psychiatry, Lima: 6.78/10 from 9 reviews

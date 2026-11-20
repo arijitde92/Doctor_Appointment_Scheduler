@@ -1,0 +1,64 @@
+Doctor: Dr. Szymon Lewandowski
+Doctor ID: 2807
+Specialization: Pathology
+Gender: Male
+Years of experience: 9
+City: Warsaw, Poland
+Clinics: Poliklinika Jerozolimskie Centrum (clinic ID 367)
+
+Review 1 for Dr. Szymon Lewandowski, Pathology, Warsaw
+Rating: 9/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The receptionist at Poliklinika Jerozolimskie Centrum remembered my name and had my forms ready, so check-in took less than a minute. I asked for a second look at my slides, and Dr. Szymon Lewandowski reviewed them without any fuss and confirmed the finding in writing.
+
+Review 2 for Dr. Szymon Lewandowski, Pathology, Warsaw
+Rating: 9/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 3 for Dr. Szymon Lewandowski, Pathology, Warsaw
+Rating: 6/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Dr. Szymon Lewandowski answered my questions kindly, though the call back took three days.
+
+Review 4 for Dr. Szymon Lewandowski, Pathology, Warsaw
+Rating: 7/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The blood draw was painless, but the waiting area at Poliklinika Jerozolimskie Centrum was crowded in the early morning. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Szymon Lewandowski, Pathology, Warsaw
+Rating: 6/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Szymon Lewandowski, Pathology, Warsaw
+Rating: 8/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: At my visit, Dr. Szymon Lewandowski took notes on my medication list, checked for interactions and explained the changes simply. I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Szymon Lewandowski, Pathology, Warsaw
+Rating: 4/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. The report was handed over by Dr. Szymon Lewandowski with no explanation, and I left frightened and confused about the terminology.
+
+Review 8 for Dr. Szymon Lewandowski, Pathology, Warsaw
+Rating: 5/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 9 for Dr. Szymon Lewandowski, Pathology, Warsaw
+Rating: 7/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Helpful in clarifying a borderline result, though Dr. Szymon Lewandowski gave little guidance about whether to repeat it.
+
+Review 10 for Dr. Szymon Lewandowski, Pathology, Warsaw
+Rating: 7/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 11 for Dr. Szymon Lewandowski, Pathology, Warsaw
+Rating: 6/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Overall rating for Dr. Szymon Lewandowski, Pathology, Warsaw: 6.73/10 from 11 reviews

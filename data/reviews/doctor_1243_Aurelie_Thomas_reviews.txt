@@ -1,0 +1,49 @@
+Doctor: Dr. Aurélie Thomas
+Doctor ID: 1243
+Specialization: Pathology
+Gender: Female
+Years of experience: 5
+City: Marseille, France
+Clinics: Clinique du Prado (clinic ID 162)
+
+Review 1 for Dr. Aurélie Thomas, Pathology, Marseille
+Rating: 7/10
+Clinic visited: Clinique du Prado
+Description: The blood draw was painless, but the waiting area at Clinique du Prado was crowded in the early morning. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Aurélie Thomas, Pathology, Marseille
+Rating: 6/10
+Clinic visited: Clinique du Prado
+Description: Quick appointment and a fair price in Marseille, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Aurélie Thomas answered my questions kindly, though the call back took three days. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Aurélie Thomas, Pathology, Marseille
+Rating: 5/10
+Clinic visited: Clinique du Prado
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 4 for Dr. Aurélie Thomas, Pathology, Marseille
+Rating: 6/10
+Clinic visited: Clinique du Prado
+Description: Helpful in clarifying a borderline result, though Dr. Aurélie Thomas gave little guidance about whether to repeat it.
+
+Review 5 for Dr. Aurélie Thomas, Pathology, Marseille
+Rating: 8/10
+Clinic visited: Clinique du Prado
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Aurélie Thomas, Pathology, Marseille
+Rating: 5/10
+Clinic visited: Clinique du Prado
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Aurélie Thomas, Pathology, Marseille
+Rating: 6/10
+Clinic visited: Clinique du Prado
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 8 for Dr. Aurélie Thomas, Pathology, Marseille
+Rating: 8/10
+Clinic visited: Clinique du Prado
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Overall rating for Dr. Aurélie Thomas, Pathology, Marseille: 6.38/10 from 8 reviews

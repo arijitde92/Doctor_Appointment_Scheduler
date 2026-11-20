@@ -1,0 +1,54 @@
+Doctor: Dr. Norhayati binti Rahman
+Doctor ID: 4604
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 28
+City: George Town, Malaysia
+Clinics: Klinik Harmoni (clinic ID 595); Klinik Kasih Sayang (clinic ID 597)
+
+Review 1 for Dr. Norhayati binti Rahman, Psychiatry, George Town
+Rating: 6/10
+Clinic visited: Klinik Kasih Sayang
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Dr. Norhayati binti Rahman was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Norhayati binti Rahman, Psychiatry, George Town
+Rating: 7/10
+Clinic visited: Klinik Harmoni
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Norhayati binti Rahman, Psychiatry, George Town
+Rating: 7/10
+Clinic visited: Klinik Kasih Sayang
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 4 for Dr. Norhayati binti Rahman, Psychiatry, George Town
+Rating: 4/10
+Clinic visited: Klinik Kasih Sayang
+Description: I felt dismissed by Dr. Norhayati binti Rahman when I brought up a second concern, and was told to book another appointment for it. My concerns about how I felt on the dose were waved away rather than explored. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 5 for Dr. Norhayati binti Rahman, Psychiatry, George Town
+Rating: 7/10
+Clinic visited: Klinik Kasih Sayang
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 6 for Dr. Norhayati binti Rahman, Psychiatry, George Town
+Rating: 5/10
+Clinic visited: Klinik Harmoni
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Norhayati binti Rahman, Psychiatry, George Town
+Rating: 5/10
+Clinic visited: Klinik Harmoni
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Dr. Norhayati binti Rahman is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 8 for Dr. Norhayati binti Rahman, Psychiatry, George Town
+Rating: 3/10
+Clinic visited: Klinik Kasih Sayang
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion.
+
+Review 9 for Dr. Norhayati binti Rahman, Psychiatry, George Town
+Rating: 4/10
+Clinic visited: Klinik Harmoni
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible. I expected more, and I cannot in good conscience recommend it to friends.
+
+Overall rating for Dr. Norhayati binti Rahman, Psychiatry, George Town: 5.33/10 from 9 reviews

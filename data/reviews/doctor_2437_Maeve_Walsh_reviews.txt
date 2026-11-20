@@ -1,0 +1,54 @@
+Doctor: Dr. Maeve Walsh
+Doctor ID: 2437
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 8
+City: Cork, Ireland
+Clinics: Blackpool Polyclinic (clinic ID 318)
+
+Review 1 for Dr. Maeve Walsh, Gastroenterology, Cork
+Rating: 6/10
+Clinic visited: Blackpool Polyclinic
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Dr. Maeve Walsh was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Maeve Walsh, Gastroenterology, Cork
+Rating: 7/10
+Clinic visited: Blackpool Polyclinic
+Description: Knowledgeable about my reflux, Dr. Maeve Walsh still gave diet advice that felt generic and not tailored to my habits. I liked the advice I got from Dr. Maeve Walsh, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Maeve Walsh, Gastroenterology, Cork
+Rating: 7/10
+Clinic visited: Blackpool Polyclinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Clear explanations, but the follow-up call took a week longer than I had been told. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Maeve Walsh, Gastroenterology, Cork
+Rating: 7/10
+Clinic visited: Blackpool Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Maeve Walsh, Gastroenterology, Cork
+Rating: 8/10
+Clinic visited: Blackpool Polyclinic
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. I received a full summary letter from Blackpool Polyclinic after my endoscopy, which my regular doctor found very useful.
+
+Review 6 for Dr. Maeve Walsh, Gastroenterology, Cork
+Rating: 7/10
+Clinic visited: Blackpool Polyclinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Maeve Walsh is thorough, but I waited nearly two months to get the first available slot.
+
+Review 7 for Dr. Maeve Walsh, Gastroenterology, Cork
+Rating: 4/10
+Clinic visited: Blackpool Polyclinic
+Description: The visit felt rushed, and Dr. Maeve Walsh was already halfway out the door when I started to describe my second symptom. The bowel prep instructions from Dr. Maeve Walsh's office were contradictory, and I had to reschedule my colonoscopy because of the confusion. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 8 for Dr. Maeve Walsh, Gastroenterology, Cork
+Rating: 6/10
+Clinic visited: Blackpool Polyclinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Good bedside manner from Dr. Maeve Walsh, but the parking near Blackpool Polyclinic is limited and I had to circle for fifteen minutes.
+
+Review 9 for Dr. Maeve Walsh, Gastroenterology, Cork
+Rating: 5/10
+Clinic visited: Blackpool Polyclinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Maeve Walsh, Gastroenterology, Cork: 6.33/10 from 9 reviews

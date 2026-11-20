@@ -1,0 +1,49 @@
+Doctor: Dr. Shimizu Tomoaki
+Doctor ID: 4010
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 3
+City: Kyoto, Japan
+Clinics: Kyoto Station Aoi Clinic (clinic ID 517)
+
+Review 1 for Dr. Shimizu Tomoaki, Psychiatry, Kyoto
+Rating: 10/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 2 for Dr. Shimizu Tomoaki, Psychiatry, Kyoto
+Rating: 8/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: Dr. Shimizu Tomoaki took a full history before suggesting any medication and explained the likely side effects honestly. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 3 for Dr. Shimizu Tomoaki, Psychiatry, Kyoto
+Rating: 8/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Shimizu Tomoaki, Psychiatry, Kyoto
+Rating: 8/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 5 for Dr. Shimizu Tomoaki, Psychiatry, Kyoto
+Rating: 8/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Shimizu Tomoaki, Psychiatry, Kyoto
+Rating: 7/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Dr. Shimizu Tomoaki was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Shimizu Tomoaki, Psychiatry, Kyoto
+Rating: 9/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: The ADHD assessment by Dr. Shimizu Tomoaki was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 8 for Dr. Shimizu Tomoaki, Psychiatry, Kyoto
+Rating: 7/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: Dr. Shimizu Tomoaki is knowledgeable, though I waited several weeks for my first appointment. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Shimizu Tomoaki, Psychiatry, Kyoto: 8.12/10 from 8 reviews

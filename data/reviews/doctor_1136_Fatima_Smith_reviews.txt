@@ -1,0 +1,59 @@
+Doctor: Dr. Fatima Smith
+Doctor ID: 1136
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 5
+City: London, UK
+Clinics: Upper Street Wellbeing Clinic (clinic ID 149)
+
+Review 1 for Dr. Fatima Smith, Gastroenterology, London
+Rating: 8/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. Even the billing team was helpful, and a mistake on my statement was corrected within a day. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Fatima Smith, Gastroenterology, London
+Rating: 5/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Fatima Smith, Gastroenterology, London
+Rating: 6/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Knowledgeable about my reflux, Dr. Fatima Smith still gave diet advice that felt generic and not tailored to my habits. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Fatima Smith, Gastroenterology, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Fatima Smith, Gastroenterology, London
+Rating: 8/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Dr. Fatima Smith looked me in the eye, listened to the whole story and only then started typing. My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 6 for Dr. Fatima Smith, Gastroenterology, London
+Rating: 10/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Helpful dietitian referral from Dr. Fatima Smith and written guidance for living with ulcerative colitis. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 7 for Dr. Fatima Smith, Gastroenterology, London
+Rating: 8/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 8 for Dr. Fatima Smith, Gastroenterology, London
+Rating: 8/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Dr. Fatima Smith drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 9 for Dr. Fatima Smith, Gastroenterology, London
+Rating: 9/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Clear explanation from Dr. Fatima Smith of fatty liver and exactly which lifestyle changes would make a measurable difference.
+
+Review 10 for Dr. Fatima Smith, Gastroenterology, London
+Rating: 5/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Overall rating for Dr. Fatima Smith, Gastroenterology, London: 7.40/10 from 10 reviews

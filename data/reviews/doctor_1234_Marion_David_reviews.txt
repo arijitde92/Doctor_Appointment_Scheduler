@@ -1,0 +1,54 @@
+Doctor: Dr. Marion David
+Doctor ID: 1234
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 14
+City: Marseille, France
+Clinics: Centre Médical du Vieux-Port (clinic ID 160)
+
+Review 1 for Dr. Marion David, Pulmonology, Marseille
+Rating: 8/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Dr. Marion David explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 2 for Dr. Marion David, Pulmonology, Marseille
+Rating: 8/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: The spirometry test was explained step by step, and Dr. Marion David put the results in context with a clear picture of my lung function. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 3 for Dr. Marion David, Pulmonology, Marseille
+Rating: 6/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Marion David, Pulmonology, Marseille
+Rating: 8/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Clear, honest answers from Dr. Marion David about my shortness of breath, and no unnecessary tests were ordered. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 5 for Dr. Marion David, Pulmonology, Marseille
+Rating: 10/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Marion David, Pulmonology, Marseille
+Rating: 5/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Helpful and honest about my prognosis, Dr. Marion David could still have given me more written material to take home. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Marion David, Pulmonology, Marseille
+Rating: 8/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Paperwork at Centre Médical du Vieux-Port was kept to a minimum, and the staff helped me complete the insurance form. Quitting smoking felt possible for the first time because the advice from Dr. Marion David was practical and never preachy. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Marion David, Pulmonology, Marseille
+Rating: 7/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 9 for Dr. Marion David, Pulmonology, Marseille
+Rating: 10/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Marseille. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Overall rating for Dr. Marion David, Pulmonology, Marseille: 7.78/10 from 9 reviews

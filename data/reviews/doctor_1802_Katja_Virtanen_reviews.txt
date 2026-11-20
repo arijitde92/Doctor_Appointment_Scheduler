@@ -1,0 +1,69 @@
+Doctor: Dr. Katja Virtanen
+Doctor ID: 1802
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 3
+City: Espoo, Finland
+Clinics: Lääkärikeskus Tapiola Plus (clinic ID 235); Lääkärikeskus Matinkylä (clinic ID 237)
+
+Review 1 for Dr. Katja Virtanen, Pediatrics, Espoo
+Rating: 9/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: My child's asthma action plan from Dr. Katja Virtanen was written out clearly so that school staff could follow it too.
+
+Review 2 for Dr. Katja Virtanen, Pediatrics, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 3 for Dr. Katja Virtanen, Pediatrics, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Dr. Katja Virtanen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 4 for Dr. Katja Virtanen, Pediatrics, Espoo
+Rating: 8/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: My teenager actually spoke up during the visit, and Dr. Katja Virtanen handled sensitive topics with respect. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 5 for Dr. Katja Virtanen, Pediatrics, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: Dr. Katja Virtanen is thorough with exams, but the after-hours phone line at Lääkärikeskus Tapiola Plus is hard to reach.
+
+Review 6 for Dr. Katja Virtanen, Pediatrics, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Caring and gentle with my child, Dr. Katja Virtanen nonetheless ran forty minutes behind schedule at most appointments. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Katja Virtanen, Pediatrics, Espoo
+Rating: 10/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: The growth chart review was detailed, and I appreciated that Dr. Katja Virtanen talked to my child as well as to me. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 8 for Dr. Katja Virtanen, Pediatrics, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Katja Virtanen, Pediatrics, Espoo
+Rating: 6/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 10 for Dr. Katja Virtanen, Pediatrics, Espoo
+Rating: 8/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: Dr. Katja Virtanen looked me in the eye, listened to the whole story and only then started typing. The school physical at Lääkärikeskus Tapiola Plus was quick, thorough and the forms were completed on the spot. My whole family is switching over after seeing how good the care was.
+
+Review 11 for Dr. Katja Virtanen, Pediatrics, Espoo
+Rating: 4/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why.
+
+Review 12 for Dr. Katja Virtanen, Pediatrics, Espoo
+Rating: 5/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: The treatment plan from Dr. Katja Virtanen made sense, but I wished it had been written down for me to take away. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Katja Virtanen, Pediatrics, Espoo: 7.08/10 from 12 reviews

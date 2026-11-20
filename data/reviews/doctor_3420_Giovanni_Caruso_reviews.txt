@@ -1,0 +1,54 @@
+Doctor: Dr. Giovanni Caruso
+Doctor ID: 3420
+Specialization: General
+Gender: Male
+Years of experience: 11
+City: Milan, Italy
+Clinics: Clinica Santa Giulia (clinic ID 443)
+
+Review 1 for Dr. Giovanni Caruso, General, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Clinica Santa Giulia were inconsistent. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Giovanni Caruso, General, Milan
+Rating: 6/10
+Clinic visited: Clinica Santa Giulia
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 3 for Dr. Giovanni Caruso, General, Milan
+Rating: 9/10
+Clinic visited: Clinica Santa Giulia
+Description: By the time I left the room, Dr. Giovanni Caruso had sorted the sick note, referral letter and prescription refill.
+
+Review 4 for Dr. Giovanni Caruso, General, Milan
+Rating: 5/10
+Clinic visited: Clinica Santa Giulia
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Giovanni Caruso, General, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: Getting to Clinica Santa Giulia from across Milan was easy, and the same-week appointment saved me an urgent care trip. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 6 for Dr. Giovanni Caruso, General, Milan
+Rating: 9/10
+Clinic visited: Clinica Santa Giulia
+Description: As a new patient in Milan, I felt welcomed at Clinica Santa Giulia, and my whole history was reviewed in one relaxed visit. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Giovanni Caruso, General, Milan
+Rating: 6/10
+Clinic visited: Clinica Santa Giulia
+Description: Dr. Giovanni Caruso is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Giovanni Caruso, General, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: My annual check-up with Dr. Giovanni Caruso took forty minutes, with every screening explained and nothing rushed.
+
+Review 9 for Dr. Giovanni Caruso, General, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Giovanni Caruso, General, Milan: 7.22/10 from 9 reviews

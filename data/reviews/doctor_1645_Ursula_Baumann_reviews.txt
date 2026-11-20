@@ -1,0 +1,49 @@
+Doctor: Dr. Ursula Baumann
+Doctor ID: 1645
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 19
+City: Basel, Switzerland
+Clinics: Praxiszentrum Rheinknie (clinic ID 215); Aerztehaus Steinen Basel (clinic ID 216)
+
+Review 1 for Dr. Ursula Baumann, Psychiatry, Basel
+Rating: 5/10
+Clinic visited: Praxiszentrum Rheinknie
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good listener, yet the refill process at Praxiszentrum Rheinknie is slow and requires several phone calls. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Ursula Baumann, Psychiatry, Basel
+Rating: 5/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Dr. Ursula Baumann is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 3 for Dr. Ursula Baumann, Psychiatry, Basel
+Rating: 7/10
+Clinic visited: Praxiszentrum Rheinknie
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Booking was easy online, but the confirmation email contained the wrong address for Praxiszentrum Rheinknie.
+
+Review 4 for Dr. Ursula Baumann, Psychiatry, Basel
+Rating: 6/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Ursula Baumann, Psychiatry, Basel
+Rating: 7/10
+Clinic visited: Praxiszentrum Rheinknie
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Ursula Baumann, Psychiatry, Basel
+Rating: 7/10
+Clinic visited: Praxiszentrum Rheinknie
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Ursula Baumann, Psychiatry, Basel
+Rating: 7/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Ursula Baumann, Psychiatry, Basel
+Rating: 6/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Ursula Baumann, Psychiatry, Basel: 6.25/10 from 8 reviews

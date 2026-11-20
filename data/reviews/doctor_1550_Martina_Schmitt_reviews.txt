@@ -1,0 +1,64 @@
+Doctor: Dr. Martina Schmitt
+Doctor ID: 1550
+Specialization: Pathology
+Gender: Female
+Years of experience: 2
+City: Frankfurt, Germany
+Clinics: Medizinisches Zentrum Bahnhofsviertel (clinic ID 202)
+
+Review 1 for Dr. Martina Schmitt, Pathology, Frankfurt
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: I came away understanding my condition better than I have in years of previous appointments. The biopsy report was returned in three days, and Dr. Martina Schmitt took time on the phone to explain every term in it.
+
+Review 2 for Dr. Martina Schmitt, Pathology, Frankfurt
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Dr. Martina Schmitt took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Martina Schmitt, Pathology, Frankfurt
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Allergy panel results were explained in detail by Dr. Martina Schmitt, with a note on which results mattered clinically and which did not.
+
+Review 4 for Dr. Martina Schmitt, Pathology, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Martina Schmitt answered my questions kindly, though the call back took three days.
+
+Review 5 for Dr. Martina Schmitt, Pathology, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 6 for Dr. Martina Schmitt, Pathology, Frankfurt
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Frankfurt. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Martina Schmitt, Pathology, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The blood draw was painless, but the waiting area at Medizinisches Zentrum Bahnhofsviertel was crowded in the early morning. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Martina Schmitt, Pathology, Frankfurt
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 9 for Dr. Martina Schmitt, Pathology, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Helpful in clarifying a borderline result, though Dr. Martina Schmitt gave little guidance about whether to repeat it. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Martina Schmitt, Pathology, Frankfurt
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 11 for Dr. Martina Schmitt, Pathology, Frankfurt
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Dr. Martina Schmitt was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Martina Schmitt, Pathology, Frankfurt: 7.09/10 from 11 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Ayşe Fischer
+Doctor ID: 1509
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 28
+City: Berlin, Germany
+Clinics: Gesundheitspraxis Prenzlauer Tor (clinic ID 197)
+
+Review 1 for Dr. Ayşe Fischer, Gastroenterology, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. Getting to Gesundheitspraxis Prenzlauer Tor by public transport in Berlin was easy, and there is a step-free entrance for wheelchairs.
+
+Review 2 for Dr. Ayşe Fischer, Gastroenterology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 3 for Dr. Ayşe Fischer, Gastroenterology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 4 for Dr. Ayşe Fischer, Gastroenterology, Berlin
+Rating: 10/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The waiting room at Gesundheitspraxis Prenzlauer Tor was clean, quiet and comfortable, with enough seating and water available. I get regular check-ups for my Crohn's disease, and Dr. Ayşe Fischer adjusts my treatment carefully and always explains why.
+
+Review 5 for Dr. Ayşe Fischer, Gastroenterology, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 6 for Dr. Ayşe Fischer, Gastroenterology, Berlin
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: At my visit, Dr. Ayşe Fischer took notes on my medication list, checked for interactions and explained the changes simply. Helpful dietitian referral from Dr. Ayşe Fischer and written guidance for living with ulcerative colitis.
+
+Review 7 for Dr. Ayşe Fischer, Gastroenterology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Ayşe Fischer is thorough, but I waited nearly two months to get the first available slot.
+
+Review 8 for Dr. Ayşe Fischer, Gastroenterology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Good bedside manner from Dr. Ayşe Fischer, but the parking near Gesundheitspraxis Prenzlauer Tor is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Ayşe Fischer, Gastroenterology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 10 for Dr. Ayşe Fischer, Gastroenterology, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Dr. Ayşe Fischer was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 11 for Dr. Ayşe Fischer, Gastroenterology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Knowledgeable about my reflux, Dr. Ayşe Fischer still gave diet advice that felt generic and not tailored to my habits. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 12 for Dr. Ayşe Fischer, Gastroenterology, Berlin
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Overall rating for Dr. Ayşe Fischer, Gastroenterology, Berlin: 7.58/10 from 12 reviews

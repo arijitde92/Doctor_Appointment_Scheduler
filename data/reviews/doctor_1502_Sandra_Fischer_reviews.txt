@@ -1,0 +1,49 @@
+Doctor: Dr. Sandra Fischer
+Doctor ID: 1502
+Specialization: Radiology
+Gender: Female
+Years of experience: 4
+City: Berlin, Germany
+Clinics: Medizinisches Zentrum Friedrichshain-Mitte (clinic ID 196)
+
+Review 1 for Dr. Sandra Fischer, Radiology, Berlin
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Sandra Fischer, Radiology, Berlin
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Quick appointment and a fair price in Berlin, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Sandra Fischer, Radiology, Berlin
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 4 for Dr. Sandra Fischer, Radiology, Berlin
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Parking was simple, the waiting room was calm, and I never felt like a number. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Sandra Fischer, Radiology, Berlin
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Sandra Fischer, Radiology, Berlin
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: The report from Dr. Sandra Fischer was thorough, though full of technical terms that needed my regular doctor to translate. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Sandra Fischer, Radiology, Berlin
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Good bedside manner from Dr. Sandra Fischer, but the parking near Medizinisches Zentrum Friedrichshain-Mitte is limited and I had to circle for fifteen minutes. Professional technologist, though the changing room was cramped and the lockers did not work. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Sandra Fischer, Radiology, Berlin
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Images from Medizinisches Zentrum Friedrichshain-Mitte were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Overall rating for Dr. Sandra Fischer, Radiology, Berlin: 6.88/10 from 8 reviews

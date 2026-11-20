@@ -1,0 +1,59 @@
+Doctor: Dr. Sarah Cohen
+Doctor ID: 205
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 15
+City: New York, USA
+Clinics: Brooklyn Heights Wellness Clinic (clinic ID 28)
+
+Review 1 for Dr. Sarah Cohen, Pulmonology, New York
+Rating: 8/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: I always leave Dr. Sarah Cohen's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 2 for Dr. Sarah Cohen, Pulmonology, New York
+Rating: 6/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Brooklyn Heights Wellness Clinic regularly exceeded forty minutes.
+
+Review 3 for Dr. Sarah Cohen, Pulmonology, New York
+Rating: 7/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Sarah Cohen, Pulmonology, New York
+Rating: 8/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 5 for Dr. Sarah Cohen, Pulmonology, New York
+Rating: 8/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: She took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 6 for Dr. Sarah Cohen, Pulmonology, New York
+Rating: 6/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Brooklyn Heights Wellness Clinic. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 7 for Dr. Sarah Cohen, Pulmonology, New York
+Rating: 9/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in New York. Prescriptions from Dr. Sarah Cohen were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 8 for Dr. Sarah Cohen, Pulmonology, New York
+Rating: 8/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Sarah Cohen was practical and never preachy. My test results arrived in the portal within two days, together with a short note that made sense. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Sarah Cohen, Pulmonology, New York
+Rating: 7/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Helpful and honest about my prognosis, Dr. Sarah Cohen could still have given me more written material to take home.
+
+Review 10 for Dr. Sarah Cohen, Pulmonology, New York
+Rating: 7/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Dr. Sarah Cohen adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Overall rating for Dr. Sarah Cohen, Pulmonology, New York: 7.40/10 from 10 reviews

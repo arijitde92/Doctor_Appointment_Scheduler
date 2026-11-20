@@ -1,0 +1,49 @@
+Doctor: Dr. Michael Jones
+Doctor ID: 1156
+Specialization: Cardiology
+Gender: Male
+Years of experience: 11
+City: Manchester, UK
+Clinics: Portland Health Centre (clinic ID 151)
+
+Review 1 for Dr. Michael Jones, Cardiology, Manchester
+Rating: 9/10
+Clinic visited: Portland Health Centre
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Michael Jones, Cardiology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Michael Jones, Cardiology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: After my heart attack, Dr. Michael Jones explained the rehab plan and medication changes with great patience and kindness. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Michael Jones, Cardiology, Manchester
+Rating: 9/10
+Clinic visited: Portland Health Centre
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Seeing Dr. Michael Jones in Manchester meant my whole family history was reviewed, and now my sister is being screened too.
+
+Review 5 for Dr. Michael Jones, Cardiology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 6 for Dr. Michael Jones, Cardiology, Manchester
+Rating: 9/10
+Clinic visited: Portland Health Centre
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 7 for Dr. Michael Jones, Cardiology, Manchester
+Rating: 10/10
+Clinic visited: Portland Health Centre
+Description: I came away understanding my condition better than I have in years of previous appointments. Honest about the risks and benefits of the procedure, Dr. Michael Jones never pressured me toward surgery.
+
+Review 8 for Dr. Michael Jones, Cardiology, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Michael Jones, Cardiology, Manchester: 8.50/10 from 8 reviews

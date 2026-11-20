@@ -1,0 +1,54 @@
+Doctor: Dr. Alejandro Silva
+Doctor ID: 792
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 27
+City: Cordoba, Argentina
+Clinics: Instituto de Salud Vélez Sarsfield (clinic ID 104)
+
+Review 1 for Dr. Alejandro Silva, Gastroenterology, Cordoba
+Rating: 10/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Alejandro Silva, Gastroenterology, Cordoba
+Rating: 7/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 3 for Dr. Alejandro Silva, Gastroenterology, Cordoba
+Rating: 9/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: A same-day slot was found for me at Instituto de Salud Vélez Sarsfield when I called with a worrying symptom.
+
+Review 4 for Dr. Alejandro Silva, Gastroenterology, Cordoba
+Rating: 10/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: He was upfront about what could and could not be treated, and did not oversell any option. After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan.
+
+Review 5 for Dr. Alejandro Silva, Gastroenterology, Cordoba
+Rating: 10/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: I received a full summary letter from Instituto de Salud Vélez Sarsfield after my endoscopy, which my regular doctor found very useful.
+
+Review 6 for Dr. Alejandro Silva, Gastroenterology, Cordoba
+Rating: 9/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Dr. Alejandro Silva used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 7 for Dr. Alejandro Silva, Gastroenterology, Cordoba
+Rating: 10/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Dr. Alejandro Silva was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry.
+
+Review 8 for Dr. Alejandro Silva, Gastroenterology, Cordoba
+Rating: 10/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Clear explanation from Dr. Alejandro Silva of fatty liver and exactly which lifestyle changes would make a measurable difference.
+
+Review 9 for Dr. Alejandro Silva, Gastroenterology, Cordoba
+Rating: 9/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. A gentle, respectful manner from Dr. Alejandro Silva made a very awkward exam bearable, with every step explained before it happened.
+
+Overall rating for Dr. Alejandro Silva, Gastroenterology, Cordoba: 9.33/10 from 9 reviews

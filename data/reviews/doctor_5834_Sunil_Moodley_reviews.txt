@@ -1,0 +1,49 @@
+Doctor: Dr. Sunil Moodley
+Doctor ID: 5834
+Specialization: Cardiology
+Gender: Male
+Years of experience: 5
+City: Pretoria, South Africa
+Clinics: Church Street Care Practice (clinic ID 754)
+
+Review 1 for Dr. Sunil Moodley, Cardiology, Pretoria
+Rating: 6/10
+Clinic visited: Church Street Care Practice
+Description: Dr. Sunil Moodley was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Helpful with my cholesterol, Dr. Sunil Moodley still gave dietary advice that was a little generic.
+
+Review 2 for Dr. Sunil Moodley, Cardiology, Pretoria
+Rating: 6/10
+Clinic visited: Church Street Care Practice
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Good bedside manner from Dr. Sunil Moodley, but the parking near Church Street Care Practice is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Sunil Moodley, Cardiology, Pretoria
+Rating: 6/10
+Clinic visited: Church Street Care Practice
+Description: Quick appointment and a fair price in Pretoria, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Sunil Moodley adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 4 for Dr. Sunil Moodley, Cardiology, Pretoria
+Rating: 6/10
+Clinic visited: Church Street Care Practice
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Sunil Moodley, Cardiology, Pretoria
+Rating: 4/10
+Clinic visited: Church Street Care Practice
+Description: My test results sat on Dr. Sunil Moodley's desk for two weeks, and I only learned about a medication change when I called the pharmacy. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Review 6 for Dr. Sunil Moodley, Cardiology, Pretoria
+Rating: 6/10
+Clinic visited: Church Street Care Practice
+Description: Great care in the visit itself, but the billing for the tests at Church Street Care Practice was confusing.
+
+Review 7 for Dr. Sunil Moodley, Cardiology, Pretoria
+Rating: 7/10
+Clinic visited: Church Street Care Practice
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Sunil Moodley, Cardiology, Pretoria
+Rating: 6/10
+Clinic visited: Church Street Care Practice
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Sunil Moodley, Cardiology, Pretoria: 5.88/10 from 8 reviews

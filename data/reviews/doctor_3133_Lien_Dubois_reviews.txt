@@ -1,0 +1,69 @@
+Doctor: Dr. Lien Dubois
+Doctor ID: 3133
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 13
+City: Ghent, Belgium
+Clinics: Polikliniek Dampoort (clinic ID 407); Medisch Centrum Vlasmarkt (clinic ID 409)
+
+Review 1 for Dr. Lien Dubois, Pulmonology, Ghent
+Rating: 5/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: I liked the advice I got from Dr. Lien Dubois, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Lien Dubois, Pulmonology, Ghent
+Rating: 4/10
+Clinic visited: Polikliniek Dampoort
+Description: My questions were answered by Dr. Lien Dubois with short, vague replies, and I left without a clear plan. The bill for my pulmonary function tests was far higher than the estimate I had been given.
+
+Review 3 for Dr. Lien Dubois, Pulmonology, Ghent
+Rating: 3/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. I was told to just keep using my inhaler and nobody checked whether I was using it properly.
+
+Review 4 for Dr. Lien Dubois, Pulmonology, Ghent
+Rating: 8/10
+Clinic visited: Polikliniek Dampoort
+Description: Everything was explained in plain English by Dr. Lien Dubois, and nothing was left to guess. She called personally with my scan results and walked me through what the findings did and did not mean.
+
+Review 5 for Dr. Lien Dubois, Pulmonology, Ghent
+Rating: 5/10
+Clinic visited: Polikliniek Dampoort
+Description: Helpful and honest about my prognosis, Dr. Lien Dubois could still have given me more written material to take home. Good bedside manner from Dr. Lien Dubois, but the parking near Polikliniek Dampoort is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Lien Dubois, Pulmonology, Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Quick appointment and a fair price in Ghent, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Lien Dubois, Pulmonology, Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 8 for Dr. Lien Dubois, Pulmonology, Ghent
+Rating: 5/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 9 for Dr. Lien Dubois, Pulmonology, Ghent
+Rating: 9/10
+Clinic visited: Polikliniek Dampoort
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. Prescriptions from Dr. Lien Dubois were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 10 for Dr. Lien Dubois, Pulmonology, Ghent
+Rating: 6/10
+Clinic visited: Polikliniek Dampoort
+Description: Pleasant manner and careful lung exam, though the waiting time at Polikliniek Dampoort regularly exceeded forty minutes. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 11 for Dr. Lien Dubois, Pulmonology, Ghent
+Rating: 5/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Dr. Lien Dubois adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 12 for Dr. Lien Dubois, Pulmonology, Ghent
+Rating: 5/10
+Clinic visited: Polikliniek Dampoort
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Dr. Lien Dubois was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Lien Dubois, Pulmonology, Ghent: 5.75/10 from 12 reviews

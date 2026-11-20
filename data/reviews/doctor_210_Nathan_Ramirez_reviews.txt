@@ -1,0 +1,54 @@
+Doctor: Dr. Nathan Ramirez
+Doctor ID: 210
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 5
+City: New York, USA
+Clinics: Forest Hills Medical Arts (clinic ID 29)
+
+Review 1 for Dr. Nathan Ramirez, Pulmonology, New York
+Rating: 7/10
+Clinic visited: Forest Hills Medical Arts
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Pleasant manner and careful lung exam, though the waiting time at Forest Hills Medical Arts regularly exceeded forty minutes.
+
+Review 2 for Dr. Nathan Ramirez, Pulmonology, New York
+Rating: 7/10
+Clinic visited: Forest Hills Medical Arts
+Description: Helpful and honest about my prognosis, Dr. Nathan Ramirez could still have given me more written material to take home. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Nathan Ramirez, Pulmonology, New York
+Rating: 8/10
+Clinic visited: Forest Hills Medical Arts
+Description: I always leave Dr. Nathan Ramirez's office with a written summary of my breathing test results and what changed since the last visit. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Nathan Ramirez, Pulmonology, New York
+Rating: 7/10
+Clinic visited: Forest Hills Medical Arts
+Description: Booking was easy online, but the confirmation email contained the wrong address for Forest Hills Medical Arts.
+
+Review 5 for Dr. Nathan Ramirez, Pulmonology, New York
+Rating: 8/10
+Clinic visited: Forest Hills Medical Arts
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Nathan Ramirez was practical and never preachy. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Nathan Ramirez, Pulmonology, New York
+Rating: 9/10
+Clinic visited: Forest Hills Medical Arts
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. At Forest Hills Medical Arts, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 7 for Dr. Nathan Ramirez, Pulmonology, New York
+Rating: 8/10
+Clinic visited: Forest Hills Medical Arts
+Description: Dr. Nathan Ramirez looked me in the eye, listened to the whole story and only then started typing. After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Nathan Ramirez, Pulmonology, New York
+Rating: 8/10
+Clinic visited: Forest Hills Medical Arts
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. The spirometry test was explained step by step, and Dr. Nathan Ramirez put the results in context with a clear picture of my lung function.
+
+Review 9 for Dr. Nathan Ramirez, Pulmonology, New York
+Rating: 9/10
+Clinic visited: Forest Hills Medical Arts
+Description: He called personally with my scan results and walked me through what the findings did and did not mean. Dr. Nathan Ramirez drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Overall rating for Dr. Nathan Ramirez, Pulmonology, New York: 7.89/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Claude Becker
+Doctor ID: 3320
+Specialization: Psychology
+Gender: Male
+Years of experience: 7
+City: Luxembourg City, Luxembourg
+Clinics: Cabinet Médical Gare (clinic ID 430); Centre de Santé Belair (clinic ID 434)
+
+Review 1 for Dr. Claude Becker, Psychology, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre de Santé Belair
+Description: Dr. Claude Becker was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Claude Becker, Psychology, Luxembourg City
+Rating: 8/10
+Clinic visited: Centre de Santé Belair
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 3 for Dr. Claude Becker, Psychology, Luxembourg City
+Rating: 8/10
+Clinic visited: Cabinet Médical Gare
+Description: Couples therapy at Cabinet Médical Gare helped us stop repeating the same argument. We now have a way to pause and listen. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 4 for Dr. Claude Becker, Psychology, Luxembourg City
+Rating: 9/10
+Clinic visited: Cabinet Médical Gare
+Description: I never felt judged by Dr. Claude Becker when talking about my burnout, and the sessions gave me language for things I could not explain before. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Claude Becker, Psychology, Luxembourg City
+Rating: 8/10
+Clinic visited: Cabinet Médical Gare
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Claude Becker designed around my actual job. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Claude Becker, Psychology, Luxembourg City
+Rating: 7/10
+Clinic visited: Cabinet Médical Gare
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 7 for Dr. Claude Becker, Psychology, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre de Santé Belair
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 8 for Dr. Claude Becker, Psychology, Luxembourg City
+Rating: 7/10
+Clinic visited: Cabinet Médical Gare
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Claude Becker, Psychology, Luxembourg City: 7.38/10 from 8 reviews

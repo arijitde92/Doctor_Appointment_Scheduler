@@ -1,0 +1,49 @@
+Doctor: Dr. Ville Lahtinen
+Doctor ID: 1814
+Specialization: Pathology
+Gender: Male
+Years of experience: 12
+City: Espoo, Finland
+Clinics: Lääkärikeskus Matinkylä (clinic ID 237)
+
+Review 1 for Dr. Ville Lahtinen, Pathology, Espoo
+Rating: 9/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 2 for Dr. Ville Lahtinen, Pathology, Espoo
+Rating: 8/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Allergy panel results were explained in detail by Dr. Ville Lahtinen, with a note on which results mattered clinically and which did not. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 3 for Dr. Ville Lahtinen, Pathology, Espoo
+Rating: 9/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 4 for Dr. Ville Lahtinen, Pathology, Espoo
+Rating: 6/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Ville Lahtinen, Pathology, Espoo
+Rating: 9/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Espoo. A same-day slot was found for me at Lääkärikeskus Matinkylä when I called with a worrying symptom. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Ville Lahtinen, Pathology, Espoo
+Rating: 6/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Ville Lahtinen, Pathology, Espoo
+Rating: 9/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Ville Lahtinen, Pathology, Espoo
+Rating: 4/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Overall rating for Dr. Ville Lahtinen, Pathology, Espoo: 7.50/10 from 8 reviews

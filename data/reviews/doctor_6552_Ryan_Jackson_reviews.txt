@@ -1,0 +1,64 @@
+Doctor: Dr. Ryan Jackson
+Doctor ID: 6552
+Specialization: Psychology
+Gender: Male
+Years of experience: 8
+City: Perth, Australia
+Clinics: Seaview Medical Clinic (clinic ID 848); Waratah Family Clinic (clinic ID 849)
+
+Review 1 for Dr. Ryan Jackson, Psychology, Perth
+Rating: 7/10
+Clinic visited: Seaview Medical Clinic
+Description: My trauma work felt well paced, although the schedule changed several times at Seaview Medical Clinic. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Ryan Jackson, Psychology, Perth
+Rating: 7/10
+Clinic visited: Waratah Family Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Ryan Jackson, Psychology, Perth
+Rating: 8/10
+Clinic visited: Seaview Medical Clinic
+Description: Warm, patient and honest, Dr. Ryan Jackson told me what progress to expect and it matched reality. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 4 for Dr. Ryan Jackson, Psychology, Perth
+Rating: 5/10
+Clinic visited: Waratah Family Clinic
+Description: Dr. Ryan Jackson was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Ryan Jackson, Psychology, Perth
+Rating: 6/10
+Clinic visited: Seaview Medical Clinic
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. Good bedside manner from Dr. Ryan Jackson, but the parking near Seaview Medical Clinic is limited and I had to circle for fifteen minutes. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Ryan Jackson, Psychology, Perth
+Rating: 7/10
+Clinic visited: Waratah Family Clinic
+Description: Dr. Ryan Jackson listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 7 for Dr. Ryan Jackson, Psychology, Perth
+Rating: 7/10
+Clinic visited: Waratah Family Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. Insightful and kind, though progress with Dr. Ryan Jackson felt slow, and I wished for more structured homework between sessions.
+
+Review 8 for Dr. Ryan Jackson, Psychology, Perth
+Rating: 7/10
+Clinic visited: Waratah Family Clinic
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Ryan Jackson, Psychology, Perth
+Rating: 7/10
+Clinic visited: Seaview Medical Clinic
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot.
+
+Review 10 for Dr. Ryan Jackson, Psychology, Perth
+Rating: 7/10
+Clinic visited: Seaview Medical Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 11 for Dr. Ryan Jackson, Psychology, Perth
+Rating: 9/10
+Clinic visited: Waratah Family Clinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Ryan Jackson, Psychology, Perth: 7.00/10 from 11 reviews

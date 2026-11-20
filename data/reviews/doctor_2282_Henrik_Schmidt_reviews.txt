@@ -1,0 +1,69 @@
+Doctor: Dr. Henrik Schmidt
+Doctor ID: 2282
+Specialization: Cardiology
+Gender: Male
+Years of experience: 1
+City: Aalborg, Denmark
+Clinics: Lægehuset Algade Plus (clinic ID 298); Klinik Sofiendal Aalborg (clinic ID 299)
+
+Review 1 for Dr. Henrik Schmidt, Cardiology, Aalborg
+Rating: 8/10
+Clinic visited: Lægehuset Algade Plus
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 2 for Dr. Henrik Schmidt, Cardiology, Aalborg
+Rating: 10/10
+Clinic visited: Lægehuset Algade Plus
+Description: Paperwork at Lægehuset Algade Plus was kept to a minimum, and the staff helped me complete the insurance form. Quick to coordinate with my regular doctor, so my medications were consistent across both offices.
+
+Review 3 for Dr. Henrik Schmidt, Cardiology, Aalborg
+Rating: 10/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: After my palpitations began, Dr. Henrik Schmidt arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 4 for Dr. Henrik Schmidt, Cardiology, Aalborg
+Rating: 9/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Honest about the risks and benefits of the procedure, Dr. Henrik Schmidt never pressured me toward surgery.
+
+Review 5 for Dr. Henrik Schmidt, Cardiology, Aalborg
+Rating: 8/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Dr. Henrik Schmidt explained the difference between my statin options and let me weigh in on the choice. Dr. Henrik Schmidt drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 6 for Dr. Henrik Schmidt, Cardiology, Aalborg
+Rating: 7/10
+Clinic visited: Lægehuset Algade Plus
+Description: Dr. Henrik Schmidt adjusted my blood pressure medication carefully, though I had to call twice for a refill. The doctor was kind, though the clinic's evening hours are very limited for working people. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Henrik Schmidt, Cardiology, Aalborg
+Rating: 10/10
+Clinic visited: Lægehuset Algade Plus
+Description: My atrial fibrillation is well managed by Dr. Henrik Schmidt, and I know exactly what symptoms mean I should call. Appointment reminders came by text and email, and rescheduling took two taps. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Henrik Schmidt, Cardiology, Aalborg
+Rating: 8/10
+Clinic visited: Lægehuset Algade Plus
+Description: Clear and calm advice at Lægehuset Algade Plus about exercise after my stent, including a gradual written schedule. A translator was arranged for my mother without us asking twice, and Dr. Henrik Schmidt spoke directly to her throughout.
+
+Review 9 for Dr. Henrik Schmidt, Cardiology, Aalborg
+Rating: 10/10
+Clinic visited: Lægehuset Algade Plus
+Description: Prescriptions from Dr. Henrik Schmidt were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 10 for Dr. Henrik Schmidt, Cardiology, Aalborg
+Rating: 9/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Getting to Klinik Sofiendal Aalborg by public transport in Aalborg was easy, and there is a step-free entrance for wheelchairs. After my heart attack, Dr. Henrik Schmidt explained the rehab plan and medication changes with great patience and kindness.
+
+Review 11 for Dr. Henrik Schmidt, Cardiology, Aalborg
+Rating: 7/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Great care in the visit itself, but the billing for the tests at Klinik Sofiendal Aalborg was confusing. Dr. Henrik Schmidt was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 12 for Dr. Henrik Schmidt, Cardiology, Aalborg
+Rating: 10/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Sensitive questions were handled by Dr. Henrik Schmidt with discretion and without a hint of judgment.
+
+Overall rating for Dr. Henrik Schmidt, Cardiology, Aalborg: 8.83/10 from 12 reviews

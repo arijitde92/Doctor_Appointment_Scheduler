@@ -1,0 +1,59 @@
+Doctor: Dr. Nam Jong-min
+Doctor ID: 4205
+Specialization: General
+Gender: Male
+Years of experience: 27
+City: Daegu, South Korea
+Clinics: Beomeo Hanmaru Health Clinic (clinic ID 542)
+
+Review 1 for Dr. Nam Jong-min, General, Daegu
+Rating: 9/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: Vaccination advice from Dr. Nam Jong-min for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 2 for Dr. Nam Jong-min, General, Daegu
+Rating: 8/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: My annual check-up with Dr. Nam Jong-min took forty minutes, with every screening explained and nothing rushed. The nurse was friendly and efficient, and the whole visit with Dr. Nam Jong-min felt well organized from start to finish.
+
+Review 3 for Dr. Nam Jong-min, General, Daegu
+Rating: 7/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Nam Jong-min, General, Daegu
+Rating: 7/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: Dr. Nam Jong-min was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 5 for Dr. Nam Jong-min, General, Daegu
+Rating: 6/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: Dr. Nam Jong-min is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 6 for Dr. Nam Jong-min, General, Daegu
+Rating: 6/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Nam Jong-min, General, Daegu
+Rating: 7/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Nam Jong-min, General, Daegu
+Rating: 8/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 9 for Dr. Nam Jong-min, General, Daegu
+Rating: 6/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Beomeo Hanmaru Health Clinic were inconsistent. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 10 for Dr. Nam Jong-min, General, Daegu
+Rating: 8/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list.
+
+Overall rating for Dr. Nam Jong-min, General, Daegu: 7.20/10 from 10 reviews

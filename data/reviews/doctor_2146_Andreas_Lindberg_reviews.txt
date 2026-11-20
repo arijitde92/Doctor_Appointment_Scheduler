@@ -1,0 +1,49 @@
+Doctor: Dr. Andreas Lindberg
+Doctor ID: 2146
+Specialization: Pathology
+Gender: Male
+Years of experience: 22
+City: Malmo, Sweden
+Clinics: Vårdcentralen Södra Förstan Plus (clinic ID 280)
+
+Review 1 for Dr. Andreas Lindberg, Pathology, Malmo
+Rating: 3/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive. The staff at Vårdcentralen Södra Förstan Plus were curt on the phone, and it took four attempts to book a simple follow-up.
+
+Review 2 for Dr. Andreas Lindberg, Pathology, Malmo
+Rating: 5/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 3 for Dr. Andreas Lindberg, Pathology, Malmo
+Rating: 8/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: I was nervous about the biopsy result, and the call from Dr. Andreas Lindberg was gentle, honest and unhurried. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Andreas Lindberg, Pathology, Malmo
+Rating: 5/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Andreas Lindberg, Pathology, Malmo
+Rating: 5/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 6 for Dr. Andreas Lindberg, Pathology, Malmo
+Rating: 5/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: The blood draw was painless, but the waiting area at Vårdcentralen Södra Förstan Plus was crowded in the early morning. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Andreas Lindberg, Pathology, Malmo
+Rating: 6/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Helpful in clarifying a borderline result, though Dr. Andreas Lindberg gave little guidance about whether to repeat it.
+
+Review 8 for Dr. Andreas Lindberg, Pathology, Malmo
+Rating: 6/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Quick appointment and a fair price in Malmo, but the staff seemed overwhelmed and a bit curt on the phone. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Andreas Lindberg, Pathology, Malmo: 5.38/10 from 8 reviews

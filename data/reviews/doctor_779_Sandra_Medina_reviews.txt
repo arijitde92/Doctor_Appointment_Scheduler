@@ -1,0 +1,69 @@
+Doctor: Dr. Sandra Medina
+Doctor ID: 779
+Specialization: Pathology
+Gender: Female
+Years of experience: 8
+City: Cordoba, Argentina
+Clinics: Consultorios Médicos Colón (clinic ID 102); Policlínica General Paz (clinic ID 103)
+
+Review 1 for Dr. Sandra Medina, Pathology, Cordoba
+Rating: 8/10
+Clinic visited: Policlínica General Paz
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 2 for Dr. Sandra Medina, Pathology, Cordoba
+Rating: 8/10
+Clinic visited: Policlínica General Paz
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 3 for Dr. Sandra Medina, Pathology, Cordoba
+Rating: 8/10
+Clinic visited: Consultorios Médicos Colón
+Description: I was nervous about the biopsy result, and the call from Dr. Sandra Medina was gentle, honest and unhurried. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Sandra Medina, Pathology, Cordoba
+Rating: 9/10
+Clinic visited: Policlínica General Paz
+Description: Fast turnaround at Policlínica General Paz on my thyroid panel, with results in my online account by the next morning. Dr. Sandra Medina used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 5 for Dr. Sandra Medina, Pathology, Cordoba
+Rating: 10/10
+Clinic visited: Policlínica General Paz
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 6 for Dr. Sandra Medina, Pathology, Cordoba
+Rating: 8/10
+Clinic visited: Policlínica General Paz
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Cordoba. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Sandra Medina, Pathology, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: The treatment plan from Dr. Sandra Medina made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Sandra Medina, Pathology, Cordoba
+Rating: 10/10
+Clinic visited: Policlínica General Paz
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Sandra Medina, Pathology, Cordoba
+Rating: 9/10
+Clinic visited: Consultorios Médicos Colón
+Description: Booking online at Consultorios Médicos Colón was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 10 for Dr. Sandra Medina, Pathology, Cordoba
+Rating: 6/10
+Clinic visited: Consultorios Médicos Colón
+Description: Quick appointment and a fair price in Cordoba, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 11 for Dr. Sandra Medina, Pathology, Cordoba
+Rating: 8/10
+Clinic visited: Policlínica General Paz
+Description: Paperwork at Policlínica General Paz was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 12 for Dr. Sandra Medina, Pathology, Cordoba
+Rating: 7/10
+Clinic visited: Policlínica General Paz
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Sandra Medina, Pathology, Cordoba: 8.17/10 from 12 reviews

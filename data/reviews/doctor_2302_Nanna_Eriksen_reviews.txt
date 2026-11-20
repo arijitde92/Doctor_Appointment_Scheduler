@@ -1,0 +1,54 @@
+Doctor: Dr. Nanna Eriksen
+Doctor ID: 2302
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 15
+City: Aarhus, Denmark
+Clinics: Lægehuset Søndergade Plus (clinic ID 300); Lægehuset Ryesgade Park (clinic ID 303); Klinik Åboulevarden Aarhus (clinic ID 304)
+
+Review 1 for Dr. Nanna Eriksen, Psychiatry, Aarhus
+Rating: 7/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Nanna Eriksen, Psychiatry, Aarhus
+Rating: 9/10
+Clinic visited: Lægehuset Søndergade Plus
+Description: Telehealth follow-ups at Lægehuset Søndergade Plus are punctual and calm, and refills are dealt with quickly.
+
+Review 3 for Dr. Nanna Eriksen, Psychiatry, Aarhus
+Rating: 9/10
+Clinic visited: Lægehuset Ryesgade Park
+Description: I appreciated that she offered more than one option and let me choose what suited my life. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Nanna Eriksen, Psychiatry, Aarhus
+Rating: 10/10
+Clinic visited: Lægehuset Søndergade Plus
+Description: My family was included in a session at my request, and Dr. Nanna Eriksen handled it with great tact. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 5 for Dr. Nanna Eriksen, Psychiatry, Aarhus
+Rating: 6/10
+Clinic visited: Lægehuset Ryesgade Park
+Description: Good bedside manner from Dr. Nanna Eriksen, but the parking near Lægehuset Ryesgade Park is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Nanna Eriksen, Psychiatry, Aarhus
+Rating: 9/10
+Clinic visited: Lægehuset Søndergade Plus
+Description: Appointments in Aarhus are always on schedule, and the waiting area is peaceful and private. At my visit, Dr. Nanna Eriksen took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 7 for Dr. Nanna Eriksen, Psychiatry, Aarhus
+Rating: 8/10
+Clinic visited: Lægehuset Ryesgade Park
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. Getting to Lægehuset Ryesgade Park by public transport in Aarhus was easy, and there is a step-free entrance for wheelchairs. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Nanna Eriksen, Psychiatry, Aarhus
+Rating: 8/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Booking online at Klinik Åboulevarden Aarhus was simple, and I got a confirmation text with clear directions and a reminder the day before. The ADHD assessment by Dr. Nanna Eriksen was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 9 for Dr. Nanna Eriksen, Psychiatry, Aarhus
+Rating: 7/10
+Clinic visited: Lægehuset Ryesgade Park
+Description: Dr. Nanna Eriksen is knowledgeable, though I waited several weeks for my first appointment.
+
+Overall rating for Dr. Nanna Eriksen, Psychiatry, Aarhus: 8.11/10 from 9 reviews

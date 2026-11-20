@@ -1,0 +1,64 @@
+Doctor: Dr. Hamad Al Marri
+Doctor ID: 6013
+Specialization: General
+Gender: Male
+Years of experience: 3
+City: Abu Dhabi, UAE
+Clinics: Khalidiya Family Clinic (clinic ID 776); Al Reem Care Polyclinic (clinic ID 777)
+
+Review 1 for Dr. Hamad Al Marri, General, Abu Dhabi
+Rating: 7/10
+Clinic visited: Khalidiya Family Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 2 for Dr. Hamad Al Marri, General, Abu Dhabi
+Rating: 7/10
+Clinic visited: Khalidiya Family Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Hamad Al Marri, General, Abu Dhabi
+Rating: 8/10
+Clinic visited: Khalidiya Family Clinic
+Description: Dr. Hamad Al Marri spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Hamad Al Marri, General, Abu Dhabi
+Rating: 7/10
+Clinic visited: Al Reem Care Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Hamad Al Marri, General, Abu Dhabi
+Rating: 5/10
+Clinic visited: Khalidiya Family Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Hamad Al Marri, General, Abu Dhabi
+Rating: 8/10
+Clinic visited: Al Reem Care Polyclinic
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. Booking online at Al Reem Care Polyclinic was simple, and I got a confirmation text with clear directions and a reminder the day before. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Hamad Al Marri, General, Abu Dhabi
+Rating: 8/10
+Clinic visited: Khalidiya Family Clinic
+Description: By the time I left the room, Dr. Hamad Al Marri had sorted the sick note, referral letter and prescription refill. At my visit, Dr. Hamad Al Marri took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 8 for Dr. Hamad Al Marri, General, Abu Dhabi
+Rating: 7/10
+Clinic visited: Al Reem Care Polyclinic
+Description: The treatment plan from Dr. Hamad Al Marri made sense, but I wished it had been written down for me to take away. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Al Reem Care Polyclinic were inconsistent. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Hamad Al Marri, General, Abu Dhabi
+Rating: 4/10
+Clinic visited: Khalidiya Family Clinic
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found. My persistent fatigue was brushed aside as stress by Dr. Hamad Al Marri, and it took a second doctor to find the actual cause.
+
+Review 10 for Dr. Hamad Al Marri, General, Abu Dhabi
+Rating: 7/10
+Clinic visited: Al Reem Care Polyclinic
+Description: Referrals from Dr. Hamad Al Marri are handled well, but getting test results back took longer than I was told to expect. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 11 for Dr. Hamad Al Marri, General, Abu Dhabi
+Rating: 6/10
+Clinic visited: Khalidiya Family Clinic
+Description: Dr. Hamad Al Marri is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Hamad Al Marri, General, Abu Dhabi: 6.73/10 from 11 reviews

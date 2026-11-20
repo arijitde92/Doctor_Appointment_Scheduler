@@ -1,0 +1,59 @@
+Doctor: Dr. Anne Mattila
+Doctor ID: 1845
+Specialization: Cardiology
+Gender: Female
+Years of experience: 4
+City: Helsinki, Finland
+Clinics: Lääkärikeskus Mannerheimintie Plus (clinic ID 240)
+
+Review 1 for Dr. Anne Mattila, Cardiology, Helsinki
+Rating: 6/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: I liked the advice I got from Dr. Anne Mattila, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Anne Mattila, Cardiology, Helsinki
+Rating: 9/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: The waiting room at Lääkärikeskus Mannerheimintie Plus was clean, quiet and comfortable, with enough seating and water available. After my palpitations began, Dr. Anne Mattila arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 3 for Dr. Anne Mattila, Cardiology, Helsinki
+Rating: 9/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 4 for Dr. Anne Mattila, Cardiology, Helsinki
+Rating: 10/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Anne Mattila, Cardiology, Helsinki
+Rating: 8/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Anne Mattila, Cardiology, Helsinki
+Rating: 7/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: Dr. Anne Mattila was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Helpful with my cholesterol, Dr. Anne Mattila still gave dietary advice that was a little generic.
+
+Review 7 for Dr. Anne Mattila, Cardiology, Helsinki
+Rating: 7/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 8 for Dr. Anne Mattila, Cardiology, Helsinki
+Rating: 8/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: Clear and calm advice at Lääkärikeskus Mannerheimintie Plus about exercise after my stent, including a gradual written schedule. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 9 for Dr. Anne Mattila, Cardiology, Helsinki
+Rating: 8/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. Everything was explained in plain English by Dr. Anne Mattila, and nothing was left to guess.
+
+Review 10 for Dr. Anne Mattila, Cardiology, Helsinki
+Rating: 9/10
+Clinic visited: Lääkärikeskus Mannerheimintie Plus
+Description: Dr. Anne Mattila drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Overall rating for Dr. Anne Mattila, Cardiology, Helsinki: 8.10/10 from 10 reviews

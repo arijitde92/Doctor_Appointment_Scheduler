@@ -1,0 +1,69 @@
+Doctor: Dr. Yoon So-yeon
+Doctor ID: 4242
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 1
+City: Incheon, South Korea
+Clinics: Bupyeong Hanul Family Clinic (clinic ID 546); Songdo Garam Health Clinic (clinic ID 547); Cheongna Dure Medical Clinic (clinic ID 549)
+
+Review 1 for Dr. Yoon So-yeon, Pulmonology, Incheon
+Rating: 10/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: After years of poorly controlled asthma, Dr. Yoon So-yeon reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 2 for Dr. Yoon So-yeon, Pulmonology, Incheon
+Rating: 9/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: Prescriptions from Dr. Yoon So-yeon were sent to my pharmacy before I even left the building, and the dosage instructions were written down. The allergy-related asthma triggers we identified have made a visible difference to my winters in Incheon.
+
+Review 3 for Dr. Yoon So-yeon, Pulmonology, Incheon
+Rating: 6/10
+Clinic visited: Songdo Garam Health Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Yoon So-yeon, Pulmonology, Incheon
+Rating: 10/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Yoon So-yeon.
+
+Review 5 for Dr. Yoon So-yeon, Pulmonology, Incheon
+Rating: 7/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Cheongna Dure Medical Clinic regularly exceeded forty minutes.
+
+Review 6 for Dr. Yoon So-yeon, Pulmonology, Incheon
+Rating: 9/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: Dr. Yoon So-yeon double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 7 for Dr. Yoon So-yeon, Pulmonology, Incheon
+Rating: 10/10
+Clinic visited: Songdo Garam Health Clinic
+Description: My oxygen levels are monitored carefully at Songdo Garam Health Clinic, and the home equipment was arranged without any hassle. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Yoon So-yeon, Pulmonology, Incheon
+Rating: 7/10
+Clinic visited: Songdo Garam Health Clinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Yoon So-yeon, Pulmonology, Incheon
+Rating: 10/10
+Clinic visited: Songdo Garam Health Clinic
+Description: I always leave Dr. Yoon So-yeon's office with a written summary of my breathing test results and what changed since the last visit. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 10 for Dr. Yoon So-yeon, Pulmonology, Incheon
+Rating: 10/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: At my visit, Dr. Yoon So-yeon took notes on my medication list, checked for interactions and explained the changes simply. At Cheongna Dure Medical Clinic, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 11 for Dr. Yoon So-yeon, Pulmonology, Incheon
+Rating: 7/10
+Clinic visited: Songdo Garam Health Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Good advice about triggers, but the clinic's phone line is difficult to get through to. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 12 for Dr. Yoon So-yeon, Pulmonology, Incheon
+Rating: 8/10
+Clinic visited: Bupyeong Hanul Family Clinic
+Description: She took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Yoon So-yeon, Pulmonology, Incheon: 8.58/10 from 12 reviews

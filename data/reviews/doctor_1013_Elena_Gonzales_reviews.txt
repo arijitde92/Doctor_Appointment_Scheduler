@@ -1,0 +1,64 @@
+Doctor: Dr. Elena Gonzales
+Doctor ID: 1013
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 7
+City: Trujillo, Peru
+Clinics: Consultorios Médicos Mansiche (clinic ID 132); Policlínica América Sur (clinic ID 133)
+
+Review 1 for Dr. Elena Gonzales, Pediatrics, Trujillo
+Rating: 8/10
+Clinic visited: Policlínica América Sur
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 2 for Dr. Elena Gonzales, Pediatrics, Trujillo
+Rating: 8/10
+Clinic visited: Policlínica América Sur
+Description: Our newborn check-ups with Dr. Elena Gonzales were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Review 3 for Dr. Elena Gonzales, Pediatrics, Trujillo
+Rating: 6/10
+Clinic visited: Policlínica América Sur
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Elena Gonzales is thorough with exams, but the after-hours phone line at Policlínica América Sur is hard to reach. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Elena Gonzales, Pediatrics, Trujillo
+Rating: 10/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 5 for Dr. Elena Gonzales, Pediatrics, Trujillo
+Rating: 7/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Caring and gentle with my child, Dr. Elena Gonzales nonetheless ran forty minutes behind schedule at most appointments. Quick appointment and a fair price in Trujillo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Elena Gonzales, Pediatrics, Trujillo
+Rating: 8/10
+Clinic visited: Policlínica América Sur
+Description: The waiting room in Trujillo has a play corner and separate seating for sick children, which I really valued. A translator was arranged for my mother without us asking twice, and Dr. Elena Gonzales spoke directly to her throughout.
+
+Review 7 for Dr. Elena Gonzales, Pediatrics, Trujillo
+Rating: 8/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Dr. Elena Gonzales double-checked my allergy list before prescribing anything, and that careful habit earned my trust. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Elena Gonzales, Pediatrics, Trujillo
+Rating: 6/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 9 for Dr. Elena Gonzales, Pediatrics, Trujillo
+Rating: 6/10
+Clinic visited: Policlínica América Sur
+Description: The treatment plan from Dr. Elena Gonzales made sense, but I wished it had been written down for me to take away. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Elena Gonzales, Pediatrics, Trujillo
+Rating: 8/10
+Clinic visited: Policlínica América Sur
+Description: My child's asthma action plan from Dr. Elena Gonzales was written out clearly so that school staff could follow it too.
+
+Review 11 for Dr. Elena Gonzales, Pediatrics, Trujillo
+Rating: 7/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Elena Gonzales, Pediatrics, Trujillo: 7.45/10 from 11 reviews

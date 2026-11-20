@@ -1,0 +1,64 @@
+Doctor: Dr. Emma Johansen
+Doctor ID: 2328
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 27
+City: Aarhus, Denmark
+Clinics: Klinik Åboulevarden Aarhus (clinic ID 304)
+
+Review 1 for Dr. Emma Johansen, Pulmonology, Aarhus
+Rating: 5/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Dr. Emma Johansen adjusted my asthma medication well, but the breathing test appointment was a month away. Booking was easy online, but the confirmation email contained the wrong address for Klinik Åboulevarden Aarhus. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Emma Johansen, Pulmonology, Aarhus
+Rating: 7/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Pleasant manner and careful lung exam, though the waiting time at Klinik Åboulevarden Aarhus regularly exceeded forty minutes. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Emma Johansen, Pulmonology, Aarhus
+Rating: 6/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Dr. Emma Johansen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Emma Johansen, Pulmonology, Aarhus
+Rating: 4/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Dr. Emma Johansen rushed through my scan results and I left the room unsure whether I needed treatment.
+
+Review 5 for Dr. Emma Johansen, Pulmonology, Aarhus
+Rating: 5/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: The treatment plan from Dr. Emma Johansen made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Emma Johansen, Pulmonology, Aarhus
+Rating: 6/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Good bedside manner from Dr. Emma Johansen, but the parking near Klinik Åboulevarden Aarhus is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Emma Johansen, Pulmonology, Aarhus
+Rating: 3/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: I was told to just keep using my inhaler and nobody checked whether I was using it properly. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 8 for Dr. Emma Johansen, Pulmonology, Aarhus
+Rating: 5/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Quick appointment and a fair price in Aarhus, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 9 for Dr. Emma Johansen, Pulmonology, Aarhus
+Rating: 5/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Helpful and honest about my prognosis, Dr. Emma Johansen could still have given me more written material to take home. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 10 for Dr. Emma Johansen, Pulmonology, Aarhus
+Rating: 6/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: I liked the advice I got from Dr. Emma Johansen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 11 for Dr. Emma Johansen, Pulmonology, Aarhus
+Rating: 6/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Overall rating for Dr. Emma Johansen, Pulmonology, Aarhus: 5.27/10 from 11 reviews

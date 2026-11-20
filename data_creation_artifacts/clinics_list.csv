@@ -1,14 +1,875 @@
-1. Apex Clinic. Address: "1219, Sammilani Park Rd, near Big Bazaar-KOLKATA-HILAND PARK-THE METROPOLIS, Hiland Park, Survey Park, Santoshpur, Kolkata, West Bengal 700099"
-2. Manipal Clinic. Address: "C.I.T Scheme, Gariahat Rd, Dhakuria, LXXII Block A, P-4 & 5, Kolkata, West Bengal 700029"
-3. Apollo Clinic. Address: "56, Leela, Jamini Roy Sarani, Dover Terrace, Ballygunge, Kolkata, West Bengal 700019"
-4. CRMS Clinic. Address: "294, Mahatma Gandhi Rd, Jiban Mohini Ghosh Park, Paschim Putiary, Kolkata, West Bengal 700082"
-5. Belle Vue Clinic. Address: "9, Formerly, Sir UN Brahmachari Sarani, Kolkata, West Bengal 700017"
-6. NRS Clinic. Address: "138, Acharya Jagdish Chandra Bose Rd, Sealdah, Raja Bazar, Kolkata, West Bengal 700014"
-7. ILS Clinic. Address: "DD 6, Salt Lake Bypass, DD Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064"
-8. Midland Clinic. Address: "13A, Mohendra Bose Ln, Mahendra Colony, Bidhan Sarani, Baghbazar, Kolkata, West Bengal 700003"
-9. Ohio Clinic. Address: "Service Road, Plot No. DG-6, Street Number 358, Kolkata, West Bengal 700156"
-10. Aastha Clinic. Address: "Unit 238, PS Abacus, Action Area II, Newtown, Kolkata, New Town, West Bengal 700161"
-11. Atreya Clinic. Address: "25(1012), 5 NO.KHALISHAKOTA PALLY, Khalisha Kota, Birati, Kolkata, West Bengal 700051"
-12. Lifeline Clinic. Address: "237/1, Surya Sen Rd, Satin Sen Nagar, more, New Barrakpur, Kolkata, West Bengal 700131"
-13. Sagar Clinic. Address: "MRI SERVICE AND EMERGENCY WARD, Graham Rd, Kamarhati, Kolkata, West Bengal 700058"
-14. INK Clinic. Address: "185, Acharya Jagdish Chandra Bose Rd, Elgin, Kolkata, West Bengal 700017"
+clinic_id,clinic_name,address,city,state_region,country,postal_code,time_zone
+1,Apex Clinic,"1219, Sammilani Park Rd, near Big Bazaar-KOLKATA-HILAND PARK-THE METROPOLIS, Hiland Park, Survey Park, Santoshpur, Kolkata, West Bengal 700099",Kolkata,West Bengal,India,700099,Asia/Kolkata
+2,Manipal Clinic,"C.I.T Scheme, Gariahat Rd, Dhakuria, LXXII Block A, P-4 & 5, Kolkata, West Bengal 700029",Kolkata,West Bengal,India,700029,Asia/Kolkata
+3,Apollo Clinic,"56, Leela, Jamini Roy Sarani, Dover Terrace, Ballygunge, Kolkata, West Bengal 700019",Kolkata,West Bengal,India,700019,Asia/Kolkata
+4,CRMS Clinic,"294, Mahatma Gandhi Rd, Jiban Mohini Ghosh Park, Paschim Putiary, Kolkata, West Bengal 700082",Kolkata,West Bengal,India,700082,Asia/Kolkata
+5,Belle Vue Clinic,"9, Formerly, Sir UN Brahmachari Sarani, Kolkata, West Bengal 700017",Kolkata,West Bengal,India,700017,Asia/Kolkata
+6,NRS Clinic,"138, Acharya Jagdish Chandra Bose Rd, Sealdah, Raja Bazar, Kolkata, West Bengal 700014",Kolkata,West Bengal,India,700014,Asia/Kolkata
+7,ILS Clinic,"DD 6, Salt Lake Bypass, DD Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",Kolkata,West Bengal,India,700064,Asia/Kolkata
+8,Midland Clinic,"13A, Mohendra Bose Ln, Mahendra Colony, Bidhan Sarani, Baghbazar, Kolkata, West Bengal 700003",Kolkata,West Bengal,India,700003,Asia/Kolkata
+9,Ohio Clinic,"Service Road, Plot No. DG-6, Street Number 358, Kolkata, West Bengal 700156",Kolkata,West Bengal,India,700156,Asia/Kolkata
+10,Aastha Clinic,"Unit 238, PS Abacus, Action Area II, Newtown, Kolkata, New Town, West Bengal 700161",Kolkata,West Bengal,India,700161,Asia/Kolkata
+11,Atreya Clinic,"25(1012), 5 NO.KHALISHAKOTA PALLY, Khalisha Kota, Birati, Kolkata, West Bengal 700051",Kolkata,West Bengal,India,700051,Asia/Kolkata
+12,Lifeline Clinic,"237/1, Surya Sen Rd, Satin Sen Nagar, more, New Barrakpur, Kolkata, West Bengal 700131",Kolkata,West Bengal,India,700131,Asia/Kolkata
+13,Sagar Clinic,"MRI SERVICE AND EMERGENCY WARD, Graham Rd, Kamarhati, Kolkata, West Bengal 700058",Kolkata,West Bengal,India,700058,Asia/Kolkata
+14,INK Clinic,"185, Acharya Jagdish Chandra Bose Rd, Elgin, Kolkata, West Bengal 700017",Kolkata,West Bengal,India,700017,Asia/Kolkata
+15,Lakeshore Internal Medicine,"55 E Monroe St, Chicago, IL 60603, USA",Chicago,Illinois,USA,60603,America/Chicago
+16,Lincoln Park Family Clinic,"2500 N Lincoln Ave, Chicago, IL 60614, USA",Chicago,Illinois,USA,60614,America/Chicago
+17,Northside Care Partners,"1700 W Irving Park Rd, Chicago, IL 60613, USA",Chicago,Illinois,USA,60613,America/Chicago
+18,Hyde Park Medical Associates,"1507 E 53rd St, Chicago, IL 60615, USA",Chicago,Illinois,USA,60615,America/Chicago
+19,Windy City Urgent and Primary Care,"35 E Wacker Dr, Chicago, IL 60601, USA",Chicago,Illinois,USA,60601,America/Chicago
+20,Bayou City Family Medicine,"2929 Weslayan St, Houston, TX 77027, USA",Houston,Texas,USA,77027,America/Chicago
+21,Galleria Medical Group,"1800 Post Oak Blvd, Houston, TX 77056, USA",Houston,Texas,USA,77056,America/Chicago
+22,Downtown Houston Health Center,"1001 Texas Ave, Houston, TX 77002, USA",Houston,Texas,USA,77002,America/Chicago
+23,Westchase Primary Care,"3200 Wilcrest Dr, Houston, TX 77042, USA",Houston,Texas,USA,77042,America/Chicago
+24,Montrose Wellness Associates,"1200 Smith St, Houston, TX 77002, USA",Houston,Texas,USA,77002,America/Chicago
+25,Parkview Primary Care Associates,"575 Lexington Ave, New York, NY 10022, USA",New York,New York,USA,10022,America/New_York
+26,Midtown Family Medical Group,"1633 Broadway, New York, NY 10019, USA",New York,New York,USA,10019,America/New_York
+27,Union Square Health Practice,"1 Union Square W, New York, NY 10003, USA",New York,New York,USA,10003,America/New_York
+28,Brooklyn Heights Wellness Clinic,"1 MetroTech Center, Brooklyn, NY 11201, USA",New York,New York,USA,11201,America/New_York
+29,Forest Hills Medical Arts,"107-40 Queens Blvd, Forest Hills, NY 11375, USA",New York,New York,USA,11375,America/New_York
+30,Golden Gate Family Practice,"450 Sutter St, San Francisco, CA 94108, USA",San Francisco,California,USA,94108,America/Los_Angeles
+31,Van Ness Medical Group,"1800 Van Ness Ave, San Francisco, CA 94109, USA",San Francisco,California,USA,94109,America/Los_Angeles
+32,Cow Hollow Health Associates,"2001 Union St, San Francisco, CA 94123, USA",San Francisco,California,USA,94123,America/Los_Angeles
+33,Sunset District Clinic,"2300 Irving St, San Francisco, CA 94122, USA",San Francisco,California,USA,94122,America/Los_Angeles
+34,Mission Bay Primary Care,"185 Berry St, San Francisco, CA 94107, USA",San Francisco,California,USA,94107,America/Los_Angeles
+35,Prairie Sky Medical Clinic,"205 5 Ave SW, Calgary, AB T2P 2V7, Canada",Calgary,Alberta,Canada,T2P 2V7,America/Edmonton
+36,Beltline Family Health,"1111 11 Ave SW, Calgary, AB T2R 0G5, Canada",Calgary,Alberta,Canada,T2R 0G5,America/Edmonton
+37,Bow Valley Health Practice,"3625 Shaganappi Trail NW, Calgary, AB T3A 0E2, Canada",Calgary,Alberta,Canada,T3A 0E2,America/Edmonton
+38,Southland Medical Centre,"540 5 Ave SW, Calgary, AB T2P 0M2, Canada",Calgary,Alberta,Canada,T2P 0M2,America/Edmonton
+39,Foothills Family Clinic,"999 36 St NE, Calgary, AB T2A 7X6, Canada",Calgary,Alberta,Canada,T2A 7X6,America/Edmonton
+40,Clinique Médicale du Plateau,"5800 Rue Saint-Denis, Montréal, QC H2S 3L5, Canada",Montreal,Quebec,Canada,H2S 3L5,America/Toronto
+41,Centre Médical René-Lévesque,"1250 Boulevard René-Lévesque O, Montréal, QC H3B 4W8, Canada",Montreal,Quebec,Canada,H3B 4W8,America/Toronto
+42,Clinique Santé Côte-des-Neiges,"5252 Boulevard de Maisonneuve O, Montréal, QC H4A 3S5, Canada",Montreal,Quebec,Canada,H4A 3S5,America/Toronto
+43,Polyclinique du Parc,"7077 Avenue du Parc, Montréal, QC H3N 1X7, Canada",Montreal,Quebec,Canada,H3N 1X7,America/Toronto
+44,Clinique Médicale McGill Collège,"2001 Avenue McGill College, Montréal, QC H3A 1G1, Canada",Montreal,Quebec,Canada,H3A 1G1,America/Toronto
+45,Bloor Street Family Health,"2 Bloor St W, Toronto, ON M4W 3E2, Canada",Toronto,Ontario,Canada,M4W 3E2,America/Toronto
+46,Willowdale Medical Centre,"5140 Yonge St, Toronto, ON M2N 6L7, Canada",Toronto,Ontario,Canada,M2N 6L7,America/Toronto
+47,Midtown Toronto Health Practice,"2300 Yonge St, Toronto, ON M4P 1E4, Canada",Toronto,Ontario,Canada,M4P 1E4,America/Toronto
+48,Etobicoke Care Clinic,"170 Attwell Dr, Etobicoke, ON M9W 5Z5, Canada",Toronto,Ontario,Canada,M9W 5Z5,America/Toronto
+49,Scarborough Wellness Medical Centre,"2900 Warden Ave, Scarborough, ON M1W 2S8, Canada",Toronto,Ontario,Canada,M1W 2S8,America/Toronto
+50,Georgia Street Medical Clinic,"1177 W Hastings St, Vancouver, BC V6E 2K3, Canada",Vancouver,British Columbia,Canada,V6E 2K3,America/Vancouver
+51,Broadway Family Practice,"1111 W Georgia St, Vancouver, BC V6E 4M3, Canada",Vancouver,British Columbia,Canada,V6E 4M3,America/Vancouver
+52,Yaletown Health Centre,"1100 Melville St, Vancouver, BC V6E 4A6, Canada",Vancouver,British Columbia,Canada,V6E 4A6,America/Vancouver
+53,South Granville Medical Group,"3195 Granville St, Vancouver, BC V6H 3K2, Canada",Vancouver,British Columbia,Canada,V6H 3K2,America/Vancouver
+54,Kitsilano Community Clinic,"2150 W Broadway, Vancouver, BC V6K 4L9, Canada",Vancouver,British Columbia,Canada,V6K 4L9,America/Vancouver
+55,Clínica Providencia Occidente,"Av. Américas 1500, Country Club, 44610 Guadalajara, Jal., Mexico",Guadalajara,Jalisco,Mexico,44610,America/Mexico_City
+56,Centro Médico Andares,"Blvd. Puerta de Hierro 4965, Puerta de Hierro, 45116 Zapopan, Jal., Mexico",Guadalajara,Jalisco,Mexico,45116,America/Mexico_City
+57,Clínica del Carmen Tapatía,"Av. Vallarta 2425, Arcos Vallarta, 44130 Guadalajara, Jal., Mexico",Guadalajara,Jalisco,Mexico,44130,America/Mexico_City
+58,Consultorios Médicos Chapalita,"Av. Vallarta 6503, Ciudad Granja, 45010 Zapopan, Jal., Mexico",Guadalajara,Jalisco,Mexico,45010,America/Mexico_City
+59,Policlínica Minerva,"Av. Chapultepec Sur 480, Americana, 44160 Guadalajara, Jal., Mexico",Guadalajara,Jalisco,Mexico,44160,America/Mexico_City
+60,Clínica Santa Brígida,"Av. Insurgentes Sur 1971, Guadalupe Inn, Álvaro Obregón, 01020 Ciudad de México, CDMX, Mexico",Mexico City,Ciudad de Mexico,Mexico,01020,America/Mexico_City
+61,Centro Médico Polanco Norte,"Av. Presidente Masaryk 111, Polanco, Miguel Hidalgo, 11560 Ciudad de México, CDMX, Mexico",Mexico City,Ciudad de Mexico,Mexico,11560,America/Mexico_City
+62,Consultorios Médicos Coyoacán,"Av. Universidad 1900, Oxtopulco, Coyoacán, 04318 Ciudad de México, CDMX, Mexico",Mexico City,Ciudad de Mexico,Mexico,04318,America/Mexico_City
+63,Clínica Familiar del Valle,"Av. Insurgentes Sur 800, Del Valle Centro, Benito Juárez, 03100 Ciudad de México, CDMX, Mexico",Mexico City,Ciudad de Mexico,Mexico,03100,America/Mexico_City
+64,Policlínica Reforma,"Paseo de la Reforma 265, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",Mexico City,Ciudad de Mexico,Mexico,06500,America/Mexico_City
+65,Clínica San Jerónimo Norte,"Av. Insurgentes 2500, Vista Hermosa, 64620 Monterrey, N.L., Mexico",Monterrey,Nuevo Leon,Mexico,64620,America/Monterrey
+66,Centro Médico Valle Oriente,"Av. Vasconcelos 345, Del Valle, 66220 San Pedro Garza García, N.L., Mexico",Monterrey,Nuevo Leon,Mexico,66220,America/Monterrey
+67,Consultorios Médicos Contry,"Av. Ricardo Margáin Zozaya 444, Valle del Campestre, 66265 San Pedro Garza García, N.L., Mexico",Monterrey,Nuevo Leon,Mexico,66265,America/Monterrey
+68,Clínica Familiar Cumbres,"Av. Paseo de los Leones 1000, Cumbres, 64610 Monterrey, N.L., Mexico",Monterrey,Nuevo Leon,Mexico,64610,America/Monterrey
+69,Policlínica Centro Regio,"Av. Constitución 300 Ote., Centro, 64000 Monterrey, N.L., Mexico",Monterrey,Nuevo Leon,Mexico,64000,America/Monterrey
+70,Clínica Angelópolis,"Blvd. Atlixcáyotl 5208, Reserva Territorial Atlixcáyotl, 72190 Puebla, Pue., Mexico",Puebla,Puebla,Mexico,72190,America/Mexico_City
+71,Centro Médico La Paz Poblano,"Av. Juárez 2102, La Paz, 72160 Puebla, Pue., Mexico",Puebla,Puebla,Mexico,72160,America/Mexico_City
+72,Consultorios Médicos Las Ánimas,"Blvd. Atlixcáyotl 2501, 72810 Puebla, Pue., Mexico",Puebla,Puebla,Mexico,72810,America/Mexico_City
+73,Clínica Familiar San Manuel,"Av. 14 Poniente 502, Centro, 72000 Puebla, Pue., Mexico",Puebla,Puebla,Mexico,72000,America/Mexico_City
+74,Policlínica Zavaleta,"Blvd. Atlixcáyotl 5718, Concepción la Cruz, 72197 Puebla, Pue., Mexico",Puebla,Puebla,Mexico,72197,America/Mexico_City
+75,Clínica Savassi Saúde,"Av. Afonso Pena 1500, Centro, Belo Horizonte, MG, 30130-921, Brazil",Belo Horizonte,Minas Gerais,Brazil,30130-921,America/Sao_Paulo
+76,Centro Médico Contorno,"Av. do Contorno 6000, Funcionários, Belo Horizonte, MG, 30110-044, Brazil",Belo Horizonte,Minas Gerais,Brazil,30110-044,America/Sao_Paulo
+77,Policlínica Lourdes,"Rua da Bahia 1000, Lourdes, Belo Horizonte, MG, 30160-011, Brazil",Belo Horizonte,Minas Gerais,Brazil,30160-011,America/Sao_Paulo
+78,Clínica Mangabeiras Vida,"Av. Bias Fortes 1000, Lourdes, Belo Horizonte, MG, 30170-011, Brazil",Belo Horizonte,Minas Gerais,Brazil,30170-011,America/Sao_Paulo
+79,Instituto de Medicina Cristiano Machado,"Av. Cristiano Machado 4000, União, Belo Horizonte, MG, 31160-000, Brazil",Belo Horizonte,Minas Gerais,Brazil,31160-000,America/Sao_Paulo
+80,Clínica Batel Saúde Integral,"Av. do Batel 1868, Batel, Curitiba, PR, 80420-090, Brazil",Curitiba,Parana,Brazil,80420-090,America/Sao_Paulo
+81,Centro Médico Rua XV,"Rua XV de Novembro 700, Centro, Curitiba, PR, 80020-310, Brazil",Curitiba,Parana,Brazil,80020-310,America/Sao_Paulo
+82,Policlínica Água Verde,"Av. República Argentina 1000, Água Verde, Curitiba, PR, 80620-010, Brazil",Curitiba,Parana,Brazil,80620-010,America/Sao_Paulo
+83,Clínica Portão Familiar,"Av. República Argentina 2800, Portão, Curitiba, PR, 80610-260, Brazil",Curitiba,Parana,Brazil,80610-260,America/Sao_Paulo
+84,Instituto de Saúde Marechal,"Rua Marechal Deodoro 630, Centro, Curitiba, PR, 80010-010, Brazil",Curitiba,Parana,Brazil,80010-010,America/Sao_Paulo
+85,Clínica Copacabana Bem-Estar,"Av. Atlântica 1702, Copacabana, Rio de Janeiro, RJ, 22021-001, Brazil",Rio de Janeiro,Rio de Janeiro,Brazil,22021-001,America/Sao_Paulo
+86,Centro Médico Ipanema Sul,"Rua Visconde de Pirajá 414, Ipanema, Rio de Janeiro, RJ, 22410-002, Brazil",Rio de Janeiro,Rio de Janeiro,Brazil,22410-002,America/Sao_Paulo
+87,Policlínica Barra Saúde,"Av. das Américas 3500, Barra da Tijuca, Rio de Janeiro, RJ, 22640-102, Brazil",Rio de Janeiro,Rio de Janeiro,Brazil,22640-102,America/Sao_Paulo
+88,Clínica Botafogo Familiar,"Rua Voluntários da Pátria 190, Botafogo, Rio de Janeiro, RJ, 22270-010, Brazil",Rio de Janeiro,Rio de Janeiro,Brazil,22270-010,America/Sao_Paulo
+89,Centro de Saúde Tijuca Vida,"Rua Conde de Bonfim 370, Tijuca, Rio de Janeiro, RJ, 20520-054, Brazil",Rio de Janeiro,Rio de Janeiro,Brazil,20520-054,America/Sao_Paulo
+90,Clínica Vila Madalena Saúde,"Rua Oscar Freire 379, Cerqueira César, São Paulo, SP, 01426-001, Brazil",Sao Paulo,Sao Paulo,Brazil,01426-001,America/Sao_Paulo
+91,Centro Médico Faria Lima,"Av. Brigadeiro Faria Lima 1811, Jardim Paulistano, São Paulo, SP, 01452-001, Brazil",Sao Paulo,Sao Paulo,Brazil,01452-001,America/Sao_Paulo
+92,Policlínica Paulista Vida,"Av. Paulista 1842, Bela Vista, São Paulo, SP, 01310-200, Brazil",Sao Paulo,Sao Paulo,Brazil,01310-200,America/Sao_Paulo
+93,Clínica Santo Amaro Integrada,"Av. Engenheiro Luís Carlos Berrini 105, Cidade Monções, São Paulo, SP, 04571-010, Brazil",Sao Paulo,Sao Paulo,Brazil,04571-010,America/Sao_Paulo
+94,Instituto de Saúde Rebouças,"Av. Rebouças 3970, Pinheiros, São Paulo, SP, 05402-600, Brazil",Sao Paulo,Sao Paulo,Brazil,05402-600,America/Sao_Paulo
+95,Centro Médico Recoleta Norte,"Av. Callao 1200, C1023 Buenos Aires, CABA, Argentina",Buenos Aires,Ciudad Autonoma de Buenos Aires,Argentina,C1023,America/Argentina/Buenos_Aires
+96,Clínica Belgrano Salud,"Av. Cabildo 2040, C1428 Buenos Aires, CABA, Argentina",Buenos Aires,Ciudad Autonoma de Buenos Aires,Argentina,C1428,America/Argentina/Buenos_Aires
+97,Consultorios Médicos Caballito,"Av. Rivadavia 5000, C1424 Buenos Aires, CABA, Argentina",Buenos Aires,Ciudad Autonoma de Buenos Aires,Argentina,C1424,America/Argentina/Buenos_Aires
+98,Policlínica Palermo Integral,"Av. Las Heras 3500, C1425 Buenos Aires, CABA, Argentina",Buenos Aires,Ciudad Autonoma de Buenos Aires,Argentina,C1425,America/Argentina/Buenos_Aires
+99,Instituto Médico Corrientes,"Av. Corrientes 1800, C1042 Buenos Aires, CABA, Argentina",Buenos Aires,Ciudad Autonoma de Buenos Aires,Argentina,C1042,America/Argentina/Buenos_Aires
+100,Clínica Nueva Córdoba Salud,"Av. Hipólito Yrigoyen 400, X5000 Córdoba, Córdoba, Argentina",Cordoba,Cordoba,Argentina,X5000,America/Argentina/Cordoba
+101,Centro Médico Cerro de las Rosas,"Av. Rafael Núñez 4000, X5009 Córdoba, Córdoba, Argentina",Cordoba,Cordoba,Argentina,X5009,America/Argentina/Cordoba
+102,Consultorios Médicos Colón,"Av. Colón 500, X5000 Córdoba, Córdoba, Argentina",Cordoba,Cordoba,Argentina,X5000,America/Argentina/Cordoba
+103,Policlínica General Paz,"Av. Maipú 300, X5000 Córdoba, Córdoba, Argentina",Cordoba,Cordoba,Argentina,X5000,America/Argentina/Cordoba
+104,Instituto de Salud Vélez Sarsfield,"Av. Vélez Sarsfield 300, X5000 Córdoba, Córdoba, Argentina",Cordoba,Cordoba,Argentina,X5000,America/Argentina/Cordoba
+105,Clínica Cuyo Salud,"Av. Arístides Villanueva 500, M5500 Mendoza, Mendoza, Argentina",Mendoza,Mendoza,Argentina,M5500,America/Argentina/Mendoza
+106,Centro Médico Las Heras,"Av. España 1000, M5500 Mendoza, Mendoza, Argentina",Mendoza,Mendoza,Argentina,M5500,America/Argentina/Mendoza
+107,Consultorios Médicos Aconcagua,"Av. Colón 300, M5500 Mendoza, Mendoza, Argentina",Mendoza,Mendoza,Argentina,M5500,America/Argentina/Mendoza
+108,Policlínica Godoy Cruz,"Av. San Martín 2500, M5501 Godoy Cruz, Mendoza, Argentina",Mendoza,Mendoza,Argentina,M5501,America/Argentina/Mendoza
+109,Instituto de Salud Belgrano,"Av. España 700, M5500 Mendoza, Mendoza, Argentina",Mendoza,Mendoza,Argentina,M5500,America/Argentina/Mendoza
+110,Clínica Oroño Salud,"Calle Mitre 800, S2000 Rosario, Santa Fe, Argentina",Rosario,Santa Fe,Argentina,S2000,America/Argentina/Cordoba
+111,Centro Médico Pellegrini,"Av. Pellegrini 1500, S2000 Rosario, Santa Fe, Argentina",Rosario,Santa Fe,Argentina,S2000,America/Argentina/Cordoba
+112,Consultorios Médicos Córdoba,"Córdoba 1500, S2000 Rosario, Santa Fe, Argentina",Rosario,Santa Fe,Argentina,S2000,America/Argentina/Cordoba
+113,Policlínica Alberdi,"Av. Alberdi 800, S2000 Rosario, Santa Fe, Argentina",Rosario,Santa Fe,Argentina,S2000,America/Argentina/Cordoba
+114,Instituto Médico Fisherton,"Bv. 27 de Febrero 1500, S2000 Rosario, Santa Fe, Argentina",Rosario,Santa Fe,Argentina,S2000,America/Argentina/Cordoba
+115,Clínica Yanahuara Salud,"Av. Ejército 700, Yanahuara, Arequipa 04013, Peru",Arequipa,Arequipa,Peru,04013,America/Lima
+116,Centro Médico Misti,"Av. Parra 500, Cercado, Arequipa 04001, Peru",Arequipa,Arequipa,Peru,04001,America/Lima
+117,Consultorios Médicos Parra,"Av. Parra 300, Cercado, Arequipa 04001, Peru",Arequipa,Arequipa,Peru,04001,America/Lima
+118,Policlínica Bustamante,"Av. Kennedy 500, Arequipa 04013, Peru",Arequipa,Arequipa,Peru,04013,America/Lima
+119,Instituto de Salud Cayma,"Av. Ramón Castilla 300, Cayma, Arequipa 04017, Peru",Arequipa,Arequipa,Peru,04017,America/Lima
+120,Clínica Wanchaq Salud,"Av. de la Cultura 1000, Wanchaq, Cusco 08002, Peru",Cusco,Cusco,Peru,08002,America/Lima
+121,Centro Médico El Sol,"Av. El Sol 800, Cusco 08002, Peru",Cusco,Cusco,Peru,08002,America/Lima
+122,Consultorios Médicos Tullumayo,"Av. Tullumayo 500, Cusco 08002, Peru",Cusco,Cusco,Peru,08002,America/Lima
+123,Policlínica Collasuyo,"Av. Garcilaso 700, Wanchaq, Cusco 08002, Peru",Cusco,Cusco,Peru,08002,America/Lima
+124,Instituto de Salud Garcilaso,"Av. Garcilaso 300, Wanchaq, Cusco 08002, Peru",Cusco,Cusco,Peru,08002,America/Lima
+125,Clínica San Isidro Familiar,"Av. Camino Real 456, San Isidro, Lima 15073, Peru",Lima,Lima,Peru,15073,America/Lima
+126,Centro Médico Miraflores,"Av. Larco 1301, Miraflores, Lima 15074, Peru",Lima,Lima,Peru,15074,America/Lima
+127,Policlínica Benavides,"Av. Javier Prado Este 4200, Santiago de Surco, Lima 15023, Peru",Lima,Lima,Peru,15023,America/Lima
+128,Consultorios Médicos Arequipa,"Av. Arequipa 2000, Lince, Lima 15046, Peru",Lima,Lima,Peru,15046,America/Lima
+129,Clínica La Marina Salud,"Av. La Marina 2000, San Miguel, Lima 15088, Peru",Lima,Lima,Peru,15088,America/Lima
+130,Clínica Primavera Norte,"Av. Ejército 500, Trujillo 13001, Peru",Trujillo,La Libertad,Peru,13001,America/Lima
+131,Centro Médico Larco,"Av. Húsares de Junín 500, Trujillo 13001, Peru",Trujillo,La Libertad,Peru,13001,America/Lima
+132,Consultorios Médicos Mansiche,"Av. Nicolás de Piérola 800, Trujillo 13001, Peru",Trujillo,La Libertad,Peru,13001,America/Lima
+133,Policlínica América Sur,"Calle Pizarro 500, Trujillo 13001, Peru",Trujillo,La Libertad,Peru,13001,America/Lima
+134,Instituto de Salud Víctor Larco,"Calle Gamarra 500, Trujillo 13001, Peru",Trujillo,La Libertad,Peru,13001,America/Lima
+135,Whiteladies Road Health Centre,"30 Queens Road, Bristol BS8 1QU, UK",Bristol,England,UK,BS8 1QU,Europe/London
+136,Park Street Medical Practice,"40 Park Street, Bristol BS1 5JG, UK",Bristol,England,UK,BS1 5JG,Europe/London
+137,Gloucester Road Family Clinic,"200 Gloucester Road, Bristol BS7 8NU, UK",Bristol,England,UK,BS7 8NU,Europe/London
+138,Broad Street Polyclinic,"30 Broad Street, Bristol BS1 2HG, UK",Bristol,England,UK,BS1 2HG,Europe/London
+139,Bedminster Health Practice,"40 East Street, Bristol BS3 4EY, UK",Bristol,England,UK,BS3 4EY,Europe/London
+140,Queen Street Medical Centre,"34 Queen Street, Edinburgh EH2 1JX, UK",Edinburgh,Scotland,UK,EH2 1JX,Europe/London
+141,Princes Street Health Practice,"100 Princes Street, Edinburgh EH2 3AA, UK",Edinburgh,Scotland,UK,EH2 3AA,Europe/London
+142,Morningside Family Clinic,"15 Morningside Road, Edinburgh EH10 4DP, UK",Edinburgh,Scotland,UK,EH10 4DP,Europe/London
+143,Queensferry Street Polyclinic,"20 Queensferry Street, Edinburgh EH2 4QW, UK",Edinburgh,Scotland,UK,EH2 4QW,Europe/London
+144,Raeburn Place Medical Practice,"20 Raeburn Place, Edinburgh EH4 1HN, UK",Edinburgh,Scotland,UK,EH4 1HN,Europe/London
+145,Covent Garden Family Health Practice,"90 Long Acre, London WC2E 9RA, UK",London,England,UK,WC2E 9RA,Europe/London
+146,Cabot Square Medical Centre,"25 Cabot Square, London E14 4QZ, UK",London,England,UK,E14 4QZ,Europe/London
+147,Aldersgate Street Polyclinic,"200 Aldersgate Street, London EC1A 4HD, UK",London,England,UK,EC1A 4HD,Europe/London
+148,Brixton Road Health Practice,"336 Brixton Road, London SW9 7AA, UK",London,England,UK,SW9 7AA,Europe/London
+149,Upper Street Wellbeing Clinic,"250 Upper Street, London N1 1RU, UK",London,England,UK,N1 1RU,Europe/London
+150,King Street Medical Practice,"82 King Street, Manchester M2 4WQ, UK",Manchester,England,UK,M2 4WQ,Europe/London
+151,Portland Health Centre,"1 Portland Street, Manchester M1 3BE, UK",Manchester,England,UK,M1 3BE,Europe/London
+152,Wilmslow Road Family Clinic,"30 Bridge Street, Manchester M3 3BW, UK",Manchester,England,UK,M3 3BW,Europe/London
+153,Hardman Square Polyclinic,"3 Hardman Square, Manchester M3 3EB, UK",Manchester,England,UK,M3 3EB,Europe/London
+154,Chorlton Green Health Practice,"540 Wilbraham Road, Manchester M21 9AW, UK",Manchester,England,UK,M21 9AW,Europe/London
+155,Centre Médical Bellecour,"20 Rue Victor Hugo, 69002 Lyon, France",Lyon,Auvergne-Rhône-Alpes,France,69002,Europe/Paris
+156,Cabinet Médical des Brotteaux,"60 Cours Vitton, 69006 Lyon, France",Lyon,Auvergne-Rhône-Alpes,France,69006,Europe/Paris
+157,Clinique de la Part-Dieu,"100 Rue de Bonnel, 69003 Lyon, France",Lyon,Auvergne-Rhône-Alpes,France,69003,Europe/Paris
+158,Centre de Santé Croix-Rousse,"40 Grande Rue de la Croix-Rousse, 69004 Lyon, France",Lyon,Auvergne-Rhône-Alpes,France,69004,Europe/Paris
+159,Polyclinique de Gerland,"70 Rue Garibaldi, 69006 Lyon, France",Lyon,Auvergne-Rhône-Alpes,France,69006,Europe/Paris
+160,Centre Médical du Vieux-Port,"20 Quai du Port, 13002 Marseille, France",Marseille,Provence-Alpes-Côte d'Azur,France,13002,Europe/Paris
+161,Cabinet Médical Castellane,"60 Rue Paradis, 13006 Marseille, France",Marseille,Provence-Alpes-Côte d'Azur,France,13006,Europe/Paris
+162,Clinique du Prado,"200 Avenue du Prado, 13008 Marseille, France",Marseille,Provence-Alpes-Côte d'Azur,France,13008,Europe/Paris
+163,Centre de Santé de la Joliette,"50 Boulevard Baille, 13006 Marseille, France",Marseille,Provence-Alpes-Côte d'Azur,France,13006,Europe/Paris
+164,Polyclinique Saint-Giniez,"80 Boulevard Rabatau, 13008 Marseille, France",Marseille,Provence-Alpes-Côte d'Azur,France,13008,Europe/Paris
+165,Cabinet Médical de la Madeleine,"20 Rue Tronchet, 75008 Paris, France",Paris,Île-de-France,France,75008,Europe/Paris
+166,Centre de Santé Oberkampf,"80 Rue Oberkampf, 75011 Paris, France",Paris,Île-de-France,France,75011,Europe/Paris
+167,Clinique du Parc Monceau,"30 Avenue de Villiers, 75017 Paris, France",Paris,Île-de-France,France,75017,Europe/Paris
+168,Centre Médical Place d'Italie,"10 Avenue d'Italie, 75013 Paris, France",Paris,Île-de-France,France,75013,Europe/Paris
+169,Polyclinique des Batignolles,"50 Rue des Batignolles, 75017 Paris, France",Paris,Île-de-France,France,75017,Europe/Paris
+170,Centre Médical du Capitole,"10 Rue d'Alsace-Lorraine, 31000 Toulouse, France",Toulouse,Occitanie,France,31000,Europe/Paris
+171,Cabinet Médical Saint-Cyprien,"30 Allées Charles de Fitte, 31300 Toulouse, France",Toulouse,Occitanie,France,31300,Europe/Paris
+172,Clinique des Minimes,"50 Avenue des Minimes, 31200 Toulouse, France",Toulouse,Occitanie,France,31200,Europe/Paris
+173,Centre de Santé Compans,"20 Boulevard de Strasbourg, 31000 Toulouse, France",Toulouse,Occitanie,France,31000,Europe/Paris
+174,Polyclinique de Rangueil,"60 Route de Narbonne, 31400 Toulouse, France",Toulouse,Occitanie,France,31400,Europe/Paris
+175,Clínica Sant Jordi,"80 Carrer de Muntaner, 08011 Barcelona, Spain",Barcelona,Catalonia,Spain,08011,Europe/Madrid
+176,Centre Mèdic Eixample,"200 Carrer d'Aragó, 08011 Barcelona, Spain",Barcelona,Catalonia,Spain,08011,Europe/Madrid
+177,Policlínica del Poblenou,"50 Rambla del Poblenou, 08005 Barcelona, Spain",Barcelona,Catalonia,Spain,08005,Europe/Madrid
+178,Clínica Gràcia,"30 Carrer Gran de Gràcia, 08012 Barcelona, Spain",Barcelona,Catalonia,Spain,08012,Europe/Madrid
+179,Centre Mèdic Sants,"60 Carrer de Sants, 08014 Barcelona, Spain",Barcelona,Catalonia,Spain,08014,Europe/Madrid
+180,Clínica Santa Eulalia,"40 Calle de Serrano, 28001 Madrid, Spain",Madrid,Community of Madrid,Spain,28001,Europe/Madrid
+181,Centro Médico Chamberí,"30 Calle de Fuencarral, 28004 Madrid, Spain",Madrid,Community of Madrid,Spain,28004,Europe/Madrid
+182,Policlínica del Retiro,"60 Calle de Alcalá, 28009 Madrid, Spain",Madrid,Community of Madrid,Spain,28009,Europe/Madrid
+183,Clínica Nuestra Señora del Pilar,"100 Paseo de la Castellana, 28046 Madrid, Spain",Madrid,Community of Madrid,Spain,28046,Europe/Madrid
+184,Centro de Salud Argüelles,"20 Calle de la Princesa, 28008 Madrid, Spain",Madrid,Community of Madrid,Spain,28008,Europe/Madrid
+185,Clínica Giralda,"20 Avenida de la Constitución, 41004 Seville, Spain",Seville,Andalusia,Spain,41004,Europe/Madrid
+186,Centro Médico Nervión,"30 Calle Luis Montoto, 41018 Seville, Spain",Seville,Andalusia,Spain,41018,Europe/Madrid
+187,Policlínica Triana,"30 Calle San Jacinto, 41010 Seville, Spain",Seville,Andalusia,Spain,41010,Europe/Madrid
+188,Clínica Santa Justa,"20 Avenida de Kansas City, 41007 Seville, Spain",Seville,Andalusia,Spain,41007,Europe/Madrid
+189,Centro de Salud Los Remedios,"40 Calle Asunción, 41011 Seville, Spain",Seville,Andalusia,Spain,41011,Europe/Madrid
+190,Clínica Santa Lucía,"20 Calle de Colón, 46004 Valencia, Spain",Valencia,Valencian Community,Spain,46004,Europe/Madrid
+191,Centro Médico Ruzafa,"40 Calle de Cuba, 46006 Valencia, Spain",Valencia,Valencian Community,Spain,46006,Europe/Madrid
+192,Policlínica del Turia,"10 Avenida del Cid, 46018 Valencia, Spain",Valencia,Valencian Community,Spain,46018,Europe/Madrid
+193,Clínica Mediterráneo,"30 Calle de Xàtiva, 46002 Valencia, Spain",Valencia,Valencian Community,Spain,46002,Europe/Madrid
+194,Centro de Salud Benimaclet,"20 Calle de Emilio Baró, 46020 Valencia, Spain",Valencia,Valencian Community,Spain,46020,Europe/Madrid
+195,Praxiszentrum am Kurfürstendamm,"Kurfürstendamm 195, 10707 Berlin, Germany",Berlin,Berlin,Germany,10707,Europe/Berlin
+196,Medizinisches Zentrum Friedrichshain-Mitte,"Friedrichstraße 112, 10117 Berlin, Germany",Berlin,Berlin,Germany,10117,Europe/Berlin
+197,Gesundheitspraxis Prenzlauer Tor,"Schönhauser Allee 80, 10439 Berlin, Germany",Berlin,Berlin,Germany,10439,Europe/Berlin
+198,Ärztehaus Neukölln-Süd,"Karl-Marx-Straße 83, 12043 Berlin, Germany",Berlin,Berlin,Germany,12043,Europe/Berlin
+199,Praxis am Steglitzer Kreisel Park,"Schloßstraße 34, 12163 Berlin, Germany",Berlin,Berlin,Germany,12163,Europe/Berlin
+200,Praxiszentrum Zeilblick,"Zeil 85, 60313 Frankfurt am Main, Germany",Frankfurt,Hesse,Germany,60313,Europe/Berlin
+201,Ärztehaus Bornheim Mitte,"Berger Straße 150, 60385 Frankfurt am Main, Germany",Frankfurt,Hesse,Germany,60385,Europe/Berlin
+202,Medizinisches Zentrum Bahnhofsviertel,"Kaiserstraße 61, 60329 Frankfurt am Main, Germany",Frankfurt,Hesse,Germany,60329,Europe/Berlin
+203,Gesundheitspraxis Bockenheimer Warte,"Leipziger Straße 40, 60487 Frankfurt am Main, Germany",Frankfurt,Hesse,Germany,60487,Europe/Berlin
+204,Praxisgemeinschaft Ostend Main,"Hanauer Landstraße 150, 60314 Frankfurt am Main, Germany",Frankfurt,Hesse,Germany,60314,Europe/Berlin
+205,Praxis am Rathausmarkt Nord,"Mönckebergstraße 7, 20095 Hamburg, Germany",Hamburg,Hamburg,Germany,20095,Europe/Berlin
+206,Ärztehaus Eppendorfer Park,"Eppendorfer Landstraße 59, 20249 Hamburg, Germany",Hamburg,Hamburg,Germany,20249,Europe/Berlin
+207,Gesundheitszentrum Altona-Elbe,"Max-Brauer-Allee 134, 22765 Hamburg, Germany",Hamburg,Hamburg,Germany,22765,Europe/Berlin
+208,Medizinisches Zentrum Wandsbek Markt,"Wandsbeker Chaussee 220, 22089 Hamburg, Germany",Hamburg,Hamburg,Germany,22089,Europe/Berlin
+209,Praxiszentrum Bergedorfer Tor,"Sachsentor 1, 21029 Hamburg, Germany",Hamburg,Hamburg,Germany,21029,Europe/Berlin
+210,Praxisgemeinschaft Leopoldpark,"Leopoldstraße 77, 80802 München, Germany",Munich,Bavaria,Germany,80802,Europe/Berlin
+211,Medicum Sendlinger Tor,"Sendlinger Straße 46, 80331 München, Germany",Munich,Bavaria,Germany,80331,Europe/Berlin
+212,Ärztezentrum Neuhausen-Nord,"Landsberger Straße 135, 80339 München, Germany",Munich,Bavaria,Germany,80339,Europe/Berlin
+213,Gesundheitszentrum Haidhausen Ost,"Rosenheimer Straße 30, 81669 München, Germany",Munich,Bavaria,Germany,81669,Europe/Berlin
+214,Praxisklinik Nymphenburger Hof,"Nymphenburger Straße 86, 80636 München, Germany",Munich,Bavaria,Germany,80636,Europe/Berlin
+215,Praxiszentrum Rheinknie,"Freie Strasse 40, 4001 Basel, Switzerland",Basel,Basel-Stadt,Switzerland,4001,Europe/Zurich
+216,Aerztehaus Steinen Basel,"Steinenvorstadt 30, 4051 Basel, Switzerland",Basel,Basel-Stadt,Switzerland,4051,Europe/Zurich
+217,Gesundheitszentrum Clara,"Clarastrasse 38, 4058 Basel, Switzerland",Basel,Basel-Stadt,Switzerland,4058,Europe/Zurich
+218,Medizinisches Zentrum Gundeli,"Gundeldingerstrasse 200, 4053 Basel, Switzerland",Basel,Basel-Stadt,Switzerland,4053,Europe/Zurich
+219,Hausarztpraxis Bahnhof Süd,"Aeschenvorstadt 36, 4051 Basel, Switzerland",Basel,Basel-Stadt,Switzerland,4051,Europe/Zurich
+220,Praxis Spitalgasse Bern,"Spitalgasse 30, 3011 Bern, Switzerland",Bern,Bern,Switzerland,3011,Europe/Zurich
+221,Aerztezentrum Marktplatz Aare,"Marktgasse 50, 3011 Bern, Switzerland",Bern,Bern,Switzerland,3011,Europe/Zurich
+222,Gesundheitszentrum Lorraine-Breitenrain,"Laupenstrasse 20, 3008 Bern, Switzerland",Bern,Bern,Switzerland,3008,Europe/Zurich
+223,Medizinisches Zentrum Länggasse,"Effingerstrasse 20, 3008 Bern, Switzerland",Bern,Bern,Switzerland,3008,Europe/Zurich
+224,Hausarztpraxis Weissenbühl,"Freiburgstrasse 130, 3008 Bern, Switzerland",Bern,Bern,Switzerland,3008,Europe/Zurich
+225,Cabinet Médical des Eaux-Vives,"Rue du Rhône 50, 1204 Genève, Switzerland",Geneva,Geneva,Switzerland,1204,Europe/Zurich
+226,Centre Médical du Lac Bleu,"Rue de Lausanne 80, 1202 Genève, Switzerland",Geneva,Geneva,Switzerland,1202,Europe/Zurich
+227,Clinique Santé Châtelaine,"Route de Meyrin 123, 1219 Châtelaine, Switzerland",Geneva,Geneva,Switzerland,1219,Europe/Zurich
+228,Cabinet Médical Plainpalais Centre,"Boulevard Georges-Favon 20, 1204 Genève, Switzerland",Geneva,Geneva,Switzerland,1204,Europe/Zurich
+229,Centre de Santé Champel Parc,"Avenue de Champel 24, 1206 Genève, Switzerland",Geneva,Geneva,Switzerland,1206,Europe/Zurich
+230,Aerztezentrum Seefeld Plus,"Bahnhofstrasse 50, 8001 Zürich, Switzerland",Zurich,Zurich,Switzerland,8001,Europe/Zurich
+231,Praxis Limmatblick,"Limmatstrasse 50, 8005 Zürich, Switzerland",Zurich,Zurich,Switzerland,8005,Europe/Zurich
+232,Medizinisches Zentrum Altstetten West,"Badenerstrasse 549, 8048 Zürich, Switzerland",Zurich,Zurich,Switzerland,8048,Europe/Zurich
+233,Gesundheitszentrum Oerlikon Nord,"Schaffhauserstrasse 345, 8050 Zürich, Switzerland",Zurich,Zurich,Switzerland,8050,Europe/Zurich
+234,Hausarztpraxis Wiedikon Platz,"Birmensdorferstrasse 150, 8003 Zürich, Switzerland",Zurich,Zurich,Switzerland,8003,Europe/Zurich
+235,Lääkärikeskus Tapiola Plus,"Itätuulenkuja 10, 02100 Espoo, Finland",Espoo,Uusimaa,Finland,02100,Europe/Helsinki
+236,Terveysasema Leppävaara Sello Park,"Leppävaarankatu 3, 02600 Espoo, Finland",Espoo,Uusimaa,Finland,02600,Europe/Helsinki
+237,Lääkärikeskus Matinkylä,"Piispansilta 9, 02230 Espoo, Finland",Espoo,Uusimaa,Finland,02230,Europe/Helsinki
+238,Lääkäriasema Espoon Keskus,"Tapiontori 3, 02100 Espoo, Finland",Espoo,Uusimaa,Finland,02100,Europe/Helsinki
+239,Terveyskeskus Kauklahti Plus,"Kamreerintie 3, 02770 Espoo, Finland",Espoo,Uusimaa,Finland,02770,Europe/Helsinki
+240,Lääkärikeskus Mannerheimintie Plus,"Mannerheimintie 20, 00100 Helsinki, Finland",Helsinki,Uusimaa,Finland,00100,Europe/Helsinki
+241,Terveysasema Kluuvi,"Aleksanterinkatu 17, 00100 Helsinki, Finland",Helsinki,Uusimaa,Finland,00100,Europe/Helsinki
+242,Lääkärikeskus Hämeentie Kallio,"Hämeentie 20, 00530 Helsinki, Finland",Helsinki,Uusimaa,Finland,00530,Europe/Helsinki
+243,Terveyskeskus Kaivopuisto Plus,"Eerikinkatu 3, 00100 Helsinki, Finland",Helsinki,Uusimaa,Finland,00100,Europe/Helsinki
+244,Lääkäriasema Itämeri,"Itämerenkatu 21, 00180 Helsinki, Finland",Helsinki,Uusimaa,Finland,00180,Europe/Helsinki
+245,Lääkärikeskus Hämeenkatu Plus,"Hämeenkatu 20, 33100 Tampere, Finland",Tampere,Pirkanmaa,Finland,33100,Europe/Helsinki
+246,Terveysasema Satakunnankatu,"Verkatehtaankatu 2, 33100 Tampere, Finland",Tampere,Pirkanmaa,Finland,33100,Europe/Helsinki
+247,Lääkärikeskus Hatanpää,"Hatanpään valtatie 20, 33100 Tampere, Finland",Tampere,Pirkanmaa,Finland,33100,Europe/Helsinki
+248,Lääkäriasema Tammela Tampere,"Itsenäisyydenkatu 8, 33100 Tampere, Finland",Tampere,Pirkanmaa,Finland,33100,Europe/Helsinki
+249,Terveyskeskus Tahmela,"Kuninkaankatu 14, 33200 Tampere, Finland",Tampere,Pirkanmaa,Finland,33200,Europe/Helsinki
+250,Lääkärikeskus Aurajoki Plus,"Eerikinkatu 20, 20100 Turku, Finland",Turku,Southwest Finland,Finland,20100,Europe/Helsinki
+251,Terveysasema Yliopistonkatu,"Yliopistonkatu 20, 20100 Turku, Finland",Turku,Southwest Finland,Finland,20100,Europe/Helsinki
+252,Lääkärikeskus Kauppiaskatu,"Aninkaistenkatu 10, 20100 Turku, Finland",Turku,Southwest Finland,Finland,20100,Europe/Helsinki
+253,Lääkäriasema Aninkainen,"Kauppiaskatu 10, 20100 Turku, Finland",Turku,Southwest Finland,Finland,20100,Europe/Helsinki
+254,Terveyskeskus Länsikeskus Turku,"Hämeenkatu 20, 20500 Turku, Finland",Turku,Southwest Finland,Finland,20500,Europe/Helsinki
+255,Legesenteret Torgallmenningen,"Torgallmenningen 10, 5014 Bergen, Norway",Bergen,Vestland,Norway,5014,Europe/Oslo
+256,Helsehuset Strandgaten,"Strandkaien 12, 5013 Bergen, Norway",Bergen,Vestland,Norway,5013,Europe/Oslo
+257,Medisinsk Senter Olav Kyrres,"Christies gate 12, 5015 Bergen, Norway",Bergen,Vestland,Norway,5015,Europe/Oslo
+258,Legekontoret Kalfaret,"Kalfarveien 20, 5018 Bergen, Norway",Bergen,Vestland,Norway,5018,Europe/Oslo
+259,Legesenteret Nygård Bergen,"Vestre Torggate 9, 5015 Bergen, Norway",Bergen,Vestland,Norway,5015,Europe/Oslo
+260,Legesenteret Karl Johan Plus,"Karl Johans gate 25, 0159 Oslo, Norway",Oslo,Oslo,Norway,0159,Europe/Oslo
+261,Helsehuset Storgata,"Storgata 20, 0184 Oslo, Norway",Oslo,Oslo,Norway,0184,Europe/Oslo
+262,Medisinsk Senter Thereses gate,"Pilestredet 17, 0164 Oslo, Norway",Oslo,Oslo,Norway,0164,Europe/Oslo
+263,Legekontoret Grønland,"Trondheimsveien 2, 0560 Oslo, Norway",Oslo,Oslo,Norway,0560,Europe/Oslo
+264,Legesenteret Bogstad Park,"Bogstadveien 20, 0355 Oslo, Norway",Oslo,Oslo,Norway,0355,Europe/Oslo
+265,Legesenteret Olav V Plus,"Olav Vs gate 5, 4005 Stavanger, Norway",Stavanger,Rogaland,Norway,4005,Europe/Oslo
+266,Helsehuset Vågen,"Klubbgata 2, 4013 Stavanger, Norway",Stavanger,Rogaland,Norway,4013,Europe/Oslo
+267,Medisinsk Senter Kongsgård,"Kongsgårdbakken 1, 4005 Stavanger, Norway",Stavanger,Rogaland,Norway,4005,Europe/Oslo
+268,Legekontoret Madla,"Verksgata 5, 4013 Stavanger, Norway",Stavanger,Rogaland,Norway,4013,Europe/Oslo
+269,Legesenteret Pedersgata,"Pedersgata 20, 4013 Stavanger, Norway",Stavanger,Rogaland,Norway,4013,Europe/Oslo
+270,Legesenteret Kongens gate Plus,"Kongens gate 20, 7011 Trondheim, Norway",Trondheim,Trøndelag,Norway,7011,Europe/Oslo
+271,Helsehuset Nidelven,"Olav Tryggvasons gate 20, 7011 Trondheim, Norway",Trondheim,Trøndelag,Norway,7011,Europe/Oslo
+272,Medisinsk Senter Prinsens gate,"Dronningens gate 10, 7011 Trondheim, Norway",Trondheim,Trøndelag,Norway,7011,Europe/Oslo
+273,Legekontoret Innherred,"Thomas Angells gate 12, 7011 Trondheim, Norway",Trondheim,Trøndelag,Norway,7011,Europe/Oslo
+274,Legesenteret Klæbu Vei,"Klæbuveien 20, 7030 Trondheim, Norway",Trondheim,Trøndelag,Norway,7030,Europe/Oslo
+275,Vårdcentralen Avenyn Plus,"Kungsportsavenyen 21, 411 36 Göteborg, Sweden",Gothenburg,Västra Götaland,Sweden,411 36,Europe/Stockholm
+276,Läkarhuset Östra Hamngatan,"Östra Hamngatan 20, 411 09 Göteborg, Sweden",Gothenburg,Västra Götaland,Sweden,411 09,Europe/Stockholm
+277,Medicinskt Centrum Linné,"Linnégatan 30, 413 04 Göteborg, Sweden",Gothenburg,Västra Götaland,Sweden,413 04,Europe/Stockholm
+278,Hälsocentralen Södra Vägen,"Södra Vägen 20, 412 54 Göteborg, Sweden",Gothenburg,Västra Götaland,Sweden,412 54,Europe/Stockholm
+279,Läkarmottagningen Långgatan,"Första Långgatan 20, 413 28 Göteborg, Sweden",Gothenburg,Västra Götaland,Sweden,413 28,Europe/Stockholm
+280,Vårdcentralen Södra Förstan Plus,"Södra Förstadsgatan 50, 211 43 Malmö, Sweden",Malmo,Skåne,Sweden,211 43,Europe/Stockholm
+281,Läkarhuset Amiralsgatan,"Amiralsgatan 17, 211 55 Malmö, Sweden",Malmo,Skåne,Sweden,211 55,Europe/Stockholm
+282,Medicinskt Centrum Stora Nygatan,"Stora Nygatan 30, 211 37 Malmö, Sweden",Malmo,Skåne,Sweden,211 37,Europe/Stockholm
+283,Hälsocentralen Kungsgatan Malmö,"Kungsgatan 10, 211 49 Malmö, Sweden",Malmo,Skåne,Sweden,211 49,Europe/Stockholm
+284,Läkarmottagningen Östra Förstan,"Östra Förstadsgatan 20, 211 31 Malmö, Sweden",Malmo,Skåne,Sweden,211 31,Europe/Stockholm
+285,Vårdcentralen Drottninggatan Plus,"Drottninggatan 50, 111 21 Stockholm, Sweden",Stockholm,Stockholm County,Sweden,111 21,Europe/Stockholm
+286,Läkarhuset Götgatan,"Götgatan 78, 118 30 Stockholm, Sweden",Stockholm,Stockholm County,Sweden,118 30,Europe/Stockholm
+287,Medicinskt Centrum Sveavägen,"Sveavägen 40, 111 34 Stockholm, Sweden",Stockholm,Stockholm County,Sweden,111 34,Europe/Stockholm
+288,Hälsocentralen Hornstull,"Hornsgatan 50, 118 21 Stockholm, Sweden",Stockholm,Stockholm County,Sweden,118 21,Europe/Stockholm
+289,Läkarmottagningen Odenplan Park,"Valhallavägen 117, 115 31 Stockholm, Sweden",Stockholm,Stockholm County,Sweden,115 31,Europe/Stockholm
+290,Vårdcentralen Drottninggatan Uppsala,"Drottninggatan 10, 753 10 Uppsala, Sweden",Uppsala,Uppsala County,Sweden,753 10,Europe/Stockholm
+291,Läkarhuset Kungsgatan Uppsala,"Kungsgatan 33, 753 21 Uppsala, Sweden",Uppsala,Uppsala County,Sweden,753 21,Europe/Stockholm
+292,Medicinskt Centrum Olofsgatan,"Sankt Olofsgatan 20, 753 12 Uppsala, Sweden",Uppsala,Uppsala County,Sweden,753 12,Europe/Stockholm
+293,Hälsocentralen Dragarbrunn,"Dragarbrunnsgatan 40, 753 20 Uppsala, Sweden",Uppsala,Uppsala County,Sweden,753 20,Europe/Stockholm
+294,Läkarmottagningen Vaksala Plus,"Bergsbrunnagatan 15, 753 23 Uppsala, Sweden",Uppsala,Uppsala County,Sweden,753 23,Europe/Stockholm
+295,Lægehuset Boulevarden Plus,"Boulevarden 20, 9000 Aalborg, Denmark",Aalborg,North Denmark,Denmark,9000,Europe/Copenhagen
+296,Lægecentret Nørregade Aalborg,"Nørregade 20, 9000 Aalborg, Denmark",Aalborg,North Denmark,Denmark,9000,Europe/Copenhagen
+297,Sundhedscenter Vesterbro Aalborg,"Vesterbro 20, 9000 Aalborg, Denmark",Aalborg,North Denmark,Denmark,9000,Europe/Copenhagen
+298,Lægehuset Algade Plus,"Algade 20, 9000 Aalborg, Denmark",Aalborg,North Denmark,Denmark,9000,Europe/Copenhagen
+299,Klinik Sofiendal Aalborg,"Sofiendalsvej 60, 9200 Aalborg SV, Denmark",Aalborg,North Denmark,Denmark,9200,Europe/Copenhagen
+300,Lægehuset Søndergade Plus,"Søndergade 20, 8000 Aarhus C, Denmark",Aarhus,Central Denmark,Denmark,8000,Europe/Copenhagen
+301,Lægecentret Vesterbro Aarhus,"Vesterbrogade 20, 8000 Aarhus C, Denmark",Aarhus,Central Denmark,Denmark,8000,Europe/Copenhagen
+302,Sundhedscenter Randers Vej,"Randersvej 20, 8200 Aarhus N, Denmark",Aarhus,Central Denmark,Denmark,8200,Europe/Copenhagen
+303,Lægehuset Ryesgade Park,"Ryesgade 20, 8000 Aarhus C, Denmark",Aarhus,Central Denmark,Denmark,8000,Europe/Copenhagen
+304,Klinik Åboulevarden Aarhus,"Åboulevarden 20, 8000 Aarhus C, Denmark",Aarhus,Central Denmark,Denmark,8000,Europe/Copenhagen
+305,Lægehuset Vesterbro Plus,"Vesterbrogade 50, 1620 København V, Denmark",Copenhagen,Capital Region,Denmark,1620,Europe/Copenhagen
+306,Lægecentret Nørrebro Park,"Nørrebrogade 50, 2200 København N, Denmark",Copenhagen,Capital Region,Denmark,2200,Europe/Copenhagen
+307,Sundhedscenter Amager Plus,"Amagerbrogade 100, 2300 København S, Denmark",Copenhagen,Capital Region,Denmark,2300,Europe/Copenhagen
+308,Lægehuset Østerbro Torv,"Østerbrogade 50, 2100 København Ø, Denmark",Copenhagen,Capital Region,Denmark,2100,Europe/Copenhagen
+309,Klinik Frederiksborg Center,"Frederiksborggade 20, 1360 København K, Denmark",Copenhagen,Capital Region,Denmark,1360,Europe/Copenhagen
+310,Lægehuset Vestergade Odense,"Vestergade 75, 5000 Odense C, Denmark",Odense,Southern Denmark,Denmark,5000,Europe/Copenhagen
+311,Lægecentret Kongensgade Plus,"Kongensgade 20, 5000 Odense C, Denmark",Odense,Southern Denmark,Denmark,5000,Europe/Copenhagen
+312,Sundhedscenter Nørregade Odense,"Nørregade 11, 5000 Odense C, Denmark",Odense,Southern Denmark,Denmark,5000,Europe/Copenhagen
+313,Lægehuset Vesterbro Odense,"Vesterbro 62, 5000 Odense C, Denmark",Odense,Southern Denmark,Denmark,5000,Europe/Copenhagen
+314,Klinik Overgade Plus,"Overgade 45, 5000 Odense C, Denmark",Odense,Southern Denmark,Denmark,5000,Europe/Copenhagen
+315,Patrick Street Medical Practice,"30 Washington Street, Cork, Ireland",Cork,Munster,Ireland,T12,Europe/Dublin
+316,Douglas Family Clinic,"20 Douglas Road, Cork, Ireland",Cork,Munster,Ireland,T12,Europe/Dublin
+317,South Mall Health Centre,"20 Grand Parade, Cork, Ireland",Cork,Munster,Ireland,T12,Europe/Dublin
+318,Blackpool Polyclinic,"30 Shandon Street, Cork, Ireland",Cork,Munster,Ireland,T23,Europe/Dublin
+319,Wilton Road Medical Centre,"30 Wilton Road, Cork, Ireland",Cork,Munster,Ireland,T12,Europe/Dublin
+320,Baggot Street Medical Centre,"28 Baggot Street Lower, Dublin 2, Ireland",Dublin,Leinster,Ireland,D02,Europe/Dublin
+321,Ranelagh Family Health Practice,"10 Ranelagh Road, Dublin 6, Ireland",Dublin,Leinster,Ireland,D06,Europe/Dublin
+322,Drumcondra Polyclinic,"120 Drumcondra Road Lower, Dublin 9, Ireland",Dublin,Leinster,Ireland,D09,Europe/Dublin
+323,Rathmines Wellbeing Clinic,"30 Upper Rathmines Road, Dublin 6, Ireland",Dublin,Leinster,Ireland,D06,Europe/Dublin
+324,Smithfield Health Centre,"80 Capel Street, Dublin 1, Ireland",Dublin,Leinster,Ireland,D01,Europe/Dublin
+325,Eyre Square Health Practice,"20 Eglinton Street, Galway, Ireland",Galway,Connacht,Ireland,H91,Europe/Dublin
+326,Salthill Family Clinic,"50 Salthill Road Lower, Galway, Ireland",Galway,Connacht,Ireland,H91,Europe/Dublin
+327,Dominick Street Medical Centre,"25 Dominick Street Lower, Galway, Ireland",Galway,Connacht,Ireland,H91,Europe/Dublin
+328,Shop Street Polyclinic,"30 William Street, Galway, Ireland",Galway,Connacht,Ireland,H91,Europe/Dublin
+329,Newcastle Road Health Centre,"60 Newcastle Road, Galway, Ireland",Galway,Connacht,Ireland,H91,Europe/Dublin
+330,O'Connell Street Medical Practice,"20 Thomas Street, Limerick, Ireland",Limerick,Munster,Ireland,V94,Europe/Dublin
+331,Castletroy Family Clinic,"10 Castletroy Shopping Centre, Limerick, Ireland",Limerick,Munster,Ireland,V94,Europe/Dublin
+332,Henry Street Health Centre,"10 Cecil Street, Limerick, Ireland",Limerick,Munster,Ireland,V94,Europe/Dublin
+333,Dooradoyle Polyclinic,"100 Ennis Road, Limerick, Ireland",Limerick,Munster,Ireland,V94,Europe/Dublin
+334,Roxboro Road Wellbeing Clinic,"40 Roxboro Road, Limerick, Ireland",Limerick,Munster,Ireland,V94,Europe/Dublin
+335,Huisartsenpraktijk Jordaan,"100 Weesperstraat, 1018 Amsterdam, Netherlands",Amsterdam,North Holland,Netherlands,1018,Europe/Amsterdam
+336,Medisch Centrum De Pijp,"50 Ceintuurbaan, 1072 Amsterdam, Netherlands",Amsterdam,North Holland,Netherlands,1072,Europe/Amsterdam
+337,Gezondheidscentrum Beethoven,"30 Beethovenstraat, 1077 Amsterdam, Netherlands",Amsterdam,North Holland,Netherlands,1077,Europe/Amsterdam
+338,Polikliniek Oost,"50 Middenweg, 1097 Amsterdam, Netherlands",Amsterdam,North Holland,Netherlands,1097,Europe/Amsterdam
+339,Medisch Centrum Westerpark,"50 Haarlemmerstraat, 1013 Amsterdam, Netherlands",Amsterdam,North Holland,Netherlands,1013,Europe/Amsterdam
+340,Medisch Centrum Coolsingel,"50 Coolsingel, 3012 Rotterdam, Netherlands",Rotterdam,South Holland,Netherlands,3012,Europe/Amsterdam
+341,Huisartsenpraktijk Kralingen,"20 Oudedijk, 3061 Rotterdam, Netherlands",Rotterdam,South Holland,Netherlands,3061,Europe/Amsterdam
+342,Gezondheidscentrum Delfshaven,"30 Aelbrechtskolk, 3024 Rotterdam, Netherlands",Rotterdam,South Holland,Netherlands,3024,Europe/Amsterdam
+343,Polikliniek Zuid,"20 Maashaven Zuidzijde, 3081 Rotterdam, Netherlands",Rotterdam,South Holland,Netherlands,3081,Europe/Amsterdam
+344,Medisch Centrum Blaak,"10 Blaak, 3011 Rotterdam, Netherlands",Rotterdam,South Holland,Netherlands,3011,Europe/Amsterdam
+345,Medisch Centrum Denneweg,"30 Denneweg, 2514 The Hague, Netherlands",The Hague,South Holland,Netherlands,2514,Europe/Amsterdam
+346,Huisartsenpraktijk Statenkwartier,"20 Statenlaan, 2582 The Hague, Netherlands",The Hague,South Holland,Netherlands,2582,Europe/Amsterdam
+347,Gezondheidscentrum Scheveningen,"40 Keizerstraat, 2584 The Hague, Netherlands",The Hague,South Holland,Netherlands,2584,Europe/Amsterdam
+348,Polikliniek Laan van Meerdervoort,"200 Laan van Meerdervoort, 2517 The Hague, Netherlands",The Hague,South Holland,Netherlands,2517,Europe/Amsterdam
+349,Medisch Centrum Hofkwartier,"10 Noordeinde, 2514 The Hague, Netherlands",The Hague,South Holland,Netherlands,2514,Europe/Amsterdam
+350,Medisch Centrum Oudegracht,"50 Oudegracht, 3511 Utrecht, Netherlands",Utrecht,Utrecht,Netherlands,3511,Europe/Amsterdam
+351,Huisartsenpraktijk Lombok,"30 Amsterdamsestraatweg, 3513 Utrecht, Netherlands",Utrecht,Utrecht,Netherlands,3513,Europe/Amsterdam
+352,Gezondheidscentrum Leidsche Rijn,"20 Croeselaan, 3521 Utrecht, Netherlands",Utrecht,Utrecht,Netherlands,3521,Europe/Amsterdam
+353,Polikliniek Wittevrouwen,"30 Maliebaan, 3581 Utrecht, Netherlands",Utrecht,Utrecht,Netherlands,3581,Europe/Amsterdam
+354,Medisch Centrum Overvecht,"10 Zamenhofdreef, 3562 Utrecht, Netherlands",Utrecht,Utrecht,Netherlands,3562,Europe/Amsterdam
+355,Centrum Medyczne Długi Targ Plus,"ul. Rajska 10, 80-850 Gdańsk, Poland",Gdansk,Pomeranian,Poland,80-850,Europe/Warsaw
+356,Przychodnia Wrzeszcz Centrum,"ul. Grunwaldzka 100, 80-244 Gdańsk, Poland",Gdansk,Pomeranian,Poland,80-244,Europe/Warsaw
+357,Poliklinika Motława,"ul. Podwale Przedmiejskie 20, 80-824 Gdańsk, Poland",Gdansk,Pomeranian,Poland,80-824,Europe/Warsaw
+358,Centrum Zdrowia Orunia,"ul. Kartuska 100, 80-104 Gdańsk, Poland",Gdansk,Pomeranian,Poland,80-104,Europe/Warsaw
+359,Gabinety Lekarskie Pomorska Park,"ul. Pomorska 60, 80-343 Gdańsk, Poland",Gdansk,Pomeranian,Poland,80-343,Europe/Warsaw
+360,Centrum Medyczne Floriańska Plus,"ul. Floriańska 20, 31-021 Kraków, Poland",Krakow,Lesser Poland,Poland,31-021,Europe/Warsaw
+361,Przychodnia Podgórze Wisła,"ul. Dietla 50, 31-039 Kraków, Poland",Krakow,Lesser Poland,Poland,31-039,Europe/Warsaw
+362,Poliklinika Stare Miasto Kraków,"ul. Długa 50, 31-147 Kraków, Poland",Krakow,Lesser Poland,Poland,31-147,Europe/Warsaw
+363,Centrum Zdrowia Wieliczka Trakt,"ul. Wielicka 50, 30-552 Kraków, Poland",Krakow,Lesser Poland,Poland,30-552,Europe/Warsaw
+364,Gabinety Lekarskie Opolska Park,"ul. Opolska 100, 31-323 Kraków, Poland",Krakow,Lesser Poland,Poland,31-323,Europe/Warsaw
+365,Centrum Medyczne Marszałkowska Plus,"ul. Marszałkowska 100, 00-026 Warszawa, Poland",Warsaw,Masovian,Poland,00-026,Europe/Warsaw
+366,Przychodnia Mokotów Park,"ul. Puławska 30, 02-512 Warszawa, Poland",Warsaw,Masovian,Poland,02-512,Europe/Warsaw
+367,Poliklinika Jerozolimskie Centrum,"Al. Jerozolimskie 100, 02-001 Warszawa, Poland",Warsaw,Masovian,Poland,02-001,Europe/Warsaw
+368,Gabinety Lekarskie Śródmieście,"ul. Chmielna 21, 00-021 Warszawa, Poland",Warsaw,Masovian,Poland,00-021,Europe/Warsaw
+369,Centrum Zdrowia Praga Południe,"ul. Grochowska 200, 04-357 Warszawa, Poland",Warsaw,Masovian,Poland,04-357,Europe/Warsaw
+370,Centrum Medyczne Rynek Plus,"ul. Świdnicka 20, 50-066 Wrocław, Poland",Wroclaw,Lower Silesian,Poland,50-066,Europe/Warsaw
+371,Przychodnia Krzyki Park,"ul. Legnicka 50, 54-204 Wrocław, Poland",Wroclaw,Lower Silesian,Poland,54-204,Europe/Warsaw
+372,Poliklinika Odra Wrocław,"ul. Kazimierza Wielkiego 50, 50-077 Wrocław, Poland",Wroclaw,Lower Silesian,Poland,50-077,Europe/Warsaw
+373,Centrum Zdrowia Śródmieście Wrocław,"ul. Powstańców Śląskich 95, 53-332 Wrocław, Poland",Wroclaw,Lower Silesian,Poland,53-332,Europe/Warsaw
+374,Gabinety Lekarskie Borek,"ul. Krakowska 50, 50-425 Wrocław, Poland",Wroclaw,Lower Silesian,Poland,50-425,Europe/Warsaw
+375,Ärztehaus Herrengasse Graz,"Herrengasse 10, 8010 Graz, Austria",Graz,Styria,Austria,8010,Europe/Vienna
+376,Gesundheitszentrum Annenviertel,"Annenstraße 30, 8020 Graz, Austria",Graz,Styria,Austria,8020,Europe/Vienna
+377,Praxiszentrum Grazer Murblick,"Conrad-von-Hötzendorf-Straße 60, 8010 Graz, Austria",Graz,Styria,Austria,8010,Europe/Vienna
+378,Medizinisches Zentrum Leonhard,"Leonhardstraße 40, 8010 Graz, Austria",Graz,Styria,Austria,8010,Europe/Vienna
+379,Ordinationszentrum Gries,"Griesplatz 20, 8020 Graz, Austria",Graz,Styria,Austria,8020,Europe/Vienna
+380,Ärztezentrum Maria-Theresien,"Maria-Theresien-Straße 20, 6020 Innsbruck, Austria",Innsbruck,Tyrol,Austria,6020,Europe/Vienna
+381,Praxiszentrum Nordkette,"Museumstraße 20, 6020 Innsbruck, Austria",Innsbruck,Tyrol,Austria,6020,Europe/Vienna
+382,Gesundheitszentrum Innrain,"Innrain 50, 6020 Innsbruck, Austria",Innsbruck,Tyrol,Austria,6020,Europe/Vienna
+383,Medizinisches Zentrum Amras,"Salurner Straße 15, 6020 Innsbruck, Austria",Innsbruck,Tyrol,Austria,6020,Europe/Vienna
+384,Ordination Wilten Innsbruck,"Anichstraße 20, 6020 Innsbruck, Austria",Innsbruck,Tyrol,Austria,6020,Europe/Vienna
+385,Ärztezentrum Linzer Gasse,"Linzer Gasse 20, 5020 Salzburg, Austria",Salzburg,Salzburg,Austria,5020,Europe/Vienna
+386,Praxis am Mozartplatz Nord,"Griesgasse 10, 5020 Salzburg, Austria",Salzburg,Salzburg,Austria,5020,Europe/Vienna
+387,Gesundheitszentrum Lehen,"Vogelweiderstraße 50, 5020 Salzburg, Austria",Salzburg,Salzburg,Austria,5020,Europe/Vienna
+388,Medizinisches Zentrum Maxglan,"Alpenstraße 90, 5020 Salzburg, Austria",Salzburg,Salzburg,Austria,5020,Europe/Vienna
+389,Ordination Gnigl Salzburg,"Münchner Bundesstraße 100, 5020 Salzburg, Austria",Salzburg,Salzburg,Austria,5020,Europe/Vienna
+390,Ärztezentrum Mariahilf Plus,"Mariahilfer Straße 85, 1060 Wien, Austria",Vienna,Vienna,Austria,1060,Europe/Vienna
+391,Praxiszentrum Stephansblick,"Kärntner Straße 51, 1010 Wien, Austria",Vienna,Vienna,Austria,1010,Europe/Vienna
+392,Gesundheitszentrum Favoriten Süd,"Favoritenstraße 100, 1100 Wien, Austria",Vienna,Vienna,Austria,1100,Europe/Vienna
+393,Medizinisches Zentrum Landstraße,"Landstraßer Hauptstraße 71, 1030 Wien, Austria",Vienna,Vienna,Austria,1030,Europe/Vienna
+394,Ordination Währinger Park,"Währinger Straße 100, 1180 Wien, Austria",Vienna,Vienna,Austria,1180,Europe/Vienna
+395,Medisch Centrum Meir,"40 Meir, 2000 Antwerp, Belgium",Antwerp,Flanders,Belgium,2000,Europe/Brussels
+396,Huisartsenpraktijk Zurenborg,"20 Cogels-Osylei, 2600 Antwerp, Belgium",Antwerp,Flanders,Belgium,2600,Europe/Brussels
+397,Polikliniek Het Zuid,"30 Leopold De Waelplaats, 2000 Antwerp, Belgium",Antwerp,Flanders,Belgium,2000,Europe/Brussels
+398,Gezondheidscentrum Berchem,"50 Grote Steenweg, 2600 Antwerp, Belgium",Antwerp,Flanders,Belgium,2600,Europe/Brussels
+399,Medisch Centrum Eilandje,"20 Londenstraat, 2000 Antwerp, Belgium",Antwerp,Flanders,Belgium,2000,Europe/Brussels
+400,Centre Médical Louise,"120 Avenue Louise, 1050 Brussels, Belgium",Brussels,Brussels-Capital Region,Belgium,1050,Europe/Brussels
+401,Cabinet Médical Sablon,"20 Rue de la Régence, 1000 Brussels, Belgium",Brussels,Brussels-Capital Region,Belgium,1000,Europe/Brussels
+402,Polyclinique Etterbeek,"40 Chaussée de Wavre, 1050 Brussels, Belgium",Brussels,Brussels-Capital Region,Belgium,1050,Europe/Brussels
+403,Medisch Centrum Schuman,"30 Rue Archimède, 1000 Brussels, Belgium",Brussels,Brussels-Capital Region,Belgium,1000,Europe/Brussels
+404,Clinique du Parvis,"50 Chaussée de Waterloo, 1060 Brussels, Belgium",Brussels,Brussels-Capital Region,Belgium,1060,Europe/Brussels
+405,Medisch Centrum Korenmarkt,"10 Korenmarkt, 9000 Ghent, Belgium",Ghent,Flanders,Belgium,9000,Europe/Brussels
+406,Huisartsenpraktijk Sint-Pieters,"30 Koningin Elisabethlaan, 9000 Ghent, Belgium",Ghent,Flanders,Belgium,9000,Europe/Brussels
+407,Polikliniek Dampoort,"40 Antwerpsesteenweg, 9040 Ghent, Belgium",Ghent,Flanders,Belgium,9040,Europe/Brussels
+408,Gezondheidscentrum Ledeberg,"60 Brusselsesteenweg, 9050 Ghent, Belgium",Ghent,Flanders,Belgium,9050,Europe/Brussels
+409,Medisch Centrum Vlasmarkt,"20 Vlaanderenstraat, 9000 Ghent, Belgium",Ghent,Flanders,Belgium,9000,Europe/Brussels
+410,Centre Médical Saint-Lambert,"100 Rue Saint-Gilles, 4000 Liège, Belgium",Liege,Wallonia,Belgium,4000,Europe/Brussels
+411,Cabinet Médical Guillemins,"50 Boulevard d'Avroy, 4000 Liège, Belgium",Liege,Wallonia,Belgium,4000,Europe/Brussels
+412,Polyclinique d'Outremeuse,"50 Boulevard de la Constitution, 4020 Liège, Belgium",Liege,Wallonia,Belgium,4020,Europe/Brussels
+413,Clinique des Vennes,"40 Rue des Vennes, 4020 Liège, Belgium",Liege,Wallonia,Belgium,4020,Europe/Brussels
+414,Centre de Santé Sclessin,"60 Rue de Sclessin, 4000 Liège, Belgium",Liege,Wallonia,Belgium,4000,Europe/Brussels
+415,Cabinet Médical Differdange Centre,"20 Rue Émile Mark, 4620 Differdange, Luxembourg",Differdange,Luxembourg,Luxembourg,4620,Europe/Luxembourg
+416,Centre Médical Oberkorn,"10 Rue Émile Mark, 4620 Differdange, Luxembourg",Differdange,Luxembourg,Luxembourg,4620,Europe/Luxembourg
+417,Polyclinique Niederkorn,"35 Avenue Charlotte, 4530 Differdange, Luxembourg",Differdange,Luxembourg,Luxembourg,4530,Europe/Luxembourg
+418,Clinique Fousbann,"15 Avenue Charlotte, 4530 Differdange, Luxembourg",Differdange,Luxembourg,Luxembourg,4530,Europe/Luxembourg
+419,Centre de Santé Lasauvage,"15 Rue Michel Rodange, 4660 Differdange, Luxembourg",Differdange,Luxembourg,Luxembourg,4660,Europe/Luxembourg
+420,Cabinet Médical Dudelange Centre,"20 Rue du Commerce, 3450 Dudelange, Luxembourg",Dudelange,Luxembourg,Luxembourg,3450,Europe/Luxembourg
+421,Centre Médical Gare-Usines,"40 Rue du Commerce, 3450 Dudelange, Luxembourg",Dudelange,Luxembourg,Luxembourg,3450,Europe/Luxembourg
+422,Polyclinique Italiens,"50 Rue du Commerce, 3450 Dudelange, Luxembourg",Dudelange,Luxembourg,Luxembourg,3450,Europe/Luxembourg
+423,Clinique Burange,"30 Rue du Commerce, 3450 Dudelange, Luxembourg",Dudelange,Luxembourg,Luxembourg,3450,Europe/Luxembourg
+424,Centre de Santé Schmelz,"30 Rue Dominique Lang, 3505 Dudelange, Luxembourg",Dudelange,Luxembourg,Luxembourg,3505,Europe/Luxembourg
+425,Cabinet Médical Alzette,"30 Rue de l'Alzette, 4010 Esch-sur-Alzette, Luxembourg",Esch-sur-Alzette,Luxembourg,Luxembourg,4010,Europe/Luxembourg
+426,Centre Médical Belval,"10 Avenue du Rock'n'Roll, 4361 Esch-sur-Alzette, Luxembourg",Esch-sur-Alzette,Luxembourg,Luxembourg,4361,Europe/Luxembourg
+427,Polyclinique Raemerich,"10 Rue du Fossé, 4123 Esch-sur-Alzette, Luxembourg",Esch-sur-Alzette,Luxembourg,Luxembourg,4123,Europe/Luxembourg
+428,Clinique du Brill,"10 Place de l'Hôtel de Ville, 4138 Esch-sur-Alzette, Luxembourg",Esch-sur-Alzette,Luxembourg,Luxembourg,4138,Europe/Luxembourg
+429,Centre de Santé Lallange,"30 Boulevard Kennedy, 4170 Esch-sur-Alzette, Luxembourg",Esch-sur-Alzette,Luxembourg,Luxembourg,4170,Europe/Luxembourg
+430,Cabinet Médical Gare,"30 Avenue de la Liberté, 1930 Luxembourg, Luxembourg",Luxembourg City,Luxembourg,Luxembourg,1930,Europe/Luxembourg
+431,Centre Médical Kirchberg,"10 Avenue John F. Kennedy, 1855 Luxembourg, Luxembourg",Luxembourg City,Luxembourg,Luxembourg,1855,Europe/Luxembourg
+432,Polyclinique Limpertsberg,"50 Avenue de la Faïencerie, 1510 Luxembourg, Luxembourg",Luxembourg City,Luxembourg,Luxembourg,1510,Europe/Luxembourg
+433,Clinique Bonnevoie,"80 Rue de Bonnevoie, 1260 Luxembourg, Luxembourg",Luxembourg City,Luxembourg,Luxembourg,1260,Europe/Luxembourg
+434,Centre de Santé Belair,"20 Avenue Monterey, 2163 Luxembourg, Luxembourg",Luxembourg City,Luxembourg,Luxembourg,2163,Europe/Luxembourg
+435,Poliambulatorio Santa Maria Novella,"10 Via Panzani, 50123 Florence, Italy",Florence,Tuscany,Italy,50123,Europe/Rome
+436,Centro Medico Campo di Marte,"60 Viale dei Mille, 50131 Florence, Italy",Florence,Tuscany,Italy,50131,Europe/Rome
+437,Studio Medico Oltrarno,"20 Via Romana, 50125 Florence, Italy",Florence,Tuscany,Italy,50125,Europe/Rome
+438,Clinica del Giglio,"30 Via Gioberti, 50121 Florence, Italy",Florence,Tuscany,Italy,50121,Europe/Rome
+439,Poliambulatorio Novoli,"40 Via Forlanini, 50127 Florence, Italy",Florence,Tuscany,Italy,50127,Europe/Rome
+440,Poliambulatorio Navigli,"20 Corso di Porta Ticinese, 20123 Milan, Italy",Milan,Lombardy,Italy,20123,Europe/Rome
+441,Centro Medico Porta Venezia,"30 Corso Buenos Aires, 20124 Milan, Italy",Milan,Lombardy,Italy,20124,Europe/Rome
+442,Studio Medico Brera,"15 Via Solferino, 20121 Milan, Italy",Milan,Lombardy,Italy,20121,Europe/Rome
+443,Clinica Santa Giulia,"20 Via Vigevano, 20144 Milan, Italy",Milan,Lombardy,Italy,20144,Europe/Rome
+444,Poliambulatorio Isola,"10 Via Pola, 20124 Milan, Italy",Milan,Lombardy,Italy,20124,Europe/Rome
+445,Poliambulatorio Vomero,"50 Via Scarlatti, 80127 Naples, Italy",Naples,Campania,Italy,80127,Europe/Rome
+446,Centro Medico Chiaia,"20 Via dei Mille, 80121 Naples, Italy",Naples,Campania,Italy,80121,Europe/Rome
+447,Studio Medico Santa Lucia,"10 Via Partenope, 80121 Naples, Italy",Naples,Campania,Italy,80121,Europe/Rome
+448,Clinica Posillipo,"30 Via Posillipo, 80123 Naples, Italy",Naples,Campania,Italy,80123,Europe/Rome
+449,Poliambulatorio Toledo,"15 Via Toledo, 80134 Naples, Italy",Naples,Campania,Italy,80134,Europe/Rome
+450,Poliambulatorio Santa Chiara,"80 Via Nazionale, 00184 Rome, Italy",Rome,Lazio,Italy,00184,Europe/Rome
+451,Centro Medico Prati,"50 Via Cola di Rienzo, 00192 Rome, Italy",Rome,Lazio,Italy,00192,Europe/Rome
+452,Studio Medico Parioli,"30 Viale Parioli, 00197 Rome, Italy",Rome,Lazio,Italy,00197,Europe/Rome
+453,Poliambulatorio Trastevere,"20 Viale di Trastevere, 00153 Rome, Italy",Rome,Lazio,Italy,00153,Europe/Rome
+454,Clinica Appia Nuova,"20 Via Appia Nuova, 00183 Rome, Italy",Rome,Lazio,Italy,00183,Europe/Rome
+455,Dniprovska Medical Centre,"62 Dmytra Yavornytskoho Ave, Dnipro 49000, Ukraine",Dnipro,Dnipropetrovsk Oblast,Ukraine,49000,Europe/Kyiv
+456,Nova Hora Clinic,"10 Kosmichna St, Dnipro 49000, Ukraine",Dnipro,Dnipropetrovsk Oblast,Ukraine,49000,Europe/Kyiv
+457,Sich Family Health Practice,"88 Nauky Ave, Dnipro 49000, Ukraine",Dnipro,Dnipropetrovsk Oblast,Ukraine,49000,Europe/Kyiv
+458,Klinika Zolota Osin,"30 Dmytra Yavornytskoho Ave, Dnipro 49000, Ukraine",Dnipro,Dnipropetrovsk Oblast,Ukraine,49000,Europe/Kyiv
+459,Slobozhanska Polyclinic,"11 Slobozhanskyi Ave, Dnipro 49000, Ukraine",Dnipro,Dnipropetrovsk Oblast,Ukraine,49000,Europe/Kyiv
+460,Zdorovya Rodyny Medical Centre,"22 Velyka Vasylkivska St, Kyiv 01004, Ukraine",Kyiv,Kyiv City,Ukraine,01004,Europe/Kyiv
+461,Dnipro Vita Clinic,"34 Yaroslaviv Val St, Kyiv 01034, Ukraine",Kyiv,Kyiv City,Ukraine,01034,Europe/Kyiv
+462,Obolon Family Polyclinic,"28 Obolonskyi Ave, Kyiv 04205, Ukraine",Kyiv,Kyiv City,Ukraine,04205,Europe/Kyiv
+463,Lybid Medical Practice,"1 Sportyvna Sq, Kyiv 01023, Ukraine",Kyiv,Kyiv City,Ukraine,01023,Europe/Kyiv
+464,Klinika Sofiivska Dobrota,"1 Mykoly Bazhana Ave, Kyiv 02140, Ukraine",Kyiv,Kyiv City,Ukraine,02140,Europe/Kyiv
+465,Lvivska Klinika Zdorovya,"20 Horodotska St, Lviv 79007, Ukraine",Lviv,Lviv Oblast,Ukraine,79007,Europe/Kyiv
+466,Lion Gate Medical Centre,"10 Chornovola Ave, Lviv 79000, Ukraine",Lviv,Lviv Oblast,Ukraine,79000,Europe/Kyiv
+467,Stryiska Family Doctor Practice,"30 Stryiska St, Lviv 79031, Ukraine",Lviv,Lviv Oblast,Ukraine,79031,Europe/Kyiv
+468,Carpathian Care Polyclinic,"5 Naukova St, Lviv 79060, Ukraine",Lviv,Lviv Oblast,Ukraine,79060,Europe/Kyiv
+469,Klinika Dobryi Likar,"14 Kniazia Romana St, Lviv 79005, Ukraine",Lviv,Lviv Oblast,Ukraine,79005,Europe/Kyiv
+470,Chornomorska Medical Centre,"17 Derybasivska St, Odesa 65026, Ukraine",Odesa,Odesa Oblast,Ukraine,65026,Europe/Kyiv
+471,Pushkinska Family Clinic,"9 Preobrazhenska St, Odesa 65026, Ukraine",Odesa,Odesa Oblast,Ukraine,65026,Europe/Kyiv
+472,Lanzheron Health Practice,"21 Rishelievska St, Odesa 65026, Ukraine",Odesa,Odesa Oblast,Ukraine,65026,Europe/Kyiv
+473,Poseidon Polyclinic,"26 Akademika Korolova St, Odesa 65074, Ukraine",Odesa,Odesa Oblast,Ukraine,65074,Europe/Kyiv
+474,Klinika Bilyi Parus,"12 Fontanska Rd, Odesa 65009, Ukraine",Odesa,Odesa Oblast,Ukraine,65009,Europe/Kyiv
+475,Bulak Medical Centre,"10 Baumana St, Kazan 420111, Russia",Kazan,Republic of Tatarstan,Russia,420111,Europe/Moscow
+476,Klinika Zdorovye Kazani,"1 Pushkina St, Kazan 420111, Russia",Kazan,Republic of Tatarstan,Russia,420111,Europe/Moscow
+477,Chistopolskaya Family Polyclinic,"70 Chistopolskaya St, Kazan 420066, Russia",Kazan,Republic of Tatarstan,Russia,420066,Europe/Moscow
+478,Idel Health Practice,"35 Yamasheva Prospekt, Kazan 420124, Russia",Kazan,Republic of Tatarstan,Russia,420124,Europe/Moscow
+479,Klinika Dostoevsky Street,"15 Karla Marksa St, Kazan 420111, Russia",Kazan,Republic of Tatarstan,Russia,420111,Europe/Moscow
+480,Tverskoy Medical Centre,"12 Tverskaya St, Moscow 125009, Russia",Moscow,Moscow,Russia,125009,Europe/Moscow
+481,Klinika Zdorovaya Semya,"25 Novy Arbat St, Moscow 119019, Russia",Moscow,Moscow,Russia,119019,Europe/Moscow
+482,Leninsky Family Polyclinic,"4 Leninsky Prospekt, Moscow 119049, Russia",Moscow,Moscow,Russia,119049,Europe/Moscow
+483,Prospekt Mira Health Practice,"39 Prospekt Mira, Moscow 129090, Russia",Moscow,Moscow,Russia,129090,Europe/Moscow
+484,Klinika Beryozka,"7 Kuznetsky Most St, Moscow 107031, Russia",Moscow,Moscow,Russia,107031,Europe/Moscow
+485,Sibirskiy Medical Centre,"27 Krasny Prospekt, Novosibirsk 630099, Russia",Novosibirsk,Novosibirsk Oblast,Russia,630099,Asia/Novosibirsk
+486,Klinika Obskoe More,"48 Lenina St, Novosibirsk 630004, Russia",Novosibirsk,Novosibirsk Oblast,Russia,630004,Asia/Novosibirsk
+487,Dimitrova Family Polyclinic,"31 Sovetskaya St, Novosibirsk 630099, Russia",Novosibirsk,Novosibirsk Oblast,Russia,630099,Asia/Novosibirsk
+488,Frunze Health Practice,"7 Ordzhonikidze St, Novosibirsk 630099, Russia",Novosibirsk,Novosibirsk Oblast,Russia,630099,Asia/Novosibirsk
+489,Klinika Akademgorodok Plus,"2 Pirogova St, Novosibirsk 630090, Russia",Novosibirsk,Novosibirsk Oblast,Russia,630090,Asia/Novosibirsk
+490,Nevsky Medical Centre,"69 Nevsky Prospekt, Saint Petersburg 191025, Russia",Saint Petersburg,Saint Petersburg,Russia,191025,Europe/Moscow
+491,Klinika Belye Nochi,"30 Bolshoy Prospekt P.S., Saint Petersburg 197198, Russia",Saint Petersburg,Saint Petersburg,Russia,197198,Europe/Moscow
+492,Moskovsky Family Polyclinic,"58 Moskovsky Prospekt, Saint Petersburg 190031, Russia",Saint Petersburg,Saint Petersburg,Russia,190031,Europe/Moscow
+493,Neva Health Practice,"100 Prospekt Veteranov, Saint Petersburg 198261, Russia",Saint Petersburg,Saint Petersburg,Russia,198261,Europe/Moscow
+494,Klinika Ligovskaya,"35 Ligovsky Prospekt, Saint Petersburg 191040, Russia",Saint Petersburg,Saint Petersburg,Russia,191040,Europe/Moscow
+495,Jianguo Heren Medical Centre,"88 Jianguo Rd, Chaoyang District, Beijing 100022, China",Beijing,Beijing,China,100022,Asia/Shanghai
+496,Zhongguancun Kangyi Clinic,"33 Zhongguancun South St, Haidian District, Beijing 100081, China",Beijing,Beijing,China,100081,Asia/Shanghai
+497,Dongsanhuan Family Health Practice,"1 Jianguomenwai Ave, Chaoyang District, Beijing 100020, China",Beijing,Beijing,China,100020,Asia/Shanghai
+498,Fuchengmen Anhe Polyclinic,"9 Fuchengmenwai St, Xicheng District, Beijing 100037, China",Beijing,Beijing,China,100037,Asia/Shanghai
+499,Dongdaqiao Jiahe Medical Clinic,"8 Dongdaqiao Rd, Chaoyang District, Beijing 100020, China",Beijing,Beijing,China,100020,Asia/Shanghai
+500,Tianhe Kangle Medical Centre,"385 Tianhe Rd, Tianhe District, Guangzhou 510620, China",Guangzhou,Guangdong,China,510620,Asia/Shanghai
+501,Huaxia Anhe Clinic,"8 Huaxia Rd, Tianhe District, Guangzhou 510623, China",Guangzhou,Guangdong,China,510623,Asia/Shanghai
+502,Dongfeng Family Health Practice,"836 Dongfeng East Rd, Yuexiu District, Guangzhou 510080, China",Guangzhou,Guangdong,China,510080,Asia/Shanghai
+503,Jiangnan Hengkang Polyclinic,"300 Xingang East Rd, Haizhu District, Guangzhou 510308, China",Guangzhou,Guangdong,China,510308,Asia/Shanghai
+504,Haizhu Mingde Medical Clinic,"10 Zhujiang West Rd, Tianhe District, Guangzhou 510623, China",Guangzhou,Guangdong,China,510623,Asia/Shanghai
+505,Lujiazui Kangtai Medical Centre,"1788 Century Ave, Pudong New Area, Shanghai 200122, China",Shanghai,Shanghai,China,200122,Asia/Shanghai
+506,Jingan Anxin Clinic,"1038 Nanjing West Rd, Jing'an District, Shanghai 200041, China",Shanghai,Shanghai,China,200041,Asia/Shanghai
+507,Huaihai Family Health Practice,"300 Huaihai Middle Rd, Huangpu District, Shanghai 200021, China",Shanghai,Shanghai,China,200021,Asia/Shanghai
+508,Xianxia Hongkang Polyclinic,"333 Xianxia Rd, Changning District, Shanghai 200336, China",Shanghai,Shanghai,China,200336,Asia/Shanghai
+509,Xujiahui Pinghe Medical Clinic,"2000 Zhongshan West Rd, Xuhui District, Shanghai 200235, China",Shanghai,Shanghai,China,200235,Asia/Shanghai
+510,Futian Kangning Medical Centre,"5033 Shennan Blvd, Futian District, Shenzhen 518026, China",Shenzhen,Guangdong,China,518026,Asia/Shanghai
+511,Nanshan Anda Clinic,"10 Keyuan Rd, Nanshan District, Shenzhen 518057, China",Shenzhen,Guangdong,China,518057,Asia/Shanghai
+512,Luohu Family Health Practice,"1881 Baoan South Rd, Luohu District, Shenzhen 518001, China",Shenzhen,Guangdong,China,518001,Asia/Shanghai
+513,Shennan Hengxin Polyclinic,"6001 Shennan Ave, Futian District, Shenzhen 518040, China",Shenzhen,Guangdong,China,518040,Asia/Shanghai
+514,Longgang Renhe Medical Clinic,"100 Longcheng Ave, Longgang District, Shenzhen 518172, China",Shenzhen,Guangdong,China,518172,Asia/Shanghai
+515,Kawaramachi Fuji Medical Clinic,"612 Naginatabokocho, Shimogyo Ward, Kyoto 600-8008, Japan",Kyoto,Kyoto,Japan,600-8008,Asia/Tokyo
+516,Karasuma Matsu Family Clinic,"590-2 Higashishiokojicho, Shimogyo Ward, Kyoto 600-8216, Japan",Kyoto,Kyoto,Japan,600-8216,Asia/Tokyo
+517,Kyoto Station Aoi Clinic,"901 Higashishiokoji-cho, Shimogyo Ward, Kyoto 600-8216, Japan",Kyoto,Kyoto,Japan,600-8216,Asia/Tokyo
+518,Demachi Take Health Clinic,"1 Demachiyanagi, Sakyo Ward, Kyoto 606-8205, Japan",Kyoto,Kyoto,Japan,606-8205,Asia/Tokyo
+519,Nijo Yume Medical Clinic,"79 Tachiurinishimachi, Shimogyo Ward, Kyoto 600-8511, Japan",Kyoto,Kyoto,Japan,600-8511,Asia/Tokyo
+520,Umeda Sora Medical Clinic,"3-1-1 Umeda, Kita Ward, Osaka 530-0001, Japan",Osaka,Osaka,Japan,530-0001,Asia/Tokyo
+521,Namba Hinata Clinic,"1-7-1 Shinsaibashisuji, Chuo Ward, Osaka 542-0085, Japan",Osaka,Osaka,Japan,542-0085,Asia/Tokyo
+522,Tennoji Wakaba Family Clinic,"1-6-1 Abenosuji, Abeno Ward, Osaka 545-0052, Japan",Osaka,Osaka,Japan,545-0052,Asia/Tokyo
+523,Honmachi Kaede Health Clinic,"1-4-5 Honmachi, Chuo Ward, Osaka 541-0053, Japan",Osaka,Osaka,Japan,541-0053,Asia/Tokyo
+524,Shin-Osaka Tsubasa Clinic,"5-16-1 Nishinakajima, Yodogawa Ward, Osaka 532-0011, Japan",Osaka,Osaka,Japan,532-0011,Asia/Tokyo
+525,Sakura Family Clinic,"2-2-1 Yoyogi, Shibuya City, Tokyo 151-0053, Japan",Tokyo,Tokyo,Japan,151-0053,Asia/Tokyo
+526,Shinjuku Midori Medical Clinic,"3-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",Tokyo,Tokyo,Japan,160-0022,Asia/Tokyo
+527,Ginza Hikari Clinic,"6-10-1 Ginza, Chuo City, Tokyo 104-0061, Japan",Tokyo,Tokyo,Japan,104-0061,Asia/Tokyo
+528,Ikebukuro Aoba Health Clinic,"1-11-1 Nishi-Ikebukuro, Toshima City, Tokyo 171-0021, Japan",Tokyo,Tokyo,Japan,171-0021,Asia/Tokyo
+529,Setagaya Kotobuki Family Clinic,"2-24-1 Sangenjaya, Setagaya City, Tokyo 154-0024, Japan",Tokyo,Tokyo,Japan,154-0024,Asia/Tokyo
+530,Minato Mirai Nami Clinic,"2-2-1 Minatomirai, Nishi Ward, Yokohama 220-8101, Japan",Yokohama,Kanagawa,Japan,220-8101,Asia/Tokyo
+531,Yokohama Station Kaze Medical Clinic,"1-1-1 Minami-Saiwai, Nishi Ward, Yokohama 220-0005, Japan",Yokohama,Kanagawa,Japan,220-0005,Asia/Tokyo
+532,Kannai Sumire Family Clinic,"1-1 Sumiyoshicho, Naka Ward, Yokohama 231-0013, Japan",Yokohama,Kanagawa,Japan,231-0013,Asia/Tokyo
+533,Shin-Yokohama Hoshi Clinic,"2-100-45 Shin-Yokohama, Kohoku Ward, Yokohama 222-0033, Japan",Yokohama,Kanagawa,Japan,222-0033,Asia/Tokyo
+534,Totsuka Hana Health Clinic,"4001 Totsukacho, Totsuka Ward, Yokohama 244-0003, Japan",Yokohama,Kanagawa,Japan,244-0003,Asia/Tokyo
+535,Seomyeon Bada Medical Clinic,"10 Seomyeon-ro, Busanjin-gu, Busan 47246, South Korea",Busan,Busan,South Korea,47246,Asia/Seoul
+536,Haeundae Gaon Family Clinic,"1 Haeundaehaebyeon-ro, Haeundae-gu, Busan 48099, South Korea",Busan,Busan,South Korea,48099,Asia/Seoul
+537,Nampo Hanbit Health Clinic,"10 Gwangbok-ro, Jung-gu, Busan 48943, South Korea",Busan,Busan,South Korea,48943,Asia/Seoul
+538,Dongnae Sarang Polyclinic,"50 Myeongnyun-ro, Dongnae-gu, Busan 47818, South Korea",Busan,Busan,South Korea,47818,Asia/Seoul
+539,Sasang Nuri Medical Clinic,"50 Gwangjang-ro, Sasang-gu, Busan 46973, South Korea",Busan,Busan,South Korea,46973,Asia/Seoul
+540,Dongseongno Dalbit Medical Clinic,"10 Dongseong-ro, Jung-gu, Daegu 41936, South Korea",Daegu,Daegu,South Korea,41936,Asia/Seoul
+541,Suseong Namu Family Clinic,"100 Suseong-ro, Suseong-gu, Daegu 42186, South Korea",Daegu,Daegu,South Korea,42186,Asia/Seoul
+542,Beomeo Hanmaru Health Clinic,"20 Dongdaegu-ro, Dong-gu, Daegu 41040, South Korea",Daegu,Daegu,South Korea,41040,Asia/Seoul
+543,Seongseo Haenim Polyclinic,"10 Seongseo-ro, Dalseo-gu, Daegu 42661, South Korea",Daegu,Daegu,South Korea,42661,Asia/Seoul
+544,Chilgok Sori Medical Clinic,"100 Taejeon-ro, Buk-gu, Daegu 41594, South Korea",Daegu,Daegu,South Korea,41594,Asia/Seoul
+545,Songdo Bitna Medical Clinic,"123 Central-ro, Yeonsu-gu, Incheon 21984, South Korea",Incheon,Incheon,South Korea,21984,Asia/Seoul
+546,Bupyeong Hanul Family Clinic,"16 Bupyeong-daero, Bupyeong-gu, Incheon 21315, South Korea",Incheon,Incheon,South Korea,21315,Asia/Seoul
+547,Songdo Garam Health Clinic,"32 Songdogwahak-ro, Yeonsu-gu, Incheon 21984, South Korea",Incheon,Incheon,South Korea,21984,Asia/Seoul
+548,Juan Maeum Polyclinic,"10 Juan-ro, Michuhol-gu, Incheon 22200, South Korea",Incheon,Incheon,South Korea,22200,Asia/Seoul
+549,Cheongna Dure Medical Clinic,"20 Cheongna emerald-ro, Seo-gu, Incheon 22757, South Korea",Incheon,Incheon,South Korea,22757,Asia/Seoul
+550,Gangnam Haneul Family Clinic,"152 Teheran-ro, Gangnam-gu, Seoul 06236, South Korea",Seoul,Seoul,South Korea,06236,Asia/Seoul
+551,Jongno Dasom Medical Centre,"33 Samil-daero, Jongno-gu, Seoul 03189, South Korea",Seoul,Seoul,South Korea,03189,Asia/Seoul
+552,Mapo Barun Internal Medicine Clinic,"100 Mapo-daero, Mapo-gu, Seoul 04174, South Korea",Seoul,Seoul,South Korea,04174,Asia/Seoul
+553,Songpa Saenal Health Clinic,"300 Olympic-ro, Songpa-gu, Seoul 05551, South Korea",Seoul,Seoul,South Korea,05551,Asia/Seoul
+554,Yeongdeungpo Miso Medical Clinic,"24 Yeoui-daero, Yeongdeungpo-gu, Seoul 07236, South Korea",Seoul,Seoul,South Korea,07236,Asia/Seoul
+555,Sanduo Fuhe Medical Clinic,"1 Sanduo 3rd Rd, Lingya District, Kaohsiung 802, Taiwan",Kaohsiung,Kaohsiung City,Taiwan,802,Asia/Taipei
+556,Zuoying Anxin Family Clinic,"217 Zuoying Rd, Zuoying District, Kaohsiung 813, Taiwan",Kaohsiung,Kaohsiung City,Taiwan,813,Asia/Taipei
+557,Gushan Haibin Health Clinic,"10 Linhai 2nd Rd, Gushan District, Kaohsiung 804, Taiwan",Kaohsiung,Kaohsiung City,Taiwan,804,Asia/Taipei
+558,Fengshan Kangtai Polyclinic,"12 Zhongshan East Rd, Fengshan District, Kaohsiung 830, Taiwan",Kaohsiung,Kaohsiung City,Taiwan,830,Asia/Taipei
+559,Xinxing Jiali Medical Clinic,"50 Zhongshan 1st Rd, Xinxing District, Kaohsiung 800, Taiwan",Kaohsiung,Kaohsiung City,Taiwan,800,Asia/Taipei
+560,Xitun Guangming Medical Clinic,"99 Taiwan Blvd Section 3, Xitun District, Taichung 407, Taiwan",Taichung,Taichung City,Taiwan,407,Asia/Taipei
+561,Beitun Hecheng Family Clinic,"100 Beitun Rd, Beitun District, Taichung 406, Taiwan",Taichung,Taichung City,Taiwan,406,Asia/Taipei
+562,Nantun Yongkang Health Clinic,"10 Dadun Rd, Nantun District, Taichung 408, Taiwan",Taichung,Taichung City,Taiwan,408,Asia/Taipei
+563,Central District Fengle Polyclinic,"1 Zhongshan Rd, Central District, Taichung 400, Taiwan",Taichung,Taichung City,Taiwan,400,Asia/Taipei
+564,Fengyuan Anle Medical Clinic,"20 Zhongzheng Rd, Fengyuan District, Taichung 420, Taiwan",Taichung,Taichung City,Taiwan,420,Asia/Taipei
+565,Anping Haiyun Medical Clinic,"10 Anping Rd, Anping District, Tainan 708, Taiwan",Tainan,Tainan City,Taiwan,708,Asia/Taipei
+566,East District Jiaxin Family Clinic,"100 Daxue Rd, East District, Tainan 701, Taiwan",Tainan,Tainan City,Taiwan,701,Asia/Taipei
+567,West Central Fuhe Health Clinic,"1 Zhongzheng Rd, West Central District, Tainan 700, Taiwan",Tainan,Tainan City,Taiwan,700,Asia/Taipei
+568,Yongkang Hongren Polyclinic,"301 Zhongzheng North Rd, Yongkang District, Tainan 710, Taiwan",Tainan,Tainan City,Taiwan,710,Asia/Taipei
+569,North District Shengyuan Medical Clinic,"200 Gongyuan Rd, North District, Tainan 704, Taiwan",Tainan,Tainan City,Taiwan,704,Asia/Taipei
+570,Xinyi Anhe Family Clinic,"7 Xinyi Rd Section 5, Xinyi District, Taipei 110, Taiwan",Taipei,Taipei City,Taiwan,110,Asia/Taipei
+571,Zhongshan Kangle Medical Clinic,"1 Zhongshan North Rd Section 2, Zhongshan District, Taipei 104, Taiwan",Taipei,Taipei City,Taiwan,104,Asia/Taipei
+572,Daan Mingde Health Clinic,"101 Zhongxiao East Rd Section 4, Da'an District, Taipei 106, Taiwan",Taipei,Taipei City,Taiwan,106,Asia/Taipei
+573,Neihu Hengsheng Polyclinic,"1 Jinhu Rd, Neihu District, Taipei 114, Taiwan",Taipei,Taipei City,Taiwan,114,Asia/Taipei
+574,Shilin Tianmu Medical Clinic,"301 Wenlin Rd, Shilin District, Taipei 111, Taiwan",Taipei,Taipei City,Taiwan,111,Asia/Taipei
+575,Harbour Lane Family Clinic,"4 Tampines Central 5, Tampines Mall, Singapore 529510, Singapore",Singapore,Tampines,Singapore,529510,Asia/Singapore
+576,Sunrise Medical Centre,"2 Tampines Central 5, Century Square, Singapore 529509, Singapore",Singapore,Tampines,Singapore,529509,Asia/Singapore
+577,Pasir View Polyclinic,"10 Tampines Central 1, Tampines 1, Singapore 529536, Singapore",Singapore,Tampines,Singapore,529536,Asia/Singapore
+578,Lotus Family Practice,"5 Tampines Central 1, Tampines Plaza, Singapore 529541, Singapore",Singapore,Tampines,Singapore,529541,Asia/Singapore
+579,Kampong Glam Health Clinic,"300 Tampines Avenue 5, Tampines Junction, Singapore 529653, Singapore",Singapore,Tampines,Singapore,529653,Asia/Singapore
+580,Orchid Care Medical,"50 Jurong Gateway Road, JEM, Singapore 608549, Singapore",Singapore,Jurong East,Singapore,608549,Asia/Singapore
+581,Merlion Family Doctors,"3 Gateway Drive, Westgate, Singapore 608532, Singapore",Singapore,Jurong East,Singapore,608532,Asia/Singapore
+582,Bayfront Wellness Clinic,"1 Venture Avenue, Singapore 608521, Singapore",Singapore,Jurong East,Singapore,608521,Asia/Singapore
+583,Jade Garden Clinic,"2 Jurong East Street 21, IMM Building, Singapore 609601, Singapore",Singapore,Jurong East,Singapore,609601,Asia/Singapore
+584,Heartland Medical Group,"135 Jurong Gateway Road, Singapore 600135, Singapore",Singapore,Jurong East,Singapore,600135,Asia/Singapore
+585,Tiong Family Clinic,"1 Woodlands Square, Causeway Point, Singapore 738099, Singapore",Singapore,Woodlands,Singapore,738099,Asia/Singapore
+586,Paya Lebar Health Practice,"12 Woodlands Square, Woods Square, Singapore 737715, Singapore",Singapore,Woodlands,Singapore,737715,Asia/Singapore
+587,Greenview Medical Centre,"4 Woodlands Street 12, Marsiling Mall, Singapore 738623, Singapore",Singapore,Woodlands,Singapore,738623,Asia/Singapore
+588,Blossom Family Clinic,"768 Woodlands Avenue 6, Singapore 730768, Singapore",Singapore,Woodlands,Singapore,730768,Asia/Singapore
+589,Riverside Care Clinic,"888 Woodlands Drive 50, Singapore 730888, Singapore",Singapore,Woodlands,Singapore,730888,Asia/Singapore
+590,Queensway Health Centre,"53 Ang Mo Kio Avenue 3, AMK Hub, Singapore 569933, Singapore",Singapore,Ang Mo Kio,Singapore,569933,Asia/Singapore
+591,Kopi Corner Clinic,"724 Ang Mo Kio Avenue 6, Singapore 560724, Singapore",Singapore,Ang Mo Kio,Singapore,560724,Asia/Singapore
+592,Banyan Tree Medical,"628 Ang Mo Kio Avenue 4, Singapore 560628, Singapore",Singapore,Ang Mo Kio,Singapore,560628,Asia/Singapore
+593,Starlight Family Clinic,"453 Ang Mo Kio Avenue 10, Singapore 560453, Singapore",Singapore,Ang Mo Kio,Singapore,560453,Asia/Singapore
+594,Pioneer Health Practice,"409 Ang Mo Kio Avenue 10, Singapore 560409, Singapore",Singapore,Ang Mo Kio,Singapore,560409,Asia/Singapore
+595,Klinik Harmoni,"163D Persiaran Gurney, Gurney Paragon, 10250 George Town, Malaysia",George Town,Penang,Malaysia,10250,Asia/Kuala_Lumpur
+596,Pusat Perubatan Cahaya,"228 Jalan Macalister, 10400 George Town, Malaysia",George Town,Penang,Malaysia,10400,Asia/Kuala_Lumpur
+597,Klinik Kasih Sayang,"182 Jalan Magazine, 10300 George Town, Malaysia",George Town,Penang,Malaysia,10300,Asia/Kuala_Lumpur
+598,Bayu Medical Centre,"100 Persiaran Bayan Indah, Bayan Lepas, 11900 George Town, Malaysia",George Town,Penang,Malaysia,11900,Asia/Kuala_Lumpur
+599,Klinik Permata Hati,"Jalan Dato Ismail Hashim, Penang Times Square, 11600 George Town, Malaysia",George Town,Penang,Malaysia,11600,Asia/Kuala_Lumpur
+600,Klinik Nusa Prima,"105 Jalan Sultan Abdul Jalil, Greentown, 30450 Ipoh, Malaysia",Ipoh,Perak,Malaysia,30450,Asia/Kuala_Lumpur
+601,Lestari Health Centre,"1 Jalan Medan Ipoh 1, Medan Ipoh Bistari, 31400 Ipoh, Malaysia",Ipoh,Perak,Malaysia,31400,Asia/Kuala_Lumpur
+602,Klinik Medik Tulus,"18 Jalan Seenivasagam, 30450 Ipoh, Malaysia",Ipoh,Perak,Malaysia,30450,Asia/Kuala_Lumpur
+603,Cempaka Family Clinic,"2 Persiaran Greentown 5, Greentown Business Centre, 30450 Ipoh, Malaysia",Ipoh,Perak,Malaysia,30450,Asia/Kuala_Lumpur
+604,Klinik Wawasan,"Jalan Tokong, Ipoh Garden, 31400 Ipoh, Malaysia",Ipoh,Perak,Malaysia,31400,Asia/Kuala_Lumpur
+605,Jaya Family Health Practice,"106 Jalan Wong Ah Fook, 80000 Johor Bahru, Malaysia",Johor Bahru,Johor,Malaysia,80000,Asia/Kuala_Lumpur
+606,Klinik Sinar Mutiara,"1 Persiaran Southkey 1, Southkey, 80150 Johor Bahru, Malaysia",Johor Bahru,Johor,Malaysia,80150,Asia/Kuala_Lumpur
+607,Rimba Medical Clinic,"33 Jalan Seladang, Taman Abad, 80250 Johor Bahru, Malaysia",Johor Bahru,Johor,Malaysia,80250,Asia/Kuala_Lumpur
+608,Klinik Sejahtera Bersama,"65 Jalan Trus, Menara Ansar, 80000 Johor Bahru, Malaysia",Johor Bahru,Johor,Malaysia,80000,Asia/Kuala_Lumpur
+609,Anggerik Polyclinic,"1 Jalan Ibrahim Sultan, Stulang Laut, 80300 Johor Bahru, Malaysia",Johor Bahru,Johor,Malaysia,80300,Asia/Kuala_Lumpur
+610,Klinik Mutiara Sentosa,"285 Jalan Maarof, Bangsar, 59000 Kuala Lumpur, Malaysia",Kuala Lumpur,Kuala Lumpur,Malaysia,59000,Asia/Kuala_Lumpur
+611,Klinik Kesihatan Bunga Raya,"60 Jalan Sri Hartamas 1, Sri Hartamas, 50480 Kuala Lumpur, Malaysia",Kuala Lumpur,Kuala Lumpur,Malaysia,50480,Asia/Kuala_Lumpur
+612,Taman Sari Medical Centre,"Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Malaysia",Kuala Lumpur,Kuala Lumpur,Malaysia,59200,Asia/Kuala_Lumpur
+613,Klinik Dr. Aman Bersatu,"Lingkaran SV, Sunway Velocity, 55100 Kuala Lumpur, Malaysia",Kuala Lumpur,Kuala Lumpur,Malaysia,55100,Asia/Kuala_Lumpur
+614,Seri Impian Family Clinic,"9 Jalan Wangsa Delima 5, Wangsa Maju, 53300 Kuala Lumpur, Malaysia",Kuala Lumpur,Kuala Lumpur,Malaysia,53300,Asia/Kuala_Lumpur
+615,Kalusugan Plus Clinic,"Archbishop Reyes Ave, Ayala Center Cebu, Cebu City 6000, Philippines",Cebu City,Cebu,Philippines,6000,Asia/Manila
+616,Hiraya Family Clinic,"Juan Luna Ave, SM City Cebu, Cebu City 6000, Philippines",Cebu City,Cebu,Philippines,6000,Asia/Manila
+617,Santa Rosalia Medical Clinic,"General Maxilom Ave, Robinsons Galleria Cebu, Cebu City 6000, Philippines",Cebu City,Cebu,Philippines,6000,Asia/Manila
+618,Pag-asa Health Centre,"Salinas Drive, JY Square Mall, Lahug, Cebu City 6000, Philippines",Cebu City,Cebu,Philippines,6000,Asia/Manila
+619,Klinika Ligaya,"Geonzon St, Cebu IT Park, Apas, Cebu City 6000, Philippines",Cebu City,Cebu,Philippines,6000,Asia/Manila
+620,Tala Medical Clinic,"Quimpo Blvd, SM City Davao, Ecoland, Davao City 8000, Philippines",Davao City,Davao del Sur,Philippines,8000,Asia/Manila
+621,Araw Family Clinic,"J.P. Laurel Ave, Abreeza Mall, Bajada, Davao City 8000, Philippines",Davao City,Davao del Sur,Philippines,8000,Asia/Manila
+622,San Isidro Polyclinic,"J.P. Laurel Ave, Victoria Plaza, Bajada, Davao City 8000, Philippines",Davao City,Davao del Sur,Philippines,8000,Asia/Manila
+623,Kapitbahay Health Clinic,"Quimpo Blvd, Felcris Centrale, Davao City 8000, Philippines",Davao City,Davao del Sur,Philippines,8000,Asia/Manila
+624,Maharlika Medical Centre,"C.M. Recto Ave, Davao City 8000, Philippines",Davao City,Davao del Sur,Philippines,8000,Asia/Manila
+625,Klinika Santa Teresita,"Arroceros St, SM City Manila, Ermita, Manila 1000, Philippines",Manila,Metro Manila,Philippines,1000,Asia/Manila
+626,Bayanihan Medical Clinic,"Reina Regente St, Lucky Chinatown, Binondo, Manila 1006, Philippines",Manila,Metro Manila,Philippines,1006,Asia/Manila
+627,San Lorenzo Family Clinic,"C.M. Recto Ave, Tutuban Center, Tondo, Manila 1012, Philippines",Manila,Metro Manila,Philippines,1012,Asia/Manila
+628,Mabuhay Health Centre,"Pedro Gil St, Robinsons Place Manila, Ermita, Manila 1000, Philippines",Manila,Metro Manila,Philippines,1000,Asia/Manila
+629,Klinika Luntian,"Quirino Ave, Malate, Manila 1004, Philippines",Manila,Metro Manila,Philippines,1004,Asia/Manila
+630,Perlas ng Silangan Medical Clinic,"EDSA corner North Ave, TriNoma, Quezon City 1105, Philippines",Quezon City,Metro Manila,Philippines,1105,Asia/Manila
+631,Santo Nino Polyclinic,"Katipunan Ave, UP Town Center, Quezon City 1108, Philippines",Quezon City,Metro Manila,Philippines,1108,Asia/Manila
+632,Dalisay Family Health Practice,"1 Eastwood Avenue, Eastwood City, Bagumbayan, Quezon City 1110, Philippines",Quezon City,Metro Manila,Philippines,1110,Asia/Manila
+633,Klinika Maginhawa,"EDSA corner Quezon Ave, Eton Centris, Quezon City 1103, Philippines",Quezon City,Metro Manila,Philippines,1103,Asia/Manila
+634,Sampaguita Medical Centre,"11 Scout Tuason, Quezon City 1103, Philippines",Quezon City,Metro Manila,Philippines,1103,Asia/Manila
+635,Phong Kham Da Khoa Phuc An,"910A Ngo Quyen, An Hai Bac, Son Tra, Da Nang 550000, Vietnam",Da Nang,Da Nang,Vietnam,550000,Asia/Ho_Chi_Minh
+636,Phong Kham Tam Giao,"74 Bach Dang, Hai Chau 1, Hai Chau, Da Nang 550000, Vietnam",Da Nang,Da Nang,Vietnam,550000,Asia/Ho_Chi_Minh
+637,Phong Kham Bach Duong,"6 Nai Nam, Hoa Cuong Bac, Hai Chau, Da Nang 550000, Vietnam",Da Nang,Da Nang,Vietnam,550000,Asia/Ho_Chi_Minh
+638,Phong Kham Da Khoa Sao Mai,"119 Tran Phu, Hai Chau 1, Hai Chau, Da Nang 550000, Vietnam",Da Nang,Da Nang,Vietnam,550000,Asia/Ho_Chi_Minh
+639,Phong Kham Thanh Binh,"2 Quang Trung, Thach Thang, Hai Chau, Da Nang 550000, Vietnam",Da Nang,Da Nang,Vietnam,550000,Asia/Ho_Chi_Minh
+640,Phong Kham Gia Dinh Viet Y,"1 Vo Nguyen Giap, Dong Hai, Le Chan, Hai Phong 180000, Vietnam",Hai Phong,Hai Phong,Vietnam,180000,Asia/Ho_Chi_Minh
+641,Phong Kham Hai Au,"10 Dien Bien Phu, Minh Khai, Hong Bang, Hai Phong 180000, Vietnam",Hai Phong,Hai Phong,Vietnam,180000,Asia/Ho_Chi_Minh
+642,Phong Kham Da Khoa Nam Phuong,"200 Tran Nguyen Han, Lach Tray, Le Chan, Hai Phong 180000, Vietnam",Hai Phong,Hai Phong,Vietnam,180000,Asia/Ho_Chi_Minh
+643,Phong Kham Cat Tuong,"30 Quang Trung, Hong Bang, Hai Phong 180000, Vietnam",Hai Phong,Hai Phong,Vietnam,180000,Asia/Ho_Chi_Minh
+644,Phong Kham Da Khoa Tuong Lai,"11 Le Thanh Tong, May To, Ngo Quyen, Hai Phong 180000, Vietnam",Hai Phong,Hai Phong,Vietnam,180000,Asia/Ho_Chi_Minh
+645,Phong Kham Da Khoa Hoa Sen,"54 Lieu Giai, Cong Vi, Ba Dinh, Hanoi 100000, Vietnam",Hanoi,Hanoi,Vietnam,100000,Asia/Ho_Chi_Minh
+646,Phong Kham Binh An,"191 Ba Trieu, Le Dai Hanh, Hai Ba Trung, Hanoi 100000, Vietnam",Hanoi,Hanoi,Vietnam,100000,Asia/Ho_Chi_Minh
+647,Phong Kham Gia Dinh Tam Duc,"29 Lieu Giai, Ngoc Khanh, Ba Dinh, Hanoi 100000, Vietnam",Hanoi,Hanoi,Vietnam,100000,Asia/Ho_Chi_Minh
+648,Phong Kham Da Khoa Thien Phuc,"458 Minh Khai, Vinh Tuy, Hai Ba Trung, Hanoi 100000, Vietnam",Hanoi,Hanoi,Vietnam,100000,Asia/Ho_Chi_Minh
+649,Phong Kham An Khang Plus,"54A Nguyen Chi Thanh, Lang Thuong, Dong Da, Hanoi 100000, Vietnam",Hanoi,Hanoi,Vietnam,100000,Asia/Ho_Chi_Minh
+650,Phong Kham Song Han,"65 Le Loi, Ben Nghe, District 1, Ho Chi Minh City 700000, Vietnam",Ho Chi Minh City,Ho Chi Minh City,Vietnam,700000,Asia/Ho_Chi_Minh
+651,Phong Kham Da Khoa Hong Ngoc,"101 Ton Dat Tien, Tan Phu, District 7, Ho Chi Minh City 700000, Vietnam",Ho Chi Minh City,Ho Chi Minh City,Vietnam,700000,Asia/Ho_Chi_Minh
+652,Phong Kham Minh Tam,"72 Le Thanh Ton, Ben Nghe, District 1, Ho Chi Minh City 700000, Vietnam",Ho Chi Minh City,Ho Chi Minh City,Vietnam,700000,Asia/Ho_Chi_Minh
+653,Phong Kham Gia Dinh Hanh Phuc,"364 Cong Hoa, Ward 13, Tan Binh, Ho Chi Minh City 700000, Vietnam",Ho Chi Minh City,Ho Chi Minh City,Vietnam,700000,Asia/Ho_Chi_Minh
+654,Phong Kham Dong Duong,"561A Dien Bien Phu, Ward 25, Binh Thanh, Ho Chi Minh City 700000, Vietnam",Ho Chi Minh City,Ho Chi Minh City,Vietnam,700000,Asia/Ho_Chi_Minh
+655,Klinik Rahayu Medika,"Jl. Braga No. 99, Bandung 40111, Indonesia",Bandung,West Java,Indonesia,40111,Asia/Jakarta
+656,Klinik Anugerah Sehat,"Jl. Asia Afrika No. 65, Bandung 40111, Indonesia",Bandung,West Java,Indonesia,40111,Asia/Jakarta
+657,Klinik Dharma Bakti,"Jl. Dr. Djunjunan No. 1, Bandung 40173, Indonesia",Bandung,West Java,Indonesia,40173,Asia/Jakarta
+658,Klinik Surya Medika,"Jl. Setiabudi No. 1, Bandung 40141, Indonesia",Bandung,West Java,Indonesia,40141,Asia/Jakarta
+659,Klinik Permata Sehat,"Jl. Buah Batu No. 1, Bandung 40265, Indonesia",Bandung,West Java,Indonesia,40265,Asia/Jakarta
+660,Klinik Tirta Husada,"Jl. Teuku Umar No. 1, Denpasar 80114, Indonesia",Denpasar,Bali,Indonesia,80114,Asia/Makassar
+661,Klinik Griya Sehat,"Jl. Sunset Road No. 100, Kuta, Denpasar 80361, Indonesia",Denpasar,Bali,Indonesia,80361,Asia/Makassar
+662,Klinik Amanah Medika,"Jl. Gatot Subroto Barat No. 1, Denpasar 80111, Indonesia",Denpasar,Bali,Indonesia,80111,Asia/Makassar
+663,Klinik Berkah Keluarga,"Jl. Mahendradatta Selatan No. 1, Denpasar 80119, Indonesia",Denpasar,Bali,Indonesia,80119,Asia/Makassar
+664,Klinik Gemilang Sehat,"Jl. Hayam Wuruk No. 1, Denpasar 80235, Indonesia",Denpasar,Bali,Indonesia,80235,Asia/Makassar
+665,Klinik Pratama Sehat Sentosa,"Jl. Jenderal Sudirman Kav. 52-53, Senayan, Jakarta Selatan 12190, Indonesia",Jakarta,DKI Jakarta,Indonesia,12190,Asia/Jakarta
+666,Klinik Cahaya Medika,"Jl. H.R. Rasuna Said Kav. C-22, Kuningan, Jakarta Selatan 12940, Indonesia",Jakarta,DKI Jakarta,Indonesia,12940,Asia/Jakarta
+667,Klinik Utama Bina Husada,"Jl. M.H. Thamrin No. 1, Jakarta Pusat 10310, Indonesia",Jakarta,DKI Jakarta,Indonesia,10310,Asia/Jakarta
+668,Klinik Harapan Keluarga,"Jl. Pluit Selatan Raya No. 1, Penjaringan, Jakarta Utara 14440, Indonesia",Jakarta,DKI Jakarta,Indonesia,14440,Asia/Jakarta
+669,Klinik Medika Nusantara,"Jl. Boulevard Raya, Kelapa Gading, Jakarta Utara 14240, Indonesia",Jakarta,DKI Jakarta,Indonesia,14240,Asia/Jakarta
+670,Klinik Sumber Waras Jaya,"Jl. Raya Darmo No. 1, Surabaya 60264, Indonesia",Surabaya,East Java,Indonesia,60264,Asia/Jakarta
+671,Klinik Mitra Sehat,"Jl. Mayjen Sungkono No. 89, Surabaya 60225, Indonesia",Surabaya,East Java,Indonesia,60225,Asia/Jakarta
+672,Klinik Bunda Sejahtera,"Jl. Basuki Rahmat No. 8, Surabaya 60261, Indonesia",Surabaya,East Java,Indonesia,60261,Asia/Jakarta
+673,Klinik Kasih Ibu Medika,"Jl. Ngagel Jaya Selatan No. 1, Surabaya 60283, Indonesia",Surabaya,East Java,Indonesia,60283,Asia/Jakarta
+674,Klinik Prima Husada,"Jl. Pemuda No. 31-37, Surabaya 60271, Indonesia",Surabaya,East Java,Indonesia,60271,Asia/Jakarta
+675,Siam Family Clinic,"299 Charoen Nakhon Road, Khlong Ton Sai, Khlong San, Bangkok 10600, Thailand",Bangkok,Bangkok,Thailand,10600,Asia/Bangkok
+676,Baan Sukhaphap Clinic,"1031 Phloen Chit Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",Bangkok,Bangkok,Thailand,10330,Asia/Bangkok
+677,Phra Nakhon Medical Clinic,"195 South Sathorn Road, Yan Nawa, Sathon, Bangkok 10120, Thailand",Bangkok,Bangkok,Thailand,10120,Asia/Bangkok
+678,Thonglor Wellness Clinic,"99 Ratchadaphisek Road, Huai Khwang, Bangkok 10310, Thailand",Bangkok,Bangkok,Thailand,10310,Asia/Bangkok
+679,Lanna Family Clinic,"1693 Phahonyothin Road, Chatuchak, Bangkok 10900, Thailand",Bangkok,Bangkok,Thailand,10900,Asia/Bangkok
+680,Doi Suthep Medical Clinic,"1 Huay Kaew Road, Kad Suan Kaew, Suthep, Mueang Chiang Mai 50200, Thailand",Chiang Mai,Chiang Mai,Thailand,50200,Asia/Bangkok
+681,Andaman Care Clinic,"99 Moo 4 Chiang Mai-Lampang Road, Mueang Chiang Mai 50000, Thailand",Chiang Mai,Chiang Mai,Thailand,50000,Asia/Bangkok
+682,Rawai Family Practice,"Huay Kaew Road, Suthep, Mueang Chiang Mai 50200, Thailand",Chiang Mai,Chiang Mai,Thailand,50200,Asia/Bangkok
+683,Sabai Health Clinic,"2 Mahidol Road, Haiya, Mueang Chiang Mai 50100, Thailand",Chiang Mai,Chiang Mai,Thailand,50100,Asia/Bangkok
+684,Chao Phraya Medical Centre,"Charoenmuang Road, Wat Ket, Mueang Chiang Mai 50000, Thailand",Chiang Mai,Chiang Mai,Thailand,50000,Asia/Bangkok
+685,Wellness Point Clinic,"78/54 Moo 9 Pattaya Sai 2 Road, Nong Prue, Bang Lamung, Chonburi 20150, Thailand",Pattaya,Chonburi,Thailand,20150,Asia/Bangkok
+686,Rim Nam Medical Centre,"Pattaya Third Road, Tukcom, Nong Prue, Bang Lamung, Chonburi 20150, Thailand",Pattaya,Chonburi,Thailand,20150,Asia/Bangkok
+687,Dok Mai Family Clinic,"Pattaya Klang Road, Nong Prue, Bang Lamung, Chonburi 20150, Thailand",Pattaya,Chonburi,Thailand,20150,Asia/Bangkok
+688,Thai Charoen Polyclinic,"Jomtien Second Road, Nong Prue, Bang Lamung, Chonburi 20150, Thailand",Pattaya,Chonburi,Thailand,20150,Asia/Bangkok
+689,Naklua Seaside Clinic,"Naklua Road, Naklua, Bang Lamung, Chonburi 20150, Thailand",Pattaya,Chonburi,Thailand,20150,Asia/Bangkok
+690,Mueang Thong Polyclinic,"33/1 Moo 6 Srisoonthorn Road, Choeng Thale, Thalang, Phuket 83110, Thailand",Phuket,Phuket,Thailand,83110,Asia/Bangkok
+691,Ruam Jai Clinic,"74-75 Wichit Songkram Road, Wichit, Mueang Phuket 83000, Thailand",Phuket,Phuket,Thailand,83000,Asia/Bangkok
+692,Nakhon Family Health Clinic,"Thalang Road, Talat Yai, Mueang Phuket 83000, Thailand",Phuket,Phuket,Thailand,83000,Asia/Bangkok
+693,Suk Jai Medical Clinic,"26 Dibuk Road, Talat Yai, Mueang Phuket 83000, Thailand",Phuket,Phuket,Thailand,83000,Asia/Bangkok
+694,Jomtien Bay Clinic,"1 Tilok Uthit 1 Road, Talat Yai, Mueang Phuket 83000, Thailand",Phuket,Phuket,Thailand,83000,Asia/Bangkok
+695,Karnaphuli Family Clinic,"House 1, Road 1, Khulshi, Chittagong 4202, Bangladesh",Chittagong,Chattogram Division,Bangladesh,4202,Asia/Dhaka
+696,Khulshi Care Medical Centre,"O. R. Nizam Road, Panchlaish, Chittagong 4203, Bangladesh",Chittagong,Chattogram Division,Bangladesh,4203,Asia/Dhaka
+697,Bandar Nagar Polyclinic,"1 Station Road, Pahartali, Chittagong 4202, Bangladesh",Chittagong,Chattogram Division,Bangladesh,4202,Asia/Dhaka
+698,Panchlaish Health Point,"CSE Building, 1080 Sheikh Mujib Road, Agrabad, Chittagong 4100, Bangladesh",Chittagong,Chattogram Division,Bangladesh,4100,Asia/Dhaka
+699,Nirmal Shastho Clinic,"Sanmar Ocean City, Sheikh Mujib Road, Agrabad, Chittagong 4100, Bangladesh",Chittagong,Chattogram Division,Bangladesh,4100,Asia/Dhaka
+700,Shapla Family Care Centre,"Plot 4, Road 104, Gulshan 2, Dhaka 1212, Bangladesh",Dhaka,Dhaka Division,Bangladesh,1212,Asia/Dhaka
+701,Dhanshiri Medical Centre,"House 32, Road 9/A, Dhanmondi, Dhaka 1209, Bangladesh",Dhaka,Dhaka Division,Bangladesh,1209,Asia/Dhaka
+702,Uttara Nirapod Polyclinic,"Plot 6, Section 10, Mirpur, Dhaka 1216, Bangladesh",Dhaka,Dhaka Division,Bangladesh,1216,Asia/Dhaka
+703,Surjomukhi Health Practice,"Eastern Plaza, 1 Sonargaon Road, Hatirpool, Dhaka 1205, Bangladesh",Dhaka,Dhaka Division,Bangladesh,1205,Asia/Dhaka
+704,Padma Wellness Clinic,"Bashundhara City Shopping Complex, 13/14 Panthapath, Dhaka 1215, Bangladesh",Dhaka,Dhaka Division,Bangladesh,1215,Asia/Dhaka
+705,Rupsha Family Health Centre,"KDA Avenue, Mujgunni, Khulna 9100, Bangladesh",Khulna,Khulna Division,Bangladesh,9100,Asia/Dhaka
+706,Sundarban Medical Point,"Royal Mor, Khulna 9100, Bangladesh",Khulna,Khulna Division,Bangladesh,9100,Asia/Dhaka
+707,Bhairab Care Polyclinic,"Gollamari Bazar, Khulna 9100, Bangladesh",Khulna,Khulna Division,Bangladesh,9100,Asia/Dhaka
+708,Khalishpur Health Practice,"Plot 5, Sonadanga Residential Area, Khulna 9100, Bangladesh",Khulna,Khulna Division,Bangladesh,9100,Asia/Dhaka
+709,Shibbari Wellness Clinic,"22 Shib Bari More, Khulna 9100, Bangladesh",Khulna,Khulna Division,Bangladesh,9100,Asia/Dhaka
+710,Surma Valley Medical Centre,"Amberkhana Point, Sylhet 3100, Bangladesh",Sylhet,Sylhet Division,Bangladesh,3100,Asia/Dhaka
+711,Chaya Nir Family Clinic,"Upashahar Main Road, Sylhet 3100, Bangladesh",Sylhet,Sylhet Division,Bangladesh,3100,Asia/Dhaka
+712,Jalalabad Health Practice,"Naiorpul Point, Sylhet 3100, Bangladesh",Sylhet,Sylhet Division,Bangladesh,3100,Asia/Dhaka
+713,Haor Shuborno Polyclinic,"Zindabazar Point, Zindabazar Road, Sylhet 3100, Bangladesh",Sylhet,Sylhet Division,Bangladesh,3100,Asia/Dhaka
+714,Shahjalal Road Care Clinic,"Rikabi Bazar, Sylhet 3100, Bangladesh",Sylhet,Sylhet Division,Bangladesh,3100,Asia/Dhaka
+715,Lotus Pond Family Clinic,"250 Galle Road, Kollupitiya, Colombo 00300, Sri Lanka",Colombo,Western Province,Sri Lanka,00300,Asia/Colombo
+716,Kollupitiya Medical Centre,"100 Havelock Road, Colombo 00500, Sri Lanka",Colombo,Western Province,Sri Lanka,00500,Asia/Colombo
+717,Nawala Health Practice,"One Galle Face Mall, 1A Centre Road, Colombo 00200, Sri Lanka",Colombo,Western Province,Sri Lanka,00200,Asia/Colombo
+718,Havelock Care Polyclinic,"Liberty Plaza, R. A. De Mel Mawatha, Colombo 00300, Sri Lanka",Colombo,Western Province,Sri Lanka,00300,Asia/Colombo
+719,Dehiwala Seaside Clinic,"Majestic City, 10 Station Road, Colombo 00400, Sri Lanka",Colombo,Western Province,Sri Lanka,00400,Asia/Colombo
+720,Rumassala Family Clinic,"Pettigalawatta Road, Galle 80000, Sri Lanka",Galle,Southern Province,Sri Lanka,80000,Asia/Colombo
+721,Fort View Medical Centre,"Light House Street, Galle 80000, Sri Lanka",Galle,Southern Province,Sri Lanka,80000,Asia/Colombo
+722,Unawatuna Health Practice,"18 Richmond Hill Road, Galle 80000, Sri Lanka",Galle,Southern Province,Sri Lanka,80000,Asia/Colombo
+723,Southern Coast Polyclinic,"60 Colombo Road, Galle 80000, Sri Lanka",Galle,Southern Province,Sri Lanka,80000,Asia/Colombo
+724,Kaluwella Care Clinic,"90 Matara Road, Galle 80000, Sri Lanka",Galle,Southern Province,Sri Lanka,80000,Asia/Colombo
+725,Nallur Family Clinic,"27 Hospital Road, Jaffna 40000, Sri Lanka",Jaffna,Northern Province,Sri Lanka,40000,Asia/Colombo
+726,Palmyra Medical Centre,"Ariyalai Road, Jaffna 40000, Sri Lanka",Jaffna,Northern Province,Sri Lanka,40000,Asia/Colombo
+727,Kokuvil Health Practice,"Main Street, Jaffna 40000, Sri Lanka",Jaffna,Northern Province,Sri Lanka,40000,Asia/Colombo
+728,Stanley Road Care Polyclinic,"120 KKS Road, Jaffna 40000, Sri Lanka",Jaffna,Northern Province,Sri Lanka,40000,Asia/Colombo
+729,Thirunelveli Wellness Clinic,"22 Stanley Road, Jaffna 40000, Sri Lanka",Jaffna,Northern Province,Sri Lanka,40000,Asia/Colombo
+730,Hanthana Family Clinic,"Anagarika Dharmapala Mawatha, Kandy 20000, Sri Lanka",Kandy,Central Province,Sri Lanka,20000,Asia/Colombo
+731,Mahaweli Medical Centre,"Kandy City Centre, 5 Dalada Veediya, Kandy 20000, Sri Lanka",Kandy,Central Province,Sri Lanka,20000,Asia/Colombo
+732,Udawatta Health Practice,"12 Peradeniya Road, Kandy 20000, Sri Lanka",Kandy,Central Province,Sri Lanka,20000,Asia/Colombo
+733,Sembuwatta Care Clinic,"45 Katugastota Road, Kandy 20800, Sri Lanka",Kandy,Central Province,Sri Lanka,20800,Asia/Colombo
+734,Lakeview Polyclinic Kandy,"30 Colombo Street, Kandy 20000, Sri Lanka",Kandy,Central Province,Sri Lanka,20000,Asia/Colombo
+735,Table View Family Practice,"Long Street, Cape Town 8001, South Africa",Cape Town,Western Cape,South Africa,8001,Africa/Johannesburg
+736,Claremont Oaks Medical Centre,"Cavendish Square, Dreyer Street, Claremont, Cape Town 7708, South Africa",Cape Town,Western Cape,South Africa,7708,Africa/Johannesburg
+737,Bellville Park Health Clinic,"Tyger Valley Centre, Willie van Schoor Drive, Bellville, Cape Town 7530, South Africa",Cape Town,Western Cape,South Africa,7530,Africa/Johannesburg
+738,Long Street Medical Rooms,"Canal Walk, Century Boulevard, Century City, Cape Town 7441, South Africa",Cape Town,Western Cape,South Africa,7441,Africa/Johannesburg
+739,Century Bay Care Practice,"Cape Quarter, 27 Somerset Road, De Waterkant, Cape Town 8001, South Africa",Cape Town,Western Cape,South Africa,8001,Africa/Johannesburg
+740,Umhlanga Ridge Family Practice,"Florida Road, Morningside, Durban 4001, South Africa",Durban,KwaZulu-Natal,South Africa,4001,Africa/Johannesburg
+741,Berea Heights Medical Centre,"Gateway Theatre of Shopping, 1 Palm Boulevard, Umhlanga, Durban 4319, South Africa",Durban,KwaZulu-Natal,South Africa,4319,Africa/Johannesburg
+742,Morningside Jacaranda Clinic,"Musgrave Centre, 115 Musgrave Road, Berea, Durban 4001, South Africa",Durban,KwaZulu-Natal,South Africa,4001,Africa/Johannesburg
+743,Westville Greens Health Practice,"Pavilion Shopping Centre, Jack Martens Drive, Westville, Durban 3630, South Africa",Durban,KwaZulu-Natal,South Africa,3630,Africa/Johannesburg
+744,Pinetown Central Care Clinic,"La Lucia Mall, William Campbell Drive, La Lucia, Durban 4051, South Africa",Durban,KwaZulu-Natal,South Africa,4051,Africa/Johannesburg
+745,Sandton Gardens Family Practice,"Oxford Road, Rosebank, Johannesburg 2196, South Africa",Johannesburg,Gauteng,South Africa,2196,Africa/Johannesburg
+746,Rosebank Medical Rooms,"7th Street, Melville, Johannesburg 2109, South Africa",Johannesburg,Gauteng,South Africa,2109,Africa/Johannesburg
+747,Melville Koppies Health Clinic,"Sandton City, 83 Rivonia Road, Sandhurst, Sandton 2196, South Africa",Johannesburg,Gauteng,South Africa,2196,Africa/Johannesburg
+748,Randburg Care Medical Centre,"Rosebank Mall, 50 Bath Avenue, Rosebank, Johannesburg 2196, South Africa",Johannesburg,Gauteng,South Africa,2196,Africa/Johannesburg
+749,Bedfordview Ridge Family Clinic,"Bedford Centre, 1 Smal Street, Bedfordview 2007, South Africa",Johannesburg,Gauteng,South Africa,2007,Africa/Johannesburg
+750,Brooklyn Square Family Practice,"Menlyn Park Shopping Centre, Atterbury Road, Menlyn, Pretoria 0181, South Africa",Pretoria,Gauteng,South Africa,0181,Africa/Johannesburg
+751,Centurion Lakes Medical Centre,"Centurion Mall, Heuwel Road, Centurion 0157, South Africa",Pretoria,Gauteng,South Africa,0157,Africa/Johannesburg
+752,Hatfield Plaza Health Clinic,"Brooklyn Mall, Lois Avenue, Brooklyn, Pretoria 0181, South Africa",Pretoria,Gauteng,South Africa,0181,Africa/Johannesburg
+753,Waterkloof Heights Medical Rooms,"Woodlands Boulevard, Garsfontein Road, Pretoria 0081, South Africa",Pretoria,Gauteng,South Africa,0081,Africa/Johannesburg
+754,Church Street Care Practice,"Lynnwood Bridge Office Park, 4 Daventry Street, Lynnwood Manor, Pretoria 0081, South Africa",Pretoria,Gauteng,South Africa,0081,Africa/Johannesburg
+755,Smouha Family Health Clinic,"El Geish Road, San Stefano, Alexandria 21411, Egypt",Alexandria,Alexandria Governorate,Egypt,21411,Africa/Cairo
+756,Roushdy Medical Centre,"San Stefano Grand Plaza, El Geish Road, Alexandria 21411, Egypt",Alexandria,Alexandria Governorate,Egypt,21411,Africa/Cairo
+757,San Stefano Care Polyclinic,"Zahran Mall, Cleopatra, Alexandria 21411, Egypt",Alexandria,Alexandria Governorate,Egypt,21411,Africa/Cairo
+758,Sidi Gaber Wellness Practice,"Alexandria City Centre, Alexandria Desert Road, Alexandria 21500, Egypt",Alexandria,Alexandria Governorate,Egypt,21500,Africa/Cairo
+759,Miami Bahari Clinic,"El Horreya Road, Alexandria 21500, Egypt",Alexandria,Alexandria Governorate,Egypt,21500,Africa/Cairo
+760,Nile Garden Family Clinic,"City Stars Mall, Omar Ibn Al Khattab Street, Nasr City, Cairo 11371, Egypt",Cairo,Cairo Governorate,Egypt,11371,Africa/Cairo
+761,Nasr City Shifa Medical Centre,"Maadi City Centre, Ring Road, Maadi, Cairo 11431, Egypt",Cairo,Cairo Governorate,Egypt,11431,Africa/Cairo
+762,Heliopolis Salama Polyclinic,"Cairo Festival City Mall, Ring Road, New Cairo 11835, Egypt",Cairo,Cairo Governorate,Egypt,11835,Africa/Cairo
+763,Zamalek Care Health Practice,"El Ahram Street, Heliopolis, Cairo 11341, Egypt",Cairo,Cairo Governorate,Egypt,11341,Africa/Cairo
+764,New Cairo Amal Medical Centre,"Nile City Towers, Corniche El Nile, Cairo 11221, Egypt",Cairo,Cairo Governorate,Egypt,11221,Africa/Cairo
+765,Mohandessin Noor Medical Centre,"Gamet El Dowal El Arabeya Street, Mohandessin, Giza 12411, Egypt",Giza,Giza Governorate,Egypt,12411,Africa/Cairo
+766,Dokki Salam Family Clinic,"Central Axis, 6th of October City, Giza 12566, Egypt",Giza,Giza Governorate,Egypt,12566,Africa/Cairo
+767,Sheikh Zayed Palm Polyclinic,"14 Syria Street, Mohandessin, Giza 12411, Egypt",Giza,Giza Governorate,Egypt,12411,Africa/Cairo
+768,Haram Health Practice,"Arkan Plaza, 26th of July Corridor, Sheikh Zayed City, Giza 12588, Egypt",Giza,Giza Governorate,Egypt,12588,Africa/Cairo
+769,6th October Care Medical Point,"12 Nadi El Seid Street, Dokki, Giza 12311, Egypt",Giza,Giza Governorate,Egypt,12311,Africa/Cairo
+770,Karnak Family Clinic,"Karnak Street, Luxor 85951, Egypt",Luxor,Luxor Governorate,Egypt,85951,Africa/Cairo
+771,Nile Corniche Medical Centre,"Corniche El Nil Street, Luxor 85951, Egypt",Luxor,Luxor Governorate,Egypt,85951,Africa/Cairo
+772,Khaled Ibn El Walid Polyclinic,"Airport Road, Luxor 85951, Egypt",Luxor,Luxor Governorate,Egypt,85951,Africa/Cairo
+773,Television Street Health Practice,"Sheikh Ali Street, Luxor 85951, Egypt",Luxor,Luxor Governorate,Egypt,85951,Africa/Cairo
+774,Thebes Care Clinic,"Al Mahatta Street, Luxor 85951, Egypt",Luxor,Luxor Governorate,Egypt,85951,Africa/Cairo
+775,Corniche Pearl Medical Centre,"Khalidiya Street, Al Khalidiyah, Abu Dhabi, UAE",Abu Dhabi,Abu Dhabi,UAE,,Asia/Dubai
+776,Khalidiya Family Clinic,"Yas Island, Abu Dhabi, UAE",Abu Dhabi,Abu Dhabi,UAE,,Asia/Dubai
+777,Al Reem Care Polyclinic,"Marina Mall, Corniche Road West, Abu Dhabi, UAE",Abu Dhabi,Abu Dhabi,UAE,,Asia/Dubai
+778,Mussafah Health Practice,"Al Wahda Mall, Hazza Bin Zayed Street, Abu Dhabi, UAE",Abu Dhabi,Abu Dhabi,UAE,,Asia/Dubai
+779,Yas Bay Wellness Clinic,"Abu Dhabi Mall, Tourist Club Area, Abu Dhabi, UAE",Abu Dhabi,Abu Dhabi,UAE,,Asia/Dubai
+780,Al Nuaimia Family Clinic,"Corniche Road, Ajman, UAE",Ajman,Ajman,UAE,,Asia/Dubai
+781,Corniche Ajman Medical Centre,"Al Jurf, Ajman, UAE",Ajman,Ajman,UAE,,Asia/Dubai
+782,Al Rashidiya Care Polyclinic,"Sheikh Humaid Bin Rashid Al Nuaimi Street, Ajman, UAE",Ajman,Ajman,UAE,,Asia/Dubai
+783,Jurf Health Practice,"Ajman City Centre, Sheikh Khalifa Bin Zayed Street, Ajman, UAE",Ajman,Ajman,UAE,,Asia/Dubai
+784,Ajman Downtown Wellness Clinic,"Ajman One Towers, Al Sawan, Ajman, UAE",Ajman,Ajman,UAE,,Asia/Dubai
+785,Palm Court Family Clinic,"Building 64, Dubai Healthcare City, Dubai, UAE",Dubai,Dubai,UAE,,Asia/Dubai
+786,Jumeirah Dunes Medical Centre,"Al Khail Road, Al Barsha 1, Dubai, UAE",Dubai,Dubai,UAE,,Asia/Dubai
+787,Business Bay Care Polyclinic,"Mall of the Emirates, Al Barsha 1, Dubai, UAE",Dubai,Dubai,UAE,,Asia/Dubai
+788,Deira Creekside Health Practice,"Century Plaza, Jumeirah Beach Road, Jumeirah 1, Dubai, UAE",Dubai,Dubai,UAE,,Asia/Dubai
+789,Al Barsha Wellness Clinic,"Building 27, Dubai Healthcare City, Dubai, UAE",Dubai,Dubai,UAE,,Asia/Dubai
+790,Al Majaz Family Clinic,"Al Majaz, Buhaira Corniche Road, Sharjah, UAE",Sharjah,Sharjah,UAE,,Asia/Dubai
+791,Al Nahda Medical Centre,"Al Nahda Street, Al Nahda, Sharjah, UAE",Sharjah,Sharjah,UAE,,Asia/Dubai
+792,Rolla Square Care Polyclinic,"Al Arouba Street, Rolla, Sharjah, UAE",Sharjah,Sharjah,UAE,,Asia/Dubai
+793,Muwaileh Health Practice,"Sahara Centre, Al Nahda, Sharjah, UAE",Sharjah,Sharjah,UAE,,Asia/Dubai
+794,Al Khan Seaview Clinic,"City Centre Sharjah, Al Khan, Sharjah, UAE",Sharjah,Sharjah,UAE,,Asia/Dubai
+795,Khor Harbour Family Clinic,"Al Khor Corniche, Al Khor, Qatar",Al Khor,Al Khor,Qatar,,Asia/Qatar
+796,Al Khor Community Medical Centre,"Al Khor Souq, Al Khor, Qatar",Al Khor,Al Khor,Qatar,,Asia/Qatar
+797,Al Thakhira Care Polyclinic,"Al Khor Mall, Al Khor, Qatar",Al Khor,Al Khor,Qatar,,Asia/Qatar
+798,Simaisma Health Practice,"Al Khor Park, Al Khor, Qatar",Al Khor,Al Khor,Qatar,,Asia/Qatar
+799,Al Khor Souq Wellness Clinic,"Al Bayt Stadium Road, Al Khor, Qatar",Al Khor,Al Khor,Qatar,,Asia/Qatar
+800,Wakrah Bay Family Clinic,"Al Wakra Mall, Al Wakrah, Qatar",Al Wakrah,Al Wakrah,Qatar,,Asia/Qatar
+801,Al Wukair Medical Centre,"Al Meera, Al Wakrah, Qatar",Al Wakrah,Al Wakrah,Qatar,,Asia/Qatar
+802,Mesaieed Road Care Polyclinic,"Al Wakra Main Street, Al Wakrah, Qatar",Al Wakrah,Al Wakrah,Qatar,,Asia/Qatar
+803,Wakrah Souq Health Practice,"Al Wukair Street, Al Wukair, Al Wakrah, Qatar",Al Wakrah,Al Wakrah,Qatar,,Asia/Qatar
+804,Al Mashaf Wellness Clinic,"Salwa Road, Al Wakrah, Qatar",Al Wakrah,Al Wakrah,Qatar,,Asia/Qatar
+805,Al Sadd Family Clinic,"Al Corniche Street, West Bay, Doha, Qatar",Doha,Doha,Qatar,,Asia/Qatar
+806,West Bay Pearl Medical Centre,"City Center Doha, West Bay, Doha, Qatar",Doha,Doha,Qatar,,Asia/Qatar
+807,Old Airport Care Polyclinic,"Landmark Mall, Al Shamal Road, Doha, Qatar",Doha,Doha,Qatar,,Asia/Qatar
+808,Muaither Health Practice,"Villaggio Mall, Aspire Zone, Doha, Qatar",Doha,Doha,Qatar,,Asia/Qatar
+809,Souq Waqif Wellness Clinic,"Gate Mall, Al Dafna, Doha, Qatar",Doha,Doha,Qatar,,Asia/Qatar
+810,Lusail Marina Family Clinic,"Marina Promenade, Lusail, Qatar",Lusail,Al Daayen,Qatar,,Asia/Qatar
+811,Fox Hills Medical Centre,"Fox Hills, Lusail, Qatar",Lusail,Al Daayen,Qatar,,Asia/Qatar
+812,Lusail Boulevard Care Polyclinic,"Lusail Boulevard, Lusail, Qatar",Lusail,Al Daayen,Qatar,,Asia/Qatar
+813,Qatar Entertainment City Health Practice,"Entertainment City, Lusail, Qatar",Lusail,Al Daayen,Qatar,,Asia/Qatar
+814,Al Erkyah Wellness Clinic,"Al Erkyah, Lusail, Qatar",Lusail,Al Daayen,Qatar,,Asia/Qatar
+815,Margalla Family Clinic,"Jinnah Super Market, F-7 Markaz, Islamabad 44000, Pakistan",Islamabad,Islamabad Capital Territory,Pakistan,44000,Asia/Karachi
+816,Blue Area Medical Centre,"G-9 Markaz, Islamabad 44000, Pakistan",Islamabad,Islamabad Capital Territory,Pakistan,44000,Asia/Karachi
+817,G-9 Markaz Care Polyclinic,"F-10 Markaz, Islamabad 44000, Pakistan",Islamabad,Islamabad Capital Territory,Pakistan,44000,Asia/Karachi
+818,I-8 Markaz Health Practice,"Centaurus Mall, Jinnah Avenue, F-8, Islamabad 44000, Pakistan",Islamabad,Islamabad Capital Territory,Pakistan,44000,Asia/Karachi
+819,F-10 Markaz Wellness Clinic,"Safa Gold Mall, F-7 Markaz, Islamabad 44000, Pakistan",Islamabad,Islamabad Capital Territory,Pakistan,44000,Asia/Karachi
+820,Clifton Shifa Medical Centre,"Tariq Road, PECHS, Karachi 75400, Pakistan",Karachi,Sindh,Pakistan,75400,Asia/Karachi
+821,Gulshan Noor Family Clinic,"Dolmen Mall Clifton, Marine Drive, Block 4, Clifton, Karachi 75600, Pakistan",Karachi,Sindh,Pakistan,75600,Asia/Karachi
+822,PECHS Care Polyclinic,"Lucky One Mall, Rashid Minhas Road, Gulshan-e-Iqbal, Karachi 75300, Pakistan",Karachi,Sindh,Pakistan,75300,Asia/Karachi
+823,Saddar Sehat Health Practice,"Millennium Mall, Rashid Minhas Road, Karachi 75300, Pakistan",Karachi,Sindh,Pakistan,75300,Asia/Karachi
+824,Defence Phase 5 Medical Point,"Park Towers, Block 5, Clifton, Karachi 75600, Pakistan",Karachi,Sindh,Pakistan,75600,Asia/Karachi
+825,Gulberg Shahi Family Clinic,"MM Alam Road, Gulberg III, Lahore 54660, Pakistan",Lahore,Punjab,Pakistan,54660,Asia/Karachi
+826,Johar Town Sehat Centre,"Y Block, DHA Phase 3, Lahore 54792, Pakistan",Lahore,Punjab,Pakistan,54792,Asia/Karachi
+827,Model Town Care Polyclinic,"Mall Road, Lahore 54000, Pakistan",Lahore,Punjab,Pakistan,54000,Asia/Karachi
+828,DHA Raya Health Practice,"Hafeez Centre, Main Boulevard, Gulberg III, Lahore 54660, Pakistan",Lahore,Punjab,Pakistan,54660,Asia/Karachi
+829,Ravi Bank Medical Centre,"Packages Mall, Walton Road, Lahore 54810, Pakistan",Lahore,Punjab,Pakistan,54810,Asia/Karachi
+830,Khyber Gate Family Clinic,"Deans Trade Centre, Saddar Road, Peshawar 25000, Pakistan",Peshawar,Khyber Pakhtunkhwa,Pakistan,25000,Asia/Karachi
+831,Hayatabad Shifa Centre,"Phase 3 Market, Hayatabad, Peshawar 25100, Pakistan",Peshawar,Khyber Pakhtunkhwa,Pakistan,25100,Asia/Karachi
+832,Saddar Peshawar Care Polyclinic,"Khyber Bazaar, Peshawar 25000, Pakistan",Peshawar,Khyber Pakhtunkhwa,Pakistan,25000,Asia/Karachi
+833,Jamrud Road Medical Point,"Board Bazaar, Peshawar 25100, Pakistan",Peshawar,Khyber Pakhtunkhwa,Pakistan,25100,Asia/Karachi
+834,Gulbahar Health Practice,"Ring Road, Peshawar 25000, Pakistan",Peshawar,Khyber Pakhtunkhwa,Pakistan,25000,Asia/Karachi
+835,Kookaburra Family Medicine,"91 Queen St, Brisbane City QLD 4000, Australia",Brisbane,Queensland,Australia,4000,Australia/Brisbane
+836,Bluegum Medical Group,"322 Moggill Rd, Indooroopilly QLD 4068, Australia",Brisbane,Queensland,Australia,4068,Australia/Brisbane
+837,Federation Square Doctors,"395 Gympie Rd, Chermside QLD 4032, Australia",Brisbane,Queensland,Australia,4032,Australia/Brisbane
+838,Ironbark GP Clinic,"1151 Creek Rd, Carindale QLD 4152, Australia",Brisbane,Queensland,Australia,4152,Australia/Brisbane
+839,Sunset Ridge Medical Centre,"Logan Rd, Mount Gravatt QLD 4122, Australia",Brisbane,Queensland,Australia,4122,Australia/Brisbane
+840,Eucalypt Health Practice,"1341 Dandenong Rd, Chadstone VIC 3148, Australia",Melbourne,Victoria,Australia,3148,Australia/Melbourne
+841,Banksia Medical Centre,"211 La Trobe St, Melbourne VIC 3000, Australia",Melbourne,Victoria,Australia,3000,Australia/Melbourne
+842,Parkside Family Clinic,"120-200 Rosamond Rd, Maribyrnong VIC 3032, Australia",Melbourne,Victoria,Australia,3032,Australia/Melbourne
+843,Bridgeview Medical Practice,"619 Doncaster Rd, Doncaster VIC 3108, Australia",Melbourne,Victoria,Australia,3108,Australia/Melbourne
+844,Riverbend Health Centre,"500 Chapel St, South Yarra VIC 3141, Australia",Melbourne,Victoria,Australia,3141,Australia/Melbourne
+845,Jacaranda Family Practice,"1382 Albany Hwy, Cannington WA 6107, Australia",Perth,Western Australia,Australia,6107,Australia/Perth
+846,Outback Road Medical,"125 Riseley St, Booragoon WA 6154, Australia",Perth,Western Australia,Australia,6154,Australia/Perth
+847,Boronia Health Centre,"200 Karrinyup Rd, Karrinyup WA 6018, Australia",Perth,Western Australia,Australia,6018,Australia/Perth
+848,Seaview Medical Clinic,"420 Joondalup Dr, Joondalup WA 6027, Australia",Perth,Western Australia,Australia,6027,Australia/Perth
+849,Waratah Family Clinic,"1 High St, Fremantle WA 6160, Australia",Perth,Western Australia,Australia,6160,Australia/Perth
+850,Southern Cross Family Medical Practice,"159-175 Church St, Parramatta NSW 2150, Australia",Sydney,New South Wales,Australia,2150,Australia/Sydney
+851,Gumtree Medical Centre,"345 Victoria Ave, Chatswood NSW 2067, Australia",Sydney,New South Wales,Australia,2067,Australia/Sydney
+852,Harbourside General Practice,"500 Oxford St, Bondi Junction NSW 2022, Australia",Sydney,New South Wales,Australia,2022,Australia/Sydney
+853,Wattle Grove Medical,"100 Burwood Rd, Burwood NSW 2134, Australia",Sydney,New South Wales,Australia,2134,Australia/Sydney
+854,Coastal Family Doctors,"1 The Corso, Manly NSW 2095, Australia",Sydney,New South Wales,Australia,2095,Australia/Sydney
+855,Kowhai Family Doctors,"286 Mount Wellington Hwy, Mount Wellington, Auckland 1060, New Zealand",Auckland,Auckland,New Zealand,1060,Pacific/Auckland
+856,Pohutukawa Medical Centre,"309 Broadway, Newmarket, Auckland 1023, New Zealand",Auckland,Auckland,New Zealand,1023,Pacific/Auckland
+857,Harbour View Health Practice,"1 Hurstmere Rd, Takapuna, Auckland 0622, New Zealand",Auckland,Auckland,New Zealand,0622,Pacific/Auckland
+858,Rata Street Medical,"588 Chapel Rd, Botany Downs, Auckland 2013, New Zealand",Auckland,Auckland,New Zealand,2013,Pacific/Auckland
+859,Kauri Family Clinic,"1 Queen St, Auckland CBD, Auckland 1010, New Zealand",Auckland,Auckland,New Zealand,1010,Pacific/Auckland
+860,Rimu Family Clinic,"129 Clarence St, Riccarton, Christchurch 8011, New Zealand",Christchurch,Canterbury,New Zealand,8011,Pacific/Auckland
+861,Kiwi Care Medical Centre,"189 Papanui Rd, Merivale, Christchurch 8014, New Zealand",Christchurch,Canterbury,New Zealand,8014,Pacific/Auckland
+862,Totara Health Centre,"1 Marshland Rd, Shirley, Christchurch 8061, New Zealand",Christchurch,Canterbury,New Zealand,8061,Pacific/Auckland
+863,Taupo Street Doctors,"Main North Rd, Northlands, Papanui, Christchurch 8053, New Zealand",Christchurch,Canterbury,New Zealand,8053,Pacific/Auckland
+864,Puriri Medical Practice,"100 Moorhouse Ave, Christchurch 8011, New Zealand",Christchurch,Canterbury,New Zealand,8011,Pacific/Auckland
+865,Awa Family Health,"1 Victoria St, Hamilton Central, Hamilton 3204, New Zealand",Hamilton,Waikato,New Zealand,3204,Pacific/Auckland
+866,Matai Medical Centre,"501 Victoria St, Hamilton Central, Hamilton 3204, New Zealand",Hamilton,Waikato,New Zealand,3204,Pacific/Auckland
+867,Hauraki Health Clinic,"1 Garden Pl, Hamilton Central, Hamilton 3204, New Zealand",Hamilton,Waikato,New Zealand,3204,Pacific/Auckland
+868,Ponga Family Clinic,"1 Collingwood St, Hamilton Central, Hamilton 3204, New Zealand",Hamilton,Waikato,New Zealand,3204,Pacific/Auckland
+869,Korimako Medical Group,"333 Te Rapa Rd, Te Rapa, Hamilton 3200, New Zealand",Hamilton,Waikato,New Zealand,3200,Pacific/Auckland
+870,Tui Medical Centre,"200 Lambton Quay, Wellington Central, Wellington 6011, New Zealand",Wellington,Wellington,New Zealand,6011,Pacific/Auckland
+871,Southern Alps Health Practice,"100 Courtenay Pl, Te Aro, Wellington 6011, New Zealand",Wellington,Wellington,New Zealand,6011,Pacific/Auckland
+872,Fernbird Family Doctors,"1 Johnsonville Rd, Johnsonville, Wellington 6037, New Zealand",Wellington,Wellington,New Zealand,6037,Pacific/Auckland
+873,Manuka Health Clinic,"119 Willis St, Te Aro, Wellington 6011, New Zealand",Wellington,Wellington,New Zealand,6011,Pacific/Auckland
+874,Waitemata Medical Practice,"1 Queens Dr, Lower Hutt 5010, New Zealand",Wellington,Wellington,New Zealand,5010,Pacific/Auckland

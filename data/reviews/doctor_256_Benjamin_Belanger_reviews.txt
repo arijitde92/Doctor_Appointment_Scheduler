@@ -1,0 +1,59 @@
+Doctor: Dr. Benjamin Bélanger
+Doctor ID: 256
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 2
+City: Calgary, Canada
+Clinics: Prairie Sky Medical Clinic (clinic ID 35); Beltline Family Health (clinic ID 36); Bow Valley Health Practice (clinic ID 37)
+
+Review 1 for Dr. Benjamin Bélanger, Gastroenterology, Calgary
+Rating: 7/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Benjamin Bélanger, Gastroenterology, Calgary
+Rating: 6/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Prairie Sky Medical Clinic. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 3 for Dr. Benjamin Bélanger, Gastroenterology, Calgary
+Rating: 10/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 4 for Dr. Benjamin Bélanger, Gastroenterology, Calgary
+Rating: 9/10
+Clinic visited: Bow Valley Health Practice
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Benjamin Bélanger, Gastroenterology, Calgary
+Rating: 9/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Dr. Benjamin Bélanger used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 6 for Dr. Benjamin Bélanger, Gastroenterology, Calgary
+Rating: 7/10
+Clinic visited: Bow Valley Health Practice
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Benjamin Bélanger, Gastroenterology, Calgary
+Rating: 7/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Benjamin Bélanger, Gastroenterology, Calgary
+Rating: 6/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Benjamin Bélanger, Gastroenterology, Calgary
+Rating: 6/10
+Clinic visited: Beltline Family Health
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Worth trying, but I would not call it the best option in the area.
+
+Review 10 for Dr. Benjamin Bélanger, Gastroenterology, Calgary
+Rating: 7/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Benjamin Bélanger, Gastroenterology, Calgary: 7.40/10 from 10 reviews

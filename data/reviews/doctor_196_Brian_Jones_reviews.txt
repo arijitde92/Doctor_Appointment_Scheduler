@@ -1,0 +1,59 @@
+Doctor: Dr. Brian Jones
+Doctor ID: 196
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 15
+City: New York, USA
+Clinics: Union Square Health Practice (clinic ID 27); Brooklyn Heights Wellness Clinic (clinic ID 28)
+
+Review 1 for Dr. Brian Jones, Psychiatry, New York
+Rating: 8/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Never once did Dr. Brian Jones make me feel weak for asking for help, and the stigma I carried really began to ease. I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Brian Jones, Psychiatry, New York
+Rating: 10/10
+Clinic visited: Union Square Health Practice
+Description: My depression finally has a treatment plan from Dr. Brian Jones that works, with regular check-ins and careful dose changes.
+
+Review 3 for Dr. Brian Jones, Psychiatry, New York
+Rating: 7/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Brian Jones, Psychiatry, New York
+Rating: 9/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: The ADHD assessment by Dr. Brian Jones was careful and detailed, with clear written conclusions and realistic expectations. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Brian Jones, Psychiatry, New York
+Rating: 8/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Appointments in New York are always on schedule, and the waiting area is peaceful and private. The visit began with a short, friendly chat that put me at ease before any examination started. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Brian Jones, Psychiatry, New York
+Rating: 7/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The new medication helped, although side effects were not explained as fully as I would have liked. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Brian Jones, Psychiatry, New York
+Rating: 10/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: I felt heard by Dr. Brian Jones during a very hard time, and nobody rushed me out of the room.
+
+Review 8 for Dr. Brian Jones, Psychiatry, New York
+Rating: 9/10
+Clinic visited: Union Square Health Practice
+Description: Dr. Brian Jones took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 9 for Dr. Brian Jones, Psychiatry, New York
+Rating: 9/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 10 for Dr. Brian Jones, Psychiatry, New York
+Rating: 7/10
+Clinic visited: Union Square Health Practice
+Description: Dr. Brian Jones is knowledgeable, though I waited several weeks for my first appointment. Dr. Brian Jones was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Brian Jones, Psychiatry, New York: 8.40/10 from 10 reviews

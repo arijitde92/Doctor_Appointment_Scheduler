@@ -1,0 +1,64 @@
+Doctor: Dr. Iqra Qureshi
+Doctor ID: 6317
+Specialization: General
+Gender: Female
+Years of experience: 16
+City: Islamabad, Pakistan
+Clinics: G-9 Markaz Care Polyclinic (clinic ID 817); I-8 Markaz Health Practice (clinic ID 818)
+
+Review 1 for Dr. Iqra Qureshi, General, Islamabad
+Rating: 7/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: Dr. Iqra Qureshi is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 2 for Dr. Iqra Qureshi, General, Islamabad
+Rating: 5/10
+Clinic visited: I-8 Markaz Health Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 3 for Dr. Iqra Qureshi, General, Islamabad
+Rating: 7/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: Referrals from Dr. Iqra Qureshi are handled well, but getting test results back took longer than I was told to expect.
+
+Review 4 for Dr. Iqra Qureshi, General, Islamabad
+Rating: 7/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: Good bedside manner from Dr. Iqra Qureshi, but the parking near G-9 Markaz Care Polyclinic is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Iqra Qureshi, General, Islamabad
+Rating: 8/10
+Clinic visited: I-8 Markaz Health Practice
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 6 for Dr. Iqra Qureshi, General, Islamabad
+Rating: 6/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for G-9 Markaz Care Polyclinic. Good clinical judgment on my recurring chest infections, but the follow-up reminders from G-9 Markaz Care Polyclinic were inconsistent.
+
+Review 7 for Dr. Iqra Qureshi, General, Islamabad
+Rating: 6/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Iqra Qureshi, General, Islamabad
+Rating: 8/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: I always hear back within a day when I leave a question with the nurse at G-9 Markaz Care Polyclinic, and Dr. Iqra Qureshi follows up on lab results personally. The practice in Islamabad is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 9 for Dr. Iqra Qureshi, General, Islamabad
+Rating: 6/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 10 for Dr. Iqra Qureshi, General, Islamabad
+Rating: 7/10
+Clinic visited: I-8 Markaz Health Practice
+Description: The treatment plan from Dr. Iqra Qureshi made sense, but I wished it had been written down for me to take away. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 11 for Dr. Iqra Qureshi, General, Islamabad
+Rating: 9/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: My annual check-up with Dr. Iqra Qureshi took forty minutes, with every screening explained and nothing rushed.
+
+Overall rating for Dr. Iqra Qureshi, General, Islamabad: 6.91/10 from 11 reviews

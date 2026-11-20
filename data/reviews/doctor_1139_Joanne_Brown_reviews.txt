@@ -1,0 +1,54 @@
+Doctor: Dr. Joanne Brown
+Doctor ID: 1139
+Specialization: General
+Gender: Female
+Years of experience: 30
+City: London, UK
+Clinics: Upper Street Wellbeing Clinic (clinic ID 149)
+
+Review 1 for Dr. Joanne Brown, General, London
+Rating: 10/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Prescriptions from Dr. Joanne Brown were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Joanne Brown, General, London
+Rating: 9/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Joanne Brown, General, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Dr. Joanne Brown was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I like that she listens to the full story, even if it means the appointment runs behind schedule. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Joanne Brown, General, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Joanne Brown is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 5 for Dr. Joanne Brown, General, London
+Rating: 8/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 6 for Dr. Joanne Brown, General, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 7 for Dr. Joanne Brown, General, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 8 for Dr. Joanne Brown, General, London
+Rating: 8/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Dr. Joanne Brown looked me in the eye, listened to the whole story and only then started typing. This is the first doctor I have trusted completely in years.
+
+Review 9 for Dr. Joanne Brown, General, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Upper Street Wellbeing Clinic were inconsistent. Helpful visit overall, although I only found out about an extra charge after I had paid. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Joanne Brown, General, London: 7.78/10 from 9 reviews

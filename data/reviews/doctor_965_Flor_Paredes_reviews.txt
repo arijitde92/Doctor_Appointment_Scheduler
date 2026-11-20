@@ -1,0 +1,49 @@
+Doctor: Dr. Flor Paredes
+Doctor ID: 965
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 18
+City: Lima, Peru
+Clinics: Centro Médico Miraflores (clinic ID 126)
+
+Review 1 for Dr. Flor Paredes, Pulmonology, Lima
+Rating: 7/10
+Clinic visited: Centro Médico Miraflores
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Flor Paredes, Pulmonology, Lima
+Rating: 9/10
+Clinic visited: Centro Médico Miraflores
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Flor Paredes was practical and never preachy.
+
+Review 3 for Dr. Flor Paredes, Pulmonology, Lima
+Rating: 8/10
+Clinic visited: Centro Médico Miraflores
+Description: The spirometry test was explained step by step, and Dr. Flor Paredes put the results in context with a clear picture of my lung function.
+
+Review 4 for Dr. Flor Paredes, Pulmonology, Lima
+Rating: 9/10
+Clinic visited: Centro Médico Miraflores
+Description: After years of poorly controlled asthma, Dr. Flor Paredes reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 5 for Dr. Flor Paredes, Pulmonology, Lima
+Rating: 9/10
+Clinic visited: Centro Médico Miraflores
+Description: She took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. I was called in within five minutes of my appointment time at Centro Médico Miraflores, which is rare and much appreciated.
+
+Review 6 for Dr. Flor Paredes, Pulmonology, Lima
+Rating: 8/10
+Clinic visited: Centro Médico Miraflores
+Description: My oxygen levels are monitored carefully at Centro Médico Miraflores, and the home equipment was arranged without any hassle. Prescriptions from Dr. Flor Paredes were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Flor Paredes, Pulmonology, Lima
+Rating: 8/10
+Clinic visited: Centro Médico Miraflores
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Flor Paredes.
+
+Review 8 for Dr. Flor Paredes, Pulmonology, Lima
+Rating: 9/10
+Clinic visited: Centro Médico Miraflores
+Description: Clear, honest answers from Dr. Flor Paredes about my shortness of breath, and no unnecessary tests were ordered.
+
+Overall rating for Dr. Flor Paredes, Pulmonology, Lima: 8.38/10 from 8 reviews

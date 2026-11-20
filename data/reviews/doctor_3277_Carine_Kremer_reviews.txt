@@ -1,0 +1,54 @@
+Doctor: Dr. Carine Kremer
+Doctor ID: 3277
+Specialization: General
+Gender: Female
+Years of experience: 30
+City: Esch-sur-Alzette, Luxembourg
+Clinics: Cabinet Médical Alzette (clinic ID 425); Polyclinique Raemerich (clinic ID 427); Clinique du Brill (clinic ID 428)
+
+Review 1 for Dr. Carine Kremer, General, Esch-sur-Alzette
+Rating: 9/10
+Clinic visited: Cabinet Médical Alzette
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Carine Kremer, General, Esch-sur-Alzette
+Rating: 4/10
+Clinic visited: Clinique du Brill
+Description: My lab results from Clinique du Brill were never called in, and I only found them by chasing the front desk three times. The prescription from Dr. Carine Kremer was not the one we discussed, and I only noticed when I got home. I left disappointed and will take my business to another clinic.
+
+Review 3 for Dr. Carine Kremer, General, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Cabinet Médical Alzette
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Carine Kremer, General, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Polyclinique Raemerich
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Clear explanations, but the follow-up call took a week longer than I had been told. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Carine Kremer, General, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Polyclinique Raemerich
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Polyclinique Raemerich were inconsistent. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Carine Kremer, General, Esch-sur-Alzette
+Rating: 9/10
+Clinic visited: Polyclinique Raemerich
+Description: I went in with months of tiredness, and Dr. Carine Kremer ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Sensitive questions were handled by Dr. Carine Kremer with discretion and without a hint of judgment.
+
+Review 7 for Dr. Carine Kremer, General, Esch-sur-Alzette
+Rating: 4/10
+Clinic visited: Cabinet Médical Alzette
+Description: My persistent fatigue was brushed aside as stress by Dr. Carine Kremer, and it took a second doctor to find the actual cause.
+
+Review 8 for Dr. Carine Kremer, General, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Clinique du Brill
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Carine Kremer, General, Esch-sur-Alzette
+Rating: 5/10
+Clinic visited: Cabinet Médical Alzette
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Carine Kremer, General, Esch-sur-Alzette: 6.44/10 from 9 reviews

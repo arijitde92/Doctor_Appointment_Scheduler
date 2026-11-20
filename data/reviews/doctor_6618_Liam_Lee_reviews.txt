@@ -1,0 +1,49 @@
+Doctor: Dr. Liam Lee
+Doctor ID: 6618
+Specialization: Cardiology
+Gender: Male
+Years of experience: 14
+City: Auckland, New Zealand
+Clinics: Rata Street Medical (clinic ID 858)
+
+Review 1 for Dr. Liam Lee, Cardiology, Auckland
+Rating: 8/10
+Clinic visited: Rata Street Medical
+Description: Managing my blood pressure with Dr. Liam Lee has been steady and practical, with home readings reviewed at every visit.
+
+Review 2 for Dr. Liam Lee, Cardiology, Auckland
+Rating: 10/10
+Clinic visited: Rata Street Medical
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 3 for Dr. Liam Lee, Cardiology, Auckland
+Rating: 9/10
+Clinic visited: Rata Street Medical
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. Dr. Liam Lee looked me in the eye, listened to the whole story and only then started typing.
+
+Review 4 for Dr. Liam Lee, Cardiology, Auckland
+Rating: 8/10
+Clinic visited: Rata Street Medical
+Description: Seeing Dr. Liam Lee in Auckland meant my whole family history was reviewed, and now my sister is being screened too.
+
+Review 5 for Dr. Liam Lee, Cardiology, Auckland
+Rating: 8/10
+Clinic visited: Rata Street Medical
+Description: My stress test was supervised carefully, and Dr. Liam Lee reviewed the results in the same visit with a plan for my cholesterol. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Liam Lee, Cardiology, Auckland
+Rating: 7/10
+Clinic visited: Rata Street Medical
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Liam Lee, Cardiology, Auckland
+Rating: 8/10
+Clinic visited: Rata Street Medical
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 8 for Dr. Liam Lee, Cardiology, Auckland
+Rating: 10/10
+Clinic visited: Rata Street Medical
+Description: A same-day slot was found for me at Rata Street Medical when I called with a worrying symptom. After my heart attack, Dr. Liam Lee explained the rehab plan and medication changes with great patience and kindness.
+
+Overall rating for Dr. Liam Lee, Cardiology, Auckland: 8.50/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Juan Álvarez Medina
+Doctor ID: 418
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 2
+City: Guadalajara, Mexico
+Clinics: Clínica del Carmen Tapatía (clinic ID 57)
+
+Review 1 for Dr. Juan Álvarez Medina, Orthopedic, Guadalajara
+Rating: 8/10
+Clinic visited: Clínica del Carmen Tapatía
+Description: The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Juan Álvarez Medina, Orthopedic, Guadalajara
+Rating: 7/10
+Clinic visited: Clínica del Carmen Tapatía
+Description: Very skilled with my knee, but Dr. Juan Álvarez Medina's clinic runs behind and the wait was over an hour. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Juan Álvarez Medina, Orthopedic, Guadalajara
+Rating: 7/10
+Clinic visited: Clínica del Carmen Tapatía
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. The treatment plan from Dr. Juan Álvarez Medina made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Juan Álvarez Medina, Orthopedic, Guadalajara
+Rating: 8/10
+Clinic visited: Clínica del Carmen Tapatía
+Description: Clear aftercare instructions from Dr. Juan Álvarez Medina and a direct number to call if something felt wrong after my surgery. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Juan Álvarez Medina, Orthopedic, Guadalajara
+Rating: 8/10
+Clinic visited: Clínica del Carmen Tapatía
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 6 for Dr. Juan Álvarez Medina, Orthopedic, Guadalajara
+Rating: 6/10
+Clinic visited: Clínica del Carmen Tapatía
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 7 for Dr. Juan Álvarez Medina, Orthopedic, Guadalajara
+Rating: 10/10
+Clinic visited: Clínica del Carmen Tapatía
+Description: After my knee replacement, Dr. Juan Álvarez Medina explained the entire recovery timeline, and I was walking with a cane by week three.
+
+Review 8 for Dr. Juan Álvarez Medina, Orthopedic, Guadalajara
+Rating: 8/10
+Clinic visited: Clínica del Carmen Tapatía
+Description: Dr. Juan Álvarez Medina looked me in the eye, listened to the whole story and only then started typing.
+
+Overall rating for Dr. Juan Álvarez Medina, Orthopedic, Guadalajara: 7.75/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Mark Smith
+Doctor ID: 6591
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 16
+City: Sydney, Australia
+Clinics: Coastal Family Doctors (clinic ID 854)
+
+Review 1 for Dr. Mark Smith, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Coastal Family Doctors
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 2 for Dr. Mark Smith, Psychiatry, Sydney
+Rating: 9/10
+Clinic visited: Coastal Family Doctors
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Telehealth follow-ups at Coastal Family Doctors are punctual and calm, and refills are dealt with quickly.
+
+Review 3 for Dr. Mark Smith, Psychiatry, Sydney
+Rating: 6/10
+Clinic visited: Coastal Family Doctors
+Description: Good listener, yet the refill process at Coastal Family Doctors is slow and requires several phone calls.
+
+Review 4 for Dr. Mark Smith, Psychiatry, Sydney
+Rating: 7/10
+Clinic visited: Coastal Family Doctors
+Description: Dr. Mark Smith is knowledgeable, though I waited several weeks for my first appointment. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Mark Smith, Psychiatry, Sydney
+Rating: 9/10
+Clinic visited: Coastal Family Doctors
+Description: I can ring Coastal Family Doctors with an urgent question and receive a thoughtful reply the same day. Dr. Mark Smith used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 6 for Dr. Mark Smith, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Coastal Family Doctors
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Mark Smith, Psychiatry, Sydney
+Rating: 9/10
+Clinic visited: Coastal Family Doctors
+Description: My depression finally has a treatment plan from Dr. Mark Smith that works, with regular check-ins and careful dose changes. I was given a printed summary of the visit, which I shared with my family at home. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Mark Smith, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Coastal Family Doctors
+Description: The ADHD assessment by Dr. Mark Smith was careful and detailed, with clear written conclusions and realistic expectations. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Mark Smith, Psychiatry, Sydney: 8.00/10 from 8 reviews

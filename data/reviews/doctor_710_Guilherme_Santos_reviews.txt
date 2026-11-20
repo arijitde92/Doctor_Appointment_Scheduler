@@ -1,0 +1,49 @@
+Doctor: Dr. Guilherme Santos
+Doctor ID: 710
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 14
+City: Sao Paulo, Brazil
+Clinics: Instituto de Saúde Rebouças (clinic ID 94)
+
+Review 1 for Dr. Guilherme Santos, Orthopedic, Sao Paulo
+Rating: 6/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 2 for Dr. Guilherme Santos, Orthopedic, Sao Paulo
+Rating: 9/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Dr. Guilherme Santos explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 3 for Dr. Guilherme Santos, Orthopedic, Sao Paulo
+Rating: 7/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Dr. Guilherme Santos was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good result from my shoulder injection, although the cost was higher than the estimate I received. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Guilherme Santos, Orthopedic, Sao Paulo
+Rating: 9/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. After my knee replacement, Dr. Guilherme Santos explained the entire recovery timeline, and I was walking with a cane by week three.
+
+Review 5 for Dr. Guilherme Santos, Orthopedic, Sao Paulo
+Rating: 8/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Seen the same day at Instituto de Saúde Rebouças after a bad ankle sprain, with an X-ray done and a brace fitted before I left.
+
+Review 6 for Dr. Guilherme Santos, Orthopedic, Sao Paulo
+Rating: 9/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. The receptionist at Instituto de Saúde Rebouças remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 7 for Dr. Guilherme Santos, Orthopedic, Sao Paulo
+Rating: 7/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 8 for Dr. Guilherme Santos, Orthopedic, Sao Paulo
+Rating: 8/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine.
+
+Overall rating for Dr. Guilherme Santos, Orthopedic, Sao Paulo: 7.88/10 from 8 reviews

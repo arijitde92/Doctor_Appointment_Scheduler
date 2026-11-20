@@ -1,0 +1,54 @@
+Doctor: Dr. Uzma Mirza
+Doctor ID: 6341
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 3
+City: Karachi, Pakistan
+Clinics: Gulshan Noor Family Clinic (clinic ID 821)
+
+Review 1 for Dr. Uzma Mirza, Pediatrics, Karachi
+Rating: 4/10
+Clinic visited: Gulshan Noor Family Clinic
+Description: My child had a fever for three days and Dr. Uzma Mirza said to wait it out, with no examination of the ears or throat.
+
+Review 2 for Dr. Uzma Mirza, Pediatrics, Karachi
+Rating: 6/10
+Clinic visited: Gulshan Noor Family Clinic
+Description: Caring and gentle with my child, Dr. Uzma Mirza nonetheless ran forty minutes behind schedule at most appointments. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Uzma Mirza, Pediatrics, Karachi
+Rating: 7/10
+Clinic visited: Gulshan Noor Family Clinic
+Description: Dr. Uzma Mirza is thorough with exams, but the after-hours phone line at Gulshan Noor Family Clinic is hard to reach. The treatment plan from Dr. Uzma Mirza made sense, but I wished it had been written down for me to take away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Uzma Mirza, Pediatrics, Karachi
+Rating: 6/10
+Clinic visited: Gulshan Noor Family Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 5 for Dr. Uzma Mirza, Pediatrics, Karachi
+Rating: 6/10
+Clinic visited: Gulshan Noor Family Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Gulshan Noor Family Clinic.
+
+Review 6 for Dr. Uzma Mirza, Pediatrics, Karachi
+Rating: 6/10
+Clinic visited: Gulshan Noor Family Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Uzma Mirza, Pediatrics, Karachi
+Rating: 9/10
+Clinic visited: Gulshan Noor Family Clinic
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 8 for Dr. Uzma Mirza, Pediatrics, Karachi
+Rating: 7/10
+Clinic visited: Gulshan Noor Family Clinic
+Description: I liked the advice I got from Dr. Uzma Mirza, but I would have liked more time to ask follow-up questions before the visit ended. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Uzma Mirza, Pediatrics, Karachi
+Rating: 6/10
+Clinic visited: Gulshan Noor Family Clinic
+Description: Quick appointment and a fair price in Karachi, but the staff seemed overwhelmed and a bit curt on the phone. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Overall rating for Dr. Uzma Mirza, Pediatrics, Karachi: 6.33/10 from 9 reviews

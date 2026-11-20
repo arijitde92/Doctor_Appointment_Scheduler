@@ -1,0 +1,59 @@
+Doctor: Dr. Nathalie Dubois
+Doctor ID: 1210
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 8
+City: Lyon, France
+Clinics: Centre de Santé Croix-Rousse (clinic ID 158); Polyclinique de Gerland (clinic ID 159)
+
+Review 1 for Dr. Nathalie Dubois, Orthopedic, Lyon
+Rating: 9/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Nathalie Dubois, Orthopedic, Lyon
+Rating: 8/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: Dr. Nathalie Dubois looked me in the eye, listened to the whole story and only then started typing. She set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Nathalie Dubois, Orthopedic, Lyon
+Rating: 8/10
+Clinic visited: Polyclinique de Gerland
+Description: At my visit, Dr. Nathalie Dubois took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 4 for Dr. Nathalie Dubois, Orthopedic, Lyon
+Rating: 9/10
+Clinic visited: Polyclinique de Gerland
+Description: Dr. Nathalie Dubois explained my back scan using a model of the spine, and I finally understood my sciatica. She was upfront about what could and could not be treated, and did not oversell any option. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Nathalie Dubois, Orthopedic, Lyon
+Rating: 10/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Follow-up scans were compared with the earlier ones, and Dr. Nathalie Dubois showed me how the bone had healed. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Nathalie Dubois, Orthopedic, Lyon
+Rating: 10/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: Seen the same day at Centre de Santé Croix-Rousse after a bad ankle sprain, with an X-ray done and a brace fitted before I left. Booking online at Centre de Santé Croix-Rousse was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 7 for Dr. Nathalie Dubois, Orthopedic, Lyon
+Rating: 10/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Nathalie Dubois, Orthopedic, Lyon
+Rating: 7/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: Very skilled with my knee, but Dr. Nathalie Dubois's clinic runs behind and the wait was over an hour.
+
+Review 9 for Dr. Nathalie Dubois, Orthopedic, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: I appreciated Dr. Nathalie Dubois's honest comparison between injections, therapy and surgery for my hip pain. Getting to Polyclinique de Gerland by public transport in Lyon was easy, and there is a step-free entrance for wheelchairs. This is the first doctor I have trusted completely in years.
+
+Review 10 for Dr. Nathalie Dubois, Orthopedic, Lyon
+Rating: 7/10
+Clinic visited: Polyclinique de Gerland
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Nathalie Dubois, Orthopedic, Lyon: 8.80/10 from 10 reviews

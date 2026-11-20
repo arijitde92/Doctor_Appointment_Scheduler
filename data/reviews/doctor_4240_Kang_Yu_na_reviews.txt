@@ -1,0 +1,49 @@
+Doctor: Dr. Kang Yu-na
+Doctor ID: 4240
+Specialization: Cardiology
+Gender: Female
+Years of experience: 7
+City: Incheon, South Korea
+Clinics: Bupyeong Hanul Family Clinic (clinic ID 546); Juan Maeum Polyclinic (clinic ID 548)
+
+Review 1 for Dr. Kang Yu-na, Cardiology, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Kang Yu-na, Cardiology, Incheon
+Rating: 9/10
+Clinic visited: Juan Maeum Polyclinic
+Description: After my heart attack, Dr. Kang Yu-na explained the rehab plan and medication changes with great patience and kindness. Booking online at Juan Maeum Polyclinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 3 for Dr. Kang Yu-na, Cardiology, Incheon
+Rating: 8/10
+Clinic visited: Bupyeong Hanul Family Clinic
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 4 for Dr. Kang Yu-na, Cardiology, Incheon
+Rating: 8/10
+Clinic visited: Juan Maeum Polyclinic
+Description: After my palpitations began, Dr. Kang Yu-na arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. Everything was explained in plain English by Dr. Kang Yu-na, and nothing was left to guess.
+
+Review 5 for Dr. Kang Yu-na, Cardiology, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 6 for Dr. Kang Yu-na, Cardiology, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 7 for Dr. Kang Yu-na, Cardiology, Incheon
+Rating: 8/10
+Clinic visited: Juan Maeum Polyclinic
+Description: The cardiology unit at Juan Maeum Polyclinic runs on time, and the technicians were professional during my echocardiogram. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 8 for Dr. Kang Yu-na, Cardiology, Incheon
+Rating: 7/10
+Clinic visited: Bupyeong Hanul Family Clinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Kang Yu-na, Cardiology, Incheon: 7.62/10 from 8 reviews

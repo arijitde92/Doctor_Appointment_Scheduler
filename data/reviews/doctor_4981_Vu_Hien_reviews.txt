@@ -1,0 +1,64 @@
+Doctor: Dr. Vu Hien
+Doctor ID: 4981
+Specialization: Neurology
+Gender: Female
+Years of experience: 12
+City: Hai Phong, Vietnam
+Clinics: Phong Kham Cat Tuong (clinic ID 643); Phong Kham Da Khoa Tuong Lai (clinic ID 644)
+
+Review 1 for Dr. Vu Hien, Neurology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 2 for Dr. Vu Hien, Neurology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Dr. Vu Hien was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Vu Hien explained my results well, although the visit felt short for such a complex condition.
+
+Review 3 for Dr. Vu Hien, Neurology, Hai Phong
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: Getting a same-month appointment in Hai Phong for my sudden headaches was a real relief, and the work-up was prompt. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Vu Hien, Neurology, Hai Phong
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Vu Hien, Neurology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Vu Hien at Phong Kham Cat Tuong are difficult to schedule. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Vu Hien, Neurology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 7 for Dr. Vu Hien, Neurology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Cat Tuong
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. The treatment plan from Dr. Vu Hien made sense, but I wished it had been written down for me to take away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Vu Hien, Neurology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 9 for Dr. Vu Hien, Neurology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 10 for Dr. Vu Hien, Neurology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: I liked the advice I got from Dr. Vu Hien, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 11 for Dr. Vu Hien, Neurology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Booking was easy online, but the confirmation email contained the wrong address for Phong Kham Cat Tuong.
+
+Overall rating for Dr. Vu Hien, Neurology, Hai Phong: 6.64/10 from 11 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Shin Su-bin
+Doctor ID: 4212
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 21
+City: Daegu, South Korea
+Clinics: Seongseo Haenim Polyclinic (clinic ID 543)
+
+Review 1 for Dr. Shin Su-bin, Psychiatry, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 2 for Dr. Shin Su-bin, Psychiatry, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 3 for Dr. Shin Su-bin, Psychiatry, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Dr. Shin Su-bin used a calm, steady voice that settled my nerves before a stressful procedure. Dr. Shin Su-bin took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 4 for Dr. Shin Su-bin, Psychiatry, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 5 for Dr. Shin Su-bin, Psychiatry, Daegu
+Rating: 5/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Seongseo Haenim Polyclinic.
+
+Review 6 for Dr. Shin Su-bin, Psychiatry, Daegu
+Rating: 8/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Prescriptions from Dr. Shin Su-bin were sent to my pharmacy before I even left the building, and the dosage instructions were written down. My family was included in a session at my request, and Dr. Shin Su-bin handled it with great tact.
+
+Review 7 for Dr. Shin Su-bin, Psychiatry, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Dr. Shin Su-bin is knowledgeable, though I waited several weeks for my first appointment. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Shin Su-bin, Psychiatry, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Appointments in Daegu are always on schedule, and the waiting area is peaceful and private. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 9 for Dr. Shin Su-bin, Psychiatry, Daegu
+Rating: 10/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: I was called in within five minutes of my appointment time at Seongseo Haenim Polyclinic, which is rare and much appreciated. She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 10 for Dr. Shin Su-bin, Psychiatry, Daegu
+Rating: 8/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: I can ring Seongseo Haenim Polyclinic with an urgent question and receive a thoughtful reply the same day. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Overall rating for Dr. Shin Su-bin, Psychiatry, Daegu: 7.90/10 from 10 reviews

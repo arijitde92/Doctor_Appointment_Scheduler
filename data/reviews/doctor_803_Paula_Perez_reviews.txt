@@ -1,0 +1,64 @@
+Doctor: Dr. Paula Pérez
+Doctor ID: 803
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 2
+City: Mendoza, Argentina
+Clinics: Clínica Cuyo Salud (clinic ID 105); Instituto de Salud Belgrano (clinic ID 109)
+
+Review 1 for Dr. Paula Pérez, Pediatrics, Mendoza
+Rating: 10/10
+Clinic visited: Clínica Cuyo Salud
+Description: Our family has been coming for years, and she remembers each child's history and personality. The visit began with a short, friendly chat that put me at ease before any examination started. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Paula Pérez, Pediatrics, Mendoza
+Rating: 9/10
+Clinic visited: Instituto de Salud Belgrano
+Description: The growth chart review was detailed, and I appreciated that Dr. Paula Pérez talked to my child as well as to me.
+
+Review 3 for Dr. Paula Pérez, Pediatrics, Mendoza
+Rating: 9/10
+Clinic visited: Clínica Cuyo Salud
+Description: My teenager actually spoke up during the visit, and Dr. Paula Pérez handled sensitive topics with respect. Prescriptions from Dr. Paula Pérez were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Paula Pérez, Pediatrics, Mendoza
+Rating: 8/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 5 for Dr. Paula Pérez, Pediatrics, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 6 for Dr. Paula Pérez, Pediatrics, Mendoza
+Rating: 9/10
+Clinic visited: Instituto de Salud Belgrano
+Description: My child's asthma action plan from Dr. Paula Pérez was written out clearly so that school staff could follow it too. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Paula Pérez, Pediatrics, Mendoza
+Rating: 7/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Good bedside manner from Dr. Paula Pérez, but the parking near Instituto de Salud Belgrano is limited and I had to circle for fifteen minutes. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 8 for Dr. Paula Pérez, Pediatrics, Mendoza
+Rating: 7/10
+Clinic visited: Clínica Cuyo Salud
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 9 for Dr. Paula Pérez, Pediatrics, Mendoza
+Rating: 6/10
+Clinic visited: Clínica Cuyo Salud
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 10 for Dr. Paula Pérez, Pediatrics, Mendoza
+Rating: 9/10
+Clinic visited: Clínica Cuyo Salud
+Description: My toddler was terrified of doctors, but Dr. Paula Pérez sat on the floor, played with a stuffed toy and examined everything without a single tear. Booking online at Clínica Cuyo Salud was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 11 for Dr. Paula Pérez, Pediatrics, Mendoza
+Rating: 7/10
+Clinic visited: Instituto de Salud Belgrano
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Paula Pérez is thorough with exams, but the after-hours phone line at Instituto de Salud Belgrano is hard to reach. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Paula Pérez, Pediatrics, Mendoza: 7.91/10 from 11 reviews

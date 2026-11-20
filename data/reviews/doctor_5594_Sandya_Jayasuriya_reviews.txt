@@ -1,0 +1,54 @@
+Doctor: Dr. Sandya Jayasuriya
+Doctor ID: 5594
+Specialization: Radiology
+Gender: Female
+Years of experience: 4
+City: Galle, Sri Lanka
+Clinics: Southern Coast Polyclinic (clinic ID 723); Kaluwella Care Clinic (clinic ID 724)
+
+Review 1 for Dr. Sandya Jayasuriya, Radiology, Galle
+Rating: 7/10
+Clinic visited: Southern Coast Polyclinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Sandya Jayasuriya, Radiology, Galle
+Rating: 6/10
+Clinic visited: Kaluwella Care Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Sandya Jayasuriya, Radiology, Galle
+Rating: 9/10
+Clinic visited: Southern Coast Polyclinic
+Description: Reviewing my X-ray together with Dr. Sandya Jayasuriya on the screen made it much easier to understand my arthritis. The waiting room at Southern Coast Polyclinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 4 for Dr. Sandya Jayasuriya, Radiology, Galle
+Rating: 8/10
+Clinic visited: Southern Coast Polyclinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. Fast, clean and professional; the bone density scan with Dr. Sandya Jayasuriya was painless and the results were explained clearly.
+
+Review 5 for Dr. Sandya Jayasuriya, Radiology, Galle
+Rating: 8/10
+Clinic visited: Southern Coast Polyclinic
+Description: Dr. Sandya Jayasuriya compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 6 for Dr. Sandya Jayasuriya, Radiology, Galle
+Rating: 7/10
+Clinic visited: Southern Coast Polyclinic
+Description: Dr. Sandya Jayasuriya answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Booking was easy online, but the confirmation email contained the wrong address for Southern Coast Polyclinic.
+
+Review 7 for Dr. Sandya Jayasuriya, Radiology, Galle
+Rating: 8/10
+Clinic visited: Southern Coast Polyclinic
+Description: Images from Southern Coast Polyclinic were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. Dr. Sandya Jayasuriya double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 8 for Dr. Sandya Jayasuriya, Radiology, Galle
+Rating: 6/10
+Clinic visited: Kaluwella Care Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 9 for Dr. Sandya Jayasuriya, Radiology, Galle
+Rating: 7/10
+Clinic visited: Southern Coast Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Sandya Jayasuriya, Radiology, Galle: 7.33/10 from 9 reviews

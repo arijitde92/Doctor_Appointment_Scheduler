@@ -1,8 +1,9 @@
-import { Building2, CalendarDays, Stethoscope } from "lucide-react";
+import { Building2, CalendarDays, Globe2, Stethoscope } from "lucide-react";
 import { useMemo, useState } from "react";
 
 import { addDays, startOfDay } from "../../lib/calendar";
 import { stripDr } from "../../lib/prompts";
+import { clinicTimeZone, todayInZone, zoneLabel } from "../../lib/timezones";
 import type { Clinic, Doctor } from "../../lib/types";
 import { Modal } from "../Modal";
 import { MonthCalendar } from "../MonthCalendar";
@@ -60,7 +61,9 @@ export function DatePickerDialog({
   onClose: () => void;
   onPick: (date: Date) => void;
 }) {
-  const today = startOfDay(new Date());
+  const timeZone = clinicTimeZone(target.clinic);
+  // "Today" at the clinic, not on the patient's device.
+  const today = timeZone ? todayInZone(timeZone) : startOfDay(new Date());
   // Same-day bookings are excluded: the slot may already have passed.
   const first = addDays(today, 1);
   const last = addDays(today, BOOKING_WINDOW_DAYS);
@@ -110,6 +113,12 @@ export function DatePickerDialog({
     >
       <div className="flex flex-col gap-4">
         <BookingSummary doctor={target.doctor} clinic={target.clinic} />
+        {timeZone && (
+          <p className="-mt-1 flex items-center gap-1.5 text-xs text-slate-500">
+            <Globe2 className="size-3.5 shrink-0 text-slate-400" aria-hidden />
+            Dates and times are local to the clinic: {zoneLabel(timeZone)}.
+          </p>
+        )}
         <MonthCalendar
           label="Appointment date"
           month={month}

@@ -1,0 +1,49 @@
+Doctor: Dr. Emily MacDonald
+Doctor ID: 1161
+Specialization: Radiology
+Gender: Female
+Years of experience: 7
+City: Manchester, UK
+Clinics: Wilmslow Road Family Clinic (clinic ID 152)
+
+Review 1 for Dr. Emily MacDonald, Radiology, Manchester
+Rating: 6/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Emily MacDonald, Radiology, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. A translator was arranged for my mother without us asking twice, and Dr. Emily MacDonald spoke directly to her throughout.
+
+Review 3 for Dr. Emily MacDonald, Radiology, Manchester
+Rating: 4/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: I was charged for a second scan that I was told was a free repeat after an image problem. The visit felt rushed, and Dr. Emily MacDonald was already halfway out the door when I started to describe my second symptom.
+
+Review 4 for Dr. Emily MacDonald, Radiology, Manchester
+Rating: 4/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found. Dr. Emily MacDonald was never available to discuss my findings, and the report left me more confused than before.
+
+Review 5 for Dr. Emily MacDonald, Radiology, Manchester
+Rating: 6/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: The report from Dr. Emily MacDonald was thorough, though full of technical terms that needed my regular doctor to translate. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 6 for Dr. Emily MacDonald, Radiology, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Dr. Emily MacDonald compared my new scan with last year's and pointed out exactly what had stayed the same. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Emily MacDonald, Radiology, Manchester
+Rating: 6/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 8 for Dr. Emily MacDonald, Radiology, Manchester
+Rating: 5/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Emily MacDonald, Radiology, Manchester: 5.88/10 from 8 reviews

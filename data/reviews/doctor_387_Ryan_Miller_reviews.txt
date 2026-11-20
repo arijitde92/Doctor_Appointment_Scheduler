@@ -1,0 +1,49 @@
+Doctor: Dr. Ryan Miller
+Doctor ID: 387
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 9
+City: Vancouver, Canada
+Clinics: Kitsilano Community Clinic (clinic ID 54)
+
+Review 1 for Dr. Ryan Miller, Obstetrics and Gynecology (OB/GYN), Vancouver
+Rating: 5/10
+Clinic visited: Kitsilano Community Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Ryan Miller, Obstetrics and Gynecology (OB/GYN), Vancouver
+Rating: 8/10
+Clinic visited: Kitsilano Community Clinic
+Description: He spoke calmly during a stressful labor, and I felt safe and informed at every point. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 3 for Dr. Ryan Miller, Obstetrics and Gynecology (OB/GYN), Vancouver
+Rating: 4/10
+Clinic visited: Kitsilano Community Clinic
+Description: My concerns about heavy bleeding were met with 'that's normal' and no tests, and I felt dismissed. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 4 for Dr. Ryan Miller, Obstetrics and Gynecology (OB/GYN), Vancouver
+Rating: 5/10
+Clinic visited: Kitsilano Community Clinic
+Description: Quick appointment and a fair price in Vancouver, but the staff seemed overwhelmed and a bit curt on the phone. Compassionate during my fertility consultation, though the cost estimate was vague until after the visit. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Ryan Miller, Obstetrics and Gynecology (OB/GYN), Vancouver
+Rating: 6/10
+Clinic visited: Kitsilano Community Clinic
+Description: Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked. Booking was easy online, but the confirmation email contained the wrong address for Kitsilano Community Clinic.
+
+Review 6 for Dr. Ryan Miller, Obstetrics and Gynecology (OB/GYN), Vancouver
+Rating: 6/10
+Clinic visited: Kitsilano Community Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Ryan Miller, Obstetrics and Gynecology (OB/GYN), Vancouver
+Rating: 5/10
+Clinic visited: Kitsilano Community Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. A respectful exam, but I wished for more discussion on pain management before my procedure.
+
+Review 8 for Dr. Ryan Miller, Obstetrics and Gynecology (OB/GYN), Vancouver
+Rating: 6/10
+Clinic visited: Kitsilano Community Clinic
+Description: The ultrasound images from Dr. Ryan Miller were great, but I had to call twice to get the written report. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Ryan Miller, Obstetrics and Gynecology (OB/GYN), Vancouver: 5.62/10 from 8 reviews

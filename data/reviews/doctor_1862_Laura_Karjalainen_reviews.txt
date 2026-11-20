@@ -1,0 +1,49 @@
+Doctor: Dr. Laura Karjalainen
+Doctor ID: 1862
+Specialization: General
+Gender: Female
+Years of experience: 8
+City: Helsinki, Finland
+Clinics: Lääkärikeskus Hämeentie Kallio (clinic ID 242)
+
+Review 1 for Dr. Laura Karjalainen, General, Helsinki
+Rating: 9/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: By the time I left the room, Dr. Laura Karjalainen had sorted the sick note, referral letter and prescription refill. My referral letter was written on the spot, and the specialist's office had my details before I called. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Laura Karjalainen, General, Helsinki
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: Referrals from Dr. Laura Karjalainen are handled well, but getting test results back took longer than I was told to expect. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Laura Karjalainen, General, Helsinki
+Rating: 6/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Laura Karjalainen, General, Helsinki
+Rating: 6/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Quick appointment and a fair price in Helsinki, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 5 for Dr. Laura Karjalainen, General, Helsinki
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Lääkärikeskus Hämeentie Kallio were inconsistent. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Laura Karjalainen, General, Helsinki
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: Dr. Laura Karjalainen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Laura Karjalainen, General, Helsinki
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: Dr. Laura Karjalainen is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Good bedside manner from Dr. Laura Karjalainen, but the parking near Lääkärikeskus Hämeentie Kallio is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Laura Karjalainen, General, Helsinki
+Rating: 9/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: The waiting room at Lääkärikeskus Hämeentie Kallio was clean, quiet and comfortable, with enough seating and water available. Vaccination advice from Dr. Laura Karjalainen for my travel plans was thorough and specific to the countries I was visiting.
+
+Overall rating for Dr. Laura Karjalainen, General, Helsinki: 7.25/10 from 8 reviews

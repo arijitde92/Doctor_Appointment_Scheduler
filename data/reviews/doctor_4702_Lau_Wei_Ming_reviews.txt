@@ -1,0 +1,54 @@
+Doctor: Dr. Lau Wei Ming
+Doctor ID: 4702
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 5
+City: Johor Bahru, Malaysia
+Clinics: Klinik Sejahtera Bersama (clinic ID 608)
+
+Review 1 for Dr. Lau Wei Ming, Pediatrics, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Caring and gentle with my child, Dr. Lau Wei Ming nonetheless ran forty minutes behind schedule at most appointments. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Lau Wei Ming, Pediatrics, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Quick appointment and a fair price in Johor Bahru, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Lau Wei Ming, Pediatrics, Johor Bahru
+Rating: 6/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Dr. Lau Wei Ming was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Lau Wei Ming, Pediatrics, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. The treatment plan from Dr. Lau Wei Ming made sense, but I wished it had been written down for me to take away. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Lau Wei Ming, Pediatrics, Johor Bahru
+Rating: 6/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Dr. Lau Wei Ming is thorough with exams, but the after-hours phone line at Klinik Sejahtera Bersama is hard to reach. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Lau Wei Ming, Pediatrics, Johor Bahru
+Rating: 6/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 7 for Dr. Lau Wei Ming, Pediatrics, Johor Bahru
+Rating: 7/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Lau Wei Ming, Pediatrics, Johor Bahru
+Rating: 7/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 9 for Dr. Lau Wei Ming, Pediatrics, Johor Bahru
+Rating: 7/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Lau Wei Ming, Pediatrics, Johor Bahru: 6.00/10 from 9 reviews

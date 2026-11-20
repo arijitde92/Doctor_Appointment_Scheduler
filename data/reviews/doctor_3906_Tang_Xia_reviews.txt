@@ -1,0 +1,69 @@
+Doctor: Dr. Tang Xia
+Doctor ID: 3906
+Specialization: Cardiology
+Gender: Female
+Years of experience: 25
+City: Guangzhou, China
+Clinics: Haizhu Mingde Medical Clinic (clinic ID 504)
+
+Review 1 for Dr. Tang Xia, Cardiology, Guangzhou
+Rating: 9/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Managing my blood pressure with Dr. Tang Xia has been steady and practical, with home readings reviewed at every visit.
+
+Review 2 for Dr. Tang Xia, Cardiology, Guangzhou
+Rating: 5/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Tang Xia, Cardiology, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 4 for Dr. Tang Xia, Cardiology, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: My stress test was supervised carefully, and Dr. Tang Xia reviewed the results in the same visit with a plan for my cholesterol. I came away understanding my condition better than I have in years of previous appointments. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Tang Xia, Cardiology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Dr. Tang Xia adjusted my blood pressure medication carefully, though I had to call twice for a refill. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Tang Xia, Cardiology, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 7 for Dr. Tang Xia, Cardiology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Helpful with my cholesterol, Dr. Tang Xia still gave dietary advice that was a little generic. I liked the advice I got from Dr. Tang Xia, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Tang Xia, Cardiology, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Clear and calm advice at Haizhu Mingde Medical Clinic about exercise after my stent, including a gradual written schedule.
+
+Review 9 for Dr. Tang Xia, Cardiology, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: My atrial fibrillation is well managed by Dr. Tang Xia, and I know exactly what symptoms mean I should call.
+
+Review 10 for Dr. Tang Xia, Cardiology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Dr. Tang Xia was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 11 for Dr. Tang Xia, Cardiology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Great care in the visit itself, but the billing for the tests at Haizhu Mingde Medical Clinic was confusing.
+
+Review 12 for Dr. Tang Xia, Cardiology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The treatment plan from Dr. Tang Xia made sense, but I wished it had been written down for me to take away. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Overall rating for Dr. Tang Xia, Cardiology, Guangzhou: 7.08/10 from 12 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Miguel Hernández Ruiz
+Doctor ID: 527
+Specialization: Psychology
+Gender: Male
+Years of experience: 5
+City: Puebla, Mexico
+Clinics: Centro Médico La Paz Poblano (clinic ID 71); Consultorios Médicos Las Ánimas (clinic ID 72)
+
+Review 1 for Dr. Miguel Hernández Ruiz, Psychology, Puebla
+Rating: 8/10
+Clinic visited: Consultorios Médicos Las Ánimas
+Description: He has a calm way of asking the difficult questions that makes it feel safe to answer honestly.
+
+Review 2 for Dr. Miguel Hernández Ruiz, Psychology, Puebla
+Rating: 9/10
+Clinic visited: Consultorios Médicos Las Ánimas
+Description: I never felt judged by Dr. Miguel Hernández Ruiz when talking about my burnout, and the sessions gave me language for things I could not explain before.
+
+Review 3 for Dr. Miguel Hernández Ruiz, Psychology, Puebla
+Rating: 6/10
+Clinic visited: Consultorios Médicos Las Ánimas
+Description: Quick appointment and a fair price in Puebla, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Miguel Hernández Ruiz listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 4 for Dr. Miguel Hernández Ruiz, Psychology, Puebla
+Rating: 9/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: I appreciated that he offered more than one option and let me choose what suited my life. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Miguel Hernández Ruiz, Psychology, Puebla
+Rating: 8/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: I came away understanding my condition better than I have in years of previous appointments. Couples therapy at Centro Médico La Paz Poblano helped us stop repeating the same argument. We now have a way to pause and listen. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Miguel Hernández Ruiz, Psychology, Puebla
+Rating: 7/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 7 for Dr. Miguel Hernández Ruiz, Psychology, Puebla
+Rating: 10/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 8 for Dr. Miguel Hernández Ruiz, Psychology, Puebla
+Rating: 7/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 9 for Dr. Miguel Hernández Ruiz, Psychology, Puebla
+Rating: 9/10
+Clinic visited: Consultorios Médicos Las Ánimas
+Description: Sessions with Dr. Miguel Hernández Ruiz start on time and end on time, which is a small thing that made me feel respected.
+
+Review 10 for Dr. Miguel Hernández Ruiz, Psychology, Puebla
+Rating: 5/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Miguel Hernández Ruiz, Psychology, Puebla: 7.80/10 from 10 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Pierre Robert
+Doctor ID: 1221
+Specialization: Pathology
+Gender: Male
+Years of experience: 29
+City: Lyon, France
+Clinics: Polyclinique de Gerland (clinic ID 159)
+
+Review 1 for Dr. Pierre Robert, Pathology, Lyon
+Rating: 8/10
+Clinic visited: Polyclinique de Gerland
+Description: The lab at Polyclinique de Gerland had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 2 for Dr. Pierre Robert, Pathology, Lyon
+Rating: 9/10
+Clinic visited: Polyclinique de Gerland
+Description: Dr. Pierre Robert double-checked my allergy list before prescribing anything, and that careful habit earned my trust. The biopsy report was returned in three days, and Dr. Pierre Robert took time on the phone to explain every term in it. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Pierre Robert, Pathology, Lyon
+Rating: 5/10
+Clinic visited: Polyclinique de Gerland
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Pierre Robert, Pathology, Lyon
+Rating: 4/10
+Clinic visited: Polyclinique de Gerland
+Description: Dr. Pierre Robert was never available to talk about my result, and the front desk repeated that I should ask my referring physician.
+
+Review 5 for Dr. Pierre Robert, Pathology, Lyon
+Rating: 5/10
+Clinic visited: Polyclinique de Gerland
+Description: The treatment plan from Dr. Pierre Robert made sense, but I wished it had been written down for me to take away. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 6 for Dr. Pierre Robert, Pathology, Lyon
+Rating: 8/10
+Clinic visited: Polyclinique de Gerland
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Lyon. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Pierre Robert, Pathology, Lyon
+Rating: 5/10
+Clinic visited: Polyclinique de Gerland
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful in clarifying a borderline result, though Dr. Pierre Robert gave little guidance about whether to repeat it.
+
+Review 8 for Dr. Pierre Robert, Pathology, Lyon
+Rating: 7/10
+Clinic visited: Polyclinique de Gerland
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Dr. Pierre Robert was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Pierre Robert, Pathology, Lyon
+Rating: 5/10
+Clinic visited: Polyclinique de Gerland
+Description: The blood draw was painless, but the waiting area at Polyclinique de Gerland was crowded in the early morning.
+
+Overall rating for Dr. Pierre Robert, Pathology, Lyon: 6.22/10 from 9 reviews

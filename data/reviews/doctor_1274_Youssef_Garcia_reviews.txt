@@ -1,0 +1,49 @@
+Doctor: Dr. Youssef Garcia
+Doctor ID: 1274
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 29
+City: Paris, France
+Clinics: Centre de Santé Oberkampf (clinic ID 166)
+
+Review 1 for Dr. Youssef Garcia, Gastroenterology, Paris
+Rating: 10/10
+Clinic visited: Centre de Santé Oberkampf
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 2 for Dr. Youssef Garcia, Gastroenterology, Paris
+Rating: 9/10
+Clinic visited: Centre de Santé Oberkampf
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Youssef Garcia, Gastroenterology, Paris
+Rating: 10/10
+Clinic visited: Centre de Santé Oberkampf
+Description: A gentle, respectful manner from Dr. Youssef Garcia made a very awkward exam bearable, with every step explained before it happened. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Youssef Garcia, Gastroenterology, Paris
+Rating: 8/10
+Clinic visited: Centre de Santé Oberkampf
+Description: After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan. Dr. Youssef Garcia double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 5 for Dr. Youssef Garcia, Gastroenterology, Paris
+Rating: 10/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Dr. Youssef Garcia was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Youssef Garcia, Gastroenterology, Paris
+Rating: 9/10
+Clinic visited: Centre de Santé Oberkampf
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Youssef Garcia, Gastroenterology, Paris
+Rating: 7/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Dr. Youssef Garcia is thorough, but I waited nearly two months to get the first available slot.
+
+Review 8 for Dr. Youssef Garcia, Gastroenterology, Paris
+Rating: 9/10
+Clinic visited: Centre de Santé Oberkampf
+Description: I was nervous about my screening, but the team at Centre de Santé Oberkampf made me feel at ease, and I was home within hours.
+
+Overall rating for Dr. Youssef Garcia, Gastroenterology, Paris: 9.00/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Christine Reuter
+Doctor ID: 3332
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 21
+City: Luxembourg City, Luxembourg
+Clinics: Polyclinique Limpertsberg (clinic ID 432)
+
+Review 1 for Dr. Christine Reuter, Gastroenterology, Luxembourg City
+Rating: 6/10
+Clinic visited: Polyclinique Limpertsberg
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Christine Reuter, Gastroenterology, Luxembourg City
+Rating: 7/10
+Clinic visited: Polyclinique Limpertsberg
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Christine Reuter, Gastroenterology, Luxembourg City
+Rating: 7/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Christine Reuter, Gastroenterology, Luxembourg City
+Rating: 5/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Knowledgeable about my reflux, Dr. Christine Reuter still gave diet advice that felt generic and not tailored to my habits. Booking was easy online, but the confirmation email contained the wrong address for Polyclinique Limpertsberg.
+
+Review 5 for Dr. Christine Reuter, Gastroenterology, Luxembourg City
+Rating: 7/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Christine Reuter, Gastroenterology, Luxembourg City
+Rating: 7/10
+Clinic visited: Polyclinique Limpertsberg
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 7 for Dr. Christine Reuter, Gastroenterology, Luxembourg City
+Rating: 7/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Dr. Christine Reuter was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 8 for Dr. Christine Reuter, Gastroenterology, Luxembourg City
+Rating: 6/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Good bedside manner from Dr. Christine Reuter, but the parking near Polyclinique Limpertsberg is limited and I had to circle for fifteen minutes. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Christine Reuter, Gastroenterology, Luxembourg City: 6.50/10 from 8 reviews

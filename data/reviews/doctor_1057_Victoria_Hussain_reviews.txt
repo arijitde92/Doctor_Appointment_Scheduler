@@ -1,0 +1,59 @@
+Doctor: Dr. Victoria Hussain
+Doctor ID: 1057
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 7
+City: Bristol, UK
+Clinics: Bedminster Health Practice (clinic ID 139)
+
+Review 1 for Dr. Victoria Hussain, Gastroenterology, Bristol
+Rating: 7/10
+Clinic visited: Bedminster Health Practice
+Description: Dr. Victoria Hussain was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 2 for Dr. Victoria Hussain, Gastroenterology, Bristol
+Rating: 10/10
+Clinic visited: Bedminster Health Practice
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner.
+
+Review 3 for Dr. Victoria Hussain, Gastroenterology, Bristol
+Rating: 8/10
+Clinic visited: Bedminster Health Practice
+Description: I get regular check-ups for my Crohn's disease, and Dr. Victoria Hussain adjusts my treatment carefully and always explains why. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 4 for Dr. Victoria Hussain, Gastroenterology, Bristol
+Rating: 7/10
+Clinic visited: Bedminster Health Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Bedminster Health Practice. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 5 for Dr. Victoria Hussain, Gastroenterology, Bristol
+Rating: 7/10
+Clinic visited: Bedminster Health Practice
+Description: Knowledgeable about my reflux, Dr. Victoria Hussain still gave diet advice that felt generic and not tailored to my habits. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Victoria Hussain, Gastroenterology, Bristol
+Rating: 10/10
+Clinic visited: Bedminster Health Practice
+Description: She never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 7 for Dr. Victoria Hussain, Gastroenterology, Bristol
+Rating: 9/10
+Clinic visited: Bedminster Health Practice
+Description: I came away understanding my condition better than I have in years of previous appointments. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Victoria Hussain, Gastroenterology, Bristol
+Rating: 8/10
+Clinic visited: Bedminster Health Practice
+Description: I was nervous about my screening, but the team at Bedminster Health Practice made me feel at ease, and I was home within hours.
+
+Review 9 for Dr. Victoria Hussain, Gastroenterology, Bristol
+Rating: 6/10
+Clinic visited: Bedminster Health Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 10 for Dr. Victoria Hussain, Gastroenterology, Bristol
+Rating: 5/10
+Clinic visited: Bedminster Health Practice
+Description: The treatment plan from Dr. Victoria Hussain made sense, but I wished it had been written down for me to take away. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Overall rating for Dr. Victoria Hussain, Gastroenterology, Bristol: 7.70/10 from 10 reviews

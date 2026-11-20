@@ -1,0 +1,54 @@
+Doctor: Dr. Lim Yee Ling
+Doctor ID: 4622
+Specialization: Psychology
+Gender: Female
+Years of experience: 1
+City: George Town, Malaysia
+Clinics: Klinik Kasih Sayang (clinic ID 597)
+
+Review 1 for Dr. Lim Yee Ling, Psychology, George Town
+Rating: 7/10
+Clinic visited: Klinik Kasih Sayang
+Description: My trauma work felt well paced, although the schedule changed several times at Klinik Kasih Sayang. I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Lim Yee Ling, Psychology, George Town
+Rating: 6/10
+Clinic visited: Klinik Kasih Sayang
+Description: Dr. Lim Yee Ling listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 3 for Dr. Lim Yee Ling, Psychology, George Town
+Rating: 9/10
+Clinic visited: Klinik Kasih Sayang
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 4 for Dr. Lim Yee Ling, Psychology, George Town
+Rating: 9/10
+Clinic visited: Klinik Kasih Sayang
+Description: Prescriptions from Dr. Lim Yee Ling were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Couples therapy at Klinik Kasih Sayang helped us stop repeating the same argument. We now have a way to pause and listen.
+
+Review 5 for Dr. Lim Yee Ling, Psychology, George Town
+Rating: 7/10
+Clinic visited: Klinik Kasih Sayang
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 6 for Dr. Lim Yee Ling, Psychology, George Town
+Rating: 5/10
+Clinic visited: Klinik Kasih Sayang
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Lim Yee Ling, Psychology, George Town
+Rating: 8/10
+Clinic visited: Klinik Kasih Sayang
+Description: A same-day slot was found for me at Klinik Kasih Sayang when I called with a worrying symptom. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Lim Yee Ling, Psychology, George Town
+Rating: 9/10
+Clinic visited: Klinik Kasih Sayang
+Description: The office in George Town is quiet and private, and the receptionist never mentions anything in front of other patients.
+
+Review 9 for Dr. Lim Yee Ling, Psychology, George Town
+Rating: 6/10
+Clinic visited: Klinik Kasih Sayang
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. Dr. Lim Yee Ling was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Lim Yee Ling, Psychology, George Town: 7.33/10 from 9 reviews

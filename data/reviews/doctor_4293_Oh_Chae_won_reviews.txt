@@ -1,0 +1,54 @@
+Doctor: Dr. Oh Chae-won
+Doctor ID: 4293
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 2
+City: Seoul, South Korea
+Clinics: Songpa Saenal Health Clinic (clinic ID 553)
+
+Review 1 for Dr. Oh Chae-won, Orthopedic, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Dr. Oh Chae-won was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Oh Chae-won, Orthopedic, Seoul
+Rating: 8/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: I appreciated Dr. Oh Chae-won's honest comparison between injections, therapy and surgery for my hip pain. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 3 for Dr. Oh Chae-won, Orthopedic, Seoul
+Rating: 7/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 4 for Dr. Oh Chae-won, Orthopedic, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Oh Chae-won, Orthopedic, Seoul
+Rating: 8/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Follow-up scans were compared with the earlier ones, and Dr. Oh Chae-won showed me how the bone had healed.
+
+Review 6 for Dr. Oh Chae-won, Orthopedic, Seoul
+Rating: 7/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Oh Chae-won, Orthopedic, Seoul
+Rating: 7/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Quick appointment and a fair price in Seoul, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 8 for Dr. Oh Chae-won, Orthopedic, Seoul
+Rating: 8/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Booking online at Songpa Saenal Health Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before. The X-ray was reviewed with me on screen, and she pointed out exactly where the cartilage had worn down.
+
+Review 9 for Dr. Oh Chae-won, Orthopedic, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Oh Chae-won, Orthopedic, Seoul: 7.00/10 from 9 reviews

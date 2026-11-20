@@ -1,0 +1,49 @@
+Doctor: Dr. Gennady Mikhailov
+Doctor ID: 3725
+Specialization: Psychology
+Gender: Male
+Years of experience: 27
+City: Moscow, Russia
+Clinics: Klinika Zdorovaya Semya (clinic ID 481); Prospekt Mira Health Practice (clinic ID 483)
+
+Review 1 for Dr. Gennady Mikhailov, Psychology, Moscow
+Rating: 10/10
+Clinic visited: Prospekt Mira Health Practice
+Description: The office in Moscow is quiet and private, and the receptionist never mentions anything in front of other patients. Getting to Prospekt Mira Health Practice by public transport in Moscow was easy, and there is a step-free entrance for wheelchairs.
+
+Review 2 for Dr. Gennady Mikhailov, Psychology, Moscow
+Rating: 9/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Couples therapy at Klinika Zdorovaya Semya helped us stop repeating the same argument. We now have a way to pause and listen. Booking online at Klinika Zdorovaya Semya was simple, and I got a confirmation text with clear directions and a reminder the day before. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Gennady Mikhailov, Psychology, Moscow
+Rating: 7/10
+Clinic visited: Prospekt Mira Health Practice
+Description: I got what I needed, but the next available appointment was three weeks away. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Gennady Mikhailov, Psychology, Moscow
+Rating: 9/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Warm, patient and honest, Dr. Gennady Mikhailov told me what progress to expect and it matched reality. Prescriptions from Dr. Gennady Mikhailov were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 5 for Dr. Gennady Mikhailov, Psychology, Moscow
+Rating: 10/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Working through my grief felt guided but never forced, and we always ended each session with something concrete to try.
+
+Review 6 for Dr. Gennady Mikhailov, Psychology, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 7 for Dr. Gennady Mikhailov, Psychology, Moscow
+Rating: 10/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Gennady Mikhailov designed around my actual job.
+
+Review 8 for Dr. Gennady Mikhailov, Psychology, Moscow
+Rating: 10/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Overall rating for Dr. Gennady Mikhailov, Psychology, Moscow: 8.88/10 from 8 reviews

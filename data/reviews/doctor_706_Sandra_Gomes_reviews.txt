@@ -1,0 +1,64 @@
+Doctor: Dr. Sandra Gomes
+Doctor ID: 706
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 20
+City: Sao Paulo, Brazil
+Clinics: Instituto de Saúde Rebouças (clinic ID 94)
+
+Review 1 for Dr. Sandra Gomes, Pediatrics, Sao Paulo
+Rating: 7/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Dr. Sandra Gomes is thorough with exams, but the after-hours phone line at Instituto de Saúde Rebouças is hard to reach. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Sandra Gomes, Pediatrics, Sao Paulo
+Rating: 8/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Our family has been coming for years, and she remembers each child's history and personality. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Sandra Gomes, Pediatrics, Sao Paulo
+Rating: 6/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 4 for Dr. Sandra Gomes, Pediatrics, Sao Paulo
+Rating: 10/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: At my visit, Dr. Sandra Gomes took notes on my medication list, checked for interactions and explained the changes simply. My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 5 for Dr. Sandra Gomes, Pediatrics, Sao Paulo
+Rating: 7/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Sandra Gomes, Pediatrics, Sao Paulo
+Rating: 7/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 7 for Dr. Sandra Gomes, Pediatrics, Sao Paulo
+Rating: 10/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Booking online at Instituto de Saúde Rebouças was simple, and I got a confirmation text with clear directions and a reminder the day before. We got a same-day appointment for a high fever, and the care at Instituto de Saúde Rebouças was kind and efficient.
+
+Review 8 for Dr. Sandra Gomes, Pediatrics, Sao Paulo
+Rating: 7/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 9 for Dr. Sandra Gomes, Pediatrics, Sao Paulo
+Rating: 8/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: My teenager actually spoke up during the visit, and Dr. Sandra Gomes handled sensitive topics with respect. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 10 for Dr. Sandra Gomes, Pediatrics, Sao Paulo
+Rating: 8/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Kind to anxious parents, Dr. Sandra Gomes never showed a hint of impatience when I felt silly asking about a rash. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Five stars from me, and I would book again tomorrow.
+
+Review 11 for Dr. Sandra Gomes, Pediatrics, Sao Paulo
+Rating: 6/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Sandra Gomes, Pediatrics, Sao Paulo: 7.64/10 from 11 reviews

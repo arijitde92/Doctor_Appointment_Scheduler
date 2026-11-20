@@ -1,0 +1,69 @@
+Doctor: Dr. Bayu Kusuma
+Doctor ID: 5199
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 4
+City: Surabaya, Indonesia
+Clinics: Klinik Bunda Sejahtera (clinic ID 672)
+
+Review 1 for Dr. Bayu Kusuma, Gastroenterology, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Bunda Sejahtera
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Bayu Kusuma, Gastroenterology, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Bunda Sejahtera
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Bayu Kusuma, Gastroenterology, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Bunda Sejahtera
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 4 for Dr. Bayu Kusuma, Gastroenterology, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Bunda Sejahtera
+Description: A translator was arranged for my mother without us asking twice, and Dr. Bayu Kusuma spoke directly to her throughout.
+
+Review 5 for Dr. Bayu Kusuma, Gastroenterology, Surabaya
+Rating: 9/10
+Clinic visited: Klinik Bunda Sejahtera
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 6 for Dr. Bayu Kusuma, Gastroenterology, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Bunda Sejahtera
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. Dr. Bayu Kusuma used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 7 for Dr. Bayu Kusuma, Gastroenterology, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Bunda Sejahtera
+Description: Knowledgeable about my reflux, Dr. Bayu Kusuma still gave diet advice that felt generic and not tailored to my habits. I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Bayu Kusuma, Gastroenterology, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Bunda Sejahtera
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Dr. Bayu Kusuma is thorough, but I waited nearly two months to get the first available slot.
+
+Review 9 for Dr. Bayu Kusuma, Gastroenterology, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Bunda Sejahtera
+Description: I received a full summary letter from Klinik Bunda Sejahtera after my endoscopy, which my regular doctor found very useful. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 10 for Dr. Bayu Kusuma, Gastroenterology, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Bunda Sejahtera
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 11 for Dr. Bayu Kusuma, Gastroenterology, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Bunda Sejahtera
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 12 for Dr. Bayu Kusuma, Gastroenterology, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Bunda Sejahtera
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Overall rating for Dr. Bayu Kusuma, Gastroenterology, Surabaya: 7.08/10 from 12 reviews

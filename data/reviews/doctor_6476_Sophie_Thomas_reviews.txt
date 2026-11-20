@@ -1,0 +1,69 @@
+Doctor: Dr. Sophie Thomas
+Doctor ID: 6476
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 27
+City: Brisbane, Australia
+Clinics: Ironbark GP Clinic (clinic ID 838)
+
+Review 1 for Dr. Sophie Thomas, Pediatrics, Brisbane
+Rating: 10/10
+Clinic visited: Ironbark GP Clinic
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 2 for Dr. Sophie Thomas, Pediatrics, Brisbane
+Rating: 9/10
+Clinic visited: Ironbark GP Clinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 3 for Dr. Sophie Thomas, Pediatrics, Brisbane
+Rating: 6/10
+Clinic visited: Ironbark GP Clinic
+Description: Good bedside manner from Dr. Sophie Thomas, but the parking near Ironbark GP Clinic is limited and I had to circle for fifteen minutes. Caring and gentle with my child, Dr. Sophie Thomas nonetheless ran forty minutes behind schedule at most appointments. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Sophie Thomas, Pediatrics, Brisbane
+Rating: 9/10
+Clinic visited: Ironbark GP Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Kind to anxious parents, Dr. Sophie Thomas never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 5 for Dr. Sophie Thomas, Pediatrics, Brisbane
+Rating: 8/10
+Clinic visited: Ironbark GP Clinic
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 6 for Dr. Sophie Thomas, Pediatrics, Brisbane
+Rating: 10/10
+Clinic visited: Ironbark GP Clinic
+Description: Our newborn check-ups with Dr. Sophie Thomas were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Review 7 for Dr. Sophie Thomas, Pediatrics, Brisbane
+Rating: 9/10
+Clinic visited: Ironbark GP Clinic
+Description: At my visit, Dr. Sophie Thomas took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 8 for Dr. Sophie Thomas, Pediatrics, Brisbane
+Rating: 9/10
+Clinic visited: Ironbark GP Clinic
+Description: My toddler was terrified of doctors, but Dr. Sophie Thomas sat on the floor, played with a stuffed toy and examined everything without a single tear. Dr. Sophie Thomas looked me in the eye, listened to the whole story and only then started typing.
+
+Review 9 for Dr. Sophie Thomas, Pediatrics, Brisbane
+Rating: 8/10
+Clinic visited: Ironbark GP Clinic
+Description: The waiting room in Brisbane has a play corner and separate seating for sick children, which I really valued. Highly recommended, and I have already told two colleagues about it.
+
+Review 10 for Dr. Sophie Thomas, Pediatrics, Brisbane
+Rating: 8/10
+Clinic visited: Ironbark GP Clinic
+Description: A same-day slot was found for me at Ironbark GP Clinic when I called with a worrying symptom. This is the first doctor I have trusted completely in years.
+
+Review 11 for Dr. Sophie Thomas, Pediatrics, Brisbane
+Rating: 6/10
+Clinic visited: Ironbark GP Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 12 for Dr. Sophie Thomas, Pediatrics, Brisbane
+Rating: 6/10
+Clinic visited: Ironbark GP Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Sophie Thomas, Pediatrics, Brisbane: 8.17/10 from 12 reviews

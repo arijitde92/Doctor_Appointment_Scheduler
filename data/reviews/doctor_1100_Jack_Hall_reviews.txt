@@ -1,0 +1,64 @@
+Doctor: Dr. Jack Hall
+Doctor ID: 1100
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 17
+City: Edinburgh, UK
+Clinics: Raeburn Place Medical Practice (clinic ID 144)
+
+Review 1 for Dr. Jack Hall, Obstetrics and Gynecology (OB/GYN), Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues.
+
+Review 2 for Dr. Jack Hall, Obstetrics and Gynecology (OB/GYN), Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Jack Hall, Obstetrics and Gynecology (OB/GYN), Edinburgh
+Rating: 9/10
+Clinic visited: Raeburn Place Medical Practice
+Description: My postpartum check-up covered recovery, mood and feeding rather than just a quick exam.
+
+Review 4 for Dr. Jack Hall, Obstetrics and Gynecology (OB/GYN), Edinburgh
+Rating: 5/10
+Clinic visited: Raeburn Place Medical Practice
+Description: A respectful exam, but I wished for more discussion on pain management before my procedure. I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Jack Hall, Obstetrics and Gynecology (OB/GYN), Edinburgh
+Rating: 6/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit. Dr. Jack Hall was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Jack Hall, Obstetrics and Gynecology (OB/GYN), Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Throughout my pregnancy Dr. Jack Hall answered every question patiently, including the many late-night worries I sent through the portal. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Jack Hall, Obstetrics and Gynecology (OB/GYN), Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Jack Hall, Obstetrics and Gynecology (OB/GYN), Edinburgh
+Rating: 5/10
+Clinic visited: Raeburn Place Medical Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Jack Hall, Obstetrics and Gynecology (OB/GYN), Edinburgh
+Rating: 10/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Menopause symptoms are finally manageable thanks to Dr. Jack Hall's careful discussion of choices and a gradual plan. Dr. Jack Hall drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 10 for Dr. Jack Hall, Obstetrics and Gynecology (OB/GYN), Edinburgh
+Rating: 9/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Birth control options at Raeburn Place Medical Practice were laid out clearly, with pros and cons for each and no pressure to choose any one.
+
+Review 11 for Dr. Jack Hall, Obstetrics and Gynecology (OB/GYN), Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history.
+
+Overall rating for Dr. Jack Hall, Obstetrics and Gynecology (OB/GYN), Edinburgh: 7.27/10 from 11 reviews

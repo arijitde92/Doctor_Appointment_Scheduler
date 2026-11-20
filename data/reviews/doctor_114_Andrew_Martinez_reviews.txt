@@ -1,0 +1,54 @@
+Doctor: Dr. Andrew Martinez
+Doctor ID: 114
+Specialization: Pathology
+Gender: Male
+Years of experience: 13
+City: Chicago, USA
+Clinics: Northside Care Partners (clinic ID 17)
+
+Review 1 for Dr. Andrew Martinez, Pathology, Chicago
+Rating: 7/10
+Clinic visited: Northside Care Partners
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 2 for Dr. Andrew Martinez, Pathology, Chicago
+Rating: 9/10
+Clinic visited: Northside Care Partners
+Description: My test results arrived in the portal within two days, together with a short note that made sense. I was nervous about the biopsy result, and the call from Dr. Andrew Martinez was gentle, honest and unhurried.
+
+Review 3 for Dr. Andrew Martinez, Pathology, Chicago
+Rating: 10/10
+Clinic visited: Northside Care Partners
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. The practice in Chicago is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 4 for Dr. Andrew Martinez, Pathology, Chicago
+Rating: 9/10
+Clinic visited: Northside Care Partners
+Description: Fast turnaround at Northside Care Partners on my thyroid panel, with results in my online account by the next morning. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Andrew Martinez, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Northside Care Partners
+Description: The biopsy report was returned in three days, and Dr. Andrew Martinez took time on the phone to explain every term in it. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 6 for Dr. Andrew Martinez, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Northside Care Partners
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 7 for Dr. Andrew Martinez, Pathology, Chicago
+Rating: 10/10
+Clinic visited: Northside Care Partners
+Description: A translator was arranged for my mother without us asking twice, and Dr. Andrew Martinez spoke directly to her throughout.
+
+Review 8 for Dr. Andrew Martinez, Pathology, Chicago
+Rating: 10/10
+Clinic visited: Northside Care Partners
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. Paperwork at Northside Care Partners was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 9 for Dr. Andrew Martinez, Pathology, Chicago
+Rating: 9/10
+Clinic visited: Northside Care Partners
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Chicago. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Overall rating for Dr. Andrew Martinez, Pathology, Chicago: 8.89/10 from 9 reviews

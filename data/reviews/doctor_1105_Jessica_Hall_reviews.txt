@@ -1,0 +1,59 @@
+Doctor: Dr. Jessica Hall
+Doctor ID: 1105
+Specialization: Neurology
+Gender: Female
+Years of experience: 14
+City: London, UK
+Clinics: Covent Garden Family Health Practice (clinic ID 145); Cabot Square Medical Centre (clinic ID 146); Upper Street Wellbeing Clinic (clinic ID 149)
+
+Review 1 for Dr. Jessica Hall, Neurology, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 2 for Dr. Jessica Hall, Neurology, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Jessica Hall, Neurology, London
+Rating: 7/10
+Clinic visited: Covent Garden Family Health Practice
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 4 for Dr. Jessica Hall, Neurology, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Dr. Jessica Hall explained my results well, although the visit felt short for such a complex condition. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Jessica Hall, Neurology, London
+Rating: 7/10
+Clinic visited: Cabot Square Medical Centre
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Jessica Hall, Neurology, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Dr. Jessica Hall took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Jessica Hall, Neurology, London
+Rating: 10/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 8 for Dr. Jessica Hall, Neurology, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Jessica Hall, Neurology, London
+Rating: 7/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 10 for Dr. Jessica Hall, Neurology, London
+Rating: 10/10
+Clinic visited: Cabot Square Medical Centre
+Description: Dr. Jessica Hall used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Overall rating for Dr. Jessica Hall, Neurology, London: 7.80/10 from 10 reviews

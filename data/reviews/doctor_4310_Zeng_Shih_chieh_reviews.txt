@@ -1,0 +1,49 @@
+Doctor: Dr. Zeng Shih-chieh
+Doctor ID: 4310
+Specialization: Radiology
+Gender: Male
+Years of experience: 5
+City: Kaohsiung, Taiwan
+Clinics: Sanduo Fuhe Medical Clinic (clinic ID 555); Fengshan Kangtai Polyclinic (clinic ID 558)
+
+Review 1 for Dr. Zeng Shih-chieh, Radiology, Kaohsiung
+Rating: 6/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 2 for Dr. Zeng Shih-chieh, Radiology, Kaohsiung
+Rating: 8/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Zeng Shih-chieh sent a clear report within a day.
+
+Review 3 for Dr. Zeng Shih-chieh, Radiology, Kaohsiung
+Rating: 9/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: Getting to Fengshan Kangtai Polyclinic by public transport in Kaohsiung was easy, and there is a step-free entrance for wheelchairs. The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Zeng Shih-chieh were respectful throughout.
+
+Review 4 for Dr. Zeng Shih-chieh, Radiology, Kaohsiung
+Rating: 6/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: Dr. Zeng Shih-chieh answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Helpful visit overall, although I only found out about an extra charge after I had paid. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Zeng Shih-chieh, Radiology, Kaohsiung
+Rating: 8/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. When my scan showed something that needed a second look, Dr. Zeng Shih-chieh arranged the follow-up the same day. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Zeng Shih-chieh, Radiology, Kaohsiung
+Rating: 7/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I liked the advice I got from Dr. Zeng Shih-chieh, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Zeng Shih-chieh, Radiology, Kaohsiung
+Rating: 10/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. Paperwork at Sanduo Fuhe Medical Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 8 for Dr. Zeng Shih-chieh, Radiology, Kaohsiung
+Rating: 8/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: Images from Fengshan Kangtai Polyclinic were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. Dr. Zeng Shih-chieh used a calm, steady voice that settled my nerves before a stressful procedure. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Zeng Shih-chieh, Radiology, Kaohsiung: 7.75/10 from 8 reviews

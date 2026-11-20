@@ -1,0 +1,64 @@
+Doctor: Dr. Sandra Lang
+Doctor ID: 3021
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 4
+City: Vienna, Austria
+Clinics: Medizinisches Zentrum Landstraße (clinic ID 393)
+
+Review 1 for Dr. Sandra Lang, Pulmonology, Vienna
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The treatment plan from Dr. Sandra Lang made sense, but I wished it had been written down for me to take away. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Sandra Lang, Pulmonology, Vienna
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: At Medizinisches Zentrum Landstraße, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 3 for Dr. Sandra Lang, Pulmonology, Vienna
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Paperwork at Medizinisches Zentrum Landstraße was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 4 for Dr. Sandra Lang, Pulmonology, Vienna
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Clear, honest answers from Dr. Sandra Lang about my shortness of breath, and no unnecessary tests were ordered.
+
+Review 5 for Dr. Sandra Lang, Pulmonology, Vienna
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 6 for Dr. Sandra Lang, Pulmonology, Vienna
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 7 for Dr. Sandra Lang, Pulmonology, Vienna
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Quick appointment and a fair price in Vienna, but the staff seemed overwhelmed and a bit curt on the phone. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Sandra Lang, Pulmonology, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Booking online at Medizinisches Zentrum Landstraße was simple, and I got a confirmation text with clear directions and a reminder the day before. The allergy-related asthma triggers we identified have made a visible difference to my winters in Vienna. I have no hesitation sending my own relatives here.
+
+Review 9 for Dr. Sandra Lang, Pulmonology, Vienna
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: After years of poorly controlled asthma, Dr. Sandra Lang reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 10 for Dr. Sandra Lang, Pulmonology, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Helpful and honest about my prognosis, Dr. Sandra Lang could still have given me more written material to take home.
+
+Review 11 for Dr. Sandra Lang, Pulmonology, Vienna
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: At my visit, Dr. Sandra Lang took notes on my medication list, checked for interactions and explained the changes simply.
+
+Overall rating for Dr. Sandra Lang, Pulmonology, Vienna: 8.55/10 from 11 reviews

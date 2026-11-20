@@ -1,0 +1,69 @@
+Doctor: Dr. Heo Min-jun
+Doctor ID: 4258
+Specialization: General
+Gender: Male
+Years of experience: 26
+City: Incheon, South Korea
+Clinics: Juan Maeum Polyclinic (clinic ID 548)
+
+Review 1 for Dr. Heo Min-jun, General, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Heo Min-jun, General, Incheon
+Rating: 6/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Heo Min-jun, General, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Referrals from Dr. Heo Min-jun are handled well, but getting test results back took longer than I was told to expect.
+
+Review 4 for Dr. Heo Min-jun, General, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I liked the advice I got from Dr. Heo Min-jun, but I would have liked more time to ask follow-up questions before the visit ended. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Heo Min-jun, General, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 6 for Dr. Heo Min-jun, General, Incheon
+Rating: 8/10
+Clinic visited: Juan Maeum Polyclinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. A same-day slot was found for me at Juan Maeum Polyclinic when I called with a worrying symptom. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Heo Min-jun, General, Incheon
+Rating: 6/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Juan Maeum Polyclinic. Dr. Heo Min-jun is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 8 for Dr. Heo Min-jun, General, Incheon
+Rating: 10/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Prescriptions from Dr. Heo Min-jun were sent to my pharmacy before I even left the building, and the dosage instructions were written down. My annual check-up with Dr. Heo Min-jun took forty minutes, with every screening explained and nothing rushed. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Heo Min-jun, General, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Juan Maeum Polyclinic were inconsistent. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Heo Min-jun, General, Incheon
+Rating: 8/10
+Clinic visited: Juan Maeum Polyclinic
+Description: My blood pressure had crept up and Dr. Heo Min-jun walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 11 for Dr. Heo Min-jun, General, Incheon
+Rating: 9/10
+Clinic visited: Juan Maeum Polyclinic
+Description: I went in with months of tiredness, and Dr. Heo Min-jun ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 12 for Dr. Heo Min-jun, General, Incheon
+Rating: 6/10
+Clinic visited: Juan Maeum Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I like that he listens to the full story, even if it means the appointment runs behind schedule. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Heo Min-jun, General, Incheon: 7.33/10 from 12 reviews

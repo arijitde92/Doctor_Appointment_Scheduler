@@ -1,0 +1,49 @@
+Doctor: Dr. Luc Costa
+Doctor ID: 3200
+Specialization: Cardiology
+Gender: Male
+Years of experience: 2
+City: Differdange, Luxembourg
+Clinics: Cabinet Médical Differdange Centre (clinic ID 415); Centre Médical Oberkorn (clinic ID 416)
+
+Review 1 for Dr. Luc Costa, Cardiology, Differdange
+Rating: 6/10
+Clinic visited: Centre Médical Oberkorn
+Description: Great care in the visit itself, but the billing for the tests at Centre Médical Oberkorn was confusing. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Luc Costa, Cardiology, Differdange
+Rating: 9/10
+Clinic visited: Centre Médical Oberkorn
+Description: After my heart attack, Dr. Luc Costa explained the rehab plan and medication changes with great patience and kindness. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 3 for Dr. Luc Costa, Cardiology, Differdange
+Rating: 7/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Luc Costa, Cardiology, Differdange
+Rating: 9/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Quick to coordinate with my regular doctor, so my medications were consistent across both offices.
+
+Review 5 for Dr. Luc Costa, Cardiology, Differdange
+Rating: 6/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Luc Costa, Cardiology, Differdange
+Rating: 8/10
+Clinic visited: Centre Médical Oberkorn
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 7 for Dr. Luc Costa, Cardiology, Differdange
+Rating: 7/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: Dr. Luc Costa adjusted my blood pressure medication carefully, though I had to call twice for a refill. Dr. Luc Costa was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 8 for Dr. Luc Costa, Cardiology, Differdange
+Rating: 7/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: Booking was easy online, but the confirmation email contained the wrong address for Cabinet Médical Differdange Centre. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Luc Costa, Cardiology, Differdange: 7.38/10 from 8 reviews

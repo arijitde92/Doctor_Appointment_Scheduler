@@ -1,0 +1,54 @@
+Doctor: Dr. Adel Saleh
+Doctor ID: 5897
+Specialization: General
+Gender: Male
+Years of experience: 18
+City: Cairo, Egypt
+Clinics: Heliopolis Salama Polyclinic (clinic ID 762); Zamalek Care Health Practice (clinic ID 763)
+
+Review 1 for Dr. Adel Saleh, General, Cairo
+Rating: 8/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: Getting to Heliopolis Salama Polyclinic from across Cairo was easy, and the same-week appointment saved me an urgent care trip. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 2 for Dr. Adel Saleh, General, Cairo
+Rating: 9/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: By the time I left the room, Dr. Adel Saleh had sorted the sick note, referral letter and prescription refill. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Adel Saleh, General, Cairo
+Rating: 7/10
+Clinic visited: Zamalek Care Health Practice
+Description: Referrals from Dr. Adel Saleh are handled well, but getting test results back took longer than I was told to expect. Dr. Adel Saleh was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Adel Saleh, General, Cairo
+Rating: 7/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: The treatment plan from Dr. Adel Saleh made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Adel Saleh, General, Cairo
+Rating: 8/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Best family doctor I have had; He treats the whole person and not just the symptom list. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Adel Saleh, General, Cairo
+Rating: 9/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: Cholesterol results were explained by Dr. Adel Saleh with a simple chart, and we agreed on a plan I could realistically follow. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Adel Saleh, General, Cairo
+Rating: 7/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Dr. Adel Saleh is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 8 for Dr. Adel Saleh, General, Cairo
+Rating: 9/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. The practice in Cairo is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 9 for Dr. Adel Saleh, General, Cairo
+Rating: 6/10
+Clinic visited: Zamalek Care Health Practice
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Overall rating for Dr. Adel Saleh, General, Cairo: 7.78/10 from 9 reviews

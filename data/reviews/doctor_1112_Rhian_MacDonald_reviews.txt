@@ -1,0 +1,54 @@
+Doctor: Dr. Rhian MacDonald
+Doctor ID: 1112
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 2
+City: London, UK
+Clinics: Covent Garden Family Health Practice (clinic ID 145)
+
+Review 1 for Dr. Rhian MacDonald, Pulmonology, London
+Rating: 7/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Dr. Rhian MacDonald adjusted my asthma medication well, but the breathing test appointment was a month away. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Rhian MacDonald, Pulmonology, London
+Rating: 7/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 3 for Dr. Rhian MacDonald, Pulmonology, London
+Rating: 6/10
+Clinic visited: Covent Garden Family Health Practice
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 4 for Dr. Rhian MacDonald, Pulmonology, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Dr. Rhian MacDonald explained my lung nodule follow-up schedule calmly, which took away weeks of worry. I appreciated that she offered more than one option and let me choose what suited my life. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Rhian MacDonald, Pulmonology, London
+Rating: 7/10
+Clinic visited: Covent Garden Family Health Practice
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 6 for Dr. Rhian MacDonald, Pulmonology, London
+Rating: 6/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Pleasant manner and careful lung exam, though the waiting time at Covent Garden Family Health Practice regularly exceeded forty minutes. Dr. Rhian MacDonald was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Rhian MacDonald, Pulmonology, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Booking online at Covent Garden Family Health Practice was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 8 for Dr. Rhian MacDonald, Pulmonology, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: She called personally with my scan results and walked me through what the findings did and did not mean. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 9 for Dr. Rhian MacDonald, Pulmonology, London
+Rating: 7/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Good bedside manner from Dr. Rhian MacDonald, but the parking near Covent Garden Family Health Practice is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Rhian MacDonald, Pulmonology, London: 7.11/10 from 9 reviews

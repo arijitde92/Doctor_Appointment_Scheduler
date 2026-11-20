@@ -1,0 +1,69 @@
+Doctor: Dr. Mehmet Bauer
+Doctor ID: 1495
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 27
+City: Berlin, Germany
+Clinics: Praxiszentrum am Kurfürstendamm (clinic ID 195)
+
+Review 1 for Dr. Mehmet Bauer, Orthopedic, Berlin
+Rating: 6/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 2 for Dr. Mehmet Bauer, Orthopedic, Berlin
+Rating: 8/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Mehmet Bauer, Orthopedic, Berlin
+Rating: 8/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I appreciated Dr. Mehmet Bauer's honest comparison between injections, therapy and surgery for my hip pain. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Mehmet Bauer, Orthopedic, Berlin
+Rating: 7/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 5 for Dr. Mehmet Bauer, Orthopedic, Berlin
+Rating: 5/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Booking was easy online, but the confirmation email contained the wrong address for Praxiszentrum am Kurfürstendamm. Dr. Mehmet Bauer explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 6 for Dr. Mehmet Bauer, Orthopedic, Berlin
+Rating: 7/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Mehmet Bauer, Orthopedic, Berlin
+Rating: 8/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Follow-up scans were compared with the earlier ones, and Dr. Mehmet Bauer showed me how the bone had healed.
+
+Review 8 for Dr. Mehmet Bauer, Orthopedic, Berlin
+Rating: 4/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed. The prescription from Dr. Mehmet Bauer was not the one we discussed, and I only noticed when I got home. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 9 for Dr. Mehmet Bauer, Orthopedic, Berlin
+Rating: 7/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Good bedside manner from Dr. Mehmet Bauer, but the parking near Praxiszentrum am Kurfürstendamm is limited and I had to circle for fifteen minutes. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Mehmet Bauer, Orthopedic, Berlin
+Rating: 7/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 11 for Dr. Mehmet Bauer, Orthopedic, Berlin
+Rating: 7/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Very skilled with my knee, but Dr. Mehmet Bauer's clinic runs behind and the wait was over an hour. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 12 for Dr. Mehmet Bauer, Orthopedic, Berlin
+Rating: 7/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Mehmet Bauer, Orthopedic, Berlin: 6.75/10 from 12 reviews

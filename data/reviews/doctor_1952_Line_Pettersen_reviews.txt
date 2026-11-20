@@ -1,0 +1,54 @@
+Doctor: Dr. Line Pettersen
+Doctor ID: 1952
+Specialization: Radiology
+Gender: Female
+Years of experience: 14
+City: Bergen, Norway
+Clinics: Legesenteret Torgallmenningen (clinic ID 255)
+
+Review 1 for Dr. Line Pettersen, Radiology, Bergen
+Rating: 5/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Line Pettersen, Radiology, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: The report from Dr. Line Pettersen was thorough, though full of technical terms that needed my regular doctor to translate. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Line Pettersen, Radiology, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Line Pettersen, Radiology, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 5 for Dr. Line Pettersen, Radiology, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Booking was easy online, but the confirmation email contained the wrong address for Legesenteret Torgallmenningen. Dr. Line Pettersen answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 6 for Dr. Line Pettersen, Radiology, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Dr. Line Pettersen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Professional technologist, though the changing room was cramped and the lockers did not work. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Line Pettersen, Radiology, Bergen
+Rating: 10/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Dr. Line Pettersen compared my new scan with last year's and pointed out exactly what had stayed the same. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 8 for Dr. Line Pettersen, Radiology, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Dr. Line Pettersen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 9 for Dr. Line Pettersen, Radiology, Bergen
+Rating: 8/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Reviewing my X-ray together with Dr. Line Pettersen on the screen made it much easier to understand my arthritis. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Overall rating for Dr. Line Pettersen, Radiology, Bergen: 6.89/10 from 9 reviews

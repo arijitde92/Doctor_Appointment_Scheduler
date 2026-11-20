@@ -1,0 +1,49 @@
+Doctor: Dr. Teresa Hernández Ruiz
+Doctor ID: 411
+Specialization: Cardiology
+Gender: Female
+Years of experience: 29
+City: Guadalajara, Mexico
+Clinics: Centro Médico Andares (clinic ID 56); Clínica del Carmen Tapatía (clinic ID 57); Consultorios Médicos Chapalita (clinic ID 58)
+
+Review 1 for Dr. Teresa Hernández Ruiz, Cardiology, Guadalajara
+Rating: 8/10
+Clinic visited: Centro Médico Andares
+Description: My atrial fibrillation is well managed by Dr. Teresa Hernández Ruiz, and I know exactly what symptoms mean I should call.
+
+Review 2 for Dr. Teresa Hernández Ruiz, Cardiology, Guadalajara
+Rating: 6/10
+Clinic visited: Centro Médico Andares
+Description: The treatment plan from Dr. Teresa Hernández Ruiz made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Teresa Hernández Ruiz, Cardiology, Guadalajara
+Rating: 5/10
+Clinic visited: Clínica del Carmen Tapatía
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Quick appointment and a fair price in Guadalajara, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Teresa Hernández Ruiz, Cardiology, Guadalajara
+Rating: 5/10
+Clinic visited: Centro Médico Andares
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Teresa Hernández Ruiz, Cardiology, Guadalajara
+Rating: 7/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Great care in the visit itself, but the billing for the tests at Consultorios Médicos Chapalita was confusing. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Teresa Hernández Ruiz, Cardiology, Guadalajara
+Rating: 8/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Seeing Dr. Teresa Hernández Ruiz in Guadalajara meant my whole family history was reviewed, and now my sister is being screened too. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Teresa Hernández Ruiz, Cardiology, Guadalajara
+Rating: 6/10
+Clinic visited: Clínica del Carmen Tapatía
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Good bedside manner from Dr. Teresa Hernández Ruiz, but the parking near Clínica del Carmen Tapatía is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Teresa Hernández Ruiz, Cardiology, Guadalajara
+Rating: 7/10
+Clinic visited: Centro Médico Andares
+Description: Helpful with my cholesterol, Dr. Teresa Hernández Ruiz still gave dietary advice that was a little generic.
+
+Overall rating for Dr. Teresa Hernández Ruiz, Cardiology, Guadalajara: 6.50/10 from 8 reviews

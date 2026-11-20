@@ -1,0 +1,54 @@
+Doctor: Dr. Percy Salazar
+Doctor ID: 1022
+Specialization: Pathology
+Gender: Male
+Years of experience: 18
+City: Trujillo, Peru
+Clinics: Instituto de Salud Víctor Larco (clinic ID 134)
+
+Review 1 for Dr. Percy Salazar, Pathology, Trujillo
+Rating: 4/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. My sample was labelled incorrectly and I had to return for a repeat blood draw.
+
+Review 2 for Dr. Percy Salazar, Pathology, Trujillo
+Rating: 5/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Helpful in clarifying a borderline result, though Dr. Percy Salazar gave little guidance about whether to repeat it. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Percy Salazar, Pathology, Trujillo
+Rating: 4/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Dr. Percy Salazar was never available to talk about my result, and the front desk repeated that I should ask my referring physician. The waiting room at Instituto de Salud Víctor Larco was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 4 for Dr. Percy Salazar, Pathology, Trujillo
+Rating: 5/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Quick appointment and a fair price in Trujillo, but the staff seemed overwhelmed and a bit curt on the phone. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 5 for Dr. Percy Salazar, Pathology, Trujillo
+Rating: 8/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Percy Salazar, Pathology, Trujillo
+Rating: 5/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The blood draw was painless, but the waiting area at Instituto de Salud Víctor Larco was crowded in the early morning.
+
+Review 7 for Dr. Percy Salazar, Pathology, Trujillo
+Rating: 6/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 8 for Dr. Percy Salazar, Pathology, Trujillo
+Rating: 7/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Booking was easy online, but the confirmation email contained the wrong address for Instituto de Salud Víctor Larco.
+
+Review 9 for Dr. Percy Salazar, Pathology, Trujillo
+Rating: 5/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The treatment plan from Dr. Percy Salazar made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Percy Salazar, Pathology, Trujillo: 5.44/10 from 9 reviews

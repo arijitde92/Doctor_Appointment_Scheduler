@@ -1,0 +1,54 @@
+Doctor: Dr. Camilla Jakobsen
+Doctor ID: 2275
+Specialization: Pathology
+Gender: Female
+Years of experience: 4
+City: Aalborg, Denmark
+Clinics: Lægecentret Nørregade Aalborg (clinic ID 296); Sundhedscenter Vesterbro Aalborg (clinic ID 297)
+
+Review 1 for Dr. Camilla Jakobsen, Pathology, Aalborg
+Rating: 10/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Camilla Jakobsen felt well organized from start to finish.
+
+Review 2 for Dr. Camilla Jakobsen, Pathology, Aalborg
+Rating: 8/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Camilla Jakobsen, Pathology, Aalborg
+Rating: 4/10
+Clinic visited: Lægecentret Nørregade Aalborg
+Description: Dr. Camilla Jakobsen was never available to talk about my result, and the front desk repeated that I should ask my referring physician.
+
+Review 4 for Dr. Camilla Jakobsen, Pathology, Aalborg
+Rating: 7/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: Helpful in clarifying a borderline result, though Dr. Camilla Jakobsen gave little guidance about whether to repeat it.
+
+Review 5 for Dr. Camilla Jakobsen, Pathology, Aalborg
+Rating: 5/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: The blood draw was painless, but the waiting area at Sundhedscenter Vesterbro Aalborg was crowded in the early morning.
+
+Review 6 for Dr. Camilla Jakobsen, Pathology, Aalborg
+Rating: 7/10
+Clinic visited: Lægecentret Nørregade Aalborg
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Camilla Jakobsen, Pathology, Aalborg
+Rating: 7/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Camilla Jakobsen, Pathology, Aalborg
+Rating: 6/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Camilla Jakobsen, Pathology, Aalborg
+Rating: 9/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Aalborg. At my visit, Dr. Camilla Jakobsen took notes on my medication list, checked for interactions and explained the changes simply. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Camilla Jakobsen, Pathology, Aalborg: 7.00/10 from 9 reviews

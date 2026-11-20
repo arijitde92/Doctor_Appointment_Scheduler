@@ -1,0 +1,69 @@
+Doctor: Dr. Philippe Patel
+Doctor ID: 320
+Specialization: General
+Gender: Male
+Years of experience: 4
+City: Montreal, Canada
+Clinics: Clinique Médicale McGill Collège (clinic ID 44)
+
+Review 1 for Dr. Philippe Patel, General, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Philippe Patel, General, Montreal
+Rating: 6/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Philippe Patel, General, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Vaccination advice from Dr. Philippe Patel for my travel plans was thorough and specific to the countries I was visiting. Paperwork at Clinique Médicale McGill Collège was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 4 for Dr. Philippe Patel, General, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: The treatment plan from Dr. Philippe Patel made sense, but I wished it had been written down for me to take away. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 5 for Dr. Philippe Patel, General, Montreal
+Rating: 6/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Philippe Patel, General, Montreal
+Rating: 6/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Dr. Philippe Patel is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 7 for Dr. Philippe Patel, General, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Clinique Médicale McGill Collège were inconsistent. I liked the advice I got from Dr. Philippe Patel, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Philippe Patel, General, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 9 for Dr. Philippe Patel, General, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. I like that he listens to the full story, even if it means the appointment runs behind schedule. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Philippe Patel, General, Montreal
+Rating: 6/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 11 for Dr. Philippe Patel, General, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Dr. Philippe Patel spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 12 for Dr. Philippe Patel, General, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: At my visit, Dr. Philippe Patel took notes on my medication list, checked for interactions and explained the changes simply. Cholesterol results were explained by Dr. Philippe Patel with a simple chart, and we agreed on a plan I could realistically follow.
+
+Overall rating for Dr. Philippe Patel, General, Montreal: 7.17/10 from 12 reviews

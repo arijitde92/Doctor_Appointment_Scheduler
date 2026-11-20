@@ -1,0 +1,64 @@
+Doctor: Dr. Omar Gaber
+Doctor ID: 5848
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 3
+City: Alexandria, Egypt
+Clinics: Smouha Family Health Clinic (clinic ID 755); Sidi Gaber Wellness Practice (clinic ID 758)
+
+Review 1 for Dr. Omar Gaber, Psychiatry, Alexandria
+Rating: 4/10
+Clinic visited: Smouha Family Health Clinic
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week. Dr. Omar Gaber seemed to focus on the paperwork, and I did not feel I could share what was really going on.
+
+Review 2 for Dr. Omar Gaber, Psychiatry, Alexandria
+Rating: 7/10
+Clinic visited: Smouha Family Health Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 3 for Dr. Omar Gaber, Psychiatry, Alexandria
+Rating: 7/10
+Clinic visited: Smouha Family Health Clinic
+Description: Dr. Omar Gaber is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 4 for Dr. Omar Gaber, Psychiatry, Alexandria
+Rating: 6/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Good listener, yet the refill process at Sidi Gaber Wellness Practice is slow and requires several phone calls.
+
+Review 5 for Dr. Omar Gaber, Psychiatry, Alexandria
+Rating: 7/10
+Clinic visited: Smouha Family Health Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Omar Gaber, Psychiatry, Alexandria
+Rating: 8/10
+Clinic visited: Smouha Family Health Clinic
+Description: My depression finally has a treatment plan from Dr. Omar Gaber that works, with regular check-ins and careful dose changes.
+
+Review 7 for Dr. Omar Gaber, Psychiatry, Alexandria
+Rating: 7/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 8 for Dr. Omar Gaber, Psychiatry, Alexandria
+Rating: 8/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 9 for Dr. Omar Gaber, Psychiatry, Alexandria
+Rating: 7/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The doctor was kind, though the clinic's evening hours are very limited for working people. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Omar Gaber, Psychiatry, Alexandria
+Rating: 5/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: I got what I needed, but the next available appointment was three weeks away. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 11 for Dr. Omar Gaber, Psychiatry, Alexandria
+Rating: 6/10
+Clinic visited: Smouha Family Health Clinic
+Description: The treatment plan from Dr. Omar Gaber made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Omar Gaber, Psychiatry, Alexandria: 6.55/10 from 11 reviews

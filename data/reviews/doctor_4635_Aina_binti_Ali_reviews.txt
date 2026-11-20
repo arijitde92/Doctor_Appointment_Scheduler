@@ -1,0 +1,49 @@
+Doctor: Dr. Aina binti Ali
+Doctor ID: 4635
+Specialization: General
+Gender: Female
+Years of experience: 4
+City: George Town, Malaysia
+Clinics: Klinik Permata Hati (clinic ID 599)
+
+Review 1 for Dr. Aina binti Ali, General, George Town
+Rating: 8/10
+Clinic visited: Klinik Permata Hati
+Description: Prescriptions from Dr. Aina binti Ali were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 2 for Dr. Aina binti Ali, General, George Town
+Rating: 9/10
+Clinic visited: Klinik Permata Hati
+Description: My blood pressure had crept up and Dr. Aina binti Ali walked me through diet changes before suggesting anything else. Three months later my readings were normal. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Aina binti Ali, General, George Town
+Rating: 9/10
+Clinic visited: Klinik Permata Hati
+Description: Managing my type 2 diabetes with Dr. Aina binti Ali has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 4 for Dr. Aina binti Ali, General, George Town
+Rating: 6/10
+Clinic visited: Klinik Permata Hati
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Klinik Permata Hati were inconsistent.
+
+Review 5 for Dr. Aina binti Ali, General, George Town
+Rating: 9/10
+Clinic visited: Klinik Permata Hati
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. The visit began with a short, friendly chat that put me at ease before any examination started. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Aina binti Ali, General, George Town
+Rating: 10/10
+Clinic visited: Klinik Permata Hati
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Dr. Aina binti Ali spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 7 for Dr. Aina binti Ali, General, George Town
+Rating: 6/10
+Clinic visited: Klinik Permata Hati
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 8 for Dr. Aina binti Ali, General, George Town
+Rating: 8/10
+Clinic visited: Klinik Permata Hati
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. As a new patient in George Town, I felt welcomed at Klinik Permata Hati, and my whole history was reviewed in one relaxed visit. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Aina binti Ali, General, George Town: 8.12/10 from 8 reviews

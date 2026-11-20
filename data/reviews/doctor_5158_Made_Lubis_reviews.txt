@@ -1,0 +1,54 @@
+Doctor: Dr. Made Lubis
+Doctor ID: 5158
+Specialization: Cardiology
+Gender: Male
+Years of experience: 23
+City: Jakarta, Indonesia
+Clinics: Klinik Cahaya Medika (clinic ID 666)
+
+Review 1 for Dr. Made Lubis, Cardiology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Cahaya Medika
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Made Lubis, Cardiology, Jakarta
+Rating: 5/10
+Clinic visited: Klinik Cahaya Medika
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Made Lubis adjusted my blood pressure medication carefully, though I had to call twice for a refill. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Made Lubis, Cardiology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Cahaya Medika
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. The waiting room at Klinik Cahaya Medika was clean, quiet and comfortable, with enough seating and water available.
+
+Review 4 for Dr. Made Lubis, Cardiology, Jakarta
+Rating: 6/10
+Clinic visited: Klinik Cahaya Medika
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 5 for Dr. Made Lubis, Cardiology, Jakarta
+Rating: 10/10
+Clinic visited: Klinik Cahaya Medika
+Description: Clear and calm advice at Klinik Cahaya Medika about exercise after my stent, including a gradual written schedule.
+
+Review 6 for Dr. Made Lubis, Cardiology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Cahaya Medika
+Description: After my palpitations began, Dr. Made Lubis arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 7 for Dr. Made Lubis, Cardiology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Cahaya Medika
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 8 for Dr. Made Lubis, Cardiology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Cahaya Medika
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 9 for Dr. Made Lubis, Cardiology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Cahaya Medika
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Overall rating for Dr. Made Lubis, Cardiology, Jakarta: 7.44/10 from 9 reviews

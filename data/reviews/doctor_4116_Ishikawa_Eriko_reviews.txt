@@ -1,0 +1,64 @@
+Doctor: Dr. Ishikawa Eriko
+Doctor ID: 4116
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 5
+City: Yokohama, Japan
+Clinics: Yokohama Station Kaze Medical Clinic (clinic ID 531); Kannai Sumire Family Clinic (clinic ID 532)
+
+Review 1 for Dr. Ishikawa Eriko, Pediatrics, Yokohama
+Rating: 8/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Dr. Ishikawa Eriko noticed a speech delay early and referred us to a therapist, which has made a real difference. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Ishikawa Eriko, Pediatrics, Yokohama
+Rating: 7/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Ishikawa Eriko, Pediatrics, Yokohama
+Rating: 7/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Quick appointment and a fair price in Yokohama, but the staff seemed overwhelmed and a bit curt on the phone. Caring and gentle with my child, Dr. Ishikawa Eriko nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 4 for Dr. Ishikawa Eriko, Pediatrics, Yokohama
+Rating: 8/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Vaccination visits with Dr. Ishikawa Eriko are painless and well explained, and my questions about the schedule were answered without any pressure. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Ishikawa Eriko, Pediatrics, Yokohama
+Rating: 5/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The treatment plan from Dr. Ishikawa Eriko made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Ishikawa Eriko, Pediatrics, Yokohama
+Rating: 6/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 7 for Dr. Ishikawa Eriko, Pediatrics, Yokohama
+Rating: 7/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Ishikawa Eriko, Pediatrics, Yokohama
+Rating: 7/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Dr. Ishikawa Eriko is thorough with exams, but the after-hours phone line at Kannai Sumire Family Clinic is hard to reach. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Ishikawa Eriko, Pediatrics, Yokohama
+Rating: 7/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Good bedside manner from Dr. Ishikawa Eriko, but the parking near Kannai Sumire Family Clinic is limited and I had to circle for fifteen minutes. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Ishikawa Eriko, Pediatrics, Yokohama
+Rating: 4/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: I felt dismissed by Dr. Ishikawa Eriko when I brought up a second concern, and was told to book another appointment for it. The referral to a specialist never arrived, and I had to chase it myself for weeks.
+
+Review 11 for Dr. Ishikawa Eriko, Pediatrics, Yokohama
+Rating: 6/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Ishikawa Eriko, Pediatrics, Yokohama: 6.55/10 from 11 reviews

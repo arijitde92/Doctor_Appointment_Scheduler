@@ -1,0 +1,59 @@
+Doctor: Dr. Viktor Solovyov
+Doctor ID: 3691
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 6
+City: Kazan, Russia
+Clinics: Klinika Zdorovye Kazani (clinic ID 476); Chistopolskaya Family Polyclinic (clinic ID 477)
+
+Review 1 for Dr. Viktor Solovyov, Gastroenterology, Kazan
+Rating: 7/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 2 for Dr. Viktor Solovyov, Gastroenterology, Kazan
+Rating: 8/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: At my visit, Dr. Viktor Solovyov took notes on my medication list, checked for interactions and explained the changes simply. I received a full summary letter from Chistopolskaya Family Polyclinic after my endoscopy, which my regular doctor found very useful.
+
+Review 3 for Dr. Viktor Solovyov, Gastroenterology, Kazan
+Rating: 8/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner.
+
+Review 4 for Dr. Viktor Solovyov, Gastroenterology, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 5 for Dr. Viktor Solovyov, Gastroenterology, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Viktor Solovyov felt well organized from start to finish.
+
+Review 6 for Dr. Viktor Solovyov, Gastroenterology, Kazan
+Rating: 6/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Viktor Solovyov, Gastroenterology, Kazan
+Rating: 7/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Viktor Solovyov, Gastroenterology, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Dr. Viktor Solovyov took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. The receptionist at Klinika Zdorovye Kazani remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 9 for Dr. Viktor Solovyov, Gastroenterology, Kazan
+Rating: 9/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: Getting to Chistopolskaya Family Polyclinic by public transport in Kazan was easy, and there is a step-free entrance for wheelchairs. I have no hesitation sending my own relatives here.
+
+Review 10 for Dr. Viktor Solovyov, Gastroenterology, Kazan
+Rating: 6/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Overall rating for Dr. Viktor Solovyov, Gastroenterology, Kazan: 7.50/10 from 10 reviews

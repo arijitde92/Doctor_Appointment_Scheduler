@@ -1,0 +1,49 @@
+Doctor: Dr. Sasaki Junko
+Doctor ID: 4126
+Specialization: Cardiology
+Gender: Female
+Years of experience: 28
+City: Yokohama, Japan
+Clinics: Kannai Sumire Family Clinic (clinic ID 532)
+
+Review 1 for Dr. Sasaki Junko, Cardiology, Yokohama
+Rating: 7/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Sasaki Junko, Cardiology, Yokohama
+Rating: 7/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Dr. Sasaki Junko adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 3 for Dr. Sasaki Junko, Cardiology, Yokohama
+Rating: 7/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Great care in the visit itself, but the billing for the tests at Kannai Sumire Family Clinic was confusing.
+
+Review 4 for Dr. Sasaki Junko, Cardiology, Yokohama
+Rating: 7/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 5 for Dr. Sasaki Junko, Cardiology, Yokohama
+Rating: 6/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Sasaki Junko, Cardiology, Yokohama
+Rating: 6/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Sasaki Junko, Cardiology, Yokohama
+Rating: 8/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Seeing Dr. Sasaki Junko in Yokohama meant my whole family history was reviewed, and now my sister is being screened too.
+
+Review 8 for Dr. Sasaki Junko, Cardiology, Yokohama
+Rating: 6/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Helpful with my cholesterol, Dr. Sasaki Junko still gave dietary advice that was a little generic.
+
+Overall rating for Dr. Sasaki Junko, Cardiology, Yokohama: 6.75/10 from 8 reviews

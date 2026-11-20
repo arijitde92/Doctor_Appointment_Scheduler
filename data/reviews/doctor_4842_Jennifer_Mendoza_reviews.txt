@@ -1,0 +1,59 @@
+Doctor: Dr. Jennifer Mendoza
+Doctor ID: 4842
+Specialization: General
+Gender: Female
+Years of experience: 1
+City: Manila, Philippines
+Clinics: Klinika Santa Teresita (clinic ID 625); San Lorenzo Family Clinic (clinic ID 627)
+
+Review 1 for Dr. Jennifer Mendoza, General, Manila
+Rating: 7/10
+Clinic visited: San Lorenzo Family Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Booking was easy online, but the confirmation email contained the wrong address for San Lorenzo Family Clinic.
+
+Review 2 for Dr. Jennifer Mendoza, General, Manila
+Rating: 5/10
+Clinic visited: Klinika Santa Teresita
+Description: Dr. Jennifer Mendoza was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 3 for Dr. Jennifer Mendoza, General, Manila
+Rating: 6/10
+Clinic visited: San Lorenzo Family Clinic
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Quick appointment and a fair price in Manila, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Jennifer Mendoza, General, Manila
+Rating: 7/10
+Clinic visited: Klinika Santa Teresita
+Description: Referrals from Dr. Jennifer Mendoza are handled well, but getting test results back took longer than I was told to expect.
+
+Review 5 for Dr. Jennifer Mendoza, General, Manila
+Rating: 8/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Dr. Jennifer Mendoza double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 6 for Dr. Jennifer Mendoza, General, Manila
+Rating: 7/10
+Clinic visited: Klinika Santa Teresita
+Description: Dr. Jennifer Mendoza is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Jennifer Mendoza, General, Manila
+Rating: 9/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Managing my type 2 diabetes with Dr. Jennifer Mendoza has been steady and practical, with quarterly blood sugar reviews and no lectures. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 8 for Dr. Jennifer Mendoza, General, Manila
+Rating: 9/10
+Clinic visited: San Lorenzo Family Clinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 9 for Dr. Jennifer Mendoza, General, Manila
+Rating: 7/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Good bedside manner from Dr. Jennifer Mendoza, but the parking near San Lorenzo Family Clinic is limited and I had to circle for fifteen minutes. Good clinical judgment on my recurring chest infections, but the follow-up reminders from San Lorenzo Family Clinic were inconsistent.
+
+Review 10 for Dr. Jennifer Mendoza, General, Manila
+Rating: 8/10
+Clinic visited: Klinika Santa Teresita
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. A translator was arranged for my mother without us asking twice, and Dr. Jennifer Mendoza spoke directly to her throughout.
+
+Overall rating for Dr. Jennifer Mendoza, General, Manila: 7.30/10 from 10 reviews

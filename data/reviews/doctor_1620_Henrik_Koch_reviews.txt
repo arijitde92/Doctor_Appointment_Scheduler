@@ -1,0 +1,54 @@
+Doctor: Dr. Henrik Koch
+Doctor ID: 1620
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 1
+City: Munich, Germany
+Clinics: Medicum Sendlinger Tor (clinic ID 211)
+
+Review 1 for Dr. Henrik Koch, Psychiatry, Munich
+Rating: 8/10
+Clinic visited: Medicum Sendlinger Tor
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Never once did I feel rushed, even though the clinic was clearly busy that morning. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Henrik Koch, Psychiatry, Munich
+Rating: 8/10
+Clinic visited: Medicum Sendlinger Tor
+Description: The waiting room at Medicum Sendlinger Tor was clean, quiet and comfortable, with enough seating and water available. My family was included in a session at my request, and Dr. Henrik Koch handled it with great tact.
+
+Review 3 for Dr. Henrik Koch, Psychiatry, Munich
+Rating: 8/10
+Clinic visited: Medicum Sendlinger Tor
+Description: Never once did Dr. Henrik Koch make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 4 for Dr. Henrik Koch, Psychiatry, Munich
+Rating: 8/10
+Clinic visited: Medicum Sendlinger Tor
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. I can ring Medicum Sendlinger Tor with an urgent question and receive a thoughtful reply the same day.
+
+Review 5 for Dr. Henrik Koch, Psychiatry, Munich
+Rating: 8/10
+Clinic visited: Medicum Sendlinger Tor
+Description: Excellent at explaining how therapy and medication work together, and Dr. Henrik Koch coordinated with my counselor. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 6 for Dr. Henrik Koch, Psychiatry, Munich
+Rating: 5/10
+Clinic visited: Medicum Sendlinger Tor
+Description: Good listener, yet the refill process at Medicum Sendlinger Tor is slow and requires several phone calls. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Henrik Koch, Psychiatry, Munich
+Rating: 6/10
+Clinic visited: Medicum Sendlinger Tor
+Description: I got what I needed, but the next available appointment was three weeks away. Helpful diagnosis, though the billing for my first long assessment was confusing. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Henrik Koch, Psychiatry, Munich
+Rating: 7/10
+Clinic visited: Medicum Sendlinger Tor
+Description: Booking was easy online, but the confirmation email contained the wrong address for Medicum Sendlinger Tor. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 9 for Dr. Henrik Koch, Psychiatry, Munich
+Rating: 8/10
+Clinic visited: Medicum Sendlinger Tor
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Henrik Koch, Psychiatry, Munich: 7.33/10 from 9 reviews

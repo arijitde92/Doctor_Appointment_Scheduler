@@ -1,0 +1,59 @@
+Doctor: Dr. Birgitte Sørensen
+Doctor ID: 2386
+Specialization: Cardiology
+Gender: Female
+Years of experience: 7
+City: Odense, Denmark
+Clinics: Sundhedscenter Nørregade Odense (clinic ID 312)
+
+Review 1 for Dr. Birgitte Sørensen, Cardiology, Odense
+Rating: 7/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Birgitte Sørensen, Cardiology, Odense
+Rating: 8/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Birgitte Sørensen felt well organized from start to finish.
+
+Review 3 for Dr. Birgitte Sørensen, Cardiology, Odense
+Rating: 5/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Birgitte Sørensen, Cardiology, Odense
+Rating: 5/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Birgitte Sørensen, Cardiology, Odense
+Rating: 6/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Good bedside manner from Dr. Birgitte Sørensen, but the parking near Sundhedscenter Nørregade Odense is limited and I had to circle for fifteen minutes. Dr. Birgitte Sørensen adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 6 for Dr. Birgitte Sørensen, Cardiology, Odense
+Rating: 4/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: I was billed separately for tests that I understood to be part of the original consultation. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 7 for Dr. Birgitte Sørensen, Cardiology, Odense
+Rating: 6/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 8 for Dr. Birgitte Sørensen, Cardiology, Odense
+Rating: 7/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Great care in the visit itself, but the billing for the tests at Sundhedscenter Nørregade Odense was confusing.
+
+Review 9 for Dr. Birgitte Sørensen, Cardiology, Odense
+Rating: 7/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Helpful with my cholesterol, Dr. Birgitte Sørensen still gave dietary advice that was a little generic.
+
+Review 10 for Dr. Birgitte Sørensen, Cardiology, Odense
+Rating: 6/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Birgitte Sørensen, Cardiology, Odense: 6.10/10 from 10 reviews

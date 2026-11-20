@@ -1,0 +1,69 @@
+Doctor: Dr. Pierre Garcia
+Doctor ID: 1206
+Specialization: Radiology
+Gender: Male
+Years of experience: 6
+City: Lyon, France
+Clinics: Clinique de la Part-Dieu (clinic ID 157)
+
+Review 1 for Dr. Pierre Garcia, Radiology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Quick appointment and a fair price in Lyon, but the staff seemed overwhelmed and a bit curt on the phone. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Pierre Garcia, Radiology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Pierre Garcia, Radiology, Lyon
+Rating: 8/10
+Clinic visited: Clinique de la Part-Dieu
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 4 for Dr. Pierre Garcia, Radiology, Lyon
+Rating: 6/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 5 for Dr. Pierre Garcia, Radiology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Pierre Garcia, Radiology, Lyon
+Rating: 10/10
+Clinic visited: Clinique de la Part-Dieu
+Description: My test results arrived in the portal within two days, together with a short note that made sense. The staff at Clinique de la Part-Dieu in Lyon explained the contrast dye and its side effects before I signed anything.
+
+Review 7 for Dr. Pierre Garcia, Radiology, Lyon
+Rating: 6/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Dr. Pierre Garcia answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Dr. Pierre Garcia was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Pierre Garcia, Radiology, Lyon
+Rating: 8/10
+Clinic visited: Clinique de la Part-Dieu
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 9 for Dr. Pierre Garcia, Radiology, Lyon
+Rating: 9/10
+Clinic visited: Clinique de la Part-Dieu
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 10 for Dr. Pierre Garcia, Radiology, Lyon
+Rating: 6/10
+Clinic visited: Clinique de la Part-Dieu
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. I would come back, but only if the waiting time improves.
+
+Review 11 for Dr. Pierre Garcia, Radiology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Decent care overall, and I will probably return unless I find something closer.
+
+Review 12 for Dr. Pierre Garcia, Radiology, Lyon
+Rating: 6/10
+Clinic visited: Clinique de la Part-Dieu
+Description: The report from Dr. Pierre Garcia was thorough, though full of technical terms that needed my regular doctor to translate. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Overall rating for Dr. Pierre Garcia, Radiology, Lyon: 7.25/10 from 12 reviews

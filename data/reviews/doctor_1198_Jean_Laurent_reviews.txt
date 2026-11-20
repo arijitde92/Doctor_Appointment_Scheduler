@@ -1,0 +1,64 @@
+Doctor: Dr. Jean Laurent
+Doctor ID: 1198
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 2
+City: Lyon, France
+Clinics: Cabinet Médical des Brotteaux (clinic ID 156)
+
+Review 1 for Dr. Jean Laurent, Orthopedic, Lyon
+Rating: 9/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Jean Laurent, Orthopedic, Lyon
+Rating: 7/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: I liked the advice I got from Dr. Jean Laurent, but I would have liked more time to ask follow-up questions before the visit ended. Dr. Jean Laurent explained surgery options clearly, though the physiotherapy referral took weeks to arrive. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Jean Laurent, Orthopedic, Lyon
+Rating: 5/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Very skilled with my knee, but Dr. Jean Laurent's clinic runs behind and the wait was over an hour. Good bedside manner from Dr. Jean Laurent, but the parking near Cabinet Médical des Brotteaux is limited and I had to circle for fifteen minutes.
+
+Review 4 for Dr. Jean Laurent, Orthopedic, Lyon
+Rating: 7/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Jean Laurent, Orthopedic, Lyon
+Rating: 6/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 6 for Dr. Jean Laurent, Orthopedic, Lyon
+Rating: 8/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Sensitive questions were handled by Dr. Jean Laurent with discretion and without a hint of judgment.
+
+Review 7 for Dr. Jean Laurent, Orthopedic, Lyon
+Rating: 6/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 8 for Dr. Jean Laurent, Orthopedic, Lyon
+Rating: 6/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 9 for Dr. Jean Laurent, Orthopedic, Lyon
+Rating: 6/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 10 for Dr. Jean Laurent, Orthopedic, Lyon
+Rating: 5/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 11 for Dr. Jean Laurent, Orthopedic, Lyon
+Rating: 2/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Dr. Jean Laurent seemed to dismiss my concerns about swelling after the operation, and I had to go elsewhere. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Overall rating for Dr. Jean Laurent, Orthopedic, Lyon: 6.09/10 from 11 reviews

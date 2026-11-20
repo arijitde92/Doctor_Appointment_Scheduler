@@ -1,0 +1,54 @@
+Doctor: Dr. Leandro Sánchez
+Doctor ID: 839
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 15
+City: Rosario, Argentina
+Clinics: Clínica Oroño Salud (clinic ID 110); Centro Médico Pellegrini (clinic ID 111)
+
+Review 1 for Dr. Leandro Sánchez, Orthopedic, Rosario
+Rating: 6/10
+Clinic visited: Centro Médico Pellegrini
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Leandro Sánchez, Orthopedic, Rosario
+Rating: 6/10
+Clinic visited: Centro Médico Pellegrini
+Description: Very skilled with my knee, but Dr. Leandro Sánchez's clinic runs behind and the wait was over an hour. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Leandro Sánchez, Orthopedic, Rosario
+Rating: 8/10
+Clinic visited: Centro Médico Pellegrini
+Description: Everything was explained in plain English by Dr. Leandro Sánchez, and nothing was left to guess. He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Leandro Sánchez, Orthopedic, Rosario
+Rating: 8/10
+Clinic visited: Clínica Oroño Salud
+Description: A same-day slot was found for me at Clínica Oroño Salud when I called with a worrying symptom. The surgeon at Clínica Oroño Salud spent time on my goals as a runner and shaped the treatment around them.
+
+Review 5 for Dr. Leandro Sánchez, Orthopedic, Rosario
+Rating: 6/10
+Clinic visited: Centro Médico Pellegrini
+Description: Dr. Leandro Sánchez explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 6 for Dr. Leandro Sánchez, Orthopedic, Rosario
+Rating: 6/10
+Clinic visited: Centro Médico Pellegrini
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Leandro Sánchez, Orthopedic, Rosario
+Rating: 7/10
+Clinic visited: Centro Médico Pellegrini
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Good bedside manner from Dr. Leandro Sánchez, but the parking near Centro Médico Pellegrini is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Leandro Sánchez, Orthopedic, Rosario
+Rating: 10/10
+Clinic visited: Centro Médico Pellegrini
+Description: Sensitive questions were handled by Dr. Leandro Sánchez with discretion and without a hint of judgment. After my knee replacement, Dr. Leandro Sánchez explained the entire recovery timeline, and I was walking with a cane by week three.
+
+Review 9 for Dr. Leandro Sánchez, Orthopedic, Rosario
+Rating: 7/10
+Clinic visited: Clínica Oroño Salud
+Description: I got what I needed, but the next available appointment was three weeks away. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Overall rating for Dr. Leandro Sánchez, Orthopedic, Rosario: 7.11/10 from 9 reviews

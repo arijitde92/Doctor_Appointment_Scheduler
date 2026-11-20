@@ -1,0 +1,49 @@
+Doctor: Dr. Patrick André
+Doctor ID: 1313
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 27
+City: Toulouse, France
+Clinics: Cabinet Médical Saint-Cyprien (clinic ID 171)
+
+Review 1 for Dr. Patrick André, Pulmonology, Toulouse
+Rating: 5/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 2 for Dr. Patrick André, Pulmonology, Toulouse
+Rating: 9/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: The spirometry test was explained step by step, and Dr. Patrick André put the results in context with a clear picture of my lung function. The visit began with a short, friendly chat that put me at ease before any examination started. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Patrick André, Pulmonology, Toulouse
+Rating: 7/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Patrick André, Pulmonology, Toulouse
+Rating: 8/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. At my visit, Dr. Patrick André took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 5 for Dr. Patrick André, Pulmonology, Toulouse
+Rating: 7/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 6 for Dr. Patrick André, Pulmonology, Toulouse
+Rating: 8/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. Dr. Patrick André used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 7 for Dr. Patrick André, Pulmonology, Toulouse
+Rating: 8/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: The receptionist at Cabinet Médical Saint-Cyprien remembered my name and had my forms ready, so check-in took less than a minute. After years of poorly controlled asthma, Dr. Patrick André reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 8 for Dr. Patrick André, Pulmonology, Toulouse
+Rating: 10/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Patrick André was practical and never preachy.
+
+Overall rating for Dr. Patrick André, Pulmonology, Toulouse: 7.75/10 from 8 reviews

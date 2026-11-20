@@ -1,0 +1,64 @@
+Doctor: Dr. Jack Taylor
+Doctor ID: 309
+Specialization: Neurology
+Gender: Male
+Years of experience: 7
+City: Montreal, Canada
+Clinics: Clinique Santé Côte-des-Neiges (clinic ID 42)
+
+Review 1 for Dr. Jack Taylor, Neurology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 2 for Dr. Jack Taylor, Neurology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Jack Taylor, Neurology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clinique Santé Côte-des-Neiges.
+
+Review 4 for Dr. Jack Taylor, Neurology, Montreal
+Rating: 5/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Jack Taylor at Clinique Santé Côte-des-Neiges are difficult to schedule. The treatment plan from Dr. Jack Taylor made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Jack Taylor, Neurology, Montreal
+Rating: 6/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Quick appointment and a fair price in Montreal, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Jack Taylor, Neurology, Montreal
+Rating: 6/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Dr. Jack Taylor explained my results well, although the visit felt short for such a complex condition.
+
+Review 7 for Dr. Jack Taylor, Neurology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Dr. Jack Taylor was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Jack Taylor, Neurology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Jack Taylor, Neurology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 10 for Dr. Jack Taylor, Neurology, Montreal
+Rating: 5/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 11 for Dr. Jack Taylor, Neurology, Montreal
+Rating: 6/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Jack Taylor, Neurology, Montreal: 6.45/10 from 11 reviews

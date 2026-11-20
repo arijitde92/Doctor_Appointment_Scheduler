@@ -1,0 +1,69 @@
+Doctor: Dr. Vu Linh
+Doctor ID: 4964
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 9
+City: Hai Phong, Vietnam
+Clinics: Phong Kham Hai Au (clinic ID 641)
+
+Review 1 for Dr. Vu Linh, Pulmonology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Hai Au
+Description: Dr. Vu Linh was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good advice about triggers, but the clinic's phone line is difficult to get through to. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Vu Linh, Pulmonology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Hai Au
+Description: Dr. Vu Linh looked me in the eye, listened to the whole story and only then started typing. Clear, honest answers from Dr. Vu Linh about my shortness of breath, and no unnecessary tests were ordered.
+
+Review 3 for Dr. Vu Linh, Pulmonology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Hai Au
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Hai Phong. Prescriptions from Dr. Vu Linh were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 4 for Dr. Vu Linh, Pulmonology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Hai Au
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful and honest about my prognosis, Dr. Vu Linh could still have given me more written material to take home.
+
+Review 5 for Dr. Vu Linh, Pulmonology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Hai Au
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Vu Linh, Pulmonology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Hai Au
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Vu Linh, Pulmonology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Hai Au
+Description: Dr. Vu Linh adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 8 for Dr. Vu Linh, Pulmonology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Hai Au
+Description: Pleasant manner and careful lung exam, though the waiting time at Phong Kham Hai Au regularly exceeded forty minutes. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 9 for Dr. Vu Linh, Pulmonology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Hai Au
+Description: Dr. Vu Linh was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 10 for Dr. Vu Linh, Pulmonology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Hai Au
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 11 for Dr. Vu Linh, Pulmonology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Hai Au
+Description: She called personally with my scan results and walked me through what the findings did and did not mean.
+
+Review 12 for Dr. Vu Linh, Pulmonology, Hai Phong
+Rating: 9/10
+Clinic visited: Phong Kham Hai Au
+Description: A same-day slot was found for me at Phong Kham Hai Au when I called with a worrying symptom.
+
+Overall rating for Dr. Vu Linh, Pulmonology, Hai Phong: 7.17/10 from 12 reviews

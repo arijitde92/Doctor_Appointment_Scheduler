@@ -1,0 +1,54 @@
+Doctor: Dr. Raquel Muñoz Castro
+Doctor ID: 1456
+Specialization: Neurology
+Gender: Female
+Years of experience: 1
+City: Valencia, Spain
+Clinics: Clínica Santa Lucía (clinic ID 190)
+
+Review 1 for Dr. Raquel Muñoz Castro, Neurology, Valencia
+Rating: 6/10
+Clinic visited: Clínica Santa Lucía
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Raquel Muñoz Castro, Neurology, Valencia
+Rating: 4/10
+Clinic visited: Clínica Santa Lucía
+Description: The bill included tests that I had never been told about, and nobody could explain them.
+
+Review 3 for Dr. Raquel Muñoz Castro, Neurology, Valencia
+Rating: 4/10
+Clinic visited: Clínica Santa Lucía
+Description: The follow-up call about my test results never happened and I had to track them down myself.
+
+Review 4 for Dr. Raquel Muñoz Castro, Neurology, Valencia
+Rating: 4/10
+Clinic visited: Clínica Santa Lucía
+Description: After a long wait, my appointment with Dr. Raquel Muñoz Castro lasted a few minutes and ended with a new prescription and no discussion. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 5 for Dr. Raquel Muñoz Castro, Neurology, Valencia
+Rating: 4/10
+Clinic visited: Clínica Santa Lucía
+Description: Dr. Raquel Muñoz Castro did not look up from the notes while I described my seizure, and I felt completely unheard. The waiting room at Clínica Santa Lucía was overcrowded and there was nowhere to sit, even for elderly patients. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 6 for Dr. Raquel Muñoz Castro, Neurology, Valencia
+Rating: 4/10
+Clinic visited: Clínica Santa Lucía
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 7 for Dr. Raquel Muñoz Castro, Neurology, Valencia
+Rating: 5/10
+Clinic visited: Clínica Santa Lucía
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 8 for Dr. Raquel Muñoz Castro, Neurology, Valencia
+Rating: 5/10
+Clinic visited: Clínica Santa Lucía
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 9 for Dr. Raquel Muñoz Castro, Neurology, Valencia
+Rating: 2/10
+Clinic visited: Clínica Santa Lucía
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Overall rating for Dr. Raquel Muñoz Castro, Neurology, Valencia: 4.22/10 from 9 reviews

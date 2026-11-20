@@ -1,0 +1,49 @@
+Doctor: Dr. Sarah Maes
+Doctor ID: 3129
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 18
+City: Ghent, Belgium
+Clinics: Huisartsenpraktijk Sint-Pieters (clinic ID 406); Medisch Centrum Vlasmarkt (clinic ID 409)
+
+Review 1 for Dr. Sarah Maes, Pediatrics, Ghent
+Rating: 5/10
+Clinic visited: Huisartsenpraktijk Sint-Pieters
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Sarah Maes, Pediatrics, Ghent
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Sint-Pieters
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Sarah Maes, Pediatrics, Ghent
+Rating: 9/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 4 for Dr. Sarah Maes, Pediatrics, Ghent
+Rating: 10/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Prescriptions from Dr. Sarah Maes were sent to my pharmacy before I even left the building, and the dosage instructions were written down. She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 5 for Dr. Sarah Maes, Pediatrics, Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Quick appointment and a fair price in Ghent, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Sarah Maes, Pediatrics, Ghent
+Rating: 5/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Dr. Sarah Maes is thorough with exams, but the after-hours phone line at Medisch Centrum Vlasmarkt is hard to reach. Good bedside manner from Dr. Sarah Maes, but the parking near Medisch Centrum Vlasmarkt is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Sarah Maes, Pediatrics, Ghent
+Rating: 9/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: My child's asthma action plan from Dr. Sarah Maes was written out clearly so that school staff could follow it too. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 8 for Dr. Sarah Maes, Pediatrics, Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Overall rating for Dr. Sarah Maes, Pediatrics, Ghent: 7.38/10 from 8 reviews

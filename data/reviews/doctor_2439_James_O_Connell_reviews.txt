@@ -1,0 +1,49 @@
+Doctor: Dr. James O'Connell
+Doctor ID: 2439
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 9
+City: Cork, Ireland
+Clinics: Wilton Road Medical Centre (clinic ID 319)
+
+Review 1 for Dr. James O'Connell, Obstetrics and Gynecology (OB/GYN), Cork
+Rating: 7/10
+Clinic visited: Wilton Road Medical Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. James O'Connell, Obstetrics and Gynecology (OB/GYN), Cork
+Rating: 7/10
+Clinic visited: Wilton Road Medical Centre
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history. Booking was easy online, but the confirmation email contained the wrong address for Wilton Road Medical Centre.
+
+Review 3 for Dr. James O'Connell, Obstetrics and Gynecology (OB/GYN), Cork
+Rating: 7/10
+Clinic visited: Wilton Road Medical Centre
+Description: Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked.
+
+Review 4 for Dr. James O'Connell, Obstetrics and Gynecology (OB/GYN), Cork
+Rating: 6/10
+Clinic visited: Wilton Road Medical Centre
+Description: Dr. James O'Connell was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. James O'Connell explained my options well, though the office was often running an hour behind. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. James O'Connell, Obstetrics and Gynecology (OB/GYN), Cork
+Rating: 6/10
+Clinic visited: Wilton Road Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away. A respectful exam, but I wished for more discussion on pain management before my procedure.
+
+Review 6 for Dr. James O'Connell, Obstetrics and Gynecology (OB/GYN), Cork
+Rating: 5/10
+Clinic visited: Wilton Road Medical Centre
+Description: The ultrasound images from Dr. James O'Connell were great, but I had to call twice to get the written report. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. James O'Connell, Obstetrics and Gynecology (OB/GYN), Cork
+Rating: 5/10
+Clinic visited: Wilton Road Medical Centre
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit. The treatment plan from Dr. James O'Connell made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. James O'Connell, Obstetrics and Gynecology (OB/GYN), Cork
+Rating: 6/10
+Clinic visited: Wilton Road Medical Centre
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. James O'Connell, Obstetrics and Gynecology (OB/GYN), Cork: 6.12/10 from 8 reviews

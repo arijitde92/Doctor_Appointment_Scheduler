@@ -1,0 +1,69 @@
+Doctor: Dr. Laila Mostafa
+Doctor ID: 5948
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 5
+City: Giza, Egypt
+Clinics: Haram Health Practice (clinic ID 768)
+
+Review 1 for Dr. Laila Mostafa, Psychiatry, Giza
+Rating: 6/10
+Clinic visited: Haram Health Practice
+Description: Dr. Laila Mostafa was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 2 for Dr. Laila Mostafa, Psychiatry, Giza
+Rating: 7/10
+Clinic visited: Haram Health Practice
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Laila Mostafa, Psychiatry, Giza
+Rating: 5/10
+Clinic visited: Haram Health Practice
+Description: Dr. Laila Mostafa is knowledgeable, though I waited several weeks for my first appointment. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Laila Mostafa, Psychiatry, Giza
+Rating: 6/10
+Clinic visited: Haram Health Practice
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 5 for Dr. Laila Mostafa, Psychiatry, Giza
+Rating: 4/10
+Clinic visited: Haram Health Practice
+Description: The visit felt rushed, and Dr. Laila Mostafa was already halfway out the door when I started to describe my second symptom.
+
+Review 6 for Dr. Laila Mostafa, Psychiatry, Giza
+Rating: 7/10
+Clinic visited: Haram Health Practice
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Laila Mostafa, Psychiatry, Giza
+Rating: 6/10
+Clinic visited: Haram Health Practice
+Description: Good listener, yet the refill process at Haram Health Practice is slow and requires several phone calls.
+
+Review 8 for Dr. Laila Mostafa, Psychiatry, Giza
+Rating: 6/10
+Clinic visited: Haram Health Practice
+Description: I liked the advice I got from Dr. Laila Mostafa, but I would have liked more time to ask follow-up questions before the visit ended. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 9 for Dr. Laila Mostafa, Psychiatry, Giza
+Rating: 4/10
+Clinic visited: Haram Health Practice
+Description: My questions were answered by Dr. Laila Mostafa with short, vague replies, and I left without a clear plan.
+
+Review 10 for Dr. Laila Mostafa, Psychiatry, Giza
+Rating: 6/10
+Clinic visited: Haram Health Practice
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 11 for Dr. Laila Mostafa, Psychiatry, Giza
+Rating: 6/10
+Clinic visited: Haram Health Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I will give it one more visit before I decide whether to stay.
+
+Review 12 for Dr. Laila Mostafa, Psychiatry, Giza
+Rating: 8/10
+Clinic visited: Haram Health Practice
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Overall rating for Dr. Laila Mostafa, Psychiatry, Giza: 5.92/10 from 12 reviews

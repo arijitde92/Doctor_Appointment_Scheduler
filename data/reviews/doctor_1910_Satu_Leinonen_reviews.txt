@@ -1,0 +1,49 @@
+Doctor: Dr. Satu Leinonen
+Doctor ID: 1910
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 10
+City: Tampere, Finland
+Clinics: Terveyskeskus Tahmela (clinic ID 249)
+
+Review 1 for Dr. Satu Leinonen, Gastroenterology, Tampere
+Rating: 5/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Satu Leinonen, Gastroenterology, Tampere
+Rating: 6/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Knowledgeable about my reflux, Dr. Satu Leinonen still gave diet advice that felt generic and not tailored to my habits. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Satu Leinonen, Gastroenterology, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Dr. Satu Leinonen is thorough, but I waited nearly two months to get the first available slot. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 4 for Dr. Satu Leinonen, Gastroenterology, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Booking was easy online, but the confirmation email contained the wrong address for Terveyskeskus Tahmela. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 5 for Dr. Satu Leinonen, Gastroenterology, Tampere
+Rating: 9/10
+Clinic visited: Terveyskeskus Tahmela
+Description: A gentle, respectful manner from Dr. Satu Leinonen made a very awkward exam bearable, with every step explained before it happened.
+
+Review 6 for Dr. Satu Leinonen, Gastroenterology, Tampere
+Rating: 5/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 7 for Dr. Satu Leinonen, Gastroenterology, Tampere
+Rating: 5/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Good bedside manner from Dr. Satu Leinonen, but the parking near Terveyskeskus Tahmela is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Satu Leinonen, Gastroenterology, Tampere
+Rating: 8/10
+Clinic visited: Terveyskeskus Tahmela
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Overall rating for Dr. Satu Leinonen, Gastroenterology, Tampere: 6.50/10 from 8 reviews

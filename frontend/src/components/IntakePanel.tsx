@@ -1,9 +1,22 @@
 import clsx from "clsx";
-import { CalendarCheck, ClipboardList, Loader2, LocateFixed, MapPin, Search, ShieldCheck, Star, Stethoscope } from "lucide-react";
+import {
+  Building2,
+  CalendarCheck,
+  ClipboardList,
+  Globe2,
+  Loader2,
+  LocateFixed,
+  MapPin,
+  Search,
+  ShieldCheck,
+  Star,
+  Stethoscope,
+} from "lucide-react";
 import { useId, useState, type FormEvent } from "react";
 
-import { CITIES, DAYS, SPECIALIZATIONS, type Day } from "../config/catalog";
+import { DAYS, SPECIALIZATIONS, type Day } from "../config/catalog";
 import { intakePrompt } from "../lib/prompts";
+import { browserTimeZone, CITIES_BY_COUNTRY, defaultCity, findCity, zoneLabel, zoneOffsetMinutes } from "../lib/timezones";
 import { Button, Card } from "./ui";
 
 const STEPS = [
@@ -28,7 +41,10 @@ export function IntakePanel({
 }) {
   const id = useId();
   const [specialization, setSpecialization] = useState("");
-  const [city, setCity] = useState<string>(CITIES[0]);
+  const [city, setCity] = useState<string>(() => defaultCity());
+  const cityInfo = findCity(city);
+  const you = browserTimeZone();
+  const differsFromYou = !!cityInfo && !!you && zoneOffsetMinutes(cityInfo.timeZone) !== zoneOffsetMinutes(you);
   const [location, setLocation] = useState(defaultLocation ?? "");
   // Selected weekdays, kept in week order. All seven selected = "Any".
   const [days, setDays] = useState<Day[]>([...DAYS]);
@@ -119,20 +135,38 @@ export function IntakePanel({
             <label htmlFor={`${id}-city`} className="mb-1.5 block text-sm font-medium text-slate-700">
               City <span className="text-rose-600">*</span>
             </label>
-            <input
-              id={`${id}-city`}
-              list={`${id}-cities`}
-              required
-              value={city}
-              onChange={(e) => setCity(e.target.value)}
-              className={clsx(fieldClass, "h-10")}
-              autoComplete="address-level2"
-            />
-            <datalist id={`${id}-cities`}>
-              {CITIES.map((c) => (
-                <option key={c} value={c} />
-              ))}
-            </datalist>
+            <div className="relative">
+              <Building2 className="pointer-events-none absolute top-1/2 left-3 size-4 -translate-y-1/2 text-slate-400" aria-hidden />
+              <select
+                id={`${id}-city`}
+                required
+                value={city}
+                onChange={(e) => setCity(e.target.value)}
+                aria-describedby={`${id}-tz`}
+                className={clsx(fieldClass, "h-10 appearance-none pl-9")}
+              >
+                {CITIES_BY_COUNTRY.map(([country, cities]) => (
+                  <optgroup key={country} label={country}>
+                    {cities.map((c) => (
+                      <option key={c.city} value={c.city}>
+                        {c.city}
+                      </option>
+                    ))}
+                  </optgroup>
+                ))}
+              </select>
+            </div>
+            {cityInfo && (
+              <p id={`${id}-tz`} className="mt-1.5 flex items-start gap-1.5 text-xs text-slate-500">
+                <Globe2 className="mt-px size-3.5 shrink-0 text-slate-400" aria-hidden />
+                <span>
+                  {cityInfo.country} · Time zone{" "}
+                  <span className="font-medium text-slate-700">{zoneLabel(cityInfo.timeZone)}</span>. Appointment times are the
+                  clinic's local time.
+                  {differsFromYou && " Your own time is shown when you pick a slot."}
+                </span>
+              </p>
+            )}
           </div>
 
           <div>

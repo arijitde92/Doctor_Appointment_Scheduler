@@ -1,0 +1,59 @@
+Doctor: Dr. Sigrid Lund
+Doctor ID: 2001
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 2
+City: Oslo, Norway
+Clinics: Helsehuset Storgata (clinic ID 261); Legekontoret Grønland (clinic ID 263)
+
+Review 1 for Dr. Sigrid Lund, Orthopedic, Oslo
+Rating: 8/10
+Clinic visited: Legekontoret Grønland
+Description: Seen the same day at Legekontoret Grønland after a bad ankle sprain, with an X-ray done and a brace fitted before I left. I asked about the cost before the visit and received an honest estimate that matched the final bill. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Sigrid Lund, Orthopedic, Oslo
+Rating: 7/10
+Clinic visited: Helsehuset Storgata
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Quick appointment and a fair price in Oslo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Sigrid Lund, Orthopedic, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: Dr. Sigrid Lund was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Sigrid Lund, Orthopedic, Oslo
+Rating: 5/10
+Clinic visited: Legekontoret Grønland
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Sigrid Lund, Orthopedic, Oslo
+Rating: 8/10
+Clinic visited: Legekontoret Grønland
+Description: After my knee replacement, Dr. Sigrid Lund explained the entire recovery timeline, and I was walking with a cane by week three. Sensitive questions were handled by Dr. Sigrid Lund with discretion and without a hint of judgment. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Sigrid Lund, Orthopedic, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Dr. Sigrid Lund explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 7 for Dr. Sigrid Lund, Orthopedic, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 8 for Dr. Sigrid Lund, Orthopedic, Oslo
+Rating: 7/10
+Clinic visited: Helsehuset Storgata
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 9 for Dr. Sigrid Lund, Orthopedic, Oslo
+Rating: 6/10
+Clinic visited: Legekontoret Grønland
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 10 for Dr. Sigrid Lund, Orthopedic, Oslo
+Rating: 4/10
+Clinic visited: Helsehuset Storgata
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Overall rating for Dr. Sigrid Lund, Orthopedic, Oslo: 6.00/10 from 10 reviews

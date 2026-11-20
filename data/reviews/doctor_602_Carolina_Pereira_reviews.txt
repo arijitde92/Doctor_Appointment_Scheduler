@@ -1,0 +1,59 @@
+Doctor: Dr. Carolina Pereira
+Doctor ID: 602
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 14
+City: Curitiba, Brazil
+Clinics: Centro Médico Rua XV (clinic ID 81); Policlínica Água Verde (clinic ID 82)
+
+Review 1 for Dr. Carolina Pereira, Psychiatry, Curitiba
+Rating: 7/10
+Clinic visited: Policlínica Água Verde
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good listener, yet the refill process at Policlínica Água Verde is slow and requires several phone calls.
+
+Review 2 for Dr. Carolina Pereira, Psychiatry, Curitiba
+Rating: 6/10
+Clinic visited: Policlínica Água Verde
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Carolina Pereira, Psychiatry, Curitiba
+Rating: 8/10
+Clinic visited: Centro Médico Rua XV
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 4 for Dr. Carolina Pereira, Psychiatry, Curitiba
+Rating: 6/10
+Clinic visited: Policlínica Água Verde
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 5 for Dr. Carolina Pereira, Psychiatry, Curitiba
+Rating: 5/10
+Clinic visited: Centro Médico Rua XV
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Carolina Pereira, Psychiatry, Curitiba
+Rating: 6/10
+Clinic visited: Policlínica Água Verde
+Description: Dr. Carolina Pereira was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. Carolina Pereira is knowledgeable, though I waited several weeks for my first appointment. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Carolina Pereira, Psychiatry, Curitiba
+Rating: 8/10
+Clinic visited: Policlínica Água Verde
+Description: Dr. Carolina Pereira took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 8 for Dr. Carolina Pereira, Psychiatry, Curitiba
+Rating: 6/10
+Clinic visited: Centro Médico Rua XV
+Description: The treatment plan from Dr. Carolina Pereira made sense, but I wished it had been written down for me to take away. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 9 for Dr. Carolina Pereira, Psychiatry, Curitiba
+Rating: 7/10
+Clinic visited: Policlínica Água Verde
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I got what I needed, but the next available appointment was three weeks away. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Carolina Pereira, Psychiatry, Curitiba
+Rating: 7/10
+Clinic visited: Centro Médico Rua XV
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Quick appointment and a fair price in Curitiba, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Carolina Pereira, Psychiatry, Curitiba: 6.60/10 from 10 reviews

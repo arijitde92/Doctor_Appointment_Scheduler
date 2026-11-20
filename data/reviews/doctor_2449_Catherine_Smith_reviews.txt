@@ -1,0 +1,69 @@
+Doctor: Dr. Catherine Smith
+Doctor ID: 2449
+Specialization: Radiology
+Gender: Female
+Years of experience: 2
+City: Dublin, Ireland
+Clinics: Baggot Street Medical Centre (clinic ID 320)
+
+Review 1 for Dr. Catherine Smith, Radiology, Dublin
+Rating: 7/10
+Clinic visited: Baggot Street Medical Centre
+Description: Dr. Catherine Smith answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 2 for Dr. Catherine Smith, Radiology, Dublin
+Rating: 5/10
+Clinic visited: Baggot Street Medical Centre
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Dr. Catherine Smith was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Catherine Smith, Radiology, Dublin
+Rating: 5/10
+Clinic visited: Baggot Street Medical Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Catherine Smith, Radiology, Dublin
+Rating: 6/10
+Clinic visited: Baggot Street Medical Centre
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 5 for Dr. Catherine Smith, Radiology, Dublin
+Rating: 7/10
+Clinic visited: Baggot Street Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Catherine Smith, Radiology, Dublin
+Rating: 8/10
+Clinic visited: Baggot Street Medical Centre
+Description: Fast, clean and professional; the bone density scan with Dr. Catherine Smith was painless and the results were explained clearly. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 7 for Dr. Catherine Smith, Radiology, Dublin
+Rating: 7/10
+Clinic visited: Baggot Street Medical Centre
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 8 for Dr. Catherine Smith, Radiology, Dublin
+Rating: 7/10
+Clinic visited: Baggot Street Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Catherine Smith, Radiology, Dublin
+Rating: 9/10
+Clinic visited: Baggot Street Medical Centre
+Description: Booking a CT scan online at Baggot Street Medical Centre took two minutes, and I was in and out within forty minutes. Paperwork at Baggot Street Medical Centre was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 10 for Dr. Catherine Smith, Radiology, Dublin
+Rating: 7/10
+Clinic visited: Baggot Street Medical Centre
+Description: Dr. Catherine Smith was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 11 for Dr. Catherine Smith, Radiology, Dublin
+Rating: 9/10
+Clinic visited: Baggot Street Medical Centre
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 12 for Dr. Catherine Smith, Radiology, Dublin
+Rating: 4/10
+Clinic visited: Baggot Street Medical Centre
+Description: I waited two weeks for a report from Dr. Catherine Smith and had to call three times before anyone could tell me the result.
+
+Overall rating for Dr. Catherine Smith, Radiology, Dublin: 6.75/10 from 12 reviews

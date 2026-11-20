@@ -1,0 +1,54 @@
+Doctor: Dr. Guo Pei-chi
+Doctor ID: 4444
+Specialization: Neurology
+Gender: Female
+Years of experience: 8
+City: Taipei, Taiwan
+Clinics: Neihu Hengsheng Polyclinic (clinic ID 573)
+
+Review 1 for Dr. Guo Pei-chi, Neurology, Taipei
+Rating: 5/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 2 for Dr. Guo Pei-chi, Neurology, Taipei
+Rating: 4/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: After a long wait, my appointment with Dr. Guo Pei-chi lasted a few minutes and ended with a new prescription and no discussion. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 3 for Dr. Guo Pei-chi, Neurology, Taipei
+Rating: 6/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: The treatment plan from Dr. Guo Pei-chi made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Guo Pei-chi, Neurology, Taipei
+Rating: 2/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: The follow-up call about my test results never happened and I had to track them down myself. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 5 for Dr. Guo Pei-chi, Neurology, Taipei
+Rating: 5/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Guo Pei-chi at Neihu Hengsheng Polyclinic are difficult to schedule.
+
+Review 6 for Dr. Guo Pei-chi, Neurology, Taipei
+Rating: 5/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: Dr. Guo Pei-chi explained my results well, although the visit felt short for such a complex condition. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Guo Pei-chi, Neurology, Taipei
+Rating: 6/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 8 for Dr. Guo Pei-chi, Neurology, Taipei
+Rating: 2/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: The prescription from Dr. Guo Pei-chi was not the one we discussed, and I only noticed when I got home.
+
+Review 9 for Dr. Guo Pei-chi, Neurology, Taipei
+Rating: 5/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Guo Pei-chi, Neurology, Taipei: 4.44/10 from 9 reviews

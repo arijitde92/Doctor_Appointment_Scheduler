@@ -1,0 +1,54 @@
+Doctor: Dr. Ville Salo
+Doctor ID: 1888
+Specialization: General
+Gender: Male
+Years of experience: 22
+City: Tampere, Finland
+Clinics: Terveysasema Satakunnankatu (clinic ID 246); Lääkärikeskus Hatanpää (clinic ID 247)
+
+Review 1 for Dr. Ville Salo, General, Tampere
+Rating: 5/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Lääkärikeskus Hatanpää were inconsistent. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Ville Salo, General, Tampere
+Rating: 5/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: Referrals from Dr. Ville Salo are handled well, but getting test results back took longer than I was told to expect.
+
+Review 3 for Dr. Ville Salo, General, Tampere
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Ville Salo, General, Tampere
+Rating: 5/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 5 for Dr. Ville Salo, General, Tampere
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: Dr. Ville Salo was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Ville Salo, General, Tampere
+Rating: 6/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Ville Salo, General, Tampere
+Rating: 7/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 8 for Dr. Ville Salo, General, Tampere
+Rating: 6/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: Dr. Ville Salo is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 9 for Dr. Ville Salo, General, Tampere
+Rating: 9/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I came away understanding my condition better than I have in years of previous appointments.
+
+Overall rating for Dr. Ville Salo, General, Tampere: 6.33/10 from 9 reviews

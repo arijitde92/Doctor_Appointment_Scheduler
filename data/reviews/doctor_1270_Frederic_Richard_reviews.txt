@@ -1,0 +1,64 @@
+Doctor: Dr. Frédéric Richard
+Doctor ID: 1270
+Specialization: Radiology
+Gender: Male
+Years of experience: 8
+City: Paris, France
+Clinics: Cabinet Médical de la Madeleine (clinic ID 165); Centre de Santé Oberkampf (clinic ID 166); Clinique du Parc Monceau (clinic ID 167)
+
+Review 1 for Dr. Frédéric Richard, Radiology, Paris
+Rating: 10/10
+Clinic visited: Clinique du Parc Monceau
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Frédéric Richard, Radiology, Paris
+Rating: 10/10
+Clinic visited: Clinique du Parc Monceau
+Description: Sensitive questions were handled by Dr. Frédéric Richard with discretion and without a hint of judgment. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Frédéric Richard, Radiology, Paris
+Rating: 8/10
+Clinic visited: Cabinet Médical de la Madeleine
+Description: When my scan showed something that needed a second look, Dr. Frédéric Richard arranged the follow-up the same day. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Frédéric Richard, Radiology, Paris
+Rating: 10/10
+Clinic visited: Cabinet Médical de la Madeleine
+Description: Images from Cabinet Médical de la Madeleine were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Frédéric Richard, Radiology, Paris
+Rating: 9/10
+Clinic visited: Cabinet Médical de la Madeleine
+Description: Everything was explained in plain English by Dr. Frédéric Richard, and nothing was left to guess.
+
+Review 6 for Dr. Frédéric Richard, Radiology, Paris
+Rating: 7/10
+Clinic visited: Clinique du Parc Monceau
+Description: Dr. Frédéric Richard answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. The doctor was kind, though the clinic's evening hours are very limited for working people. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Frédéric Richard, Radiology, Paris
+Rating: 9/10
+Clinic visited: Centre de Santé Oberkampf
+Description: I appreciated that he offered more than one option and let me choose what suited my life. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Frédéric Richard, Radiology, Paris
+Rating: 10/10
+Clinic visited: Clinique du Parc Monceau
+Description: Reviewing my X-ray together with Dr. Frédéric Richard on the screen made it much easier to understand my arthritis. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 9 for Dr. Frédéric Richard, Radiology, Paris
+Rating: 9/10
+Clinic visited: Cabinet Médical de la Madeleine
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. Even the billing team was helpful, and a mistake on my statement was corrected within a day. This is the first doctor I have trusted completely in years.
+
+Review 10 for Dr. Frédéric Richard, Radiology, Paris
+Rating: 9/10
+Clinic visited: Cabinet Médical de la Madeleine
+Description: Booking a CT scan online at Cabinet Médical de la Madeleine took two minutes, and I was in and out within forty minutes. Booking online at Cabinet Médical de la Madeleine was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 11 for Dr. Frédéric Richard, Radiology, Paris
+Rating: 8/10
+Clinic visited: Cabinet Médical de la Madeleine
+Description: Getting to Cabinet Médical de la Madeleine by public transport in Paris was easy, and there is a step-free entrance for wheelchairs. My ultrasound was unhurried, and Dr. Frédéric Richard took time to show me the images and explain what each measurement meant.
+
+Overall rating for Dr. Frédéric Richard, Radiology, Paris: 9.00/10 from 11 reviews

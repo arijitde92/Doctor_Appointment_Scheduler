@@ -1,0 +1,54 @@
+Doctor: Dr. Maria Winkler
+Doctor ID: 2987
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 29
+City: Salzburg, Austria
+Clinics: Ordination Gnigl Salzburg (clinic ID 389)
+
+Review 1 for Dr. Maria Winkler, Pulmonology, Salzburg
+Rating: 6/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Dr. Maria Winkler adjusted my asthma medication well, but the breathing test appointment was a month away. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Maria Winkler, Pulmonology, Salzburg
+Rating: 7/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Maria Winkler, Pulmonology, Salzburg
+Rating: 7/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: I got what I needed, but the next available appointment was three weeks away. Helpful and honest about my prognosis, Dr. Maria Winkler could still have given me more written material to take home.
+
+Review 4 for Dr. Maria Winkler, Pulmonology, Salzburg
+Rating: 8/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Appointment reminders came by text and email, and rescheduling took two taps. After years of poorly controlled asthma, Dr. Maria Winkler reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 5 for Dr. Maria Winkler, Pulmonology, Salzburg
+Rating: 6/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Pleasant manner and careful lung exam, though the waiting time at Ordination Gnigl Salzburg regularly exceeded forty minutes.
+
+Review 6 for Dr. Maria Winkler, Pulmonology, Salzburg
+Rating: 5/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: I liked the advice I got from Dr. Maria Winkler, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Maria Winkler, Pulmonology, Salzburg
+Rating: 6/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 8 for Dr. Maria Winkler, Pulmonology, Salzburg
+Rating: 8/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 9 for Dr. Maria Winkler, Pulmonology, Salzburg
+Rating: 9/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Clear, honest answers from Dr. Maria Winkler about my shortness of breath, and no unnecessary tests were ordered. I was given a printed summary of the visit, which I shared with my family at home. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Maria Winkler, Pulmonology, Salzburg: 6.89/10 from 9 reviews

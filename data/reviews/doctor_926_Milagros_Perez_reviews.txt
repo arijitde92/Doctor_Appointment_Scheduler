@@ -1,0 +1,49 @@
+Doctor: Dr. Milagros Pérez
+Doctor ID: 926
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 19
+City: Cusco, Peru
+Clinics: Centro Médico El Sol (clinic ID 121)
+
+Review 1 for Dr. Milagros Pérez, Psychiatry, Cusco
+Rating: 6/10
+Clinic visited: Centro Médico El Sol
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 2 for Dr. Milagros Pérez, Psychiatry, Cusco
+Rating: 7/10
+Clinic visited: Centro Médico El Sol
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 3 for Dr. Milagros Pérez, Psychiatry, Cusco
+Rating: 7/10
+Clinic visited: Centro Médico El Sol
+Description: Good listener, yet the refill process at Centro Médico El Sol is slow and requires several phone calls.
+
+Review 4 for Dr. Milagros Pérez, Psychiatry, Cusco
+Rating: 5/10
+Clinic visited: Centro Médico El Sol
+Description: Dr. Milagros Pérez is knowledgeable, though I waited several weeks for my first appointment. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Milagros Pérez, Psychiatry, Cusco
+Rating: 6/10
+Clinic visited: Centro Médico El Sol
+Description: I liked the advice I got from Dr. Milagros Pérez, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Milagros Pérez, Psychiatry, Cusco
+Rating: 6/10
+Clinic visited: Centro Médico El Sol
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 7 for Dr. Milagros Pérez, Psychiatry, Cusco
+Rating: 8/10
+Clinic visited: Centro Médico El Sol
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 8 for Dr. Milagros Pérez, Psychiatry, Cusco
+Rating: 7/10
+Clinic visited: Centro Médico El Sol
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Good bedside manner from Dr. Milagros Pérez, but the parking near Centro Médico El Sol is limited and I had to circle for fifteen minutes. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Milagros Pérez, Psychiatry, Cusco: 6.50/10 from 8 reviews

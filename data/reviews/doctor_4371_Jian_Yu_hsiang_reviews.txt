@@ -1,0 +1,64 @@
+Doctor: Dr. Jian Yu-hsiang
+Doctor ID: 4371
+Specialization: Cardiology
+Gender: Male
+Years of experience: 7
+City: Taichung, Taiwan
+Clinics: Central District Fengle Polyclinic (clinic ID 563)
+
+Review 1 for Dr. Jian Yu-hsiang, Cardiology, Taichung
+Rating: 8/10
+Clinic visited: Central District Fengle Polyclinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. The cardiology unit at Central District Fengle Polyclinic runs on time, and the technicians were professional during my echocardiogram.
+
+Review 2 for Dr. Jian Yu-hsiang, Cardiology, Taichung
+Rating: 6/10
+Clinic visited: Central District Fengle Polyclinic
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 3 for Dr. Jian Yu-hsiang, Cardiology, Taichung
+Rating: 7/10
+Clinic visited: Central District Fengle Polyclinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. The treatment plan from Dr. Jian Yu-hsiang made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Jian Yu-hsiang, Cardiology, Taichung
+Rating: 6/10
+Clinic visited: Central District Fengle Polyclinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 5 for Dr. Jian Yu-hsiang, Cardiology, Taichung
+Rating: 7/10
+Clinic visited: Central District Fengle Polyclinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 6 for Dr. Jian Yu-hsiang, Cardiology, Taichung
+Rating: 6/10
+Clinic visited: Central District Fengle Polyclinic
+Description: Dr. Jian Yu-hsiang adjusted my blood pressure medication carefully, though I had to call twice for a refill. Quick appointment and a fair price in Taichung, but the staff seemed overwhelmed and a bit curt on the phone. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Jian Yu-hsiang, Cardiology, Taichung
+Rating: 6/10
+Clinic visited: Central District Fengle Polyclinic
+Description: Great care in the visit itself, but the billing for the tests at Central District Fengle Polyclinic was confusing. Good bedside manner from Dr. Jian Yu-hsiang, but the parking near Central District Fengle Polyclinic is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Jian Yu-hsiang, Cardiology, Taichung
+Rating: 7/10
+Clinic visited: Central District Fengle Polyclinic
+Description: Helpful with my cholesterol, Dr. Jian Yu-hsiang still gave dietary advice that was a little generic. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 9 for Dr. Jian Yu-hsiang, Cardiology, Taichung
+Rating: 8/10
+Clinic visited: Central District Fengle Polyclinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 10 for Dr. Jian Yu-hsiang, Cardiology, Taichung
+Rating: 7/10
+Clinic visited: Central District Fengle Polyclinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 11 for Dr. Jian Yu-hsiang, Cardiology, Taichung
+Rating: 9/10
+Clinic visited: Central District Fengle Polyclinic
+Description: My stress test was supervised carefully, and Dr. Jian Yu-hsiang reviewed the results in the same visit with a plan for my cholesterol.
+
+Overall rating for Dr. Jian Yu-hsiang, Cardiology, Taichung: 7.00/10 from 11 reviews

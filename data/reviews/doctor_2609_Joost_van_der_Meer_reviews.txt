@@ -1,0 +1,49 @@
+Doctor: Dr. Joost van der Meer
+Doctor ID: 2609
+Specialization: Psychology
+Gender: Male
+Years of experience: 10
+City: Rotterdam, Netherlands
+Clinics: Huisartsenpraktijk Kralingen (clinic ID 341)
+
+Review 1 for Dr. Joost van der Meer, Psychology, Rotterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: A translator was arranged for my mother without us asking twice, and Dr. Joost van der Meer spoke directly to her throughout.
+
+Review 2 for Dr. Joost van der Meer, Psychology, Rotterdam
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. My trauma work felt well paced, although the schedule changed several times at Huisartsenpraktijk Kralingen.
+
+Review 3 for Dr. Joost van der Meer, Psychology, Rotterdam
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. Quick appointment and a fair price in Rotterdam, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Joost van der Meer, Psychology, Rotterdam
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: Dr. Joost van der Meer listens well, though some sessions felt like a recap of the previous one without much new direction. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Joost van der Meer, Psychology, Rotterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 6 for Dr. Joost van der Meer, Psychology, Rotterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: Dr. Joost van der Meer used a calm, steady voice that settled my nerves before a stressful procedure. Couples therapy at Huisartsenpraktijk Kralingen helped us stop repeating the same argument. We now have a way to pause and listen.
+
+Review 7 for Dr. Joost van der Meer, Psychology, Rotterdam
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 8 for Dr. Joost van der Meer, Psychology, Rotterdam
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Joost van der Meer, Psychology, Rotterdam: 7.62/10 from 8 reviews

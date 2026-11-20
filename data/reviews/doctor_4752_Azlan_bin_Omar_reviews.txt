@@ -1,0 +1,49 @@
+Doctor: Dr. Azlan bin Omar
+Doctor ID: 4752
+Specialization: General
+Gender: Male
+Years of experience: 1
+City: Kuala Lumpur, Malaysia
+Clinics: Seri Impian Family Clinic (clinic ID 614)
+
+Review 1 for Dr. Azlan bin Omar, General, Kuala Lumpur
+Rating: 8/10
+Clinic visited: Seri Impian Family Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 2 for Dr. Azlan bin Omar, General, Kuala Lumpur
+Rating: 9/10
+Clinic visited: Seri Impian Family Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Getting to Seri Impian Family Clinic from across Kuala Lumpur was easy, and the same-week appointment saved me an urgent care trip. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Azlan bin Omar, General, Kuala Lumpur
+Rating: 7/10
+Clinic visited: Seri Impian Family Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 4 for Dr. Azlan bin Omar, General, Kuala Lumpur
+Rating: 7/10
+Clinic visited: Seri Impian Family Clinic
+Description: Good bedside manner from Dr. Azlan bin Omar, but the parking near Seri Impian Family Clinic is limited and I had to circle for fifteen minutes. Referrals from Dr. Azlan bin Omar are handled well, but getting test results back took longer than I was told to expect. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Azlan bin Omar, General, Kuala Lumpur
+Rating: 5/10
+Clinic visited: Seri Impian Family Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 6 for Dr. Azlan bin Omar, General, Kuala Lumpur
+Rating: 7/10
+Clinic visited: Seri Impian Family Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Azlan bin Omar, General, Kuala Lumpur
+Rating: 8/10
+Clinic visited: Seri Impian Family Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Azlan bin Omar felt well organized from start to finish.
+
+Review 8 for Dr. Azlan bin Omar, General, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Seri Impian Family Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Seri Impian Family Clinic were inconsistent. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Azlan bin Omar, General, Kuala Lumpur: 7.12/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Pauline Fournier
+Doctor ID: 1204
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 17
+City: Lyon, France
+Clinics: Clinique de la Part-Dieu (clinic ID 157)
+
+Review 1 for Dr. Pauline Fournier, Pulmonology, Lyon
+Rating: 5/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Pleasant manner and careful lung exam, though the waiting time at Clinique de la Part-Dieu regularly exceeded forty minutes. Dr. Pauline Fournier was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Pauline Fournier, Pulmonology, Lyon
+Rating: 6/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Dr. Pauline Fournier adjusted my asthma medication well, but the breathing test appointment was a month away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Pauline Fournier, Pulmonology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clinique de la Part-Dieu. Helpful and honest about my prognosis, Dr. Pauline Fournier could still have given me more written material to take home.
+
+Review 4 for Dr. Pauline Fournier, Pulmonology, Lyon
+Rating: 6/10
+Clinic visited: Clinique de la Part-Dieu
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 5 for Dr. Pauline Fournier, Pulmonology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 6 for Dr. Pauline Fournier, Pulmonology, Lyon
+Rating: 10/10
+Clinic visited: Clinique de la Part-Dieu
+Description: She called personally with my scan results and walked me through what the findings did and did not mean. Everything was explained in plain English by Dr. Pauline Fournier, and nothing was left to guess. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Pauline Fournier, Pulmonology, Lyon
+Rating: 5/10
+Clinic visited: Clinique de la Part-Dieu
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Pauline Fournier, Pulmonology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Dr. Pauline Fournier was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 9 for Dr. Pauline Fournier, Pulmonology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: I liked the advice I got from Dr. Pauline Fournier, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Pauline Fournier, Pulmonology, Lyon: 6.67/10 from 9 reviews

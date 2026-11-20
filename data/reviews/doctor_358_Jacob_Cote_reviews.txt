@@ -1,0 +1,69 @@
+Doctor: Dr. Jacob Côté
+Doctor ID: 358
+Specialization: General
+Gender: Male
+Years of experience: 9
+City: Vancouver, Canada
+Clinics: Georgia Street Medical Clinic (clinic ID 50); Broadway Family Practice (clinic ID 51)
+
+Review 1 for Dr. Jacob Côté, General, Vancouver
+Rating: 8/10
+Clinic visited: Broadway Family Practice
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list.
+
+Review 2 for Dr. Jacob Côté, General, Vancouver
+Rating: 10/10
+Clinic visited: Broadway Family Practice
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 3 for Dr. Jacob Côté, General, Vancouver
+Rating: 7/10
+Clinic visited: Georgia Street Medical Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 4 for Dr. Jacob Côté, General, Vancouver
+Rating: 7/10
+Clinic visited: Georgia Street Medical Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Jacob Côté, General, Vancouver
+Rating: 10/10
+Clinic visited: Broadway Family Practice
+Description: Dr. Jacob Côté spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. Dr. Jacob Côté looked me in the eye, listened to the whole story and only then started typing. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Jacob Côté, General, Vancouver
+Rating: 7/10
+Clinic visited: Georgia Street Medical Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Georgia Street Medical Clinic were inconsistent.
+
+Review 7 for Dr. Jacob Côté, General, Vancouver
+Rating: 8/10
+Clinic visited: Broadway Family Practice
+Description: Getting to Broadway Family Practice from across Vancouver was easy, and the same-week appointment saved me an urgent care trip. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 8 for Dr. Jacob Côté, General, Vancouver
+Rating: 8/10
+Clinic visited: Broadway Family Practice
+Description: The practice in Vancouver is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Vaccination advice from Dr. Jacob Côté for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 9 for Dr. Jacob Côté, General, Vancouver
+Rating: 10/10
+Clinic visited: Georgia Street Medical Clinic
+Description: As a new patient in Vancouver, I felt welcomed at Georgia Street Medical Clinic, and my whole history was reviewed in one relaxed visit. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 10 for Dr. Jacob Côté, General, Vancouver
+Rating: 8/10
+Clinic visited: Georgia Street Medical Clinic
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 11 for Dr. Jacob Côté, General, Vancouver
+Rating: 9/10
+Clinic visited: Broadway Family Practice
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Cholesterol results were explained by Dr. Jacob Côté with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 12 for Dr. Jacob Côté, General, Vancouver
+Rating: 9/10
+Clinic visited: Broadway Family Practice
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. I always hear back within a day when I leave a question with the nurse at Broadway Family Practice, and Dr. Jacob Côté follows up on lab results personally.
+
+Overall rating for Dr. Jacob Côté, General, Vancouver: 8.42/10 from 12 reviews

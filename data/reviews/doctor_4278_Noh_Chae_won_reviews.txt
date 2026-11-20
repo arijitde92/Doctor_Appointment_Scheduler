@@ -1,0 +1,59 @@
+Doctor: Dr. Noh Chae-won
+Doctor ID: 4278
+Specialization: Cardiology
+Gender: Female
+Years of experience: 17
+City: Seoul, South Korea
+Clinics: Jongno Dasom Medical Centre (clinic ID 551)
+
+Review 1 for Dr. Noh Chae-won, Cardiology, Seoul
+Rating: 8/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 2 for Dr. Noh Chae-won, Cardiology, Seoul
+Rating: 7/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 3 for Dr. Noh Chae-won, Cardiology, Seoul
+Rating: 7/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Noh Chae-won, Cardiology, Seoul
+Rating: 5/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Great care in the visit itself, but the billing for the tests at Jongno Dasom Medical Centre was confusing. Dr. Noh Chae-won was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 5 for Dr. Noh Chae-won, Cardiology, Seoul
+Rating: 7/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Noh Chae-won, Cardiology, Seoul
+Rating: 5/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Dr. Noh Chae-won adjusted my blood pressure medication carefully, though I had to call twice for a refill. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Noh Chae-won, Cardiology, Seoul
+Rating: 7/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 8 for Dr. Noh Chae-won, Cardiology, Seoul
+Rating: 5/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 9 for Dr. Noh Chae-won, Cardiology, Seoul
+Rating: 5/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Helpful visit overall, although I only found out about an extra charge after I had paid. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Noh Chae-won, Cardiology, Seoul
+Rating: 5/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful with my cholesterol, Dr. Noh Chae-won still gave dietary advice that was a little generic.
+
+Overall rating for Dr. Noh Chae-won, Cardiology, Seoul: 6.10/10 from 10 reviews

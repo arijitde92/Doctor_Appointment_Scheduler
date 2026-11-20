@@ -1,0 +1,59 @@
+Doctor: Dr. Lisa Brown
+Doctor ID: 6697
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 27
+City: Hamilton, New Zealand
+Clinics: Ponga Family Clinic (clinic ID 868)
+
+Review 1 for Dr. Lisa Brown, Psychiatry, Hamilton
+Rating: 7/10
+Clinic visited: Ponga Family Clinic
+Description: Dr. Lisa Brown is knowledgeable, though I waited several weeks for my first appointment. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Lisa Brown, Psychiatry, Hamilton
+Rating: 5/10
+Clinic visited: Ponga Family Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Lisa Brown, Psychiatry, Hamilton
+Rating: 8/10
+Clinic visited: Ponga Family Clinic
+Description: The ADHD assessment by Dr. Lisa Brown was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 4 for Dr. Lisa Brown, Psychiatry, Hamilton
+Rating: 7/10
+Clinic visited: Ponga Family Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Lisa Brown, Psychiatry, Hamilton
+Rating: 8/10
+Clinic visited: Ponga Family Clinic
+Description: The practice in Hamilton is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 6 for Dr. Lisa Brown, Psychiatry, Hamilton
+Rating: 9/10
+Clinic visited: Ponga Family Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 7 for Dr. Lisa Brown, Psychiatry, Hamilton
+Rating: 7/10
+Clinic visited: Ponga Family Clinic
+Description: Good listener, yet the refill process at Ponga Family Clinic is slow and requires several phone calls. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Lisa Brown, Psychiatry, Hamilton
+Rating: 8/10
+Clinic visited: Ponga Family Clinic
+Description: She was upfront about what could and could not be treated, and did not oversell any option. Telehealth follow-ups at Ponga Family Clinic are punctual and calm, and refills are dealt with quickly. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Lisa Brown, Psychiatry, Hamilton
+Rating: 9/10
+Clinic visited: Ponga Family Clinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 10 for Dr. Lisa Brown, Psychiatry, Hamilton
+Rating: 8/10
+Clinic visited: Ponga Family Clinic
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Lisa Brown, Psychiatry, Hamilton: 7.60/10 from 10 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Rune Berg
+Doctor ID: 2047
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 30
+City: Stavanger, Norway
+Clinics: Helsehuset Vågen (clinic ID 266); Medisinsk Senter Kongsgård (clinic ID 267)
+
+Review 1 for Dr. Rune Berg, Psychiatry, Stavanger
+Rating: 6/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 2 for Dr. Rune Berg, Psychiatry, Stavanger
+Rating: 7/10
+Clinic visited: Helsehuset Vågen
+Description: Dr. Rune Berg was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good listener, yet the refill process at Helsehuset Vågen is slow and requires several phone calls.
+
+Review 3 for Dr. Rune Berg, Psychiatry, Stavanger
+Rating: 6/10
+Clinic visited: Helsehuset Vågen
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Rune Berg, Psychiatry, Stavanger
+Rating: 7/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Booking was easy online, but the confirmation email contained the wrong address for Medisinsk Senter Kongsgård.
+
+Review 5 for Dr. Rune Berg, Psychiatry, Stavanger
+Rating: 8/10
+Clinic visited: Helsehuset Vågen
+Description: Appointments in Stavanger are always on schedule, and the waiting area is peaceful and private. Dr. Rune Berg drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 6 for Dr. Rune Berg, Psychiatry, Stavanger
+Rating: 3/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. Appointments were rescheduled at short notice three times, which made continuity of care almost impossible.
+
+Review 7 for Dr. Rune Berg, Psychiatry, Stavanger
+Rating: 6/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Supportive in crisis, but follow-up between visits could have been more regular. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Rune Berg, Psychiatry, Stavanger
+Rating: 7/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Rune Berg is knowledgeable, though I waited several weeks for my first appointment. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Rune Berg, Psychiatry, Stavanger
+Rating: 7/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Rune Berg, Psychiatry, Stavanger
+Rating: 8/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: I can ring Medisinsk Senter Kongsgård with an urgent question and receive a thoughtful reply the same day.
+
+Overall rating for Dr. Rune Berg, Psychiatry, Stavanger: 6.50/10 from 10 reviews

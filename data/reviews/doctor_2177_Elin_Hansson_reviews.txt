@@ -1,0 +1,49 @@
+Doctor: Dr. Elin Hansson
+Doctor ID: 2177
+Specialization: Psychology
+Gender: Female
+Years of experience: 18
+City: Malmo, Sweden
+Clinics: Läkarmottagningen Östra Förstan (clinic ID 284)
+
+Review 1 for Dr. Elin Hansson, Psychology, Malmo
+Rating: 8/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months.
+
+Review 2 for Dr. Elin Hansson, Psychology, Malmo
+Rating: 9/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Elin Hansson, Psychology, Malmo
+Rating: 10/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Getting to Läkarmottagningen Östra Förstan by public transport in Malmo was easy, and there is a step-free entrance for wheelchairs.
+
+Review 4 for Dr. Elin Hansson, Psychology, Malmo
+Rating: 10/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The waiting room at Läkarmottagningen Östra Förstan was clean, quiet and comfortable, with enough seating and water available.
+
+Review 5 for Dr. Elin Hansson, Psychology, Malmo
+Rating: 9/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Elin Hansson, Psychology, Malmo
+Rating: 9/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Online sessions through Läkarmottagningen Östra Förstan worked just as well as in-person ones, and the video link never once failed. My test results arrived in the portal within two days, together with a short note that made sense. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Elin Hansson, Psychology, Malmo
+Rating: 8/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Sensitive questions were handled by Dr. Elin Hansson with discretion and without a hint of judgment. My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Elin Hansson designed around my actual job.
+
+Review 8 for Dr. Elin Hansson, Psychology, Malmo
+Rating: 7/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Booking was easy online, but the confirmation email contained the wrong address for Läkarmottagningen Östra Förstan. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Overall rating for Dr. Elin Hansson, Psychology, Malmo: 8.75/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Olivier Garcia
+Doctor ID: 1323
+Specialization: Neurology
+Gender: Male
+Years of experience: 19
+City: Toulouse, France
+Clinics: Clinique des Minimes (clinic ID 172)
+
+Review 1 for Dr. Olivier Garcia, Neurology, Toulouse
+Rating: 7/10
+Clinic visited: Clinique des Minimes
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Olivier Garcia, Neurology, Toulouse
+Rating: 6/10
+Clinic visited: Clinique des Minimes
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Olivier Garcia, Neurology, Toulouse
+Rating: 7/10
+Clinic visited: Clinique des Minimes
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 4 for Dr. Olivier Garcia, Neurology, Toulouse
+Rating: 6/10
+Clinic visited: Clinique des Minimes
+Description: I liked the advice I got from Dr. Olivier Garcia, but I would have liked more time to ask follow-up questions before the visit ended. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 5 for Dr. Olivier Garcia, Neurology, Toulouse
+Rating: 6/10
+Clinic visited: Clinique des Minimes
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Olivier Garcia at Clinique des Minimes are difficult to schedule. Clear explanations, but the follow-up call took a week longer than I had been told. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Olivier Garcia, Neurology, Toulouse
+Rating: 5/10
+Clinic visited: Clinique des Minimes
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Olivier Garcia, Neurology, Toulouse
+Rating: 8/10
+Clinic visited: Clinique des Minimes
+Description: At my visit, Dr. Olivier Garcia took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 8 for Dr. Olivier Garcia, Neurology, Toulouse
+Rating: 8/10
+Clinic visited: Clinique des Minimes
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. Booking online at Clinique des Minimes was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 9 for Dr. Olivier Garcia, Neurology, Toulouse
+Rating: 8/10
+Clinic visited: Clinique des Minimes
+Description: Prescriptions from Dr. Olivier Garcia were sent to my pharmacy before I even left the building, and the dosage instructions were written down. The neurological exam by Dr. Olivier Garcia was thorough, with every reflex test and gait check explained as it happened.
+
+Review 10 for Dr. Olivier Garcia, Neurology, Toulouse
+Rating: 9/10
+Clinic visited: Clinique des Minimes
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I always leave Dr. Olivier Garcia's office with a short written summary of changes, which helps my family keep up.
+
+Overall rating for Dr. Olivier Garcia, Neurology, Toulouse: 7.00/10 from 10 reviews

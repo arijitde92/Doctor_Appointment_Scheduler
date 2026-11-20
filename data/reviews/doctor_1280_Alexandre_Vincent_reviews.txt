@@ -1,0 +1,69 @@
+Doctor: Dr. Alexandre Vincent
+Doctor ID: 1280
+Specialization: Cardiology
+Gender: Male
+Years of experience: 22
+City: Paris, France
+Clinics: Centre de Santé Oberkampf (clinic ID 166)
+
+Review 1 for Dr. Alexandre Vincent, Cardiology, Paris
+Rating: 7/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Dr. Alexandre Vincent adjusted my blood pressure medication carefully, though I had to call twice for a refill. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Alexandre Vincent, Cardiology, Paris
+Rating: 8/10
+Clinic visited: Centre de Santé Oberkampf
+Description: My atrial fibrillation is well managed by Dr. Alexandre Vincent, and I know exactly what symptoms mean I should call. At my visit, Dr. Alexandre Vincent took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 3 for Dr. Alexandre Vincent, Cardiology, Paris
+Rating: 10/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Alexandre Vincent, Cardiology, Paris
+Rating: 8/10
+Clinic visited: Centre de Santé Oberkampf
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Alexandre Vincent, Cardiology, Paris
+Rating: 9/10
+Clinic visited: Centre de Santé Oberkampf
+Description: The waiting room at Centre de Santé Oberkampf was clean, quiet and comfortable, with enough seating and water available.
+
+Review 6 for Dr. Alexandre Vincent, Cardiology, Paris
+Rating: 6/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Thorough exam and a good plan, yet the stress test appointment was almost a month away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Alexandre Vincent, Cardiology, Paris
+Rating: 5/10
+Clinic visited: Centre de Santé Oberkampf
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 8 for Dr. Alexandre Vincent, Cardiology, Paris
+Rating: 8/10
+Clinic visited: Centre de Santé Oberkampf
+Description: After my heart attack, Dr. Alexandre Vincent explained the rehab plan and medication changes with great patience and kindness. Dr. Alexandre Vincent looked me in the eye, listened to the whole story and only then started typing. Worth every minute of travel, and I would go again without a second thought.
+
+Review 9 for Dr. Alexandre Vincent, Cardiology, Paris
+Rating: 5/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Dr. Alexandre Vincent was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Great care in the visit itself, but the billing for the tests at Centre de Santé Oberkampf was confusing.
+
+Review 10 for Dr. Alexandre Vincent, Cardiology, Paris
+Rating: 9/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Managing my blood pressure with Dr. Alexandre Vincent has been steady and practical, with home readings reviewed at every visit. The visit began with a short, friendly chat that put me at ease before any examination started. Highly recommended, and I have already told two colleagues about it.
+
+Review 11 for Dr. Alexandre Vincent, Cardiology, Paris
+Rating: 7/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 12 for Dr. Alexandre Vincent, Cardiology, Paris
+Rating: 5/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Alexandre Vincent, Cardiology, Paris: 7.25/10 from 12 reviews

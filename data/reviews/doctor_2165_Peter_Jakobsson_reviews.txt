@@ -1,0 +1,54 @@
+Doctor: Dr. Peter Jakobsson
+Doctor ID: 2165
+Specialization: General
+Gender: Male
+Years of experience: 23
+City: Malmo, Sweden
+Clinics: Medicinskt Centrum Stora Nygatan (clinic ID 282); Läkarmottagningen Östra Förstan (clinic ID 284)
+
+Review 1 for Dr. Peter Jakobsson, General, Malmo
+Rating: 7/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Quick appointment and a fair price in Malmo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Peter Jakobsson, General, Malmo
+Rating: 10/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: Getting to Medicinskt Centrum Stora Nygatan from across Malmo was easy, and the same-week appointment saved me an urgent care trip. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 3 for Dr. Peter Jakobsson, General, Malmo
+Rating: 7/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 4 for Dr. Peter Jakobsson, General, Malmo
+Rating: 9/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 5 for Dr. Peter Jakobsson, General, Malmo
+Rating: 8/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Peter Jakobsson, General, Malmo
+Rating: 8/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Managing my type 2 diabetes with Dr. Peter Jakobsson has been steady and practical, with quarterly blood sugar reviews and no lectures. Getting to Läkarmottagningen Östra Förstan by public transport in Malmo was easy, and there is a step-free entrance for wheelchairs.
+
+Review 7 for Dr. Peter Jakobsson, General, Malmo
+Rating: 7/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Peter Jakobsson, General, Malmo
+Rating: 9/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Booking online at Läkarmottagningen Östra Förstan was simple, and I got a confirmation text with clear directions and a reminder the day before. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Peter Jakobsson, General, Malmo
+Rating: 9/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: At my visit, Dr. Peter Jakobsson took notes on my medication list, checked for interactions and explained the changes simply. Dr. Peter Jakobsson spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Overall rating for Dr. Peter Jakobsson, General, Malmo: 8.22/10 from 9 reviews

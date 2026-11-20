@@ -1,0 +1,59 @@
+Doctor: Dr. Martine Martin
+Doctor ID: 1291
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Female
+Years of experience: 3
+City: Paris, France
+Clinics: Centre Médical Place d'Italie (clinic ID 168)
+
+Review 1 for Dr. Martine Martin, Obstetrics and Gynecology (OB/GYN), Paris
+Rating: 6/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Good bedside manner from Dr. Martine Martin, but the parking near Centre Médical Place d'Italie is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Martine Martin, Obstetrics and Gynecology (OB/GYN), Paris
+Rating: 7/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. Dr. Martine Martin was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Martine Martin, Obstetrics and Gynecology (OB/GYN), Paris
+Rating: 5/10
+Clinic visited: Centre Médical Place d'Italie
+Description: A respectful exam, but I wished for more discussion on pain management before my procedure. Quick appointment and a fair price in Paris, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Martine Martin, Obstetrics and Gynecology (OB/GYN), Paris
+Rating: 7/10
+Clinic visited: Centre Médical Place d'Italie
+Description: I liked the advice I got from Dr. Martine Martin, but I would have liked more time to ask follow-up questions before the visit ended. Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history.
+
+Review 5 for Dr. Martine Martin, Obstetrics and Gynecology (OB/GYN), Paris
+Rating: 6/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit.
+
+Review 6 for Dr. Martine Martin, Obstetrics and Gynecology (OB/GYN), Paris
+Rating: 9/10
+Clinic visited: Centre Médical Place d'Italie
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 7 for Dr. Martine Martin, Obstetrics and Gynecology (OB/GYN), Paris
+Rating: 6/10
+Clinic visited: Centre Médical Place d'Italie
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 8 for Dr. Martine Martin, Obstetrics and Gynecology (OB/GYN), Paris
+Rating: 5/10
+Clinic visited: Centre Médical Place d'Italie
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Dr. Martine Martin explained my options well, though the office was often running an hour behind. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Martine Martin, Obstetrics and Gynecology (OB/GYN), Paris
+Rating: 9/10
+Clinic visited: Centre Médical Place d'Italie
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 10 for Dr. Martine Martin, Obstetrics and Gynecology (OB/GYN), Paris
+Rating: 6/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Martine Martin, Obstetrics and Gynecology (OB/GYN), Paris: 6.60/10 from 10 reviews

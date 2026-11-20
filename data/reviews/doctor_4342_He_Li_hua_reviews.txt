@@ -1,0 +1,49 @@
+Doctor: Dr. He Li-hua
+Doctor ID: 4342
+Specialization: Radiology
+Gender: Female
+Years of experience: 22
+City: Kaohsiung, Taiwan
+Clinics: Xinxing Jiali Medical Clinic (clinic ID 559)
+
+Review 1 for Dr. He Li-hua, Radiology, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: She was upfront about what could and could not be treated, and did not oversell any option. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. He Li-hua, Radiology, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. The mammogram was quicker and more comfortable than I feared, and the staff and Dr. He Li-hua were respectful throughout. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. He Li-hua, Radiology, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: The staff at Xinxing Jiali Medical Clinic in Kaohsiung explained the contrast dye and its side effects before I signed anything.
+
+Review 4 for Dr. He Li-hua, Radiology, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Booking a CT scan online at Xinxing Jiali Medical Clinic took two minutes, and I was in and out within forty minutes. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 5 for Dr. He Li-hua, Radiology, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: At my visit, Dr. He Li-hua took notes on my medication list, checked for interactions and explained the changes simply. Reviewing my X-ray together with Dr. He Li-hua on the screen made it much easier to understand my arthritis.
+
+Review 6 for Dr. He Li-hua, Radiology, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. He Li-hua sent a clear report within a day. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 7 for Dr. He Li-hua, Radiology, Kaohsiung
+Rating: 6/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I liked the advice I got from Dr. He Li-hua, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. He Li-hua, Radiology, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. He Li-hua, Radiology, Kaohsiung: 8.25/10 from 8 reviews

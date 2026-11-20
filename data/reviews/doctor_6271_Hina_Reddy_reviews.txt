@@ -1,0 +1,49 @@
+Doctor: Dr. Hina Reddy
+Doctor ID: 6271
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 4
+City: Lusail, Qatar
+Clinics: Lusail Marina Family Clinic (clinic ID 810)
+
+Review 1 for Dr. Hina Reddy, Pediatrics, Lusail
+Rating: 10/10
+Clinic visited: Lusail Marina Family Clinic
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 2 for Dr. Hina Reddy, Pediatrics, Lusail
+Rating: 6/10
+Clinic visited: Lusail Marina Family Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 3 for Dr. Hina Reddy, Pediatrics, Lusail
+Rating: 7/10
+Clinic visited: Lusail Marina Family Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Hina Reddy, Pediatrics, Lusail
+Rating: 9/10
+Clinic visited: Lusail Marina Family Clinic
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Everything was explained in plain English by Dr. Hina Reddy, and nothing was left to guess.
+
+Review 5 for Dr. Hina Reddy, Pediatrics, Lusail
+Rating: 7/10
+Clinic visited: Lusail Marina Family Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Caring and gentle with my child, Dr. Hina Reddy nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 6 for Dr. Hina Reddy, Pediatrics, Lusail
+Rating: 8/10
+Clinic visited: Lusail Marina Family Clinic
+Description: We got a same-day appointment for a high fever, and the care at Lusail Marina Family Clinic was kind and efficient. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 7 for Dr. Hina Reddy, Pediatrics, Lusail
+Rating: 9/10
+Clinic visited: Lusail Marina Family Clinic
+Description: Our family has been coming for years, and she remembers each child's history and personality.
+
+Review 8 for Dr. Hina Reddy, Pediatrics, Lusail
+Rating: 10/10
+Clinic visited: Lusail Marina Family Clinic
+Description: Kind to anxious parents, Dr. Hina Reddy never showed a hint of impatience when I felt silly asking about a rash. I appreciated that she offered more than one option and let me choose what suited my life. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Hina Reddy, Pediatrics, Lusail: 8.25/10 from 8 reviews

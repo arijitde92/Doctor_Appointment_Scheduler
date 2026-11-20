@@ -1,0 +1,54 @@
+Doctor: Dr. Cian McCarthy
+Doctor ID: 2548
+Specialization: Pathology
+Gender: Male
+Years of experience: 2
+City: Limerick, Ireland
+Clinics: Dooradoyle Polyclinic (clinic ID 333)
+
+Review 1 for Dr. Cian McCarthy, Pathology, Limerick
+Rating: 7/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 2 for Dr. Cian McCarthy, Pathology, Limerick
+Rating: 8/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Limerick.
+
+Review 3 for Dr. Cian McCarthy, Pathology, Limerick
+Rating: 7/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Helpful in clarifying a borderline result, though Dr. Cian McCarthy gave little guidance about whether to repeat it.
+
+Review 4 for Dr. Cian McCarthy, Pathology, Limerick
+Rating: 9/10
+Clinic visited: Dooradoyle Polyclinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 5 for Dr. Cian McCarthy, Pathology, Limerick
+Rating: 6/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Good bedside manner from Dr. Cian McCarthy, but the parking near Dooradoyle Polyclinic is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Cian McCarthy, Pathology, Limerick
+Rating: 8/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Dr. Cian McCarthy double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 7 for Dr. Cian McCarthy, Pathology, Limerick
+Rating: 9/10
+Clinic visited: Dooradoyle Polyclinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 8 for Dr. Cian McCarthy, Pathology, Limerick
+Rating: 8/10
+Clinic visited: Dooradoyle Polyclinic
+Description: I was called in within five minutes of my appointment time at Dooradoyle Polyclinic, which is rare and much appreciated. Dr. Cian McCarthy took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 9 for Dr. Cian McCarthy, Pathology, Limerick
+Rating: 9/10
+Clinic visited: Dooradoyle Polyclinic
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Overall rating for Dr. Cian McCarthy, Pathology, Limerick: 7.89/10 from 9 reviews

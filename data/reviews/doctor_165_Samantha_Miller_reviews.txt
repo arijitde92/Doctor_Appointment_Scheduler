@@ -1,0 +1,59 @@
+Doctor: Dr. Samantha Miller
+Doctor ID: 165
+Specialization: General
+Gender: Female
+Years of experience: 4
+City: Houston, USA
+Clinics: Westchase Primary Care (clinic ID 23)
+
+Review 1 for Dr. Samantha Miller, General, Houston
+Rating: 10/10
+Clinic visited: Westchase Primary Care
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 2 for Dr. Samantha Miller, General, Houston
+Rating: 9/10
+Clinic visited: Westchase Primary Care
+Description: I appreciated that she offered more than one option and let me choose what suited my life. Best family doctor I have had; She treats the whole person and not just the symptom list.
+
+Review 3 for Dr. Samantha Miller, General, Houston
+Rating: 6/10
+Clinic visited: Westchase Primary Care
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Samantha Miller, General, Houston
+Rating: 5/10
+Clinic visited: Westchase Primary Care
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 5 for Dr. Samantha Miller, General, Houston
+Rating: 7/10
+Clinic visited: Westchase Primary Care
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 6 for Dr. Samantha Miller, General, Houston
+Rating: 5/10
+Clinic visited: Westchase Primary Care
+Description: Referrals from Dr. Samantha Miller are handled well, but getting test results back took longer than I was told to expect.
+
+Review 7 for Dr. Samantha Miller, General, Houston
+Rating: 7/10
+Clinic visited: Westchase Primary Care
+Description: Dr. Samantha Miller is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 8 for Dr. Samantha Miller, General, Houston
+Rating: 7/10
+Clinic visited: Westchase Primary Care
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 9 for Dr. Samantha Miller, General, Houston
+Rating: 6/10
+Clinic visited: Westchase Primary Care
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 10 for Dr. Samantha Miller, General, Houston
+Rating: 6/10
+Clinic visited: Westchase Primary Care
+Description: Dr. Samantha Miller was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Westchase Primary Care were inconsistent.
+
+Overall rating for Dr. Samantha Miller, General, Houston: 6.80/10 from 10 reviews

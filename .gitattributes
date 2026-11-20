@@ -2,3 +2,5 @@
 *.sh text eol=lf
 Dockerfile text eol=lf
 *.mjs text eol=lf
+# Windows PowerShell deploy scripts
+*.ps1 text eol=crlf

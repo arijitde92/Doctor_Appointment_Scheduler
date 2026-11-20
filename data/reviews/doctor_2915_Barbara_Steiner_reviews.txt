@@ -1,0 +1,54 @@
+Doctor: Dr. Barbara Steiner
+Doctor ID: 2915
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 12
+City: Innsbruck, Austria
+Clinics: Ärztezentrum Maria-Theresien (clinic ID 380)
+
+Review 1 for Dr. Barbara Steiner, Gastroenterology, Innsbruck
+Rating: 5/10
+Clinic visited: Ärztezentrum Maria-Theresien
+Description: Booking was easy online, but the confirmation email contained the wrong address for Ärztezentrum Maria-Theresien. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 2 for Dr. Barbara Steiner, Gastroenterology, Innsbruck
+Rating: 9/10
+Clinic visited: Ärztezentrum Maria-Theresien
+Description: A gentle, respectful manner from Dr. Barbara Steiner made a very awkward exam bearable, with every step explained before it happened.
+
+Review 3 for Dr. Barbara Steiner, Gastroenterology, Innsbruck
+Rating: 8/10
+Clinic visited: Ärztezentrum Maria-Theresien
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 4 for Dr. Barbara Steiner, Gastroenterology, Innsbruck
+Rating: 7/10
+Clinic visited: Ärztezentrum Maria-Theresien
+Description: Quick appointment and a fair price in Innsbruck, but the staff seemed overwhelmed and a bit curt on the phone. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 5 for Dr. Barbara Steiner, Gastroenterology, Innsbruck
+Rating: 9/10
+Clinic visited: Ärztezentrum Maria-Theresien
+Description: Sensitive questions were handled by Dr. Barbara Steiner with discretion and without a hint of judgment. I was nervous about my screening, but the team at Ärztezentrum Maria-Theresien made me feel at ease, and I was home within hours.
+
+Review 6 for Dr. Barbara Steiner, Gastroenterology, Innsbruck
+Rating: 7/10
+Clinic visited: Ärztezentrum Maria-Theresien
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Barbara Steiner, Gastroenterology, Innsbruck
+Rating: 8/10
+Clinic visited: Ärztezentrum Maria-Theresien
+Description: I get regular check-ups for my Crohn's disease, and Dr. Barbara Steiner adjusts my treatment carefully and always explains why.
+
+Review 8 for Dr. Barbara Steiner, Gastroenterology, Innsbruck
+Rating: 6/10
+Clinic visited: Ärztezentrum Maria-Theresien
+Description: Good bedside manner from Dr. Barbara Steiner, but the parking near Ärztezentrum Maria-Theresien is limited and I had to circle for fifteen minutes. Dr. Barbara Steiner is thorough, but I waited nearly two months to get the first available slot. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Barbara Steiner, Gastroenterology, Innsbruck
+Rating: 9/10
+Clinic visited: Ärztezentrum Maria-Theresien
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Overall rating for Dr. Barbara Steiner, Gastroenterology, Innsbruck: 7.56/10 from 9 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Nguyen Thanh
+Doctor ID: 5038
+Specialization: General
+Gender: Male
+Years of experience: 13
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Da Khoa Hong Ngoc (clinic ID 651)
+
+Review 1 for Dr. Nguyen Thanh, General, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Getting to Phong Kham Da Khoa Hong Ngoc from across Ho Chi Minh City was easy, and the same-week appointment saved me an urgent care trip. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Nguyen Thanh, General, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 3 for Dr. Nguyen Thanh, General, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Managing my type 2 diabetes with Dr. Nguyen Thanh has been steady and practical, with quarterly blood sugar reviews and no lectures. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 4 for Dr. Nguyen Thanh, General, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Everything was explained in plain English by Dr. Nguyen Thanh, and nothing was left to guess. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Nguyen Thanh, General, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: As a new patient in Ho Chi Minh City, I felt welcomed at Phong Kham Da Khoa Hong Ngoc, and my whole history was reviewed in one relaxed visit. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 6 for Dr. Nguyen Thanh, General, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 7 for Dr. Nguyen Thanh, General, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Paperwork at Phong Kham Da Khoa Hong Ngoc was kept to a minimum, and the staff helped me complete the insurance form. Vaccination advice from Dr. Nguyen Thanh for my travel plans was thorough and specific to the countries I was visiting. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Nguyen Thanh, General, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 9 for Dr. Nguyen Thanh, General, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: I went in with months of tiredness, and Dr. Nguyen Thanh ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Overall rating for Dr. Nguyen Thanh, General, Ho Chi Minh City: 8.56/10 from 9 reviews

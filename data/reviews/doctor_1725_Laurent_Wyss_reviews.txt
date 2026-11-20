@@ -1,0 +1,54 @@
+Doctor: Dr. Laurent Wyss
+Doctor ID: 1725
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 3
+City: Geneva, Switzerland
+Clinics: Cabinet Médical des Eaux-Vives (clinic ID 225)
+
+Review 1 for Dr. Laurent Wyss, Pediatrics, Geneva
+Rating: 5/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Clear explanations, but the follow-up call took a week longer than I had been told. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Laurent Wyss, Pediatrics, Geneva
+Rating: 8/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 3 for Dr. Laurent Wyss, Pediatrics, Geneva
+Rating: 8/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Kind to anxious parents, Dr. Laurent Wyss never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 4 for Dr. Laurent Wyss, Pediatrics, Geneva
+Rating: 7/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Laurent Wyss, Pediatrics, Geneva
+Rating: 8/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: My teenager actually spoke up during the visit, and Dr. Laurent Wyss handled sensitive topics with respect. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 6 for Dr. Laurent Wyss, Pediatrics, Geneva
+Rating: 6/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 7 for Dr. Laurent Wyss, Pediatrics, Geneva
+Rating: 6/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Dr. Laurent Wyss is thorough with exams, but the after-hours phone line at Cabinet Médical des Eaux-Vives is hard to reach.
+
+Review 8 for Dr. Laurent Wyss, Pediatrics, Geneva
+Rating: 4/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: We were left waiting over an hour with a sick, crying baby and received no apology.
+
+Review 9 for Dr. Laurent Wyss, Pediatrics, Geneva
+Rating: 9/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Prescriptions from Dr. Laurent Wyss were sent to my pharmacy before I even left the building, and the dosage instructions were written down. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Laurent Wyss, Pediatrics, Geneva: 6.78/10 from 9 reviews

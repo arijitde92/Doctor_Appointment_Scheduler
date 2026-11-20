@@ -1,0 +1,64 @@
+Doctor: Dr. Antônio Nunes
+Doctor ID: 642
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 10
+City: Rio de Janeiro, Brazil
+Clinics: Centro Médico Ipanema Sul (clinic ID 86)
+
+Review 1 for Dr. Antônio Nunes, Obstetrics and Gynecology (OB/GYN), Rio de Janeiro
+Rating: 5/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Antônio Nunes, Obstetrics and Gynecology (OB/GYN), Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history. I got what I needed, but the next available appointment was three weeks away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Antônio Nunes, Obstetrics and Gynecology (OB/GYN), Rio de Janeiro
+Rating: 8/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: I appreciated being asked what I wanted from my birth experience before any decisions were made. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 4 for Dr. Antônio Nunes, Obstetrics and Gynecology (OB/GYN), Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Dr. Antônio Nunes explained my options well, though the office was often running an hour behind. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 5 for Dr. Antônio Nunes, Obstetrics and Gynecology (OB/GYN), Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Antônio Nunes, Obstetrics and Gynecology (OB/GYN), Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: The ultrasound images from Dr. Antônio Nunes were great, but I had to call twice to get the written report. I liked the advice I got from Dr. Antônio Nunes, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Antônio Nunes, Obstetrics and Gynecology (OB/GYN), Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Compassionate during my fertility consultation, though the cost estimate was vague until after the visit.
+
+Review 8 for Dr. Antônio Nunes, Obstetrics and Gynecology (OB/GYN), Rio de Janeiro
+Rating: 5/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked.
+
+Review 9 for Dr. Antônio Nunes, Obstetrics and Gynecology (OB/GYN), Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: A respectful exam, but I wished for more discussion on pain management before my procedure. Dr. Antônio Nunes was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 10 for Dr. Antônio Nunes, Obstetrics and Gynecology (OB/GYN), Rio de Janeiro
+Rating: 4/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: My concerns about heavy bleeding were met with 'that's normal' and no tests, and I felt dismissed.
+
+Review 11 for Dr. Antônio Nunes, Obstetrics and Gynecology (OB/GYN), Rio de Janeiro
+Rating: 5/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Good bedside manner from Dr. Antônio Nunes, but the parking near Centro Médico Ipanema Sul is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Antônio Nunes, Obstetrics and Gynecology (OB/GYN), Rio de Janeiro: 5.91/10 from 11 reviews

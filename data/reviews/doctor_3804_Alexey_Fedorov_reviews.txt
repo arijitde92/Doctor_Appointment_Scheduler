@@ -1,0 +1,49 @@
+Doctor: Dr. Alexey Fedorov
+Doctor ID: 3804
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 24
+City: Saint Petersburg, Russia
+Clinics: Klinika Belye Nochi (clinic ID 491)
+
+Review 1 for Dr. Alexey Fedorov, Obstetrics and Gynecology (OB/GYN), Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Belye Nochi
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 2 for Dr. Alexey Fedorov, Obstetrics and Gynecology (OB/GYN), Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Belye Nochi
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Alexey Fedorov, Obstetrics and Gynecology (OB/GYN), Saint Petersburg
+Rating: 6/10
+Clinic visited: Klinika Belye Nochi
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Alexey Fedorov explained my options well, though the office was often running an hour behind.
+
+Review 4 for Dr. Alexey Fedorov, Obstetrics and Gynecology (OB/GYN), Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Belye Nochi
+Description: The ultrasound images from Dr. Alexey Fedorov were great, but I had to call twice to get the written report.
+
+Review 5 for Dr. Alexey Fedorov, Obstetrics and Gynecology (OB/GYN), Saint Petersburg
+Rating: 6/10
+Clinic visited: Klinika Belye Nochi
+Description: Booking was easy online, but the confirmation email contained the wrong address for Klinika Belye Nochi.
+
+Review 6 for Dr. Alexey Fedorov, Obstetrics and Gynecology (OB/GYN), Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Belye Nochi
+Description: Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked. Good bedside manner from Dr. Alexey Fedorov, but the parking near Klinika Belye Nochi is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Alexey Fedorov, Obstetrics and Gynecology (OB/GYN), Saint Petersburg
+Rating: 6/10
+Clinic visited: Klinika Belye Nochi
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 8 for Dr. Alexey Fedorov, Obstetrics and Gynecology (OB/GYN), Saint Petersburg
+Rating: 8/10
+Clinic visited: Klinika Belye Nochi
+Description: The staff made a sensitive appointment feel comfortable, and Dr. Alexey Fedorov respected my questions about my body. Prescriptions from Dr. Alexey Fedorov were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Overall rating for Dr. Alexey Fedorov, Obstetrics and Gynecology (OB/GYN), Saint Petersburg: 6.75/10 from 8 reviews

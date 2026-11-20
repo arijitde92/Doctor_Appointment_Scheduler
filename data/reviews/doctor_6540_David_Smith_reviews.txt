@@ -1,0 +1,69 @@
+Doctor: Dr. David Smith
+Doctor ID: 6540
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 8
+City: Perth, Australia
+Clinics: Outback Road Medical (clinic ID 846); Seaview Medical Clinic (clinic ID 848)
+
+Review 1 for Dr. David Smith, Pediatrics, Perth
+Rating: 7/10
+Clinic visited: Seaview Medical Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Good bedside manner from Dr. David Smith, but the parking near Seaview Medical Clinic is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. David Smith, Pediatrics, Perth
+Rating: 9/10
+Clinic visited: Seaview Medical Clinic
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice.
+
+Review 3 for Dr. David Smith, Pediatrics, Perth
+Rating: 9/10
+Clinic visited: Seaview Medical Clinic
+Description: My child's asthma action plan from Dr. David Smith was written out clearly so that school staff could follow it too. Everything was explained in plain English by Dr. David Smith, and nothing was left to guess.
+
+Review 4 for Dr. David Smith, Pediatrics, Perth
+Rating: 10/10
+Clinic visited: Seaview Medical Clinic
+Description: The school physical at Seaview Medical Clinic was quick, thorough and the forms were completed on the spot. Sensitive questions were handled by Dr. David Smith with discretion and without a hint of judgment.
+
+Review 5 for Dr. David Smith, Pediatrics, Perth
+Rating: 10/10
+Clinic visited: Seaview Medical Clinic
+Description: Our family has been coming for years, and he remembers each child's history and personality.
+
+Review 6 for Dr. David Smith, Pediatrics, Perth
+Rating: 9/10
+Clinic visited: Seaview Medical Clinic
+Description: The growth chart review was detailed, and I appreciated that Dr. David Smith talked to my child as well as to me. Appointment reminders came by text and email, and rescheduling took two taps. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. David Smith, Pediatrics, Perth
+Rating: 8/10
+Clinic visited: Seaview Medical Clinic
+Description: Our newborn check-ups with Dr. David Smith were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Review 8 for Dr. David Smith, Pediatrics, Perth
+Rating: 9/10
+Clinic visited: Seaview Medical Clinic
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Dr. David Smith looked me in the eye, listened to the whole story and only then started typing.
+
+Review 9 for Dr. David Smith, Pediatrics, Perth
+Rating: 10/10
+Clinic visited: Seaview Medical Clinic
+Description: Vaccination visits with Dr. David Smith are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 10 for Dr. David Smith, Pediatrics, Perth
+Rating: 10/10
+Clinic visited: Outback Road Medical
+Description: My teenager actually spoke up during the visit, and Dr. David Smith handled sensitive topics with respect.
+
+Review 11 for Dr. David Smith, Pediatrics, Perth
+Rating: 8/10
+Clinic visited: Outback Road Medical
+Description: At my visit, Dr. David Smith took notes on my medication list, checked for interactions and explained the changes simply. The waiting room in Perth has a play corner and separate seating for sick children, which I really valued. My whole family is switching over after seeing how good the care was.
+
+Review 12 for Dr. David Smith, Pediatrics, Perth
+Rating: 9/10
+Clinic visited: Outback Road Medical
+Description: We got a same-day appointment for a high fever, and the care at Outback Road Medical was kind and efficient. Dr. David Smith double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Overall rating for Dr. David Smith, Pediatrics, Perth: 9.00/10 from 12 reviews

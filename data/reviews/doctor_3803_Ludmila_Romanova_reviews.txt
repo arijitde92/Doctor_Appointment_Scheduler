@@ -1,0 +1,54 @@
+Doctor: Dr. Ludmila Romanova
+Doctor ID: 3803
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 11
+City: Saint Petersburg, Russia
+Clinics: Nevsky Medical Centre (clinic ID 490); Moskovsky Family Polyclinic (clinic ID 492)
+
+Review 1 for Dr. Ludmila Romanova, Orthopedic, Saint Petersburg
+Rating: 7/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Ludmila Romanova, Orthopedic, Saint Petersburg
+Rating: 7/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 3 for Dr. Ludmila Romanova, Orthopedic, Saint Petersburg
+Rating: 8/10
+Clinic visited: Nevsky Medical Centre
+Description: Clear aftercare instructions from Dr. Ludmila Romanova and a direct number to call if something felt wrong after my surgery.
+
+Review 4 for Dr. Ludmila Romanova, Orthopedic, Saint Petersburg
+Rating: 6/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Ludmila Romanova, Orthopedic, Saint Petersburg
+Rating: 6/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 6 for Dr. Ludmila Romanova, Orthopedic, Saint Petersburg
+Rating: 8/10
+Clinic visited: Nevsky Medical Centre
+Description: Dr. Ludmila Romanova double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I appreciated Dr. Ludmila Romanova's honest comparison between injections, therapy and surgery for my hip pain.
+
+Review 7 for Dr. Ludmila Romanova, Orthopedic, Saint Petersburg
+Rating: 8/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Dr. Ludmila Romanova used a calm, steady voice that settled my nerves before a stressful procedure. My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Ludmila Romanova, Orthopedic, Saint Petersburg
+Rating: 8/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: The surgeon at Moskovsky Family Polyclinic spent time on my goals as a runner and shaped the treatment around them. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 9 for Dr. Ludmila Romanova, Orthopedic, Saint Petersburg
+Rating: 8/10
+Clinic visited: Nevsky Medical Centre
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. Dr. Ludmila Romanova looked me in the eye, listened to the whole story and only then started typing. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Ludmila Romanova, Orthopedic, Saint Petersburg: 7.33/10 from 9 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Lars Huber
+Doctor ID: 1519
+Specialization: Cardiology
+Gender: Male
+Years of experience: 4
+City: Berlin, Germany
+Clinics: Ärztehaus Neukölln-Süd (clinic ID 198)
+
+Review 1 for Dr. Lars Huber, Cardiology, Berlin
+Rating: 10/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 2 for Dr. Lars Huber, Cardiology, Berlin
+Rating: 10/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Lars Huber, Cardiology, Berlin
+Rating: 8/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Seeing Dr. Lars Huber in Berlin meant my whole family history was reviewed, and now my sister is being screened too. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Lars Huber, Cardiology, Berlin
+Rating: 8/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Dr. Lars Huber explained the difference between my statin options and let me weigh in on the choice.
+
+Review 5 for Dr. Lars Huber, Cardiology, Berlin
+Rating: 9/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 6 for Dr. Lars Huber, Cardiology, Berlin
+Rating: 9/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 7 for Dr. Lars Huber, Cardiology, Berlin
+Rating: 8/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: After my palpitations began, Dr. Lars Huber arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 8 for Dr. Lars Huber, Cardiology, Berlin
+Rating: 8/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: The cardiology unit at Ärztehaus Neukölln-Süd runs on time, and the technicians were professional during my echocardiogram.
+
+Review 9 for Dr. Lars Huber, Cardiology, Berlin
+Rating: 10/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. At my visit, Dr. Lars Huber took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 10 for Dr. Lars Huber, Cardiology, Berlin
+Rating: 9/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Overall rating for Dr. Lars Huber, Cardiology, Berlin: 8.90/10 from 10 reviews

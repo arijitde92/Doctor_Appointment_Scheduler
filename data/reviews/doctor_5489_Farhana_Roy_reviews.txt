@@ -1,0 +1,49 @@
+Doctor: Dr. Farhana Roy
+Doctor ID: 5489
+Specialization: General
+Gender: Female
+Years of experience: 29
+City: Sylhet, Bangladesh
+Clinics: Surma Valley Medical Centre (clinic ID 710)
+
+Review 1 for Dr. Farhana Roy, General, Sylhet
+Rating: 7/10
+Clinic visited: Surma Valley Medical Centre
+Description: Dr. Farhana Roy was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I like that she listens to the full story, even if it means the appointment runs behind schedule. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Farhana Roy, General, Sylhet
+Rating: 9/10
+Clinic visited: Surma Valley Medical Centre
+Description: Cholesterol results were explained by Dr. Farhana Roy with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 3 for Dr. Farhana Roy, General, Sylhet
+Rating: 5/10
+Clinic visited: Surma Valley Medical Centre
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Surma Valley Medical Centre were inconsistent. Booking was easy online, but the confirmation email contained the wrong address for Surma Valley Medical Centre. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Farhana Roy, General, Sylhet
+Rating: 8/10
+Clinic visited: Surma Valley Medical Centre
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Farhana Roy, General, Sylhet
+Rating: 6/10
+Clinic visited: Surma Valley Medical Centre
+Description: The treatment plan from Dr. Farhana Roy made sense, but I wished it had been written down for me to take away. Dr. Farhana Roy is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 6 for Dr. Farhana Roy, General, Sylhet
+Rating: 8/10
+Clinic visited: Surma Valley Medical Centre
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Farhana Roy, General, Sylhet
+Rating: 7/10
+Clinic visited: Surma Valley Medical Centre
+Description: Referrals from Dr. Farhana Roy are handled well, but getting test results back took longer than I was told to expect. I liked the advice I got from Dr. Farhana Roy, but I would have liked more time to ask follow-up questions before the visit ended. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Farhana Roy, General, Sylhet
+Rating: 9/10
+Clinic visited: Surma Valley Medical Centre
+Description: My blood pressure had crept up and Dr. Farhana Roy walked me through diet changes before suggesting anything else. Three months later my readings were normal. The practice in Sylhet is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Farhana Roy, General, Sylhet: 7.38/10 from 8 reviews

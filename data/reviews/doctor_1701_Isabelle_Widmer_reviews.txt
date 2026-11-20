@@ -1,0 +1,64 @@
+Doctor: Dr. Isabelle Widmer
+Doctor ID: 1701
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 1
+City: Bern, Switzerland
+Clinics: Gesundheitszentrum Lorraine-Breitenrain (clinic ID 222)
+
+Review 1 for Dr. Isabelle Widmer, Gastroenterology, Bern
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Isabelle Widmer, Gastroenterology, Bern
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 3 for Dr. Isabelle Widmer, Gastroenterology, Bern
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 4 for Dr. Isabelle Widmer, Gastroenterology, Bern
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Knowledgeable about my reflux, Dr. Isabelle Widmer still gave diet advice that felt generic and not tailored to my habits.
+
+Review 5 for Dr. Isabelle Widmer, Gastroenterology, Bern
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Booking was easy online, but the confirmation email contained the wrong address for Gesundheitszentrum Lorraine-Breitenrain. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 6 for Dr. Isabelle Widmer, Gastroenterology, Bern
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 7 for Dr. Isabelle Widmer, Gastroenterology, Bern
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Dr. Isabelle Widmer was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Isabelle Widmer, Gastroenterology, Bern
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Dr. Isabelle Widmer is thorough, but I waited nearly two months to get the first available slot.
+
+Review 9 for Dr. Isabelle Widmer, Gastroenterology, Bern
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: I described ongoing stomach pain and was told it was stress, with no tests ordered for months. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 10 for Dr. Isabelle Widmer, Gastroenterology, Bern
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 11 for Dr. Isabelle Widmer, Gastroenterology, Bern
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: The treatment plan from Dr. Isabelle Widmer made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Isabelle Widmer, Gastroenterology, Bern: 5.55/10 from 11 reviews

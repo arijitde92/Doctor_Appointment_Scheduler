@@ -1,0 +1,54 @@
+Doctor: Dr. Eva Lindgren
+Doctor ID: 2167
+Specialization: Pathology
+Gender: Female
+Years of experience: 1
+City: Malmo, Sweden
+Clinics: Medicinskt Centrum Stora Nygatan (clinic ID 282)
+
+Review 1 for Dr. Eva Lindgren, Pathology, Malmo
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 2 for Dr. Eva Lindgren, Pathology, Malmo
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Eva Lindgren, Pathology, Malmo
+Rating: 4/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: The staff were curt and impatient when I asked how to read the reference ranges on my report. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 4 for Dr. Eva Lindgren, Pathology, Malmo
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: The blood draw was painless, but the waiting area at Medicinskt Centrum Stora Nygatan was crowded in the early morning.
+
+Review 5 for Dr. Eva Lindgren, Pathology, Malmo
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: Dr. Eva Lindgren answered my questions kindly, though the call back took three days. Booking was easy online, but the confirmation email contained the wrong address for Medicinskt Centrum Stora Nygatan.
+
+Review 6 for Dr. Eva Lindgren, Pathology, Malmo
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Malmo.
+
+Review 7 for Dr. Eva Lindgren, Pathology, Malmo
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Quick appointment and a fair price in Malmo, but the staff seemed overwhelmed and a bit curt on the phone. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Eva Lindgren, Pathology, Malmo
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Eva Lindgren, Pathology, Malmo
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Stora Nygatan
+Description: The biopsy report was returned in three days, and Dr. Eva Lindgren took time on the phone to explain every term in it. Paperwork at Medicinskt Centrum Stora Nygatan was kept to a minimum, and the staff helped me complete the insurance form.
+
+Overall rating for Dr. Eva Lindgren, Pathology, Malmo: 6.78/10 from 9 reviews

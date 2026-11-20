@@ -1,0 +1,64 @@
+Doctor: Dr. Sameh Youssef
+Doctor ID: 5917
+Specialization: General
+Gender: Male
+Years of experience: 9
+City: Cairo, Egypt
+Clinics: New Cairo Amal Medical Centre (clinic ID 764)
+
+Review 1 for Dr. Sameh Youssef, General, Cairo
+Rating: 7/10
+Clinic visited: New Cairo Amal Medical Centre
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Sameh Youssef, General, Cairo
+Rating: 7/10
+Clinic visited: New Cairo Amal Medical Centre
+Description: Referrals from Dr. Sameh Youssef are handled well, but getting test results back took longer than I was told to expect. Quick appointment and a fair price in Cairo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Sameh Youssef, General, Cairo
+Rating: 7/10
+Clinic visited: New Cairo Amal Medical Centre
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from New Cairo Amal Medical Centre were inconsistent. The telehealth visit was convenient, though the connection dropped twice and we had to restart. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Sameh Youssef, General, Cairo
+Rating: 8/10
+Clinic visited: New Cairo Amal Medical Centre
+Description: I was given a printed summary of the visit, which I shared with my family at home. My blood pressure had crept up and Dr. Sameh Youssef walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 5 for Dr. Sameh Youssef, General, Cairo
+Rating: 8/10
+Clinic visited: New Cairo Amal Medical Centre
+Description: Getting to New Cairo Amal Medical Centre by public transport in Cairo was easy, and there is a step-free entrance for wheelchairs. Cholesterol results were explained by Dr. Sameh Youssef with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 6 for Dr. Sameh Youssef, General, Cairo
+Rating: 7/10
+Clinic visited: New Cairo Amal Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Sameh Youssef, General, Cairo
+Rating: 8/10
+Clinic visited: New Cairo Amal Medical Centre
+Description: Dr. Sameh Youssef spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 8 for Dr. Sameh Youssef, General, Cairo
+Rating: 6/10
+Clinic visited: New Cairo Amal Medical Centre
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. Good bedside manner from Dr. Sameh Youssef, but the parking near New Cairo Amal Medical Centre is limited and I had to circle for fifteen minutes. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Sameh Youssef, General, Cairo
+Rating: 9/10
+Clinic visited: New Cairo Amal Medical Centre
+Description: I went in with months of tiredness, and Dr. Sameh Youssef ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 10 for Dr. Sameh Youssef, General, Cairo
+Rating: 8/10
+Clinic visited: New Cairo Amal Medical Centre
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list.
+
+Review 11 for Dr. Sameh Youssef, General, Cairo
+Rating: 6/10
+Clinic visited: New Cairo Amal Medical Centre
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Overall rating for Dr. Sameh Youssef, General, Cairo: 7.36/10 from 11 reviews

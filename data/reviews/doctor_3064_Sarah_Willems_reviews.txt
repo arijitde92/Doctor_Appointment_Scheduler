@@ -1,0 +1,54 @@
+Doctor: Dr. Sarah Willems
+Doctor ID: 3064
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 24
+City: Antwerp, Belgium
+Clinics: Medisch Centrum Eilandje (clinic ID 399)
+
+Review 1 for Dr. Sarah Willems, Psychiatry, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Good listener, yet the refill process at Medisch Centrum Eilandje is slow and requires several phone calls. Dr. Sarah Willems was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Sarah Willems, Psychiatry, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Sarah Willems, Psychiatry, Antwerp
+Rating: 9/10
+Clinic visited: Medisch Centrum Eilandje
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 4 for Dr. Sarah Willems, Psychiatry, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Eilandje
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 5 for Dr. Sarah Willems, Psychiatry, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 6 for Dr. Sarah Willems, Psychiatry, Antwerp
+Rating: 8/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Paperwork at Medisch Centrum Eilandje was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 7 for Dr. Sarah Willems, Psychiatry, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Sarah Willems, Psychiatry, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: The treatment plan from Dr. Sarah Willems made sense, but I wished it had been written down for me to take away.
+
+Review 9 for Dr. Sarah Willems, Psychiatry, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Dr. Sarah Willems is knowledgeable, though I waited several weeks for my first appointment. I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Sarah Willems, Psychiatry, Antwerp: 7.11/10 from 9 reviews

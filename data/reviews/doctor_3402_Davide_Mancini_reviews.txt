@@ -1,0 +1,69 @@
+Doctor: Dr. Davide Mancini
+Doctor ID: 3402
+Specialization: Cardiology
+Gender: Male
+Years of experience: 10
+City: Milan, Italy
+Clinics: Centro Medico Porta Venezia (clinic ID 441)
+
+Review 1 for Dr. Davide Mancini, Cardiology, Milan
+Rating: 5/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 2 for Dr. Davide Mancini, Cardiology, Milan
+Rating: 5/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 3 for Dr. Davide Mancini, Cardiology, Milan
+Rating: 6/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Good bedside manner from Dr. Davide Mancini, but the parking near Centro Medico Porta Venezia is limited and I had to circle for fifteen minutes.
+
+Review 4 for Dr. Davide Mancini, Cardiology, Milan
+Rating: 4/10
+Clinic visited: Centro Medico Porta Venezia
+Description: The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes. Not a place I would choose again, and I hope others have a better experience.
+
+Review 5 for Dr. Davide Mancini, Cardiology, Milan
+Rating: 5/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 6 for Dr. Davide Mancini, Cardiology, Milan
+Rating: 5/10
+Clinic visited: Centro Medico Porta Venezia
+Description: I liked the advice I got from Dr. Davide Mancini, but I would have liked more time to ask follow-up questions before the visit ended. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Davide Mancini, Cardiology, Milan
+Rating: 6/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Great care in the visit itself, but the billing for the tests at Centro Medico Porta Venezia was confusing.
+
+Review 8 for Dr. Davide Mancini, Cardiology, Milan
+Rating: 6/10
+Clinic visited: Centro Medico Porta Venezia
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 9 for Dr. Davide Mancini, Cardiology, Milan
+Rating: 4/10
+Clinic visited: Centro Medico Porta Venezia
+Description: The prescription from Dr. Davide Mancini was not the one we discussed, and I only noticed when I got home. My test results sat on Dr. Davide Mancini's desk for two weeks, and I only learned about a medication change when I called the pharmacy.
+
+Review 10 for Dr. Davide Mancini, Cardiology, Milan
+Rating: 5/10
+Clinic visited: Centro Medico Porta Venezia
+Description: The treatment plan from Dr. Davide Mancini made sense, but I wished it had been written down for me to take away. Helpful with my cholesterol, Dr. Davide Mancini still gave dietary advice that was a little generic.
+
+Review 11 for Dr. Davide Mancini, Cardiology, Milan
+Rating: 5/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Dr. Davide Mancini adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 12 for Dr. Davide Mancini, Cardiology, Milan
+Rating: 2/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Dr. Davide Mancini did not seem to have read my notes and asked me to repeat my whole history from the beginning. I reported chest tightness and was sent home with a leaflet and no ECG. I left disappointed and will take my business to another clinic.
+
+Overall rating for Dr. Davide Mancini, Cardiology, Milan: 4.83/10 from 12 reviews

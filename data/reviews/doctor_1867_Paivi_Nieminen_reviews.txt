@@ -1,0 +1,54 @@
+Doctor: Dr. Päivi Nieminen
+Doctor ID: 1867
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 24
+City: Helsinki, Finland
+Clinics: Terveyskeskus Kaivopuisto Plus (clinic ID 243)
+
+Review 1 for Dr. Päivi Nieminen, Psychiatry, Helsinki
+Rating: 6/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 2 for Dr. Päivi Nieminen, Psychiatry, Helsinki
+Rating: 6/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Good listener, yet the refill process at Terveyskeskus Kaivopuisto Plus is slow and requires several phone calls.
+
+Review 3 for Dr. Päivi Nieminen, Psychiatry, Helsinki
+Rating: 5/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I liked the advice I got from Dr. Päivi Nieminen, but I would have liked more time to ask follow-up questions before the visit ended. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Päivi Nieminen, Psychiatry, Helsinki
+Rating: 6/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The new medication helped, although side effects were not explained as fully as I would have liked. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Päivi Nieminen, Psychiatry, Helsinki
+Rating: 4/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion. The staff at Terveyskeskus Kaivopuisto Plus were curt on the phone, and it took four attempts to book a simple follow-up. I left disappointed and will take my business to another clinic.
+
+Review 6 for Dr. Päivi Nieminen, Psychiatry, Helsinki
+Rating: 7/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Dr. Päivi Nieminen is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 7 for Dr. Päivi Nieminen, Psychiatry, Helsinki
+Rating: 5/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Päivi Nieminen, Psychiatry, Helsinki
+Rating: 7/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 9 for Dr. Päivi Nieminen, Psychiatry, Helsinki
+Rating: 7/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Booking was easy online, but the confirmation email contained the wrong address for Terveyskeskus Kaivopuisto Plus.
+
+Overall rating for Dr. Päivi Nieminen, Psychiatry, Helsinki: 5.89/10 from 9 reviews

@@ -19,6 +19,7 @@ import { createAppointment, updateAppointment } from "../lib/api";
 import { weekdayName } from "../lib/calendar";
 import { toIsoDate } from "../lib/dates";
 import { availabilityPrompt, bookingPrompt, rebookPrompt, stripDr } from "../lib/prompts";
+import { clinicTimeZone } from "../lib/timezones";
 import type { RebookRequest, User } from "../lib/types";
 
 type Tab = "intake" | "chat" | "results";
@@ -114,6 +115,7 @@ function Consultation({ user }: { user: User }) {
     const time = SLOT_TIMES[slotIndex];
     const address = clinicAddress(clinic);
     const iso = toIsoDate(date);
+    const timeZone = clinicTimeZone(clinic);
     const appointment = await createAppointment({
       consultationId: currentSessionId(),
       doctorId: doctor.id,
@@ -126,6 +128,7 @@ function Consultation({ user }: { user: User }) {
       slotIndex,
       startTime: time.start,
       endTime: time.end,
+      timeZone: timeZone ?? null,
     });
     setFlow(null);
     ask(
@@ -136,6 +139,7 @@ function Consultation({ user }: { user: User }) {
         address,
         date: iso,
         time: time.start,
+        timeZone,
         reference: appointment.id,
       }),
     );

@@ -1,0 +1,49 @@
+Doctor: Dr. Bae Seung-hyun
+Doctor ID: 4216
+Specialization: Neurology
+Gender: Male
+Years of experience: 19
+City: Daegu, South Korea
+Clinics: Seongseo Haenim Polyclinic (clinic ID 543)
+
+Review 1 for Dr. Bae Seung-hyun, Neurology, Daegu
+Rating: 6/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Bae Seung-hyun at Seongseo Haenim Polyclinic are difficult to schedule. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Bae Seung-hyun, Neurology, Daegu
+Rating: 8/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Bae Seung-hyun, Neurology, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: The memory assessment for my father at Seongseo Haenim Polyclinic was gentle and respectful, and the family received a clear written summary.
+
+Review 4 for Dr. Bae Seung-hyun, Neurology, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Bae Seung-hyun, Neurology, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Getting a same-month appointment in Daegu for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 6 for Dr. Bae Seung-hyun, Neurology, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Dr. Bae Seung-hyun was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 7 for Dr. Bae Seung-hyun, Neurology, Daegu
+Rating: 6/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Booking was easy online, but the confirmation email contained the wrong address for Seongseo Haenim Polyclinic.
+
+Review 8 for Dr. Bae Seung-hyun, Neurology, Daegu
+Rating: 8/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: The neurological exam by Dr. Bae Seung-hyun was thorough, with every reflex test and gait check explained as it happened.
+
+Overall rating for Dr. Bae Seung-hyun, Neurology, Daegu: 7.75/10 from 8 reviews

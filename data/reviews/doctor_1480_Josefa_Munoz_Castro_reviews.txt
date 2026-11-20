@@ -1,0 +1,59 @@
+Doctor: Dr. Josefa Muñoz Castro
+Doctor ID: 1480
+Specialization: Pathology
+Gender: Female
+Years of experience: 3
+City: Valencia, Spain
+Clinics: Clínica Mediterráneo (clinic ID 193); Centro de Salud Benimaclet (clinic ID 194)
+
+Review 1 for Dr. Josefa Muñoz Castro, Pathology, Valencia
+Rating: 6/10
+Clinic visited: Centro de Salud Benimaclet
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Josefa Muñoz Castro, Pathology, Valencia
+Rating: 6/10
+Clinic visited: Centro de Salud Benimaclet
+Description: Quick appointment and a fair price in Valencia, but the staff seemed overwhelmed and a bit curt on the phone. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Josefa Muñoz Castro, Pathology, Valencia
+Rating: 8/10
+Clinic visited: Clínica Mediterráneo
+Description: Booking online at Clínica Mediterráneo was simple, and I got a confirmation text with clear directions and a reminder the day before. Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 4 for Dr. Josefa Muñoz Castro, Pathology, Valencia
+Rating: 7/10
+Clinic visited: Centro de Salud Benimaclet
+Description: Helpful in clarifying a borderline result, though Dr. Josefa Muñoz Castro gave little guidance about whether to repeat it.
+
+Review 5 for Dr. Josefa Muñoz Castro, Pathology, Valencia
+Rating: 7/10
+Clinic visited: Centro de Salud Benimaclet
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Josefa Muñoz Castro, Pathology, Valencia
+Rating: 5/10
+Clinic visited: Clínica Mediterráneo
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Josefa Muñoz Castro, Pathology, Valencia
+Rating: 7/10
+Clinic visited: Centro de Salud Benimaclet
+Description: The blood draw was painless, but the waiting area at Centro de Salud Benimaclet was crowded in the early morning. The treatment plan from Dr. Josefa Muñoz Castro made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Josefa Muñoz Castro, Pathology, Valencia
+Rating: 9/10
+Clinic visited: Clínica Mediterráneo
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 9 for Dr. Josefa Muñoz Castro, Pathology, Valencia
+Rating: 7/10
+Clinic visited: Clínica Mediterráneo
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 10 for Dr. Josefa Muñoz Castro, Pathology, Valencia
+Rating: 10/10
+Clinic visited: Clínica Mediterráneo
+Description: Dr. Josefa Muñoz Castro took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. Dr. Josefa Muñoz Castro drew a quick sketch to explain what was going on, which helped me remember it afterwards. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Josefa Muñoz Castro, Pathology, Valencia: 7.20/10 from 10 reviews

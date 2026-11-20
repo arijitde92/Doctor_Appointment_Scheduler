@@ -1,0 +1,59 @@
+Doctor: Dr. Michael White
+Doctor ID: 219
+Specialization: Radiology
+Gender: Male
+Years of experience: 26
+City: San Francisco, USA
+Clinics: Golden Gate Family Practice (clinic ID 30); Van Ness Medical Group (clinic ID 31)
+
+Review 1 for Dr. Michael White, Radiology, San Francisco
+Rating: 3/10
+Clinic visited: Van Ness Medical Group
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 2 for Dr. Michael White, Radiology, San Francisco
+Rating: 7/10
+Clinic visited: Golden Gate Family Practice
+Description: Good bedside manner from Dr. Michael White, but the parking near Golden Gate Family Practice is limited and I had to circle for fifteen minutes. The report from Dr. Michael White was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 3 for Dr. Michael White, Radiology, San Francisco
+Rating: 6/10
+Clinic visited: Van Ness Medical Group
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 4 for Dr. Michael White, Radiology, San Francisco
+Rating: 9/10
+Clinic visited: Van Ness Medical Group
+Description: Fast, clean and professional; the bone density scan with Dr. Michael White was painless and the results were explained clearly. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Michael White, Radiology, San Francisco
+Rating: 8/10
+Clinic visited: Golden Gate Family Practice
+Description: I came away understanding my condition better than I have in years of previous appointments. My ultrasound was unhurried, and Dr. Michael White took time to show me the images and explain what each measurement meant. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Michael White, Radiology, San Francisco
+Rating: 10/10
+Clinic visited: Golden Gate Family Practice
+Description: He was upfront about what could and could not be treated, and did not oversell any option. My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 7 for Dr. Michael White, Radiology, San Francisco
+Rating: 9/10
+Clinic visited: Golden Gate Family Practice
+Description: Appointment reminders came by text and email, and rescheduling took two taps. The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Michael White sent a clear report within a day. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Michael White, Radiology, San Francisco
+Rating: 8/10
+Clinic visited: Van Ness Medical Group
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 9 for Dr. Michael White, Radiology, San Francisco
+Rating: 7/10
+Clinic visited: Van Ness Medical Group
+Description: Dr. Michael White was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 10 for Dr. Michael White, Radiology, San Francisco
+Rating: 7/10
+Clinic visited: Golden Gate Family Practice
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Overall rating for Dr. Michael White, Radiology, San Francisco: 7.40/10 from 10 reviews

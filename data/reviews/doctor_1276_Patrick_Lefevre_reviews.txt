@@ -1,0 +1,69 @@
+Doctor: Dr. Patrick Lefèvre
+Doctor ID: 1276
+Specialization: Pathology
+Gender: Male
+Years of experience: 2
+City: Paris, France
+Clinics: Centre de Santé Oberkampf (clinic ID 166); Clinique du Parc Monceau (clinic ID 167)
+
+Review 1 for Dr. Patrick Lefèvre, Pathology, Paris
+Rating: 8/10
+Clinic visited: Clinique du Parc Monceau
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 2 for Dr. Patrick Lefèvre, Pathology, Paris
+Rating: 9/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Booking online at Centre de Santé Oberkampf was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 3 for Dr. Patrick Lefèvre, Pathology, Paris
+Rating: 8/10
+Clinic visited: Centre de Santé Oberkampf
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 4 for Dr. Patrick Lefèvre, Pathology, Paris
+Rating: 10/10
+Clinic visited: Clinique du Parc Monceau
+Description: I was nervous about the biopsy result, and the call from Dr. Patrick Lefèvre was gentle, honest and unhurried. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 5 for Dr. Patrick Lefèvre, Pathology, Paris
+Rating: 8/10
+Clinic visited: Clinique du Parc Monceau
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. At my visit, Dr. Patrick Lefèvre took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 6 for Dr. Patrick Lefèvre, Pathology, Paris
+Rating: 9/10
+Clinic visited: Clinique du Parc Monceau
+Description: Dr. Patrick Lefèvre took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. Paperwork at Clinique du Parc Monceau was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 7 for Dr. Patrick Lefèvre, Pathology, Paris
+Rating: 10/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Fast turnaround at Centre de Santé Oberkampf on my thyroid panel, with results in my online account by the next morning. A same-day slot was found for me at Centre de Santé Oberkampf when I called with a worrying symptom.
+
+Review 8 for Dr. Patrick Lefèvre, Pathology, Paris
+Rating: 8/10
+Clinic visited: Centre de Santé Oberkampf
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 9 for Dr. Patrick Lefèvre, Pathology, Paris
+Rating: 5/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 10 for Dr. Patrick Lefèvre, Pathology, Paris
+Rating: 7/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Quick appointment and a fair price in Paris, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 11 for Dr. Patrick Lefèvre, Pathology, Paris
+Rating: 7/10
+Clinic visited: Clinique du Parc Monceau
+Description: The treatment plan from Dr. Patrick Lefèvre made sense, but I wished it had been written down for me to take away.
+
+Review 12 for Dr. Patrick Lefèvre, Pathology, Paris
+Rating: 8/10
+Clinic visited: Clinique du Parc Monceau
+Description: The lab at Clinique du Parc Monceau had a quick, friendly blood draw and the phlebotomist found my vein on the first try. Dr. Patrick Lefèvre double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Overall rating for Dr. Patrick Lefèvre, Pathology, Paris: 8.08/10 from 12 reviews

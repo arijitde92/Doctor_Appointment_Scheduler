@@ -1,0 +1,49 @@
+Doctor: Dr. Paula Turunen
+Doctor ID: 1881
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 22
+City: Tampere, Finland
+Clinics: Lääkärikeskus Hämeenkatu Plus (clinic ID 245); Lääkärikeskus Hatanpää (clinic ID 247); Lääkäriasema Tammela Tampere (clinic ID 248)
+
+Review 1 for Dr. Paula Turunen, Psychiatry, Tampere
+Rating: 6/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Paula Turunen, Psychiatry, Tampere
+Rating: 3/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: Requests for a refill went unanswered for days, and I ran out of my medication. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 3 for Dr. Paula Turunen, Psychiatry, Tampere
+Rating: 3/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: I was not told about common side effects by Dr. Paula Turunen, and I had a rough first two weeks that could have been avoided. The visit felt rushed, and Dr. Paula Turunen was already halfway out the door when I started to describe my second symptom. Not a place I would choose again, and I hope others have a better experience.
+
+Review 4 for Dr. Paula Turunen, Psychiatry, Tampere
+Rating: 5/10
+Clinic visited: Lääkärikeskus Hämeenkatu Plus
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 5 for Dr. Paula Turunen, Psychiatry, Tampere
+Rating: 7/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: Dr. Paula Turunen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 6 for Dr. Paula Turunen, Psychiatry, Tampere
+Rating: 4/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 7 for Dr. Paula Turunen, Psychiatry, Tampere
+Rating: 3/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion.
+
+Review 8 for Dr. Paula Turunen, Psychiatry, Tampere
+Rating: 4/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. My concerns about how I felt on the dose were waved away rather than explored.
+
+Overall rating for Dr. Paula Turunen, Psychiatry, Tampere: 4.38/10 from 8 reviews

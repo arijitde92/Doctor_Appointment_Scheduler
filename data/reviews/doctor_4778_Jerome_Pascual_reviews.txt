@@ -1,0 +1,59 @@
+Doctor: Dr. Jerome Pascual
+Doctor ID: 4778
+Specialization: Pathology
+Gender: Male
+Years of experience: 4
+City: Cebu City, Philippines
+Clinics: Santa Rosalia Medical Clinic (clinic ID 617); Pag-asa Health Centre (clinic ID 618)
+
+Review 1 for Dr. Jerome Pascual, Pathology, Cebu City
+Rating: 7/10
+Clinic visited: Pag-asa Health Centre
+Description: Helpful in clarifying a borderline result, though Dr. Jerome Pascual gave little guidance about whether to repeat it.
+
+Review 2 for Dr. Jerome Pascual, Pathology, Cebu City
+Rating: 7/10
+Clinic visited: Santa Rosalia Medical Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The blood draw was painless, but the waiting area at Santa Rosalia Medical Clinic was crowded in the early morning. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Jerome Pascual, Pathology, Cebu City
+Rating: 7/10
+Clinic visited: Pag-asa Health Centre
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The treatment plan from Dr. Jerome Pascual made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Jerome Pascual, Pathology, Cebu City
+Rating: 7/10
+Clinic visited: Santa Rosalia Medical Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Jerome Pascual, Pathology, Cebu City
+Rating: 7/10
+Clinic visited: Pag-asa Health Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Jerome Pascual, Pathology, Cebu City
+Rating: 7/10
+Clinic visited: Santa Rosalia Medical Clinic
+Description: Quick appointment and a fair price in Cebu City, but the staff seemed overwhelmed and a bit curt on the phone. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 7 for Dr. Jerome Pascual, Pathology, Cebu City
+Rating: 9/10
+Clinic visited: Pag-asa Health Centre
+Description: Dr. Jerome Pascual double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 8 for Dr. Jerome Pascual, Pathology, Cebu City
+Rating: 6/10
+Clinic visited: Santa Rosalia Medical Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 9 for Dr. Jerome Pascual, Pathology, Cebu City
+Rating: 6/10
+Clinic visited: Pag-asa Health Centre
+Description: Dr. Jerome Pascual answered my questions kindly, though the call back took three days. Dr. Jerome Pascual was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 10 for Dr. Jerome Pascual, Pathology, Cebu City
+Rating: 5/10
+Clinic visited: Pag-asa Health Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Jerome Pascual, Pathology, Cebu City: 6.80/10 from 10 reviews

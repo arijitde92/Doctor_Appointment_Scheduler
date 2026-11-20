@@ -1,0 +1,64 @@
+Doctor: Dr. Pedro Marques
+Doctor ID: 553
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 4
+City: Belo Horizonte, Brazil
+Clinics: Clínica Savassi Saúde (clinic ID 75); Policlínica Lourdes (clinic ID 77)
+
+Review 1 for Dr. Pedro Marques, Pulmonology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Policlínica Lourdes
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Pedro Marques, Pulmonology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Clínica Savassi Saúde
+Description: I always leave Dr. Pedro Marques's office with a written summary of my breathing test results and what changed since the last visit. Everything was explained in plain English by Dr. Pedro Marques, and nothing was left to guess. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Pedro Marques, Pulmonology, Belo Horizonte
+Rating: 6/10
+Clinic visited: Clínica Savassi Saúde
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Pedro Marques, Pulmonology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Clínica Savassi Saúde
+Description: Clear, honest answers from Dr. Pedro Marques about my shortness of breath, and no unnecessary tests were ordered. A same-day slot was found for me at Clínica Savassi Saúde when I called with a worrying symptom.
+
+Review 5 for Dr. Pedro Marques, Pulmonology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Policlínica Lourdes
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Pedro Marques was practical and never preachy. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Pedro Marques, Pulmonology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Policlínica Lourdes
+Description: The spirometry test was explained step by step, and Dr. Pedro Marques put the results in context with a clear picture of my lung function.
+
+Review 7 for Dr. Pedro Marques, Pulmonology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Clínica Savassi Saúde
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks.
+
+Review 8 for Dr. Pedro Marques, Pulmonology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Savassi Saúde
+Description: Quick appointment and a fair price in Belo Horizonte, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Pedro Marques adjusted my asthma medication well, but the breathing test appointment was a month away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Pedro Marques, Pulmonology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Clínica Savassi Saúde
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Belo Horizonte.
+
+Review 10 for Dr. Pedro Marques, Pulmonology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Policlínica Lourdes
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 11 for Dr. Pedro Marques, Pulmonology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Policlínica Lourdes
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Pedro Marques, Pulmonology, Belo Horizonte: 7.91/10 from 11 reviews

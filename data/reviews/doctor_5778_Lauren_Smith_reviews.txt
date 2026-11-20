@@ -1,0 +1,64 @@
+Doctor: Dr. Lauren Smith
+Doctor ID: 5778
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Female
+Years of experience: 9
+City: Johannesburg, South Africa
+Clinics: Rosebank Medical Rooms (clinic ID 746)
+
+Review 1 for Dr. Lauren Smith, Obstetrics and Gynecology (OB/GYN), Johannesburg
+Rating: 6/10
+Clinic visited: Rosebank Medical Rooms
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Lauren Smith, Obstetrics and Gynecology (OB/GYN), Johannesburg
+Rating: 9/10
+Clinic visited: Rosebank Medical Rooms
+Description: Excellent care with my endometriosis, including a detailed discussion of treatment options and a clear referral when I needed surgery.
+
+Review 3 for Dr. Lauren Smith, Obstetrics and Gynecology (OB/GYN), Johannesburg
+Rating: 8/10
+Clinic visited: Rosebank Medical Rooms
+Description: Prescriptions from Dr. Lauren Smith were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I appreciated being asked what I wanted from my birth experience before any decisions were made.
+
+Review 4 for Dr. Lauren Smith, Obstetrics and Gynecology (OB/GYN), Johannesburg
+Rating: 7/10
+Clinic visited: Rosebank Medical Rooms
+Description: The ultrasound images from Dr. Lauren Smith were great, but I had to call twice to get the written report. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Lauren Smith, Obstetrics and Gynecology (OB/GYN), Johannesburg
+Rating: 10/10
+Clinic visited: Rosebank Medical Rooms
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Lauren Smith, Obstetrics and Gynecology (OB/GYN), Johannesburg
+Rating: 8/10
+Clinic visited: Rosebank Medical Rooms
+Description: Sensitive questions were handled by Dr. Lauren Smith with discretion and without a hint of judgment. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Lauren Smith, Obstetrics and Gynecology (OB/GYN), Johannesburg
+Rating: 10/10
+Clinic visited: Rosebank Medical Rooms
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 8 for Dr. Lauren Smith, Obstetrics and Gynecology (OB/GYN), Johannesburg
+Rating: 8/10
+Clinic visited: Rosebank Medical Rooms
+Description: Fertility questions were handled with honesty about timelines and realistic options, and I never felt rushed. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Lauren Smith, Obstetrics and Gynecology (OB/GYN), Johannesburg
+Rating: 5/10
+Clinic visited: Rosebank Medical Rooms
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Lauren Smith, Obstetrics and Gynecology (OB/GYN), Johannesburg
+Rating: 6/10
+Clinic visited: Rosebank Medical Rooms
+Description: Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked. The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 11 for Dr. Lauren Smith, Obstetrics and Gynecology (OB/GYN), Johannesburg
+Rating: 7/10
+Clinic visited: Rosebank Medical Rooms
+Description: Dr. Lauren Smith explained my options well, though the office was often running an hour behind. Booking was easy online, but the confirmation email contained the wrong address for Rosebank Medical Rooms.
+
+Overall rating for Dr. Lauren Smith, Obstetrics and Gynecology (OB/GYN), Johannesburg: 7.64/10 from 11 reviews

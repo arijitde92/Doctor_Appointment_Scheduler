@@ -1,0 +1,59 @@
+Doctor: Dr. Maria Morel
+Doctor ID: 1791
+Specialization: Psychology
+Gender: Female
+Years of experience: 3
+City: Zurich, Switzerland
+Clinics: Hausarztpraxis Wiedikon Platz (clinic ID 234)
+
+Review 1 for Dr. Maria Morel, Psychology, Zurich
+Rating: 5/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Maria Morel, Psychology, Zurich
+Rating: 8/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Review 3 for Dr. Maria Morel, Psychology, Zurich
+Rating: 7/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. I liked the advice I got from Dr. Maria Morel, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Maria Morel, Psychology, Zurich
+Rating: 7/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Insightful and kind, though progress with Dr. Maria Morel felt slow, and I wished for more structured homework between sessions.
+
+Review 5 for Dr. Maria Morel, Psychology, Zurich
+Rating: 8/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: Dr. Maria Morel adapted the approach when the first method did not suit me, and that flexibility made all the difference. Getting to Hausarztpraxis Wiedikon Platz by public transport in Zurich was easy, and there is a step-free entrance for wheelchairs.
+
+Review 6 for Dr. Maria Morel, Psychology, Zurich
+Rating: 7/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. The first assessment was thorough, but I waited almost three weeks for a follow-up slot.
+
+Review 7 for Dr. Maria Morel, Psychology, Zurich
+Rating: 7/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 8 for Dr. Maria Morel, Psychology, Zurich
+Rating: 6/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Maria Morel, Psychology, Zurich
+Rating: 7/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: I got what I needed, but the next available appointment was three weeks away. My trauma work felt well paced, although the schedule changed several times at Hausarztpraxis Wiedikon Platz.
+
+Review 10 for Dr. Maria Morel, Psychology, Zurich
+Rating: 7/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: Booking was easy online, but the confirmation email contained the wrong address for Hausarztpraxis Wiedikon Platz. Dr. Maria Morel listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Overall rating for Dr. Maria Morel, Psychology, Zurich: 6.90/10 from 10 reviews

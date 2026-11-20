@@ -1,0 +1,64 @@
+Doctor: Dr. Tina Rasmussen
+Doctor ID: 2333
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 7
+City: Copenhagen, Denmark
+Clinics: Lægehuset Vesterbro Plus (clinic ID 305)
+
+Review 1 for Dr. Tina Rasmussen, Gastroenterology, Copenhagen
+Rating: 9/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 2 for Dr. Tina Rasmussen, Gastroenterology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: I came away understanding my condition better than I have in years of previous appointments. I was nervous about my screening, but the team at Lægehuset Vesterbro Plus made me feel at ease, and I was home within hours.
+
+Review 3 for Dr. Tina Rasmussen, Gastroenterology, Copenhagen
+Rating: 4/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: I was charged separately for several items that had been described as included in the procedure. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 4 for Dr. Tina Rasmussen, Gastroenterology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: Quick appointment and a fair price in Copenhagen, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 5 for Dr. Tina Rasmussen, Gastroenterology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Knowledgeable about my reflux, Dr. Tina Rasmussen still gave diet advice that felt generic and not tailored to my habits.
+
+Review 6 for Dr. Tina Rasmussen, Gastroenterology, Copenhagen
+Rating: 6/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The treatment plan from Dr. Tina Rasmussen made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Tina Rasmussen, Gastroenterology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 8 for Dr. Tina Rasmussen, Gastroenterology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: A same-day slot was found for me at Lægehuset Vesterbro Plus when I called with a worrying symptom.
+
+Review 9 for Dr. Tina Rasmussen, Gastroenterology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Tina Rasmussen, Gastroenterology, Copenhagen
+Rating: 6/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: Dr. Tina Rasmussen is thorough, but I waited nearly two months to get the first available slot.
+
+Review 11 for Dr. Tina Rasmussen, Gastroenterology, Copenhagen
+Rating: 4/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: After my endoscopy, nobody called with results and I had to chase the office repeatedly. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Overall rating for Dr. Tina Rasmussen, Gastroenterology, Copenhagen: 6.64/10 from 11 reviews

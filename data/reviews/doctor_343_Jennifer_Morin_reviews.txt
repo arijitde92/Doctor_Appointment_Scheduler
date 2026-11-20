@@ -1,0 +1,64 @@
+Doctor: Dr. Jennifer Morin
+Doctor ID: 343
+Specialization: Radiology
+Gender: Female
+Years of experience: 3
+City: Toronto, Canada
+Clinics: Etobicoke Care Clinic (clinic ID 48)
+
+Review 1 for Dr. Jennifer Morin, Radiology, Toronto
+Rating: 6/10
+Clinic visited: Etobicoke Care Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 2 for Dr. Jennifer Morin, Radiology, Toronto
+Rating: 9/10
+Clinic visited: Etobicoke Care Clinic
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 3 for Dr. Jennifer Morin, Radiology, Toronto
+Rating: 10/10
+Clinic visited: Etobicoke Care Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. The staff at Etobicoke Care Clinic in Toronto explained the contrast dye and its side effects before I signed anything. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Jennifer Morin, Radiology, Toronto
+Rating: 9/10
+Clinic visited: Etobicoke Care Clinic
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Booking a CT scan online at Etobicoke Care Clinic took two minutes, and I was in and out within forty minutes.
+
+Review 5 for Dr. Jennifer Morin, Radiology, Toronto
+Rating: 7/10
+Clinic visited: Etobicoke Care Clinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Booking was easy online, but the confirmation email contained the wrong address for Etobicoke Care Clinic. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Jennifer Morin, Radiology, Toronto
+Rating: 10/10
+Clinic visited: Etobicoke Care Clinic
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Parking was simple, the waiting room was calm, and I never felt like a number.
+
+Review 7 for Dr. Jennifer Morin, Radiology, Toronto
+Rating: 9/10
+Clinic visited: Etobicoke Care Clinic
+Description: Prescriptions from Dr. Jennifer Morin were sent to my pharmacy before I even left the building, and the dosage instructions were written down. She called me personally after my scan to explain the findings in plain language before I saw my own doctor. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Jennifer Morin, Radiology, Toronto
+Rating: 10/10
+Clinic visited: Etobicoke Care Clinic
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 9 for Dr. Jennifer Morin, Radiology, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: When my scan showed something that needed a second look, Dr. Jennifer Morin arranged the follow-up the same day. I was given a printed summary of the visit, which I shared with my family at home. This is the first doctor I have trusted completely in years.
+
+Review 10 for Dr. Jennifer Morin, Radiology, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: The practice in Toronto is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 11 for Dr. Jennifer Morin, Radiology, Toronto
+Rating: 10/10
+Clinic visited: Etobicoke Care Clinic
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Jennifer Morin were respectful throughout. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Jennifer Morin, Radiology, Toronto: 8.73/10 from 11 reviews

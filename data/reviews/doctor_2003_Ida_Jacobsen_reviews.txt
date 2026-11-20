@@ -1,0 +1,54 @@
+Doctor: Dr. Ida Jacobsen
+Doctor ID: 2003
+Specialization: Pathology
+Gender: Female
+Years of experience: 25
+City: Oslo, Norway
+Clinics: Helsehuset Storgata (clinic ID 261)
+
+Review 1 for Dr. Ida Jacobsen, Pathology, Oslo
+Rating: 9/10
+Clinic visited: Helsehuset Storgata
+Description: The biopsy report was returned in three days, and Dr. Ida Jacobsen took time on the phone to explain every term in it. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 2 for Dr. Ida Jacobsen, Pathology, Oslo
+Rating: 7/10
+Clinic visited: Helsehuset Storgata
+Description: Helpful in clarifying a borderline result, though Dr. Ida Jacobsen gave little guidance about whether to repeat it. Booking was easy online, but the confirmation email contained the wrong address for Helsehuset Storgata.
+
+Review 3 for Dr. Ida Jacobsen, Pathology, Oslo
+Rating: 6/10
+Clinic visited: Helsehuset Storgata
+Description: The blood draw was painless, but the waiting area at Helsehuset Storgata was crowded in the early morning. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Ida Jacobsen, Pathology, Oslo
+Rating: 6/10
+Clinic visited: Helsehuset Storgata
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Ida Jacobsen, Pathology, Oslo
+Rating: 7/10
+Clinic visited: Helsehuset Storgata
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Ida Jacobsen, Pathology, Oslo
+Rating: 8/10
+Clinic visited: Helsehuset Storgata
+Description: Dr. Ida Jacobsen double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Ida Jacobsen, Pathology, Oslo
+Rating: 6/10
+Clinic visited: Helsehuset Storgata
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 8 for Dr. Ida Jacobsen, Pathology, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Dr. Ida Jacobsen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 9 for Dr. Ida Jacobsen, Pathology, Oslo
+Rating: 7/10
+Clinic visited: Helsehuset Storgata
+Description: Dr. Ida Jacobsen answered my questions kindly, though the call back took three days.
+
+Overall rating for Dr. Ida Jacobsen, Pathology, Oslo: 6.78/10 from 9 reviews

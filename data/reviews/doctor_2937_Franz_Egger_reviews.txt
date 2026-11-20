@@ -1,0 +1,54 @@
+Doctor: Dr. Franz Egger
+Doctor ID: 2937
+Specialization: General
+Gender: Male
+Years of experience: 15
+City: Innsbruck, Austria
+Clinics: Medizinisches Zentrum Amras (clinic ID 383)
+
+Review 1 for Dr. Franz Egger, General, Innsbruck
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 2 for Dr. Franz Egger, General, Innsbruck
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: My blood pressure had crept up and Dr. Franz Egger walked me through diet changes before suggesting anything else. Three months later my readings were normal. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 3 for Dr. Franz Egger, General, Innsbruck
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: Dr. Franz Egger double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Franz Egger, General, Innsbruck
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: Booking was easy online, but the confirmation email contained the wrong address for Medizinisches Zentrum Amras. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Franz Egger, General, Innsbruck
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Franz Egger, General, Innsbruck
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: As a new patient in Innsbruck, I felt welcomed at Medizinisches Zentrum Amras, and my whole history was reviewed in one relaxed visit. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 7 for Dr. Franz Egger, General, Innsbruck
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. A same-day slot was found for me at Medizinisches Zentrum Amras when I called with a worrying symptom.
+
+Review 8 for Dr. Franz Egger, General, Innsbruck
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 9 for Dr. Franz Egger, General, Innsbruck
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: Managing my type 2 diabetes with Dr. Franz Egger has been steady and practical, with quarterly blood sugar reviews and no lectures. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Franz Egger, General, Innsbruck: 8.11/10 from 9 reviews

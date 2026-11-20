@@ -1,0 +1,54 @@
+Doctor: Dr. Víctor Vásquez
+Doctor ID: 961
+Specialization: Psychology
+Gender: Male
+Years of experience: 3
+City: Lima, Peru
+Clinics: Centro Médico Miraflores (clinic ID 126)
+
+Review 1 for Dr. Víctor Vásquez, Psychology, Lima
+Rating: 8/10
+Clinic visited: Centro Médico Miraflores
+Description: I never felt judged by Dr. Víctor Vásquez when talking about my burnout, and the sessions gave me language for things I could not explain before.
+
+Review 2 for Dr. Víctor Vásquez, Psychology, Lima
+Rating: 8/10
+Clinic visited: Centro Médico Miraflores
+Description: Everything was explained in plain English by Dr. Víctor Vásquez, and nothing was left to guess. Online sessions through Centro Médico Miraflores worked just as well as in-person ones, and the video link never once failed.
+
+Review 3 for Dr. Víctor Vásquez, Psychology, Lima
+Rating: 7/10
+Clinic visited: Centro Médico Miraflores
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot.
+
+Review 4 for Dr. Víctor Vásquez, Psychology, Lima
+Rating: 6/10
+Clinic visited: Centro Médico Miraflores
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Víctor Vásquez, Psychology, Lima
+Rating: 9/10
+Clinic visited: Centro Médico Miraflores
+Description: I appreciated the written summary Dr. Víctor Vásquez sent after each session and the short worksheets between visits. My test results arrived in the portal within two days, together with a short note that made sense. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Víctor Vásquez, Psychology, Lima
+Rating: 9/10
+Clinic visited: Centro Médico Miraflores
+Description: A translator was arranged for my mother without us asking twice, and Dr. Víctor Vásquez spoke directly to her throughout. He has a calm way of asking the difficult questions that makes it feel safe to answer honestly. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Víctor Vásquez, Psychology, Lima
+Rating: 9/10
+Clinic visited: Centro Médico Miraflores
+Description: I was called in within five minutes of my appointment time at Centro Médico Miraflores, which is rare and much appreciated. Helped me set boundaries with my family without any blame, and I have kept using those scripts for months. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Víctor Vásquez, Psychology, Lima
+Rating: 9/10
+Clinic visited: Centro Médico Miraflores
+Description: The office in Lima is quiet and private, and the receptionist never mentions anything in front of other patients. My whole family is switching over after seeing how good the care was.
+
+Review 9 for Dr. Víctor Vásquez, Psychology, Lima
+Rating: 10/10
+Clinic visited: Centro Médico Miraflores
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Overall rating for Dr. Víctor Vásquez, Psychology, Lima: 8.33/10 from 9 reviews

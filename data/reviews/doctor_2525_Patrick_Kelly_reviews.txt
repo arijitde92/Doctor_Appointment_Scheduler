@@ -1,0 +1,49 @@
+Doctor: Dr. Patrick Kelly
+Doctor ID: 2525
+Specialization: Cardiology
+Gender: Male
+Years of experience: 4
+City: Limerick, Ireland
+Clinics: O'Connell Street Medical Practice (clinic ID 330); Castletroy Family Clinic (clinic ID 331)
+
+Review 1 for Dr. Patrick Kelly, Cardiology, Limerick
+Rating: 9/10
+Clinic visited: O'Connell Street Medical Practice
+Description: The cardiology unit at O'Connell Street Medical Practice runs on time, and the technicians were professional during my echocardiogram. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 2 for Dr. Patrick Kelly, Cardiology, Limerick
+Rating: 4/10
+Clinic visited: Castletroy Family Clinic
+Description: My questions were answered by Dr. Patrick Kelly with short, vague replies, and I left without a clear plan. I was billed separately for tests that I understood to be part of the original consultation. I will not be returning and have already started looking for another doctor.
+
+Review 3 for Dr. Patrick Kelly, Cardiology, Limerick
+Rating: 7/10
+Clinic visited: Castletroy Family Clinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 4 for Dr. Patrick Kelly, Cardiology, Limerick
+Rating: 9/10
+Clinic visited: Castletroy Family Clinic
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. Prescriptions from Dr. Patrick Kelly were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 5 for Dr. Patrick Kelly, Cardiology, Limerick
+Rating: 8/10
+Clinic visited: Castletroy Family Clinic
+Description: Paperwork at Castletroy Family Clinic was kept to a minimum, and the staff helped me complete the insurance form. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 6 for Dr. Patrick Kelly, Cardiology, Limerick
+Rating: 7/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Patrick Kelly, Cardiology, Limerick
+Rating: 10/10
+Clinic visited: O'Connell Street Medical Practice
+Description: My atrial fibrillation is well managed by Dr. Patrick Kelly, and I know exactly what symptoms mean I should call. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Patrick Kelly, Cardiology, Limerick
+Rating: 8/10
+Clinic visited: O'Connell Street Medical Practice
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Overall rating for Dr. Patrick Kelly, Cardiology, Limerick: 7.75/10 from 8 reviews

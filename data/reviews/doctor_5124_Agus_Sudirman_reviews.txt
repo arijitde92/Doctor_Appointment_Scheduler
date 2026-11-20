@@ -1,0 +1,49 @@
+Doctor: Dr. Agus Sudirman
+Doctor ID: 5124
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 2
+City: Denpasar, Indonesia
+Clinics: Klinik Amanah Medika (clinic ID 662)
+
+Review 1 for Dr. Agus Sudirman, Pediatrics, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Amanah Medika
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. I liked the advice I got from Dr. Agus Sudirman, but I would have liked more time to ask follow-up questions before the visit ended. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Agus Sudirman, Pediatrics, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Amanah Medika
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 3 for Dr. Agus Sudirman, Pediatrics, Denpasar
+Rating: 8/10
+Clinic visited: Klinik Amanah Medika
+Description: The waiting room in Denpasar has a play corner and separate seating for sick children, which I really valued. Sensitive questions were handled by Dr. Agus Sudirman with discretion and without a hint of judgment.
+
+Review 4 for Dr. Agus Sudirman, Pediatrics, Denpasar
+Rating: 6/10
+Clinic visited: Klinik Amanah Medika
+Description: Dr. Agus Sudirman was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Agus Sudirman, Pediatrics, Denpasar
+Rating: 8/10
+Clinic visited: Klinik Amanah Medika
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 6 for Dr. Agus Sudirman, Pediatrics, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Amanah Medika
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Agus Sudirman, Pediatrics, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Amanah Medika
+Description: Caring and gentle with my child, Dr. Agus Sudirman nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 8 for Dr. Agus Sudirman, Pediatrics, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Amanah Medika
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Agus Sudirman, Pediatrics, Denpasar: 7.12/10 from 8 reviews

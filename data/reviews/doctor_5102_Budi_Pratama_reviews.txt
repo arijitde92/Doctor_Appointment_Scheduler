@@ -1,0 +1,59 @@
+Doctor: Dr. Budi Pratama
+Doctor ID: 5102
+Specialization: Cardiology
+Gender: Male
+Years of experience: 4
+City: Bandung, Indonesia
+Clinics: Klinik Permata Sehat (clinic ID 659)
+
+Review 1 for Dr. Budi Pratama, Cardiology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Permata Sehat
+Description: Good bedside manner from Dr. Budi Pratama, but the parking near Klinik Permata Sehat is limited and I had to circle for fifteen minutes. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 2 for Dr. Budi Pratama, Cardiology, Bandung
+Rating: 10/10
+Clinic visited: Klinik Permata Sehat
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. Prescriptions from Dr. Budi Pratama were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 3 for Dr. Budi Pratama, Cardiology, Bandung
+Rating: 10/10
+Clinic visited: Klinik Permata Sehat
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Honest about the risks and benefits of the procedure, Dr. Budi Pratama never pressured me toward surgery.
+
+Review 4 for Dr. Budi Pratama, Cardiology, Bandung
+Rating: 10/10
+Clinic visited: Klinik Permata Sehat
+Description: A translator was arranged for my mother without us asking twice, and Dr. Budi Pratama spoke directly to her throughout.
+
+Review 5 for Dr. Budi Pratama, Cardiology, Bandung
+Rating: 9/10
+Clinic visited: Klinik Permata Sehat
+Description: After my palpitations began, Dr. Budi Pratama arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Budi Pratama, Cardiology, Bandung
+Rating: 10/10
+Clinic visited: Klinik Permata Sehat
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 7 for Dr. Budi Pratama, Cardiology, Bandung
+Rating: 10/10
+Clinic visited: Klinik Permata Sehat
+Description: Getting to Klinik Permata Sehat by public transport in Bandung was easy, and there is a step-free entrance for wheelchairs. Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 8 for Dr. Budi Pratama, Cardiology, Bandung
+Rating: 9/10
+Clinic visited: Klinik Permata Sehat
+Description: My atrial fibrillation is well managed by Dr. Budi Pratama, and I know exactly what symptoms mean I should call. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 9 for Dr. Budi Pratama, Cardiology, Bandung
+Rating: 10/10
+Clinic visited: Klinik Permata Sehat
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 10 for Dr. Budi Pratama, Cardiology, Bandung
+Rating: 9/10
+Clinic visited: Klinik Permata Sehat
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Budi Pratama felt well organized from start to finish. He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Overall rating for Dr. Budi Pratama, Cardiology, Bandung: 9.40/10 from 10 reviews

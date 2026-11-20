@@ -1,0 +1,49 @@
+Doctor: Dr. Alexandre Campbell
+Doctor ID: 311
+Specialization: Cardiology
+Gender: Male
+Years of experience: 28
+City: Montreal, Canada
+Clinics: Polyclinique du Parc (clinic ID 43)
+
+Review 1 for Dr. Alexandre Campbell, Cardiology, Montreal
+Rating: 9/10
+Clinic visited: Polyclinique du Parc
+Description: Dr. Alexandre Campbell looked me in the eye, listened to the whole story and only then started typing. Seeing Dr. Alexandre Campbell in Montreal meant my whole family history was reviewed, and now my sister is being screened too. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Alexandre Campbell, Cardiology, Montreal
+Rating: 9/10
+Clinic visited: Polyclinique du Parc
+Description: My stress test was supervised carefully, and Dr. Alexandre Campbell reviewed the results in the same visit with a plan for my cholesterol. Everything was explained in plain English by Dr. Alexandre Campbell, and nothing was left to guess. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Alexandre Campbell, Cardiology, Montreal
+Rating: 6/10
+Clinic visited: Polyclinique du Parc
+Description: Dr. Alexandre Campbell adjusted my blood pressure medication carefully, though I had to call twice for a refill. I liked the advice I got from Dr. Alexandre Campbell, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Alexandre Campbell, Cardiology, Montreal
+Rating: 9/10
+Clinic visited: Polyclinique du Parc
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Alexandre Campbell, Cardiology, Montreal
+Rating: 6/10
+Clinic visited: Polyclinique du Parc
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Alexandre Campbell, Cardiology, Montreal
+Rating: 8/10
+Clinic visited: Polyclinique du Parc
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Alexandre Campbell, Cardiology, Montreal
+Rating: 4/10
+Clinic visited: Polyclinique du Parc
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. I was billed separately for tests that I understood to be part of the original consultation. I left disappointed and will take my business to another clinic.
+
+Review 8 for Dr. Alexandre Campbell, Cardiology, Montreal
+Rating: 6/10
+Clinic visited: Polyclinique du Parc
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Alexandre Campbell, Cardiology, Montreal: 7.12/10 from 8 reviews

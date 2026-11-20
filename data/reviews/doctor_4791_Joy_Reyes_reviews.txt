@@ -1,0 +1,54 @@
+Doctor: Dr. Joy Reyes
+Doctor ID: 4791
+Specialization: Radiology
+Gender: Female
+Years of experience: 8
+City: Cebu City, Philippines
+Clinics: Klinika Ligaya (clinic ID 619)
+
+Review 1 for Dr. Joy Reyes, Radiology, Cebu City
+Rating: 9/10
+Clinic visited: Klinika Ligaya
+Description: The waiting room at Klinika Ligaya was clean, quiet and comfortable, with enough seating and water available. I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 2 for Dr. Joy Reyes, Radiology, Cebu City
+Rating: 8/10
+Clinic visited: Klinika Ligaya
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 3 for Dr. Joy Reyes, Radiology, Cebu City
+Rating: 9/10
+Clinic visited: Klinika Ligaya
+Description: Images from Klinika Ligaya were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 4 for Dr. Joy Reyes, Radiology, Cebu City
+Rating: 9/10
+Clinic visited: Klinika Ligaya
+Description: I appreciated that she offered more than one option and let me choose what suited my life. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Joy Reyes, Radiology, Cebu City
+Rating: 10/10
+Clinic visited: Klinika Ligaya
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. My test results arrived in the portal within two days, together with a short note that made sense. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Joy Reyes, Radiology, Cebu City
+Rating: 9/10
+Clinic visited: Klinika Ligaya
+Description: Booking a CT scan online at Klinika Ligaya took two minutes, and I was in and out within forty minutes. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 7 for Dr. Joy Reyes, Radiology, Cebu City
+Rating: 8/10
+Clinic visited: Klinika Ligaya
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 8 for Dr. Joy Reyes, Radiology, Cebu City
+Rating: 8/10
+Clinic visited: Klinika Ligaya
+Description: Getting to Klinika Ligaya by public transport in Cebu City was easy, and there is a step-free entrance for wheelchairs.
+
+Review 9 for Dr. Joy Reyes, Radiology, Cebu City
+Rating: 10/10
+Clinic visited: Klinika Ligaya
+Description: Reviewing my X-ray together with Dr. Joy Reyes on the screen made it much easier to understand my arthritis. The nurse was friendly and efficient, and the whole visit with Dr. Joy Reyes felt well organized from start to finish.
+
+Overall rating for Dr. Joy Reyes, Radiology, Cebu City: 8.89/10 from 9 reviews

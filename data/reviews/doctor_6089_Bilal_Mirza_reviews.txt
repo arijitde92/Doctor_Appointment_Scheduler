@@ -1,0 +1,54 @@
+Doctor: Dr. Bilal Mirza
+Doctor ID: 6089
+Specialization: Neurology
+Gender: Male
+Years of experience: 3
+City: Dubai, UAE
+Clinics: Jumeirah Dunes Medical Centre (clinic ID 786); Business Bay Care Polyclinic (clinic ID 787); Al Barsha Wellness Clinic (clinic ID 789)
+
+Review 1 for Dr. Bilal Mirza, Neurology, Dubai
+Rating: 7/10
+Clinic visited: Business Bay Care Polyclinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 2 for Dr. Bilal Mirza, Neurology, Dubai
+Rating: 6/10
+Clinic visited: Business Bay Care Polyclinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 3 for Dr. Bilal Mirza, Neurology, Dubai
+Rating: 7/10
+Clinic visited: Jumeirah Dunes Medical Centre
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Bilal Mirza, Neurology, Dubai
+Rating: 7/10
+Clinic visited: Business Bay Care Polyclinic
+Description: Dr. Bilal Mirza explained my results well, although the visit felt short for such a complex condition. Booking was easy online, but the confirmation email contained the wrong address for Business Bay Care Polyclinic.
+
+Review 5 for Dr. Bilal Mirza, Neurology, Dubai
+Rating: 6/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: The treatment plan from Dr. Bilal Mirza made sense, but I wished it had been written down for me to take away. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Bilal Mirza, Neurology, Dubai
+Rating: 10/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: The EEG appointment ran on time, and Dr. Bilal Mirza reviewed the tracing with me the same week. Paperwork at Al Barsha Wellness Clinic was kept to a minimum, and the staff helped me complete the insurance form. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Bilal Mirza, Neurology, Dubai
+Rating: 8/10
+Clinic visited: Jumeirah Dunes Medical Centre
+Description: I always leave Dr. Bilal Mirza's office with a short written summary of changes, which helps my family keep up. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Bilal Mirza, Neurology, Dubai
+Rating: 9/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: I appreciated that he offered more than one option and let me choose what suited my life. The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 9 for Dr. Bilal Mirza, Neurology, Dubai
+Rating: 8/10
+Clinic visited: Jumeirah Dunes Medical Centre
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Overall rating for Dr. Bilal Mirza, Neurology, Dubai: 7.56/10 from 9 reviews

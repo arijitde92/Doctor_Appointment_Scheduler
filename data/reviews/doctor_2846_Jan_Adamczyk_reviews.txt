@@ -1,0 +1,54 @@
+Doctor: Dr. Jan Adamczyk
+Doctor ID: 2846
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 22
+City: Wroclaw, Poland
+Clinics: Poliklinika Odra Wrocław (clinic ID 372)
+
+Review 1 for Dr. Jan Adamczyk, Orthopedic, Wroclaw
+Rating: 4/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: After my fracture, nobody explained the cast care, and I ended up back in the clinic with skin irritation. There was no translator available, and my parent was left unable to follow what was being said. I will not be returning and have already started looking for another doctor.
+
+Review 2 for Dr. Jan Adamczyk, Orthopedic, Wroclaw
+Rating: 6/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The cast was applied well, but the instructions for showering and sleeping were rushed. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Jan Adamczyk, Orthopedic, Wroclaw
+Rating: 5/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: Dr. Jan Adamczyk explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Dr. Jan Adamczyk was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Jan Adamczyk, Orthopedic, Wroclaw
+Rating: 6/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: Very skilled with my knee, but Dr. Jan Adamczyk's clinic runs behind and the wait was over an hour. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Jan Adamczyk, Orthopedic, Wroclaw
+Rating: 5/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: Booking was easy online, but the confirmation email contained the wrong address for Poliklinika Odra Wrocław.
+
+Review 6 for Dr. Jan Adamczyk, Orthopedic, Wroclaw
+Rating: 7/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Jan Adamczyk, Orthopedic, Wroclaw
+Rating: 6/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. I liked the advice I got from Dr. Jan Adamczyk, but I would have liked more time to ask follow-up questions before the visit ended. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Jan Adamczyk, Orthopedic, Wroclaw
+Rating: 7/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Jan Adamczyk, Orthopedic, Wroclaw
+Rating: 4/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: Dr. Jan Adamczyk did not seem to have read my notes and asked me to repeat my whole history from the beginning. The appointment lasted five minutes and ended with an injection I had not agreed to beforehand. I expected more, and I cannot in good conscience recommend it to friends.
+
+Overall rating for Dr. Jan Adamczyk, Orthopedic, Wroclaw: 5.56/10 from 9 reviews

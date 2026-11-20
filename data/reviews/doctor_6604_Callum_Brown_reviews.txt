@@ -1,0 +1,49 @@
+Doctor: Dr. Callum Brown
+Doctor ID: 6604
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 26
+City: Auckland, New Zealand
+Clinics: Pohutukawa Medical Centre (clinic ID 856)
+
+Review 1 for Dr. Callum Brown, Gastroenterology, Auckland
+Rating: 9/10
+Clinic visited: Pohutukawa Medical Centre
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 2 for Dr. Callum Brown, Gastroenterology, Auckland
+Rating: 9/10
+Clinic visited: Pohutukawa Medical Centre
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 3 for Dr. Callum Brown, Gastroenterology, Auckland
+Rating: 7/10
+Clinic visited: Pohutukawa Medical Centre
+Description: Booking was easy online, but the confirmation email contained the wrong address for Pohutukawa Medical Centre.
+
+Review 4 for Dr. Callum Brown, Gastroenterology, Auckland
+Rating: 9/10
+Clinic visited: Pohutukawa Medical Centre
+Description: I get regular check-ups for my Crohn's disease, and Dr. Callum Brown adjusts my treatment carefully and always explains why.
+
+Review 5 for Dr. Callum Brown, Gastroenterology, Auckland
+Rating: 10/10
+Clinic visited: Pohutukawa Medical Centre
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. The nurse was friendly and efficient, and the whole visit with Dr. Callum Brown felt well organized from start to finish.
+
+Review 6 for Dr. Callum Brown, Gastroenterology, Auckland
+Rating: 7/10
+Clinic visited: Pohutukawa Medical Centre
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Callum Brown, Gastroenterology, Auckland
+Rating: 9/10
+Clinic visited: Pohutukawa Medical Centre
+Description: A gentle, respectful manner from Dr. Callum Brown made a very awkward exam bearable, with every step explained before it happened.
+
+Review 8 for Dr. Callum Brown, Gastroenterology, Auckland
+Rating: 8/10
+Clinic visited: Pohutukawa Medical Centre
+Description: Everything was explained in plain English by Dr. Callum Brown, and nothing was left to guess. Dr. Callum Brown took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards.
+
+Overall rating for Dr. Callum Brown, Gastroenterology, Auckland: 8.50/10 from 8 reviews

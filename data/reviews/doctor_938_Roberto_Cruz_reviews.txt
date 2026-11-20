@@ -1,0 +1,54 @@
+Doctor: Dr. Roberto Cruz
+Doctor ID: 938
+Specialization: General
+Gender: Male
+Years of experience: 30
+City: Cusco, Peru
+Clinics: Policlínica Collasuyo (clinic ID 123)
+
+Review 1 for Dr. Roberto Cruz, General, Cusco
+Rating: 8/10
+Clinic visited: Policlínica Collasuyo
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 2 for Dr. Roberto Cruz, General, Cusco
+Rating: 7/10
+Clinic visited: Policlínica Collasuyo
+Description: I liked the advice I got from Dr. Roberto Cruz, but I would have liked more time to ask follow-up questions before the visit ended. Dr. Roberto Cruz is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 3 for Dr. Roberto Cruz, General, Cusco
+Rating: 9/10
+Clinic visited: Policlínica Collasuyo
+Description: Dr. Roberto Cruz spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. The waiting room at Policlínica Collasuyo was clean, quiet and comfortable, with enough seating and water available. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Roberto Cruz, General, Cusco
+Rating: 6/10
+Clinic visited: Policlínica Collasuyo
+Description: Referrals from Dr. Roberto Cruz are handled well, but getting test results back took longer than I was told to expect. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Roberto Cruz, General, Cusco
+Rating: 6/10
+Clinic visited: Policlínica Collasuyo
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Roberto Cruz, General, Cusco
+Rating: 5/10
+Clinic visited: Policlínica Collasuyo
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Roberto Cruz, General, Cusco
+Rating: 6/10
+Clinic visited: Policlínica Collasuyo
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 8 for Dr. Roberto Cruz, General, Cusco
+Rating: 5/10
+Clinic visited: Policlínica Collasuyo
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 9 for Dr. Roberto Cruz, General, Cusco
+Rating: 7/10
+Clinic visited: Policlínica Collasuyo
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Roberto Cruz, General, Cusco: 6.56/10 from 9 reviews

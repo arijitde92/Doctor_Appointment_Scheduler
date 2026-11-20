@@ -1,0 +1,59 @@
+Doctor: Dr. Liam Green
+Doctor ID: 1183
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 10
+City: Manchester, UK
+Clinics: Chorlton Green Health Practice (clinic ID 154)
+
+Review 1 for Dr. Liam Green, Gastroenterology, Manchester
+Rating: 5/10
+Clinic visited: Chorlton Green Health Practice
+Description: I liked the advice I got from Dr. Liam Green, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Liam Green, Gastroenterology, Manchester
+Rating: 6/10
+Clinic visited: Chorlton Green Health Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Liam Green, Gastroenterology, Manchester
+Rating: 5/10
+Clinic visited: Chorlton Green Health Practice
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Liam Green, Gastroenterology, Manchester
+Rating: 4/10
+Clinic visited: Chorlton Green Health Practice
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. After my endoscopy, nobody called with results and I had to chase the office repeatedly.
+
+Review 5 for Dr. Liam Green, Gastroenterology, Manchester
+Rating: 4/10
+Clinic visited: Chorlton Green Health Practice
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 6 for Dr. Liam Green, Gastroenterology, Manchester
+Rating: 5/10
+Clinic visited: Chorlton Green Health Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Knowledgeable about my reflux, Dr. Liam Green still gave diet advice that felt generic and not tailored to my habits.
+
+Review 7 for Dr. Liam Green, Gastroenterology, Manchester
+Rating: 7/10
+Clinic visited: Chorlton Green Health Practice
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 8 for Dr. Liam Green, Gastroenterology, Manchester
+Rating: 4/10
+Clinic visited: Chorlton Green Health Practice
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 9 for Dr. Liam Green, Gastroenterology, Manchester
+Rating: 4/10
+Clinic visited: Chorlton Green Health Practice
+Description: I was charged separately for several items that had been described as included in the procedure.
+
+Review 10 for Dr. Liam Green, Gastroenterology, Manchester
+Rating: 4/10
+Clinic visited: Chorlton Green Health Practice
+Description: Dr. Liam Green spent very little time explaining the biopsy findings and I left worried and confused. I left disappointed and will take my business to another clinic.
+
+Overall rating for Dr. Liam Green, Gastroenterology, Manchester: 4.80/10 from 10 reviews

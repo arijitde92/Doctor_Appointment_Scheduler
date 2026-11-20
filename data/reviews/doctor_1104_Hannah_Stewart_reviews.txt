@@ -1,0 +1,69 @@
+Doctor: Dr. Hannah Stewart
+Doctor ID: 1104
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 23
+City: London, UK
+Clinics: Covent Garden Family Health Practice (clinic ID 145); Cabot Square Medical Centre (clinic ID 146)
+
+Review 1 for Dr. Hannah Stewart, Orthopedic, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Dr. Hannah Stewart used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 2 for Dr. Hannah Stewart, Orthopedic, London
+Rating: 8/10
+Clinic visited: Cabot Square Medical Centre
+Description: Seen the same day at Cabot Square Medical Centre after a bad ankle sprain, with an X-ray done and a brace fitted before I left. The waiting room at Cabot Square Medical Centre was clean, quiet and comfortable, with enough seating and water available. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Hannah Stewart, Orthopedic, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Follow-up scans were compared with the earlier ones, and Dr. Hannah Stewart showed me how the bone had healed.
+
+Review 4 for Dr. Hannah Stewart, Orthopedic, London
+Rating: 6/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Dr. Hannah Stewart explained surgery options clearly, though the physiotherapy referral took weeks to arrive. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Hannah Stewart, Orthopedic, London
+Rating: 10/10
+Clinic visited: Cabot Square Medical Centre
+Description: She set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up.
+
+Review 6 for Dr. Hannah Stewart, Orthopedic, London
+Rating: 7/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 7 for Dr. Hannah Stewart, Orthopedic, London
+Rating: 4/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Dr. Hannah Stewart seemed to dismiss my concerns about swelling after the operation, and I had to go elsewhere.
+
+Review 8 for Dr. Hannah Stewart, Orthopedic, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Dr. Hannah Stewart looked me in the eye, listened to the whole story and only then started typing.
+
+Review 9 for Dr. Hannah Stewart, Orthopedic, London
+Rating: 6/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Hannah Stewart, Orthopedic, London
+Rating: 6/10
+Clinic visited: Covent Garden Family Health Practice
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 11 for Dr. Hannah Stewart, Orthopedic, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: I appreciated Dr. Hannah Stewart's honest comparison between injections, therapy and surgery for my hip pain.
+
+Review 12 for Dr. Hannah Stewart, Orthopedic, London
+Rating: 7/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Quick appointment and a fair price in London, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Hannah Stewart, Orthopedic, London: 7.17/10 from 12 reviews

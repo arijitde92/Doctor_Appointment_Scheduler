@@ -1,0 +1,49 @@
+Doctor: Dr. Claudio Lombardi
+Doctor ID: 3382
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 2
+City: Florence, Italy
+Clinics: Poliambulatorio Novoli (clinic ID 439)
+
+Review 1 for Dr. Claudio Lombardi, Pediatrics, Florence
+Rating: 5/10
+Clinic visited: Poliambulatorio Novoli
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 2 for Dr. Claudio Lombardi, Pediatrics, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Novoli
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 3 for Dr. Claudio Lombardi, Pediatrics, Florence
+Rating: 6/10
+Clinic visited: Poliambulatorio Novoli
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Claudio Lombardi, Pediatrics, Florence
+Rating: 6/10
+Clinic visited: Poliambulatorio Novoli
+Description: Caring and gentle with my child, Dr. Claudio Lombardi nonetheless ran forty minutes behind schedule at most appointments. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Claudio Lombardi, Pediatrics, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Novoli
+Description: The growth chart review was detailed, and I appreciated that Dr. Claudio Lombardi talked to my child as well as to me.
+
+Review 6 for Dr. Claudio Lombardi, Pediatrics, Florence
+Rating: 10/10
+Clinic visited: Poliambulatorio Novoli
+Description: My toddler was terrified of doctors, but Dr. Claudio Lombardi sat on the floor, played with a stuffed toy and examined everything without a single tear.
+
+Review 7 for Dr. Claudio Lombardi, Pediatrics, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Novoli
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Claudio Lombardi, Pediatrics, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Novoli
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Overall rating for Dr. Claudio Lombardi, Pediatrics, Florence: 7.38/10 from 8 reviews

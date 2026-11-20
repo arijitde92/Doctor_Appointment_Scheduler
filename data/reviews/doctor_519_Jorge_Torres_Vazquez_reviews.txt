@@ -1,0 +1,54 @@
+Doctor: Dr. Jorge Torres Vázquez
+Doctor ID: 519
+Specialization: Pathology
+Gender: Male
+Years of experience: 11
+City: Puebla, Mexico
+Clinics: Clínica Angelópolis (clinic ID 70); Centro Médico La Paz Poblano (clinic ID 71)
+
+Review 1 for Dr. Jorge Torres Vázquez, Pathology, Puebla
+Rating: 7/10
+Clinic visited: Clínica Angelópolis
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Jorge Torres Vázquez, Pathology, Puebla
+Rating: 7/10
+Clinic visited: Clínica Angelópolis
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Jorge Torres Vázquez, Pathology, Puebla
+Rating: 6/10
+Clinic visited: Clínica Angelópolis
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Jorge Torres Vázquez, Pathology, Puebla
+Rating: 9/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 5 for Dr. Jorge Torres Vázquez, Pathology, Puebla
+Rating: 8/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: Fast turnaround at Centro Médico La Paz Poblano on my thyroid panel, with results in my online account by the next morning. The receptionist at Centro Médico La Paz Poblano remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 6 for Dr. Jorge Torres Vázquez, Pathology, Puebla
+Rating: 7/10
+Clinic visited: Clínica Angelópolis
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The blood draw was painless, but the waiting area at Clínica Angelópolis was crowded in the early morning.
+
+Review 7 for Dr. Jorge Torres Vázquez, Pathology, Puebla
+Rating: 9/10
+Clinic visited: Clínica Angelópolis
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Puebla. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Jorge Torres Vázquez, Pathology, Puebla
+Rating: 6/10
+Clinic visited: Clínica Angelópolis
+Description: I got what I needed, but the next available appointment was three weeks away. Helpful in clarifying a borderline result, though Dr. Jorge Torres Vázquez gave little guidance about whether to repeat it.
+
+Review 9 for Dr. Jorge Torres Vázquez, Pathology, Puebla
+Rating: 9/10
+Clinic visited: Clínica Angelópolis
+Description: The practice in Puebla is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Overall rating for Dr. Jorge Torres Vázquez, Pathology, Puebla: 7.56/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. He Long
+Doctor ID: 3987
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 3
+City: Shenzhen, China
+Clinics: Longgang Renhe Medical Clinic (clinic ID 514)
+
+Review 1 for Dr. He Long, Orthopedic, Shenzhen
+Rating: 5/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: The treatment plan from Dr. He Long made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. He Long, Orthopedic, Shenzhen
+Rating: 7/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 3 for Dr. He Long, Orthopedic, Shenzhen
+Rating: 7/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. He Long, Orthopedic, Shenzhen
+Rating: 6/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. He Long, Orthopedic, Shenzhen
+Rating: 9/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Dr. He Long looked me in the eye, listened to the whole story and only then started typing. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. He Long, Orthopedic, Shenzhen
+Rating: 7/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. I liked the advice I got from Dr. He Long, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. He Long, Orthopedic, Shenzhen
+Rating: 8/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: A same-day slot was found for me at Longgang Renhe Medical Clinic when I called with a worrying symptom.
+
+Review 8 for Dr. He Long, Orthopedic, Shenzhen
+Rating: 7/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Quick appointment and a fair price in Shenzhen, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. He Long, Orthopedic, Shenzhen: 7.00/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Jessica Anderson
+Doctor ID: 6508
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 12
+City: Melbourne, Australia
+Clinics: Parkside Family Clinic (clinic ID 842)
+
+Review 1 for Dr. Jessica Anderson, Pulmonology, Melbourne
+Rating: 4/10
+Clinic visited: Parkside Family Clinic
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 2 for Dr. Jessica Anderson, Pulmonology, Melbourne
+Rating: 6/10
+Clinic visited: Parkside Family Clinic
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Booking was easy online, but the confirmation email contained the wrong address for Parkside Family Clinic.
+
+Review 3 for Dr. Jessica Anderson, Pulmonology, Melbourne
+Rating: 7/10
+Clinic visited: Parkside Family Clinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Jessica Anderson, Pulmonology, Melbourne
+Rating: 6/10
+Clinic visited: Parkside Family Clinic
+Description: The treatment plan from Dr. Jessica Anderson made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Jessica Anderson, Pulmonology, Melbourne
+Rating: 8/10
+Clinic visited: Parkside Family Clinic
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. At my visit, Dr. Jessica Anderson took notes on my medication list, checked for interactions and explained the changes simply. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Jessica Anderson, Pulmonology, Melbourne
+Rating: 7/10
+Clinic visited: Parkside Family Clinic
+Description: Helpful and honest about my prognosis, Dr. Jessica Anderson could still have given me more written material to take home. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Jessica Anderson, Pulmonology, Melbourne
+Rating: 7/10
+Clinic visited: Parkside Family Clinic
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 8 for Dr. Jessica Anderson, Pulmonology, Melbourne
+Rating: 9/10
+Clinic visited: Parkside Family Clinic
+Description: After years of poorly controlled asthma, Dr. Jessica Anderson reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Overall rating for Dr. Jessica Anderson, Pulmonology, Melbourne: 6.75/10 from 8 reviews

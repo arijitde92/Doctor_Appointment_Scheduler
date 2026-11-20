@@ -1,0 +1,64 @@
+Doctor: Dr. Carlos García
+Doctor ID: 973
+Specialization: Neurology
+Gender: Male
+Years of experience: 5
+City: Lima, Peru
+Clinics: Policlínica Benavides (clinic ID 127)
+
+Review 1 for Dr. Carlos García, Neurology, Lima
+Rating: 9/10
+Clinic visited: Policlínica Benavides
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 2 for Dr. Carlos García, Neurology, Lima
+Rating: 10/10
+Clinic visited: Policlínica Benavides
+Description: Getting a same-month appointment in Lima for my sudden headaches was a real relief, and the work-up was prompt. Never once did I feel rushed, even though the clinic was clearly busy that morning. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Carlos García, Neurology, Lima
+Rating: 9/10
+Clinic visited: Policlínica Benavides
+Description: Clear and honest talk with Dr. Carlos García about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Review 4 for Dr. Carlos García, Neurology, Lima
+Rating: 9/10
+Clinic visited: Policlínica Benavides
+Description: Appointment reminders came by text and email, and rescheduling took two taps. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Carlos García, Neurology, Lima
+Rating: 10/10
+Clinic visited: Policlínica Benavides
+Description: I always leave Dr. Carlos García's office with a short written summary of changes, which helps my family keep up. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 6 for Dr. Carlos García, Neurology, Lima
+Rating: 10/10
+Clinic visited: Policlínica Benavides
+Description: The practice in Lima is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. The memory assessment for my father at Policlínica Benavides was gentle and respectful, and the family received a clear written summary.
+
+Review 7 for Dr. Carlos García, Neurology, Lima
+Rating: 9/10
+Clinic visited: Policlínica Benavides
+Description: Dr. Carlos García took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Carlos García, Neurology, Lima
+Rating: 10/10
+Clinic visited: Policlínica Benavides
+Description: The neurological exam by Dr. Carlos García was thorough, with every reflex test and gait check explained as it happened.
+
+Review 9 for Dr. Carlos García, Neurology, Lima
+Rating: 8/10
+Clinic visited: Policlínica Benavides
+Description: Prescriptions from Dr. Carlos García were sent to my pharmacy before I even left the building, and the dosage instructions were written down. After years of migraines, Dr. Carlos García built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer.
+
+Review 10 for Dr. Carlos García, Neurology, Lima
+Rating: 9/10
+Clinic visited: Policlínica Benavides
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 11 for Dr. Carlos García, Neurology, Lima
+Rating: 10/10
+Clinic visited: Policlínica Benavides
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Living with multiple sclerosis feels less frightening because Dr. Carlos García explains and discusses every change in my plan. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Carlos García, Neurology, Lima: 9.36/10 from 11 reviews

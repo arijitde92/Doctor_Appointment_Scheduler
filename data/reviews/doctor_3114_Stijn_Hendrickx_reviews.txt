@@ -1,0 +1,49 @@
+Doctor: Dr. Stijn Hendrickx
+Doctor ID: 3114
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 30
+City: Brussels, Belgium
+Clinics: Clinique du Parvis (clinic ID 404)
+
+Review 1 for Dr. Stijn Hendrickx, Pulmonology, Brussels
+Rating: 7/10
+Clinic visited: Clinique du Parvis
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 2 for Dr. Stijn Hendrickx, Pulmonology, Brussels
+Rating: 7/10
+Clinic visited: Clinique du Parvis
+Description: Helpful and honest about my prognosis, Dr. Stijn Hendrickx could still have given me more written material to take home.
+
+Review 3 for Dr. Stijn Hendrickx, Pulmonology, Brussels
+Rating: 9/10
+Clinic visited: Clinique du Parvis
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. At Clinique du Parvis, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Stijn Hendrickx, Pulmonology, Brussels
+Rating: 10/10
+Clinic visited: Clinique du Parvis
+Description: He called personally with my scan results and walked me through what the findings did and did not mean. Dr. Stijn Hendrickx drew a quick sketch to explain what was going on, which helped me remember it afterwards. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Stijn Hendrickx, Pulmonology, Brussels
+Rating: 8/10
+Clinic visited: Clinique du Parvis
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 6 for Dr. Stijn Hendrickx, Pulmonology, Brussels
+Rating: 10/10
+Clinic visited: Clinique du Parvis
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. The practice in Brussels is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Stijn Hendrickx, Pulmonology, Brussels
+Rating: 7/10
+Clinic visited: Clinique du Parvis
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Stijn Hendrickx adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 8 for Dr. Stijn Hendrickx, Pulmonology, Brussels
+Rating: 7/10
+Clinic visited: Clinique du Parvis
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Overall rating for Dr. Stijn Hendrickx, Pulmonology, Brussels: 8.12/10 from 8 reviews

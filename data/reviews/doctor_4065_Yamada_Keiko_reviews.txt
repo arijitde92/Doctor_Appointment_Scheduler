@@ -1,0 +1,59 @@
+Doctor: Dr. Yamada Keiko
+Doctor ID: 4065
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 5
+City: Osaka, Japan
+Clinics: Shin-Osaka Tsubasa Clinic (clinic ID 524)
+
+Review 1 for Dr. Yamada Keiko, Gastroenterology, Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Dr. Yamada Keiko was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Yamada Keiko, Gastroenterology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: I was called in within five minutes of my appointment time at Shin-Osaka Tsubasa Clinic, which is rare and much appreciated.
+
+Review 3 for Dr. Yamada Keiko, Gastroenterology, Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: The treatment plan from Dr. Yamada Keiko made sense, but I wished it had been written down for me to take away. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 4 for Dr. Yamada Keiko, Gastroenterology, Osaka
+Rating: 6/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good care during my endoscopy, although the recovery area was crowded and noisy. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Yamada Keiko, Gastroenterology, Osaka
+Rating: 10/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: A gentle, respectful manner from Dr. Yamada Keiko made a very awkward exam bearable, with every step explained before it happened. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Yamada Keiko, Gastroenterology, Osaka
+Rating: 6/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Yamada Keiko, Gastroenterology, Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Getting to Shin-Osaka Tsubasa Clinic in Osaka was simple, and the day-procedure unit was calm and efficient. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 8 for Dr. Yamada Keiko, Gastroenterology, Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 9 for Dr. Yamada Keiko, Gastroenterology, Osaka
+Rating: 5/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Knowledgeable about my reflux, Dr. Yamada Keiko still gave diet advice that felt generic and not tailored to my habits. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 10 for Dr. Yamada Keiko, Gastroenterology, Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Prescriptions from Dr. Yamada Keiko were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Overall rating for Dr. Yamada Keiko, Gastroenterology, Osaka: 7.40/10 from 10 reviews

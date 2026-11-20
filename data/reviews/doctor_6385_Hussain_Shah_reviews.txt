@@ -1,0 +1,49 @@
+Doctor: Dr. Hussain Shah
+Doctor ID: 6385
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 26
+City: Lahore, Pakistan
+Clinics: Model Town Care Polyclinic (clinic ID 827)
+
+Review 1 for Dr. Hussain Shah, Psychiatry, Lahore
+Rating: 7/10
+Clinic visited: Model Town Care Polyclinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Hussain Shah, Psychiatry, Lahore
+Rating: 9/10
+Clinic visited: Model Town Care Polyclinic
+Description: Telehealth follow-ups at Model Town Care Polyclinic are punctual and calm, and refills are dealt with quickly. I came away understanding my condition better than I have in years of previous appointments. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Hussain Shah, Psychiatry, Lahore
+Rating: 8/10
+Clinic visited: Model Town Care Polyclinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 4 for Dr. Hussain Shah, Psychiatry, Lahore
+Rating: 9/10
+Clinic visited: Model Town Care Polyclinic
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. Booking online at Model Town Care Polyclinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 5 for Dr. Hussain Shah, Psychiatry, Lahore
+Rating: 8/10
+Clinic visited: Model Town Care Polyclinic
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Never once did Dr. Hussain Shah make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 6 for Dr. Hussain Shah, Psychiatry, Lahore
+Rating: 6/10
+Clinic visited: Model Town Care Polyclinic
+Description: Good listener, yet the refill process at Model Town Care Polyclinic is slow and requires several phone calls.
+
+Review 7 for Dr. Hussain Shah, Psychiatry, Lahore
+Rating: 5/10
+Clinic visited: Model Town Care Polyclinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 8 for Dr. Hussain Shah, Psychiatry, Lahore
+Rating: 8/10
+Clinic visited: Model Town Care Polyclinic
+Description: My depression finally has a treatment plan from Dr. Hussain Shah that works, with regular check-ins and careful dose changes.
+
+Overall rating for Dr. Hussain Shah, Psychiatry, Lahore: 7.50/10 from 8 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Nam Ha-joon
+Doctor ID: 4194
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 12
+City: Daegu, South Korea
+Clinics: Dongseongno Dalbit Medical Clinic (clinic ID 540)
+
+Review 1 for Dr. Nam Ha-joon, Psychiatry, Daegu
+Rating: 5/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. The new medication helped, although side effects were not explained as fully as I would have liked. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Nam Ha-joon, Psychiatry, Daegu
+Rating: 4/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: I was not told about common side effects by Dr. Nam Ha-joon, and I had a rough first two weeks that could have been avoided. Not a place I would choose again, and I hope others have a better experience.
+
+Review 3 for Dr. Nam Ha-joon, Psychiatry, Daegu
+Rating: 6/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Dr. Nam Ha-joon was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Nam Ha-joon, Psychiatry, Daegu
+Rating: 6/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. Helpful diagnosis, though the billing for my first long assessment was confusing. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Nam Ha-joon, Psychiatry, Daegu
+Rating: 5/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 6 for Dr. Nam Ha-joon, Psychiatry, Daegu
+Rating: 5/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Nam Ha-joon, Psychiatry, Daegu
+Rating: 6/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 8 for Dr. Nam Ha-joon, Psychiatry, Daegu
+Rating: 6/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Dr. Nam Ha-joon is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 9 for Dr. Nam Ha-joon, Psychiatry, Daegu
+Rating: 5/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 10 for Dr. Nam Ha-joon, Psychiatry, Daegu
+Rating: 4/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Requests for a refill went unanswered for days, and I ran out of my medication.
+
+Review 11 for Dr. Nam Ha-joon, Psychiatry, Daegu
+Rating: 5/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Good listener, yet the refill process at Dongseongno Dalbit Medical Clinic is slow and requires several phone calls. Quick appointment and a fair price in Daegu, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 12 for Dr. Nam Ha-joon, Psychiatry, Daegu
+Rating: 4/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. My concerns about how I felt on the dose were waved away rather than explored.
+
+Overall rating for Dr. Nam Ha-joon, Psychiatry, Daegu: 5.08/10 from 12 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. André Santos
+Doctor ID: 658
+Specialization: Radiology
+Gender: Male
+Years of experience: 3
+City: Rio de Janeiro, Brazil
+Clinics: Clínica Botafogo Familiar (clinic ID 88)
+
+Review 1 for Dr. André Santos, Radiology, Rio de Janeiro
+Rating: 9/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Dr. André Santos compared my new scan with last year's and pointed out exactly what had stayed the same. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 2 for Dr. André Santos, Radiology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. André Santos, Radiology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clínica Botafogo Familiar. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 4 for Dr. André Santos, Radiology, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Clínica Botafogo Familiar
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. André Santos sent a clear report within a day.
+
+Review 5 for Dr. André Santos, Radiology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 6 for Dr. André Santos, Radiology, Rio de Janeiro
+Rating: 10/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Paperwork at Clínica Botafogo Familiar was kept to a minimum, and the staff helped me complete the insurance form. My ultrasound was unhurried, and Dr. André Santos took time to show me the images and explain what each measurement meant.
+
+Review 7 for Dr. André Santos, Radiology, Rio de Janeiro
+Rating: 9/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Reviewing my X-ray together with Dr. André Santos on the screen made it much easier to understand my arthritis. A same-day slot was found for me at Clínica Botafogo Familiar when I called with a worrying symptom.
+
+Review 8 for Dr. André Santos, Radiology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Dr. André Santos was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 9 for Dr. André Santos, Radiology, Rio de Janeiro
+Rating: 4/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. Dr. André Santos was never available to discuss my findings, and the report left me more confused than before.
+
+Review 10 for Dr. André Santos, Radiology, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Clínica Botafogo Familiar
+Description: The report from Dr. André Santos was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 11 for Dr. André Santos, Radiology, Rio de Janeiro
+Rating: 9/10
+Clinic visited: Clínica Botafogo Familiar
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. The mammogram was quicker and more comfortable than I feared, and the staff and Dr. André Santos were respectful throughout.
+
+Overall rating for Dr. André Santos, Radiology, Rio de Janeiro: 7.55/10 from 11 reviews

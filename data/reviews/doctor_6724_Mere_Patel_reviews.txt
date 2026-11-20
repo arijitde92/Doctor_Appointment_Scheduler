@@ -1,0 +1,54 @@
+Doctor: Dr. Mere Patel
+Doctor ID: 6724
+Specialization: Pathology
+Gender: Female
+Years of experience: 5
+City: Wellington, New Zealand
+Clinics: Southern Alps Health Practice (clinic ID 871)
+
+Review 1 for Dr. Mere Patel, Pathology, Wellington
+Rating: 6/10
+Clinic visited: Southern Alps Health Practice
+Description: I liked the advice I got from Dr. Mere Patel, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Mere Patel, Pathology, Wellington
+Rating: 7/10
+Clinic visited: Southern Alps Health Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 3 for Dr. Mere Patel, Pathology, Wellington
+Rating: 8/10
+Clinic visited: Southern Alps Health Practice
+Description: The biopsy report was returned in three days, and Dr. Mere Patel took time on the phone to explain every term in it. The waiting room at Southern Alps Health Practice was clean, quiet and comfortable, with enough seating and water available.
+
+Review 4 for Dr. Mere Patel, Pathology, Wellington
+Rating: 6/10
+Clinic visited: Southern Alps Health Practice
+Description: Helpful in clarifying a borderline result, though Dr. Mere Patel gave little guidance about whether to repeat it. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Mere Patel, Pathology, Wellington
+Rating: 7/10
+Clinic visited: Southern Alps Health Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Mere Patel, Pathology, Wellington
+Rating: 8/10
+Clinic visited: Southern Alps Health Practice
+Description: The staff and Dr. Mere Patel patiently went through my cholesterol and glucose numbers and explained what each meant for me. I was called in within five minutes of my appointment time at Southern Alps Health Practice, which is rare and much appreciated.
+
+Review 7 for Dr. Mere Patel, Pathology, Wellington
+Rating: 7/10
+Clinic visited: Southern Alps Health Practice
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Mere Patel, Pathology, Wellington
+Rating: 9/10
+Clinic visited: Southern Alps Health Practice
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. At my visit, Dr. Mere Patel took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 9 for Dr. Mere Patel, Pathology, Wellington
+Rating: 9/10
+Clinic visited: Southern Alps Health Practice
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Wellington. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Overall rating for Dr. Mere Patel, Pathology, Wellington: 7.44/10 from 9 reviews

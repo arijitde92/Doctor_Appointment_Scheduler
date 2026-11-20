@@ -1,0 +1,64 @@
+Doctor: Dr. Noelia Sosa
+Doctor ID: 765
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 24
+City: Cordoba, Argentina
+Clinics: Centro Médico Cerro de las Rosas (clinic ID 101)
+
+Review 1 for Dr. Noelia Sosa, Orthopedic, Cordoba
+Rating: 8/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine.
+
+Review 2 for Dr. Noelia Sosa, Orthopedic, Cordoba
+Rating: 5/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 3 for Dr. Noelia Sosa, Orthopedic, Cordoba
+Rating: 7/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Noelia Sosa, Orthopedic, Cordoba
+Rating: 7/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: Dr. Noelia Sosa explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 5 for Dr. Noelia Sosa, Orthopedic, Cordoba
+Rating: 4/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 6 for Dr. Noelia Sosa, Orthopedic, Cordoba
+Rating: 4/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: Dr. Noelia Sosa seemed to dismiss my concerns about swelling after the operation, and I had to go elsewhere. There was no translator available, and my parent was left unable to follow what was being said. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 7 for Dr. Noelia Sosa, Orthopedic, Cordoba
+Rating: 7/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: The treatment plan from Dr. Noelia Sosa made sense, but I wished it had been written down for me to take away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Noelia Sosa, Orthopedic, Cordoba
+Rating: 6/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Noelia Sosa, Orthopedic, Cordoba
+Rating: 5/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 10 for Dr. Noelia Sosa, Orthopedic, Cordoba
+Rating: 7/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I will give it one more visit before I decide whether to stay.
+
+Review 11 for Dr. Noelia Sosa, Orthopedic, Cordoba
+Rating: 8/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: After my knee replacement, Dr. Noelia Sosa explained the entire recovery timeline, and I was walking with a cane by week three. I was given a printed summary of the visit, which I shared with my family at home.
+
+Overall rating for Dr. Noelia Sosa, Orthopedic, Cordoba: 6.18/10 from 11 reviews

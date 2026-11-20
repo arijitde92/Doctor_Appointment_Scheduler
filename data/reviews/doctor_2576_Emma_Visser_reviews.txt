@@ -1,0 +1,59 @@
+Doctor: Dr. Emma Visser
+Doctor ID: 2576
+Specialization: Neurology
+Gender: Female
+Years of experience: 5
+City: Amsterdam, Netherlands
+Clinics: Gezondheidscentrum Beethoven (clinic ID 337)
+
+Review 1 for Dr. Emma Visser, Neurology, Amsterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 2 for Dr. Emma Visser, Neurology, Amsterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Getting a same-month appointment in Amsterdam for my sudden headaches was a real relief, and the work-up was prompt. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Emma Visser, Neurology, Amsterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Emma Visser at Gezondheidscentrum Beethoven are difficult to schedule. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Emma Visser, Neurology, Amsterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: I always leave Dr. Emma Visser's office with a short written summary of changes, which helps my family keep up. Dr. Emma Visser drew a quick sketch to explain what was going on, which helped me remember it afterwards. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. Emma Visser, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 6 for Dr. Emma Visser, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Living with multiple sclerosis feels less frightening because Dr. Emma Visser explains and discusses every change in my plan. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Emma Visser, Neurology, Amsterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. A translator was arranged for my mother without us asking twice, and Dr. Emma Visser spoke directly to her throughout. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Emma Visser, Neurology, Amsterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: She coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 9 for Dr. Emma Visser, Neurology, Amsterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Dr. Emma Visser explained my results well, although the visit felt short for such a complex condition.
+
+Review 10 for Dr. Emma Visser, Neurology, Amsterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Emma Visser, Neurology, Amsterdam: 8.00/10 from 10 reviews

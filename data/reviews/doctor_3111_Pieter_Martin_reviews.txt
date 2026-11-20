@@ -1,0 +1,64 @@
+Doctor: Dr. Pieter Martin
+Doctor ID: 3111
+Specialization: Radiology
+Gender: Male
+Years of experience: 17
+City: Brussels, Belgium
+Clinics: Clinique du Parvis (clinic ID 404)
+
+Review 1 for Dr. Pieter Martin, Radiology, Brussels
+Rating: 7/10
+Clinic visited: Clinique du Parvis
+Description: The report from Dr. Pieter Martin was thorough, though full of technical terms that needed my regular doctor to translate. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Pieter Martin, Radiology, Brussels
+Rating: 6/10
+Clinic visited: Clinique du Parvis
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Pieter Martin, Radiology, Brussels
+Rating: 6/10
+Clinic visited: Clinique du Parvis
+Description: I liked the advice I got from Dr. Pieter Martin, but I would have liked more time to ask follow-up questions before the visit ended. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 4 for Dr. Pieter Martin, Radiology, Brussels
+Rating: 8/10
+Clinic visited: Clinique du Parvis
+Description: When my scan showed something that needed a second look, Dr. Pieter Martin arranged the follow-up the same day.
+
+Review 5 for Dr. Pieter Martin, Radiology, Brussels
+Rating: 5/10
+Clinic visited: Clinique du Parvis
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 6 for Dr. Pieter Martin, Radiology, Brussels
+Rating: 6/10
+Clinic visited: Clinique du Parvis
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Pieter Martin, Radiology, Brussels
+Rating: 8/10
+Clinic visited: Clinique du Parvis
+Description: Images from Clinique du Parvis were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 8 for Dr. Pieter Martin, Radiology, Brussels
+Rating: 6/10
+Clinic visited: Clinique du Parvis
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 9 for Dr. Pieter Martin, Radiology, Brussels
+Rating: 8/10
+Clinic visited: Clinique du Parvis
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Pieter Martin sent a clear report within a day. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 10 for Dr. Pieter Martin, Radiology, Brussels
+Rating: 5/10
+Clinic visited: Clinique du Parvis
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Pieter Martin answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Decent care overall, and I will probably return unless I find something closer.
+
+Review 11 for Dr. Pieter Martin, Radiology, Brussels
+Rating: 8/10
+Clinic visited: Clinique du Parvis
+Description: Booking a CT scan online at Clinique du Parvis took two minutes, and I was in and out within forty minutes.
+
+Overall rating for Dr. Pieter Martin, Radiology, Brussels: 6.64/10 from 11 reviews

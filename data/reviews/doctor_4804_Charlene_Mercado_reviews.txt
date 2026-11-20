@@ -1,0 +1,59 @@
+Doctor: Dr. Charlene Mercado
+Doctor ID: 4804
+Specialization: Radiology
+Gender: Female
+Years of experience: 27
+City: Davao City, Philippines
+Clinics: Tala Medical Clinic (clinic ID 620)
+
+Review 1 for Dr. Charlene Mercado, Radiology, Davao City
+Rating: 8/10
+Clinic visited: Tala Medical Clinic
+Description: Dr. Charlene Mercado looked me in the eye, listened to the whole story and only then started typing. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Charlene Mercado, Radiology, Davao City
+Rating: 5/10
+Clinic visited: Tala Medical Clinic
+Description: Dr. Charlene Mercado answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Dr. Charlene Mercado was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Charlene Mercado, Radiology, Davao City
+Rating: 7/10
+Clinic visited: Tala Medical Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 4 for Dr. Charlene Mercado, Radiology, Davao City
+Rating: 7/10
+Clinic visited: Tala Medical Clinic
+Description: The report from Dr. Charlene Mercado was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 5 for Dr. Charlene Mercado, Radiology, Davao City
+Rating: 7/10
+Clinic visited: Tala Medical Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 6 for Dr. Charlene Mercado, Radiology, Davao City
+Rating: 7/10
+Clinic visited: Tala Medical Clinic
+Description: I liked the advice I got from Dr. Charlene Mercado, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Charlene Mercado, Radiology, Davao City
+Rating: 6/10
+Clinic visited: Tala Medical Clinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Charlene Mercado, Radiology, Davao City
+Rating: 8/10
+Clinic visited: Tala Medical Clinic
+Description: Dr. Charlene Mercado compared my new scan with last year's and pointed out exactly what had stayed the same. My whole family is switching over after seeing how good the care was.
+
+Review 9 for Dr. Charlene Mercado, Radiology, Davao City
+Rating: 7/10
+Clinic visited: Tala Medical Clinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Charlene Mercado, Radiology, Davao City
+Rating: 6/10
+Clinic visited: Tala Medical Clinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Charlene Mercado, Radiology, Davao City: 6.80/10 from 10 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Chu Huy
+Doctor ID: 5020
+Specialization: Cardiology
+Gender: Male
+Years of experience: 18
+City: Hanoi, Vietnam
+Clinics: Phong Kham An Khang Plus (clinic ID 649)
+
+Review 1 for Dr. Chu Huy, Cardiology, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Dr. Chu Huy explained the difference between my statin options and let me weigh in on the choice.
+
+Review 2 for Dr. Chu Huy, Cardiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham An Khang Plus
+Description: The cardiology unit at Phong Kham An Khang Plus runs on time, and the technicians were professional during my echocardiogram. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Chu Huy, Cardiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham An Khang Plus
+Description: I came away understanding my condition better than I have in years of previous appointments. Seeing Dr. Chu Huy in Hanoi meant my whole family history was reviewed, and now my sister is being screened too. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Chu Huy, Cardiology, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Great care in the visit itself, but the billing for the tests at Phong Kham An Khang Plus was confusing.
+
+Review 5 for Dr. Chu Huy, Cardiology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Dr. Chu Huy used a calm, steady voice that settled my nerves before a stressful procedure. I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Chu Huy, Cardiology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham An Khang Plus
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 7 for Dr. Chu Huy, Cardiology, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham An Khang Plus
+Description: After my heart attack, Dr. Chu Huy explained the rehab plan and medication changes with great patience and kindness. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Chu Huy, Cardiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham An Khang Plus
+Description: After my palpitations began, Dr. Chu Huy arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 9 for Dr. Chu Huy, Cardiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 10 for Dr. Chu Huy, Cardiology, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham An Khang Plus
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. Booking online at Phong Kham An Khang Plus was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Overall rating for Dr. Chu Huy, Cardiology, Hanoi: 8.50/10 from 10 reviews

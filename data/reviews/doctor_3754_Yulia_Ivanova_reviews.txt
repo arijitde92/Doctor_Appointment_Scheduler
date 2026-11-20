@@ -1,0 +1,59 @@
+Doctor: Dr. Yulia Ivanova
+Doctor ID: 3754
+Specialization: General
+Gender: Female
+Years of experience: 14
+City: Novosibirsk, Russia
+Clinics: Sibirskiy Medical Centre (clinic ID 485)
+
+Review 1 for Dr. Yulia Ivanova, General, Novosibirsk
+Rating: 8/10
+Clinic visited: Sibirskiy Medical Centre
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. Getting to Sibirskiy Medical Centre by public transport in Novosibirsk was easy, and there is a step-free entrance for wheelchairs.
+
+Review 2 for Dr. Yulia Ivanova, General, Novosibirsk
+Rating: 10/10
+Clinic visited: Sibirskiy Medical Centre
+Description: I appreciated that she offered more than one option and let me choose what suited my life. My blood pressure had crept up and Dr. Yulia Ivanova walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 3 for Dr. Yulia Ivanova, General, Novosibirsk
+Rating: 8/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Dr. Yulia Ivanova spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 4 for Dr. Yulia Ivanova, General, Novosibirsk
+Rating: 10/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Managing my type 2 diabetes with Dr. Yulia Ivanova has been steady and practical, with quarterly blood sugar reviews and no lectures. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 5 for Dr. Yulia Ivanova, General, Novosibirsk
+Rating: 10/10
+Clinic visited: Sibirskiy Medical Centre
+Description: As a new patient in Novosibirsk, I felt welcomed at Sibirskiy Medical Centre, and my whole history was reviewed in one relaxed visit. Dr. Yulia Ivanova used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 6 for Dr. Yulia Ivanova, General, Novosibirsk
+Rating: 10/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Yulia Ivanova, General, Novosibirsk
+Rating: 10/10
+Clinic visited: Sibirskiy Medical Centre
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 8 for Dr. Yulia Ivanova, General, Novosibirsk
+Rating: 10/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 9 for Dr. Yulia Ivanova, General, Novosibirsk
+Rating: 9/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list.
+
+Review 10 for Dr. Yulia Ivanova, General, Novosibirsk
+Rating: 7/10
+Clinic visited: Sibirskiy Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Overall rating for Dr. Yulia Ivanova, General, Novosibirsk: 9.20/10 from 10 reviews

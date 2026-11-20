@@ -1,0 +1,59 @@
+Doctor: Dr. Samantha Wilson
+Doctor ID: 92
+Specialization: Cardiology
+Gender: Female
+Years of experience: 5
+City: Chicago, USA
+Clinics: Lakeshore Internal Medicine (clinic ID 15)
+
+Review 1 for Dr. Samantha Wilson, Cardiology, Chicago
+Rating: 7/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Samantha Wilson, Cardiology, Chicago
+Rating: 6/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Dr. Samantha Wilson adjusted my blood pressure medication carefully, though I had to call twice for a refill. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Samantha Wilson, Cardiology, Chicago
+Rating: 4/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Dr. Samantha Wilson spent most of the appointment looking at the screen and gave very brief answers to my questions. The waiting room at Lakeshore Internal Medicine was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 4 for Dr. Samantha Wilson, Cardiology, Chicago
+Rating: 7/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Quick appointment and a fair price in Chicago, but the staff seemed overwhelmed and a bit curt on the phone. Great care in the visit itself, but the billing for the tests at Lakeshore Internal Medicine was confusing.
+
+Review 5 for Dr. Samantha Wilson, Cardiology, Chicago
+Rating: 6/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Samantha Wilson, Cardiology, Chicago
+Rating: 3/10
+Clinic visited: Lakeshore Internal Medicine
+Description: The staff at Lakeshore Internal Medicine were curt on the phone, and it took four attempts to book a simple follow-up. The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes.
+
+Review 7 for Dr. Samantha Wilson, Cardiology, Chicago
+Rating: 6/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Good bedside manner from Dr. Samantha Wilson, but the parking near Lakeshore Internal Medicine is limited and I had to circle for fifteen minutes. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 8 for Dr. Samantha Wilson, Cardiology, Chicago
+Rating: 6/10
+Clinic visited: Lakeshore Internal Medicine
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Samantha Wilson, Cardiology, Chicago
+Rating: 5/10
+Clinic visited: Lakeshore Internal Medicine
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Samantha Wilson, Cardiology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Seeing Dr. Samantha Wilson in Chicago meant my whole family history was reviewed, and now my sister is being screened too. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Overall rating for Dr. Samantha Wilson, Cardiology, Chicago: 5.80/10 from 10 reviews

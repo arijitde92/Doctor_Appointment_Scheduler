@@ -1,0 +1,69 @@
+Doctor: Dr. Inger Andersen
+Doctor ID: 1954
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 19
+City: Bergen, Norway
+Clinics: Legesenteret Torgallmenningen (clinic ID 255)
+
+Review 1 for Dr. Inger Andersen, Psychiatry, Bergen
+Rating: 9/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Inger Andersen, Psychiatry, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 3 for Dr. Inger Andersen, Psychiatry, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Inger Andersen, Psychiatry, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Good listener, yet the refill process at Legesenteret Torgallmenningen is slow and requires several phone calls. Good bedside manner from Dr. Inger Andersen, but the parking near Legesenteret Torgallmenningen is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Inger Andersen, Psychiatry, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Dr. Inger Andersen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Inger Andersen, Psychiatry, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Quick appointment and a fair price in Bergen, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Inger Andersen, Psychiatry, Bergen
+Rating: 8/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Dr. Inger Andersen took a full history before suggesting any medication and explained the likely side effects honestly. Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Inger Andersen, Psychiatry, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 9 for Dr. Inger Andersen, Psychiatry, Bergen
+Rating: 8/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: I can ring Legesenteret Torgallmenningen with an urgent question and receive a thoughtful reply the same day. This is the first doctor I have trusted completely in years.
+
+Review 10 for Dr. Inger Andersen, Psychiatry, Bergen
+Rating: 5/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: The treatment plan from Dr. Inger Andersen made sense, but I wished it had been written down for me to take away. Dr. Inger Andersen is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 11 for Dr. Inger Andersen, Psychiatry, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 12 for Dr. Inger Andersen, Psychiatry, Bergen
+Rating: 5/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Overall rating for Dr. Inger Andersen, Psychiatry, Bergen: 6.83/10 from 12 reviews

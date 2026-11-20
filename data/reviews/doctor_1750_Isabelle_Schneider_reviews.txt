@@ -1,0 +1,54 @@
+Doctor: Dr. Isabelle Schneider
+Doctor ID: 1750
+Specialization: Pathology
+Gender: Female
+Years of experience: 20
+City: Geneva, Switzerland
+Clinics: Cabinet Médical Plainpalais Centre (clinic ID 228)
+
+Review 1 for Dr. Isabelle Schneider, Pathology, Geneva
+Rating: 7/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: The blood draw was painless, but the waiting area at Cabinet Médical Plainpalais Centre was crowded in the early morning. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Isabelle Schneider, Pathology, Geneva
+Rating: 6/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Isabelle Schneider, Pathology, Geneva
+Rating: 3/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. I felt dismissed by Dr. Isabelle Schneider when I brought up a second concern, and was told to book another appointment for it.
+
+Review 4 for Dr. Isabelle Schneider, Pathology, Geneva
+Rating: 6/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The treatment plan from Dr. Isabelle Schneider made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Isabelle Schneider, Pathology, Geneva
+Rating: 6/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: Dr. Isabelle Schneider answered my questions kindly, though the call back took three days. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Isabelle Schneider, Pathology, Geneva
+Rating: 5/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Isabelle Schneider, Pathology, Geneva
+Rating: 6/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: Helpful in clarifying a borderline result, though Dr. Isabelle Schneider gave little guidance about whether to repeat it. Good bedside manner from Dr. Isabelle Schneider, but the parking near Cabinet Médical Plainpalais Centre is limited and I had to circle for fifteen minutes. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Isabelle Schneider, Pathology, Geneva
+Rating: 7/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 9 for Dr. Isabelle Schneider, Pathology, Geneva
+Rating: 5/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: I liked the advice I got from Dr. Isabelle Schneider, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Isabelle Schneider, Pathology, Geneva: 5.67/10 from 9 reviews

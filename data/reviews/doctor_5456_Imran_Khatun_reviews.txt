@@ -1,0 +1,54 @@
+Doctor: Dr. Imran Khatun
+Doctor ID: 5456
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 5
+City: Khulna, Bangladesh
+Clinics: Sundarban Medical Point (clinic ID 706)
+
+Review 1 for Dr. Imran Khatun, Pulmonology, Khulna
+Rating: 8/10
+Clinic visited: Sundarban Medical Point
+Description: I always leave Dr. Imran Khatun's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 2 for Dr. Imran Khatun, Pulmonology, Khulna
+Rating: 7/10
+Clinic visited: Sundarban Medical Point
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 3 for Dr. Imran Khatun, Pulmonology, Khulna
+Rating: 6/10
+Clinic visited: Sundarban Medical Point
+Description: Good bedside manner from Dr. Imran Khatun, but the parking near Sundarban Medical Point is limited and I had to circle for fifteen minutes. Dr. Imran Khatun adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 4 for Dr. Imran Khatun, Pulmonology, Khulna
+Rating: 7/10
+Clinic visited: Sundarban Medical Point
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Imran Khatun, Pulmonology, Khulna
+Rating: 8/10
+Clinic visited: Sundarban Medical Point
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks.
+
+Review 6 for Dr. Imran Khatun, Pulmonology, Khulna
+Rating: 4/10
+Clinic visited: Sundarban Medical Point
+Description: The waiting room at Sundarban Medical Point was overcrowded and there was nowhere to sit, even for elderly patients. Dr. Imran Khatun rushed through my scan results and I left the room unsure whether I needed treatment.
+
+Review 7 for Dr. Imran Khatun, Pulmonology, Khulna
+Rating: 6/10
+Clinic visited: Sundarban Medical Point
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I liked the advice I got from Dr. Imran Khatun, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Imran Khatun, Pulmonology, Khulna
+Rating: 4/10
+Clinic visited: Sundarban Medical Point
+Description: The bill for my pulmonary function tests was far higher than the estimate I had been given.
+
+Review 9 for Dr. Imran Khatun, Pulmonology, Khulna
+Rating: 8/10
+Clinic visited: Sundarban Medical Point
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Imran Khatun, Pulmonology, Khulna: 6.44/10 from 9 reviews

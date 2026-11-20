@@ -1,0 +1,64 @@
+Doctor: Dr. Ricardo Castillo Aguilar
+Doctor ID: 483
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 18
+City: Monterrey, Mexico
+Clinics: Centro Médico Valle Oriente (clinic ID 66)
+
+Review 1 for Dr. Ricardo Castillo Aguilar, Pediatrics, Monterrey
+Rating: 6/10
+Clinic visited: Centro Médico Valle Oriente
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 2 for Dr. Ricardo Castillo Aguilar, Pediatrics, Monterrey
+Rating: 5/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Ricardo Castillo Aguilar, Pediatrics, Monterrey
+Rating: 5/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. The treatment plan from Dr. Ricardo Castillo Aguilar made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Ricardo Castillo Aguilar, Pediatrics, Monterrey
+Rating: 6/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Ricardo Castillo Aguilar, Pediatrics, Monterrey
+Rating: 6/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Dr. Ricardo Castillo Aguilar is thorough with exams, but the after-hours phone line at Centro Médico Valle Oriente is hard to reach. The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Ricardo Castillo Aguilar, Pediatrics, Monterrey
+Rating: 6/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Caring and gentle with my child, Dr. Ricardo Castillo Aguilar nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 7 for Dr. Ricardo Castillo Aguilar, Pediatrics, Monterrey
+Rating: 6/10
+Clinic visited: Centro Médico Valle Oriente
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Ricardo Castillo Aguilar, Pediatrics, Monterrey
+Rating: 4/10
+Clinic visited: Centro Médico Valle Oriente
+Description: I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why. I left disappointed and will take my business to another clinic.
+
+Review 9 for Dr. Ricardo Castillo Aguilar, Pediatrics, Monterrey
+Rating: 5/10
+Clinic visited: Centro Médico Valle Oriente
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 10 for Dr. Ricardo Castillo Aguilar, Pediatrics, Monterrey
+Rating: 7/10
+Clinic visited: Centro Médico Valle Oriente
+Description: I liked the advice I got from Dr. Ricardo Castillo Aguilar, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 11 for Dr. Ricardo Castillo Aguilar, Pediatrics, Monterrey
+Rating: 4/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Dr. Ricardo Castillo Aguilar spoke mostly to the computer, and my child clung to me throughout the whole appointment. There was no translator available, and my parent was left unable to follow what was being said.
+
+Overall rating for Dr. Ricardo Castillo Aguilar, Pediatrics, Monterrey: 5.45/10 from 11 reviews

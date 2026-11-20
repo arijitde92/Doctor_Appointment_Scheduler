@@ -1,0 +1,59 @@
+Doctor: Dr. Rachel Wright
+Doctor ID: 6498
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 5
+City: Melbourne, Australia
+Clinics: Banksia Medical Centre (clinic ID 841)
+
+Review 1 for Dr. Rachel Wright, Pulmonology, Melbourne
+Rating: 6/10
+Clinic visited: Banksia Medical Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Helpful and honest about my prognosis, Dr. Rachel Wright could still have given me more written material to take home.
+
+Review 2 for Dr. Rachel Wright, Pulmonology, Melbourne
+Rating: 7/10
+Clinic visited: Banksia Medical Centre
+Description: Dr. Rachel Wright adjusted my asthma medication well, but the breathing test appointment was a month away. Dr. Rachel Wright was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Rachel Wright, Pulmonology, Melbourne
+Rating: 7/10
+Clinic visited: Banksia Medical Centre
+Description: I liked the advice I got from Dr. Rachel Wright, but I would have liked more time to ask follow-up questions before the visit ended. Pleasant manner and careful lung exam, though the waiting time at Banksia Medical Centre regularly exceeded forty minutes.
+
+Review 4 for Dr. Rachel Wright, Pulmonology, Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: I always leave Dr. Rachel Wright's office with a written summary of my breathing test results and what changed since the last visit. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. Rachel Wright, Pulmonology, Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: My oxygen levels are monitored carefully at Banksia Medical Centre, and the home equipment was arranged without any hassle. I came away understanding my condition better than I have in years of previous appointments. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Rachel Wright, Pulmonology, Melbourne
+Rating: 6/10
+Clinic visited: Banksia Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away. Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 7 for Dr. Rachel Wright, Pulmonology, Melbourne
+Rating: 7/10
+Clinic visited: Banksia Medical Centre
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 8 for Dr. Rachel Wright, Pulmonology, Melbourne
+Rating: 7/10
+Clinic visited: Banksia Medical Centre
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 9 for Dr. Rachel Wright, Pulmonology, Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 10 for Dr. Rachel Wright, Pulmonology, Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: She called personally with my scan results and walked me through what the findings did and did not mean.
+
+Overall rating for Dr. Rachel Wright, Pulmonology, Melbourne: 7.20/10 from 10 reviews

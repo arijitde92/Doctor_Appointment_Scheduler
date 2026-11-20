@@ -1,0 +1,59 @@
+Doctor: Dr. Teresa Alonso Molina
+Doctor ID: 1403
+Specialization: Pathology
+Gender: Female
+Years of experience: 13
+City: Madrid, Spain
+Clinics: Clínica Nuestra Señora del Pilar (clinic ID 183)
+
+Review 1 for Dr. Teresa Alonso Molina, Pathology, Madrid
+Rating: 5/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 2 for Dr. Teresa Alonso Molina, Pathology, Madrid
+Rating: 10/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Dr. Teresa Alonso Molina drew a quick sketch to explain what was going on, which helped me remember it afterwards. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Teresa Alonso Molina, Pathology, Madrid
+Rating: 8/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 4 for Dr. Teresa Alonso Molina, Pathology, Madrid
+Rating: 7/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Helpful in clarifying a borderline result, though Dr. Teresa Alonso Molina gave little guidance about whether to repeat it.
+
+Review 5 for Dr. Teresa Alonso Molina, Pathology, Madrid
+Rating: 8/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: The lab under Dr. Teresa Alonso Molina was clean, organized and never overbooked, and results arrived exactly when promised. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 6 for Dr. Teresa Alonso Molina, Pathology, Madrid
+Rating: 5/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Teresa Alonso Molina, Pathology, Madrid
+Rating: 5/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Dr. Teresa Alonso Molina was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 8 for Dr. Teresa Alonso Molina, Pathology, Madrid
+Rating: 7/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: The blood draw was painless, but the waiting area at Clínica Nuestra Señora del Pilar was crowded in the early morning.
+
+Review 9 for Dr. Teresa Alonso Molina, Pathology, Madrid
+Rating: 5/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 10 for Dr. Teresa Alonso Molina, Pathology, Madrid
+Rating: 9/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Dr. Teresa Alonso Molina took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Overall rating for Dr. Teresa Alonso Molina, Pathology, Madrid: 6.90/10 from 10 reviews

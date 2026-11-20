@@ -1,0 +1,49 @@
+Doctor: Dr. Inoue Tomoaki
+Doctor ID: 4042
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 2
+City: Osaka, Japan
+Clinics: Namba Hinata Clinic (clinic ID 521)
+
+Review 1 for Dr. Inoue Tomoaki, Psychiatry, Osaka
+Rating: 7/10
+Clinic visited: Namba Hinata Clinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Inoue Tomoaki, Psychiatry, Osaka
+Rating: 5/10
+Clinic visited: Namba Hinata Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Inoue Tomoaki, Psychiatry, Osaka
+Rating: 6/10
+Clinic visited: Namba Hinata Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Inoue Tomoaki, Psychiatry, Osaka
+Rating: 4/10
+Clinic visited: Namba Hinata Clinic
+Description: Requests for a refill went unanswered for days, and I ran out of my medication. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 5 for Dr. Inoue Tomoaki, Psychiatry, Osaka
+Rating: 7/10
+Clinic visited: Namba Hinata Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Inoue Tomoaki, Psychiatry, Osaka
+Rating: 6/10
+Clinic visited: Namba Hinata Clinic
+Description: Quick appointment and a fair price in Osaka, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Inoue Tomoaki, Psychiatry, Osaka
+Rating: 6/10
+Clinic visited: Namba Hinata Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 8 for Dr. Inoue Tomoaki, Psychiatry, Osaka
+Rating: 7/10
+Clinic visited: Namba Hinata Clinic
+Description: Dr. Inoue Tomoaki was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Overall rating for Dr. Inoue Tomoaki, Psychiatry, Osaka: 6.00/10 from 8 reviews

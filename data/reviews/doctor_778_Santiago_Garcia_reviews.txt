@@ -1,0 +1,54 @@
+Doctor: Dr. Santiago García
+Doctor ID: 778
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 2
+City: Cordoba, Argentina
+Clinics: Consultorios Médicos Colón (clinic ID 102)
+
+Review 1 for Dr. Santiago García, Orthopedic, Cordoba
+Rating: 6/10
+Clinic visited: Consultorios Médicos Colón
+Description: Very skilled with my knee, but Dr. Santiago García's clinic runs behind and the wait was over an hour.
+
+Review 2 for Dr. Santiago García, Orthopedic, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Santiago García, Orthopedic, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 4 for Dr. Santiago García, Orthopedic, Cordoba
+Rating: 6/10
+Clinic visited: Consultorios Médicos Colón
+Description: Dr. Santiago García explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Booking was easy online, but the confirmation email contained the wrong address for Consultorios Médicos Colón.
+
+Review 5 for Dr. Santiago García, Orthopedic, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Santiago García, Orthopedic, Cordoba
+Rating: 9/10
+Clinic visited: Consultorios Médicos Colón
+Description: Dr. Santiago García used a calm, steady voice that settled my nerves before a stressful procedure. The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Santiago García, Orthopedic, Cordoba
+Rating: 3/10
+Clinic visited: Consultorios Médicos Colón
+Description: The surgery fee ended up far higher than the quote, and billing staff could not explain the difference. I will not be returning and have already started looking for another doctor.
+
+Review 8 for Dr. Santiago García, Orthopedic, Cordoba
+Rating: 9/10
+Clinic visited: Consultorios Médicos Colón
+Description: Dr. Santiago García explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 9 for Dr. Santiago García, Orthopedic, Cordoba
+Rating: 6/10
+Clinic visited: Consultorios Médicos Colón
+Description: I got what I needed, but the next available appointment was three weeks away. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Overall rating for Dr. Santiago García, Orthopedic, Cordoba: 6.67/10 from 9 reviews

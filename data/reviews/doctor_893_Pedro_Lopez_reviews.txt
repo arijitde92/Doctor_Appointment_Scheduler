@@ -1,0 +1,69 @@
+Doctor: Dr. Pedro López
+Doctor ID: 893
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 5
+City: Arequipa, Peru
+Clinics: Consultorios Médicos Parra (clinic ID 117); Instituto de Salud Cayma (clinic ID 119)
+
+Review 1 for Dr. Pedro López, Gastroenterology, Arequipa
+Rating: 7/10
+Clinic visited: Consultorios Médicos Parra
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Pedro López, Gastroenterology, Arequipa
+Rating: 9/10
+Clinic visited: Instituto de Salud Cayma
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed.
+
+Review 3 for Dr. Pedro López, Gastroenterology, Arequipa
+Rating: 8/10
+Clinic visited: Instituto de Salud Cayma
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Getting to Instituto de Salud Cayma in Arequipa was simple, and the day-procedure unit was calm and efficient.
+
+Review 4 for Dr. Pedro López, Gastroenterology, Arequipa
+Rating: 7/10
+Clinic visited: Instituto de Salud Cayma
+Description: Knowledgeable about my reflux, Dr. Pedro López still gave diet advice that felt generic and not tailored to my habits.
+
+Review 5 for Dr. Pedro López, Gastroenterology, Arequipa
+Rating: 8/10
+Clinic visited: Instituto de Salud Cayma
+Description: After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan. The receptionist at Instituto de Salud Cayma remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 6 for Dr. Pedro López, Gastroenterology, Arequipa
+Rating: 9/10
+Clinic visited: Instituto de Salud Cayma
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Dr. Pedro López took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards.
+
+Review 7 for Dr. Pedro López, Gastroenterology, Arequipa
+Rating: 7/10
+Clinic visited: Instituto de Salud Cayma
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Pedro López, Gastroenterology, Arequipa
+Rating: 5/10
+Clinic visited: Consultorios Médicos Parra
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 9 for Dr. Pedro López, Gastroenterology, Arequipa
+Rating: 7/10
+Clinic visited: Instituto de Salud Cayma
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 10 for Dr. Pedro López, Gastroenterology, Arequipa
+Rating: 9/10
+Clinic visited: Instituto de Salud Cayma
+Description: Dr. Pedro López was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. My whole family is switching over after seeing how good the care was.
+
+Review 11 for Dr. Pedro López, Gastroenterology, Arequipa
+Rating: 6/10
+Clinic visited: Consultorios Médicos Parra
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 12 for Dr. Pedro López, Gastroenterology, Arequipa
+Rating: 10/10
+Clinic visited: Consultorios Médicos Parra
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Overall rating for Dr. Pedro López, Gastroenterology, Arequipa: 7.67/10 from 12 reviews

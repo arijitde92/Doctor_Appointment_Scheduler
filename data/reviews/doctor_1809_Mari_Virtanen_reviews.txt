@@ -1,0 +1,49 @@
+Doctor: Dr. Mari Virtanen
+Doctor ID: 1809
+Specialization: Radiology
+Gender: Female
+Years of experience: 3
+City: Espoo, Finland
+Clinics: Terveysasema Leppävaara Sello Park (clinic ID 236); Terveyskeskus Kauklahti Plus (clinic ID 239)
+
+Review 1 for Dr. Mari Virtanen, Radiology, Espoo
+Rating: 7/10
+Clinic visited: Terveysasema Leppävaara Sello Park
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 2 for Dr. Mari Virtanen, Radiology, Espoo
+Rating: 6/10
+Clinic visited: Terveysasema Leppävaara Sello Park
+Description: Good bedside manner from Dr. Mari Virtanen, but the parking near Terveysasema Leppävaara Sello Park is limited and I had to circle for fifteen minutes. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 3 for Dr. Mari Virtanen, Radiology, Espoo
+Rating: 9/10
+Clinic visited: Terveysasema Leppävaara Sello Park
+Description: At my visit, Dr. Mari Virtanen took notes on my medication list, checked for interactions and explained the changes simply. My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 4 for Dr. Mari Virtanen, Radiology, Espoo
+Rating: 9/10
+Clinic visited: Terveysasema Leppävaara Sello Park
+Description: Images from Terveysasema Leppävaara Sello Park were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 5 for Dr. Mari Virtanen, Radiology, Espoo
+Rating: 8/10
+Clinic visited: Terveyskeskus Kauklahti Plus
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 6 for Dr. Mari Virtanen, Radiology, Espoo
+Rating: 5/10
+Clinic visited: Terveysasema Leppävaara Sello Park
+Description: The report from Dr. Mari Virtanen was thorough, though full of technical terms that needed my regular doctor to translate. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Mari Virtanen, Radiology, Espoo
+Rating: 7/10
+Clinic visited: Terveysasema Leppävaara Sello Park
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 8 for Dr. Mari Virtanen, Radiology, Espoo
+Rating: 7/10
+Clinic visited: Terveyskeskus Kauklahti Plus
+Description: I liked the advice I got from Dr. Mari Virtanen, but I would have liked more time to ask follow-up questions before the visit ended. Dr. Mari Virtanen answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Overall rating for Dr. Mari Virtanen, Radiology, Espoo: 7.25/10 from 8 reviews

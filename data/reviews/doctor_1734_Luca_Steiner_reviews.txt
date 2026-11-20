@@ -1,0 +1,49 @@
+Doctor: Dr. Luca Steiner
+Doctor ID: 1734
+Specialization: Pathology
+Gender: Male
+Years of experience: 19
+City: Geneva, Switzerland
+Clinics: Cabinet Médical des Eaux-Vives (clinic ID 225); Clinique Santé Châtelaine (clinic ID 227)
+
+Review 1 for Dr. Luca Steiner, Pathology, Geneva
+Rating: 9/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 2 for Dr. Luca Steiner, Pathology, Geneva
+Rating: 8/10
+Clinic visited: Clinique Santé Châtelaine
+Description: The lab under Dr. Luca Steiner was clean, organized and never overbooked, and results arrived exactly when promised. Dr. Luca Steiner double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 3 for Dr. Luca Steiner, Pathology, Geneva
+Rating: 8/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Fast turnaround at Cabinet Médical des Eaux-Vives on my thyroid panel, with results in my online account by the next morning. Booking online at Cabinet Médical des Eaux-Vives was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 4 for Dr. Luca Steiner, Pathology, Geneva
+Rating: 8/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Allergy panel results were explained in detail by Dr. Luca Steiner, with a note on which results mattered clinically and which did not. Dr. Luca Steiner looked me in the eye, listened to the whole story and only then started typing. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Luca Steiner, Pathology, Geneva
+Rating: 9/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: The staff and Dr. Luca Steiner patiently went through my cholesterol and glucose numbers and explained what each meant for me. Sensitive questions were handled by Dr. Luca Steiner with discretion and without a hint of judgment.
+
+Review 6 for Dr. Luca Steiner, Pathology, Geneva
+Rating: 6/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Dr. Luca Steiner was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Luca Steiner, Pathology, Geneva
+Rating: 7/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Luca Steiner, Pathology, Geneva
+Rating: 8/10
+Clinic visited: Clinique Santé Châtelaine
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Overall rating for Dr. Luca Steiner, Pathology, Geneva: 7.88/10 from 8 reviews

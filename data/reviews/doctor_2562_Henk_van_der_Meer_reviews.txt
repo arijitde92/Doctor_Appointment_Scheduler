@@ -1,0 +1,64 @@
+Doctor: Dr. Henk van der Meer
+Doctor ID: 2562
+Specialization: General
+Gender: Male
+Years of experience: 14
+City: Amsterdam, Netherlands
+Clinics: Huisartsenpraktijk Jordaan (clinic ID 335)
+
+Review 1 for Dr. Henk van der Meer, General, Amsterdam
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Huisartsenpraktijk Jordaan were inconsistent.
+
+Review 2 for Dr. Henk van der Meer, General, Amsterdam
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Henk van der Meer, General, Amsterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: By the time I left the room, Dr. Henk van der Meer had sorted the sick note, referral letter and prescription refill.
+
+Review 4 for Dr. Henk van der Meer, General, Amsterdam
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Henk van der Meer, General, Amsterdam
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: My annual check-up with Dr. Henk van der Meer took forty minutes, with every screening explained and nothing rushed. Dr. Henk van der Meer drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 6 for Dr. Henk van der Meer, General, Amsterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Managing my type 2 diabetes with Dr. Henk van der Meer has been steady and practical, with quarterly blood sugar reviews and no lectures. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Henk van der Meer, General, Amsterdam
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Vaccination advice from Dr. Henk van der Meer for my travel plans was thorough and specific to the countries I was visiting. Everything was explained in plain English by Dr. Henk van der Meer, and nothing was left to guess.
+
+Review 8 for Dr. Henk van der Meer, General, Amsterdam
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Dr. Henk van der Meer was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 9 for Dr. Henk van der Meer, General, Amsterdam
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 10 for Dr. Henk van der Meer, General, Amsterdam
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: As a new patient in Amsterdam, I felt welcomed at Huisartsenpraktijk Jordaan, and my whole history was reviewed in one relaxed visit. Booking online at Huisartsenpraktijk Jordaan was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 11 for Dr. Henk van der Meer, General, Amsterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. Appointment reminders came by text and email, and rescheduling took two taps. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Henk van der Meer, General, Amsterdam: 7.91/10 from 11 reviews

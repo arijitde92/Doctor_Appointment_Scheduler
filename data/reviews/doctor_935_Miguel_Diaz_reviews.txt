@@ -1,0 +1,69 @@
+Doctor: Dr. Miguel Díaz
+Doctor ID: 935
+Specialization: Radiology
+Gender: Male
+Years of experience: 15
+City: Cusco, Peru
+Clinics: Consultorios Médicos Tullumayo (clinic ID 122); Instituto de Salud Garcilaso (clinic ID 124)
+
+Review 1 for Dr. Miguel Díaz, Radiology, Cusco
+Rating: 10/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Parking was simple, the waiting room was calm, and I never felt like a number.
+
+Review 2 for Dr. Miguel Díaz, Radiology, Cusco
+Rating: 8/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Miguel Díaz were respectful throughout. Dr. Miguel Díaz used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 3 for Dr. Miguel Díaz, Radiology, Cusco
+Rating: 9/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Miguel Díaz, Radiology, Cusco
+Rating: 8/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: Images from Instituto de Salud Garcilaso were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. Appointment reminders came by text and email, and rescheduling took two taps. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Miguel Díaz, Radiology, Cusco
+Rating: 7/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: Booking was easy online, but the confirmation email contained the wrong address for Consultorios Médicos Tullumayo. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Miguel Díaz, Radiology, Cusco
+Rating: 9/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 7 for Dr. Miguel Díaz, Radiology, Cusco
+Rating: 8/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 8 for Dr. Miguel Díaz, Radiology, Cusco
+Rating: 8/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: A same-day slot was found for me at Instituto de Salud Garcilaso when I called with a worrying symptom. Reviewing my X-ray together with Dr. Miguel Díaz on the screen made it much easier to understand my arthritis.
+
+Review 9 for Dr. Miguel Díaz, Radiology, Cusco
+Rating: 9/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: When my scan showed something that needed a second look, Dr. Miguel Díaz arranged the follow-up the same day. Five stars from me, and I would book again tomorrow.
+
+Review 10 for Dr. Miguel Díaz, Radiology, Cusco
+Rating: 9/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 11 for Dr. Miguel Díaz, Radiology, Cusco
+Rating: 7/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: Dr. Miguel Díaz answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 12 for Dr. Miguel Díaz, Radiology, Cusco
+Rating: 5/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: The report from Dr. Miguel Díaz was thorough, though full of technical terms that needed my regular doctor to translate. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Miguel Díaz, Radiology, Cusco: 8.08/10 from 12 reviews

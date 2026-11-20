@@ -1,0 +1,64 @@
+Doctor: Dr. Yana Pavlenko
+Doctor ID: 3563
+Specialization: Radiology
+Gender: Female
+Years of experience: 20
+City: Kyiv, Ukraine
+Clinics: Dnipro Vita Clinic (clinic ID 461)
+
+Review 1 for Dr. Yana Pavlenko, Radiology, Kyiv
+Rating: 6/10
+Clinic visited: Dnipro Vita Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Yana Pavlenko, Radiology, Kyiv
+Rating: 5/10
+Clinic visited: Dnipro Vita Clinic
+Description: I liked the advice I got from Dr. Yana Pavlenko, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Yana Pavlenko, Radiology, Kyiv
+Rating: 6/10
+Clinic visited: Dnipro Vita Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Yana Pavlenko, Radiology, Kyiv
+Rating: 6/10
+Clinic visited: Dnipro Vita Clinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Yana Pavlenko, Radiology, Kyiv
+Rating: 4/10
+Clinic visited: Dnipro Vita Clinic
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. My images were not sent to my specialist as promised, so my consultation had to be postponed.
+
+Review 6 for Dr. Yana Pavlenko, Radiology, Kyiv
+Rating: 4/10
+Clinic visited: Dnipro Vita Clinic
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Review 7 for Dr. Yana Pavlenko, Radiology, Kyiv
+Rating: 5/10
+Clinic visited: Dnipro Vita Clinic
+Description: Dr. Yana Pavlenko answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Yana Pavlenko, Radiology, Kyiv
+Rating: 8/10
+Clinic visited: Dnipro Vita Clinic
+Description: My ultrasound was unhurried, and Dr. Yana Pavlenko took time to show me the images and explain what each measurement meant.
+
+Review 9 for Dr. Yana Pavlenko, Radiology, Kyiv
+Rating: 6/10
+Clinic visited: Dnipro Vita Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Great image quality and a fast report, but the booking system sent me to the wrong location first. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Yana Pavlenko, Radiology, Kyiv
+Rating: 6/10
+Clinic visited: Dnipro Vita Clinic
+Description: The report from Dr. Yana Pavlenko was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 11 for Dr. Yana Pavlenko, Radiology, Kyiv
+Rating: 8/10
+Clinic visited: Dnipro Vita Clinic
+Description: Fast, clean and professional; the bone density scan with Dr. Yana Pavlenko was painless and the results were explained clearly.
+
+Overall rating for Dr. Yana Pavlenko, Radiology, Kyiv: 5.82/10 from 11 reviews

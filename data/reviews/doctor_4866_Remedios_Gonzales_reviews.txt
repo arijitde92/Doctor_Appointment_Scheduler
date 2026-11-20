@@ -1,0 +1,69 @@
+Doctor: Dr. Remedios Gonzales
+Doctor ID: 4866
+Specialization: Radiology
+Gender: Female
+Years of experience: 21
+City: Manila, Philippines
+Clinics: Mabuhay Health Centre (clinic ID 628)
+
+Review 1 for Dr. Remedios Gonzales, Radiology, Manila
+Rating: 5/10
+Clinic visited: Mabuhay Health Centre
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 2 for Dr. Remedios Gonzales, Radiology, Manila
+Rating: 5/10
+Clinic visited: Mabuhay Health Centre
+Description: Dr. Remedios Gonzales answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Remedios Gonzales, Radiology, Manila
+Rating: 7/10
+Clinic visited: Mabuhay Health Centre
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Remedios Gonzales, Radiology, Manila
+Rating: 4/10
+Clinic visited: Mabuhay Health Centre
+Description: The staff seemed rushed and impatient with an elderly patient who needed help changing. I will not be returning and have already started looking for another doctor.
+
+Review 5 for Dr. Remedios Gonzales, Radiology, Manila
+Rating: 4/10
+Clinic visited: Mabuhay Health Centre
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week. My images were not sent to my specialist as promised, so my consultation had to be postponed.
+
+Review 6 for Dr. Remedios Gonzales, Radiology, Manila
+Rating: 4/10
+Clinic visited: Mabuhay Health Centre
+Description: The technologist gave almost no instructions before my MRI, and I had to repeat part of the scan because I moved. There was no translator available, and my parent was left unable to follow what was being said. I left disappointed and will take my business to another clinic.
+
+Review 7 for Dr. Remedios Gonzales, Radiology, Manila
+Rating: 4/10
+Clinic visited: Mabuhay Health Centre
+Description: I was charged for a second scan that I was told was a free repeat after an image problem. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 8 for Dr. Remedios Gonzales, Radiology, Manila
+Rating: 4/10
+Clinic visited: Mabuhay Health Centre
+Description: The prescription from Dr. Remedios Gonzales was not the one we discussed, and I only noticed when I got home.
+
+Review 9 for Dr. Remedios Gonzales, Radiology, Manila
+Rating: 5/10
+Clinic visited: Mabuhay Health Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 10 for Dr. Remedios Gonzales, Radiology, Manila
+Rating: 6/10
+Clinic visited: Mabuhay Health Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 11 for Dr. Remedios Gonzales, Radiology, Manila
+Rating: 4/10
+Clinic visited: Mabuhay Health Centre
+Description: Dr. Remedios Gonzales was never available to discuss my findings, and the report left me more confused than before. The staff at Mabuhay Health Centre were curt on the phone, and it took four attempts to book a simple follow-up.
+
+Review 12 for Dr. Remedios Gonzales, Radiology, Manila
+Rating: 4/10
+Clinic visited: Mabuhay Health Centre
+Description: I waited two weeks for a report from Dr. Remedios Gonzales and had to call three times before anyone could tell me the result. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Overall rating for Dr. Remedios Gonzales, Radiology, Manila: 4.67/10 from 12 reviews

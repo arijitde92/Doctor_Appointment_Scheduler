@@ -1,0 +1,59 @@
+Doctor: Dr. Víctor Mendoza
+Doctor ID: 964
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 19
+City: Lima, Peru
+Clinics: Centro Médico Miraflores (clinic ID 126); Policlínica Benavides (clinic ID 127)
+
+Review 1 for Dr. Víctor Mendoza, Orthopedic, Lima
+Rating: 4/10
+Clinic visited: Centro Médico Miraflores
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 2 for Dr. Víctor Mendoza, Orthopedic, Lima
+Rating: 6/10
+Clinic visited: Policlínica Benavides
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 3 for Dr. Víctor Mendoza, Orthopedic, Lima
+Rating: 5/10
+Clinic visited: Centro Médico Miraflores
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Víctor Mendoza, Orthopedic, Lima
+Rating: 8/10
+Clinic visited: Policlínica Benavides
+Description: Plain, honest advice from Dr. Víctor Mendoza for my arthritis, including which exercises to avoid and which would help.
+
+Review 5 for Dr. Víctor Mendoza, Orthopedic, Lima
+Rating: 6/10
+Clinic visited: Centro Médico Miraflores
+Description: Dr. Víctor Mendoza explained surgery options clearly, though the physiotherapy referral took weeks to arrive. The treatment plan from Dr. Víctor Mendoza made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Víctor Mendoza, Orthopedic, Lima
+Rating: 6/10
+Clinic visited: Policlínica Benavides
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 7 for Dr. Víctor Mendoza, Orthopedic, Lima
+Rating: 7/10
+Clinic visited: Policlínica Benavides
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Víctor Mendoza, Orthopedic, Lima
+Rating: 6/10
+Clinic visited: Policlínica Benavides
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Víctor Mendoza, Orthopedic, Lima
+Rating: 6/10
+Clinic visited: Centro Médico Miraflores
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Very skilled with my knee, but Dr. Víctor Mendoza's clinic runs behind and the wait was over an hour. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Víctor Mendoza, Orthopedic, Lima
+Rating: 7/10
+Clinic visited: Policlínica Benavides
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Overall rating for Dr. Víctor Mendoza, Orthopedic, Lima: 6.10/10 from 10 reviews

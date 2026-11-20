@@ -1,0 +1,54 @@
+Doctor: Dr. Vladimir Fedorov
+Doctor ID: 3730
+Specialization: Radiology
+Gender: Male
+Years of experience: 21
+City: Moscow, Russia
+Clinics: Klinika Zdorovaya Semya (clinic ID 481)
+
+Review 1 for Dr. Vladimir Fedorov, Radiology, Moscow
+Rating: 8/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Getting to Klinika Zdorovaya Semya by public transport in Moscow was easy, and there is a step-free entrance for wheelchairs.
+
+Review 2 for Dr. Vladimir Fedorov, Radiology, Moscow
+Rating: 7/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. The treatment plan from Dr. Vladimir Fedorov made sense, but I wished it had been written down for me to take away. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Vladimir Fedorov, Radiology, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 4 for Dr. Vladimir Fedorov, Radiology, Moscow
+Rating: 7/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 5 for Dr. Vladimir Fedorov, Radiology, Moscow
+Rating: 8/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Sensitive questions were handled by Dr. Vladimir Fedorov with discretion and without a hint of judgment. Fast, clean and professional; the bone density scan with Dr. Vladimir Fedorov was painless and the results were explained clearly.
+
+Review 6 for Dr. Vladimir Fedorov, Radiology, Moscow
+Rating: 8/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 7 for Dr. Vladimir Fedorov, Radiology, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 8 for Dr. Vladimir Fedorov, Radiology, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 9 for Dr. Vladimir Fedorov, Radiology, Moscow
+Rating: 5/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The report from Dr. Vladimir Fedorov was thorough, though full of technical terms that needed my regular doctor to translate. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Vladimir Fedorov, Radiology, Moscow: 6.78/10 from 9 reviews

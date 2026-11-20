@@ -1,0 +1,59 @@
+Doctor: Dr. Alexey Morozov
+Doctor ID: 3757
+Specialization: Radiology
+Gender: Male
+Years of experience: 2
+City: Novosibirsk, Russia
+Clinics: Sibirskiy Medical Centre (clinic ID 485)
+
+Review 1 for Dr. Alexey Morozov, Radiology, Novosibirsk
+Rating: 8/10
+Clinic visited: Sibirskiy Medical Centre
+Description: The report from Dr. Alexey Morozov was detailed but written so a non-medical person could follow it, with a short summary at the top. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 2 for Dr. Alexey Morozov, Radiology, Novosibirsk
+Rating: 8/10
+Clinic visited: Sibirskiy Medical Centre
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Alexey Morozov sent a clear report within a day.
+
+Review 3 for Dr. Alexey Morozov, Radiology, Novosibirsk
+Rating: 9/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Paperwork at Sibirskiy Medical Centre was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 4 for Dr. Alexey Morozov, Radiology, Novosibirsk
+Rating: 10/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Alexey Morozov, Radiology, Novosibirsk
+Rating: 10/10
+Clinic visited: Sibirskiy Medical Centre
+Description: The staff at Sibirskiy Medical Centre in Novosibirsk explained the contrast dye and its side effects before I signed anything.
+
+Review 6 for Dr. Alexey Morozov, Radiology, Novosibirsk
+Rating: 8/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Images from Sibirskiy Medical Centre were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. I was called in within five minutes of my appointment time at Sibirskiy Medical Centre, which is rare and much appreciated. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Alexey Morozov, Radiology, Novosibirsk
+Rating: 10/10
+Clinic visited: Sibirskiy Medical Centre
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Alexey Morozov, Radiology, Novosibirsk
+Rating: 6/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 9 for Dr. Alexey Morozov, Radiology, Novosibirsk
+Rating: 9/10
+Clinic visited: Sibirskiy Medical Centre
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Highly recommended, and I have already told two colleagues about it.
+
+Review 10 for Dr. Alexey Morozov, Radiology, Novosibirsk
+Rating: 7/10
+Clinic visited: Sibirskiy Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Alexey Morozov, Radiology, Novosibirsk: 8.50/10 from 10 reviews

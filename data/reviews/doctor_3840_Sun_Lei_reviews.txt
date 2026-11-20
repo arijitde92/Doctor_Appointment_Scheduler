@@ -1,0 +1,64 @@
+Doctor: Dr. Sun Lei
+Doctor ID: 3840
+Specialization: Pathology
+Gender: Male
+Years of experience: 17
+City: Beijing, China
+Clinics: Zhongguancun Kangyi Clinic (clinic ID 496); Dongsanhuan Family Health Practice (clinic ID 497)
+
+Review 1 for Dr. Sun Lei, Pathology, Beijing
+Rating: 10/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: The biopsy report was returned in three days, and Dr. Sun Lei took time on the phone to explain every term in it. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Sun Lei, Pathology, Beijing
+Rating: 10/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 3 for Dr. Sun Lei, Pathology, Beijing
+Rating: 9/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Booking online at Dongsanhuan Family Health Practice was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 4 for Dr. Sun Lei, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Beijing.
+
+Review 5 for Dr. Sun Lei, Pathology, Beijing
+Rating: 10/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 6 for Dr. Sun Lei, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: I asked for a second look at my slides, and Dr. Sun Lei reviewed them without any fuss and confirmed the finding in writing.
+
+Review 7 for Dr. Sun Lei, Pathology, Beijing
+Rating: 5/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: Dr. Sun Lei was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 8 for Dr. Sun Lei, Pathology, Beijing
+Rating: 7/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: Helpful in clarifying a borderline result, though Dr. Sun Lei gave little guidance about whether to repeat it.
+
+Review 9 for Dr. Sun Lei, Pathology, Beijing
+Rating: 10/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 10 for Dr. Sun Lei, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Fast turnaround at Zhongguancun Kangyi Clinic on my thyroid panel, with results in my online account by the next morning. The receptionist at Zhongguancun Kangyi Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 11 for Dr. Sun Lei, Pathology, Beijing
+Rating: 7/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Sun Lei answered my questions kindly, though the call back took three days.
+
+Overall rating for Dr. Sun Lei, Pathology, Beijing: 8.36/10 from 11 reviews

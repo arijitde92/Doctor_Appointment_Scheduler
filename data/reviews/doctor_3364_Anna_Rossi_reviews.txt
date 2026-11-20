@@ -1,0 +1,49 @@
+Doctor: Dr. Anna Rossi
+Doctor ID: 3364
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 13
+City: Florence, Italy
+Clinics: Centro Medico Campo di Marte (clinic ID 436); Clinica del Giglio (clinic ID 438)
+
+Review 1 for Dr. Anna Rossi, Orthopedic, Florence
+Rating: 10/10
+Clinic visited: Centro Medico Campo di Marte
+Description: Dr. Anna Rossi explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 2 for Dr. Anna Rossi, Orthopedic, Florence
+Rating: 8/10
+Clinic visited: Clinica del Giglio
+Description: She set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Anna Rossi, Orthopedic, Florence
+Rating: 8/10
+Clinic visited: Centro Medico Campo di Marte
+Description: Seen the same day at Centro Medico Campo di Marte after a bad ankle sprain, with an X-ray done and a brace fitted before I left. Dr. Anna Rossi drew a quick sketch to explain what was going on, which helped me remember it afterwards. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Anna Rossi, Orthopedic, Florence
+Rating: 10/10
+Clinic visited: Clinica del Giglio
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Anna Rossi, Orthopedic, Florence
+Rating: 9/10
+Clinic visited: Centro Medico Campo di Marte
+Description: I appreciated that she offered more than one option and let me choose what suited my life. The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 6 for Dr. Anna Rossi, Orthopedic, Florence
+Rating: 9/10
+Clinic visited: Clinica del Giglio
+Description: I appreciated Dr. Anna Rossi's honest comparison between injections, therapy and surgery for my hip pain. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Anna Rossi, Orthopedic, Florence
+Rating: 9/10
+Clinic visited: Centro Medico Campo di Marte
+Description: I came away understanding my condition better than I have in years of previous appointments. After my knee replacement, Dr. Anna Rossi explained the entire recovery timeline, and I was walking with a cane by week three.
+
+Review 8 for Dr. Anna Rossi, Orthopedic, Florence
+Rating: 8/10
+Clinic visited: Clinica del Giglio
+Description: She was upfront about what could and could not be treated, and did not oversell any option. Getting around Florence on crutches was hard, but the accessible entrance and short waiting time at Clinica del Giglio helped a lot.
+
+Overall rating for Dr. Anna Rossi, Orthopedic, Florence: 8.88/10 from 8 reviews

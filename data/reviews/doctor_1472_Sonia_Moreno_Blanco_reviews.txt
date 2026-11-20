@@ -1,0 +1,64 @@
+Doctor: Dr. Sonia Moreno Blanco
+Doctor ID: 1472
+Specialization: Cardiology
+Gender: Female
+Years of experience: 19
+City: Valencia, Spain
+Clinics: Policlínica del Turia (clinic ID 192); Clínica Mediterráneo (clinic ID 193)
+
+Review 1 for Dr. Sonia Moreno Blanco, Cardiology, Valencia
+Rating: 6/10
+Clinic visited: Policlínica del Turia
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 2 for Dr. Sonia Moreno Blanco, Cardiology, Valencia
+Rating: 3/10
+Clinic visited: Policlínica del Turia
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 3 for Dr. Sonia Moreno Blanco, Cardiology, Valencia
+Rating: 5/10
+Clinic visited: Clínica Mediterráneo
+Description: Helpful with my cholesterol, Dr. Sonia Moreno Blanco still gave dietary advice that was a little generic. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Sonia Moreno Blanco, Cardiology, Valencia
+Rating: 4/10
+Clinic visited: Policlínica del Turia
+Description: My worries about side effects from my medication were waved off, and nobody offered an alternative.
+
+Review 5 for Dr. Sonia Moreno Blanco, Cardiology, Valencia
+Rating: 7/10
+Clinic visited: Clínica Mediterráneo
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Sonia Moreno Blanco, Cardiology, Valencia
+Rating: 6/10
+Clinic visited: Clínica Mediterráneo
+Description: Great care in the visit itself, but the billing for the tests at Clínica Mediterráneo was confusing.
+
+Review 7 for Dr. Sonia Moreno Blanco, Cardiology, Valencia
+Rating: 5/10
+Clinic visited: Clínica Mediterráneo
+Description: Dr. Sonia Moreno Blanco adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 8 for Dr. Sonia Moreno Blanco, Cardiology, Valencia
+Rating: 3/10
+Clinic visited: Policlínica del Turia
+Description: My test results sat on Dr. Sonia Moreno Blanco's desk for two weeks, and I only learned about a medication change when I called the pharmacy. I left disappointed and will take my business to another clinic.
+
+Review 9 for Dr. Sonia Moreno Blanco, Cardiology, Valencia
+Rating: 5/10
+Clinic visited: Policlínica del Turia
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 10 for Dr. Sonia Moreno Blanco, Cardiology, Valencia
+Rating: 4/10
+Clinic visited: Policlínica del Turia
+Description: I reported chest tightness and was sent home with a leaflet and no ECG.
+
+Review 11 for Dr. Sonia Moreno Blanco, Cardiology, Valencia
+Rating: 6/10
+Clinic visited: Policlínica del Turia
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Sonia Moreno Blanco, Cardiology, Valencia: 4.91/10 from 11 reviews

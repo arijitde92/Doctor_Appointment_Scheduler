@@ -1,0 +1,64 @@
+Doctor: Dr. Éric Lefèvre
+Doctor ID: 1308
+Specialization: Neurology
+Gender: Male
+Years of experience: 11
+City: Toulouse, France
+Clinics: Centre Médical du Capitole (clinic ID 170)
+
+Review 1 for Dr. Éric Lefèvre, Neurology, Toulouse
+Rating: 7/10
+Clinic visited: Centre Médical du Capitole
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Éric Lefèvre, Neurology, Toulouse
+Rating: 5/10
+Clinic visited: Centre Médical du Capitole
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Éric Lefèvre, Neurology, Toulouse
+Rating: 8/10
+Clinic visited: Centre Médical du Capitole
+Description: The neurological exam by Dr. Éric Lefèvre was thorough, with every reflex test and gait check explained as it happened.
+
+Review 4 for Dr. Éric Lefèvre, Neurology, Toulouse
+Rating: 4/10
+Clinic visited: Centre Médical du Capitole
+Description: The bill included tests that I had never been told about, and nobody could explain them. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 5 for Dr. Éric Lefèvre, Neurology, Toulouse
+Rating: 5/10
+Clinic visited: Centre Médical du Capitole
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Éric Lefèvre, Neurology, Toulouse
+Rating: 5/10
+Clinic visited: Centre Médical du Capitole
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Éric Lefèvre, Neurology, Toulouse
+Rating: 7/10
+Clinic visited: Centre Médical du Capitole
+Description: Booking was easy online, but the confirmation email contained the wrong address for Centre Médical du Capitole. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 8 for Dr. Éric Lefèvre, Neurology, Toulouse
+Rating: 7/10
+Clinic visited: Centre Médical du Capitole
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Éric Lefèvre, Neurology, Toulouse
+Rating: 7/10
+Clinic visited: Centre Médical du Capitole
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 10 for Dr. Éric Lefèvre, Neurology, Toulouse
+Rating: 8/10
+Clinic visited: Centre Médical du Capitole
+Description: Getting a same-month appointment in Toulouse for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 11 for Dr. Éric Lefèvre, Neurology, Toulouse
+Rating: 6/10
+Clinic visited: Centre Médical du Capitole
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Overall rating for Dr. Éric Lefèvre, Neurology, Toulouse: 6.27/10 from 11 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Naveed Rana
+Doctor ID: 6333
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 9
+City: Karachi, Pakistan
+Clinics: Clifton Shifa Medical Centre (clinic ID 820)
+
+Review 1 for Dr. Naveed Rana, Psychiatry, Karachi
+Rating: 8/10
+Clinic visited: Clifton Shifa Medical Centre
+Description: Excellent at explaining how therapy and medication work together, and Dr. Naveed Rana coordinated with my counselor.
+
+Review 2 for Dr. Naveed Rana, Psychiatry, Karachi
+Rating: 9/10
+Clinic visited: Clifton Shifa Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Naveed Rana, Psychiatry, Karachi
+Rating: 7/10
+Clinic visited: Clifton Shifa Medical Centre
+Description: Good bedside manner from Dr. Naveed Rana, but the parking near Clifton Shifa Medical Centre is limited and I had to circle for fifteen minutes. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 4 for Dr. Naveed Rana, Psychiatry, Karachi
+Rating: 7/10
+Clinic visited: Clifton Shifa Medical Centre
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 5 for Dr. Naveed Rana, Psychiatry, Karachi
+Rating: 8/10
+Clinic visited: Clifton Shifa Medical Centre
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Naveed Rana felt well organized from start to finish.
+
+Review 6 for Dr. Naveed Rana, Psychiatry, Karachi
+Rating: 7/10
+Clinic visited: Clifton Shifa Medical Centre
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The treatment plan from Dr. Naveed Rana made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Naveed Rana, Psychiatry, Karachi
+Rating: 6/10
+Clinic visited: Clifton Shifa Medical Centre
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 8 for Dr. Naveed Rana, Psychiatry, Karachi
+Rating: 7/10
+Clinic visited: Clifton Shifa Medical Centre
+Description: Good listener, yet the refill process at Clifton Shifa Medical Centre is slow and requires several phone calls. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Naveed Rana, Psychiatry, Karachi: 7.38/10 from 8 reviews

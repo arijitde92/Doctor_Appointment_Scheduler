@@ -1,0 +1,49 @@
+Doctor: Dr. Regula Wyss
+Doctor ID: 1751
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 4
+City: Geneva, Switzerland
+Clinics: Cabinet Médical Plainpalais Centre (clinic ID 228)
+
+Review 1 for Dr. Regula Wyss, Gastroenterology, Geneva
+Rating: 7/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Regula Wyss, Gastroenterology, Geneva
+Rating: 8/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed.
+
+Review 3 for Dr. Regula Wyss, Gastroenterology, Geneva
+Rating: 9/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: I get regular check-ups for my Crohn's disease, and Dr. Regula Wyss adjusts my treatment carefully and always explains why. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 4 for Dr. Regula Wyss, Gastroenterology, Geneva
+Rating: 8/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: She never made me feel embarrassed about discussing bowel habits, which is the main reason I returned.
+
+Review 5 for Dr. Regula Wyss, Gastroenterology, Geneva
+Rating: 9/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 6 for Dr. Regula Wyss, Gastroenterology, Geneva
+Rating: 7/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: Knowledgeable about my reflux, Dr. Regula Wyss still gave diet advice that felt generic and not tailored to my habits. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Regula Wyss, Gastroenterology, Geneva
+Rating: 6/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Regula Wyss is thorough, but I waited nearly two months to get the first available slot. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Regula Wyss, Gastroenterology, Geneva
+Rating: 9/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Overall rating for Dr. Regula Wyss, Gastroenterology, Geneva: 7.88/10 from 8 reviews

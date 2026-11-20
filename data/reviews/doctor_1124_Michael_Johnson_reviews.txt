@@ -1,0 +1,49 @@
+Doctor: Dr. Michael Johnson
+Doctor ID: 1124
+Specialization: Cardiology
+Gender: Male
+Years of experience: 11
+City: London, UK
+Clinics: Aldersgate Street Polyclinic (clinic ID 147)
+
+Review 1 for Dr. Michael Johnson, Cardiology, London
+Rating: 6/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 2 for Dr. Michael Johnson, Cardiology, London
+Rating: 2/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: I reported chest tightness and was sent home with a leaflet and no ECG. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 3 for Dr. Michael Johnson, Cardiology, London
+Rating: 6/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Dr. Michael Johnson adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 4 for Dr. Michael Johnson, Cardiology, London
+Rating: 5/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: The treatment plan from Dr. Michael Johnson made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Michael Johnson, Cardiology, London
+Rating: 7/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Dr. Michael Johnson was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Michael Johnson, Cardiology, London
+Rating: 5/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Helpful with my cholesterol, Dr. Michael Johnson still gave dietary advice that was a little generic.
+
+Review 7 for Dr. Michael Johnson, Cardiology, London
+Rating: 7/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Clear explanations, but the follow-up call took a week longer than I had been told. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Michael Johnson, Cardiology, London
+Rating: 5/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Michael Johnson, Cardiology, London: 5.38/10 from 8 reviews

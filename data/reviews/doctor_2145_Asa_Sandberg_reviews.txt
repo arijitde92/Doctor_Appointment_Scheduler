@@ -1,0 +1,49 @@
+Doctor: Dr. Åsa Sandberg
+Doctor ID: 2145
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 1
+City: Malmo, Sweden
+Clinics: Vårdcentralen Södra Förstan Plus (clinic ID 280)
+
+Review 1 for Dr. Åsa Sandberg, Pediatrics, Malmo
+Rating: 10/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: My teenager actually spoke up during the visit, and Dr. Åsa Sandberg handled sensitive topics with respect. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Åsa Sandberg, Pediatrics, Malmo
+Rating: 6/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 3 for Dr. Åsa Sandberg, Pediatrics, Malmo
+Rating: 7/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Åsa Sandberg, Pediatrics, Malmo
+Rating: 7/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Åsa Sandberg, Pediatrics, Malmo
+Rating: 7/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Dr. Åsa Sandberg is thorough with exams, but the after-hours phone line at Vårdcentralen Södra Förstan Plus is hard to reach. Quick appointment and a fair price in Malmo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Åsa Sandberg, Pediatrics, Malmo
+Rating: 9/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 7 for Dr. Åsa Sandberg, Pediatrics, Malmo
+Rating: 10/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Dr. Åsa Sandberg noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 8 for Dr. Åsa Sandberg, Pediatrics, Malmo
+Rating: 8/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Our newborn check-ups with Dr. Åsa Sandberg were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Overall rating for Dr. Åsa Sandberg, Pediatrics, Malmo: 8.00/10 from 8 reviews

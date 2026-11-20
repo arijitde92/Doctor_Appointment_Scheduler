@@ -1,0 +1,49 @@
+Doctor: Dr. Vasyl Rudenko
+Doctor ID: 3529
+Specialization: General
+Gender: Male
+Years of experience: 21
+City: Dnipro, Ukraine
+Clinics: Sich Family Health Practice (clinic ID 457); Slobozhanska Polyclinic (clinic ID 459)
+
+Review 1 for Dr. Vasyl Rudenko, General, Dnipro
+Rating: 8/10
+Clinic visited: Sich Family Health Practice
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I went in with months of tiredness, and Dr. Vasyl Rudenko ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 2 for Dr. Vasyl Rudenko, General, Dnipro
+Rating: 7/10
+Clinic visited: Sich Family Health Practice
+Description: Dr. Vasyl Rudenko is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Quick appointment and a fair price in Dnipro, but the staff seemed overwhelmed and a bit curt on the phone. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Vasyl Rudenko, General, Dnipro
+Rating: 10/10
+Clinic visited: Slobozhanska Polyclinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Managing my type 2 diabetes with Dr. Vasyl Rudenko has been steady and practical, with quarterly blood sugar reviews and no lectures. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Vasyl Rudenko, General, Dnipro
+Rating: 7/10
+Clinic visited: Slobozhanska Polyclinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Vasyl Rudenko, General, Dnipro
+Rating: 7/10
+Clinic visited: Slobozhanska Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Slobozhanska Polyclinic. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Vasyl Rudenko, General, Dnipro
+Rating: 7/10
+Clinic visited: Sich Family Health Practice
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Vasyl Rudenko, General, Dnipro
+Rating: 7/10
+Clinic visited: Slobozhanska Polyclinic
+Description: I liked the advice I got from Dr. Vasyl Rudenko, but I would have liked more time to ask follow-up questions before the visit ended. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 8 for Dr. Vasyl Rudenko, General, Dnipro
+Rating: 9/10
+Clinic visited: Slobozhanska Polyclinic
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list.
+
+Overall rating for Dr. Vasyl Rudenko, General, Dnipro: 7.75/10 from 8 reviews

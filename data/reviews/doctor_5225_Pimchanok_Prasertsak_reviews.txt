@@ -1,0 +1,59 @@
+Doctor: Dr. Pimchanok Prasertsak
+Doctor ID: 5225
+Specialization: Pathology
+Gender: Female
+Years of experience: 12
+City: Bangkok, Thailand
+Clinics: Baan Sukhaphap Clinic (clinic ID 676)
+
+Review 1 for Dr. Pimchanok Prasertsak, Pathology, Bangkok
+Rating: 7/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Pimchanok Prasertsak, Pathology, Bangkok
+Rating: 7/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 3 for Dr. Pimchanok Prasertsak, Pathology, Bangkok
+Rating: 8/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 4 for Dr. Pimchanok Prasertsak, Pathology, Bangkok
+Rating: 6/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: The blood draw was painless, but the waiting area at Baan Sukhaphap Clinic was crowded in the early morning. Dr. Pimchanok Prasertsak was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 5 for Dr. Pimchanok Prasertsak, Pathology, Bangkok
+Rating: 4/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. I left disappointed and will take my business to another clinic.
+
+Review 6 for Dr. Pimchanok Prasertsak, Pathology, Bangkok
+Rating: 7/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Pimchanok Prasertsak, Pathology, Bangkok
+Rating: 5/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: Dr. Pimchanok Prasertsak was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Pimchanok Prasertsak answered my questions kindly, though the call back took three days. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Pimchanok Prasertsak, Pathology, Bangkok
+Rating: 8/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: Paperwork at Baan Sukhaphap Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 9 for Dr. Pimchanok Prasertsak, Pathology, Bangkok
+Rating: 3/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: I was billed twice for the same panel and it took a month to get a correction. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Review 10 for Dr. Pimchanok Prasertsak, Pathology, Bangkok
+Rating: 5/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Pimchanok Prasertsak gave little guidance about whether to repeat it. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Pimchanok Prasertsak, Pathology, Bangkok: 6.00/10 from 10 reviews

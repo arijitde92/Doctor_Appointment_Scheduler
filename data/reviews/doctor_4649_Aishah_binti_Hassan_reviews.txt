@@ -1,0 +1,49 @@
+Doctor: Dr. Aishah binti Hassan
+Doctor ID: 4649
+Specialization: General
+Gender: Female
+Years of experience: 1
+City: Ipoh, Malaysia
+Clinics: Lestari Health Centre (clinic ID 601); Klinik Medik Tulus (clinic ID 602)
+
+Review 1 for Dr. Aishah binti Hassan, General, Ipoh
+Rating: 8/10
+Clinic visited: Lestari Health Centre
+Description: I was given a printed summary of the visit, which I shared with my family at home. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Aishah binti Hassan, General, Ipoh
+Rating: 7/10
+Clinic visited: Klinik Medik Tulus
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Klinik Medik Tulus were inconsistent.
+
+Review 3 for Dr. Aishah binti Hassan, General, Ipoh
+Rating: 7/10
+Clinic visited: Lestari Health Centre
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Aishah binti Hassan, General, Ipoh
+Rating: 9/10
+Clinic visited: Klinik Medik Tulus
+Description: At my visit, Dr. Aishah binti Hassan took notes on my medication list, checked for interactions and explained the changes simply. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Aishah binti Hassan, General, Ipoh
+Rating: 9/10
+Clinic visited: Lestari Health Centre
+Description: Managing my type 2 diabetes with Dr. Aishah binti Hassan has been steady and practical, with quarterly blood sugar reviews and no lectures. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 6 for Dr. Aishah binti Hassan, General, Ipoh
+Rating: 8/10
+Clinic visited: Klinik Medik Tulus
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. Dr. Aishah binti Hassan spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Aishah binti Hassan, General, Ipoh
+Rating: 8/10
+Clinic visited: Lestari Health Centre
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Aishah binti Hassan, General, Ipoh
+Rating: 7/10
+Clinic visited: Klinik Medik Tulus
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Overall rating for Dr. Aishah binti Hassan, General, Ipoh: 7.88/10 from 8 reviews

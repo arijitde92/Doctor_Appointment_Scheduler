@@ -46,33 +46,48 @@ compute.googleapis.com
 
 ### Local Directory structure creation
 
-Create below directory structure
+The repository is laid out like this:
 
 ```text
 Doctor_Appointment_Scheduler/
-├── agents
-│   ├── doctor_matcher
-│   ├── root_agent
-│   └── scheduler
-├── api
-│   └── main.py
-├── configs
-├── data
-│   ├── reviews
-│   └── seed_sql
+├── agents/                      ADK agents (Python package "agents")
+│   ├── root_agent/              Care Coordinator: delegates to the agents below
+│   ├── doctor_matcher/          doctors, clinics, availability, distance
+│   ├── doctor_rag_agent/        patient-review summaries
+│   ├── scheduler_agent/         Google Calendar booking
+│   ├── tools/
+│   │   ├── cloudsql_mcp/        tools.yaml for the MCP Toolbox
+│   │   ├── maps_mcp/            Google Maps Grounding Lite MCP
+│   │   ├── calendar_mcp/        Composio Google Calendar MCP
+│   │   └── rag_tool/            Vertex AI RAG corpus + query tool
+│   └── requirements.txt
+├── backend/                     FastAPI app (ADK API + /app-api), tests, requirements
+├── frontend/                    React UI (src/) + Express BFF (server/)
+├── data/
+│   ├── seed_sql/                generated SQL + populate_data.sh
+│   └── reviews/                 generated review files (one per doctor)
+├── data_creation_artifacts/     clinics_list.csv, generators, data strategy
+├── deploy/                      Cloud Run deploy scripts (.ps1 and .sh), monitoring dashboard
+├── assets/                      images and videos
+├── Dockerfile                   backend image
+├── Project_Steps.md
 ├── README.md
-├── requirements.txt
-|── .gitignore.txt
-└── tools
-    ├── calendar_mcp
-    ├── cloudsql_mcp
-    ├── maps_mcp
-    └── rag_tool
+└── requirements.txt             installs backend/requirements.txt
 ```
 
 ### Python Virtual Environment Creation
 
-Create a virtual environment and activate it
+Create a virtual environment with Python 3.12, activate it and install the dependencies.
+
+Windows PowerShell:
+
+```powershell
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
+macOS / Linux:
 
 ```bash
 python -m venv venv
@@ -455,13 +470,26 @@ GCS_REVIEWS_BUCKET_URI=<gs:// URI of the reviews>
 
 The scripts pass `--project` explicitly using `GOOGLE_CLOUD_PROJECT`, so they don't depend on your active `gcloud config` project.
 
+Each script has two versions in [deploy/](deploy) that do the same thing: `.ps1` for Windows PowerShell (5.1 or 7) and `.sh` for bash (macOS, Linux, Cloud Shell, Git Bash). Run them from the repo root.
+
+On Windows:
+
+- Use the `.ps1` scripts. Typing `bash deploy/...` in PowerShell usually starts WSL rather than Git Bash, and WSL has neither your `gcloud` sign-in nor this checkout's path.
+- If PowerShell says running scripts is disabled, run `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` first. It only applies to that window.
+- Every `.ps1` script accepts `-DryRun`. It still runs the read-only lookups, such as "does this database exist?", and prints each command that would change something instead of running it.
+- The data-loading scripts ([populate_data.sh](data/seed_sql/populate_data.sh) and [upload_reviews.sh](deploy/upload_reviews.sh)) are bash only. Run them from PowerShell with Git Bash, for example `& "$env:ProgramFiles\Git\bin\bash.exe" data/seed_sql/populate_data.sh --reset`.
+
 #### 1. One-time setup
 
-```bash
-bash deploy/setup_gcp.sh
+```powershell
+.\deploy\setup_gcp.ps1          # Windows PowerShell
 ```
 
-[setup_gcp.sh](deploy/setup_gcp.sh) does the following, and is safe to re-run:
+```bash
+bash deploy/setup_gcp.sh        # bash
+```
+
+[setup_gcp.ps1](deploy/setup_gcp.ps1) / [setup_gcp.sh](deploy/setup_gcp.sh) does the following, and is safe to re-run:
 
 - Enables the Cloud Run, Cloud Build, Artifact Registry, Secret Manager, Cloud SQL Admin, Cloud Trace, Cloud Monitoring, Telemetry, Cloud Logging and Cloud Resource Manager APIs.
 - Creates the `adk_sessions` database on the `doctor-db` instance. ADK creates its session tables on first use. `DB_USER` must have privileges on this database.
@@ -471,11 +499,15 @@ bash deploy/setup_gcp.sh
 
 #### 2. Deploy the backend (private)
 
-```bash
-bash deploy/deploy_backend.sh
+```powershell
+.\deploy\deploy_backend.ps1     # Windows PowerShell
 ```
 
-[deploy_backend.sh](deploy/deploy_backend.sh) builds the root [Dockerfile](Dockerfile) with Cloud Build (`gcloud run deploy --source .`) and deploys it with these settings:
+```bash
+bash deploy/deploy_backend.sh   # bash
+```
+
+[deploy_backend.ps1](deploy/deploy_backend.ps1) / [deploy_backend.sh](deploy/deploy_backend.sh) builds the root [Dockerfile](Dockerfile) with Cloud Build (`gcloud run deploy --source .`) and deploys it with these settings:
 
 - `--service-account agent-sa@...` (Vertex AI, Cloud SQL client and Secret Manager access)
 - `--no-allow-unauthenticated`
@@ -487,11 +519,15 @@ bash deploy/deploy_backend.sh
 
 #### 3. Deploy the frontend (public)
 
-```bash
-bash deploy/deploy_frontend.sh
+```powershell
+.\deploy\deploy_frontend.ps1    # Windows PowerShell
 ```
 
-[deploy_frontend.sh](deploy/deploy_frontend.sh) works in three steps:
+```bash
+bash deploy/deploy_frontend.sh  # bash
+```
+
+[deploy_frontend.ps1](deploy/deploy_frontend.ps1) / [deploy_frontend.sh](deploy/deploy_frontend.sh) works in three steps:
 
 1. It looks up the backend URL.
 2. It grants `web-sa` the `roles/run.invoker` role on the backend.
@@ -501,13 +537,28 @@ The Express server mints and refreshes the ID token automatically with `google-a
 
 #### 4. Verify
 
-```bash
+Windows PowerShell (use `curl.exe`: in Windows PowerShell 5.1, `curl` is an alias for `Invoke-WebRequest`):
+
+```powershell
+$Project = "<GOOGLE_CLOUD_PROJECT from .env>"
+$Region = "<REGION from .env>"
+
 # The backend must reject unauthenticated calls (expect 403)
-curl -s -o /dev/null -w "%{http_code}
-" "$(gcloud run services describe doctor-appointment-api --region $REGION --format 'value(status.url)')/list-apps"
+$api = gcloud run services describe doctor-appointment-api --project $Project --region $Region --format "value(status.url)"
+curl.exe -s -o NUL -w "%{http_code}`n" "$api/list-apps"
 
 # The frontend is public
-gcloud run services describe doctor-appointment-web --region $REGION --format 'value(status.url)'
+gcloud run services describe doctor-appointment-web --project $Project --region $Region --format "value(status.url)"
+```
+
+bash:
+
+```bash
+# The backend must reject unauthenticated calls (expect 403)
+curl -s -o /dev/null -w "%{http_code}\n" "$(gcloud run services describe doctor-appointment-api --project $GOOGLE_CLOUD_PROJECT --region $REGION --format 'value(status.url)')/list-apps"
+
+# The frontend is public
+gcloud run services describe doctor-appointment-web --project $GOOGLE_CLOUD_PROJECT --region $REGION --format 'value(status.url)'
 ```
 
 Open the frontend URL and go through the full flow: search, reviews, open slots and booking. Reload the page mid-conversation. The chat is restored from Cloud SQL.
@@ -517,7 +568,7 @@ Open the frontend URL and go through the full flow: search, reviews, open slots 
 The earlier `adk deploy cloud_run --with_ui` service is no longer needed once the new services are verified:
 
 ```bash
-gcloud run services delete doctor-appointment-app --region $REGION
+gcloud run services delete doctor-appointment-app --project <GOOGLE_CLOUD_PROJECT> --region <REGION>
 ```
 
 Reference - <https://adk.dev/deploy/cloud-run/> · <https://cloud.google.com/run/docs/authenticating/service-to-service>
@@ -562,9 +613,9 @@ The deployed backend sends three kinds of telemetry:
 - With `METRICS_TO_CLOUD=true`, the same file installs an OpenTelemetry meter provider before the app is built. It uses the OTLP/HTTP exporter (`opentelemetry-exporter-otlp-proto-http`) to send ADK's metrics to the Telemetry API (`telemetry.googleapis.com`), which stores them in Cloud Monitoring. `opentelemetry-resourcedetector-gcp` labels the metrics with the Cloud Run service, region and instance.
 - `FlushTelemetryMiddleware` in the same file exports telemetry before each response's last chunk. Cloud Run throttles CPU as soon as a response ends, so without this the exporters' background threads never run and nothing arrives. Spans are flushed on every response. Metrics are flushed at most every `METRICS_FLUSH_INTERVAL_S` seconds (default 10), because Cloud Monitoring rejects points for the same series written less than 5 s apart. The metric reader's own background export is turned off for the same reason. Metric values are cumulative, so a skipped flush loses nothing; the next one carries the totals. Both are flushed again when Cloud Run shuts the instance down. This keeps request-based billing; the alternative would be `--no-cpu-throttling`, which bills idle instance time.
 - With tracing on, the backend defaults `OTEL_TRACES_SAMPLER` to `always_on`. Cloud Run adds a `traceparent` header to every request, usually marked "not sampled". OpenTelemetry's default sampler follows that parent, which would drop every agent span. Because the agent spans continue Cloud Run's trace ID, they appear in the same trace as Cloud Run's own request span.
-- [deploy/setup_gcp.sh](deploy/setup_gcp.sh) enables the Cloud Trace, Cloud Monitoring, Telemetry, Logging and Resource Manager APIs, and grants `agent-sa` the `roles/cloudtrace.agent` and `roles/monitoring.metricWriter` roles. ADK looks the project up through the Resource Manager API at startup; without it, ADK logs a "Failed to look up the project's other identifier" warning.
-- [deploy/deploy_backend.sh](deploy/deploy_backend.sh) sets `TRACE_TO_CLOUD=true`, `METRICS_TO_CLOUD=true` and `ADK_CAPTURE_MESSAGE_CONTENT_IN_SPANS=false` on the service.
-- [deploy/setup_monitoring.sh](deploy/setup_monitoring.sh) creates the `consultations_started` log-based metric and the dashboard.
+- [deploy/setup_gcp.ps1](deploy/setup_gcp.ps1) / [.sh](deploy/setup_gcp.sh) enables the Cloud Trace, Cloud Monitoring, Telemetry, Logging and Resource Manager APIs, and grants `agent-sa` the `roles/cloudtrace.agent` and `roles/monitoring.metricWriter` roles. ADK looks the project up through the Resource Manager API at startup; without it, ADK logs a "Failed to look up the project's other identifier" warning.
+- [deploy/deploy_backend.ps1](deploy/deploy_backend.ps1) / [.sh](deploy/deploy_backend.sh) sets `TRACE_TO_CLOUD=true`, `METRICS_TO_CLOUD=true` and `ADK_CAPTURE_MESSAGE_CONTENT_IN_SPANS=false` on the service.
+- [deploy/setup_monitoring.ps1](deploy/setup_monitoring.ps1) / [.sh](deploy/setup_monitoring.sh) creates the `consultations_started` log-based metric and the dashboard.
 
 | Setting | Default on Cloud Run | Effect |
 |---|---|---|
@@ -574,14 +625,18 @@ The deployed backend sends three kinds of telemetry:
 | `ADK_CAPTURE_MESSAGE_CONTENT_IN_SPANS` | `false` | Add prompts and model responses to spans. Off by default because conversations contain health needs and locations; anyone with Cloud Trace access could read them. |
 | `OTEL_TRACES_SAMPLER` | `always_on` (set by `backend/main.py`) | Which messages are traced. With heavy traffic, set e.g. `OTEL_TRACES_SAMPLER=traceidratio` and `OTEL_TRACES_SAMPLER_ARG=0.1` to keep 10%. Cloud Trace bills by spans ingested; a chat message produces roughly 10–30 spans. |
 
-To change any of these, add it to `.env` and run `bash deploy/deploy_backend.sh` again.
+To change any of these, add it to `.env` and deploy the backend again (`.\deploy\deploy_backend.ps1` in PowerShell, `bash deploy/deploy_backend.sh` in bash).
 
 ### Metrics and dashboard
 
 Create (or update) the dashboard once the backend is deployed:
 
+```powershell
+.\deploy\setup_monitoring.ps1   # Windows PowerShell
+```
+
 ```bash
-bash deploy/setup_monitoring.sh
+bash deploy/setup_monitoring.sh # bash
 ```
 
 It prints the dashboard URL. You can also find it under Monitoring → Dashboards → **Doctor Appointment Scheduler - Agents and LLM**. The definition is [deploy/monitoring/dashboard.json](deploy/monitoring/dashboard.json); edit it and re-run the script to change the dashboard.
@@ -698,7 +753,7 @@ Every consultation now belongs to a signed-in patient. The browser never sends a
 
 ### Data model (Cloud SQL database `careconnect_app`)
 
-Created by `deploy/setup_gcp.sh`; the backend creates the tables at startup ([backend/app_api/models.py](backend/app_api/models.py)).
+Created by `deploy/setup_gcp.ps1` (or `.sh`); the backend creates the tables at startup ([backend/app_api/models.py](backend/app_api/models.py)).
 
 | Table | Purpose |
 |---|---|
@@ -734,8 +789,16 @@ State-changing requests from another origin are rejected, login is rate limited,
 
 ### Deploy
 
+Run these in order. The backend fails to start if the `careconnect_app` database doesn't exist yet. The new frontend needs the backend's `/app-api` routes.
+
+```powershell
+.\deploy\setup_gcp.ps1          # creates the careconnect_app database (safe to re-run)
+.\deploy\deploy_backend.ps1     # passes APP_DB_NAME to the backend
+.\deploy\deploy_frontend.ps1
+```
+
 ```bash
-bash deploy/setup_gcp.sh        # creates the careconnect_app database (safe to re-run)
-bash deploy/deploy_backend.sh   # passes APP_DB_NAME to the backend
+bash deploy/setup_gcp.sh
+bash deploy/deploy_backend.sh
 bash deploy/deploy_frontend.sh
 ```

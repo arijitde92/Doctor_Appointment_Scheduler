@@ -1,0 +1,64 @@
+Doctor: Dr. Liv Andersen
+Doctor ID: 2087
+Specialization: General
+Gender: Female
+Years of experience: 30
+City: Trondheim, Norway
+Clinics: Medisinsk Senter Prinsens gate (clinic ID 272)
+
+Review 1 for Dr. Liv Andersen, General, Trondheim
+Rating: 7/10
+Clinic visited: Medisinsk Senter Prinsens gate
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Medisinsk Senter Prinsens gate were inconsistent.
+
+Review 2 for Dr. Liv Andersen, General, Trondheim
+Rating: 6/10
+Clinic visited: Medisinsk Senter Prinsens gate
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 3 for Dr. Liv Andersen, General, Trondheim
+Rating: 6/10
+Clinic visited: Medisinsk Senter Prinsens gate
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Liv Andersen, General, Trondheim
+Rating: 7/10
+Clinic visited: Medisinsk Senter Prinsens gate
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 5 for Dr. Liv Andersen, General, Trondheim
+Rating: 6/10
+Clinic visited: Medisinsk Senter Prinsens gate
+Description: Referrals from Dr. Liv Andersen are handled well, but getting test results back took longer than I was told to expect.
+
+Review 6 for Dr. Liv Andersen, General, Trondheim
+Rating: 7/10
+Clinic visited: Medisinsk Senter Prinsens gate
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The treatment plan from Dr. Liv Andersen made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Liv Andersen, General, Trondheim
+Rating: 7/10
+Clinic visited: Medisinsk Senter Prinsens gate
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 8 for Dr. Liv Andersen, General, Trondheim
+Rating: 8/10
+Clinic visited: Medisinsk Senter Prinsens gate
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. Worth every minute of travel, and I would go again without a second thought.
+
+Review 9 for Dr. Liv Andersen, General, Trondheim
+Rating: 6/10
+Clinic visited: Medisinsk Senter Prinsens gate
+Description: Dr. Liv Andersen is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Liv Andersen, General, Trondheim
+Rating: 5/10
+Clinic visited: Medisinsk Senter Prinsens gate
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 11 for Dr. Liv Andersen, General, Trondheim
+Rating: 5/10
+Clinic visited: Medisinsk Senter Prinsens gate
+Description: I got what I needed, but the next available appointment was three weeks away. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Liv Andersen, General, Trondheim: 6.36/10 from 11 reviews

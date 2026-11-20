@@ -1,0 +1,59 @@
+Doctor: Dr. Maria Bakker
+Doctor ID: 2590
+Specialization: Psychology
+Gender: Female
+Years of experience: 25
+City: Amsterdam, Netherlands
+Clinics: Medisch Centrum Westerpark (clinic ID 339)
+
+Review 1 for Dr. Maria Bakker, Psychology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Westerpark
+Description: Couples therapy at Medisch Centrum Westerpark helped us stop repeating the same argument. We now have a way to pause and listen. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Maria Bakker, Psychology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Westerpark
+Description: The waiting room at Medisch Centrum Westerpark was clean, quiet and comfortable, with enough seating and water available. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Maria Bakker, Psychology, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum Westerpark
+Description: At my visit, Dr. Maria Bakker took notes on my medication list, checked for interactions and explained the changes simply. Online sessions through Medisch Centrum Westerpark worked just as well as in-person ones, and the video link never once failed.
+
+Review 4 for Dr. Maria Bakker, Psychology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Westerpark
+Description: Warm, patient and honest, Dr. Maria Bakker told me what progress to expect and it matched reality.
+
+Review 5 for Dr. Maria Bakker, Psychology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Westerpark
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Maria Bakker gave me practical tools I still use.
+
+Review 6 for Dr. Maria Bakker, Psychology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Westerpark
+Description: Dr. Maria Bakker used a calm, steady voice that settled my nerves before a stressful procedure. Sessions with Dr. Maria Bakker start on time and end on time, which is a small thing that made me feel respected. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Maria Bakker, Psychology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Westerpark
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Maria Bakker, Psychology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Westerpark
+Description: She has a calm way of asking the difficult questions that makes it feel safe to answer honestly. The practice in Amsterdam is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 9 for Dr. Maria Bakker, Psychology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Westerpark
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I would happily recommend this doctor to friends and family.
+
+Review 10 for Dr. Maria Bakker, Psychology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Westerpark
+Description: The office in Amsterdam is quiet and private, and the receptionist never mentions anything in front of other patients. I was given a printed summary of the visit, which I shared with my family at home.
+
+Overall rating for Dr. Maria Bakker, Psychology, Amsterdam: 9.90/10 from 10 reviews

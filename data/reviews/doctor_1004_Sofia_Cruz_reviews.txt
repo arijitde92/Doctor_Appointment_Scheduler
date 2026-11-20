@@ -1,0 +1,59 @@
+Doctor: Dr. Sofía Cruz
+Doctor ID: 1004
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 23
+City: Trujillo, Peru
+Clinics: Centro Médico Larco (clinic ID 131); Policlínica América Sur (clinic ID 133)
+
+Review 1 for Dr. Sofía Cruz, Gastroenterology, Trujillo
+Rating: 10/10
+Clinic visited: Centro Médico Larco
+Description: Sensitive questions were handled by Dr. Sofía Cruz with discretion and without a hint of judgment. Clear explanation from Dr. Sofía Cruz of fatty liver and exactly which lifestyle changes would make a measurable difference.
+
+Review 2 for Dr. Sofía Cruz, Gastroenterology, Trujillo
+Rating: 10/10
+Clinic visited: Centro Médico Larco
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Sofía Cruz, Gastroenterology, Trujillo
+Rating: 9/10
+Clinic visited: Centro Médico Larco
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Review 4 for Dr. Sofía Cruz, Gastroenterology, Trujillo
+Rating: 8/10
+Clinic visited: Policlínica América Sur
+Description: I get regular check-ups for my Crohn's disease, and Dr. Sofía Cruz adjusts my treatment carefully and always explains why. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 5 for Dr. Sofía Cruz, Gastroenterology, Trujillo
+Rating: 6/10
+Clinic visited: Centro Médico Larco
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Sofía Cruz, Gastroenterology, Trujillo
+Rating: 7/10
+Clinic visited: Centro Médico Larco
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Sofía Cruz, Gastroenterology, Trujillo
+Rating: 8/10
+Clinic visited: Centro Médico Larco
+Description: Dr. Sofía Cruz was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Sofía Cruz, Gastroenterology, Trujillo
+Rating: 9/10
+Clinic visited: Policlínica América Sur
+Description: I appreciated that she offered more than one option and let me choose what suited my life. A gentle, respectful manner from Dr. Sofía Cruz made a very awkward exam bearable, with every step explained before it happened. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. Sofía Cruz, Gastroenterology, Trujillo
+Rating: 8/10
+Clinic visited: Centro Médico Larco
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 10 for Dr. Sofía Cruz, Gastroenterology, Trujillo
+Rating: 9/10
+Clinic visited: Policlínica América Sur
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Overall rating for Dr. Sofía Cruz, Gastroenterology, Trujillo: 8.40/10 from 10 reviews

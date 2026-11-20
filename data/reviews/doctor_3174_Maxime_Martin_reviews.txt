@@ -1,0 +1,69 @@
+Doctor: Dr. Maxime Martin
+Doctor ID: 3174
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 2
+City: Liege, Belgium
+Clinics: Polyclinique d'Outremeuse (clinic ID 412)
+
+Review 1 for Dr. Maxime Martin, Pulmonology, Liege
+Rating: 9/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Everything was explained in plain English by Dr. Maxime Martin, and nothing was left to guess. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Maxime Martin, Pulmonology, Liege
+Rating: 10/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. Prescriptions from Dr. Maxime Martin were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 3 for Dr. Maxime Martin, Pulmonology, Liege
+Rating: 6/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Pleasant manner and careful lung exam, though the waiting time at Polyclinique d'Outremeuse regularly exceeded forty minutes. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Maxime Martin, Pulmonology, Liege
+Rating: 8/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: The spirometry test was explained step by step, and Dr. Maxime Martin put the results in context with a clear picture of my lung function. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Maxime Martin, Pulmonology, Liege
+Rating: 7/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Maxime Martin, Pulmonology, Liege
+Rating: 9/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 7 for Dr. Maxime Martin, Pulmonology, Liege
+Rating: 8/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: After years of poorly controlled asthma, Dr. Maxime Martin reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 8 for Dr. Maxime Martin, Pulmonology, Liege
+Rating: 7/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Maxime Martin adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 9 for Dr. Maxime Martin, Pulmonology, Liege
+Rating: 7/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 10 for Dr. Maxime Martin, Pulmonology, Liege
+Rating: 9/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Dr. Maxime Martin used a calm, steady voice that settled my nerves before a stressful procedure. Dr. Maxime Martin explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 11 for Dr. Maxime Martin, Pulmonology, Liege
+Rating: 6/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Helpful and honest about my prognosis, Dr. Maxime Martin could still have given me more written material to take home. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 12 for Dr. Maxime Martin, Pulmonology, Liege
+Rating: 6/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Quick appointment and a fair price in Liege, but the staff seemed overwhelmed and a bit curt on the phone. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Overall rating for Dr. Maxime Martin, Pulmonology, Liege: 7.67/10 from 12 reviews

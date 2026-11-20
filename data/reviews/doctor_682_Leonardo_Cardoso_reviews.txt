@@ -1,0 +1,69 @@
+Doctor: Dr. Leonardo Cardoso
+Doctor ID: 682
+Specialization: Neurology
+Gender: Male
+Years of experience: 7
+City: Sao Paulo, Brazil
+Clinics: Clínica Vila Madalena Saúde (clinic ID 90); Policlínica Paulista Vida (clinic ID 92)
+
+Review 1 for Dr. Leonardo Cardoso, Neurology, Sao Paulo
+Rating: 5/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 2 for Dr. Leonardo Cardoso, Neurology, Sao Paulo
+Rating: 7/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 3 for Dr. Leonardo Cardoso, Neurology, Sao Paulo
+Rating: 5/10
+Clinic visited: Policlínica Paulista Vida
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Leonardo Cardoso, Neurology, Sao Paulo
+Rating: 8/10
+Clinic visited: Policlínica Paulista Vida
+Description: I always leave Dr. Leonardo Cardoso's office with a short written summary of changes, which helps my family keep up.
+
+Review 5 for Dr. Leonardo Cardoso, Neurology, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: Dr. Leonardo Cardoso was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. The migraine plan has helped, though the first medication caused side effects that were not fully explained. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Leonardo Cardoso, Neurology, Sao Paulo
+Rating: 9/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: The memory assessment for my father at Clínica Vila Madalena Saúde was gentle and respectful, and the family received a clear written summary.
+
+Review 7 for Dr. Leonardo Cardoso, Neurology, Sao Paulo
+Rating: 9/10
+Clinic visited: Policlínica Paulista Vida
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 8 for Dr. Leonardo Cardoso, Neurology, Sao Paulo
+Rating: 9/10
+Clinic visited: Policlínica Paulista Vida
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Leonardo Cardoso, Neurology, Sao Paulo
+Rating: 7/10
+Clinic visited: Policlínica Paulista Vida
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 10 for Dr. Leonardo Cardoso, Neurology, Sao Paulo
+Rating: 8/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: He patiently explained my MRI findings and calmed my worries about memory problems.
+
+Review 11 for Dr. Leonardo Cardoso, Neurology, Sao Paulo
+Rating: 8/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 12 for Dr. Leonardo Cardoso, Neurology, Sao Paulo
+Rating: 9/10
+Clinic visited: Policlínica Paulista Vida
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Dr. Leonardo Cardoso took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Leonardo Cardoso, Neurology, Sao Paulo: 7.50/10 from 12 reviews

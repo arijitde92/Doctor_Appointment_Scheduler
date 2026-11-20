@@ -1,0 +1,49 @@
+Doctor: Dr. Karolina Kowalczyk
+Doctor ID: 2787
+Specialization: Cardiology
+Gender: Female
+Years of experience: 24
+City: Warsaw, Poland
+Clinics: Centrum Medyczne Marszałkowska Plus (clinic ID 365); Przychodnia Mokotów Park (clinic ID 366); Gabinety Lekarskie Śródmieście (clinic ID 368)
+
+Review 1 for Dr. Karolina Kowalczyk, Cardiology, Warsaw
+Rating: 6/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Thorough exam and a good plan, yet the stress test appointment was almost a month away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Karolina Kowalczyk, Cardiology, Warsaw
+Rating: 10/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices.
+
+Review 3 for Dr. Karolina Kowalczyk, Cardiology, Warsaw
+Rating: 9/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 4 for Dr. Karolina Kowalczyk, Cardiology, Warsaw
+Rating: 7/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: The treatment plan from Dr. Karolina Kowalczyk made sense, but I wished it had been written down for me to take away. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 5 for Dr. Karolina Kowalczyk, Cardiology, Warsaw
+Rating: 10/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Karolina Kowalczyk, Cardiology, Warsaw
+Rating: 7/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Karolina Kowalczyk, Cardiology, Warsaw
+Rating: 9/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. The cardiology unit at Centrum Medyczne Marszałkowska Plus runs on time, and the technicians were professional during my echocardiogram.
+
+Review 8 for Dr. Karolina Kowalczyk, Cardiology, Warsaw
+Rating: 8/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Karolina Kowalczyk felt well organized from start to finish. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Karolina Kowalczyk, Cardiology, Warsaw: 8.25/10 from 8 reviews

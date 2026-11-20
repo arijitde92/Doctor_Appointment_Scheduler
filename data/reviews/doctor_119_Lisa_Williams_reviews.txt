@@ -1,0 +1,54 @@
+Doctor: Dr. Lisa Williams
+Doctor ID: 119
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: Chicago, USA
+Clinics: Hyde Park Medical Associates (clinic ID 18)
+
+Review 1 for Dr. Lisa Williams, Cardiology, Chicago
+Rating: 5/10
+Clinic visited: Hyde Park Medical Associates
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Dr. Lisa Williams was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Lisa Williams, Cardiology, Chicago
+Rating: 5/10
+Clinic visited: Hyde Park Medical Associates
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 3 for Dr. Lisa Williams, Cardiology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Helpful with my cholesterol, Dr. Lisa Williams still gave dietary advice that was a little generic.
+
+Review 4 for Dr. Lisa Williams, Cardiology, Chicago
+Rating: 6/10
+Clinic visited: Hyde Park Medical Associates
+Description: Dr. Lisa Williams adjusted my blood pressure medication carefully, though I had to call twice for a refill. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Lisa Williams, Cardiology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Great care in the visit itself, but the billing for the tests at Hyde Park Medical Associates was confusing.
+
+Review 6 for Dr. Lisa Williams, Cardiology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: I liked the advice I got from Dr. Lisa Williams, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Lisa Williams, Cardiology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 8 for Dr. Lisa Williams, Cardiology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Good bedside manner from Dr. Lisa Williams, but the parking near Hyde Park Medical Associates is limited and I had to circle for fifteen minutes.
+
+Review 9 for Dr. Lisa Williams, Cardiology, Chicago
+Rating: 5/10
+Clinic visited: Hyde Park Medical Associates
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Lisa Williams, Cardiology, Chicago: 6.22/10 from 9 reviews

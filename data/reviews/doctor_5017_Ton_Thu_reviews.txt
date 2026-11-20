@@ -1,0 +1,49 @@
+Doctor: Dr. Ton Thu
+Doctor ID: 5017
+Specialization: Pathology
+Gender: Female
+Years of experience: 20
+City: Hanoi, Vietnam
+Clinics: Phong Kham Da Khoa Thien Phuc (clinic ID 648)
+
+Review 1 for Dr. Ton Thu, Pathology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Ton Thu, Pathology, Hanoi
+Rating: 4/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The report was handed over by Dr. Ton Thu with no explanation, and I left frightened and confused about the terminology. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 3 for Dr. Ton Thu, Pathology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Ton Thu, Pathology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Ton Thu, Pathology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Dr. Ton Thu answered my questions kindly, though the call back took three days. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Ton Thu, Pathology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Booking was easy online, but the confirmation email contained the wrong address for Phong Kham Da Khoa Thien Phuc. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Ton Thu, Pathology, Hanoi
+Rating: 4/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 8 for Dr. Ton Thu, Pathology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Good bedside manner from Dr. Ton Thu, but the parking near Phong Kham Da Khoa Thien Phuc is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Ton Thu, Pathology, Hanoi: 5.88/10 from 8 reviews

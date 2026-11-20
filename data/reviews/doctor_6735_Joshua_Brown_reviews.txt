@@ -1,0 +1,54 @@
+Doctor: Dr. Joshua Brown
+Doctor ID: 6735
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 6
+City: Wellington, New Zealand
+Clinics: Manuka Health Clinic (clinic ID 873); Waitemata Medical Practice (clinic ID 874)
+
+Review 1 for Dr. Joshua Brown, Pediatrics, Wellington
+Rating: 10/10
+Clinic visited: Waitemata Medical Practice
+Description: He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. Dr. Joshua Brown looked me in the eye, listened to the whole story and only then started typing. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Joshua Brown, Pediatrics, Wellington
+Rating: 10/10
+Clinic visited: Waitemata Medical Practice
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 3 for Dr. Joshua Brown, Pediatrics, Wellington
+Rating: 9/10
+Clinic visited: Waitemata Medical Practice
+Description: We got a same-day appointment for a high fever, and the care at Waitemata Medical Practice was kind and efficient. Dr. Joshua Brown drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Joshua Brown, Pediatrics, Wellington
+Rating: 10/10
+Clinic visited: Waitemata Medical Practice
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Joshua Brown, Pediatrics, Wellington
+Rating: 9/10
+Clinic visited: Manuka Health Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 6 for Dr. Joshua Brown, Pediatrics, Wellington
+Rating: 10/10
+Clinic visited: Waitemata Medical Practice
+Description: Paperwork at Waitemata Medical Practice was kept to a minimum, and the staff helped me complete the insurance form. Our family has been coming for years, and he remembers each child's history and personality.
+
+Review 7 for Dr. Joshua Brown, Pediatrics, Wellington
+Rating: 10/10
+Clinic visited: Manuka Health Clinic
+Description: The school physical at Manuka Health Clinic was quick, thorough and the forms were completed on the spot.
+
+Review 8 for Dr. Joshua Brown, Pediatrics, Wellington
+Rating: 8/10
+Clinic visited: Manuka Health Clinic
+Description: My child's asthma action plan from Dr. Joshua Brown was written out clearly so that school staff could follow it too. The practice in Wellington is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 9 for Dr. Joshua Brown, Pediatrics, Wellington
+Rating: 9/10
+Clinic visited: Waitemata Medical Practice
+Description: Sensitive questions were handled by Dr. Joshua Brown with discretion and without a hint of judgment. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Joshua Brown, Pediatrics, Wellington: 9.44/10 from 9 reviews

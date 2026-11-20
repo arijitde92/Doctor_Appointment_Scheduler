@@ -1,0 +1,54 @@
+Doctor: Dr. Okada Tsuyoshi
+Doctor ID: 4115
+Specialization: Pathology
+Gender: Male
+Years of experience: 9
+City: Yokohama, Japan
+Clinics: Yokohama Station Kaze Medical Clinic (clinic ID 531)
+
+Review 1 for Dr. Okada Tsuyoshi, Pathology, Yokohama
+Rating: 6/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Booking was easy online, but the confirmation email contained the wrong address for Yokohama Station Kaze Medical Clinic.
+
+Review 2 for Dr. Okada Tsuyoshi, Pathology, Yokohama
+Rating: 6/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: I liked the advice I got from Dr. Okada Tsuyoshi, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Okada Tsuyoshi, Pathology, Yokohama
+Rating: 7/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Okada Tsuyoshi, Pathology, Yokohama
+Rating: 5/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 5 for Dr. Okada Tsuyoshi, Pathology, Yokohama
+Rating: 6/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Dr. Okada Tsuyoshi was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Okada Tsuyoshi, Pathology, Yokohama
+Rating: 7/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: The blood draw was painless, but the waiting area at Yokohama Station Kaze Medical Clinic was crowded in the early morning.
+
+Review 7 for Dr. Okada Tsuyoshi, Pathology, Yokohama
+Rating: 7/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Dr. Okada Tsuyoshi answered my questions kindly, though the call back took three days. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Okada Tsuyoshi, Pathology, Yokohama
+Rating: 5/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 9 for Dr. Okada Tsuyoshi, Pathology, Yokohama
+Rating: 8/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Prescriptions from Dr. Okada Tsuyoshi were sent to my pharmacy before I even left the building, and the dosage instructions were written down. He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Okada Tsuyoshi, Pathology, Yokohama: 6.33/10 from 9 reviews

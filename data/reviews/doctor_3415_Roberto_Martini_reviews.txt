@@ -1,0 +1,64 @@
+Doctor: Dr. Roberto Martini
+Doctor ID: 3415
+Specialization: Pathology
+Gender: Male
+Years of experience: 10
+City: Milan, Italy
+Clinics: Clinica Santa Giulia (clinic ID 443)
+
+Review 1 for Dr. Roberto Martini, Pathology, Milan
+Rating: 9/10
+Clinic visited: Clinica Santa Giulia
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Roberto Martini, Pathology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 3 for Dr. Roberto Martini, Pathology, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Fast turnaround at Clinica Santa Giulia on my thyroid panel, with results in my online account by the next morning. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Roberto Martini, Pathology, Milan
+Rating: 9/10
+Clinic visited: Clinica Santa Giulia
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. At my visit, Dr. Roberto Martini took notes on my medication list, checked for interactions and explained the changes simply. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Roberto Martini, Pathology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Dr. Roberto Martini answered my questions kindly, though the call back took three days.
+
+Review 6 for Dr. Roberto Martini, Pathology, Milan
+Rating: 9/10
+Clinic visited: Clinica Santa Giulia
+Description: He was upfront about what could and could not be treated, and did not oversell any option. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Roberto Martini, Pathology, Milan
+Rating: 6/10
+Clinic visited: Clinica Santa Giulia
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 8 for Dr. Roberto Martini, Pathology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: The blood draw was painless, but the waiting area at Clinica Santa Giulia was crowded in the early morning. I liked the advice I got from Dr. Roberto Martini, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 9 for Dr. Roberto Martini, Pathology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Quick appointment and a fair price in Milan, but the staff seemed overwhelmed and a bit curt on the phone. Helpful in clarifying a borderline result, though Dr. Roberto Martini gave little guidance about whether to repeat it.
+
+Review 10 for Dr. Roberto Martini, Pathology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Dr. Roberto Martini was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Worth trying, but I would not call it the best option in the area.
+
+Review 11 for Dr. Roberto Martini, Pathology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Roberto Martini, Pathology, Milan: 7.55/10 from 11 reviews

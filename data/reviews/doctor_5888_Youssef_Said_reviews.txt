@@ -1,0 +1,54 @@
+Doctor: Dr. Youssef Said
+Doctor ID: 5888
+Specialization: Cardiology
+Gender: Male
+Years of experience: 6
+City: Cairo, Egypt
+Clinics: Nile Garden Family Clinic (clinic ID 760)
+
+Review 1 for Dr. Youssef Said, Cardiology, Cairo
+Rating: 10/10
+Clinic visited: Nile Garden Family Clinic
+Description: Honest about the risks and benefits of the procedure, Dr. Youssef Said never pressured me toward surgery. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 2 for Dr. Youssef Said, Cardiology, Cairo
+Rating: 9/10
+Clinic visited: Nile Garden Family Clinic
+Description: Managing my blood pressure with Dr. Youssef Said has been steady and practical, with home readings reviewed at every visit.
+
+Review 3 for Dr. Youssef Said, Cardiology, Cairo
+Rating: 5/10
+Clinic visited: Nile Garden Family Clinic
+Description: The treatment plan from Dr. Youssef Said made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Youssef Said, Cardiology, Cairo
+Rating: 8/10
+Clinic visited: Nile Garden Family Clinic
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 5 for Dr. Youssef Said, Cardiology, Cairo
+Rating: 10/10
+Clinic visited: Nile Garden Family Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Youssef Said, Cardiology, Cairo
+Rating: 8/10
+Clinic visited: Nile Garden Family Clinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense. After my palpitations began, Dr. Youssef Said arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Youssef Said, Cardiology, Cairo
+Rating: 7/10
+Clinic visited: Nile Garden Family Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Youssef Said, Cardiology, Cairo
+Rating: 6/10
+Clinic visited: Nile Garden Family Clinic
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Youssef Said, Cardiology, Cairo
+Rating: 9/10
+Clinic visited: Nile Garden Family Clinic
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Overall rating for Dr. Youssef Said, Cardiology, Cairo: 8.00/10 from 9 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Anna Johansen
+Doctor ID: 2279
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 9
+City: Aalborg, Denmark
+Clinics: Sundhedscenter Vesterbro Aalborg (clinic ID 297); Lægehuset Algade Plus (clinic ID 298)
+
+Review 1 for Dr. Anna Johansen, Gastroenterology, Aalborg
+Rating: 6/10
+Clinic visited: Lægehuset Algade Plus
+Description: Quick appointment and a fair price in Aalborg, but the staff seemed overwhelmed and a bit curt on the phone. Knowledgeable about my reflux, Dr. Anna Johansen still gave diet advice that felt generic and not tailored to my habits. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Anna Johansen, Gastroenterology, Aalborg
+Rating: 7/10
+Clinic visited: Lægehuset Algade Plus
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 3 for Dr. Anna Johansen, Gastroenterology, Aalborg
+Rating: 4/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: My symptoms were dismissed by Dr. Anna Johansen as a diet issue without any exam, and the problem continued for months. Dr. Anna Johansen did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 4 for Dr. Anna Johansen, Gastroenterology, Aalborg
+Rating: 6/10
+Clinic visited: Lægehuset Algade Plus
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 5 for Dr. Anna Johansen, Gastroenterology, Aalborg
+Rating: 9/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: She never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 6 for Dr. Anna Johansen, Gastroenterology, Aalborg
+Rating: 5/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 7 for Dr. Anna Johansen, Gastroenterology, Aalborg
+Rating: 6/10
+Clinic visited: Lægehuset Algade Plus
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 8 for Dr. Anna Johansen, Gastroenterology, Aalborg
+Rating: 7/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: Dr. Anna Johansen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Anna Johansen is thorough, but I waited nearly two months to get the first available slot.
+
+Review 9 for Dr. Anna Johansen, Gastroenterology, Aalborg
+Rating: 6/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 10 for Dr. Anna Johansen, Gastroenterology, Aalborg
+Rating: 5/10
+Clinic visited: Lægehuset Algade Plus
+Description: Booking was easy online, but the confirmation email contained the wrong address for Lægehuset Algade Plus.
+
+Review 11 for Dr. Anna Johansen, Gastroenterology, Aalborg
+Rating: 6/10
+Clinic visited: Lægehuset Algade Plus
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. I got what I needed, but the next available appointment was three weeks away.
+
+Review 12 for Dr. Anna Johansen, Gastroenterology, Aalborg
+Rating: 5/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Anna Johansen, Gastroenterology, Aalborg: 6.00/10 from 12 reviews

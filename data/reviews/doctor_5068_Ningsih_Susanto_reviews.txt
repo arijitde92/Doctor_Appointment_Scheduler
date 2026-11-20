@@ -1,0 +1,54 @@
+Doctor: Dr. Ningsih Susanto
+Doctor ID: 5068
+Specialization: Radiology
+Gender: Female
+Years of experience: 3
+City: Bandung, Indonesia
+Clinics: Klinik Rahayu Medika (clinic ID 655); Klinik Anugerah Sehat (clinic ID 656)
+
+Review 1 for Dr. Ningsih Susanto, Radiology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Anugerah Sehat
+Description: Dr. Ningsih Susanto was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Ningsih Susanto answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 2 for Dr. Ningsih Susanto, Radiology, Bandung
+Rating: 4/10
+Clinic visited: Klinik Rahayu Medika
+Description: The staff at Klinik Rahayu Medika were curt on the phone, and it took four attempts to book a simple follow-up. The technologist gave almost no instructions before my MRI, and I had to repeat part of the scan because I moved. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 3 for Dr. Ningsih Susanto, Radiology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Anugerah Sehat
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Ningsih Susanto, Radiology, Bandung
+Rating: 9/10
+Clinic visited: Klinik Rahayu Medika
+Description: Booking a CT scan online at Klinik Rahayu Medika took two minutes, and I was in and out within forty minutes.
+
+Review 5 for Dr. Ningsih Susanto, Radiology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Rahayu Medika
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Ningsih Susanto, Radiology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Rahayu Medika
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 7 for Dr. Ningsih Susanto, Radiology, Bandung
+Rating: 8/10
+Clinic visited: Klinik Rahayu Medika
+Description: Reviewing my X-ray together with Dr. Ningsih Susanto on the screen made it much easier to understand my arthritis. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 8 for Dr. Ningsih Susanto, Radiology, Bandung
+Rating: 8/10
+Clinic visited: Klinik Anugerah Sehat
+Description: Getting to Klinik Anugerah Sehat by public transport in Bandung was easy, and there is a step-free entrance for wheelchairs.
+
+Review 9 for Dr. Ningsih Susanto, Radiology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Rahayu Medika
+Description: Booking was easy online, but the confirmation email contained the wrong address for Klinik Rahayu Medika.
+
+Overall rating for Dr. Ningsih Susanto, Radiology, Bandung: 7.00/10 from 9 reviews

@@ -1,6 +1,7 @@
 import clsx from "clsx";
 import { CalendarCheck, CircleAlert, Clock3, ExternalLink } from "lucide-react";
 
+import { isValidTimeZone, zoneCity } from "../lib/timezones";
 import type { Booking } from "../lib/types";
 import { Card } from "./ui";
 
@@ -19,7 +20,7 @@ export function BookingCard({ booking }: { booking: Booking }) {
     ["Speciality", d.specialization],
     ["Clinic", d.clinic],
     ["Date", d.date ? formatDate(d.date) : undefined],
-    ["Time", d.time],
+    ["Time", d.time && isValidTimeZone(d.timeZone) ? `${d.time} (${zoneCity(d.timeZone)} time)` : d.time],
   ];
 
   return (

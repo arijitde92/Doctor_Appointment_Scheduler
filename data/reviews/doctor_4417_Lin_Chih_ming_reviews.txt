@@ -1,0 +1,54 @@
+Doctor: Dr. Lin Chih-ming
+Doctor ID: 4417
+Specialization: Cardiology
+Gender: Male
+Years of experience: 24
+City: Tainan, Taiwan
+Clinics: North District Shengyuan Medical Clinic (clinic ID 569)
+
+Review 1 for Dr. Lin Chih-ming, Cardiology, Tainan
+Rating: 10/10
+Clinic visited: North District Shengyuan Medical Clinic
+Description: I was called in within five minutes of my appointment time at North District Shengyuan Medical Clinic, which is rare and much appreciated.
+
+Review 2 for Dr. Lin Chih-ming, Cardiology, Tainan
+Rating: 10/10
+Clinic visited: North District Shengyuan Medical Clinic
+Description: After my palpitations began, Dr. Lin Chih-ming arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 3 for Dr. Lin Chih-ming, Cardiology, Tainan
+Rating: 9/10
+Clinic visited: North District Shengyuan Medical Clinic
+Description: Dr. Lin Chih-ming explained the difference between my statin options and let me weigh in on the choice. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 4 for Dr. Lin Chih-ming, Cardiology, Tainan
+Rating: 10/10
+Clinic visited: North District Shengyuan Medical Clinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 5 for Dr. Lin Chih-ming, Cardiology, Tainan
+Rating: 10/10
+Clinic visited: North District Shengyuan Medical Clinic
+Description: Honest about the risks and benefits of the procedure, Dr. Lin Chih-ming never pressured me toward surgery.
+
+Review 6 for Dr. Lin Chih-ming, Cardiology, Tainan
+Rating: 8/10
+Clinic visited: North District Shengyuan Medical Clinic
+Description: The cardiology unit at North District Shengyuan Medical Clinic runs on time, and the technicians were professional during my echocardiogram.
+
+Review 7 for Dr. Lin Chih-ming, Cardiology, Tainan
+Rating: 10/10
+Clinic visited: North District Shengyuan Medical Clinic
+Description: Prescriptions from Dr. Lin Chih-ming were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Lin Chih-ming, Cardiology, Tainan
+Rating: 6/10
+Clinic visited: North District Shengyuan Medical Clinic
+Description: Great care in the visit itself, but the billing for the tests at North District Shengyuan Medical Clinic was confusing. Dr. Lin Chih-ming was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 9 for Dr. Lin Chih-ming, Cardiology, Tainan
+Rating: 7/10
+Clinic visited: North District Shengyuan Medical Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for North District Shengyuan Medical Clinic.
+
+Overall rating for Dr. Lin Chih-ming, Cardiology, Tainan: 8.89/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Manuel Vargas Salazar
+Doctor ID: 428
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 17
+City: Guadalajara, Mexico
+Clinics: Policlínica Minerva (clinic ID 59)
+
+Review 1 for Dr. Manuel Vargas Salazar, Pulmonology, Guadalajara
+Rating: 7/10
+Clinic visited: Policlínica Minerva
+Description: Helpful and honest about my prognosis, Dr. Manuel Vargas Salazar could still have given me more written material to take home. Good bedside manner from Dr. Manuel Vargas Salazar, but the parking near Policlínica Minerva is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Manuel Vargas Salazar, Pulmonology, Guadalajara
+Rating: 7/10
+Clinic visited: Policlínica Minerva
+Description: Dr. Manuel Vargas Salazar adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 3 for Dr. Manuel Vargas Salazar, Pulmonology, Guadalajara
+Rating: 8/10
+Clinic visited: Policlínica Minerva
+Description: The spirometry test was explained step by step, and Dr. Manuel Vargas Salazar put the results in context with a clear picture of my lung function. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Manuel Vargas Salazar, Pulmonology, Guadalajara
+Rating: 9/10
+Clinic visited: Policlínica Minerva
+Description: At Policlínica Minerva, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 5 for Dr. Manuel Vargas Salazar, Pulmonology, Guadalajara
+Rating: 8/10
+Clinic visited: Policlínica Minerva
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. Everything was explained in plain English by Dr. Manuel Vargas Salazar, and nothing was left to guess. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Manuel Vargas Salazar, Pulmonology, Guadalajara
+Rating: 4/10
+Clinic visited: Policlínica Minerva
+Description: The breathing test appointment was cancelled the day before, and the next slot was six weeks away. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 7 for Dr. Manuel Vargas Salazar, Pulmonology, Guadalajara
+Rating: 6/10
+Clinic visited: Policlínica Minerva
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Pleasant manner and careful lung exam, though the waiting time at Policlínica Minerva regularly exceeded forty minutes.
+
+Review 8 for Dr. Manuel Vargas Salazar, Pulmonology, Guadalajara
+Rating: 6/10
+Clinic visited: Policlínica Minerva
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Manuel Vargas Salazar, Pulmonology, Guadalajara: 6.88/10 from 8 reviews

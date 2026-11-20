@@ -1,0 +1,54 @@
+Doctor: Dr. Sato Misaki
+Doctor ID: 4055
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 5
+City: Osaka, Japan
+Clinics: Honmachi Kaede Health Clinic (clinic ID 523)
+
+Review 1 for Dr. Sato Misaki, Pediatrics, Osaka
+Rating: 8/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 2 for Dr. Sato Misaki, Pediatrics, Osaka
+Rating: 6/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Good bedside manner from Dr. Sato Misaki, but the parking near Honmachi Kaede Health Clinic is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Sato Misaki, Pediatrics, Osaka
+Rating: 7/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Dr. Sato Misaki is thorough with exams, but the after-hours phone line at Honmachi Kaede Health Clinic is hard to reach. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Sato Misaki, Pediatrics, Osaka
+Rating: 10/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Dr. Sato Misaki noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 5 for Dr. Sato Misaki, Pediatrics, Osaka
+Rating: 8/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: The school physical at Honmachi Kaede Health Clinic was quick, thorough and the forms were completed on the spot.
+
+Review 6 for Dr. Sato Misaki, Pediatrics, Osaka
+Rating: 5/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Dr. Sato Misaki was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Sato Misaki, Pediatrics, Osaka
+Rating: 9/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: The growth chart review was detailed, and I appreciated that Dr. Sato Misaki talked to my child as well as to me. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Sato Misaki, Pediatrics, Osaka
+Rating: 9/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: The waiting room in Osaka has a play corner and separate seating for sick children, which I really valued. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 9 for Dr. Sato Misaki, Pediatrics, Osaka
+Rating: 7/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Caring and gentle with my child, Dr. Sato Misaki nonetheless ran forty minutes behind schedule at most appointments. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Overall rating for Dr. Sato Misaki, Pediatrics, Osaka: 7.67/10 from 9 reviews

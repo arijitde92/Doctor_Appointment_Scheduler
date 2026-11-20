@@ -1,0 +1,64 @@
+Doctor: Dr. Liza Castillo
+Doctor ID: 4840
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 17
+City: Manila, Philippines
+Clinics: Klinika Santa Teresita (clinic ID 625); Klinika Luntian (clinic ID 629)
+
+Review 1 for Dr. Liza Castillo, Pulmonology, Manila
+Rating: 9/10
+Clinic visited: Klinika Santa Teresita
+Description: The spirometry test was explained step by step, and Dr. Liza Castillo put the results in context with a clear picture of my lung function.
+
+Review 2 for Dr. Liza Castillo, Pulmonology, Manila
+Rating: 7/10
+Clinic visited: Klinika Luntian
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 3 for Dr. Liza Castillo, Pulmonology, Manila
+Rating: 9/10
+Clinic visited: Klinika Luntian
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Liza Castillo.
+
+Review 4 for Dr. Liza Castillo, Pulmonology, Manila
+Rating: 8/10
+Clinic visited: Klinika Luntian
+Description: Paperwork at Klinika Luntian was kept to a minimum, and the staff helped me complete the insurance form. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Liza Castillo, Pulmonology, Manila
+Rating: 10/10
+Clinic visited: Klinika Santa Teresita
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Liza Castillo was practical and never preachy. The practice in Manila is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Liza Castillo, Pulmonology, Manila
+Rating: 10/10
+Clinic visited: Klinika Luntian
+Description: She called personally with my scan results and walked me through what the findings did and did not mean. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 7 for Dr. Liza Castillo, Pulmonology, Manila
+Rating: 8/10
+Clinic visited: Klinika Luntian
+Description: Dr. Liza Castillo explained my lung nodule follow-up schedule calmly, which took away weeks of worry. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Liza Castillo, Pulmonology, Manila
+Rating: 8/10
+Clinic visited: Klinika Santa Teresita
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 9 for Dr. Liza Castillo, Pulmonology, Manila
+Rating: 9/10
+Clinic visited: Klinika Luntian
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 10 for Dr. Liza Castillo, Pulmonology, Manila
+Rating: 8/10
+Clinic visited: Klinika Santa Teresita
+Description: After years of poorly controlled asthma, Dr. Liza Castillo reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 11 for Dr. Liza Castillo, Pulmonology, Manila
+Rating: 10/10
+Clinic visited: Klinika Luntian
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. She took my chronic cough seriously, ordered a chest scan and found the cause within two weeks.
+
+Overall rating for Dr. Liza Castillo, Pulmonology, Manila: 8.73/10 from 11 reviews

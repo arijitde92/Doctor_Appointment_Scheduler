@@ -1,0 +1,64 @@
+Doctor: Dr. Bjørn Iversen
+Doctor ID: 2035
+Specialization: Cardiology
+Gender: Male
+Years of experience: 8
+City: Stavanger, Norway
+Clinics: Legesenteret Olav V Plus (clinic ID 265); Medisinsk Senter Kongsgård (clinic ID 267); Legekontoret Madla (clinic ID 268)
+
+Review 1 for Dr. Bjørn Iversen, Cardiology, Stavanger
+Rating: 9/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Managing my blood pressure with Dr. Bjørn Iversen has been steady and practical, with home readings reviewed at every visit. A translator was arranged for my mother without us asking twice, and Dr. Bjørn Iversen spoke directly to her throughout.
+
+Review 2 for Dr. Bjørn Iversen, Cardiology, Stavanger
+Rating: 9/10
+Clinic visited: Legesenteret Olav V Plus
+Description: The practice in Stavanger is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 3 for Dr. Bjørn Iversen, Cardiology, Stavanger
+Rating: 9/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. My atrial fibrillation is well managed by Dr. Bjørn Iversen, and I know exactly what symptoms mean I should call.
+
+Review 4 for Dr. Bjørn Iversen, Cardiology, Stavanger
+Rating: 8/10
+Clinic visited: Legekontoret Madla
+Description: At my visit, Dr. Bjørn Iversen took notes on my medication list, checked for interactions and explained the changes simply. After my heart attack, Dr. Bjørn Iversen explained the rehab plan and medication changes with great patience and kindness. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Bjørn Iversen, Cardiology, Stavanger
+Rating: 9/10
+Clinic visited: Legekontoret Madla
+Description: The cardiology unit at Legekontoret Madla runs on time, and the technicians were professional during my echocardiogram.
+
+Review 6 for Dr. Bjørn Iversen, Cardiology, Stavanger
+Rating: 8/10
+Clinic visited: Legesenteret Olav V Plus
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Bjørn Iversen felt well organized from start to finish. My stress test was supervised carefully, and Dr. Bjørn Iversen reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 7 for Dr. Bjørn Iversen, Cardiology, Stavanger
+Rating: 10/10
+Clinic visited: Legesenteret Olav V Plus
+Description: Seeing Dr. Bjørn Iversen in Stavanger meant my whole family history was reviewed, and now my sister is being screened too. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Bjørn Iversen, Cardiology, Stavanger
+Rating: 8/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Clear and calm advice at Medisinsk Senter Kongsgård about exercise after my stent, including a gradual written schedule. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 9 for Dr. Bjørn Iversen, Cardiology, Stavanger
+Rating: 9/10
+Clinic visited: Legesenteret Olav V Plus
+Description: Getting to Legesenteret Olav V Plus by public transport in Stavanger was easy, and there is a step-free entrance for wheelchairs. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 10 for Dr. Bjørn Iversen, Cardiology, Stavanger
+Rating: 7/10
+Clinic visited: Legesenteret Olav V Plus
+Description: Helpful with my cholesterol, Dr. Bjørn Iversen still gave dietary advice that was a little generic.
+
+Review 11 for Dr. Bjørn Iversen, Cardiology, Stavanger
+Rating: 8/10
+Clinic visited: Legesenteret Olav V Plus
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Bjørn Iversen, Cardiology, Stavanger: 8.55/10 from 11 reviews

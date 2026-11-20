@@ -1,0 +1,49 @@
+Doctor: Dr. Luc Lambert
+Doctor ID: 3123
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 16
+City: Ghent, Belgium
+Clinics: Medisch Centrum Korenmarkt (clinic ID 405); Medisch Centrum Vlasmarkt (clinic ID 409)
+
+Review 1 for Dr. Luc Lambert, Gastroenterology, Ghent
+Rating: 9/10
+Clinic visited: Medisch Centrum Korenmarkt
+Description: He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. Dr. Luc Lambert looked me in the eye, listened to the whole story and only then started typing.
+
+Review 2 for Dr. Luc Lambert, Gastroenterology, Ghent
+Rating: 8/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: I came away understanding my condition better than I have in years of previous appointments. I get regular check-ups for my Crohn's disease, and Dr. Luc Lambert adjusts my treatment carefully and always explains why.
+
+Review 3 for Dr. Luc Lambert, Gastroenterology, Ghent
+Rating: 8/10
+Clinic visited: Medisch Centrum Korenmarkt
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. Dr. Luc Lambert drew a quick sketch to explain what was going on, which helped me remember it afterwards. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Luc Lambert, Gastroenterology, Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 5 for Dr. Luc Lambert, Gastroenterology, Ghent
+Rating: 8/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Helpful dietitian referral from Dr. Luc Lambert and written guidance for living with ulcerative colitis. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 6 for Dr. Luc Lambert, Gastroenterology, Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Korenmarkt
+Description: Dr. Luc Lambert is thorough, but I waited nearly two months to get the first available slot. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Luc Lambert, Gastroenterology, Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 8 for Dr. Luc Lambert, Gastroenterology, Ghent
+Rating: 10/10
+Clinic visited: Medisch Centrum Korenmarkt
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner.
+
+Overall rating for Dr. Luc Lambert, Gastroenterology, Ghent: 8.00/10 from 8 reviews

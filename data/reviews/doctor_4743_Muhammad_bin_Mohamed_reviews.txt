@@ -1,0 +1,49 @@
+Doctor: Dr. Muhammad bin Mohamed
+Doctor ID: 4743
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 10
+City: Kuala Lumpur, Malaysia
+Clinics: Taman Sari Medical Centre (clinic ID 612)
+
+Review 1 for Dr. Muhammad bin Mohamed, Obstetrics and Gynecology (OB/GYN), Kuala Lumpur
+Rating: 7/10
+Clinic visited: Taman Sari Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Muhammad bin Mohamed, Obstetrics and Gynecology (OB/GYN), Kuala Lumpur
+Rating: 5/10
+Clinic visited: Taman Sari Medical Centre
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Muhammad bin Mohamed, Obstetrics and Gynecology (OB/GYN), Kuala Lumpur
+Rating: 8/10
+Clinic visited: Taman Sari Medical Centre
+Description: The anomaly scan was thorough and the explanation of every measurement from Dr. Muhammad bin Mohamed was reassuring.
+
+Review 4 for Dr. Muhammad bin Mohamed, Obstetrics and Gynecology (OB/GYN), Kuala Lumpur
+Rating: 8/10
+Clinic visited: Taman Sari Medical Centre
+Description: Birth control options at Taman Sari Medical Centre were laid out clearly, with pros and cons for each and no pressure to choose any one. At my visit, Dr. Muhammad bin Mohamed took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 5 for Dr. Muhammad bin Mohamed, Obstetrics and Gynecology (OB/GYN), Kuala Lumpur
+Rating: 8/10
+Clinic visited: Taman Sari Medical Centre
+Description: My postpartum check-up covered recovery, mood and feeding rather than just a quick exam. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 6 for Dr. Muhammad bin Mohamed, Obstetrics and Gynecology (OB/GYN), Kuala Lumpur
+Rating: 7/10
+Clinic visited: Taman Sari Medical Centre
+Description: Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked.
+
+Review 7 for Dr. Muhammad bin Mohamed, Obstetrics and Gynecology (OB/GYN), Kuala Lumpur
+Rating: 6/10
+Clinic visited: Taman Sari Medical Centre
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 8 for Dr. Muhammad bin Mohamed, Obstetrics and Gynecology (OB/GYN), Kuala Lumpur
+Rating: 7/10
+Clinic visited: Taman Sari Medical Centre
+Description: I liked the advice I got from Dr. Muhammad bin Mohamed, but I would have liked more time to ask follow-up questions before the visit ended. Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history.
+
+Overall rating for Dr. Muhammad bin Mohamed, Obstetrics and Gynecology (OB/GYN), Kuala Lumpur: 7.00/10 from 8 reviews

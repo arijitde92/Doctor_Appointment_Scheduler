@@ -1,0 +1,49 @@
+Doctor: Dr. Hassan Al Dhaheri
+Doctor ID: 6081
+Specialization: General
+Gender: Male
+Years of experience: 27
+City: Dubai, UAE
+Clinics: Palm Court Family Clinic (clinic ID 785); Jumeirah Dunes Medical Centre (clinic ID 786); Al Barsha Wellness Clinic (clinic ID 789)
+
+Review 1 for Dr. Hassan Al Dhaheri, General, Dubai
+Rating: 8/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Hassan Al Dhaheri, General, Dubai
+Rating: 7/10
+Clinic visited: Palm Court Family Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Hassan Al Dhaheri, General, Dubai
+Rating: 7/10
+Clinic visited: Palm Court Family Clinic
+Description: Referrals from Dr. Hassan Al Dhaheri are handled well, but getting test results back took longer than I was told to expect. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 4 for Dr. Hassan Al Dhaheri, General, Dubai
+Rating: 7/10
+Clinic visited: Palm Court Family Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 5 for Dr. Hassan Al Dhaheri, General, Dubai
+Rating: 8/10
+Clinic visited: Jumeirah Dunes Medical Centre
+Description: As a new patient in Dubai, I felt welcomed at Jumeirah Dunes Medical Centre, and my whole history was reviewed in one relaxed visit.
+
+Review 6 for Dr. Hassan Al Dhaheri, General, Dubai
+Rating: 8/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense. By the time I left the room, Dr. Hassan Al Dhaheri had sorted the sick note, referral letter and prescription refill.
+
+Review 7 for Dr. Hassan Al Dhaheri, General, Dubai
+Rating: 9/10
+Clinic visited: Al Barsha Wellness Clinic
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 8 for Dr. Hassan Al Dhaheri, General, Dubai
+Rating: 8/10
+Clinic visited: Palm Court Family Clinic
+Description: I always hear back within a day when I leave a question with the nurse at Palm Court Family Clinic, and Dr. Hassan Al Dhaheri follows up on lab results personally. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Overall rating for Dr. Hassan Al Dhaheri, General, Dubai: 7.75/10 from 8 reviews

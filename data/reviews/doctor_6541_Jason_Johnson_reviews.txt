@@ -1,0 +1,59 @@
+Doctor: Dr. Jason Johnson
+Doctor ID: 6541
+Specialization: Pathology
+Gender: Male
+Years of experience: 16
+City: Perth, Australia
+Clinics: Outback Road Medical (clinic ID 846); Seaview Medical Clinic (clinic ID 848)
+
+Review 1 for Dr. Jason Johnson, Pathology, Perth
+Rating: 6/10
+Clinic visited: Outback Road Medical
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 2 for Dr. Jason Johnson, Pathology, Perth
+Rating: 10/10
+Clinic visited: Seaview Medical Clinic
+Description: I asked for a second look at my slides, and Dr. Jason Johnson reviewed them without any fuss and confirmed the finding in writing. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 3 for Dr. Jason Johnson, Pathology, Perth
+Rating: 7/10
+Clinic visited: Seaview Medical Clinic
+Description: Dr. Jason Johnson answered my questions kindly, though the call back took three days.
+
+Review 4 for Dr. Jason Johnson, Pathology, Perth
+Rating: 5/10
+Clinic visited: Outback Road Medical
+Description: I liked the advice I got from Dr. Jason Johnson, but I would have liked more time to ask follow-up questions before the visit ended. The blood draw was painless, but the waiting area at Outback Road Medical was crowded in the early morning.
+
+Review 5 for Dr. Jason Johnson, Pathology, Perth
+Rating: 4/10
+Clinic visited: Outback Road Medical
+Description: The staff at Outback Road Medical were curt on the phone, and it took four attempts to book a simple follow-up. My sample was labelled incorrectly and I had to return for a repeat blood draw.
+
+Review 6 for Dr. Jason Johnson, Pathology, Perth
+Rating: 8/10
+Clinic visited: Seaview Medical Clinic
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. I asked about the cost before the visit and received an honest estimate that matched the final bill. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Jason Johnson, Pathology, Perth
+Rating: 7/10
+Clinic visited: Seaview Medical Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 8 for Dr. Jason Johnson, Pathology, Perth
+Rating: 7/10
+Clinic visited: Outback Road Medical
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Jason Johnson, Pathology, Perth
+Rating: 5/10
+Clinic visited: Seaview Medical Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Jason Johnson gave little guidance about whether to repeat it. The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Jason Johnson, Pathology, Perth
+Rating: 7/10
+Clinic visited: Outback Road Medical
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Overall rating for Dr. Jason Johnson, Pathology, Perth: 6.60/10 from 10 reviews

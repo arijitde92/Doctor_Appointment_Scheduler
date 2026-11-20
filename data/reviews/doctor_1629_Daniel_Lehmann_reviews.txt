@@ -1,0 +1,49 @@
+Doctor: Dr. Daniel Lehmann
+Doctor ID: 1629
+Specialization: Neurology
+Gender: Male
+Years of experience: 19
+City: Munich, Germany
+Clinics: Gesundheitszentrum Haidhausen Ost (clinic ID 213)
+
+Review 1 for Dr. Daniel Lehmann, Neurology, Munich
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Dr. Daniel Lehmann was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 2 for Dr. Daniel Lehmann, Neurology, Munich
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Daniel Lehmann, Neurology, Munich
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Living with multiple sclerosis feels less frightening because Dr. Daniel Lehmann explains and discusses every change in my plan. My test results arrived in the portal within two days, together with a short note that made sense. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Daniel Lehmann, Neurology, Munich
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 5 for Dr. Daniel Lehmann, Neurology, Munich
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Daniel Lehmann, Neurology, Munich
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Daniel Lehmann, Neurology, Munich
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Quick appointment and a fair price in Munich, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Daniel Lehmann explained my results well, although the visit felt short for such a complex condition.
+
+Review 8 for Dr. Daniel Lehmann, Neurology, Munich
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: He patiently explained my MRI findings and calmed my worries about memory problems. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Overall rating for Dr. Daniel Lehmann, Neurology, Munich: 7.00/10 from 8 reviews

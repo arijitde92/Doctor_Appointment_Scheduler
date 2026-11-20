@@ -1,0 +1,69 @@
+Doctor: Dr. Charlotte Lambert
+Doctor ID: 1256
+Specialization: Pathology
+Gender: Female
+Years of experience: 2
+City: Marseille, France
+Clinics: Centre de Santé de la Joliette (clinic ID 163)
+
+Review 1 for Dr. Charlotte Lambert, Pathology, Marseille
+Rating: 6/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Charlotte Lambert, Pathology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 3 for Dr. Charlotte Lambert, Pathology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: I liked the advice I got from Dr. Charlotte Lambert, but I would have liked more time to ask follow-up questions before the visit ended. Helpful in clarifying a borderline result, though Dr. Charlotte Lambert gave little guidance about whether to repeat it. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Charlotte Lambert, Pathology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Charlotte Lambert, Pathology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Dr. Charlotte Lambert answered my questions kindly, though the call back took three days.
+
+Review 6 for Dr. Charlotte Lambert, Pathology, Marseille
+Rating: 6/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Charlotte Lambert, Pathology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Charlotte Lambert, Pathology, Marseille
+Rating: 9/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The staff and Dr. Charlotte Lambert patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Review 9 for Dr. Charlotte Lambert, Pathology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The blood draw was painless, but the waiting area at Centre de Santé de la Joliette was crowded in the early morning. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Charlotte Lambert, Pathology, Marseille
+Rating: 8/10
+Clinic visited: Centre de Santé de la Joliette
+Description: A same-day slot was found for me at Centre de Santé de la Joliette when I called with a worrying symptom. She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 11 for Dr. Charlotte Lambert, Pathology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Good bedside manner from Dr. Charlotte Lambert, but the parking near Centre de Santé de la Joliette is limited and I had to circle for fifteen minutes.
+
+Review 12 for Dr. Charlotte Lambert, Pathology, Marseille
+Rating: 8/10
+Clinic visited: Centre de Santé de la Joliette
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Charlotte Lambert, Pathology, Marseille: 7.17/10 from 12 reviews

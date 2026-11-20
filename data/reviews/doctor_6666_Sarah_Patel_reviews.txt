@@ -1,0 +1,64 @@
+Doctor: Dr. Sarah Patel
+Doctor ID: 6666
+Specialization: Radiology
+Gender: Female
+Years of experience: 10
+City: Hamilton, New Zealand
+Clinics: Awa Family Health (clinic ID 865); Hauraki Health Clinic (clinic ID 867)
+
+Review 1 for Dr. Sarah Patel, Radiology, Hamilton
+Rating: 10/10
+Clinic visited: Awa Family Health
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Sarah Patel, Radiology, Hamilton
+Rating: 9/10
+Clinic visited: Awa Family Health
+Description: Images from Awa Family Health were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. A same-day slot was found for me at Awa Family Health when I called with a worrying symptom.
+
+Review 3 for Dr. Sarah Patel, Radiology, Hamilton
+Rating: 8/10
+Clinic visited: Awa Family Health
+Description: My ultrasound was unhurried, and Dr. Sarah Patel took time to show me the images and explain what each measurement meant. The nurse was friendly and efficient, and the whole visit with Dr. Sarah Patel felt well organized from start to finish. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Sarah Patel, Radiology, Hamilton
+Rating: 8/10
+Clinic visited: Awa Family Health
+Description: A translator was arranged for my mother without us asking twice, and Dr. Sarah Patel spoke directly to her throughout. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Sarah Patel, Radiology, Hamilton
+Rating: 8/10
+Clinic visited: Awa Family Health
+Description: Reviewing my X-ray together with Dr. Sarah Patel on the screen made it much easier to understand my arthritis.
+
+Review 6 for Dr. Sarah Patel, Radiology, Hamilton
+Rating: 6/10
+Clinic visited: Hauraki Health Clinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 7 for Dr. Sarah Patel, Radiology, Hamilton
+Rating: 8/10
+Clinic visited: Awa Family Health
+Description: The staff at Awa Family Health in Hamilton explained the contrast dye and its side effects before I signed anything. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 8 for Dr. Sarah Patel, Radiology, Hamilton
+Rating: 7/10
+Clinic visited: Hauraki Health Clinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Good bedside manner from Dr. Sarah Patel, but the parking near Hauraki Health Clinic is limited and I had to circle for fifteen minutes.
+
+Review 9 for Dr. Sarah Patel, Radiology, Hamilton
+Rating: 8/10
+Clinic visited: Awa Family Health
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Sarah Patel were respectful throughout. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 10 for Dr. Sarah Patel, Radiology, Hamilton
+Rating: 9/10
+Clinic visited: Hauraki Health Clinic
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. My whole family is switching over after seeing how good the care was.
+
+Review 11 for Dr. Sarah Patel, Radiology, Hamilton
+Rating: 9/10
+Clinic visited: Hauraki Health Clinic
+Description: Booking a CT scan online at Hauraki Health Clinic took two minutes, and I was in and out within forty minutes. Getting to Hauraki Health Clinic by public transport in Hamilton was easy, and there is a step-free entrance for wheelchairs.
+
+Overall rating for Dr. Sarah Patel, Radiology, Hamilton: 8.18/10 from 11 reviews

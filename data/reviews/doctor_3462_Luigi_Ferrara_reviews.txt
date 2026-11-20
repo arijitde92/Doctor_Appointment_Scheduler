@@ -1,0 +1,49 @@
+Doctor: Dr. Luigi Ferrara
+Doctor ID: 3462
+Specialization: General
+Gender: Male
+Years of experience: 5
+City: Naples, Italy
+Clinics: Clinica Posillipo (clinic ID 448)
+
+Review 1 for Dr. Luigi Ferrara, General, Naples
+Rating: 7/10
+Clinic visited: Clinica Posillipo
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Luigi Ferrara, General, Naples
+Rating: 10/10
+Clinic visited: Clinica Posillipo
+Description: I went in with months of tiredness, and Dr. Luigi Ferrara ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 3 for Dr. Luigi Ferrara, General, Naples
+Rating: 9/10
+Clinic visited: Clinica Posillipo
+Description: Dr. Luigi Ferrara drew a quick sketch to explain what was going on, which helped me remember it afterwards. Managing my type 2 diabetes with Dr. Luigi Ferrara has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 4 for Dr. Luigi Ferrara, General, Naples
+Rating: 10/10
+Clinic visited: Clinica Posillipo
+Description: My blood pressure had crept up and Dr. Luigi Ferrara walked me through diet changes before suggesting anything else. Three months later my readings were normal. Dr. Luigi Ferrara double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 5 for Dr. Luigi Ferrara, General, Naples
+Rating: 9/10
+Clinic visited: Clinica Posillipo
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. The nurse was friendly and efficient, and the whole visit with Dr. Luigi Ferrara felt well organized from start to finish. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Luigi Ferrara, General, Naples
+Rating: 9/10
+Clinic visited: Clinica Posillipo
+Description: Vaccination advice from Dr. Luigi Ferrara for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 7 for Dr. Luigi Ferrara, General, Naples
+Rating: 7/10
+Clinic visited: Clinica Posillipo
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Luigi Ferrara, General, Naples
+Rating: 10/10
+Clinic visited: Clinica Posillipo
+Description: As a new patient in Naples, I felt welcomed at Clinica Posillipo, and my whole history was reviewed in one relaxed visit. Dr. Luigi Ferrara looked me in the eye, listened to the whole story and only then started typing.
+
+Overall rating for Dr. Luigi Ferrara, General, Naples: 8.88/10 from 8 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Izabela Szymańska
+Doctor ID: 2801
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 13
+City: Warsaw, Poland
+Clinics: Przychodnia Mokotów Park (clinic ID 366)
+
+Review 1 for Dr. Izabela Szymańska, Psychiatry, Warsaw
+Rating: 7/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Good listener, yet the refill process at Przychodnia Mokotów Park is slow and requires several phone calls. Clear explanations, but the follow-up call took a week longer than I had been told. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Izabela Szymańska, Psychiatry, Warsaw
+Rating: 5/10
+Clinic visited: Przychodnia Mokotów Park
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Izabela Szymańska, Psychiatry, Warsaw
+Rating: 4/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 4 for Dr. Izabela Szymańska, Psychiatry, Warsaw
+Rating: 6/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Dr. Izabela Szymańska was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 5 for Dr. Izabela Szymańska, Psychiatry, Warsaw
+Rating: 8/10
+Clinic visited: Przychodnia Mokotów Park
+Description: I felt heard by Dr. Izabela Szymańska during a very hard time, and nobody rushed me out of the room. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Izabela Szymańska, Psychiatry, Warsaw
+Rating: 7/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 7 for Dr. Izabela Szymańska, Psychiatry, Warsaw
+Rating: 7/10
+Clinic visited: Przychodnia Mokotów Park
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 8 for Dr. Izabela Szymańska, Psychiatry, Warsaw
+Rating: 4/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Dr. Izabela Szymańska seemed to focus on the paperwork, and I did not feel I could share what was really going on.
+
+Review 9 for Dr. Izabela Szymańska, Psychiatry, Warsaw
+Rating: 7/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 10 for Dr. Izabela Szymańska, Psychiatry, Warsaw
+Rating: 5/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Dr. Izabela Szymańska is knowledgeable, though I waited several weeks for my first appointment. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. Izabela Szymańska, Psychiatry, Warsaw
+Rating: 4/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Dr. Izabela Szymańska did not seem to have read my notes and asked me to repeat my whole history from the beginning. Appointments were rescheduled at short notice three times, which made continuity of care almost impossible.
+
+Review 12 for Dr. Izabela Szymańska, Psychiatry, Warsaw
+Rating: 5/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Izabela Szymańska, Psychiatry, Warsaw: 5.75/10 from 12 reviews

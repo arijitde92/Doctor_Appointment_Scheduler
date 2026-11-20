@@ -1,0 +1,49 @@
+Doctor: Dr. Yanto Kusuma
+Doctor ID: 5145
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 29
+City: Jakarta, Indonesia
+Clinics: Klinik Pratama Sehat Sentosa (clinic ID 665); Klinik Cahaya Medika (clinic ID 666); Klinik Utama Bina Husada (clinic ID 667)
+
+Review 1 for Dr. Yanto Kusuma, Pulmonology, Jakarta
+Rating: 9/10
+Clinic visited: Klinik Utama Bina Husada
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Yanto Kusuma.
+
+Review 2 for Dr. Yanto Kusuma, Pulmonology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Pratama Sehat Sentosa
+Description: Dr. Yanto Kusuma explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 3 for Dr. Yanto Kusuma, Pulmonology, Jakarta
+Rating: 6/10
+Clinic visited: Klinik Utama Bina Husada
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Yanto Kusuma, Pulmonology, Jakarta
+Rating: 6/10
+Clinic visited: Klinik Utama Bina Husada
+Description: Helpful and honest about my prognosis, Dr. Yanto Kusuma could still have given me more written material to take home. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 5 for Dr. Yanto Kusuma, Pulmonology, Jakarta
+Rating: 6/10
+Clinic visited: Klinik Cahaya Medika
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Yanto Kusuma, Pulmonology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Cahaya Medika
+Description: After years of poorly controlled asthma, Dr. Yanto Kusuma reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 7 for Dr. Yanto Kusuma, Pulmonology, Jakarta
+Rating: 6/10
+Clinic visited: Klinik Pratama Sehat Sentosa
+Description: Pleasant manner and careful lung exam, though the waiting time at Klinik Pratama Sehat Sentosa regularly exceeded forty minutes.
+
+Review 8 for Dr. Yanto Kusuma, Pulmonology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Pratama Sehat Sentosa
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Overall rating for Dr. Yanto Kusuma, Pulmonology, Jakarta: 7.00/10 from 8 reviews

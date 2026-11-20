@@ -1,0 +1,54 @@
+Doctor: Dr. Wolfgang Krause
+Doctor ID: 1618
+Specialization: General
+Gender: Male
+Years of experience: 15
+City: Munich, Germany
+Clinics: Praxisgemeinschaft Leopoldpark (clinic ID 210); Medicum Sendlinger Tor (clinic ID 211); Ärztezentrum Neuhausen-Nord (clinic ID 212)
+
+Review 1 for Dr. Wolfgang Krause, General, Munich
+Rating: 8/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: By the time I left the room, Dr. Wolfgang Krause had sorted the sick note, referral letter and prescription refill. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 2 for Dr. Wolfgang Krause, General, Munich
+Rating: 6/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Dr. Wolfgang Krause is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 3 for Dr. Wolfgang Krause, General, Munich
+Rating: 9/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: Paperwork at Praxisgemeinschaft Leopoldpark was kept to a minimum, and the staff helped me complete the insurance form. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Wolfgang Krause, General, Munich
+Rating: 7/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 5 for Dr. Wolfgang Krause, General, Munich
+Rating: 6/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Wolfgang Krause, General, Munich
+Rating: 3/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: I felt dismissed by Dr. Wolfgang Krause when I brought up a second concern, and was told to book another appointment for it. I came in about worsening headaches and was told to drink more water and relax, with no examination at all. I will not be returning and have already started looking for another doctor.
+
+Review 7 for Dr. Wolfgang Krause, General, Munich
+Rating: 5/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The treatment plan from Dr. Wolfgang Krause made sense, but I wished it had been written down for me to take away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Wolfgang Krause, General, Munich
+Rating: 7/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 9 for Dr. Wolfgang Krause, General, Munich
+Rating: 5/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Wolfgang Krause, General, Munich: 6.22/10 from 9 reviews

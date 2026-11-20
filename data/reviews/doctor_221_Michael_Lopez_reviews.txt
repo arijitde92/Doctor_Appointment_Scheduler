@@ -1,0 +1,69 @@
+Doctor: Dr. Michael Lopez
+Doctor ID: 221
+Specialization: Neurology
+Gender: Male
+Years of experience: 4
+City: San Francisco, USA
+Clinics: Golden Gate Family Practice (clinic ID 30); Van Ness Medical Group (clinic ID 31); Mission Bay Primary Care (clinic ID 34)
+
+Review 1 for Dr. Michael Lopez, Neurology, San Francisco
+Rating: 8/10
+Clinic visited: Mission Bay Primary Care
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. At my visit, Dr. Michael Lopez took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 2 for Dr. Michael Lopez, Neurology, San Francisco
+Rating: 8/10
+Clinic visited: Mission Bay Primary Care
+Description: Dr. Michael Lopez took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. The receptionist at Mission Bay Primary Care remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 3 for Dr. Michael Lopez, Neurology, San Francisco
+Rating: 7/10
+Clinic visited: Mission Bay Primary Care
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 4 for Dr. Michael Lopez, Neurology, San Francisco
+Rating: 7/10
+Clinic visited: Golden Gate Family Practice
+Description: Dr. Michael Lopez explained my results well, although the visit felt short for such a complex condition. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Michael Lopez, Neurology, San Francisco
+Rating: 6/10
+Clinic visited: Golden Gate Family Practice
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Michael Lopez, Neurology, San Francisco
+Rating: 8/10
+Clinic visited: Mission Bay Primary Care
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 7 for Dr. Michael Lopez, Neurology, San Francisco
+Rating: 7/10
+Clinic visited: Mission Bay Primary Care
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Supportive about my diagnosis, yet follow-up appointments with Dr. Michael Lopez at Mission Bay Primary Care are difficult to schedule.
+
+Review 8 for Dr. Michael Lopez, Neurology, San Francisco
+Rating: 5/10
+Clinic visited: Van Ness Medical Group
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 9 for Dr. Michael Lopez, Neurology, San Francisco
+Rating: 6/10
+Clinic visited: Mission Bay Primary Care
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 10 for Dr. Michael Lopez, Neurology, San Francisco
+Rating: 7/10
+Clinic visited: Mission Bay Primary Care
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. I liked the advice I got from Dr. Michael Lopez, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 11 for Dr. Michael Lopez, Neurology, San Francisco
+Rating: 7/10
+Clinic visited: Golden Gate Family Practice
+Description: The treatment plan from Dr. Michael Lopez made sense, but I wished it had been written down for me to take away.
+
+Review 12 for Dr. Michael Lopez, Neurology, San Francisco
+Rating: 9/10
+Clinic visited: Mission Bay Primary Care
+Description: He patiently explained my MRI findings and calmed my worries about memory problems. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Overall rating for Dr. Michael Lopez, Neurology, San Francisco: 7.08/10 from 12 reviews

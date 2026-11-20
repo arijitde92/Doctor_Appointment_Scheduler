@@ -1,0 +1,59 @@
+Doctor: Dr. Isabelle Dubois
+Doctor ID: 3181
+Specialization: Cardiology
+Gender: Female
+Years of experience: 29
+City: Liege, Belgium
+Clinics: Clinique des Vennes (clinic ID 413)
+
+Review 1 for Dr. Isabelle Dubois, Cardiology, Liege
+Rating: 8/10
+Clinic visited: Clinique des Vennes
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 2 for Dr. Isabelle Dubois, Cardiology, Liege
+Rating: 8/10
+Clinic visited: Clinique des Vennes
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 3 for Dr. Isabelle Dubois, Cardiology, Liege
+Rating: 9/10
+Clinic visited: Clinique des Vennes
+Description: At my visit, Dr. Isabelle Dubois took notes on my medication list, checked for interactions and explained the changes simply. My atrial fibrillation is well managed by Dr. Isabelle Dubois, and I know exactly what symptoms mean I should call.
+
+Review 4 for Dr. Isabelle Dubois, Cardiology, Liege
+Rating: 6/10
+Clinic visited: Clinique des Vennes
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 5 for Dr. Isabelle Dubois, Cardiology, Liege
+Rating: 5/10
+Clinic visited: Clinique des Vennes
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 6 for Dr. Isabelle Dubois, Cardiology, Liege
+Rating: 9/10
+Clinic visited: Clinique des Vennes
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 7 for Dr. Isabelle Dubois, Cardiology, Liege
+Rating: 7/10
+Clinic visited: Clinique des Vennes
+Description: Dr. Isabelle Dubois adjusted my blood pressure medication carefully, though I had to call twice for a refill. The treatment plan from Dr. Isabelle Dubois made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Isabelle Dubois, Cardiology, Liege
+Rating: 8/10
+Clinic visited: Clinique des Vennes
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning.
+
+Review 9 for Dr. Isabelle Dubois, Cardiology, Liege
+Rating: 9/10
+Clinic visited: Clinique des Vennes
+Description: Honest about the risks and benefits of the procedure, Dr. Isabelle Dubois never pressured me toward surgery. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 10 for Dr. Isabelle Dubois, Cardiology, Liege
+Rating: 7/10
+Clinic visited: Clinique des Vennes
+Description: Helpful with my cholesterol, Dr. Isabelle Dubois still gave dietary advice that was a little generic.
+
+Overall rating for Dr. Isabelle Dubois, Cardiology, Liege: 7.60/10 from 10 reviews

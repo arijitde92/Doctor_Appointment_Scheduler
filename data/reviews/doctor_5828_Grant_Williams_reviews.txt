@@ -1,0 +1,49 @@
+Doctor: Dr. Grant Williams
+Doctor ID: 5828
+Specialization: General
+Gender: Male
+Years of experience: 10
+City: Pretoria, South Africa
+Clinics: Waterkloof Heights Medical Rooms (clinic ID 753)
+
+Review 1 for Dr. Grant Williams, General, Pretoria
+Rating: 9/10
+Clinic visited: Waterkloof Heights Medical Rooms
+Description: Sensitive questions were handled by Dr. Grant Williams with discretion and without a hint of judgment.
+
+Review 2 for Dr. Grant Williams, General, Pretoria
+Rating: 8/10
+Clinic visited: Waterkloof Heights Medical Rooms
+Description: Dr. Grant Williams spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. A translator was arranged for my mother without us asking twice, and Dr. Grant Williams spoke directly to her throughout. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Grant Williams, General, Pretoria
+Rating: 9/10
+Clinic visited: Waterkloof Heights Medical Rooms
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 4 for Dr. Grant Williams, General, Pretoria
+Rating: 8/10
+Clinic visited: Waterkloof Heights Medical Rooms
+Description: The waiting room at Waterkloof Heights Medical Rooms was clean, quiet and comfortable, with enough seating and water available. Getting to Waterkloof Heights Medical Rooms from across Pretoria was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 5 for Dr. Grant Williams, General, Pretoria
+Rating: 9/10
+Clinic visited: Waterkloof Heights Medical Rooms
+Description: I went in with months of tiredness, and Dr. Grant Williams ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 6 for Dr. Grant Williams, General, Pretoria
+Rating: 8/10
+Clinic visited: Waterkloof Heights Medical Rooms
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 7 for Dr. Grant Williams, General, Pretoria
+Rating: 7/10
+Clinic visited: Waterkloof Heights Medical Rooms
+Description: The treatment plan from Dr. Grant Williams made sense, but I wished it had been written down for me to take away. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 8 for Dr. Grant Williams, General, Pretoria
+Rating: 8/10
+Clinic visited: Waterkloof Heights Medical Rooms
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Vaccination advice from Dr. Grant Williams for my travel plans was thorough and specific to the countries I was visiting.
+
+Overall rating for Dr. Grant Williams, General, Pretoria: 8.25/10 from 8 reviews

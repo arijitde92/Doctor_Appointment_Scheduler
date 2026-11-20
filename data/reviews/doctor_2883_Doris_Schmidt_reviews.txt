@@ -1,0 +1,49 @@
+Doctor: Dr. Doris Schmidt
+Doctor ID: 2883
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 4
+City: Graz, Austria
+Clinics: Gesundheitszentrum Annenviertel (clinic ID 376); Praxiszentrum Grazer Murblick (clinic ID 377)
+
+Review 1 for Dr. Doris Schmidt, Psychiatry, Graz
+Rating: 6/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Doris Schmidt, Psychiatry, Graz
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Annenviertel
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 3 for Dr. Doris Schmidt, Psychiatry, Graz
+Rating: 8/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: Telehealth follow-ups at Praxiszentrum Grazer Murblick are punctual and calm, and refills are dealt with quickly. Prescriptions from Dr. Doris Schmidt were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 4 for Dr. Doris Schmidt, Psychiatry, Graz
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Annenviertel
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 5 for Dr. Doris Schmidt, Psychiatry, Graz
+Rating: 5/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: Good listener, yet the refill process at Praxiszentrum Grazer Murblick is slow and requires several phone calls. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 6 for Dr. Doris Schmidt, Psychiatry, Graz
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Annenviertel
+Description: Dr. Doris Schmidt is knowledgeable, though I waited several weeks for my first appointment. I liked the advice I got from Dr. Doris Schmidt, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Doris Schmidt, Psychiatry, Graz
+Rating: 5/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 8 for Dr. Doris Schmidt, Psychiatry, Graz
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Annenviertel
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Overall rating for Dr. Doris Schmidt, Psychiatry, Graz: 6.00/10 from 8 reviews

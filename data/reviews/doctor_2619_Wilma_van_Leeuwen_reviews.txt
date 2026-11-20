@@ -1,0 +1,59 @@
+Doctor: Dr. Wilma van Leeuwen
+Doctor ID: 2619
+Specialization: Radiology
+Gender: Female
+Years of experience: 26
+City: Rotterdam, Netherlands
+Clinics: Gezondheidscentrum Delfshaven (clinic ID 342)
+
+Review 1 for Dr. Wilma van Leeuwen, Radiology, Rotterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Quick appointment and a fair price in Rotterdam, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Wilma van Leeuwen, Radiology, Rotterdam
+Rating: 10/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: The staff at Gezondheidscentrum Delfshaven in Rotterdam explained the contrast dye and its side effects before I signed anything.
+
+Review 3 for Dr. Wilma van Leeuwen, Radiology, Rotterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Wilma van Leeuwen, Radiology, Rotterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Wilma van Leeuwen, Radiology, Rotterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: When my scan showed something that needed a second look, Dr. Wilma van Leeuwen arranged the follow-up the same day. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Wilma van Leeuwen, Radiology, Rotterdam
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. The visit began with a short, friendly chat that put me at ease before any examination started. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Wilma van Leeuwen, Radiology, Rotterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 8 for Dr. Wilma van Leeuwen, Radiology, Rotterdam
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: Dr. Wilma van Leeuwen compared my new scan with last year's and pointed out exactly what had stayed the same. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Wilma van Leeuwen, Radiology, Rotterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 10 for Dr. Wilma van Leeuwen, Radiology, Rotterdam
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: The report from Dr. Wilma van Leeuwen was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Overall rating for Dr. Wilma van Leeuwen, Radiology, Rotterdam: 8.20/10 from 10 reviews

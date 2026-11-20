@@ -1,0 +1,49 @@
+Doctor: Dr. Ahmed Vos
+Doctor ID: 2645
+Specialization: Pathology
+Gender: Male
+Years of experience: 5
+City: The Hague, Netherlands
+Clinics: Huisartsenpraktijk Statenkwartier (clinic ID 346)
+
+Review 1 for Dr. Ahmed Vos, Pathology, The Hague
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Statenkwartier
+Description: The waiting room at Huisartsenpraktijk Statenkwartier was clean, quiet and comfortable, with enough seating and water available. Blood test results were clearly laid out with reference ranges and short notes in plain language. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Ahmed Vos, Pathology, The Hague
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Statenkwartier
+Description: The biopsy report was returned in three days, and Dr. Ahmed Vos took time on the phone to explain every term in it.
+
+Review 3 for Dr. Ahmed Vos, Pathology, The Hague
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Statenkwartier
+Description: Paperwork at Huisartsenpraktijk Statenkwartier was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 4 for Dr. Ahmed Vos, Pathology, The Hague
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Statenkwartier
+Description: I appreciated that he offered more than one option and let me choose what suited my life. The molecular test results were presented with a clear explanation of what they meant and what they did not.
+
+Review 5 for Dr. Ahmed Vos, Pathology, The Hague
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Statenkwartier
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Ahmed Vos, Pathology, The Hague
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Statenkwartier
+Description: Booking online at Huisartsenpraktijk Statenkwartier was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 7 for Dr. Ahmed Vos, Pathology, The Hague
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Statenkwartier
+Description: The blood draw was painless, but the waiting area at Huisartsenpraktijk Statenkwartier was crowded in the early morning.
+
+Review 8 for Dr. Ahmed Vos, Pathology, The Hague
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Statenkwartier
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Ahmed Vos, Pathology, The Hague: 8.25/10 from 8 reviews

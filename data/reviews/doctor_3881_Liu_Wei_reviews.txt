@@ -1,0 +1,64 @@
+Doctor: Dr. Liu Wei
+Doctor ID: 3881
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 10
+City: Guangzhou, China
+Clinics: Huaxia Anhe Clinic (clinic ID 501)
+
+Review 1 for Dr. Liu Wei, Pediatrics, Guangzhou
+Rating: 6/10
+Clinic visited: Huaxia Anhe Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Liu Wei, Pediatrics, Guangzhou
+Rating: 7/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Booking was easy online, but the confirmation email contained the wrong address for Huaxia Anhe Clinic.
+
+Review 3 for Dr. Liu Wei, Pediatrics, Guangzhou
+Rating: 5/10
+Clinic visited: Huaxia Anhe Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Liu Wei, Pediatrics, Guangzhou
+Rating: 4/10
+Clinic visited: Huaxia Anhe Clinic
+Description: My child had a fever for three days and Dr. Liu Wei said to wait it out, with no examination of the ears or throat. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 5 for Dr. Liu Wei, Pediatrics, Guangzhou
+Rating: 6/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 6 for Dr. Liu Wei, Pediatrics, Guangzhou
+Rating: 5/10
+Clinic visited: Huaxia Anhe Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Quick appointment and a fair price in Guangzhou, but the staff seemed overwhelmed and a bit curt on the phone. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Liu Wei, Pediatrics, Guangzhou
+Rating: 8/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Our family has been coming for years, and he remembers each child's history and personality. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Liu Wei, Pediatrics, Guangzhou
+Rating: 3/10
+Clinic visited: Huaxia Anhe Clinic
+Description: I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 9 for Dr. Liu Wei, Pediatrics, Guangzhou
+Rating: 5/10
+Clinic visited: Huaxia Anhe Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Liu Wei is thorough with exams, but the after-hours phone line at Huaxia Anhe Clinic is hard to reach. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Liu Wei, Pediatrics, Guangzhou
+Rating: 6/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 11 for Dr. Liu Wei, Pediatrics, Guangzhou
+Rating: 5/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Caring and gentle with my child, Dr. Liu Wei nonetheless ran forty minutes behind schedule at most appointments. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Liu Wei, Pediatrics, Guangzhou: 5.45/10 from 11 reviews

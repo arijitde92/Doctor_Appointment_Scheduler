@@ -1,0 +1,64 @@
+Doctor: Dr. Victoria Taylor
+Doctor ID: 1032
+Specialization: Pathology
+Gender: Female
+Years of experience: 22
+City: Bristol, UK
+Clinics: Whiteladies Road Health Centre (clinic ID 135); Gloucester Road Family Clinic (clinic ID 137)
+
+Review 1 for Dr. Victoria Taylor, Pathology, Bristol
+Rating: 6/10
+Clinic visited: Gloucester Road Family Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Victoria Taylor, Pathology, Bristol
+Rating: 5/10
+Clinic visited: Gloucester Road Family Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 3 for Dr. Victoria Taylor, Pathology, Bristol
+Rating: 7/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The blood draw was painless, but the waiting area at Whiteladies Road Health Centre was crowded in the early morning. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Victoria Taylor, Pathology, Bristol
+Rating: 4/10
+Clinic visited: Gloucester Road Family Clinic
+Description: Dr. Victoria Taylor did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 5 for Dr. Victoria Taylor, Pathology, Bristol
+Rating: 6/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Dr. Victoria Taylor answered my questions kindly, though the call back took three days. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Victoria Taylor, Pathology, Bristol
+Rating: 5/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Helpful in clarifying a borderline result, though Dr. Victoria Taylor gave little guidance about whether to repeat it. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 7 for Dr. Victoria Taylor, Pathology, Bristol
+Rating: 6/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Good bedside manner from Dr. Victoria Taylor, but the parking near Whiteladies Road Health Centre is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Victoria Taylor, Pathology, Bristol
+Rating: 6/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 9 for Dr. Victoria Taylor, Pathology, Bristol
+Rating: 3/10
+Clinic visited: Gloucester Road Family Clinic
+Description: I was billed twice for the same panel and it took a month to get a correction. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 10 for Dr. Victoria Taylor, Pathology, Bristol
+Rating: 7/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I liked the advice I got from Dr. Victoria Taylor, but I would have liked more time to ask follow-up questions before the visit ended. I would come back, but only if the waiting time improves.
+
+Review 11 for Dr. Victoria Taylor, Pathology, Bristol
+Rating: 8/10
+Clinic visited: Gloucester Road Family Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Overall rating for Dr. Victoria Taylor, Pathology, Bristol: 5.73/10 from 11 reviews

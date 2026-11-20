@@ -1,0 +1,49 @@
+Doctor: Dr. Brian Møller
+Doctor ID: 2338
+Specialization: Cardiology
+Gender: Male
+Years of experience: 25
+City: Copenhagen, Denmark
+Clinics: Lægehuset Vesterbro Plus (clinic ID 305); Lægecentret Nørrebro Park (clinic ID 306)
+
+Review 1 for Dr. Brian Møller, Cardiology, Copenhagen
+Rating: 9/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Dr. Brian Møller explained the difference between my statin options and let me weigh in on the choice.
+
+Review 2 for Dr. Brian Møller, Cardiology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Brian Møller, Cardiology, Copenhagen
+Rating: 10/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 4 for Dr. Brian Møller, Cardiology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: My atrial fibrillation is well managed by Dr. Brian Møller, and I know exactly what symptoms mean I should call.
+
+Review 5 for Dr. Brian Møller, Cardiology, Copenhagen
+Rating: 9/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 6 for Dr. Brian Møller, Cardiology, Copenhagen
+Rating: 6/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Brian Møller, Cardiology, Copenhagen
+Rating: 6/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Helpful visit overall, although I only found out about an extra charge after I had paid. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Brian Møller, Cardiology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Clear and calm advice at Lægecentret Nørrebro Park about exercise after my stent, including a gradual written schedule. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Brian Møller, Cardiology, Copenhagen: 8.00/10 from 8 reviews

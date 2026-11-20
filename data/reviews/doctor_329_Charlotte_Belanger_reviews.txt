@@ -1,0 +1,64 @@
+Doctor: Dr. Charlotte Bélanger
+Doctor ID: 329
+Specialization: Pathology
+Gender: Female
+Years of experience: 5
+City: Toronto, Canada
+Clinics: Bloor Street Family Health (clinic ID 45); Willowdale Medical Centre (clinic ID 46); Scarborough Wellness Medical Centre (clinic ID 49)
+
+Review 1 for Dr. Charlotte Bélanger, Pathology, Toronto
+Rating: 7/10
+Clinic visited: Willowdale Medical Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 2 for Dr. Charlotte Bélanger, Pathology, Toronto
+Rating: 8/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 3 for Dr. Charlotte Bélanger, Pathology, Toronto
+Rating: 6/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Charlotte Bélanger, Pathology, Toronto
+Rating: 6/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Charlotte Bélanger, Pathology, Toronto
+Rating: 9/10
+Clinic visited: Willowdale Medical Centre
+Description: The lab under Dr. Charlotte Bélanger was clean, organized and never overbooked, and results arrived exactly when promised. Everything was explained in plain English by Dr. Charlotte Bélanger, and nothing was left to guess.
+
+Review 6 for Dr. Charlotte Bélanger, Pathology, Toronto
+Rating: 7/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 7 for Dr. Charlotte Bélanger, Pathology, Toronto
+Rating: 9/10
+Clinic visited: Bloor Street Family Health
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 8 for Dr. Charlotte Bélanger, Pathology, Toronto
+Rating: 7/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Charlotte Bélanger answered my questions kindly, though the call back took three days. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Charlotte Bélanger, Pathology, Toronto
+Rating: 6/10
+Clinic visited: Bloor Street Family Health
+Description: Helpful in clarifying a borderline result, though Dr. Charlotte Bélanger gave little guidance about whether to repeat it.
+
+Review 10 for Dr. Charlotte Bélanger, Pathology, Toronto
+Rating: 6/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Dr. Charlotte Bélanger was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 11 for Dr. Charlotte Bélanger, Pathology, Toronto
+Rating: 9/10
+Clinic visited: Bloor Street Family Health
+Description: At my visit, Dr. Charlotte Bélanger took notes on my medication list, checked for interactions and explained the changes simply. I was nervous about the biopsy result, and the call from Dr. Charlotte Bélanger was gentle, honest and unhurried.
+
+Overall rating for Dr. Charlotte Bélanger, Pathology, Toronto: 7.27/10 from 11 reviews

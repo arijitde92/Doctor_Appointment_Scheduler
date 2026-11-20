@@ -1,0 +1,49 @@
+Doctor: Dr. Christine Renard
+Doctor ID: 3047
+Specialization: General
+Gender: Female
+Years of experience: 11
+City: Antwerp, Belgium
+Clinics: Huisartsenpraktijk Zurenborg (clinic ID 396); Polikliniek Het Zuid (clinic ID 397)
+
+Review 1 for Dr. Christine Renard, General, Antwerp
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: Cholesterol results were explained by Dr. Christine Renard with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 2 for Dr. Christine Renard, General, Antwerp
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Huisartsenpraktijk Zurenborg were inconsistent.
+
+Review 3 for Dr. Christine Renard, General, Antwerp
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 4 for Dr. Christine Renard, General, Antwerp
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 5 for Dr. Christine Renard, General, Antwerp
+Rating: 9/10
+Clinic visited: Polikliniek Het Zuid
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Christine Renard, General, Antwerp
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: Referrals from Dr. Christine Renard are handled well, but getting test results back took longer than I was told to expect. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Christine Renard, General, Antwerp
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: Dr. Christine Renard is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 8 for Dr. Christine Renard, General, Antwerp
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: By the time I left the room, Dr. Christine Renard had sorted the sick note, referral letter and prescription refill. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Christine Renard, General, Antwerp: 7.38/10 from 8 reviews

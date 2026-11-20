@@ -1,0 +1,54 @@
+Doctor: Dr. David Lejeune
+Doctor ID: 3076
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 6
+City: Brussels, Belgium
+Clinics: Centre Médical Louise (clinic ID 400); Polyclinique Etterbeek (clinic ID 402)
+
+Review 1 for Dr. David Lejeune, Pediatrics, Brussels
+Rating: 9/10
+Clinic visited: Centre Médical Louise
+Description: Vaccination visits with Dr. David Lejeune are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 2 for Dr. David Lejeune, Pediatrics, Brussels
+Rating: 8/10
+Clinic visited: Polyclinique Etterbeek
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 3 for Dr. David Lejeune, Pediatrics, Brussels
+Rating: 8/10
+Clinic visited: Centre Médical Louise
+Description: He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 4 for Dr. David Lejeune, Pediatrics, Brussels
+Rating: 6/10
+Clinic visited: Centre Médical Louise
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 5 for Dr. David Lejeune, Pediatrics, Brussels
+Rating: 8/10
+Clinic visited: Polyclinique Etterbeek
+Description: Our newborn check-ups with Dr. David Lejeune were reassuring; every question about feeding and sleep got a calm, practical answer. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. David Lejeune, Pediatrics, Brussels
+Rating: 7/10
+Clinic visited: Centre Médical Louise
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. David Lejeune, Pediatrics, Brussels
+Rating: 7/10
+Clinic visited: Polyclinique Etterbeek
+Description: Dr. David Lejeune was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. David Lejeune, Pediatrics, Brussels
+Rating: 6/10
+Clinic visited: Centre Médical Louise
+Description: Dr. David Lejeune is thorough with exams, but the after-hours phone line at Centre Médical Louise is hard to reach. Dr. David Lejeune was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 9 for Dr. David Lejeune, Pediatrics, Brussels
+Rating: 9/10
+Clinic visited: Centre Médical Louise
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Overall rating for Dr. David Lejeune, Pediatrics, Brussels: 7.56/10 from 9 reviews

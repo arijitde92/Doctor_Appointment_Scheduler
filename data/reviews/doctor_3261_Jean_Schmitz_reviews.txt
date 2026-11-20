@@ -1,0 +1,64 @@
+Doctor: Dr. Jean Schmitz
+Doctor ID: 3261
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 10
+City: Dudelange, Luxembourg
+Clinics: Clinique Burange (clinic ID 423)
+
+Review 1 for Dr. Jean Schmitz, Psychiatry, Dudelange
+Rating: 7/10
+Clinic visited: Clinique Burange
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Jean Schmitz, Psychiatry, Dudelange
+Rating: 5/10
+Clinic visited: Clinique Burange
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. The treatment plan from Dr. Jean Schmitz made sense, but I wished it had been written down for me to take away. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Jean Schmitz, Psychiatry, Dudelange
+Rating: 7/10
+Clinic visited: Clinique Burange
+Description: Dr. Jean Schmitz was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 4 for Dr. Jean Schmitz, Psychiatry, Dudelange
+Rating: 5/10
+Clinic visited: Clinique Burange
+Description: I liked the advice I got from Dr. Jean Schmitz, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 5 for Dr. Jean Schmitz, Psychiatry, Dudelange
+Rating: 5/10
+Clinic visited: Clinique Burange
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Jean Schmitz, Psychiatry, Dudelange
+Rating: 4/10
+Clinic visited: Clinique Burange
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week. Appointments were rescheduled at short notice three times, which made continuity of care almost impossible. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 7 for Dr. Jean Schmitz, Psychiatry, Dudelange
+Rating: 9/10
+Clinic visited: Clinique Burange
+Description: I felt heard by Dr. Jean Schmitz during a very hard time, and nobody rushed me out of the room. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Jean Schmitz, Psychiatry, Dudelange
+Rating: 4/10
+Clinic visited: Clinique Burange
+Description: The prescription from Dr. Jean Schmitz was not the one we discussed, and I only noticed when I got home. My concerns about how I felt on the dose were waved away rather than explored.
+
+Review 9 for Dr. Jean Schmitz, Psychiatry, Dudelange
+Rating: 8/10
+Clinic visited: Clinique Burange
+Description: My family was included in a session at my request, and Dr. Jean Schmitz handled it with great tact.
+
+Review 10 for Dr. Jean Schmitz, Psychiatry, Dudelange
+Rating: 6/10
+Clinic visited: Clinique Burange
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 11 for Dr. Jean Schmitz, Psychiatry, Dudelange
+Rating: 2/10
+Clinic visited: Clinique Burange
+Description: The visit felt rushed, and Dr. Jean Schmitz was already halfway out the door when I started to describe my second symptom. Not a place I would choose again, and I hope others have a better experience.
+
+Overall rating for Dr. Jean Schmitz, Psychiatry, Dudelange: 5.64/10 from 11 reviews

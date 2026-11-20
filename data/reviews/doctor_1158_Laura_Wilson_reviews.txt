@@ -1,0 +1,54 @@
+Doctor: Dr. Laura Wilson
+Doctor ID: 1158
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 5
+City: Manchester, UK
+Clinics: Portland Health Centre (clinic ID 151)
+
+Review 1 for Dr. Laura Wilson, Pediatrics, Manchester
+Rating: 9/10
+Clinic visited: Portland Health Centre
+Description: Kind to anxious parents, Dr. Laura Wilson never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 2 for Dr. Laura Wilson, Pediatrics, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: Getting to Portland Health Centre by public transport in Manchester was easy, and there is a step-free entrance for wheelchairs. The waiting room in Manchester has a play corner and separate seating for sick children, which I really valued.
+
+Review 3 for Dr. Laura Wilson, Pediatrics, Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 4 for Dr. Laura Wilson, Pediatrics, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: Caring and gentle with my child, Dr. Laura Wilson nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 5 for Dr. Laura Wilson, Pediatrics, Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Laura Wilson, Pediatrics, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Laura Wilson, Pediatrics, Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 8 for Dr. Laura Wilson, Pediatrics, Manchester
+Rating: 5/10
+Clinic visited: Portland Health Centre
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Laura Wilson, Pediatrics, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: My child's asthma action plan from Dr. Laura Wilson was written out clearly so that school staff could follow it too.
+
+Overall rating for Dr. Laura Wilson, Pediatrics, Manchester: 6.89/10 from 9 reviews

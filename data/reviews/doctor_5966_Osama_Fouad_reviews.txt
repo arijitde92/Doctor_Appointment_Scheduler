@@ -1,0 +1,59 @@
+Doctor: Dr. Osama Fouad
+Doctor ID: 5966
+Specialization: Pathology
+Gender: Male
+Years of experience: 13
+City: Luxor, Egypt
+Clinics: Karnak Family Clinic (clinic ID 770); Nile Corniche Medical Centre (clinic ID 771)
+
+Review 1 for Dr. Osama Fouad, Pathology, Luxor
+Rating: 7/10
+Clinic visited: Karnak Family Clinic
+Description: The blood draw was painless, but the waiting area at Karnak Family Clinic was crowded in the early morning.
+
+Review 2 for Dr. Osama Fouad, Pathology, Luxor
+Rating: 7/10
+Clinic visited: Karnak Family Clinic
+Description: Dr. Osama Fouad answered my questions kindly, though the call back took three days. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Osama Fouad, Pathology, Luxor
+Rating: 9/10
+Clinic visited: Karnak Family Clinic
+Description: Fast turnaround at Karnak Family Clinic on my thyroid panel, with results in my online account by the next morning.
+
+Review 4 for Dr. Osama Fouad, Pathology, Luxor
+Rating: 7/10
+Clinic visited: Karnak Family Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Osama Fouad, Pathology, Luxor
+Rating: 7/10
+Clinic visited: Karnak Family Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 6 for Dr. Osama Fouad, Pathology, Luxor
+Rating: 8/10
+Clinic visited: Karnak Family Clinic
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Review 7 for Dr. Osama Fouad, Pathology, Luxor
+Rating: 5/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 8 for Dr. Osama Fouad, Pathology, Luxor
+Rating: 7/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Osama Fouad, Pathology, Luxor
+Rating: 10/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Dr. Osama Fouad took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 10 for Dr. Osama Fouad, Pathology, Luxor
+Rating: 9/10
+Clinic visited: Karnak Family Clinic
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. Booking online at Karnak Family Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Overall rating for Dr. Osama Fouad, Pathology, Luxor: 7.60/10 from 10 reviews

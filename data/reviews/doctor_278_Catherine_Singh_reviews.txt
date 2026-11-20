@@ -1,0 +1,59 @@
+Doctor: Dr. Catherine Singh
+Doctor ID: 278
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 13
+City: Calgary, Canada
+Clinics: Southland Medical Centre (clinic ID 38)
+
+Review 1 for Dr. Catherine Singh, Gastroenterology, Calgary
+Rating: 6/10
+Clinic visited: Southland Medical Centre
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Booking was easy online, but the confirmation email contained the wrong address for Southland Medical Centre. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Catherine Singh, Gastroenterology, Calgary
+Rating: 3/10
+Clinic visited: Southland Medical Centre
+Description: Dr. Catherine Singh spent very little time explaining the biopsy findings and I left worried and confused. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 3 for Dr. Catherine Singh, Gastroenterology, Calgary
+Rating: 4/10
+Clinic visited: Southland Medical Centre
+Description: I described ongoing stomach pain and was told it was stress, with no tests ordered for months.
+
+Review 4 for Dr. Catherine Singh, Gastroenterology, Calgary
+Rating: 4/10
+Clinic visited: Southland Medical Centre
+Description: I felt dismissed by Dr. Catherine Singh when I brought up a second concern, and was told to book another appointment for it.
+
+Review 5 for Dr. Catherine Singh, Gastroenterology, Calgary
+Rating: 4/10
+Clinic visited: Southland Medical Centre
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 6 for Dr. Catherine Singh, Gastroenterology, Calgary
+Rating: 7/10
+Clinic visited: Southland Medical Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Catherine Singh, Gastroenterology, Calgary
+Rating: 4/10
+Clinic visited: Southland Medical Centre
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. I was charged separately for several items that had been described as included in the procedure.
+
+Review 8 for Dr. Catherine Singh, Gastroenterology, Calgary
+Rating: 6/10
+Clinic visited: Southland Medical Centre
+Description: Dr. Catherine Singh is thorough, but I waited nearly two months to get the first available slot. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Catherine Singh, Gastroenterology, Calgary
+Rating: 8/10
+Clinic visited: Southland Medical Centre
+Description: I was nervous about my screening, but the team at Southland Medical Centre made me feel at ease, and I was home within hours.
+
+Review 10 for Dr. Catherine Singh, Gastroenterology, Calgary
+Rating: 7/10
+Clinic visited: Southland Medical Centre
+Description: Knowledgeable about my reflux, Dr. Catherine Singh still gave diet advice that felt generic and not tailored to my habits. Helpful visit overall, although I only found out about an extra charge after I had paid. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Catherine Singh, Gastroenterology, Calgary: 5.30/10 from 10 reviews

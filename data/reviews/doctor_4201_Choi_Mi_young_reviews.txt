@@ -1,0 +1,49 @@
+Doctor: Dr. Choi Mi-young
+Doctor ID: 4201
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 5
+City: Daegu, South Korea
+Clinics: Suseong Namu Family Clinic (clinic ID 541)
+
+Review 1 for Dr. Choi Mi-young, Pulmonology, Daegu
+Rating: 8/10
+Clinic visited: Suseong Namu Family Clinic
+Description: After years of poorly controlled asthma, Dr. Choi Mi-young reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 2 for Dr. Choi Mi-young, Pulmonology, Daegu
+Rating: 9/10
+Clinic visited: Suseong Namu Family Clinic
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 3 for Dr. Choi Mi-young, Pulmonology, Daegu
+Rating: 7/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Suseong Namu Family Clinic regularly exceeded forty minutes.
+
+Review 4 for Dr. Choi Mi-young, Pulmonology, Daegu
+Rating: 7/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Choi Mi-young, Pulmonology, Daegu
+Rating: 6/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Helpful and honest about my prognosis, Dr. Choi Mi-young could still have given me more written material to take home.
+
+Review 6 for Dr. Choi Mi-young, Pulmonology, Daegu
+Rating: 6/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Quick appointment and a fair price in Daegu, but the staff seemed overwhelmed and a bit curt on the phone. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Choi Mi-young, Pulmonology, Daegu
+Rating: 8/10
+Clinic visited: Suseong Namu Family Clinic
+Description: My oxygen levels are monitored carefully at Suseong Namu Family Clinic, and the home equipment was arranged without any hassle. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Choi Mi-young, Pulmonology, Daegu
+Rating: 7/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Overall rating for Dr. Choi Mi-young, Pulmonology, Daegu: 7.25/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Rania Abdel Rahman
+Doctor ID: 5920
+Specialization: Pathology
+Gender: Female
+Years of experience: 3
+City: Giza, Egypt
+Clinics: Mohandessin Noor Medical Centre (clinic ID 765); Sheikh Zayed Palm Polyclinic (clinic ID 767)
+
+Review 1 for Dr. Rania Abdel Rahman, Pathology, Giza
+Rating: 7/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Dr. Rania Abdel Rahman answered my questions kindly, though the call back took three days. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Rania Abdel Rahman, Pathology, Giza
+Rating: 8/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Review 3 for Dr. Rania Abdel Rahman, Pathology, Giza
+Rating: 6/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Rania Abdel Rahman, Pathology, Giza
+Rating: 10/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 5 for Dr. Rania Abdel Rahman, Pathology, Giza
+Rating: 7/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 6 for Dr. Rania Abdel Rahman, Pathology, Giza
+Rating: 9/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 7 for Dr. Rania Abdel Rahman, Pathology, Giza
+Rating: 7/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 8 for Dr. Rania Abdel Rahman, Pathology, Giza
+Rating: 10/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: The practice in Giza is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. My whole family is switching over after seeing how good the care was.
+
+Review 9 for Dr. Rania Abdel Rahman, Pathology, Giza
+Rating: 10/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: The biopsy report was returned in three days, and Dr. Rania Abdel Rahman took time on the phone to explain every term in it. Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Rania Abdel Rahman, Pathology, Giza: 8.22/10 from 9 reviews

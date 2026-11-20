@@ -1,0 +1,54 @@
+Doctor: Dr. Harri Järvinen
+Doctor ID: 1886
+Specialization: Radiology
+Gender: Male
+Years of experience: 11
+City: Tampere, Finland
+Clinics: Terveysasema Satakunnankatu (clinic ID 246)
+
+Review 1 for Dr. Harri Järvinen, Radiology, Tampere
+Rating: 6/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Harri Järvinen answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 2 for Dr. Harri Järvinen, Radiology, Tampere
+Rating: 10/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: Parking was simple, the waiting room was calm, and I never felt like a number.
+
+Review 3 for Dr. Harri Järvinen, Radiology, Tampere
+Rating: 7/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Harri Järvinen, Radiology, Tampere
+Rating: 10/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: Reviewing my X-ray together with Dr. Harri Järvinen on the screen made it much easier to understand my arthritis. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 5 for Dr. Harri Järvinen, Radiology, Tampere
+Rating: 9/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Booking a CT scan online at Terveysasema Satakunnankatu took two minutes, and I was in and out within forty minutes.
+
+Review 6 for Dr. Harri Järvinen, Radiology, Tampere
+Rating: 8/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: Fast, clean and professional; the bone density scan with Dr. Harri Järvinen was painless and the results were explained clearly. The waiting room at Terveysasema Satakunnankatu was clean, quiet and comfortable, with enough seating and water available.
+
+Review 7 for Dr. Harri Järvinen, Radiology, Tampere
+Rating: 8/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: My ultrasound was unhurried, and Dr. Harri Järvinen took time to show me the images and explain what each measurement meant. Sensitive questions were handled by Dr. Harri Järvinen with discretion and without a hint of judgment.
+
+Review 8 for Dr. Harri Järvinen, Radiology, Tampere
+Rating: 8/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: The report from Dr. Harri Järvinen was detailed but written so a non-medical person could follow it, with a short summary at the top. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 9 for Dr. Harri Järvinen, Radiology, Tampere
+Rating: 7/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: Dr. Harri Järvinen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The report from Dr. Harri Järvinen was thorough, though full of technical terms that needed my regular doctor to translate. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Harri Järvinen, Radiology, Tampere: 8.11/10 from 9 reviews

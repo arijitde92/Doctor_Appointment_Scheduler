@@ -1,0 +1,59 @@
+Doctor: Dr. Paula Rantanen
+Doctor ID: 1917
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 4
+City: Turku, Finland
+Clinics: Lääkärikeskus Aurajoki Plus (clinic ID 250); Terveysasema Yliopistonkatu (clinic ID 251); Lääkärikeskus Kauppiaskatu (clinic ID 252)
+
+Review 1 for Dr. Paula Rantanen, Pulmonology, Turku
+Rating: 7/10
+Clinic visited: Lääkärikeskus Kauppiaskatu
+Description: Dr. Paula Rantanen adjusted my asthma medication well, but the breathing test appointment was a month away. Dr. Paula Rantanen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Paula Rantanen, Pulmonology, Turku
+Rating: 4/10
+Clinic visited: Lääkärikeskus Kauppiaskatu
+Description: I was told to just keep using my inhaler and nobody checked whether I was using it properly. The prescription from Dr. Paula Rantanen was not the one we discussed, and I only noticed when I got home.
+
+Review 3 for Dr. Paula Rantanen, Pulmonology, Turku
+Rating: 6/10
+Clinic visited: Terveysasema Yliopistonkatu
+Description: The treatment plan from Dr. Paula Rantanen made sense, but I wished it had been written down for me to take away. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Paula Rantanen, Pulmonology, Turku
+Rating: 7/10
+Clinic visited: Terveysasema Yliopistonkatu
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 5 for Dr. Paula Rantanen, Pulmonology, Turku
+Rating: 1/10
+Clinic visited: Terveysasema Yliopistonkatu
+Description: My questions were answered by Dr. Paula Rantanen with short, vague replies, and I left without a clear plan.
+
+Review 6 for Dr. Paula Rantanen, Pulmonology, Turku
+Rating: 5/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Paula Rantanen, Pulmonology, Turku
+Rating: 4/10
+Clinic visited: Terveysasema Yliopistonkatu
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 8 for Dr. Paula Rantanen, Pulmonology, Turku
+Rating: 6/10
+Clinic visited: Lääkärikeskus Kauppiaskatu
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Helpful and honest about my prognosis, Dr. Paula Rantanen could still have given me more written material to take home.
+
+Review 9 for Dr. Paula Rantanen, Pulmonology, Turku
+Rating: 5/10
+Clinic visited: Terveysasema Yliopistonkatu
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Paula Rantanen, Pulmonology, Turku
+Rating: 6/10
+Clinic visited: Lääkärikeskus Kauppiaskatu
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Paula Rantanen, Pulmonology, Turku: 5.10/10 from 10 reviews

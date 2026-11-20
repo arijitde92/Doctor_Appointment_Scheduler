@@ -1,0 +1,49 @@
+Doctor: Dr. Feng Yanyan
+Doctor ID: 3919
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 12
+City: Shanghai, China
+Clinics: Jingan Anxin Clinic (clinic ID 506); Xianxia Hongkang Polyclinic (clinic ID 508); Xujiahui Pinghe Medical Clinic (clinic ID 509)
+
+Review 1 for Dr. Feng Yanyan, Orthopedic, Shanghai
+Rating: 9/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Dr. Feng Yanyan double-checked my allergy list before prescribing anything, and that careful habit earned my trust. She set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up.
+
+Review 2 for Dr. Feng Yanyan, Orthopedic, Shanghai
+Rating: 6/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Dr. Feng Yanyan was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Feng Yanyan, Orthopedic, Shanghai
+Rating: 7/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: I liked the advice I got from Dr. Feng Yanyan, but I would have liked more time to ask follow-up questions before the visit ended. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 4 for Dr. Feng Yanyan, Orthopedic, Shanghai
+Rating: 7/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Feng Yanyan, Orthopedic, Shanghai
+Rating: 7/10
+Clinic visited: Jingan Anxin Clinic
+Description: Very skilled with my knee, but Dr. Feng Yanyan's clinic runs behind and the wait was over an hour. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Feng Yanyan, Orthopedic, Shanghai
+Rating: 8/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: The X-ray was reviewed with me on screen, and she pointed out exactly where the cartilage had worn down. Getting to Xianxia Hongkang Polyclinic by public transport in Shanghai was easy, and there is a step-free entrance for wheelchairs.
+
+Review 7 for Dr. Feng Yanyan, Orthopedic, Shanghai
+Rating: 9/10
+Clinic visited: Jingan Anxin Clinic
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Feng Yanyan, Orthopedic, Shanghai
+Rating: 6/10
+Clinic visited: Jingan Anxin Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Feng Yanyan, Orthopedic, Shanghai: 7.38/10 from 8 reviews

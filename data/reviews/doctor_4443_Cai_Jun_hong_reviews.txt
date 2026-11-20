@@ -1,0 +1,69 @@
+Doctor: Dr. Cai Jun-hong
+Doctor ID: 4443
+Specialization: Pathology
+Gender: Male
+Years of experience: 3
+City: Taipei, Taiwan
+Clinics: Neihu Hengsheng Polyclinic (clinic ID 573); Shilin Tianmu Medical Clinic (clinic ID 574)
+
+Review 1 for Dr. Cai Jun-hong, Pathology, Taipei
+Rating: 6/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Cai Jun-hong, Pathology, Taipei
+Rating: 7/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Cai Jun-hong, Pathology, Taipei
+Rating: 8/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: Allergy panel results were explained in detail by Dr. Cai Jun-hong, with a note on which results mattered clinically and which did not. Sensitive questions were handled by Dr. Cai Jun-hong with discretion and without a hint of judgment. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Cai Jun-hong, Pathology, Taipei
+Rating: 8/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Taipei.
+
+Review 5 for Dr. Cai Jun-hong, Pathology, Taipei
+Rating: 7/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Cai Jun-hong, Pathology, Taipei
+Rating: 7/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: Dr. Cai Jun-hong answered my questions kindly, though the call back took three days. Dr. Cai Jun-hong was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 7 for Dr. Cai Jun-hong, Pathology, Taipei
+Rating: 7/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: Helpful in clarifying a borderline result, though Dr. Cai Jun-hong gave little guidance about whether to repeat it.
+
+Review 8 for Dr. Cai Jun-hong, Pathology, Taipei
+Rating: 7/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 9 for Dr. Cai Jun-hong, Pathology, Taipei
+Rating: 7/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: Dr. Cai Jun-hong was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 10 for Dr. Cai Jun-hong, Pathology, Taipei
+Rating: 10/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: Dr. Cai Jun-hong drew a quick sketch to explain what was going on, which helped me remember it afterwards. Fast turnaround at Neihu Hengsheng Polyclinic on my thyroid panel, with results in my online account by the next morning. Five stars from me, and I would book again tomorrow.
+
+Review 11 for Dr. Cai Jun-hong, Pathology, Taipei
+Rating: 6/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: The blood draw was painless, but the waiting area at Neihu Hengsheng Polyclinic was crowded in the early morning.
+
+Review 12 for Dr. Cai Jun-hong, Pathology, Taipei
+Rating: 7/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: Good bedside manner from Dr. Cai Jun-hong, but the parking near Shilin Tianmu Medical Clinic is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Cai Jun-hong, Pathology, Taipei: 7.25/10 from 12 reviews

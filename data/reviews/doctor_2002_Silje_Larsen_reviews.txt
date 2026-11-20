@@ -1,0 +1,54 @@
+Doctor: Dr. Silje Larsen
+Doctor ID: 2002
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 12
+City: Oslo, Norway
+Clinics: Helsehuset Storgata (clinic ID 261)
+
+Review 1 for Dr. Silje Larsen, Pediatrics, Oslo
+Rating: 6/10
+Clinic visited: Helsehuset Storgata
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 2 for Dr. Silje Larsen, Pediatrics, Oslo
+Rating: 6/10
+Clinic visited: Helsehuset Storgata
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Silje Larsen, Pediatrics, Oslo
+Rating: 6/10
+Clinic visited: Helsehuset Storgata
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Silje Larsen, Pediatrics, Oslo
+Rating: 9/10
+Clinic visited: Helsehuset Storgata
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Silje Larsen, Pediatrics, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: Dr. Silje Larsen is thorough with exams, but the after-hours phone line at Helsehuset Storgata is hard to reach. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Silje Larsen, Pediatrics, Oslo
+Rating: 8/10
+Clinic visited: Helsehuset Storgata
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 7 for Dr. Silje Larsen, Pediatrics, Oslo
+Rating: 6/10
+Clinic visited: Helsehuset Storgata
+Description: Booking was easy online, but the confirmation email contained the wrong address for Helsehuset Storgata. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 8 for Dr. Silje Larsen, Pediatrics, Oslo
+Rating: 8/10
+Clinic visited: Helsehuset Storgata
+Description: My toddler was terrified of doctors, but Dr. Silje Larsen sat on the floor, played with a stuffed toy and examined everything without a single tear. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 9 for Dr. Silje Larsen, Pediatrics, Oslo
+Rating: 7/10
+Clinic visited: Helsehuset Storgata
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Silje Larsen, Pediatrics, Oslo: 6.78/10 from 9 reviews

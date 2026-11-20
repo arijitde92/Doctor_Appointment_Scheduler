@@ -1,0 +1,64 @@
+Doctor: Dr. Low Li Hua
+Doctor ID: 4573
+Specialization: Cardiology
+Gender: Female
+Years of experience: 23
+City: Singapore, Singapore
+Clinics: Kopi Corner Clinic (clinic ID 591)
+
+Review 1 for Dr. Low Li Hua, Cardiology, Singapore
+Rating: 9/10
+Clinic visited: Kopi Corner Clinic
+Description: Sensitive questions were handled by Dr. Low Li Hua with discretion and without a hint of judgment. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Low Li Hua, Cardiology, Singapore
+Rating: 7/10
+Clinic visited: Kopi Corner Clinic
+Description: Great care in the visit itself, but the billing for the tests at Kopi Corner Clinic was confusing. Booking was easy online, but the confirmation email contained the wrong address for Kopi Corner Clinic.
+
+Review 3 for Dr. Low Li Hua, Cardiology, Singapore
+Rating: 10/10
+Clinic visited: Kopi Corner Clinic
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. Never once did I feel rushed, even though the clinic was clearly busy that morning. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Low Li Hua, Cardiology, Singapore
+Rating: 5/10
+Clinic visited: Kopi Corner Clinic
+Description: Helpful with my cholesterol, Dr. Low Li Hua still gave dietary advice that was a little generic.
+
+Review 5 for Dr. Low Li Hua, Cardiology, Singapore
+Rating: 7/10
+Clinic visited: Kopi Corner Clinic
+Description: Dr. Low Li Hua adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 6 for Dr. Low Li Hua, Cardiology, Singapore
+Rating: 10/10
+Clinic visited: Kopi Corner Clinic
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Low Li Hua, Cardiology, Singapore
+Rating: 7/10
+Clinic visited: Kopi Corner Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 8 for Dr. Low Li Hua, Cardiology, Singapore
+Rating: 7/10
+Clinic visited: Kopi Corner Clinic
+Description: Quick appointment and a fair price in Singapore, but the staff seemed overwhelmed and a bit curt on the phone. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. Low Li Hua, Cardiology, Singapore
+Rating: 7/10
+Clinic visited: Kopi Corner Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. The treatment plan from Dr. Low Li Hua made sense, but I wished it had been written down for me to take away.
+
+Review 10 for Dr. Low Li Hua, Cardiology, Singapore
+Rating: 8/10
+Clinic visited: Kopi Corner Clinic
+Description: The cardiology unit at Kopi Corner Clinic runs on time, and the technicians were professional during my echocardiogram. I appreciated that she offered more than one option and let me choose what suited my life. I feel lucky to have found this practice in my area.
+
+Review 11 for Dr. Low Li Hua, Cardiology, Singapore
+Rating: 9/10
+Clinic visited: Kopi Corner Clinic
+Description: After my heart attack, Dr. Low Li Hua explained the rehab plan and medication changes with great patience and kindness. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Low Li Hua, Cardiology, Singapore: 7.82/10 from 11 reviews

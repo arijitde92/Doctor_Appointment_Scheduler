@@ -1,0 +1,59 @@
+Doctor: Dr. Daniel Machado
+Doctor ID: 620
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 8
+City: Curitiba, Brazil
+Clinics: Clínica Portão Familiar (clinic ID 83)
+
+Review 1 for Dr. Daniel Machado, Orthopedic, Curitiba
+Rating: 9/10
+Clinic visited: Clínica Portão Familiar
+Description: He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up.
+
+Review 2 for Dr. Daniel Machado, Orthopedic, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Portão Familiar
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Dr. Daniel Machado explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 3 for Dr. Daniel Machado, Orthopedic, Curitiba
+Rating: 6/10
+Clinic visited: Clínica Portão Familiar
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 4 for Dr. Daniel Machado, Orthopedic, Curitiba
+Rating: 6/10
+Clinic visited: Clínica Portão Familiar
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Daniel Machado, Orthopedic, Curitiba
+Rating: 6/10
+Clinic visited: Clínica Portão Familiar
+Description: I got what I needed, but the next available appointment was three weeks away. Very skilled with my knee, but Dr. Daniel Machado's clinic runs behind and the wait was over an hour.
+
+Review 6 for Dr. Daniel Machado, Orthopedic, Curitiba
+Rating: 9/10
+Clinic visited: Clínica Portão Familiar
+Description: The X-ray was reviewed with me on screen, and he pointed out exactly where the cartilage had worn down. Never once did I feel rushed, even though the clinic was clearly busy that morning. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Daniel Machado, Orthopedic, Curitiba
+Rating: 9/10
+Clinic visited: Clínica Portão Familiar
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 8 for Dr. Daniel Machado, Orthopedic, Curitiba
+Rating: 9/10
+Clinic visited: Clínica Portão Familiar
+Description: The surgeon at Clínica Portão Familiar spent time on my goals as a runner and shaped the treatment around them.
+
+Review 9 for Dr. Daniel Machado, Orthopedic, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Portão Familiar
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Daniel Machado, Orthopedic, Curitiba
+Rating: 8/10
+Clinic visited: Clínica Portão Familiar
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Clear aftercare instructions from Dr. Daniel Machado and a direct number to call if something felt wrong after my surgery. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Daniel Machado, Orthopedic, Curitiba: 7.60/10 from 10 reviews

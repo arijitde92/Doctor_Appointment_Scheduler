@@ -1,0 +1,54 @@
+Doctor: Dr. Amr Rizk
+Doctor ID: 5928
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 24
+City: Giza, Egypt
+Clinics: Mohandessin Noor Medical Centre (clinic ID 765); Dokki Salam Family Clinic (clinic ID 766)
+
+Review 1 for Dr. Amr Rizk, Pulmonology, Giza
+Rating: 8/10
+Clinic visited: Dokki Salam Family Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan.
+
+Review 2 for Dr. Amr Rizk, Pulmonology, Giza
+Rating: 6/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Quick appointment and a fair price in Giza, but the staff seemed overwhelmed and a bit curt on the phone. Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 3 for Dr. Amr Rizk, Pulmonology, Giza
+Rating: 7/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Helpful and honest about my prognosis, Dr. Amr Rizk could still have given me more written material to take home. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 4 for Dr. Amr Rizk, Pulmonology, Giza
+Rating: 7/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: I liked the advice I got from Dr. Amr Rizk, but I would have liked more time to ask follow-up questions before the visit ended. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Amr Rizk, Pulmonology, Giza
+Rating: 7/10
+Clinic visited: Dokki Salam Family Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 6 for Dr. Amr Rizk, Pulmonology, Giza
+Rating: 9/10
+Clinic visited: Dokki Salam Family Clinic
+Description: The spirometry test was explained step by step, and Dr. Amr Rizk put the results in context with a clear picture of my lung function. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 7 for Dr. Amr Rizk, Pulmonology, Giza
+Rating: 7/10
+Clinic visited: Dokki Salam Family Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Dokki Salam Family Clinic regularly exceeded forty minutes.
+
+Review 8 for Dr. Amr Rizk, Pulmonology, Giza
+Rating: 5/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: The treatment plan from Dr. Amr Rizk made sense, but I wished it had been written down for me to take away.
+
+Review 9 for Dr. Amr Rizk, Pulmonology, Giza
+Rating: 9/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: The practice in Giza is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Amr Rizk, Pulmonology, Giza: 7.22/10 from 9 reviews

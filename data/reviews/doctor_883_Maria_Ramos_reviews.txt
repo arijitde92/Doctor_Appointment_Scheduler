@@ -1,0 +1,69 @@
+Doctor: Dr. María Ramos
+Doctor ID: 883
+Specialization: Radiology
+Gender: Female
+Years of experience: 13
+City: Arequipa, Peru
+Clinics: Centro Médico Misti (clinic ID 116)
+
+Review 1 for Dr. María Ramos, Radiology, Arequipa
+Rating: 9/10
+Clinic visited: Centro Médico Misti
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Reviewing my X-ray together with Dr. María Ramos on the screen made it much easier to understand my arthritis. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. María Ramos, Radiology, Arequipa
+Rating: 6/10
+Clinic visited: Centro Médico Misti
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. María Ramos, Radiology, Arequipa
+Rating: 7/10
+Clinic visited: Centro Médico Misti
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. María Ramos, Radiology, Arequipa
+Rating: 8/10
+Clinic visited: Centro Médico Misti
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. María Ramos, Radiology, Arequipa
+Rating: 9/10
+Clinic visited: Centro Médico Misti
+Description: My test results arrived in the portal within two days, together with a short note that made sense. I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 6 for Dr. María Ramos, Radiology, Arequipa
+Rating: 8/10
+Clinic visited: Centro Médico Misti
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 7 for Dr. María Ramos, Radiology, Arequipa
+Rating: 6/10
+Clinic visited: Centro Médico Misti
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. María Ramos, Radiology, Arequipa
+Rating: 6/10
+Clinic visited: Centro Médico Misti
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. María Ramos, Radiology, Arequipa
+Rating: 9/10
+Clinic visited: Centro Médico Misti
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 10 for Dr. María Ramos, Radiology, Arequipa
+Rating: 7/10
+Clinic visited: Centro Médico Misti
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 11 for Dr. María Ramos, Radiology, Arequipa
+Rating: 8/10
+Clinic visited: Centro Médico Misti
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. Booking online at Centro Médico Misti was simple, and I got a confirmation text with clear directions and a reminder the day before. I will be coming back for all my future check-ups.
+
+Review 12 for Dr. María Ramos, Radiology, Arequipa
+Rating: 7/10
+Clinic visited: Centro Médico Misti
+Description: The report from Dr. María Ramos was thorough, though full of technical terms that needed my regular doctor to translate. Quick appointment and a fair price in Arequipa, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. María Ramos, Radiology, Arequipa: 7.50/10 from 12 reviews

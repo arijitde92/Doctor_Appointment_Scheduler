@@ -1,0 +1,49 @@
+Doctor: Dr. Bilal Chaudhry
+Doctor ID: 6441
+Specialization: General
+Gender: Male
+Years of experience: 9
+City: Peshawar, Pakistan
+Clinics: Gulbahar Health Practice (clinic ID 834)
+
+Review 1 for Dr. Bilal Chaudhry, General, Peshawar
+Rating: 6/10
+Clinic visited: Gulbahar Health Practice
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. Dr. Bilal Chaudhry was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Bilal Chaudhry, General, Peshawar
+Rating: 9/10
+Clinic visited: Gulbahar Health Practice
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Bilal Chaudhry, General, Peshawar
+Rating: 8/10
+Clinic visited: Gulbahar Health Practice
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. Even the billing team was helpful, and a mistake on my statement was corrected within a day. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Bilal Chaudhry, General, Peshawar
+Rating: 7/10
+Clinic visited: Gulbahar Health Practice
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Bilal Chaudhry, General, Peshawar
+Rating: 8/10
+Clinic visited: Gulbahar Health Practice
+Description: My blood pressure had crept up and Dr. Bilal Chaudhry walked me through diet changes before suggesting anything else. Three months later my readings were normal. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 6 for Dr. Bilal Chaudhry, General, Peshawar
+Rating: 7/10
+Clinic visited: Gulbahar Health Practice
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 7 for Dr. Bilal Chaudhry, General, Peshawar
+Rating: 7/10
+Clinic visited: Gulbahar Health Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 8 for Dr. Bilal Chaudhry, General, Peshawar
+Rating: 7/10
+Clinic visited: Gulbahar Health Practice
+Description: Dr. Bilal Chaudhry was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Referrals from Dr. Bilal Chaudhry are handled well, but getting test results back took longer than I was told to expect.
+
+Overall rating for Dr. Bilal Chaudhry, General, Peshawar: 7.38/10 from 8 reviews

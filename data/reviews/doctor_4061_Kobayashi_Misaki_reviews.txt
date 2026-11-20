@@ -1,0 +1,54 @@
+Doctor: Dr. Kobayashi Misaki
+Doctor ID: 4061
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Female
+Years of experience: 11
+City: Osaka, Japan
+Clinics: Shin-Osaka Tsubasa Clinic (clinic ID 524)
+
+Review 1 for Dr. Kobayashi Misaki, Obstetrics and Gynecology (OB/GYN), Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Fertility questions were handled with honesty about timelines and realistic options, and I never felt rushed.
+
+Review 2 for Dr. Kobayashi Misaki, Obstetrics and Gynecology (OB/GYN), Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: A respectful exam, but I wished for more discussion on pain management before my procedure.
+
+Review 3 for Dr. Kobayashi Misaki, Obstetrics and Gynecology (OB/GYN), Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 4 for Dr. Kobayashi Misaki, Obstetrics and Gynecology (OB/GYN), Osaka
+Rating: 5/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Dr. Kobayashi Misaki explained my options well, though the office was often running an hour behind. Dr. Kobayashi Misaki was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Kobayashi Misaki, Obstetrics and Gynecology (OB/GYN), Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: The ultrasound images from Dr. Kobayashi Misaki were great, but I had to call twice to get the written report. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Kobayashi Misaki, Obstetrics and Gynecology (OB/GYN), Osaka
+Rating: 6/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked.
+
+Review 7 for Dr. Kobayashi Misaki, Obstetrics and Gynecology (OB/GYN), Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Throughout my pregnancy Dr. Kobayashi Misaki answered every question patiently, including the many late-night worries I sent through the portal. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Kobayashi Misaki, Obstetrics and Gynecology (OB/GYN), Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues.
+
+Review 9 for Dr. Kobayashi Misaki, Obstetrics and Gynecology (OB/GYN), Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Kobayashi Misaki, Obstetrics and Gynecology (OB/GYN), Osaka: 7.22/10 from 9 reviews

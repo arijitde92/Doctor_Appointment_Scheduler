@@ -1,0 +1,54 @@
+Doctor: Dr. Eduardo Huamán
+Doctor ID: 986
+Specialization: General
+Gender: Male
+Years of experience: 4
+City: Lima, Peru
+Clinics: Clínica La Marina Salud (clinic ID 129)
+
+Review 1 for Dr. Eduardo Huamán, General, Lima
+Rating: 8/10
+Clinic visited: Clínica La Marina Salud
+Description: I went in with months of tiredness, and Dr. Eduardo Huamán ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. My whole family is switching over after seeing how good the care was.
+
+Review 2 for Dr. Eduardo Huamán, General, Lima
+Rating: 8/10
+Clinic visited: Clínica La Marina Salud
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. I appreciated that he offered more than one option and let me choose what suited my life. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Eduardo Huamán, General, Lima
+Rating: 9/10
+Clinic visited: Clínica La Marina Salud
+Description: Getting to Clínica La Marina Salud from across Lima was easy, and the same-week appointment saved me an urgent care trip. Dr. Eduardo Huamán drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Eduardo Huamán, General, Lima
+Rating: 10/10
+Clinic visited: Clínica La Marina Salud
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 5 for Dr. Eduardo Huamán, General, Lima
+Rating: 8/10
+Clinic visited: Clínica La Marina Salud
+Description: Cholesterol results were explained by Dr. Eduardo Huamán with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 6 for Dr. Eduardo Huamán, General, Lima
+Rating: 8/10
+Clinic visited: Clínica La Marina Salud
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Eduardo Huamán, General, Lima
+Rating: 6/10
+Clinic visited: Clínica La Marina Salud
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 8 for Dr. Eduardo Huamán, General, Lima
+Rating: 9/10
+Clinic visited: Clínica La Marina Salud
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 9 for Dr. Eduardo Huamán, General, Lima
+Rating: 9/10
+Clinic visited: Clínica La Marina Salud
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. My referral letter was written on the spot, and the specialist's office had my details before I called. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Eduardo Huamán, General, Lima: 8.33/10 from 9 reviews

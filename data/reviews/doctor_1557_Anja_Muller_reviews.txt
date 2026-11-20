@@ -1,0 +1,64 @@
+Doctor: Dr. Anja Müller
+Doctor ID: 1557
+Specialization: Cardiology
+Gender: Female
+Years of experience: 9
+City: Frankfurt, Germany
+Clinics: Gesundheitspraxis Bockenheimer Warte (clinic ID 203)
+
+Review 1 for Dr. Anja Müller, Cardiology, Frankfurt
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Dr. Anja Müller was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Anja Müller, Cardiology, Frankfurt
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Clear and calm advice at Gesundheitspraxis Bockenheimer Warte about exercise after my stent, including a gradual written schedule. A same-day slot was found for me at Gesundheitspraxis Bockenheimer Warte when I called with a worrying symptom. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Anja Müller, Cardiology, Frankfurt
+Rating: 10/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 4 for Dr. Anja Müller, Cardiology, Frankfurt
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Anja Müller, Cardiology, Frankfurt
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 6 for Dr. Anja Müller, Cardiology, Frankfurt
+Rating: 10/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: After my heart attack, Dr. Anja Müller explained the rehab plan and medication changes with great patience and kindness. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Anja Müller, Cardiology, Frankfurt
+Rating: 10/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: After my palpitations began, Dr. Anja Müller arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. Everything was explained in plain English by Dr. Anja Müller, and nothing was left to guess.
+
+Review 8 for Dr. Anja Müller, Cardiology, Frankfurt
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: The cardiology unit at Gesundheitspraxis Bockenheimer Warte runs on time, and the technicians were professional during my echocardiogram. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 9 for Dr. Anja Müller, Cardiology, Frankfurt
+Rating: 10/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 10 for Dr. Anja Müller, Cardiology, Frankfurt
+Rating: 10/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Sensitive questions were handled by Dr. Anja Müller with discretion and without a hint of judgment. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 11 for Dr. Anja Müller, Cardiology, Frankfurt
+Rating: 10/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. My atrial fibrillation is well managed by Dr. Anja Müller, and I know exactly what symptoms mean I should call.
+
+Overall rating for Dr. Anja Müller, Cardiology, Frankfurt: 9.18/10 from 11 reviews

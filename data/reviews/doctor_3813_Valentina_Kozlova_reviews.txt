@@ -1,0 +1,64 @@
+Doctor: Dr. Valentina Kozlova
+Doctor ID: 3813
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 5
+City: Saint Petersburg, Russia
+Clinics: Moskovsky Family Polyclinic (clinic ID 492)
+
+Review 1 for Dr. Valentina Kozlova, Psychiatry, Saint Petersburg
+Rating: 7/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Valentina Kozlova, Psychiatry, Saint Petersburg
+Rating: 8/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 3 for Dr. Valentina Kozlova, Psychiatry, Saint Petersburg
+Rating: 8/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: I was called in within five minutes of my appointment time at Moskovsky Family Polyclinic, which is rare and much appreciated. I can ring Moskovsky Family Polyclinic with an urgent question and receive a thoughtful reply the same day.
+
+Review 4 for Dr. Valentina Kozlova, Psychiatry, Saint Petersburg
+Rating: 7/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Good listener, yet the refill process at Moskovsky Family Polyclinic is slow and requires several phone calls. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Valentina Kozlova, Psychiatry, Saint Petersburg
+Rating: 7/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 6 for Dr. Valentina Kozlova, Psychiatry, Saint Petersburg
+Rating: 6/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Good bedside manner from Dr. Valentina Kozlova, but the parking near Moskovsky Family Polyclinic is limited and I had to circle for fifteen minutes. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 7 for Dr. Valentina Kozlova, Psychiatry, Saint Petersburg
+Rating: 8/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Never once did Dr. Valentina Kozlova make me feel weak for asking for help, and the stigma I carried really began to ease. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Valentina Kozlova, Psychiatry, Saint Petersburg
+Rating: 5/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The treatment plan from Dr. Valentina Kozlova made sense, but I wished it had been written down for me to take away.
+
+Review 9 for Dr. Valentina Kozlova, Psychiatry, Saint Petersburg
+Rating: 7/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Booking was easy online, but the confirmation email contained the wrong address for Moskovsky Family Polyclinic. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Valentina Kozlova, Psychiatry, Saint Petersburg
+Rating: 7/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 11 for Dr. Valentina Kozlova, Psychiatry, Saint Petersburg
+Rating: 3/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion.
+
+Overall rating for Dr. Valentina Kozlova, Psychiatry, Saint Petersburg: 6.64/10 from 11 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Trine Laursen
+Doctor ID: 2382
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 26
+City: Odense, Denmark
+Clinics: Sundhedscenter Nørregade Odense (clinic ID 312)
+
+Review 1 for Dr. Trine Laursen, Gastroenterology, Odense
+Rating: 6/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 2 for Dr. Trine Laursen, Gastroenterology, Odense
+Rating: 7/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 3 for Dr. Trine Laursen, Gastroenterology, Odense
+Rating: 10/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Clear explanation from Dr. Trine Laursen of fatty liver and exactly which lifestyle changes would make a measurable difference.
+
+Review 4 for Dr. Trine Laursen, Gastroenterology, Odense
+Rating: 8/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Helpful dietitian referral from Dr. Trine Laursen and written guidance for living with ulcerative colitis.
+
+Review 5 for Dr. Trine Laursen, Gastroenterology, Odense
+Rating: 6/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 6 for Dr. Trine Laursen, Gastroenterology, Odense
+Rating: 7/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Trine Laursen is thorough, but I waited nearly two months to get the first available slot. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Trine Laursen, Gastroenterology, Odense
+Rating: 5/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: I liked the advice I got from Dr. Trine Laursen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Trine Laursen, Gastroenterology, Odense
+Rating: 5/10
+Clinic visited: Sundhedscenter Nørregade Odense
+Description: Knowledgeable about my reflux, Dr. Trine Laursen still gave diet advice that felt generic and not tailored to my habits.
+
+Overall rating for Dr. Trine Laursen, Gastroenterology, Odense: 6.75/10 from 8 reviews

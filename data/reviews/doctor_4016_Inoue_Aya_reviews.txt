@@ -1,0 +1,59 @@
+Doctor: Dr. Inoue Aya
+Doctor ID: 4016
+Specialization: General
+Gender: Female
+Years of experience: 9
+City: Kyoto, Japan
+Clinics: Demachi Take Health Clinic (clinic ID 518)
+
+Review 1 for Dr. Inoue Aya, General, Kyoto
+Rating: 8/10
+Clinic visited: Demachi Take Health Clinic
+Description: By the time I left the room, Dr. Inoue Aya had sorted the sick note, referral letter and prescription refill. Dr. Inoue Aya drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 2 for Dr. Inoue Aya, General, Kyoto
+Rating: 5/10
+Clinic visited: Demachi Take Health Clinic
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. I liked the advice I got from Dr. Inoue Aya, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Inoue Aya, General, Kyoto
+Rating: 5/10
+Clinic visited: Demachi Take Health Clinic
+Description: Referrals from Dr. Inoue Aya are handled well, but getting test results back took longer than I was told to expect. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 4 for Dr. Inoue Aya, General, Kyoto
+Rating: 10/10
+Clinic visited: Demachi Take Health Clinic
+Description: Dr. Inoue Aya spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 5 for Dr. Inoue Aya, General, Kyoto
+Rating: 8/10
+Clinic visited: Demachi Take Health Clinic
+Description: As a new patient in Kyoto, I felt welcomed at Demachi Take Health Clinic, and my whole history was reviewed in one relaxed visit. A translator was arranged for my mother without us asking twice, and Dr. Inoue Aya spoke directly to her throughout.
+
+Review 6 for Dr. Inoue Aya, General, Kyoto
+Rating: 4/10
+Clinic visited: Demachi Take Health Clinic
+Description: I came in about worsening headaches and was told to drink more water and relax, with no examination at all.
+
+Review 7 for Dr. Inoue Aya, General, Kyoto
+Rating: 7/10
+Clinic visited: Demachi Take Health Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Inoue Aya, General, Kyoto
+Rating: 7/10
+Clinic visited: Demachi Take Health Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 9 for Dr. Inoue Aya, General, Kyoto
+Rating: 6/10
+Clinic visited: Demachi Take Health Clinic
+Description: Dr. Inoue Aya is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Good bedside manner from Dr. Inoue Aya, but the parking near Demachi Take Health Clinic is limited and I had to circle for fifteen minutes.
+
+Review 10 for Dr. Inoue Aya, General, Kyoto
+Rating: 7/10
+Clinic visited: Demachi Take Health Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Inoue Aya, General, Kyoto: 6.70/10 from 10 reviews

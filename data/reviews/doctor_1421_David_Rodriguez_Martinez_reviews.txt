@@ -1,0 +1,64 @@
+Doctor: Dr. David Rodríguez Martínez
+Doctor ID: 1421
+Specialization: General
+Gender: Male
+Years of experience: 17
+City: Seville, Spain
+Clinics: Clínica Giralda (clinic ID 185)
+
+Review 1 for Dr. David Rodríguez Martínez, General, Seville
+Rating: 6/10
+Clinic visited: Clínica Giralda
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Clínica Giralda were inconsistent. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. David Rodríguez Martínez, General, Seville
+Rating: 9/10
+Clinic visited: Clínica Giralda
+Description: Cholesterol results were explained by Dr. David Rodríguez Martínez with a simple chart, and we agreed on a plan I could realistically follow. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. David Rodríguez Martínez, General, Seville
+Rating: 8/10
+Clinic visited: Clínica Giralda
+Description: Dr. David Rodríguez Martínez spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. My test results arrived in the portal within two days, together with a short note that made sense. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. David Rodríguez Martínez, General, Seville
+Rating: 8/10
+Clinic visited: Clínica Giralda
+Description: My annual check-up with Dr. David Rodríguez Martínez took forty minutes, with every screening explained and nothing rushed. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. David Rodríguez Martínez, General, Seville
+Rating: 6/10
+Clinic visited: Clínica Giralda
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. David Rodríguez Martínez, General, Seville
+Rating: 8/10
+Clinic visited: Clínica Giralda
+Description: Managing my type 2 diabetes with Dr. David Rodríguez Martínez has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 7 for Dr. David Rodríguez Martínez, General, Seville
+Rating: 9/10
+Clinic visited: Clínica Giralda
+Description: I went in with months of tiredness, and Dr. David Rodríguez Martínez ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 8 for Dr. David Rodríguez Martínez, General, Seville
+Rating: 9/10
+Clinic visited: Clínica Giralda
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 9 for Dr. David Rodríguez Martínez, General, Seville
+Rating: 9/10
+Clinic visited: Clínica Giralda
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 10 for Dr. David Rodríguez Martínez, General, Seville
+Rating: 9/10
+Clinic visited: Clínica Giralda
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I was called in within five minutes of my appointment time at Clínica Giralda, which is rare and much appreciated. Worth every minute of travel, and I would go again without a second thought.
+
+Review 11 for Dr. David Rodríguez Martínez, General, Seville
+Rating: 8/10
+Clinic visited: Clínica Giralda
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Overall rating for Dr. David Rodríguez Martínez, General, Seville: 8.09/10 from 11 reviews

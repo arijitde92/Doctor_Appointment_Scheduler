@@ -1,0 +1,59 @@
+Doctor: Dr. Charlotte Petit
+Doctor ID: 1208
+Specialization: General
+Gender: Female
+Years of experience: 12
+City: Lyon, France
+Clinics: Clinique de la Part-Dieu (clinic ID 157)
+
+Review 1 for Dr. Charlotte Petit, General, Lyon
+Rating: 9/10
+Clinic visited: Clinique de la Part-Dieu
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. Paperwork at Clinique de la Part-Dieu was kept to a minimum, and the staff helped me complete the insurance form. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Charlotte Petit, General, Lyon
+Rating: 10/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Dr. Charlotte Petit spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Charlotte Petit, General, Lyon
+Rating: 10/10
+Clinic visited: Clinique de la Part-Dieu
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Vaccination advice from Dr. Charlotte Petit for my travel plans was thorough and specific to the countries I was visiting. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Charlotte Petit, General, Lyon
+Rating: 8/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Dr. Charlotte Petit double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I always hear back within a day when I leave a question with the nurse at Clinique de la Part-Dieu, and Dr. Charlotte Petit follows up on lab results personally.
+
+Review 5 for Dr. Charlotte Petit, General, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Dr. Charlotte Petit is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Dr. Charlotte Petit was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Charlotte Petit, General, Lyon
+Rating: 10/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Getting to Clinique de la Part-Dieu from across Lyon was easy, and the same-week appointment saved me an urgent care trip. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 7 for Dr. Charlotte Petit, General, Lyon
+Rating: 9/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Dr. Charlotte Petit drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 8 for Dr. Charlotte Petit, General, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Good bedside manner from Dr. Charlotte Petit, but the parking near Clinique de la Part-Dieu is limited and I had to circle for fifteen minutes.
+
+Review 9 for Dr. Charlotte Petit, General, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Quick appointment and a fair price in Lyon, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 10 for Dr. Charlotte Petit, General, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Charlotte Petit, General, Lyon: 8.40/10 from 10 reviews

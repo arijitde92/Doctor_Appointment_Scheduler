@@ -1,0 +1,64 @@
+Doctor: Dr. John Robinson
+Doctor ID: 5748
+Specialization: General
+Gender: Male
+Years of experience: 1
+City: Durban, South Africa
+Clinics: Morningside Jacaranda Clinic (clinic ID 742)
+
+Review 1 for Dr. John Robinson, General, Durban
+Rating: 7/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Good bedside manner from Dr. John Robinson, but the parking near Morningside Jacaranda Clinic is limited and I had to circle for fifteen minutes. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. John Robinson, General, Durban
+Rating: 6/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: Dr. John Robinson is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. John Robinson, General, Durban
+Rating: 7/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Morningside Jacaranda Clinic were inconsistent. The treatment plan from Dr. John Robinson made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. John Robinson, General, Durban
+Rating: 6/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. John Robinson, General, Durban
+Rating: 9/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: Everything was explained in plain English by Dr. John Robinson, and nothing was left to guess. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 6 for Dr. John Robinson, General, Durban
+Rating: 9/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. John Robinson, General, Durban
+Rating: 10/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: As a new patient in Durban, I felt welcomed at Morningside Jacaranda Clinic, and my whole history was reviewed in one relaxed visit. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. John Robinson, General, Durban
+Rating: 8/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: Cholesterol results were explained by Dr. John Robinson with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 9 for Dr. John Robinson, General, Durban
+Rating: 8/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: A same-day slot was found for me at Morningside Jacaranda Clinic when I called with a worrying symptom. I will be coming back for all my future check-ups.
+
+Review 10 for Dr. John Robinson, General, Durban
+Rating: 8/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. Paperwork at Morningside Jacaranda Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 11 for Dr. John Robinson, General, Durban
+Rating: 9/10
+Clinic visited: Morningside Jacaranda Clinic
+Description: Getting to Morningside Jacaranda Clinic from across Durban was easy, and the same-week appointment saved me an urgent care trip. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Overall rating for Dr. John Robinson, General, Durban: 7.91/10 from 11 reviews

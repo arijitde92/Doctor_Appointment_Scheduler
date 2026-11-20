@@ -1,0 +1,49 @@
+Doctor: Dr. Son Byung-chul
+Doctor ID: 4276
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 5
+City: Seoul, South Korea
+Clinics: Jongno Dasom Medical Centre (clinic ID 551)
+
+Review 1 for Dr. Son Byung-chul, Orthopedic, Seoul
+Rating: 6/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The cast was applied well, but the instructions for showering and sleeping were rushed. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Son Byung-chul, Orthopedic, Seoul
+Rating: 5/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Dr. Son Byung-chul was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. Son Byung-chul explained surgery options clearly, though the physiotherapy referral took weeks to arrive. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Son Byung-chul, Orthopedic, Seoul
+Rating: 6/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Son Byung-chul, Orthopedic, Seoul
+Rating: 8/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. Booking online at Jongno Dasom Medical Centre was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 5 for Dr. Son Byung-chul, Orthopedic, Seoul
+Rating: 7/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 6 for Dr. Son Byung-chul, Orthopedic, Seoul
+Rating: 7/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Very skilled with my knee, but Dr. Son Byung-chul's clinic runs behind and the wait was over an hour. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Son Byung-chul, Orthopedic, Seoul
+Rating: 6/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Son Byung-chul, Orthopedic, Seoul
+Rating: 10/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Clear aftercare instructions from Dr. Son Byung-chul and a direct number to call if something felt wrong after my surgery. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Overall rating for Dr. Son Byung-chul, Orthopedic, Seoul: 6.88/10 from 8 reviews

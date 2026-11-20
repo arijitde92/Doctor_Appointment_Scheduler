@@ -1,0 +1,59 @@
+Doctor: Dr. Ethan Robinson
+Doctor ID: 6510
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 11
+City: Melbourne, Australia
+Clinics: Parkside Family Clinic (clinic ID 842)
+
+Review 1 for Dr. Ethan Robinson, Psychiatry, Melbourne
+Rating: 6/10
+Clinic visited: Parkside Family Clinic
+Description: Quick appointment and a fair price in Melbourne, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Ethan Robinson is knowledgeable, though I waited several weeks for my first appointment. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Ethan Robinson, Psychiatry, Melbourne
+Rating: 9/10
+Clinic visited: Parkside Family Clinic
+Description: I came away understanding my condition better than I have in years of previous appointments. Telehealth follow-ups at Parkside Family Clinic are punctual and calm, and refills are dealt with quickly.
+
+Review 3 for Dr. Ethan Robinson, Psychiatry, Melbourne
+Rating: 6/10
+Clinic visited: Parkside Family Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Ethan Robinson, Psychiatry, Melbourne
+Rating: 10/10
+Clinic visited: Parkside Family Clinic
+Description: Never once did Dr. Ethan Robinson make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 5 for Dr. Ethan Robinson, Psychiatry, Melbourne
+Rating: 7/10
+Clinic visited: Parkside Family Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 6 for Dr. Ethan Robinson, Psychiatry, Melbourne
+Rating: 6/10
+Clinic visited: Parkside Family Clinic
+Description: Good listener, yet the refill process at Parkside Family Clinic is slow and requires several phone calls. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Ethan Robinson, Psychiatry, Melbourne
+Rating: 7/10
+Clinic visited: Parkside Family Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 8 for Dr. Ethan Robinson, Psychiatry, Melbourne
+Rating: 7/10
+Clinic visited: Parkside Family Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Ethan Robinson, Psychiatry, Melbourne
+Rating: 7/10
+Clinic visited: Parkside Family Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 10 for Dr. Ethan Robinson, Psychiatry, Melbourne
+Rating: 10/10
+Clinic visited: Parkside Family Clinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. Dr. Ethan Robinson took a full history before suggesting any medication and explained the likely side effects honestly. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Ethan Robinson, Psychiatry, Melbourne: 7.50/10 from 10 reviews

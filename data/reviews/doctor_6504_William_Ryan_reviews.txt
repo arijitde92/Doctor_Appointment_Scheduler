@@ -1,0 +1,54 @@
+Doctor: Dr. William Ryan
+Doctor ID: 6504
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 12
+City: Melbourne, Australia
+Clinics: Parkside Family Clinic (clinic ID 842)
+
+Review 1 for Dr. William Ryan, Gastroenterology, Melbourne
+Rating: 6/10
+Clinic visited: Parkside Family Clinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 2 for Dr. William Ryan, Gastroenterology, Melbourne
+Rating: 7/10
+Clinic visited: Parkside Family Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 3 for Dr. William Ryan, Gastroenterology, Melbourne
+Rating: 6/10
+Clinic visited: Parkside Family Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. William Ryan, Gastroenterology, Melbourne
+Rating: 6/10
+Clinic visited: Parkside Family Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 5 for Dr. William Ryan, Gastroenterology, Melbourne
+Rating: 8/10
+Clinic visited: Parkside Family Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. William Ryan, Gastroenterology, Melbourne
+Rating: 6/10
+Clinic visited: Parkside Family Clinic
+Description: Dr. William Ryan is thorough, but I waited nearly two months to get the first available slot.
+
+Review 7 for Dr. William Ryan, Gastroenterology, Melbourne
+Rating: 8/10
+Clinic visited: Parkside Family Clinic
+Description: Getting to Parkside Family Clinic in Melbourne was simple, and the day-procedure unit was calm and efficient. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 8 for Dr. William Ryan, Gastroenterology, Melbourne
+Rating: 9/10
+Clinic visited: Parkside Family Clinic
+Description: The receptionist at Parkside Family Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 9 for Dr. William Ryan, Gastroenterology, Melbourne
+Rating: 5/10
+Clinic visited: Parkside Family Clinic
+Description: Knowledgeable about my reflux, Dr. William Ryan still gave diet advice that felt generic and not tailored to my habits.
+
+Overall rating for Dr. William Ryan, Gastroenterology, Melbourne: 6.78/10 from 9 reviews

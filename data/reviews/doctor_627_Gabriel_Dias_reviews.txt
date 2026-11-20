@@ -1,0 +1,69 @@
+Doctor: Dr. Gabriel Dias
+Doctor ID: 627
+Specialization: General
+Gender: Male
+Years of experience: 7
+City: Curitiba, Brazil
+Clinics: Instituto de Saúde Marechal (clinic ID 84)
+
+Review 1 for Dr. Gabriel Dias, General, Curitiba
+Rating: 10/10
+Clinic visited: Instituto de Saúde Marechal
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 2 for Dr. Gabriel Dias, General, Curitiba
+Rating: 8/10
+Clinic visited: Instituto de Saúde Marechal
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 3 for Dr. Gabriel Dias, General, Curitiba
+Rating: 7/10
+Clinic visited: Instituto de Saúde Marechal
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. I liked the advice I got from Dr. Gabriel Dias, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Gabriel Dias, General, Curitiba
+Rating: 9/10
+Clinic visited: Instituto de Saúde Marechal
+Description: As a new patient in Curitiba, I felt welcomed at Instituto de Saúde Marechal, and my whole history was reviewed in one relaxed visit.
+
+Review 5 for Dr. Gabriel Dias, General, Curitiba
+Rating: 7/10
+Clinic visited: Instituto de Saúde Marechal
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Gabriel Dias, General, Curitiba
+Rating: 8/10
+Clinic visited: Instituto de Saúde Marechal
+Description: My blood pressure had crept up and Dr. Gabriel Dias walked me through diet changes before suggesting anything else. Three months later my readings were normal. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 7 for Dr. Gabriel Dias, General, Curitiba
+Rating: 9/10
+Clinic visited: Instituto de Saúde Marechal
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 8 for Dr. Gabriel Dias, General, Curitiba
+Rating: 10/10
+Clinic visited: Instituto de Saúde Marechal
+Description: Dr. Gabriel Dias spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. Getting to Instituto de Saúde Marechal by public transport in Curitiba was easy, and there is a step-free entrance for wheelchairs. This is the first doctor I have trusted completely in years.
+
+Review 9 for Dr. Gabriel Dias, General, Curitiba
+Rating: 8/10
+Clinic visited: Instituto de Saúde Marechal
+Description: By the time I left the room, Dr. Gabriel Dias had sorted the sick note, referral letter and prescription refill. Sensitive questions were handled by Dr. Gabriel Dias with discretion and without a hint of judgment.
+
+Review 10 for Dr. Gabriel Dias, General, Curitiba
+Rating: 8/10
+Clinic visited: Instituto de Saúde Marechal
+Description: I always hear back within a day when I leave a question with the nurse at Instituto de Saúde Marechal, and Dr. Gabriel Dias follows up on lab results personally.
+
+Review 11 for Dr. Gabriel Dias, General, Curitiba
+Rating: 9/10
+Clinic visited: Instituto de Saúde Marechal
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 12 for Dr. Gabriel Dias, General, Curitiba
+Rating: 7/10
+Clinic visited: Instituto de Saúde Marechal
+Description: Referrals from Dr. Gabriel Dias are handled well, but getting test results back took longer than I was told to expect.
+
+Overall rating for Dr. Gabriel Dias, General, Curitiba: 8.33/10 from 12 reviews

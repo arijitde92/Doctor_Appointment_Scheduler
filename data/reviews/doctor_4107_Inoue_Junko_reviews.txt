@@ -1,0 +1,64 @@
+Doctor: Dr. Inoue Junko
+Doctor ID: 4107
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 1
+City: Yokohama, Japan
+Clinics: Minato Mirai Nami Clinic (clinic ID 530); Totsuka Hana Health Clinic (clinic ID 534)
+
+Review 1 for Dr. Inoue Junko, Pulmonology, Yokohama
+Rating: 7/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 2 for Dr. Inoue Junko, Pulmonology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: I came away understanding my condition better than I have in years of previous appointments. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Inoue Junko, Pulmonology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: The spirometry test was explained step by step, and Dr. Inoue Junko put the results in context with a clear picture of my lung function. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Inoue Junko, Pulmonology, Yokohama
+Rating: 9/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: I always leave Dr. Inoue Junko's office with a written summary of my breathing test results and what changed since the last visit. Getting to Totsuka Hana Health Clinic by public transport in Yokohama was easy, and there is a step-free entrance for wheelchairs.
+
+Review 5 for Dr. Inoue Junko, Pulmonology, Yokohama
+Rating: 9/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: Dr. Inoue Junko explained my lung nodule follow-up schedule calmly, which took away weeks of worry. Dr. Inoue Junko looked me in the eye, listened to the whole story and only then started typing. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Inoue Junko, Pulmonology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: My oxygen levels are monitored carefully at Minato Mirai Nami Clinic, and the home equipment was arranged without any hassle.
+
+Review 7 for Dr. Inoue Junko, Pulmonology, Yokohama
+Rating: 8/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Inoue Junko. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Inoue Junko, Pulmonology, Yokohama
+Rating: 9/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. My whole family is switching over after seeing how good the care was.
+
+Review 9 for Dr. Inoue Junko, Pulmonology, Yokohama
+Rating: 8/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan.
+
+Review 10 for Dr. Inoue Junko, Pulmonology, Yokohama
+Rating: 9/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: Dr. Inoue Junko double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 11 for Dr. Inoue Junko, Pulmonology, Yokohama
+Rating: 7/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Dr. Inoue Junko was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Inoue Junko, Pulmonology, Yokohama: 8.73/10 from 11 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Lin Tsung-han
+Doctor ID: 4439
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 17
+City: Taipei, Taiwan
+Clinics: Daan Mingde Health Clinic (clinic ID 572)
+
+Review 1 for Dr. Lin Tsung-han, Gastroenterology, Taipei
+Rating: 7/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Knowledgeable about my reflux, Dr. Lin Tsung-han still gave diet advice that felt generic and not tailored to my habits. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Lin Tsung-han, Gastroenterology, Taipei
+Rating: 7/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Lin Tsung-han, Gastroenterology, Taipei
+Rating: 7/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Lin Tsung-han, Gastroenterology, Taipei
+Rating: 7/10
+Clinic visited: Daan Mingde Health Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Lin Tsung-han, Gastroenterology, Taipei
+Rating: 5/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Quick appointment and a fair price in Taipei, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Lin Tsung-han, Gastroenterology, Taipei
+Rating: 5/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Dr. Lin Tsung-han is thorough, but I waited nearly two months to get the first available slot. The treatment plan from Dr. Lin Tsung-han made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Lin Tsung-han, Gastroenterology, Taipei
+Rating: 8/10
+Clinic visited: Daan Mingde Health Clinic
+Description: I was nervous about my screening, but the team at Daan Mingde Health Clinic made me feel at ease, and I was home within hours. The waiting room at Daan Mingde Health Clinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 8 for Dr. Lin Tsung-han, Gastroenterology, Taipei
+Rating: 7/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Good bedside manner from Dr. Lin Tsung-han, but the parking near Daan Mingde Health Clinic is limited and I had to circle for fifteen minutes. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 9 for Dr. Lin Tsung-han, Gastroenterology, Taipei
+Rating: 8/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Clear explanation from Dr. Lin Tsung-han of fatty liver and exactly which lifestyle changes would make a measurable difference.
+
+Overall rating for Dr. Lin Tsung-han, Gastroenterology, Taipei: 6.78/10 from 9 reviews

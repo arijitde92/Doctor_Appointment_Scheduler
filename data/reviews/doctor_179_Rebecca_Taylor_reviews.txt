@@ -1,0 +1,54 @@
+Doctor: Dr. Rebecca Taylor
+Doctor ID: 179
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 13
+City: New York, USA
+Clinics: Parkview Primary Care Associates (clinic ID 25); Midtown Family Medical Group (clinic ID 26)
+
+Review 1 for Dr. Rebecca Taylor, Orthopedic, New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: Quick appointment and a fair price in New York, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Rebecca Taylor, Orthopedic, New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Rebecca Taylor, Orthopedic, New York
+Rating: 5/10
+Clinic visited: Parkview Primary Care Associates
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Rebecca Taylor, Orthopedic, New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Rebecca Taylor, Orthopedic, New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: Very skilled with my knee, but Dr. Rebecca Taylor's clinic runs behind and the wait was over an hour. I liked the advice I got from Dr. Rebecca Taylor, but I would have liked more time to ask follow-up questions before the visit ended. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Rebecca Taylor, Orthopedic, New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: Dr. Rebecca Taylor was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. Rebecca Taylor explained surgery options clearly, though the physiotherapy referral took weeks to arrive. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Rebecca Taylor, Orthopedic, New York
+Rating: 7/10
+Clinic visited: Parkview Primary Care Associates
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 8 for Dr. Rebecca Taylor, Orthopedic, New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Rebecca Taylor, Orthopedic, New York
+Rating: 5/10
+Clinic visited: Midtown Family Medical Group
+Description: I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Rebecca Taylor, Orthopedic, New York: 6.22/10 from 9 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Jack Evans
+Doctor ID: 6542
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 21
+City: Perth, Australia
+Clinics: Outback Road Medical (clinic ID 846)
+
+Review 1 for Dr. Jack Evans, Orthopedic, Perth
+Rating: 7/10
+Clinic visited: Outback Road Medical
+Description: Booking was easy online, but the confirmation email contained the wrong address for Outback Road Medical.
+
+Review 2 for Dr. Jack Evans, Orthopedic, Perth
+Rating: 8/10
+Clinic visited: Outback Road Medical
+Description: The surgeon at Outback Road Medical spent time on my goals as a runner and shaped the treatment around them.
+
+Review 3 for Dr. Jack Evans, Orthopedic, Perth
+Rating: 8/10
+Clinic visited: Outback Road Medical
+Description: Dr. Jack Evans explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 4 for Dr. Jack Evans, Orthopedic, Perth
+Rating: 5/10
+Clinic visited: Outback Road Medical
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Jack Evans, Orthopedic, Perth
+Rating: 8/10
+Clinic visited: Outback Road Medical
+Description: Seen the same day at Outback Road Medical after a bad ankle sprain, with an X-ray done and a brace fitted before I left. Sensitive questions were handled by Dr. Jack Evans with discretion and without a hint of judgment.
+
+Review 6 for Dr. Jack Evans, Orthopedic, Perth
+Rating: 8/10
+Clinic visited: Outback Road Medical
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Jack Evans, Orthopedic, Perth
+Rating: 7/10
+Clinic visited: Outback Road Medical
+Description: Very skilled with my knee, but Dr. Jack Evans's clinic runs behind and the wait was over an hour. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Jack Evans, Orthopedic, Perth
+Rating: 8/10
+Clinic visited: Outback Road Medical
+Description: I appreciated Dr. Jack Evans's honest comparison between injections, therapy and surgery for my hip pain. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 9 for Dr. Jack Evans, Orthopedic, Perth
+Rating: 9/10
+Clinic visited: Outback Road Medical
+Description: Plain, honest advice from Dr. Jack Evans for my arthritis, including which exercises to avoid and which would help. Booking online at Outback Road Medical was simple, and I got a confirmation text with clear directions and a reminder the day before. Five stars from me, and I would book again tomorrow.
+
+Review 10 for Dr. Jack Evans, Orthopedic, Perth
+Rating: 6/10
+Clinic visited: Outback Road Medical
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 11 for Dr. Jack Evans, Orthopedic, Perth
+Rating: 9/10
+Clinic visited: Outback Road Medical
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule. Worth every minute of travel, and I would go again without a second thought.
+
+Review 12 for Dr. Jack Evans, Orthopedic, Perth
+Rating: 6/10
+Clinic visited: Outback Road Medical
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Dr. Jack Evans was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Jack Evans, Orthopedic, Perth: 7.42/10 from 12 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Usman Shah
+Doctor ID: 6371
+Specialization: General
+Gender: Male
+Years of experience: 5
+City: Lahore, Pakistan
+Clinics: Gulberg Shahi Family Clinic (clinic ID 825); Johar Town Sehat Centre (clinic ID 826)
+
+Review 1 for Dr. Usman Shah, General, Lahore
+Rating: 8/10
+Clinic visited: Gulberg Shahi Family Clinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. Dr. Usman Shah drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 2 for Dr. Usman Shah, General, Lahore
+Rating: 9/10
+Clinic visited: Johar Town Sehat Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. My annual check-up with Dr. Usman Shah took forty minutes, with every screening explained and nothing rushed.
+
+Review 3 for Dr. Usman Shah, General, Lahore
+Rating: 8/10
+Clinic visited: Johar Town Sehat Centre
+Description: Prescriptions from Dr. Usman Shah were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I went in with months of tiredness, and Dr. Usman Shah ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Usman Shah, General, Lahore
+Rating: 10/10
+Clinic visited: Gulberg Shahi Family Clinic
+Description: Dr. Usman Shah used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 5 for Dr. Usman Shah, General, Lahore
+Rating: 7/10
+Clinic visited: Johar Town Sehat Centre
+Description: Referrals from Dr. Usman Shah are handled well, but getting test results back took longer than I was told to expect. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Usman Shah, General, Lahore
+Rating: 6/10
+Clinic visited: Johar Town Sehat Centre
+Description: Dr. Usman Shah was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Usman Shah, General, Lahore
+Rating: 6/10
+Clinic visited: Gulberg Shahi Family Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Usman Shah, General, Lahore
+Rating: 10/10
+Clinic visited: Johar Town Sehat Centre
+Description: As a new patient in Lahore, I felt welcomed at Johar Town Sehat Centre, and my whole history was reviewed in one relaxed visit. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Usman Shah, General, Lahore
+Rating: 6/10
+Clinic visited: Johar Town Sehat Centre
+Description: Dr. Usman Shah is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Good bedside manner from Dr. Usman Shah, but the parking near Johar Town Sehat Centre is limited and I had to circle for fifteen minutes.
+
+Review 10 for Dr. Usman Shah, General, Lahore
+Rating: 8/10
+Clinic visited: Gulberg Shahi Family Clinic
+Description: Cholesterol results were explained by Dr. Usman Shah with a simple chart, and we agreed on a plan I could realistically follow.
+
+Overall rating for Dr. Usman Shah, General, Lahore: 7.80/10 from 10 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Brigitte Meier
+Doctor ID: 1779
+Specialization: Radiology
+Gender: Female
+Years of experience: 30
+City: Zurich, Switzerland
+Clinics: Praxis Limmatblick (clinic ID 231)
+
+Review 1 for Dr. Brigitte Meier, Radiology, Zurich
+Rating: 8/10
+Clinic visited: Praxis Limmatblick
+Description: At my visit, Dr. Brigitte Meier took notes on my medication list, checked for interactions and explained the changes simply. The staff at Praxis Limmatblick in Zurich explained the contrast dye and its side effects before I signed anything.
+
+Review 2 for Dr. Brigitte Meier, Radiology, Zurich
+Rating: 9/10
+Clinic visited: Praxis Limmatblick
+Description: Getting to Praxis Limmatblick by public transport in Zurich was easy, and there is a step-free entrance for wheelchairs. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Brigitte Meier, Radiology, Zurich
+Rating: 7/10
+Clinic visited: Praxis Limmatblick
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 4 for Dr. Brigitte Meier, Radiology, Zurich
+Rating: 7/10
+Clinic visited: Praxis Limmatblick
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Good bedside manner from Dr. Brigitte Meier, but the parking near Praxis Limmatblick is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Brigitte Meier, Radiology, Zurich
+Rating: 8/10
+Clinic visited: Praxis Limmatblick
+Description: My ultrasound was unhurried, and Dr. Brigitte Meier took time to show me the images and explain what each measurement meant. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Brigitte Meier, Radiology, Zurich
+Rating: 9/10
+Clinic visited: Praxis Limmatblick
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Brigitte Meier, Radiology, Zurich
+Rating: 7/10
+Clinic visited: Praxis Limmatblick
+Description: I liked the advice I got from Dr. Brigitte Meier, but I would have liked more time to ask follow-up questions before the visit ended. The report from Dr. Brigitte Meier was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 8 for Dr. Brigitte Meier, Radiology, Zurich
+Rating: 6/10
+Clinic visited: Praxis Limmatblick
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 9 for Dr. Brigitte Meier, Radiology, Zurich
+Rating: 9/10
+Clinic visited: Praxis Limmatblick
+Description: Prescriptions from Dr. Brigitte Meier were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Images from Praxis Limmatblick were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 10 for Dr. Brigitte Meier, Radiology, Zurich
+Rating: 9/10
+Clinic visited: Praxis Limmatblick
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 11 for Dr. Brigitte Meier, Radiology, Zurich
+Rating: 8/10
+Clinic visited: Praxis Limmatblick
+Description: Reviewing my X-ray together with Dr. Brigitte Meier on the screen made it much easier to understand my arthritis.
+
+Overall rating for Dr. Brigitte Meier, Radiology, Zurich: 7.91/10 from 11 reviews

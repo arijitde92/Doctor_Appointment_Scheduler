@@ -1,0 +1,54 @@
+Doctor: Dr. Ethan Jones
+Doctor ID: 274
+Specialization: General
+Gender: Male
+Years of experience: 19
+City: Calgary, Canada
+Clinics: Southland Medical Centre (clinic ID 38); Foothills Family Clinic (clinic ID 39)
+
+Review 1 for Dr. Ethan Jones, General, Calgary
+Rating: 8/10
+Clinic visited: Southland Medical Centre
+Description: Vaccination advice from Dr. Ethan Jones for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 2 for Dr. Ethan Jones, General, Calgary
+Rating: 9/10
+Clinic visited: Foothills Family Clinic
+Description: I went in with months of tiredness, and Dr. Ethan Jones ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 3 for Dr. Ethan Jones, General, Calgary
+Rating: 10/10
+Clinic visited: Southland Medical Centre
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Ethan Jones, General, Calgary
+Rating: 9/10
+Clinic visited: Southland Medical Centre
+Description: As a new patient in Calgary, I felt welcomed at Southland Medical Centre, and my whole history was reviewed in one relaxed visit. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 5 for Dr. Ethan Jones, General, Calgary
+Rating: 9/10
+Clinic visited: Foothills Family Clinic
+Description: Dr. Ethan Jones spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Ethan Jones, General, Calgary
+Rating: 7/10
+Clinic visited: Foothills Family Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Ethan Jones, General, Calgary
+Rating: 10/10
+Clinic visited: Foothills Family Clinic
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. I was given a printed summary of the visit, which I shared with my family at home. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Ethan Jones, General, Calgary
+Rating: 9/10
+Clinic visited: Foothills Family Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Ethan Jones felt well organized from start to finish. My blood pressure had crept up and Dr. Ethan Jones walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 9 for Dr. Ethan Jones, General, Calgary
+Rating: 7/10
+Clinic visited: Southland Medical Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Overall rating for Dr. Ethan Jones, General, Calgary: 8.67/10 from 9 reviews

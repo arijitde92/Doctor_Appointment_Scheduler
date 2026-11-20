@@ -1,0 +1,54 @@
+Doctor: Dr. Laurent Ferreira
+Doctor ID: 3333
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 5
+City: Luxembourg City, Luxembourg
+Clinics: Polyclinique Limpertsberg (clinic ID 432)
+
+Review 1 for Dr. Laurent Ferreira, Orthopedic, Luxembourg City
+Rating: 7/10
+Clinic visited: Polyclinique Limpertsberg
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Laurent Ferreira, Orthopedic, Luxembourg City
+Rating: 5/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 3 for Dr. Laurent Ferreira, Orthopedic, Luxembourg City
+Rating: 6/10
+Clinic visited: Polyclinique Limpertsberg
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Laurent Ferreira, Orthopedic, Luxembourg City
+Rating: 5/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Dr. Laurent Ferreira was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Laurent Ferreira, Orthopedic, Luxembourg City
+Rating: 5/10
+Clinic visited: Polyclinique Limpertsberg
+Description: The treatment plan from Dr. Laurent Ferreira made sense, but I wished it had been written down for me to take away. Dr. Laurent Ferreira explained surgery options clearly, though the physiotherapy referral took weeks to arrive. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Laurent Ferreira, Orthopedic, Luxembourg City
+Rating: 5/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Very skilled with my knee, but Dr. Laurent Ferreira's clinic runs behind and the wait was over an hour.
+
+Review 7 for Dr. Laurent Ferreira, Orthopedic, Luxembourg City
+Rating: 7/10
+Clinic visited: Polyclinique Limpertsberg
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 8 for Dr. Laurent Ferreira, Orthopedic, Luxembourg City
+Rating: 6/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Laurent Ferreira, Orthopedic, Luxembourg City
+Rating: 7/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Laurent Ferreira, Orthopedic, Luxembourg City: 5.89/10 from 9 reviews

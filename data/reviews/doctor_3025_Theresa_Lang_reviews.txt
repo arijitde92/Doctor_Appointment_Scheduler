@@ -1,0 +1,54 @@
+Doctor: Dr. Theresa Lang
+Doctor ID: 3025
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: Vienna, Austria
+Clinics: Ordination Währinger Park (clinic ID 394)
+
+Review 1 for Dr. Theresa Lang, Cardiology, Vienna
+Rating: 7/10
+Clinic visited: Ordination Währinger Park
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Quick appointment and a fair price in Vienna, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Theresa Lang, Cardiology, Vienna
+Rating: 6/10
+Clinic visited: Ordination Währinger Park
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 3 for Dr. Theresa Lang, Cardiology, Vienna
+Rating: 9/10
+Clinic visited: Ordination Währinger Park
+Description: Dr. Theresa Lang looked me in the eye, listened to the whole story and only then started typing. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Theresa Lang, Cardiology, Vienna
+Rating: 6/10
+Clinic visited: Ordination Währinger Park
+Description: Helpful with my cholesterol, Dr. Theresa Lang still gave dietary advice that was a little generic. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Theresa Lang, Cardiology, Vienna
+Rating: 8/10
+Clinic visited: Ordination Währinger Park
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Dr. Theresa Lang explained the difference between my statin options and let me weigh in on the choice.
+
+Review 6 for Dr. Theresa Lang, Cardiology, Vienna
+Rating: 8/10
+Clinic visited: Ordination Währinger Park
+Description: A same-day slot was found for me at Ordination Währinger Park when I called with a worrying symptom.
+
+Review 7 for Dr. Theresa Lang, Cardiology, Vienna
+Rating: 8/10
+Clinic visited: Ordination Währinger Park
+Description: My atrial fibrillation is well managed by Dr. Theresa Lang, and I know exactly what symptoms mean I should call. Dr. Theresa Lang drew a quick sketch to explain what was going on, which helped me remember it afterwards. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Theresa Lang, Cardiology, Vienna
+Rating: 9/10
+Clinic visited: Ordination Währinger Park
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 9 for Dr. Theresa Lang, Cardiology, Vienna
+Rating: 8/10
+Clinic visited: Ordination Währinger Park
+Description: Clear and calm advice at Ordination Währinger Park about exercise after my stent, including a gradual written schedule.
+
+Overall rating for Dr. Theresa Lang, Cardiology, Vienna: 7.67/10 from 9 reviews

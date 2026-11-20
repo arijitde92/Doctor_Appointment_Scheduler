@@ -1,0 +1,49 @@
+Doctor: Dr. Aroha Parata
+Doctor ID: 6707
+Specialization: General
+Gender: Male
+Years of experience: 23
+City: Hamilton, New Zealand
+Clinics: Korimako Medical Group (clinic ID 869)
+
+Review 1 for Dr. Aroha Parata, General, Hamilton
+Rating: 7/10
+Clinic visited: Korimako Medical Group
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Korimako Medical Group were inconsistent.
+
+Review 2 for Dr. Aroha Parata, General, Hamilton
+Rating: 6/10
+Clinic visited: Korimako Medical Group
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I got what I needed, but the next available appointment was three weeks away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Aroha Parata, General, Hamilton
+Rating: 6/10
+Clinic visited: Korimako Medical Group
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 4 for Dr. Aroha Parata, General, Hamilton
+Rating: 9/10
+Clinic visited: Korimako Medical Group
+Description: I went in with months of tiredness, and Dr. Aroha Parata ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Even the billing team was helpful, and a mistake on my statement was corrected within a day. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Aroha Parata, General, Hamilton
+Rating: 8/10
+Clinic visited: Korimako Medical Group
+Description: As a new patient in Hamilton, I felt welcomed at Korimako Medical Group, and my whole history was reviewed in one relaxed visit. Appointment reminders came by text and email, and rescheduling took two taps. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Aroha Parata, General, Hamilton
+Rating: 5/10
+Clinic visited: Korimako Medical Group
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Dr. Aroha Parata was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Aroha Parata, General, Hamilton
+Rating: 6/10
+Clinic visited: Korimako Medical Group
+Description: Quick appointment and a fair price in Hamilton, but the staff seemed overwhelmed and a bit curt on the phone. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 8 for Dr. Aroha Parata, General, Hamilton
+Rating: 6/10
+Clinic visited: Korimako Medical Group
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Aroha Parata, General, Hamilton: 6.62/10 from 8 reviews

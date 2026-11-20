@@ -1,0 +1,64 @@
+Doctor: Dr. Aaron Rodriguez
+Doctor ID: 164
+Specialization: Pathology
+Gender: Male
+Years of experience: 25
+City: Houston, USA
+Clinics: Westchase Primary Care (clinic ID 23)
+
+Review 1 for Dr. Aaron Rodriguez, Pathology, Houston
+Rating: 8/10
+Clinic visited: Westchase Primary Care
+Description: The staff and Dr. Aaron Rodriguez patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Review 2 for Dr. Aaron Rodriguez, Pathology, Houston
+Rating: 6/10
+Clinic visited: Westchase Primary Care
+Description: Helpful in clarifying a borderline result, though Dr. Aaron Rodriguez gave little guidance about whether to repeat it. Good bedside manner from Dr. Aaron Rodriguez, but the parking near Westchase Primary Care is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Aaron Rodriguez, Pathology, Houston
+Rating: 4/10
+Clinic visited: Westchase Primary Care
+Description: Dr. Aaron Rodriguez was never available to talk about my result, and the front desk repeated that I should ask my referring physician.
+
+Review 4 for Dr. Aaron Rodriguez, Pathology, Houston
+Rating: 6/10
+Clinic visited: Westchase Primary Care
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I liked the advice I got from Dr. Aaron Rodriguez, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 5 for Dr. Aaron Rodriguez, Pathology, Houston
+Rating: 7/10
+Clinic visited: Westchase Primary Care
+Description: The blood draw was painless, but the waiting area at Westchase Primary Care was crowded in the early morning. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Aaron Rodriguez, Pathology, Houston
+Rating: 6/10
+Clinic visited: Westchase Primary Care
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Aaron Rodriguez, Pathology, Houston
+Rating: 6/10
+Clinic visited: Westchase Primary Care
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 8 for Dr. Aaron Rodriguez, Pathology, Houston
+Rating: 7/10
+Clinic visited: Westchase Primary Care
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Aaron Rodriguez, Pathology, Houston
+Rating: 6/10
+Clinic visited: Westchase Primary Care
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Dr. Aaron Rodriguez answered my questions kindly, though the call back took three days.
+
+Review 10 for Dr. Aaron Rodriguez, Pathology, Houston
+Rating: 8/10
+Clinic visited: Westchase Primary Care
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Worth every minute of travel, and I would go again without a second thought.
+
+Review 11 for Dr. Aaron Rodriguez, Pathology, Houston
+Rating: 3/10
+Clinic visited: Westchase Primary Care
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Overall rating for Dr. Aaron Rodriguez, Pathology, Houston: 6.09/10 from 11 reviews

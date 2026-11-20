@@ -1,0 +1,49 @@
+Doctor: Dr. Mehmet Lange
+Doctor ID: 1632
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 13
+City: Munich, Germany
+Clinics: Gesundheitszentrum Haidhausen Ost (clinic ID 213)
+
+Review 1 for Dr. Mehmet Lange, Orthopedic, Munich
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 2 for Dr. Mehmet Lange, Orthopedic, Munich
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Dr. Mehmet Lange explained my back scan using a model of the spine, and I finally understood my sciatica. Paperwork at Gesundheitszentrum Haidhausen Ost was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 3 for Dr. Mehmet Lange, Orthopedic, Munich
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Dr. Mehmet Lange was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Mehmet Lange, Orthopedic, Munich
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: The treatment plan from Dr. Mehmet Lange made sense, but I wished it had been written down for me to take away. Very skilled with my knee, but Dr. Mehmet Lange's clinic runs behind and the wait was over an hour.
+
+Review 5 for Dr. Mehmet Lange, Orthopedic, Munich
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Booking online at Gesundheitszentrum Haidhausen Ost was simple, and I got a confirmation text with clear directions and a reminder the day before. He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Mehmet Lange, Orthopedic, Munich
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Follow-up scans were compared with the earlier ones, and Dr. Mehmet Lange showed me how the bone had healed. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 7 for Dr. Mehmet Lange, Orthopedic, Munich
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 8 for Dr. Mehmet Lange, Orthopedic, Munich
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. Dr. Mehmet Lange looked me in the eye, listened to the whole story and only then started typing. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Mehmet Lange, Orthopedic, Munich: 8.38/10 from 8 reviews

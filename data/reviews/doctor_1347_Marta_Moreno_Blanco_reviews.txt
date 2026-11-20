@@ -1,0 +1,54 @@
+Doctor: Dr. Marta Moreno Blanco
+Doctor ID: 1347
+Specialization: General
+Gender: Female
+Years of experience: 3
+City: Barcelona, Spain
+Clinics: Clínica Sant Jordi (clinic ID 175); Clínica Gràcia (clinic ID 178)
+
+Review 1 for Dr. Marta Moreno Blanco, General, Barcelona
+Rating: 10/10
+Clinic visited: Clínica Sant Jordi
+Description: Vaccination advice from Dr. Marta Moreno Blanco for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 2 for Dr. Marta Moreno Blanco, General, Barcelona
+Rating: 8/10
+Clinic visited: Clínica Gràcia
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. Dr. Marta Moreno Blanco used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 3 for Dr. Marta Moreno Blanco, General, Barcelona
+Rating: 9/10
+Clinic visited: Clínica Sant Jordi
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 4 for Dr. Marta Moreno Blanco, General, Barcelona
+Rating: 8/10
+Clinic visited: Clínica Gràcia
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 5 for Dr. Marta Moreno Blanco, General, Barcelona
+Rating: 6/10
+Clinic visited: Clínica Sant Jordi
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 6 for Dr. Marta Moreno Blanco, General, Barcelona
+Rating: 8/10
+Clinic visited: Clínica Gràcia
+Description: Dr. Marta Moreno Blanco drew a quick sketch to explain what was going on, which helped me remember it afterwards. My blood pressure had crept up and Dr. Marta Moreno Blanco walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 7 for Dr. Marta Moreno Blanco, General, Barcelona
+Rating: 8/10
+Clinic visited: Clínica Gràcia
+Description: I went in with months of tiredness, and Dr. Marta Moreno Blanco ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 8 for Dr. Marta Moreno Blanco, General, Barcelona
+Rating: 8/10
+Clinic visited: Clínica Gràcia
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. Marta Moreno Blanco, General, Barcelona
+Rating: 10/10
+Clinic visited: Clínica Sant Jordi
+Description: Getting to Clínica Sant Jordi from across Barcelona was easy, and the same-week appointment saved me an urgent care trip. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Marta Moreno Blanco, General, Barcelona: 8.33/10 from 9 reviews

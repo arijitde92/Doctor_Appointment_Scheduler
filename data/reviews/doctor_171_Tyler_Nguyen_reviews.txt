@@ -1,0 +1,49 @@
+Doctor: Dr. Tyler Nguyen
+Doctor ID: 171
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 2
+City: Houston, USA
+Clinics: Montrose Wellness Associates (clinic ID 24)
+
+Review 1 for Dr. Tyler Nguyen, Orthopedic, Houston
+Rating: 8/10
+Clinic visited: Montrose Wellness Associates
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 2 for Dr. Tyler Nguyen, Orthopedic, Houston
+Rating: 6/10
+Clinic visited: Montrose Wellness Associates
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 3 for Dr. Tyler Nguyen, Orthopedic, Houston
+Rating: 5/10
+Clinic visited: Montrose Wellness Associates
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 4 for Dr. Tyler Nguyen, Orthopedic, Houston
+Rating: 7/10
+Clinic visited: Montrose Wellness Associates
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Tyler Nguyen, Orthopedic, Houston
+Rating: 6/10
+Clinic visited: Montrose Wellness Associates
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Tyler Nguyen, Orthopedic, Houston
+Rating: 6/10
+Clinic visited: Montrose Wellness Associates
+Description: Very skilled with my knee, but Dr. Tyler Nguyen's clinic runs behind and the wait was over an hour. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Tyler Nguyen, Orthopedic, Houston
+Rating: 3/10
+Clinic visited: Montrose Wellness Associates
+Description: The surgery fee ended up far higher than the quote, and billing staff could not explain the difference. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. Not a place I would choose again, and I hope others have a better experience.
+
+Review 8 for Dr. Tyler Nguyen, Orthopedic, Houston
+Rating: 6/10
+Clinic visited: Montrose Wellness Associates
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Good bedside manner from Dr. Tyler Nguyen, but the parking near Montrose Wellness Associates is limited and I had to circle for fifteen minutes. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Tyler Nguyen, Orthopedic, Houston: 5.88/10 from 8 reviews

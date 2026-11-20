@@ -1,0 +1,54 @@
+Doctor: Dr. Elena Sánchez
+Doctor ID: 978
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 14
+City: Lima, Peru
+Clinics: Consultorios Médicos Arequipa (clinic ID 128); Clínica La Marina Salud (clinic ID 129)
+
+Review 1 for Dr. Elena Sánchez, Gastroenterology, Lima
+Rating: 6/10
+Clinic visited: Clínica La Marina Salud
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Elena Sánchez, Gastroenterology, Lima
+Rating: 5/10
+Clinic visited: Clínica La Marina Salud
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 3 for Dr. Elena Sánchez, Gastroenterology, Lima
+Rating: 6/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: Dr. Elena Sánchez is thorough, but I waited nearly two months to get the first available slot. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Elena Sánchez, Gastroenterology, Lima
+Rating: 6/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. The doctor was kind, though the clinic's evening hours are very limited for working people. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Elena Sánchez, Gastroenterology, Lima
+Rating: 6/10
+Clinic visited: Clínica La Marina Salud
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 6 for Dr. Elena Sánchez, Gastroenterology, Lima
+Rating: 5/10
+Clinic visited: Clínica La Marina Salud
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Elena Sánchez, Gastroenterology, Lima
+Rating: 7/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: Knowledgeable about my reflux, Dr. Elena Sánchez still gave diet advice that felt generic and not tailored to my habits. Good bedside manner from Dr. Elena Sánchez, but the parking near Consultorios Médicos Arequipa is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Elena Sánchez, Gastroenterology, Lima
+Rating: 7/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: Quick appointment and a fair price in Lima, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 9 for Dr. Elena Sánchez, Gastroenterology, Lima
+Rating: 6/10
+Clinic visited: Clínica La Marina Salud
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Elena Sánchez, Gastroenterology, Lima: 6.00/10 from 9 reviews

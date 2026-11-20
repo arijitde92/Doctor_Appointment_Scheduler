@@ -1,0 +1,64 @@
+Doctor: Dr. Thomas Davies
+Doctor ID: 1150
+Specialization: Cardiology
+Gender: Male
+Years of experience: 2
+City: Manchester, UK
+Clinics: King Street Medical Practice (clinic ID 150)
+
+Review 1 for Dr. Thomas Davies, Cardiology, Manchester
+Rating: 9/10
+Clinic visited: King Street Medical Practice
+Description: Prescriptions from Dr. Thomas Davies were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 2 for Dr. Thomas Davies, Cardiology, Manchester
+Rating: 8/10
+Clinic visited: King Street Medical Practice
+Description: After my palpitations began, Dr. Thomas Davies arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 3 for Dr. Thomas Davies, Cardiology, Manchester
+Rating: 7/10
+Clinic visited: King Street Medical Practice
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 4 for Dr. Thomas Davies, Cardiology, Manchester
+Rating: 4/10
+Clinic visited: King Street Medical Practice
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 5 for Dr. Thomas Davies, Cardiology, Manchester
+Rating: 5/10
+Clinic visited: King Street Medical Practice
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 6 for Dr. Thomas Davies, Cardiology, Manchester
+Rating: 8/10
+Clinic visited: King Street Medical Practice
+Description: After my heart attack, Dr. Thomas Davies explained the rehab plan and medication changes with great patience and kindness. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Thomas Davies, Cardiology, Manchester
+Rating: 6/10
+Clinic visited: King Street Medical Practice
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Thomas Davies, Cardiology, Manchester
+Rating: 6/10
+Clinic visited: King Street Medical Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Thomas Davies, Cardiology, Manchester
+Rating: 5/10
+Clinic visited: King Street Medical Practice
+Description: Quick appointment and a fair price in Manchester, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 10 for Dr. Thomas Davies, Cardiology, Manchester
+Rating: 4/10
+Clinic visited: King Street Medical Practice
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. I was billed separately for tests that I understood to be part of the original consultation. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 11 for Dr. Thomas Davies, Cardiology, Manchester
+Rating: 8/10
+Clinic visited: King Street Medical Practice
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. Appointment reminders came by text and email, and rescheduling took two taps. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Thomas Davies, Cardiology, Manchester: 6.36/10 from 11 reviews

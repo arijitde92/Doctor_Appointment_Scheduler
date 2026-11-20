@@ -1,0 +1,59 @@
+Doctor: Dr. Åsa Eriksson
+Doctor ID: 2256
+Specialization: Radiology
+Gender: Female
+Years of experience: 1
+City: Uppsala, Sweden
+Clinics: Läkarmottagningen Vaksala Plus (clinic ID 294)
+
+Review 1 for Dr. Åsa Eriksson, Radiology, Uppsala
+Rating: 8/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: When my scan showed something that needed a second look, Dr. Åsa Eriksson arranged the follow-up the same day. The visit began with a short, friendly chat that put me at ease before any examination started. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Åsa Eriksson, Radiology, Uppsala
+Rating: 8/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: The staff at Läkarmottagningen Vaksala Plus in Uppsala explained the contrast dye and its side effects before I signed anything. Paperwork at Läkarmottagningen Vaksala Plus was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 3 for Dr. Åsa Eriksson, Radiology, Uppsala
+Rating: 7/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 4 for Dr. Åsa Eriksson, Radiology, Uppsala
+Rating: 6/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 5 for Dr. Åsa Eriksson, Radiology, Uppsala
+Rating: 8/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: Everything was explained in plain English by Dr. Åsa Eriksson, and nothing was left to guess.
+
+Review 6 for Dr. Åsa Eriksson, Radiology, Uppsala
+Rating: 8/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 7 for Dr. Åsa Eriksson, Radiology, Uppsala
+Rating: 8/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: I appreciated that she offered more than one option and let me choose what suited my life. Dr. Åsa Eriksson compared my new scan with last year's and pointed out exactly what had stayed the same. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Åsa Eriksson, Radiology, Uppsala
+Rating: 9/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: The report from Dr. Åsa Eriksson was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 9 for Dr. Åsa Eriksson, Radiology, Uppsala
+Rating: 6/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Dr. Åsa Eriksson was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 10 for Dr. Åsa Eriksson, Radiology, Uppsala
+Rating: 7/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: The report from Dr. Åsa Eriksson was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Overall rating for Dr. Åsa Eriksson, Radiology, Uppsala: 7.50/10 from 10 reviews

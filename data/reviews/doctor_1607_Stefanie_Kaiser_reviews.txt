@@ -1,0 +1,49 @@
+Doctor: Dr. Stefanie Kaiser
+Doctor ID: 1607
+Specialization: Radiology
+Gender: Female
+Years of experience: 25
+City: Hamburg, Germany
+Clinics: Praxiszentrum Bergedorfer Tor (clinic ID 209)
+
+Review 1 for Dr. Stefanie Kaiser, Radiology, Hamburg
+Rating: 7/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Dr. Stefanie Kaiser was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Stefanie Kaiser, Radiology, Hamburg
+Rating: 6/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Dr. Stefanie Kaiser answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Good bedside manner from Dr. Stefanie Kaiser, but the parking near Praxiszentrum Bergedorfer Tor is limited and I had to circle for fifteen minutes. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Stefanie Kaiser, Radiology, Hamburg
+Rating: 8/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: When my scan showed something that needed a second look, Dr. Stefanie Kaiser arranged the follow-up the same day.
+
+Review 4 for Dr. Stefanie Kaiser, Radiology, Hamburg
+Rating: 8/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Getting to Praxiszentrum Bergedorfer Tor by public transport in Hamburg was easy, and there is a step-free entrance for wheelchairs. Dr. Stefanie Kaiser compared my new scan with last year's and pointed out exactly what had stayed the same. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Stefanie Kaiser, Radiology, Hamburg
+Rating: 7/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Stefanie Kaiser, Radiology, Hamburg
+Rating: 9/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: The staff at Praxiszentrum Bergedorfer Tor in Hamburg explained the contrast dye and its side effects before I signed anything.
+
+Review 7 for Dr. Stefanie Kaiser, Radiology, Hamburg
+Rating: 6/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Booking was easy online, but the confirmation email contained the wrong address for Praxiszentrum Bergedorfer Tor. The report from Dr. Stefanie Kaiser was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 8 for Dr. Stefanie Kaiser, Radiology, Hamburg
+Rating: 7/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: I liked the advice I got from Dr. Stefanie Kaiser, but I would have liked more time to ask follow-up questions before the visit ended. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Overall rating for Dr. Stefanie Kaiser, Radiology, Hamburg: 7.25/10 from 8 reviews

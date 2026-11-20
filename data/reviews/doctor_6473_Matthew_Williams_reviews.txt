@@ -1,0 +1,49 @@
+Doctor: Dr. Matthew Williams
+Doctor ID: 6473
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 20
+City: Brisbane, Australia
+Clinics: Ironbark GP Clinic (clinic ID 838)
+
+Review 1 for Dr. Matthew Williams, Pulmonology, Brisbane
+Rating: 9/10
+Clinic visited: Ironbark GP Clinic
+Description: The waiting room at Ironbark GP Clinic was clean, quiet and comfortable, with enough seating and water available. At Ironbark GP Clinic, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 2 for Dr. Matthew Williams, Pulmonology, Brisbane
+Rating: 8/10
+Clinic visited: Ironbark GP Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 3 for Dr. Matthew Williams, Pulmonology, Brisbane
+Rating: 7/10
+Clinic visited: Ironbark GP Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Pleasant manner and careful lung exam, though the waiting time at Ironbark GP Clinic regularly exceeded forty minutes.
+
+Review 4 for Dr. Matthew Williams, Pulmonology, Brisbane
+Rating: 6/10
+Clinic visited: Ironbark GP Clinic
+Description: Helpful and honest about my prognosis, Dr. Matthew Williams could still have given me more written material to take home. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Matthew Williams, Pulmonology, Brisbane
+Rating: 9/10
+Clinic visited: Ironbark GP Clinic
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Matthew Williams.
+
+Review 6 for Dr. Matthew Williams, Pulmonology, Brisbane
+Rating: 8/10
+Clinic visited: Ironbark GP Clinic
+Description: My oxygen levels are monitored carefully at Ironbark GP Clinic, and the home equipment was arranged without any hassle. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 7 for Dr. Matthew Williams, Pulmonology, Brisbane
+Rating: 7/10
+Clinic visited: Ironbark GP Clinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Matthew Williams, Pulmonology, Brisbane
+Rating: 8/10
+Clinic visited: Ironbark GP Clinic
+Description: Dr. Matthew Williams used a calm, steady voice that settled my nerves before a stressful procedure. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Matthew Williams, Pulmonology, Brisbane: 7.75/10 from 8 reviews

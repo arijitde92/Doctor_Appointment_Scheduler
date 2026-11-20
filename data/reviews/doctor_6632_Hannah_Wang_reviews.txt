@@ -1,0 +1,54 @@
+Doctor: Dr. Hannah Wang
+Doctor ID: 6632
+Specialization: Pathology
+Gender: Female
+Years of experience: 30
+City: Christchurch, New Zealand
+Clinics: Rimu Family Clinic (clinic ID 860); Kiwi Care Medical Centre (clinic ID 861)
+
+Review 1 for Dr. Hannah Wang, Pathology, Christchurch
+Rating: 9/10
+Clinic visited: Rimu Family Clinic
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. Paperwork at Rimu Family Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 2 for Dr. Hannah Wang, Pathology, Christchurch
+Rating: 9/10
+Clinic visited: Rimu Family Clinic
+Description: I was called in within five minutes of my appointment time at Rimu Family Clinic, which is rare and much appreciated. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Hannah Wang, Pathology, Christchurch
+Rating: 8/10
+Clinic visited: Rimu Family Clinic
+Description: I was nervous about the biopsy result, and the call from Dr. Hannah Wang was gentle, honest and unhurried. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 4 for Dr. Hannah Wang, Pathology, Christchurch
+Rating: 6/10
+Clinic visited: Kiwi Care Medical Centre
+Description: Dr. Hannah Wang was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Hannah Wang, Pathology, Christchurch
+Rating: 4/10
+Clinic visited: Kiwi Care Medical Centre
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 6 for Dr. Hannah Wang, Pathology, Christchurch
+Rating: 7/10
+Clinic visited: Kiwi Care Medical Centre
+Description: Quick appointment and a fair price in Christchurch, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Hannah Wang, Pathology, Christchurch
+Rating: 9/10
+Clinic visited: Rimu Family Clinic
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 8 for Dr. Hannah Wang, Pathology, Christchurch
+Rating: 8/10
+Clinic visited: Kiwi Care Medical Centre
+Description: I asked for a second look at my slides, and Dr. Hannah Wang reviewed them without any fuss and confirmed the finding in writing. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. Hannah Wang, Pathology, Christchurch
+Rating: 8/10
+Clinic visited: Kiwi Care Medical Centre
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Overall rating for Dr. Hannah Wang, Pathology, Christchurch: 7.56/10 from 9 reviews

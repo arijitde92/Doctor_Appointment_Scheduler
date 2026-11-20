@@ -1,0 +1,49 @@
+Doctor: Dr. Gabriela Barbosa
+Doctor ID: 571
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 11
+City: Belo Horizonte, Brazil
+Clinics: Policlínica Lourdes (clinic ID 77)
+
+Review 1 for Dr. Gabriela Barbosa, Gastroenterology, Belo Horizonte
+Rating: 6/10
+Clinic visited: Policlínica Lourdes
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Gabriela Barbosa, Gastroenterology, Belo Horizonte
+Rating: 4/10
+Clinic visited: Policlínica Lourdes
+Description: My symptoms were dismissed by Dr. Gabriela Barbosa as a diet issue without any exam, and the problem continued for months. The staff at Policlínica Lourdes were curt on the phone, and it took four attempts to book a simple follow-up.
+
+Review 3 for Dr. Gabriela Barbosa, Gastroenterology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Policlínica Lourdes
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 4 for Dr. Gabriela Barbosa, Gastroenterology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Policlínica Lourdes
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 5 for Dr. Gabriela Barbosa, Gastroenterology, Belo Horizonte
+Rating: 5/10
+Clinic visited: Policlínica Lourdes
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Gabriela Barbosa, Gastroenterology, Belo Horizonte
+Rating: 6/10
+Clinic visited: Policlínica Lourdes
+Description: Knowledgeable about my reflux, Dr. Gabriela Barbosa still gave diet advice that felt generic and not tailored to my habits. Quick appointment and a fair price in Belo Horizonte, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Gabriela Barbosa, Gastroenterology, Belo Horizonte
+Rating: 4/10
+Clinic visited: Policlínica Lourdes
+Description: I described ongoing stomach pain and was told it was stress, with no tests ordered for months. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 8 for Dr. Gabriela Barbosa, Gastroenterology, Belo Horizonte
+Rating: 5/10
+Clinic visited: Policlínica Lourdes
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Gabriela Barbosa, Gastroenterology, Belo Horizonte: 5.62/10 from 8 reviews

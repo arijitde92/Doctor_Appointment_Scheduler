@@ -1,0 +1,59 @@
+Doctor: Dr. Michelle White
+Doctor ID: 6520
+Specialization: Pathology
+Gender: Female
+Years of experience: 5
+City: Melbourne, Australia
+Clinics: Riverbend Health Centre (clinic ID 844)
+
+Review 1 for Dr. Michelle White, Pathology, Melbourne
+Rating: 10/10
+Clinic visited: Riverbend Health Centre
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Michelle White felt well organized from start to finish. Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 2 for Dr. Michelle White, Pathology, Melbourne
+Rating: 10/10
+Clinic visited: Riverbend Health Centre
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not.
+
+Review 3 for Dr. Michelle White, Pathology, Melbourne
+Rating: 9/10
+Clinic visited: Riverbend Health Centre
+Description: Dr. Michelle White took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. I appreciated that she offered more than one option and let me choose what suited my life. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Michelle White, Pathology, Melbourne
+Rating: 10/10
+Clinic visited: Riverbend Health Centre
+Description: Dr. Michelle White used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 5 for Dr. Michelle White, Pathology, Melbourne
+Rating: 8/10
+Clinic visited: Riverbend Health Centre
+Description: I was nervous about the biopsy result, and the call from Dr. Michelle White was gentle, honest and unhurried. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Michelle White, Pathology, Melbourne
+Rating: 10/10
+Clinic visited: Riverbend Health Centre
+Description: At my visit, Dr. Michelle White took notes on my medication list, checked for interactions and explained the changes simply. My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Michelle White, Pathology, Melbourne
+Rating: 9/10
+Clinic visited: Riverbend Health Centre
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 8 for Dr. Michelle White, Pathology, Melbourne
+Rating: 8/10
+Clinic visited: Riverbend Health Centre
+Description: I asked for a second look at my slides, and Dr. Michelle White reviewed them without any fuss and confirmed the finding in writing.
+
+Review 9 for Dr. Michelle White, Pathology, Melbourne
+Rating: 10/10
+Clinic visited: Riverbend Health Centre
+Description: I came away understanding my condition better than I have in years of previous appointments. She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 10 for Dr. Michelle White, Pathology, Melbourne
+Rating: 10/10
+Clinic visited: Riverbend Health Centre
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Overall rating for Dr. Michelle White, Pathology, Melbourne: 9.40/10 from 10 reviews

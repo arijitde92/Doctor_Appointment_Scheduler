@@ -1,0 +1,69 @@
+Doctor: Dr. Ahmed Smits
+Doctor ID: 2606
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 28
+City: Rotterdam, Netherlands
+Clinics: Huisartsenpraktijk Kralingen (clinic ID 341)
+
+Review 1 for Dr. Ahmed Smits, Gastroenterology, Rotterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 2 for Dr. Ahmed Smits, Gastroenterology, Rotterdam
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 3 for Dr. Ahmed Smits, Gastroenterology, Rotterdam
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Skilled with the scope, but communication about the fasting time before the procedure was unclear. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Ahmed Smits, Gastroenterology, Rotterdam
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: Dr. Ahmed Smits took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. I was called in within five minutes of my appointment time at Huisartsenpraktijk Kralingen, which is rare and much appreciated.
+
+Review 5 for Dr. Ahmed Smits, Gastroenterology, Rotterdam
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 6 for Dr. Ahmed Smits, Gastroenterology, Rotterdam
+Rating: 10/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Ahmed Smits, Gastroenterology, Rotterdam
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 8 for Dr. Ahmed Smits, Gastroenterology, Rotterdam
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Ahmed Smits, Gastroenterology, Rotterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: A gentle, respectful manner from Dr. Ahmed Smits made a very awkward exam bearable, with every step explained before it happened. Paperwork at Huisartsenpraktijk Kralingen was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 10 for Dr. Ahmed Smits, Gastroenterology, Rotterdam
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Decent care overall, and I will probably return unless I find something closer.
+
+Review 11 for Dr. Ahmed Smits, Gastroenterology, Rotterdam
+Rating: 10/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary. Dr. Ahmed Smits drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 12 for Dr. Ahmed Smits, Gastroenterology, Rotterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Kralingen
+Description: I was nervous about my screening, but the team at Huisartsenpraktijk Kralingen made me feel at ease, and I was home within hours.
+
+Overall rating for Dr. Ahmed Smits, Gastroenterology, Rotterdam: 7.92/10 from 12 reviews

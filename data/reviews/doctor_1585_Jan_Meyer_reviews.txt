@@ -1,0 +1,54 @@
+Doctor: Dr. Jan Meyer
+Doctor ID: 1585
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 18
+City: Hamburg, Germany
+Clinics: Ärztehaus Eppendorfer Park (clinic ID 206)
+
+Review 1 for Dr. Jan Meyer, Psychiatry, Hamburg
+Rating: 7/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Good bedside manner from Dr. Jan Meyer, but the parking near Ärztehaus Eppendorfer Park is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Jan Meyer, Psychiatry, Hamburg
+Rating: 5/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Jan Meyer, Psychiatry, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Jan Meyer, Psychiatry, Hamburg
+Rating: 5/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Jan Meyer, Psychiatry, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. My depression finally has a treatment plan from Dr. Jan Meyer that works, with regular check-ins and careful dose changes.
+
+Review 6 for Dr. Jan Meyer, Psychiatry, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 7 for Dr. Jan Meyer, Psychiatry, Hamburg
+Rating: 10/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: I can ring Ärztehaus Eppendorfer Park with an urgent question and receive a thoughtful reply the same day. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 8 for Dr. Jan Meyer, Psychiatry, Hamburg
+Rating: 9/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: The ADHD assessment by Dr. Jan Meyer was careful and detailed, with clear written conclusions and realistic expectations. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 9 for Dr. Jan Meyer, Psychiatry, Hamburg
+Rating: 9/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Excellent at explaining how therapy and medication work together, and Dr. Jan Meyer coordinated with my counselor.
+
+Overall rating for Dr. Jan Meyer, Psychiatry, Hamburg: 7.67/10 from 9 reviews

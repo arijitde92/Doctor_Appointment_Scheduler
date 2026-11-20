@@ -1,0 +1,69 @@
+Doctor: Dr. Sander Vos
+Doctor ID: 2683
+Specialization: Psychology
+Gender: Male
+Years of experience: 13
+City: Utrecht, Netherlands
+Clinics: Huisartsenpraktijk Lombok (clinic ID 351); Medisch Centrum Overvecht (clinic ID 354)
+
+Review 1 for Dr. Sander Vos, Psychology, Utrecht
+Rating: 6/10
+Clinic visited: Medisch Centrum Overvecht
+Description: Dr. Sander Vos listens well, though some sessions felt like a recap of the previous one without much new direction. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Sander Vos, Psychology, Utrecht
+Rating: 5/10
+Clinic visited: Medisch Centrum Overvecht
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 3 for Dr. Sander Vos, Psychology, Utrecht
+Rating: 4/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: Sessions were frequently cut short, and I was still charged the full fee. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 4 for Dr. Sander Vos, Psychology, Utrecht
+Rating: 7/10
+Clinic visited: Medisch Centrum Overvecht
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Sander Vos, Psychology, Utrecht
+Rating: 4/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: I felt interrupted by Dr. Sander Vos several times while describing my situation and left without feeling heard. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 6 for Dr. Sander Vos, Psychology, Utrecht
+Rating: 7/10
+Clinic visited: Medisch Centrum Overvecht
+Description: Insightful and kind, though progress with Dr. Sander Vos felt slow, and I wished for more structured homework between sessions. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Sander Vos, Psychology, Utrecht
+Rating: 5/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 8 for Dr. Sander Vos, Psychology, Utrecht
+Rating: 6/10
+Clinic visited: Medisch Centrum Overvecht
+Description: Dr. Sander Vos was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 9 for Dr. Sander Vos, Psychology, Utrecht
+Rating: 6/10
+Clinic visited: Medisch Centrum Overvecht
+Description: My trauma work felt well paced, although the schedule changed several times at Medisch Centrum Overvecht. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 10 for Dr. Sander Vos, Psychology, Utrecht
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 11 for Dr. Sander Vos, Psychology, Utrecht
+Rating: 5/10
+Clinic visited: Medisch Centrum Overvecht
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 12 for Dr. Sander Vos, Psychology, Utrecht
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: Booking was easy online, but the confirmation email contained the wrong address for Huisartsenpraktijk Lombok.
+
+Overall rating for Dr. Sander Vos, Psychology, Utrecht: 5.58/10 from 12 reviews

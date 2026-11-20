@@ -1,0 +1,59 @@
+Doctor: Dr. Katharina Schmidt
+Doctor ID: 1496
+Specialization: Cardiology
+Gender: Female
+Years of experience: 11
+City: Berlin, Germany
+Clinics: Praxiszentrum am Kurfürstendamm (clinic ID 195); Medizinisches Zentrum Friedrichshain-Mitte (clinic ID 196)
+
+Review 1 for Dr. Katharina Schmidt, Cardiology, Berlin
+Rating: 7/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Booking was easy online, but the confirmation email contained the wrong address for Praxiszentrum am Kurfürstendamm. Dr. Katharina Schmidt adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 2 for Dr. Katharina Schmidt, Cardiology, Berlin
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Good bedside manner from Dr. Katharina Schmidt, but the parking near Medizinisches Zentrum Friedrichshain-Mitte is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Katharina Schmidt, Cardiology, Berlin
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Katharina Schmidt, Cardiology, Berlin
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 5 for Dr. Katharina Schmidt, Cardiology, Berlin
+Rating: 6/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Great care in the visit itself, but the billing for the tests at Praxiszentrum am Kurfürstendamm was confusing. I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Katharina Schmidt, Cardiology, Berlin
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 7 for Dr. Katharina Schmidt, Cardiology, Berlin
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Helpful with my cholesterol, Dr. Katharina Schmidt still gave dietary advice that was a little generic.
+
+Review 8 for Dr. Katharina Schmidt, Cardiology, Berlin
+Rating: 8/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Clear and calm advice at Praxiszentrum am Kurfürstendamm about exercise after my stent, including a gradual written schedule.
+
+Review 9 for Dr. Katharina Schmidt, Cardiology, Berlin
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 10 for Dr. Katharina Schmidt, Cardiology, Berlin
+Rating: 10/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Dr. Katharina Schmidt explained the difference between my statin options and let me weigh in on the choice. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Katharina Schmidt, Cardiology, Berlin: 7.00/10 from 10 reviews

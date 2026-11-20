@@ -1,0 +1,49 @@
+Doctor: Dr. Hans Schmid
+Doctor ID: 1710
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 17
+City: Bern, Switzerland
+Clinics: Medizinisches Zentrum Länggasse (clinic ID 223)
+
+Review 1 for Dr. Hans Schmid, Gastroenterology, Bern
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Dr. Hans Schmid took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Hans Schmid, Gastroenterology, Bern
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Hans Schmid, Gastroenterology, Bern
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Sensitive questions were handled by Dr. Hans Schmid with discretion and without a hint of judgment.
+
+Review 4 for Dr. Hans Schmid, Gastroenterology, Bern
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Review 5 for Dr. Hans Schmid, Gastroenterology, Bern
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: The practice in Bern is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Hans Schmid, Gastroenterology, Bern
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. Dr. Hans Schmid used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 7 for Dr. Hans Schmid, Gastroenterology, Bern
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Dr. Hans Schmid double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Getting to Medizinisches Zentrum Länggasse in Bern was simple, and the day-procedure unit was calm and efficient. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Hans Schmid, Gastroenterology, Bern
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Clear explanation from Dr. Hans Schmid of fatty liver and exactly which lifestyle changes would make a measurable difference. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Overall rating for Dr. Hans Schmid, Gastroenterology, Bern: 9.25/10 from 8 reviews

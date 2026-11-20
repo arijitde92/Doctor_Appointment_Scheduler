@@ -1,0 +1,54 @@
+Doctor: Dr. Ismail Cassim
+Doctor ID: 5658
+Specialization: General
+Gender: Male
+Years of experience: 3
+City: Kandy, Sri Lanka
+Clinics: Mahaweli Medical Centre (clinic ID 731); Sembuwatta Care Clinic (clinic ID 733)
+
+Review 1 for Dr. Ismail Cassim, General, Kandy
+Rating: 9/10
+Clinic visited: Mahaweli Medical Centre
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 2 for Dr. Ismail Cassim, General, Kandy
+Rating: 10/10
+Clinic visited: Mahaweli Medical Centre
+Description: By the time I left the room, Dr. Ismail Cassim had sorted the sick note, referral letter and prescription refill. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 3 for Dr. Ismail Cassim, General, Kandy
+Rating: 8/10
+Clinic visited: Mahaweli Medical Centre
+Description: A same-day slot was found for me at Mahaweli Medical Centre when I called with a worrying symptom.
+
+Review 4 for Dr. Ismail Cassim, General, Kandy
+Rating: 10/10
+Clinic visited: Sembuwatta Care Clinic
+Description: The waiting room at Sembuwatta Care Clinic was clean, quiet and comfortable, with enough seating and water available. Vaccination advice from Dr. Ismail Cassim for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 5 for Dr. Ismail Cassim, General, Kandy
+Rating: 7/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Sembuwatta Care Clinic were inconsistent.
+
+Review 6 for Dr. Ismail Cassim, General, Kandy
+Rating: 8/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 7 for Dr. Ismail Cassim, General, Kandy
+Rating: 6/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Referrals from Dr. Ismail Cassim are handled well, but getting test results back took longer than I was told to expect.
+
+Review 8 for Dr. Ismail Cassim, General, Kandy
+Rating: 10/10
+Clinic visited: Mahaweli Medical Centre
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 9 for Dr. Ismail Cassim, General, Kandy
+Rating: 8/10
+Clinic visited: Sembuwatta Care Clinic
+Description: The practice in Kandy is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Overall rating for Dr. Ismail Cassim, General, Kandy: 8.44/10 from 9 reviews

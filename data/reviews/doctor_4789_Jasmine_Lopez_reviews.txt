@@ -1,0 +1,54 @@
+Doctor: Dr. Jasmine Lopez
+Doctor ID: 4789
+Specialization: Cardiology
+Gender: Female
+Years of experience: 21
+City: Cebu City, Philippines
+Clinics: Klinika Ligaya (clinic ID 619)
+
+Review 1 for Dr. Jasmine Lopez, Cardiology, Cebu City
+Rating: 9/10
+Clinic visited: Klinika Ligaya
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 2 for Dr. Jasmine Lopez, Cardiology, Cebu City
+Rating: 9/10
+Clinic visited: Klinika Ligaya
+Description: My stress test was supervised carefully, and Dr. Jasmine Lopez reviewed the results in the same visit with a plan for my cholesterol. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 3 for Dr. Jasmine Lopez, Cardiology, Cebu City
+Rating: 7/10
+Clinic visited: Klinika Ligaya
+Description: Helpful with my cholesterol, Dr. Jasmine Lopez still gave dietary advice that was a little generic. The treatment plan from Dr. Jasmine Lopez made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Jasmine Lopez, Cardiology, Cebu City
+Rating: 8/10
+Clinic visited: Klinika Ligaya
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning.
+
+Review 5 for Dr. Jasmine Lopez, Cardiology, Cebu City
+Rating: 7/10
+Clinic visited: Klinika Ligaya
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Jasmine Lopez, Cardiology, Cebu City
+Rating: 7/10
+Clinic visited: Klinika Ligaya
+Description: Dr. Jasmine Lopez adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 7 for Dr. Jasmine Lopez, Cardiology, Cebu City
+Rating: 8/10
+Clinic visited: Klinika Ligaya
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 8 for Dr. Jasmine Lopez, Cardiology, Cebu City
+Rating: 8/10
+Clinic visited: Klinika Ligaya
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Jasmine Lopez, Cardiology, Cebu City
+Rating: 5/10
+Clinic visited: Klinika Ligaya
+Description: Quick appointment and a fair price in Cebu City, but the staff seemed overwhelmed and a bit curt on the phone. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Overall rating for Dr. Jasmine Lopez, Cardiology, Cebu City: 7.56/10 from 9 reviews

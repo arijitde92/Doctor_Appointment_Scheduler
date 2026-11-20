@@ -1,0 +1,64 @@
+Doctor: Dr. Giuseppe Russo
+Doctor ID: 3482
+Specialization: Pathology
+Gender: Male
+Years of experience: 9
+City: Rome, Italy
+Clinics: Centro Medico Prati (clinic ID 451)
+
+Review 1 for Dr. Giuseppe Russo, Pathology, Rome
+Rating: 6/10
+Clinic visited: Centro Medico Prati
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Giuseppe Russo, Pathology, Rome
+Rating: 9/10
+Clinic visited: Centro Medico Prati
+Description: Paperwork at Centro Medico Prati was kept to a minimum, and the staff helped me complete the insurance form. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Giuseppe Russo, Pathology, Rome
+Rating: 7/10
+Clinic visited: Centro Medico Prati
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Giuseppe Russo answered my questions kindly, though the call back took three days.
+
+Review 4 for Dr. Giuseppe Russo, Pathology, Rome
+Rating: 6/10
+Clinic visited: Centro Medico Prati
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The treatment plan from Dr. Giuseppe Russo made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Giuseppe Russo, Pathology, Rome
+Rating: 7/10
+Clinic visited: Centro Medico Prati
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Dr. Giuseppe Russo was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 6 for Dr. Giuseppe Russo, Pathology, Rome
+Rating: 5/10
+Clinic visited: Centro Medico Prati
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 7 for Dr. Giuseppe Russo, Pathology, Rome
+Rating: 7/10
+Clinic visited: Centro Medico Prati
+Description: Helpful in clarifying a borderline result, though Dr. Giuseppe Russo gave little guidance about whether to repeat it. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Giuseppe Russo, Pathology, Rome
+Rating: 6/10
+Clinic visited: Centro Medico Prati
+Description: The blood draw was painless, but the waiting area at Centro Medico Prati was crowded in the early morning.
+
+Review 9 for Dr. Giuseppe Russo, Pathology, Rome
+Rating: 5/10
+Clinic visited: Centro Medico Prati
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 10 for Dr. Giuseppe Russo, Pathology, Rome
+Rating: 6/10
+Clinic visited: Centro Medico Prati
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 11 for Dr. Giuseppe Russo, Pathology, Rome
+Rating: 5/10
+Clinic visited: Centro Medico Prati
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Giuseppe Russo, Pathology, Rome: 6.27/10 from 11 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Thomas Ryan
+Doctor ID: 6549
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 14
+City: Perth, Australia
+Clinics: Seaview Medical Clinic (clinic ID 848)
+
+Review 1 for Dr. Thomas Ryan, Gastroenterology, Perth
+Rating: 8/10
+Clinic visited: Seaview Medical Clinic
+Description: Dr. Thomas Ryan was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 2 for Dr. Thomas Ryan, Gastroenterology, Perth
+Rating: 6/10
+Clinic visited: Seaview Medical Clinic
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 3 for Dr. Thomas Ryan, Gastroenterology, Perth
+Rating: 8/10
+Clinic visited: Seaview Medical Clinic
+Description: He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 4 for Dr. Thomas Ryan, Gastroenterology, Perth
+Rating: 9/10
+Clinic visited: Seaview Medical Clinic
+Description: The practice in Perth is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Thomas Ryan, Gastroenterology, Perth
+Rating: 6/10
+Clinic visited: Seaview Medical Clinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 6 for Dr. Thomas Ryan, Gastroenterology, Perth
+Rating: 8/10
+Clinic visited: Seaview Medical Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I get regular check-ups for my Crohn's disease, and Dr. Thomas Ryan adjusts my treatment carefully and always explains why.
+
+Review 7 for Dr. Thomas Ryan, Gastroenterology, Perth
+Rating: 5/10
+Clinic visited: Seaview Medical Clinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 8 for Dr. Thomas Ryan, Gastroenterology, Perth
+Rating: 6/10
+Clinic visited: Seaview Medical Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Seaview Medical Clinic. Knowledgeable about my reflux, Dr. Thomas Ryan still gave diet advice that felt generic and not tailored to my habits.
+
+Review 9 for Dr. Thomas Ryan, Gastroenterology, Perth
+Rating: 4/10
+Clinic visited: Seaview Medical Clinic
+Description: The prescription from Dr. Thomas Ryan was not the one we discussed, and I only noticed when I got home.
+
+Review 10 for Dr. Thomas Ryan, Gastroenterology, Perth
+Rating: 5/10
+Clinic visited: Seaview Medical Clinic
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Decent care overall, and I will probably return unless I find something closer.
+
+Review 11 for Dr. Thomas Ryan, Gastroenterology, Perth
+Rating: 7/10
+Clinic visited: Seaview Medical Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Dr. Thomas Ryan is thorough, but I waited nearly two months to get the first available slot.
+
+Overall rating for Dr. Thomas Ryan, Gastroenterology, Perth: 6.55/10 from 11 reviews

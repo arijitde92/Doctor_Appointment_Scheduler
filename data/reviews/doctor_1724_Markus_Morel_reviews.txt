@@ -1,0 +1,54 @@
+Doctor: Dr. Markus Morel
+Doctor ID: 1724
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 2
+City: Bern, Switzerland
+Clinics: Hausarztpraxis Weissenbühl (clinic ID 224)
+
+Review 1 for Dr. Markus Morel, Gastroenterology, Bern
+Rating: 7/10
+Clinic visited: Hausarztpraxis Weissenbühl
+Description: I got what I needed, but the next available appointment was three weeks away. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 2 for Dr. Markus Morel, Gastroenterology, Bern
+Rating: 7/10
+Clinic visited: Hausarztpraxis Weissenbühl
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 3 for Dr. Markus Morel, Gastroenterology, Bern
+Rating: 7/10
+Clinic visited: Hausarztpraxis Weissenbühl
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Markus Morel, Gastroenterology, Bern
+Rating: 5/10
+Clinic visited: Hausarztpraxis Weissenbühl
+Description: Good bedside manner from Dr. Markus Morel, but the parking near Hausarztpraxis Weissenbühl is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Markus Morel, Gastroenterology, Bern
+Rating: 5/10
+Clinic visited: Hausarztpraxis Weissenbühl
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Markus Morel, Gastroenterology, Bern
+Rating: 7/10
+Clinic visited: Hausarztpraxis Weissenbühl
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Markus Morel, Gastroenterology, Bern
+Rating: 7/10
+Clinic visited: Hausarztpraxis Weissenbühl
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Markus Morel, Gastroenterology, Bern
+Rating: 4/10
+Clinic visited: Hausarztpraxis Weissenbühl
+Description: After my endoscopy, nobody called with results and I had to chase the office repeatedly. My questions were answered by Dr. Markus Morel with short, vague replies, and I left without a clear plan.
+
+Review 9 for Dr. Markus Morel, Gastroenterology, Bern
+Rating: 6/10
+Clinic visited: Hausarztpraxis Weissenbühl
+Description: I liked the advice I got from Dr. Markus Morel, but I would have liked more time to ask follow-up questions before the visit ended. Knowledgeable about my reflux, Dr. Markus Morel still gave diet advice that felt generic and not tailored to my habits. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Markus Morel, Gastroenterology, Bern: 6.11/10 from 9 reviews

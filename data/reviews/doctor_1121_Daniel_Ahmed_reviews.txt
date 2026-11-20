@@ -1,0 +1,69 @@
+Doctor: Dr. Daniel Ahmed
+Doctor ID: 1121
+Specialization: General
+Gender: Male
+Years of experience: 17
+City: London, UK
+Clinics: Aldersgate Street Polyclinic (clinic ID 147)
+
+Review 1 for Dr. Daniel Ahmed, General, London
+Rating: 8/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: I went in with months of tiredness, and Dr. Daniel Ahmed ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Never once did I feel rushed, even though the clinic was clearly busy that morning. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Daniel Ahmed, General, London
+Rating: 9/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: I came away understanding my condition better than I have in years of previous appointments. Cholesterol results were explained by Dr. Daniel Ahmed with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 3 for Dr. Daniel Ahmed, General, London
+Rating: 10/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Getting to Aldersgate Street Polyclinic from across London was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 4 for Dr. Daniel Ahmed, General, London
+Rating: 8/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Daniel Ahmed, General, London
+Rating: 10/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: As a new patient in London, I felt welcomed at Aldersgate Street Polyclinic, and my whole history was reviewed in one relaxed visit.
+
+Review 6 for Dr. Daniel Ahmed, General, London
+Rating: 9/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Dr. Daniel Ahmed drew a quick sketch to explain what was going on, which helped me remember it afterwards. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Daniel Ahmed, General, London
+Rating: 9/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Managing my type 2 diabetes with Dr. Daniel Ahmed has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 8 for Dr. Daniel Ahmed, General, London
+Rating: 10/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: My blood pressure had crept up and Dr. Daniel Ahmed walked me through diet changes before suggesting anything else. Three months later my readings were normal. I was called in within five minutes of my appointment time at Aldersgate Street Polyclinic, which is rare and much appreciated.
+
+Review 9 for Dr. Daniel Ahmed, General, London
+Rating: 8/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Vaccination advice from Dr. Daniel Ahmed for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 10 for Dr. Daniel Ahmed, General, London
+Rating: 9/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 11 for Dr. Daniel Ahmed, General, London
+Rating: 8/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: I always hear back within a day when I leave a question with the nurse at Aldersgate Street Polyclinic, and Dr. Daniel Ahmed follows up on lab results personally. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 12 for Dr. Daniel Ahmed, General, London
+Rating: 6/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Helpful visit overall, although I only found out about an extra charge after I had paid. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Daniel Ahmed, General, London: 8.67/10 from 12 reviews

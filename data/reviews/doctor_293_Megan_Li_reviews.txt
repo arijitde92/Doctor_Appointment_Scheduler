@@ -1,0 +1,59 @@
+Doctor: Dr. Megan Li
+Doctor ID: 293
+Specialization: Pathology
+Gender: Female
+Years of experience: 30
+City: Montreal, Canada
+Clinics: Clinique Médicale du Plateau (clinic ID 40); Centre Médical René-Lévesque (clinic ID 41)
+
+Review 1 for Dr. Megan Li, Pathology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Megan Li, Pathology, Montreal
+Rating: 2/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Dr. Megan Li was never available to talk about my result, and the front desk repeated that I should ask my referring physician. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 3 for Dr. Megan Li, Pathology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Dr. Megan Li answered my questions kindly, though the call back took three days.
+
+Review 4 for Dr. Megan Li, Pathology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Quick appointment and a fair price in Montreal, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 5 for Dr. Megan Li, Pathology, Montreal
+Rating: 5/10
+Clinic visited: Centre Médical René-Lévesque
+Description: The blood draw was painless, but the waiting area at Centre Médical René-Lévesque was crowded in the early morning.
+
+Review 6 for Dr. Megan Li, Pathology, Montreal
+Rating: 8/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. Appointment reminders came by text and email, and rescheduling took two taps. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Megan Li, Pathology, Montreal
+Rating: 8/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Paperwork at Centre Médical René-Lévesque was kept to a minimum, and the staff helped me complete the insurance form. Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 8 for Dr. Megan Li, Pathology, Montreal
+Rating: 7/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Megan Li, Pathology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale du Plateau
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. The biopsy report was returned in three days, and Dr. Megan Li took time on the phone to explain every term in it.
+
+Review 10 for Dr. Megan Li, Pathology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale du Plateau
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Megan Li, Pathology, Montreal: 6.60/10 from 10 reviews

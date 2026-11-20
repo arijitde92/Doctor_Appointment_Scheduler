@@ -1,0 +1,59 @@
+Doctor: Dr. Ingrid Hendriks
+Doctor ID: 2690
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 20
+City: Utrecht, Netherlands
+Clinics: Gezondheidscentrum Leidsche Rijn (clinic ID 352); Polikliniek Wittevrouwen (clinic ID 353); Medisch Centrum Overvecht (clinic ID 354)
+
+Review 1 for Dr. Ingrid Hendriks, Psychiatry, Utrecht
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: I felt heard by Dr. Ingrid Hendriks during a very hard time, and nobody rushed me out of the room. Even the billing team was helpful, and a mistake on my statement was corrected within a day. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Ingrid Hendriks, Psychiatry, Utrecht
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 3 for Dr. Ingrid Hendriks, Psychiatry, Utrecht
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 4 for Dr. Ingrid Hendriks, Psychiatry, Utrecht
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Dr. Ingrid Hendriks was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Ingrid Hendriks, Psychiatry, Utrecht
+Rating: 9/10
+Clinic visited: Medisch Centrum Overvecht
+Description: I was given a printed summary of the visit, which I shared with my family at home. Telehealth follow-ups at Medisch Centrum Overvecht are punctual and calm, and refills are dealt with quickly.
+
+Review 6 for Dr. Ingrid Hendriks, Psychiatry, Utrecht
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 7 for Dr. Ingrid Hendriks, Psychiatry, Utrecht
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: Dr. Ingrid Hendriks is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 8 for Dr. Ingrid Hendriks, Psychiatry, Utrecht
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 9 for Dr. Ingrid Hendriks, Psychiatry, Utrecht
+Rating: 6/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. I got what I needed, but the next available appointment was three weeks away.
+
+Review 10 for Dr. Ingrid Hendriks, Psychiatry, Utrecht
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Ingrid Hendriks, Psychiatry, Utrecht: 7.00/10 from 10 reviews

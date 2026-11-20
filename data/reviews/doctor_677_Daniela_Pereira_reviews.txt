@@ -1,0 +1,59 @@
+Doctor: Dr. Daniela Pereira
+Doctor ID: 677
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 23
+City: Sao Paulo, Brazil
+Clinics: Clínica Vila Madalena Saúde (clinic ID 90)
+
+Review 1 for Dr. Daniela Pereira, Orthopedic, Sao Paulo
+Rating: 7/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: Very skilled with my knee, but Dr. Daniela Pereira's clinic runs behind and the wait was over an hour.
+
+Review 2 for Dr. Daniela Pereira, Orthopedic, Sao Paulo
+Rating: 8/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: A translator was arranged for my mother without us asking twice, and Dr. Daniela Pereira spoke directly to her throughout. Getting around Sao Paulo on crutches was hard, but the accessible entrance and short waiting time at Clínica Vila Madalena Saúde helped a lot.
+
+Review 3 for Dr. Daniela Pereira, Orthopedic, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: Dr. Daniela Pereira explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Daniela Pereira, Orthopedic, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Daniela Pereira, Orthopedic, Sao Paulo
+Rating: 7/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Daniela Pereira, Orthopedic, Sao Paulo
+Rating: 8/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule.
+
+Review 7 for Dr. Daniela Pereira, Orthopedic, Sao Paulo
+Rating: 7/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: Dr. Daniela Pereira was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Daniela Pereira, Orthopedic, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 9 for Dr. Daniela Pereira, Orthopedic, Sao Paulo
+Rating: 4/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: After my fracture, nobody explained the cast care, and I ended up back in the clinic with skin irritation. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 10 for Dr. Daniela Pereira, Orthopedic, Sao Paulo
+Rating: 8/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Overall rating for Dr. Daniela Pereira, Orthopedic, Sao Paulo: 6.70/10 from 10 reviews

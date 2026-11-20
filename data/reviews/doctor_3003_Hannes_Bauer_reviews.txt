@@ -1,0 +1,54 @@
+Doctor: Dr. Hannes Bauer
+Doctor ID: 3003
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 14
+City: Vienna, Austria
+Clinics: Praxiszentrum Stephansblick (clinic ID 391)
+
+Review 1 for Dr. Hannes Bauer, Psychiatry, Vienna
+Rating: 9/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: My depression finally has a treatment plan from Dr. Hannes Bauer that works, with regular check-ins and careful dose changes. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 2 for Dr. Hannes Bauer, Psychiatry, Vienna
+Rating: 8/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Dr. Hannes Bauer took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 3 for Dr. Hannes Bauer, Psychiatry, Vienna
+Rating: 8/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Excellent at explaining how therapy and medication work together, and Dr. Hannes Bauer coordinated with my counselor. The practice in Vienna is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 4 for Dr. Hannes Bauer, Psychiatry, Vienna
+Rating: 7/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 5 for Dr. Hannes Bauer, Psychiatry, Vienna
+Rating: 7/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 6 for Dr. Hannes Bauer, Psychiatry, Vienna
+Rating: 7/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Good bedside manner from Dr. Hannes Bauer, but the parking near Praxiszentrum Stephansblick is limited and I had to circle for fifteen minutes. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Hannes Bauer, Psychiatry, Vienna
+Rating: 6/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 8 for Dr. Hannes Bauer, Psychiatry, Vienna
+Rating: 9/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: My test results arrived in the portal within two days, together with a short note that made sense. The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 9 for Dr. Hannes Bauer, Psychiatry, Vienna
+Rating: 8/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: A same-day slot was found for me at Praxiszentrum Stephansblick when I called with a worrying symptom. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Hannes Bauer, Psychiatry, Vienna: 7.67/10 from 9 reviews

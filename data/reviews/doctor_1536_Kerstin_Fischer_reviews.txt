@@ -1,0 +1,59 @@
+Doctor: Dr. Kerstin Fischer
+Doctor ID: 1536
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 14
+City: Frankfurt, Germany
+Clinics: Praxiszentrum Zeilblick (clinic ID 200); Ärztehaus Bornheim Mitte (clinic ID 201)
+
+Review 1 for Dr. Kerstin Fischer, Gastroenterology, Frankfurt
+Rating: 8/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: I get regular check-ups for my Crohn's disease, and Dr. Kerstin Fischer adjusts my treatment carefully and always explains why. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Kerstin Fischer, Gastroenterology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Quick appointment and a fair price in Frankfurt, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Kerstin Fischer, Gastroenterology, Frankfurt
+Rating: 9/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. The nurse was friendly and efficient, and the whole visit with Dr. Kerstin Fischer felt well organized from start to finish. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Kerstin Fischer, Gastroenterology, Frankfurt
+Rating: 8/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: I received a full summary letter from Ärztehaus Bornheim Mitte after my endoscopy, which my regular doctor found very useful. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 5 for Dr. Kerstin Fischer, Gastroenterology, Frankfurt
+Rating: 8/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Dr. Kerstin Fischer was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Kerstin Fischer, Gastroenterology, Frankfurt
+Rating: 9/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: The practice in Frankfurt is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Review 7 for Dr. Kerstin Fischer, Gastroenterology, Frankfurt
+Rating: 9/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 8 for Dr. Kerstin Fischer, Gastroenterology, Frankfurt
+Rating: 10/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Getting to Praxiszentrum Zeilblick in Frankfurt was simple, and the day-procedure unit was calm and efficient. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 9 for Dr. Kerstin Fischer, Gastroenterology, Frankfurt
+Rating: 8/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: I was nervous about my screening, but the team at Praxiszentrum Zeilblick made me feel at ease, and I was home within hours.
+
+Review 10 for Dr. Kerstin Fischer, Gastroenterology, Frankfurt
+Rating: 9/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: Clear explanation from Dr. Kerstin Fischer of fatty liver and exactly which lifestyle changes would make a measurable difference. Dr. Kerstin Fischer drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Overall rating for Dr. Kerstin Fischer, Gastroenterology, Frankfurt: 8.50/10 from 10 reviews

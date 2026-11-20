@@ -1,0 +1,54 @@
+Doctor: Dr. Chen Ming-che
+Doctor ID: 4425
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 3
+City: Taipei, Taiwan
+Clinics: Xinyi Anhe Family Clinic (clinic ID 570); Zhongshan Kangle Medical Clinic (clinic ID 571); Neihu Hengsheng Polyclinic (clinic ID 573)
+
+Review 1 for Dr. Chen Ming-che, Pediatrics, Taipei
+Rating: 6/10
+Clinic visited: Xinyi Anhe Family Clinic
+Description: Caring and gentle with my child, Dr. Chen Ming-che nonetheless ran forty minutes behind schedule at most appointments. Booking was easy online, but the confirmation email contained the wrong address for Xinyi Anhe Family Clinic. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Chen Ming-che, Pediatrics, Taipei
+Rating: 9/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 3 for Dr. Chen Ming-che, Pediatrics, Taipei
+Rating: 8/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 4 for Dr. Chen Ming-che, Pediatrics, Taipei
+Rating: 8/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: Dr. Chen Ming-che noticed a speech delay early and referred us to a therapist, which has made a real difference. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Chen Ming-che, Pediatrics, Taipei
+Rating: 8/10
+Clinic visited: Xinyi Anhe Family Clinic
+Description: We got a same-day appointment for a high fever, and the care at Xinyi Anhe Family Clinic was kind and efficient. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 6 for Dr. Chen Ming-che, Pediatrics, Taipei
+Rating: 7/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Chen Ming-che, Pediatrics, Taipei
+Rating: 8/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: Our family has been coming for years, and he remembers each child's history and personality. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 8 for Dr. Chen Ming-che, Pediatrics, Taipei
+Rating: 8/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I phoned after hours about a fever and was called back within the hour with calm, sensible advice.
+
+Review 9 for Dr. Chen Ming-che, Pediatrics, Taipei
+Rating: 6/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Chen Ming-che, Pediatrics, Taipei: 7.56/10 from 9 reviews

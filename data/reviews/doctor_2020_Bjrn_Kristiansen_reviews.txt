@@ -1,0 +1,64 @@
+Doctor: Dr. Bjørn Kristiansen
+Doctor ID: 2020
+Specialization: Radiology
+Gender: Male
+Years of experience: 1
+City: Oslo, Norway
+Clinics: Legekontoret Grønland (clinic ID 263)
+
+Review 1 for Dr. Bjørn Kristiansen, Radiology, Oslo
+Rating: 7/10
+Clinic visited: Legekontoret Grønland
+Description: Dr. Bjørn Kristiansen answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Bjørn Kristiansen, Radiology, Oslo
+Rating: 6/10
+Clinic visited: Legekontoret Grønland
+Description: Good bedside manner from Dr. Bjørn Kristiansen, but the parking near Legekontoret Grønland is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Bjørn Kristiansen, Radiology, Oslo
+Rating: 6/10
+Clinic visited: Legekontoret Grønland
+Description: Booking was easy online, but the confirmation email contained the wrong address for Legekontoret Grønland. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 4 for Dr. Bjørn Kristiansen, Radiology, Oslo
+Rating: 6/10
+Clinic visited: Legekontoret Grønland
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Bjørn Kristiansen, Radiology, Oslo
+Rating: 7/10
+Clinic visited: Legekontoret Grønland
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 6 for Dr. Bjørn Kristiansen, Radiology, Oslo
+Rating: 6/10
+Clinic visited: Legekontoret Grønland
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I liked the advice I got from Dr. Bjørn Kristiansen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Bjørn Kristiansen, Radiology, Oslo
+Rating: 7/10
+Clinic visited: Legekontoret Grønland
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The report from Dr. Bjørn Kristiansen was thorough, though full of technical terms that needed my regular doctor to translate. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Bjørn Kristiansen, Radiology, Oslo
+Rating: 8/10
+Clinic visited: Legekontoret Grønland
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Review 9 for Dr. Bjørn Kristiansen, Radiology, Oslo
+Rating: 5/10
+Clinic visited: Legekontoret Grønland
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Bjørn Kristiansen, Radiology, Oslo
+Rating: 7/10
+Clinic visited: Legekontoret Grønland
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 11 for Dr. Bjørn Kristiansen, Radiology, Oslo
+Rating: 5/10
+Clinic visited: Legekontoret Grønland
+Description: Quick appointment and a fair price in Oslo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Bjørn Kristiansen, Radiology, Oslo: 6.36/10 from 11 reviews

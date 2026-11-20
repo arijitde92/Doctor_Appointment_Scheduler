@@ -1,0 +1,69 @@
+Doctor: Dr. Zheng Ming
+Doctor ID: 3854
+Specialization: Radiology
+Gender: Male
+Years of experience: 16
+City: Beijing, China
+Clinics: Fuchengmen Anhe Polyclinic (clinic ID 498)
+
+Review 1 for Dr. Zheng Ming, Radiology, Beijing
+Rating: 9/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Booking a CT scan online at Fuchengmen Anhe Polyclinic took two minutes, and I was in and out within forty minutes. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Zheng Ming, Radiology, Beijing
+Rating: 7/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Zheng Ming, Radiology, Beijing
+Rating: 7/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Zheng Ming, Radiology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Reviewing my X-ray together with Dr. Zheng Ming on the screen made it much easier to understand my arthritis. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 5 for Dr. Zheng Ming, Radiology, Beijing
+Rating: 6/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Dr. Zheng Ming answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Quick appointment and a fair price in Beijing, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Zheng Ming, Radiology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: A translator was arranged for my mother without us asking twice, and Dr. Zheng Ming spoke directly to her throughout. I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Zheng Ming, Radiology, Beijing
+Rating: 7/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 8 for Dr. Zheng Ming, Radiology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: The staff at Fuchengmen Anhe Polyclinic in Beijing explained the contrast dye and its side effects before I signed anything. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 9 for Dr. Zheng Ming, Radiology, Beijing
+Rating: 9/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 10 for Dr. Zheng Ming, Radiology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Zheng Ming were respectful throughout. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 11 for Dr. Zheng Ming, Radiology, Beijing
+Rating: 5/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Worth trying, but I would not call it the best option in the area.
+
+Review 12 for Dr. Zheng Ming, Radiology, Beijing
+Rating: 7/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: The report from Dr. Zheng Ming was thorough, though full of technical terms that needed my regular doctor to translate. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Zheng Ming, Radiology, Beijing: 7.42/10 from 12 reviews

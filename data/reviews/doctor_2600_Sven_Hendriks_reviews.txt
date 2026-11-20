@@ -1,0 +1,69 @@
+Doctor: Dr. Sven Hendriks
+Doctor ID: 2600
+Specialization: Radiology
+Gender: Male
+Years of experience: 29
+City: Rotterdam, Netherlands
+Clinics: Medisch Centrum Coolsingel (clinic ID 340); Polikliniek Zuid (clinic ID 343)
+
+Review 1 for Dr. Sven Hendriks, Radiology, Rotterdam
+Rating: 10/10
+Clinic visited: Polikliniek Zuid
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Sven Hendriks sent a clear report within a day. Dr. Sven Hendriks looked me in the eye, listened to the whole story and only then started typing.
+
+Review 2 for Dr. Sven Hendriks, Radiology, Rotterdam
+Rating: 10/10
+Clinic visited: Polikliniek Zuid
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Sven Hendriks, Radiology, Rotterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: The treatment plan from Dr. Sven Hendriks made sense, but I wished it had been written down for me to take away. Great image quality and a fast report, but the booking system sent me to the wrong location first. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Sven Hendriks, Radiology, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Paperwork at Medisch Centrum Coolsingel was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 5 for Dr. Sven Hendriks, Radiology, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. The report from Dr. Sven Hendriks was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 6 for Dr. Sven Hendriks, Radiology, Rotterdam
+Rating: 9/10
+Clinic visited: Polikliniek Zuid
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 7 for Dr. Sven Hendriks, Radiology, Rotterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Booking was easy online, but the confirmation email contained the wrong address for Medisch Centrum Coolsingel. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 8 for Dr. Sven Hendriks, Radiology, Rotterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Dr. Sven Hendriks was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 9 for Dr. Sven Hendriks, Radiology, Rotterdam
+Rating: 8/10
+Clinic visited: Polikliniek Zuid
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. The waiting room at Polikliniek Zuid was clean, quiet and comfortable, with enough seating and water available.
+
+Review 10 for Dr. Sven Hendriks, Radiology, Rotterdam
+Rating: 7/10
+Clinic visited: Polikliniek Zuid
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I would come back, but only if the waiting time improves.
+
+Review 11 for Dr. Sven Hendriks, Radiology, Rotterdam
+Rating: 7/10
+Clinic visited: Polikliniek Zuid
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 12 for Dr. Sven Hendriks, Radiology, Rotterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. My test results arrived in the portal within two days, together with a short note that made sense. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Sven Hendriks, Radiology, Rotterdam: 8.00/10 from 12 reviews

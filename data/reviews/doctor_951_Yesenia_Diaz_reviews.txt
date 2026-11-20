@@ -1,0 +1,49 @@
+Doctor: Dr. Yesenia Díaz
+Doctor ID: 951
+Specialization: Cardiology
+Gender: Female
+Years of experience: 20
+City: Lima, Peru
+Clinics: Clínica San Isidro Familiar (clinic ID 125); Centro Médico Miraflores (clinic ID 126); Policlínica Benavides (clinic ID 127)
+
+Review 1 for Dr. Yesenia Díaz, Cardiology, Lima
+Rating: 6/10
+Clinic visited: Centro Médico Miraflores
+Description: Quick appointment and a fair price in Lima, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Yesenia Díaz, Cardiology, Lima
+Rating: 7/10
+Clinic visited: Policlínica Benavides
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 3 for Dr. Yesenia Díaz, Cardiology, Lima
+Rating: 7/10
+Clinic visited: Policlínica Benavides
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Yesenia Díaz, Cardiology, Lima
+Rating: 7/10
+Clinic visited: Clínica San Isidro Familiar
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Yesenia Díaz, Cardiology, Lima
+Rating: 9/10
+Clinic visited: Clínica San Isidro Familiar
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning.
+
+Review 6 for Dr. Yesenia Díaz, Cardiology, Lima
+Rating: 6/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Yesenia Díaz, Cardiology, Lima
+Rating: 6/10
+Clinic visited: Policlínica Benavides
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Dr. Yesenia Díaz was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Yesenia Díaz, Cardiology, Lima
+Rating: 9/10
+Clinic visited: Clínica San Isidro Familiar
+Description: She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Overall rating for Dr. Yesenia Díaz, Cardiology, Lima: 7.12/10 from 8 reviews

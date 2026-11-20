@@ -1,0 +1,54 @@
+Doctor: Dr. Naveed Ansari
+Doctor ID: 6387
+Specialization: Psychology
+Gender: Male
+Years of experience: 2
+City: Lahore, Pakistan
+Clinics: Model Town Care Polyclinic (clinic ID 827)
+
+Review 1 for Dr. Naveed Ansari, Psychology, Lahore
+Rating: 6/10
+Clinic visited: Model Town Care Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Naveed Ansari, Psychology, Lahore
+Rating: 9/10
+Clinic visited: Model Town Care Polyclinic
+Description: The office in Lahore is quiet and private, and the receptionist never mentions anything in front of other patients.
+
+Review 3 for Dr. Naveed Ansari, Psychology, Lahore
+Rating: 7/10
+Clinic visited: Model Town Care Polyclinic
+Description: The treatment plan from Dr. Naveed Ansari made sense, but I wished it had been written down for me to take away. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 4 for Dr. Naveed Ansari, Psychology, Lahore
+Rating: 7/10
+Clinic visited: Model Town Care Polyclinic
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Naveed Ansari, Psychology, Lahore
+Rating: 10/10
+Clinic visited: Model Town Care Polyclinic
+Description: Warm, patient and honest, Dr. Naveed Ansari told me what progress to expect and it matched reality. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 6 for Dr. Naveed Ansari, Psychology, Lahore
+Rating: 7/10
+Clinic visited: Model Town Care Polyclinic
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Naveed Ansari, Psychology, Lahore
+Rating: 6/10
+Clinic visited: Model Town Care Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Insightful and kind, though progress with Dr. Naveed Ansari felt slow, and I wished for more structured homework between sessions.
+
+Review 8 for Dr. Naveed Ansari, Psychology, Lahore
+Rating: 8/10
+Clinic visited: Model Town Care Polyclinic
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Naveed Ansari designed around my actual job.
+
+Review 9 for Dr. Naveed Ansari, Psychology, Lahore
+Rating: 8/10
+Clinic visited: Model Town Care Polyclinic
+Description: Sessions with Dr. Naveed Ansari start on time and end on time, which is a small thing that made me feel respected. Dr. Naveed Ansari used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Overall rating for Dr. Naveed Ansari, Psychology, Lahore: 7.56/10 from 9 reviews

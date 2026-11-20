@@ -1,0 +1,49 @@
+Doctor: Dr. Goto Yuko
+Doctor ID: 4130
+Specialization: Neurology
+Gender: Female
+Years of experience: 18
+City: Yokohama, Japan
+Clinics: Shin-Yokohama Hoshi Clinic (clinic ID 533)
+
+Review 1 for Dr. Goto Yuko, Neurology, Yokohama
+Rating: 7/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Goto Yuko, Neurology, Yokohama
+Rating: 7/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Goto Yuko, Neurology, Yokohama
+Rating: 6/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Goto Yuko, Neurology, Yokohama
+Rating: 7/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Good bedside manner from Dr. Goto Yuko, but the parking near Shin-Yokohama Hoshi Clinic is limited and I had to circle for fifteen minutes. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Goto Yuko, Neurology, Yokohama
+Rating: 6/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: The treatment plan from Dr. Goto Yuko made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Goto Yuko, Neurology, Yokohama
+Rating: 8/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Getting a same-month appointment in Yokohama for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 7 for Dr. Goto Yuko, Neurology, Yokohama
+Rating: 7/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Goto Yuko at Shin-Yokohama Hoshi Clinic are difficult to schedule. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 8 for Dr. Goto Yuko, Neurology, Yokohama
+Rating: 6/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Dr. Goto Yuko explained my results well, although the visit felt short for such a complex condition. Dr. Goto Yuko was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Goto Yuko, Neurology, Yokohama: 6.75/10 from 8 reviews

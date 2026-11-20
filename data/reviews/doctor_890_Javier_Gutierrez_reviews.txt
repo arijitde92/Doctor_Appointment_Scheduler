@@ -1,0 +1,54 @@
+Doctor: Dr. Javier Gutiérrez
+Doctor ID: 890
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 22
+City: Arequipa, Peru
+Clinics: Consultorios Médicos Parra (clinic ID 117)
+
+Review 1 for Dr. Javier Gutiérrez, Psychiatry, Arequipa
+Rating: 8/10
+Clinic visited: Consultorios Médicos Parra
+Description: Telehealth follow-ups at Consultorios Médicos Parra are punctual and calm, and refills are dealt with quickly. The waiting room at Consultorios Médicos Parra was clean, quiet and comfortable, with enough seating and water available.
+
+Review 2 for Dr. Javier Gutiérrez, Psychiatry, Arequipa
+Rating: 7/10
+Clinic visited: Consultorios Médicos Parra
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Javier Gutiérrez, Psychiatry, Arequipa
+Rating: 7/10
+Clinic visited: Consultorios Médicos Parra
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 4 for Dr. Javier Gutiérrez, Psychiatry, Arequipa
+Rating: 7/10
+Clinic visited: Consultorios Médicos Parra
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 5 for Dr. Javier Gutiérrez, Psychiatry, Arequipa
+Rating: 7/10
+Clinic visited: Consultorios Médicos Parra
+Description: Dr. Javier Gutiérrez is knowledgeable, though I waited several weeks for my first appointment. I liked the advice I got from Dr. Javier Gutiérrez, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Javier Gutiérrez, Psychiatry, Arequipa
+Rating: 10/10
+Clinic visited: Consultorios Médicos Parra
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Javier Gutiérrez, Psychiatry, Arequipa
+Rating: 8/10
+Clinic visited: Consultorios Médicos Parra
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Javier Gutiérrez, Psychiatry, Arequipa
+Rating: 8/10
+Clinic visited: Consultorios Médicos Parra
+Description: I appreciated that he offered more than one option and let me choose what suited my life. My depression finally has a treatment plan from Dr. Javier Gutiérrez that works, with regular check-ins and careful dose changes.
+
+Review 9 for Dr. Javier Gutiérrez, Psychiatry, Arequipa
+Rating: 7/10
+Clinic visited: Consultorios Médicos Parra
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Dr. Javier Gutiérrez was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Javier Gutiérrez, Psychiatry, Arequipa: 7.67/10 from 9 reviews

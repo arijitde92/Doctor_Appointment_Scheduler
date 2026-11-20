@@ -1,0 +1,64 @@
+Doctor: Dr. Amanda Brown
+Doctor ID: 106
+Specialization: Cardiology
+Gender: Female
+Years of experience: 4
+City: Chicago, USA
+Clinics: Lincoln Park Family Clinic (clinic ID 16)
+
+Review 1 for Dr. Amanda Brown, Cardiology, Chicago
+Rating: 6/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Great care in the visit itself, but the billing for the tests at Lincoln Park Family Clinic was confusing.
+
+Review 2 for Dr. Amanda Brown, Cardiology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 3 for Dr. Amanda Brown, Cardiology, Chicago
+Rating: 6/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Dr. Amanda Brown adjusted my blood pressure medication carefully, though I had to call twice for a refill. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Amanda Brown, Cardiology, Chicago
+Rating: 9/10
+Clinic visited: Lincoln Park Family Clinic
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning.
+
+Review 5 for Dr. Amanda Brown, Cardiology, Chicago
+Rating: 6/10
+Clinic visited: Lincoln Park Family Clinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Amanda Brown, Cardiology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 7 for Dr. Amanda Brown, Cardiology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Amanda Brown, Cardiology, Chicago
+Rating: 9/10
+Clinic visited: Lincoln Park Family Clinic
+Description: My atrial fibrillation is well managed by Dr. Amanda Brown, and I know exactly what symptoms mean I should call. This is the first doctor I have trusted completely in years.
+
+Review 9 for Dr. Amanda Brown, Cardiology, Chicago
+Rating: 7/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Quick appointment and a fair price in Chicago, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 10 for Dr. Amanda Brown, Cardiology, Chicago
+Rating: 4/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Dr. Amanda Brown spent most of the appointment looking at the screen and gave very brief answers to my questions.
+
+Review 11 for Dr. Amanda Brown, Cardiology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Clear and calm advice at Lincoln Park Family Clinic about exercise after my stent, including a gradual written schedule. Booking online at Lincoln Park Family Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Overall rating for Dr. Amanda Brown, Cardiology, Chicago: 7.18/10 from 11 reviews

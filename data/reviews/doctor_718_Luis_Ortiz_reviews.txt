@@ -1,0 +1,54 @@
+Doctor: Dr. Luis Ortiz
+Doctor ID: 718
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 3
+City: Buenos Aires, Argentina
+Clinics: Centro Médico Recoleta Norte (clinic ID 95); Clínica Belgrano Salud (clinic ID 96)
+
+Review 1 for Dr. Luis Ortiz, Orthopedic, Buenos Aires
+Rating: 7/10
+Clinic visited: Clínica Belgrano Salud
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Quick appointment and a fair price in Buenos Aires, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Luis Ortiz, Orthopedic, Buenos Aires
+Rating: 6/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Luis Ortiz, Orthopedic, Buenos Aires
+Rating: 4/10
+Clinic visited: Clínica Belgrano Salud
+Description: My questions were answered by Dr. Luis Ortiz with short, vague replies, and I left without a clear plan.
+
+Review 4 for Dr. Luis Ortiz, Orthopedic, Buenos Aires
+Rating: 7/10
+Clinic visited: Clínica Belgrano Salud
+Description: Very skilled with my knee, but Dr. Luis Ortiz's clinic runs behind and the wait was over an hour.
+
+Review 5 for Dr. Luis Ortiz, Orthopedic, Buenos Aires
+Rating: 6/10
+Clinic visited: Clínica Belgrano Salud
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Luis Ortiz, Orthopedic, Buenos Aires
+Rating: 6/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Luis Ortiz, Orthopedic, Buenos Aires
+Rating: 7/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Luis Ortiz, Orthopedic, Buenos Aires
+Rating: 6/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Luis Ortiz, Orthopedic, Buenos Aires
+Rating: 6/10
+Clinic visited: Clínica Belgrano Salud
+Description: I got what I needed, but the next available appointment was three weeks away. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Overall rating for Dr. Luis Ortiz, Orthopedic, Buenos Aires: 6.11/10 from 9 reviews

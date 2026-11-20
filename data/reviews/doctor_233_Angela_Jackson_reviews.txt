@@ -1,0 +1,49 @@
+Doctor: Dr. Angela Jackson
+Doctor ID: 233
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 8
+City: San Francisco, USA
+Clinics: Cow Hollow Health Associates (clinic ID 32); Mission Bay Primary Care (clinic ID 34)
+
+Review 1 for Dr. Angela Jackson, Psychiatry, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: Telehealth follow-ups at Cow Hollow Health Associates are punctual and calm, and refills are dealt with quickly. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 2 for Dr. Angela Jackson, Psychiatry, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: I can ring Cow Hollow Health Associates with an urgent question and receive a thoughtful reply the same day. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 3 for Dr. Angela Jackson, Psychiatry, San Francisco
+Rating: 10/10
+Clinic visited: Mission Bay Primary Care
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 4 for Dr. Angela Jackson, Psychiatry, San Francisco
+Rating: 9/10
+Clinic visited: Mission Bay Primary Care
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Angela Jackson, Psychiatry, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: I was called in within five minutes of my appointment time at Cow Hollow Health Associates, which is rare and much appreciated. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Angela Jackson, Psychiatry, San Francisco
+Rating: 10/10
+Clinic visited: Cow Hollow Health Associates
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Never once did Dr. Angela Jackson make me feel weak for asking for help, and the stigma I carried really began to ease. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Angela Jackson, Psychiatry, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: The receptionist at Cow Hollow Health Associates remembered my name and had my forms ready, so check-in took less than a minute. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Angela Jackson, Psychiatry, San Francisco
+Rating: 7/10
+Clinic visited: Cow Hollow Health Associates
+Description: Good listener, yet the refill process at Cow Hollow Health Associates is slow and requires several phone calls.
+
+Overall rating for Dr. Angela Jackson, Psychiatry, San Francisco: 8.88/10 from 8 reviews

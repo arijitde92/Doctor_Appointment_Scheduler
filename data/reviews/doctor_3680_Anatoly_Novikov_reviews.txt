@@ -1,0 +1,64 @@
+Doctor: Dr. Anatoly Novikov
+Doctor ID: 3680
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 29
+City: Kazan, Russia
+Clinics: Bulak Medical Centre (clinic ID 475); Klinika Dostoevsky Street (clinic ID 479)
+
+Review 1 for Dr. Anatoly Novikov, Pediatrics, Kazan
+Rating: 7/10
+Clinic visited: Bulak Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Anatoly Novikov, Pediatrics, Kazan
+Rating: 8/10
+Clinic visited: Bulak Medical Centre
+Description: The growth chart review was detailed, and I appreciated that Dr. Anatoly Novikov talked to my child as well as to me. A same-day slot was found for me at Bulak Medical Centre when I called with a worrying symptom.
+
+Review 3 for Dr. Anatoly Novikov, Pediatrics, Kazan
+Rating: 8/10
+Clinic visited: Bulak Medical Centre
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 4 for Dr. Anatoly Novikov, Pediatrics, Kazan
+Rating: 10/10
+Clinic visited: Bulak Medical Centre
+Description: My toddler was terrified of doctors, but Dr. Anatoly Novikov sat on the floor, played with a stuffed toy and examined everything without a single tear. At my visit, Dr. Anatoly Novikov took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 5 for Dr. Anatoly Novikov, Pediatrics, Kazan
+Rating: 7/10
+Clinic visited: Bulak Medical Centre
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Dr. Anatoly Novikov was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 6 for Dr. Anatoly Novikov, Pediatrics, Kazan
+Rating: 10/10
+Clinic visited: Bulak Medical Centre
+Description: Paperwork at Bulak Medical Centre was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 7 for Dr. Anatoly Novikov, Pediatrics, Kazan
+Rating: 9/10
+Clinic visited: Klinika Dostoevsky Street
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Our family has been coming for years, and he remembers each child's history and personality.
+
+Review 8 for Dr. Anatoly Novikov, Pediatrics, Kazan
+Rating: 10/10
+Clinic visited: Bulak Medical Centre
+Description: The waiting room in Kazan has a play corner and separate seating for sick children, which I really valued.
+
+Review 9 for Dr. Anatoly Novikov, Pediatrics, Kazan
+Rating: 6/10
+Clinic visited: Bulak Medical Centre
+Description: Quick appointment and a fair price in Kazan, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Anatoly Novikov is thorough with exams, but the after-hours phone line at Bulak Medical Centre is hard to reach.
+
+Review 10 for Dr. Anatoly Novikov, Pediatrics, Kazan
+Rating: 8/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Vaccination visits with Dr. Anatoly Novikov are painless and well explained, and my questions about the schedule were answered without any pressure. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 11 for Dr. Anatoly Novikov, Pediatrics, Kazan
+Rating: 9/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Sensitive questions were handled by Dr. Anatoly Novikov with discretion and without a hint of judgment.
+
+Overall rating for Dr. Anatoly Novikov, Pediatrics, Kazan: 8.36/10 from 11 reviews

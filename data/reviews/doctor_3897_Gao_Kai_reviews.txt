@@ -1,0 +1,54 @@
+Doctor: Dr. Gao Kai
+Doctor ID: 3897
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 6
+City: Guangzhou, China
+Clinics: Jiangnan Hengkang Polyclinic (clinic ID 503)
+
+Review 1 for Dr. Gao Kai, Psychiatry, Guangzhou
+Rating: 5/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: I liked the advice I got from Dr. Gao Kai, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Gao Kai, Psychiatry, Guangzhou
+Rating: 7/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Jiangnan Hengkang Polyclinic. Dr. Gao Kai is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 3 for Dr. Gao Kai, Psychiatry, Guangzhou
+Rating: 5/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Gao Kai, Psychiatry, Guangzhou
+Rating: 6/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Gao Kai, Psychiatry, Guangzhou
+Rating: 6/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 6 for Dr. Gao Kai, Psychiatry, Guangzhou
+Rating: 8/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Appointments in Guangzhou are always on schedule, and the waiting area is peaceful and private. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 7 for Dr. Gao Kai, Psychiatry, Guangzhou
+Rating: 8/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. At my visit, Dr. Gao Kai took notes on my medication list, checked for interactions and explained the changes simply. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Gao Kai, Psychiatry, Guangzhou
+Rating: 6/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Good listener, yet the refill process at Jiangnan Hengkang Polyclinic is slow and requires several phone calls.
+
+Review 9 for Dr. Gao Kai, Psychiatry, Guangzhou
+Rating: 7/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Gao Kai, Psychiatry, Guangzhou: 6.44/10 from 9 reviews

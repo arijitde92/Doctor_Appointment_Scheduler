@@ -1,0 +1,64 @@
+Doctor: Dr. Cecilia Medina
+Doctor ID: 773
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 5
+City: Cordoba, Argentina
+Clinics: Consultorios Médicos Colón (clinic ID 102)
+
+Review 1 for Dr. Cecilia Medina, Psychiatry, Cordoba
+Rating: 6/10
+Clinic visited: Consultorios Médicos Colón
+Description: Dr. Cecilia Medina is knowledgeable, though I waited several weeks for my first appointment. Good bedside manner from Dr. Cecilia Medina, but the parking near Consultorios Médicos Colón is limited and I had to circle for fifteen minutes. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Cecilia Medina, Psychiatry, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 3 for Dr. Cecilia Medina, Psychiatry, Cordoba
+Rating: 6/10
+Clinic visited: Consultorios Médicos Colón
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Helpful diagnosis, though the billing for my first long assessment was confusing. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Cecilia Medina, Psychiatry, Cordoba
+Rating: 8/10
+Clinic visited: Consultorios Médicos Colón
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 5 for Dr. Cecilia Medina, Psychiatry, Cordoba
+Rating: 9/10
+Clinic visited: Consultorios Médicos Colón
+Description: Never once did Dr. Cecilia Medina make me feel weak for asking for help, and the stigma I carried really began to ease. She was upfront about what could and could not be treated, and did not oversell any option. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Cecilia Medina, Psychiatry, Cordoba
+Rating: 6/10
+Clinic visited: Consultorios Médicos Colón
+Description: I got what I needed, but the next available appointment was three weeks away. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 7 for Dr. Cecilia Medina, Psychiatry, Cordoba
+Rating: 6/10
+Clinic visited: Consultorios Médicos Colón
+Description: Supportive in crisis, but follow-up between visits could have been more regular. The treatment plan from Dr. Cecilia Medina made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Cecilia Medina, Psychiatry, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: Good listener, yet the refill process at Consultorios Médicos Colón is slow and requires several phone calls. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 9 for Dr. Cecilia Medina, Psychiatry, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 10 for Dr. Cecilia Medina, Psychiatry, Cordoba
+Rating: 6/10
+Clinic visited: Consultorios Médicos Colón
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 11 for Dr. Cecilia Medina, Psychiatry, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Cecilia Medina, Psychiatry, Cordoba: 6.82/10 from 11 reviews

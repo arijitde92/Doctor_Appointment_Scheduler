@@ -1,0 +1,59 @@
+Doctor: Dr. Mohamed Janssens
+Doctor ID: 3070
+Specialization: Pathology
+Gender: Male
+Years of experience: 14
+City: Antwerp, Belgium
+Clinics: Medisch Centrum Eilandje (clinic ID 399)
+
+Review 1 for Dr. Mohamed Janssens, Pathology, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Mohamed Janssens, Pathology, Antwerp
+Rating: 8/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Dr. Mohamed Janssens took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 3 for Dr. Mohamed Janssens, Pathology, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Mohamed Janssens, Pathology, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 5 for Dr. Mohamed Janssens, Pathology, Antwerp
+Rating: 5/10
+Clinic visited: Medisch Centrum Eilandje
+Description: The blood draw was painless, but the waiting area at Medisch Centrum Eilandje was crowded in the early morning. Good bedside manner from Dr. Mohamed Janssens, but the parking near Medisch Centrum Eilandje is limited and I had to circle for fifteen minutes. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Mohamed Janssens, Pathology, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Dr. Mohamed Janssens was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 7 for Dr. Mohamed Janssens, Pathology, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Helpful in clarifying a borderline result, though Dr. Mohamed Janssens gave little guidance about whether to repeat it. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Mohamed Janssens, Pathology, Antwerp
+Rating: 8/10
+Clinic visited: Medisch Centrum Eilandje
+Description: The biopsy report was returned in three days, and Dr. Mohamed Janssens took time on the phone to explain every term in it. I was called in within five minutes of my appointment time at Medisch Centrum Eilandje, which is rare and much appreciated. Worth every minute of travel, and I would go again without a second thought.
+
+Review 9 for Dr. Mohamed Janssens, Pathology, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Dr. Mohamed Janssens answered my questions kindly, though the call back took three days.
+
+Review 10 for Dr. Mohamed Janssens, Pathology, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: The treatment plan from Dr. Mohamed Janssens made sense, but I wished it had been written down for me to take away. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Overall rating for Dr. Mohamed Janssens, Pathology, Antwerp: 6.80/10 from 10 reviews

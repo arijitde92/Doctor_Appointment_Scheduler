@@ -1,0 +1,54 @@
+Doctor: Dr. Zhao Jiajia
+Doctor ID: 3918
+Specialization: Cardiology
+Gender: Female
+Years of experience: 9
+City: Shanghai, China
+Clinics: Lujiazui Kangtai Medical Centre (clinic ID 505)
+
+Review 1 for Dr. Zhao Jiajia, Cardiology, Shanghai
+Rating: 8/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: My atrial fibrillation is well managed by Dr. Zhao Jiajia, and I know exactly what symptoms mean I should call.
+
+Review 2 for Dr. Zhao Jiajia, Cardiology, Shanghai
+Rating: 7/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 3 for Dr. Zhao Jiajia, Cardiology, Shanghai
+Rating: 8/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 4 for Dr. Zhao Jiajia, Cardiology, Shanghai
+Rating: 7/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Helpful with my cholesterol, Dr. Zhao Jiajia still gave dietary advice that was a little generic. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 5 for Dr. Zhao Jiajia, Cardiology, Shanghai
+Rating: 10/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Dr. Zhao Jiajia explained the difference between my statin options and let me weigh in on the choice. The waiting room at Lujiazui Kangtai Medical Centre was clean, quiet and comfortable, with enough seating and water available.
+
+Review 6 for Dr. Zhao Jiajia, Cardiology, Shanghai
+Rating: 9/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Paperwork at Lujiazui Kangtai Medical Centre was kept to a minimum, and the staff helped me complete the insurance form. After my palpitations began, Dr. Zhao Jiajia arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 7 for Dr. Zhao Jiajia, Cardiology, Shanghai
+Rating: 6/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Great care in the visit itself, but the billing for the tests at Lujiazui Kangtai Medical Centre was confusing.
+
+Review 8 for Dr. Zhao Jiajia, Cardiology, Shanghai
+Rating: 7/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Zhao Jiajia, Cardiology, Shanghai
+Rating: 8/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. Dr. Zhao Jiajia double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Overall rating for Dr. Zhao Jiajia, Cardiology, Shanghai: 7.78/10 from 9 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Léa Jones
+Doctor ID: 370
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 28
+City: Vancouver, Canada
+Clinics: Broadway Family Practice (clinic ID 51)
+
+Review 1 for Dr. Léa Jones, Psychiatry, Vancouver
+Rating: 5/10
+Clinic visited: Broadway Family Practice
+Description: Dr. Léa Jones is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 2 for Dr. Léa Jones, Psychiatry, Vancouver
+Rating: 5/10
+Clinic visited: Broadway Family Practice
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 3 for Dr. Léa Jones, Psychiatry, Vancouver
+Rating: 4/10
+Clinic visited: Broadway Family Practice
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 4 for Dr. Léa Jones, Psychiatry, Vancouver
+Rating: 6/10
+Clinic visited: Broadway Family Practice
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Léa Jones, Psychiatry, Vancouver
+Rating: 6/10
+Clinic visited: Broadway Family Practice
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Léa Jones, Psychiatry, Vancouver
+Rating: 4/10
+Clinic visited: Broadway Family Practice
+Description: I was not told about common side effects by Dr. Léa Jones, and I had a rough first two weeks that could have been avoided. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 7 for Dr. Léa Jones, Psychiatry, Vancouver
+Rating: 4/10
+Clinic visited: Broadway Family Practice
+Description: Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. Requests for a refill went unanswered for days, and I ran out of my medication.
+
+Review 8 for Dr. Léa Jones, Psychiatry, Vancouver
+Rating: 5/10
+Clinic visited: Broadway Family Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Léa Jones, Psychiatry, Vancouver
+Rating: 7/10
+Clinic visited: Broadway Family Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Broadway Family Practice. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Léa Jones, Psychiatry, Vancouver
+Rating: 6/10
+Clinic visited: Broadway Family Practice
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good listener, yet the refill process at Broadway Family Practice is slow and requires several phone calls.
+
+Overall rating for Dr. Léa Jones, Psychiatry, Vancouver: 5.20/10 from 10 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Li Chi-wen
+Doctor ID: 4315
+Specialization: Psychology
+Gender: Male
+Years of experience: 22
+City: Kaohsiung, Taiwan
+Clinics: Sanduo Fuhe Medical Clinic (clinic ID 555)
+
+Review 1 for Dr. Li Chi-wen, Psychology, Kaohsiung
+Rating: 8/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: He has a calm way of asking the difficult questions that makes it feel safe to answer honestly. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 2 for Dr. Li Chi-wen, Psychology, Kaohsiung
+Rating: 9/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months.
+
+Review 3 for Dr. Li Chi-wen, Psychology, Kaohsiung
+Rating: 9/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 4 for Dr. Li Chi-wen, Psychology, Kaohsiung
+Rating: 7/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Good bedside manner from Dr. Li Chi-wen, but the parking near Sanduo Fuhe Medical Clinic is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Li Chi-wen, Psychology, Kaohsiung
+Rating: 8/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: I appreciated the written summary Dr. Li Chi-wen sent after each session and the short worksheets between visits. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 6 for Dr. Li Chi-wen, Psychology, Kaohsiung
+Rating: 8/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: I never felt judged by Dr. Li Chi-wen when talking about my burnout, and the sessions gave me language for things I could not explain before.
+
+Review 7 for Dr. Li Chi-wen, Psychology, Kaohsiung
+Rating: 8/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Couples therapy at Sanduo Fuhe Medical Clinic helped us stop repeating the same argument. We now have a way to pause and listen. Dr. Li Chi-wen drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 8 for Dr. Li Chi-wen, Psychology, Kaohsiung
+Rating: 9/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Warm, patient and honest, Dr. Li Chi-wen told me what progress to expect and it matched reality. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 9 for Dr. Li Chi-wen, Psychology, Kaohsiung
+Rating: 9/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 10 for Dr. Li Chi-wen, Psychology, Kaohsiung
+Rating: 8/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Online sessions through Sanduo Fuhe Medical Clinic worked just as well as in-person ones, and the video link never once failed.
+
+Overall rating for Dr. Li Chi-wen, Psychology, Kaohsiung: 8.30/10 from 10 reviews

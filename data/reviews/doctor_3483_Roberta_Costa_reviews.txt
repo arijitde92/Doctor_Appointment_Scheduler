@@ -1,0 +1,59 @@
+Doctor: Dr. Roberta Costa
+Doctor ID: 3483
+Specialization: Neurology
+Gender: Female
+Years of experience: 3
+City: Rome, Italy
+Clinics: Centro Medico Prati (clinic ID 451)
+
+Review 1 for Dr. Roberta Costa, Neurology, Rome
+Rating: 7/10
+Clinic visited: Centro Medico Prati
+Description: Quick appointment and a fair price in Rome, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Roberta Costa, Neurology, Rome
+Rating: 5/10
+Clinic visited: Centro Medico Prati
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Roberta Costa, Neurology, Rome
+Rating: 9/10
+Clinic visited: Centro Medico Prati
+Description: She coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 4 for Dr. Roberta Costa, Neurology, Rome
+Rating: 9/10
+Clinic visited: Centro Medico Prati
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Centro Medico Prati. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. Roberta Costa, Neurology, Rome
+Rating: 10/10
+Clinic visited: Centro Medico Prati
+Description: The memory assessment for my father at Centro Medico Prati was gentle and respectful, and the family received a clear written summary.
+
+Review 6 for Dr. Roberta Costa, Neurology, Rome
+Rating: 7/10
+Clinic visited: Centro Medico Prati
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Roberta Costa, Neurology, Rome
+Rating: 10/10
+Clinic visited: Centro Medico Prati
+Description: Dr. Roberta Costa took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy.
+
+Review 8 for Dr. Roberta Costa, Neurology, Rome
+Rating: 10/10
+Clinic visited: Centro Medico Prati
+Description: The neurological exam by Dr. Roberta Costa was thorough, with every reflex test and gait check explained as it happened.
+
+Review 9 for Dr. Roberta Costa, Neurology, Rome
+Rating: 10/10
+Clinic visited: Centro Medico Prati
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 10 for Dr. Roberta Costa, Neurology, Rome
+Rating: 7/10
+Clinic visited: Centro Medico Prati
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Roberta Costa, Neurology, Rome: 8.40/10 from 10 reviews

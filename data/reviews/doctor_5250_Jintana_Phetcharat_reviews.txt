@@ -1,0 +1,54 @@
+Doctor: Dr. Jintana Phetcharat
+Doctor ID: 5250
+Specialization: Psychology
+Gender: Female
+Years of experience: 3
+City: Bangkok, Thailand
+Clinics: Lanna Family Clinic (clinic ID 679)
+
+Review 1 for Dr. Jintana Phetcharat, Psychology, Bangkok
+Rating: 8/10
+Clinic visited: Lanna Family Clinic
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer. Dr. Jintana Phetcharat double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 2 for Dr. Jintana Phetcharat, Psychology, Bangkok
+Rating: 9/10
+Clinic visited: Lanna Family Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 3 for Dr. Jintana Phetcharat, Psychology, Bangkok
+Rating: 6/10
+Clinic visited: Lanna Family Clinic
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 4 for Dr. Jintana Phetcharat, Psychology, Bangkok
+Rating: 9/10
+Clinic visited: Lanna Family Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 5 for Dr. Jintana Phetcharat, Psychology, Bangkok
+Rating: 7/10
+Clinic visited: Lanna Family Clinic
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 6 for Dr. Jintana Phetcharat, Psychology, Bangkok
+Rating: 9/10
+Clinic visited: Lanna Family Clinic
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown.
+
+Review 7 for Dr. Jintana Phetcharat, Psychology, Bangkok
+Rating: 10/10
+Clinic visited: Lanna Family Clinic
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months.
+
+Review 8 for Dr. Jintana Phetcharat, Psychology, Bangkok
+Rating: 8/10
+Clinic visited: Lanna Family Clinic
+Description: The office in Bangkok is quiet and private, and the receptionist never mentions anything in front of other patients.
+
+Review 9 for Dr. Jintana Phetcharat, Psychology, Bangkok
+Rating: 8/10
+Clinic visited: Lanna Family Clinic
+Description: She has a calm way of asking the difficult questions that makes it feel safe to answer honestly.
+
+Overall rating for Dr. Jintana Phetcharat, Psychology, Bangkok: 8.22/10 from 9 reviews

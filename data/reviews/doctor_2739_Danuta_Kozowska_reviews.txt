@@ -1,0 +1,54 @@
+Doctor: Dr. Danuta Kozłowska
+Doctor ID: 2739
+Specialization: General
+Gender: Female
+Years of experience: 18
+City: Gdansk, Poland
+Clinics: Gabinety Lekarskie Pomorska Park (clinic ID 359)
+
+Review 1 for Dr. Danuta Kozłowska, General, Gdansk
+Rating: 7/10
+Clinic visited: Gabinety Lekarskie Pomorska Park
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Danuta Kozłowska, General, Gdansk
+Rating: 7/10
+Clinic visited: Gabinety Lekarskie Pomorska Park
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I liked the advice I got from Dr. Danuta Kozłowska, but I would have liked more time to ask follow-up questions before the visit ended. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Danuta Kozłowska, General, Gdansk
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Pomorska Park
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 4 for Dr. Danuta Kozłowska, General, Gdansk
+Rating: 6/10
+Clinic visited: Gabinety Lekarskie Pomorska Park
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Danuta Kozłowska, General, Gdansk
+Rating: 7/10
+Clinic visited: Gabinety Lekarskie Pomorska Park
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 6 for Dr. Danuta Kozłowska, General, Gdansk
+Rating: 7/10
+Clinic visited: Gabinety Lekarskie Pomorska Park
+Description: Dr. Danuta Kozłowska is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Danuta Kozłowska, General, Gdansk
+Rating: 5/10
+Clinic visited: Gabinety Lekarskie Pomorska Park
+Description: Referrals from Dr. Danuta Kozłowska are handled well, but getting test results back took longer than I was told to expect. Quick appointment and a fair price in Gdansk, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 8 for Dr. Danuta Kozłowska, General, Gdansk
+Rating: 5/10
+Clinic visited: Gabinety Lekarskie Pomorska Park
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Good bedside manner from Dr. Danuta Kozłowska, but the parking near Gabinety Lekarskie Pomorska Park is limited and I had to circle for fifteen minutes.
+
+Review 9 for Dr. Danuta Kozłowska, General, Gdansk
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Pomorska Park
+Description: My annual check-up with Dr. Danuta Kozłowska took forty minutes, with every screening explained and nothing rushed. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Danuta Kozłowska, General, Gdansk: 6.67/10 from 9 reviews

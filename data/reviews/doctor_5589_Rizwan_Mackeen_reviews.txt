@@ -1,0 +1,59 @@
+Doctor: Dr. Rizwan Mackeen
+Doctor ID: 5589
+Specialization: Pathology
+Gender: Male
+Years of experience: 4
+City: Galle, Sri Lanka
+Clinics: Unawatuna Health Practice (clinic ID 722)
+
+Review 1 for Dr. Rizwan Mackeen, Pathology, Galle
+Rating: 6/10
+Clinic visited: Unawatuna Health Practice
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Helpful in clarifying a borderline result, though Dr. Rizwan Mackeen gave little guidance about whether to repeat it.
+
+Review 2 for Dr. Rizwan Mackeen, Pathology, Galle
+Rating: 7/10
+Clinic visited: Unawatuna Health Practice
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 3 for Dr. Rizwan Mackeen, Pathology, Galle
+Rating: 8/10
+Clinic visited: Unawatuna Health Practice
+Description: Dr. Rizwan Mackeen looked me in the eye, listened to the whole story and only then started typing. I asked for a second look at my slides, and Dr. Rizwan Mackeen reviewed them without any fuss and confirmed the finding in writing.
+
+Review 4 for Dr. Rizwan Mackeen, Pathology, Galle
+Rating: 7/10
+Clinic visited: Unawatuna Health Practice
+Description: The treatment plan from Dr. Rizwan Mackeen made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Rizwan Mackeen, Pathology, Galle
+Rating: 7/10
+Clinic visited: Unawatuna Health Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Rizwan Mackeen, Pathology, Galle
+Rating: 9/10
+Clinic visited: Unawatuna Health Practice
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 7 for Dr. Rizwan Mackeen, Pathology, Galle
+Rating: 10/10
+Clinic visited: Unawatuna Health Practice
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 8 for Dr. Rizwan Mackeen, Pathology, Galle
+Rating: 9/10
+Clinic visited: Unawatuna Health Practice
+Description: Allergy panel results were explained in detail by Dr. Rizwan Mackeen, with a note on which results mattered clinically and which did not. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 9 for Dr. Rizwan Mackeen, Pathology, Galle
+Rating: 8/10
+Clinic visited: Unawatuna Health Practice
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Galle. I feel lucky to have found this practice in my area.
+
+Review 10 for Dr. Rizwan Mackeen, Pathology, Galle
+Rating: 10/10
+Clinic visited: Unawatuna Health Practice
+Description: Dr. Rizwan Mackeen took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Overall rating for Dr. Rizwan Mackeen, Pathology, Galle: 8.10/10 from 10 reviews

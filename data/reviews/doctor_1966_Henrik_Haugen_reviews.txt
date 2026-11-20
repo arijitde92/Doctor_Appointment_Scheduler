@@ -1,0 +1,49 @@
+Doctor: Dr. Henrik Haugen
+Doctor ID: 1966
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 29
+City: Bergen, Norway
+Clinics: Helsehuset Strandgaten (clinic ID 256)
+
+Review 1 for Dr. Henrik Haugen, Pediatrics, Bergen
+Rating: 6/10
+Clinic visited: Helsehuset Strandgaten
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 2 for Dr. Henrik Haugen, Pediatrics, Bergen
+Rating: 9/10
+Clinic visited: Helsehuset Strandgaten
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 3 for Dr. Henrik Haugen, Pediatrics, Bergen
+Rating: 9/10
+Clinic visited: Helsehuset Strandgaten
+Description: Prescriptions from Dr. Henrik Haugen were sent to my pharmacy before I even left the building, and the dosage instructions were written down. We got a same-day appointment for a high fever, and the care at Helsehuset Strandgaten was kind and efficient.
+
+Review 4 for Dr. Henrik Haugen, Pediatrics, Bergen
+Rating: 8/10
+Clinic visited: Helsehuset Strandgaten
+Description: Paperwork at Helsehuset Strandgaten was kept to a minimum, and the staff helped me complete the insurance form. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Henrik Haugen, Pediatrics, Bergen
+Rating: 9/10
+Clinic visited: Helsehuset Strandgaten
+Description: Dr. Henrik Haugen noticed a speech delay early and referred us to a therapist, which has made a real difference. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Henrik Haugen, Pediatrics, Bergen
+Rating: 9/10
+Clinic visited: Helsehuset Strandgaten
+Description: Kind to anxious parents, Dr. Henrik Haugen never showed a hint of impatience when I felt silly asking about a rash. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 7 for Dr. Henrik Haugen, Pediatrics, Bergen
+Rating: 9/10
+Clinic visited: Helsehuset Strandgaten
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. Booking online at Helsehuset Strandgaten was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 8 for Dr. Henrik Haugen, Pediatrics, Bergen
+Rating: 7/10
+Clinic visited: Helsehuset Strandgaten
+Description: Dr. Henrik Haugen is thorough with exams, but the after-hours phone line at Helsehuset Strandgaten is hard to reach. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Henrik Haugen, Pediatrics, Bergen: 8.25/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Ogawa Hitomi
+Doctor ID: 4007
+Specialization: Radiology
+Gender: Female
+Years of experience: 19
+City: Kyoto, Japan
+Clinics: Karasuma Matsu Family Clinic (clinic ID 516)
+
+Review 1 for Dr. Ogawa Hitomi, Radiology, Kyoto
+Rating: 7/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 2 for Dr. Ogawa Hitomi, Radiology, Kyoto
+Rating: 8/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: My ultrasound was unhurried, and Dr. Ogawa Hitomi took time to show me the images and explain what each measurement meant.
+
+Review 3 for Dr. Ogawa Hitomi, Radiology, Kyoto
+Rating: 8/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 4 for Dr. Ogawa Hitomi, Radiology, Kyoto
+Rating: 10/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: The staff at Karasuma Matsu Family Clinic in Kyoto explained the contrast dye and its side effects before I signed anything. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Ogawa Hitomi, Radiology, Kyoto
+Rating: 7/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 6 for Dr. Ogawa Hitomi, Radiology, Kyoto
+Rating: 7/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Dr. Ogawa Hitomi was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Ogawa Hitomi, Radiology, Kyoto
+Rating: 7/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Ogawa Hitomi, Radiology, Kyoto
+Rating: 9/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. Booking a CT scan online at Karasuma Matsu Family Clinic took two minutes, and I was in and out within forty minutes.
+
+Overall rating for Dr. Ogawa Hitomi, Radiology, Kyoto: 7.88/10 from 8 reviews

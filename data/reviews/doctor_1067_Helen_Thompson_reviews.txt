@@ -1,0 +1,59 @@
+Doctor: Dr. Helen Thompson
+Doctor ID: 1067
+Specialization: Neurology
+Gender: Female
+Years of experience: 3
+City: Edinburgh, UK
+Clinics: Queen Street Medical Centre (clinic ID 140); Raeburn Place Medical Practice (clinic ID 144)
+
+Review 1 for Dr. Helen Thompson, Neurology, Edinburgh
+Rating: 10/10
+Clinic visited: Raeburn Place Medical Practice
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 2 for Dr. Helen Thompson, Neurology, Edinburgh
+Rating: 9/10
+Clinic visited: Queen Street Medical Centre
+Description: The neurological exam by Dr. Helen Thompson was thorough, with every reflex test and gait check explained as it happened. My referral letter was written on the spot, and the specialist's office had my details before I called. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Helen Thompson, Neurology, Edinburgh
+Rating: 9/10
+Clinic visited: Queen Street Medical Centre
+Description: Getting a same-month appointment in Edinburgh for my sudden headaches was a real relief, and the work-up was prompt. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Helen Thompson, Neurology, Edinburgh
+Rating: 8/10
+Clinic visited: Queen Street Medical Centre
+Description: She patiently explained my MRI findings and calmed my worries about memory problems. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 5 for Dr. Helen Thompson, Neurology, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Good bedside manner from Dr. Helen Thompson, but the parking near Raeburn Place Medical Practice is limited and I had to circle for fifteen minutes. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 6 for Dr. Helen Thompson, Neurology, Edinburgh
+Rating: 9/10
+Clinic visited: Raeburn Place Medical Practice
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Dr. Helen Thompson took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy.
+
+Review 7 for Dr. Helen Thompson, Neurology, Edinburgh
+Rating: 9/10
+Clinic visited: Queen Street Medical Centre
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Helen Thompson, Neurology, Edinburgh
+Rating: 9/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Dr. Helen Thompson looked me in the eye, listened to the whole story and only then started typing. Living with multiple sclerosis feels less frightening because Dr. Helen Thompson explains and discusses every change in my plan. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Helen Thompson, Neurology, Edinburgh
+Rating: 10/10
+Clinic visited: Raeburn Place Medical Practice
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Raeburn Place Medical Practice. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 10 for Dr. Helen Thompson, Neurology, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Helen Thompson, Neurology, Edinburgh: 8.70/10 from 10 reviews

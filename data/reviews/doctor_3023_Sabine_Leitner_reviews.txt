@@ -1,0 +1,59 @@
+Doctor: Dr. Sabine Leitner
+Doctor ID: 3023
+Specialization: Pathology
+Gender: Female
+Years of experience: 26
+City: Vienna, Austria
+Clinics: Medizinisches Zentrum Landstraße (clinic ID 393)
+
+Review 1 for Dr. Sabine Leitner, Pathology, Vienna
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Sabine Leitner, Pathology, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Booking online at Medizinisches Zentrum Landstraße was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 3 for Dr. Sabine Leitner, Pathology, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 4 for Dr. Sabine Leitner, Pathology, Vienna
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Allergy panel results were explained in detail by Dr. Sabine Leitner, with a note on which results mattered clinically and which did not. A translator was arranged for my mother without us asking twice, and Dr. Sabine Leitner spoke directly to her throughout.
+
+Review 5 for Dr. Sabine Leitner, Pathology, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: I liked the advice I got from Dr. Sabine Leitner, but I would have liked more time to ask follow-up questions before the visit ended. Dr. Sabine Leitner answered my questions kindly, though the call back took three days. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Sabine Leitner, Pathology, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 7 for Dr. Sabine Leitner, Pathology, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The practice in Vienna is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 8 for Dr. Sabine Leitner, Pathology, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Paperwork at Medizinisches Zentrum Landstraße was kept to a minimum, and the staff helped me complete the insurance form. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Sabine Leitner, Pathology, Vienna
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Good bedside manner from Dr. Sabine Leitner, but the parking near Medizinisches Zentrum Landstraße is limited and I had to circle for fifteen minutes.
+
+Review 10 for Dr. Sabine Leitner, Pathology, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. Sensitive questions were handled by Dr. Sabine Leitner with discretion and without a hint of judgment.
+
+Overall rating for Dr. Sabine Leitner, Pathology, Vienna: 7.80/10 from 10 reviews

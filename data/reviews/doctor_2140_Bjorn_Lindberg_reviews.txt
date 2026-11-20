@@ -1,0 +1,64 @@
+Doctor: Dr. Björn Lindberg
+Doctor ID: 2140
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 6
+City: Gothenburg, Sweden
+Clinics: Läkarmottagningen Långgatan (clinic ID 279)
+
+Review 1 for Dr. Björn Lindberg, Orthopedic, Gothenburg
+Rating: 9/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: I was given a printed summary of the visit, which I shared with my family at home. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Björn Lindberg, Orthopedic, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. The treatment plan from Dr. Björn Lindberg made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Björn Lindberg, Orthopedic, Gothenburg
+Rating: 9/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Getting around Gothenburg on crutches was hard, but the accessible entrance and short waiting time at Läkarmottagningen Långgatan helped a lot.
+
+Review 4 for Dr. Björn Lindberg, Orthopedic, Gothenburg
+Rating: 10/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Follow-up scans were compared with the earlier ones, and Dr. Björn Lindberg showed me how the bone had healed. A translator was arranged for my mother without us asking twice, and Dr. Björn Lindberg spoke directly to her throughout.
+
+Review 5 for Dr. Björn Lindberg, Orthopedic, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Björn Lindberg, Orthopedic, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 7 for Dr. Björn Lindberg, Orthopedic, Gothenburg
+Rating: 10/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 8 for Dr. Björn Lindberg, Orthopedic, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Björn Lindberg, Orthopedic, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 10 for Dr. Björn Lindberg, Orthopedic, Gothenburg
+Rating: 9/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: I appreciated Dr. Björn Lindberg's honest comparison between injections, therapy and surgery for my hip pain. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 11 for Dr. Björn Lindberg, Orthopedic, Gothenburg
+Rating: 10/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule.
+
+Overall rating for Dr. Björn Lindberg, Orthopedic, Gothenburg: 8.55/10 from 11 reviews

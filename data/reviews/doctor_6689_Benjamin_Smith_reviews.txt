@@ -1,0 +1,69 @@
+Doctor: Dr. Benjamin Smith
+Doctor ID: 6689
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 15
+City: Hamilton, New Zealand
+Clinics: Hauraki Health Clinic (clinic ID 867)
+
+Review 1 for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton
+Rating: 9/10
+Clinic visited: Hauraki Health Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton
+Rating: 6/10
+Clinic visited: Hauraki Health Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton
+Rating: 6/10
+Clinic visited: Hauraki Health Clinic
+Description: A respectful exam, but I wished for more discussion on pain management before my procedure. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton
+Rating: 8/10
+Clinic visited: Hauraki Health Clinic
+Description: Throughout my pregnancy Dr. Benjamin Smith answered every question patiently, including the many late-night worries I sent through the portal.
+
+Review 5 for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton
+Rating: 7/10
+Clinic visited: Hauraki Health Clinic
+Description: Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton
+Rating: 6/10
+Clinic visited: Hauraki Health Clinic
+Description: The ultrasound images from Dr. Benjamin Smith were great, but I had to call twice to get the written report. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton
+Rating: 4/10
+Clinic visited: Hauraki Health Clinic
+Description: The staff at Hauraki Health Clinic were curt on the phone, and it took four attempts to book a simple follow-up. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 8 for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton
+Rating: 6/10
+Clinic visited: Hauraki Health Clinic
+Description: Dr. Benjamin Smith explained my options well, though the office was often running an hour behind.
+
+Review 9 for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton
+Rating: 5/10
+Clinic visited: Hauraki Health Clinic
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history.
+
+Review 10 for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton
+Rating: 6/10
+Clinic visited: Hauraki Health Clinic
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit.
+
+Review 11 for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton
+Rating: 5/10
+Clinic visited: Hauraki Health Clinic
+Description: Quick appointment and a fair price in Hamilton, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 12 for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton
+Rating: 6/10
+Clinic visited: Hauraki Health Clinic
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Benjamin Smith, Obstetrics and Gynecology (OB/GYN), Hamilton: 6.17/10 from 12 reviews

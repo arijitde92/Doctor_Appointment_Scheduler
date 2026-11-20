@@ -1,0 +1,49 @@
+Doctor: Dr. Chua Yi Ting
+Doctor ID: 4583
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 14
+City: Singapore, Singapore
+Clinics: Banyan Tree Medical (clinic ID 592)
+
+Review 1 for Dr. Chua Yi Ting, Pediatrics, Singapore
+Rating: 5/10
+Clinic visited: Banyan Tree Medical
+Description: Caring and gentle with my child, Dr. Chua Yi Ting nonetheless ran forty minutes behind schedule at most appointments. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Chua Yi Ting, Pediatrics, Singapore
+Rating: 7/10
+Clinic visited: Banyan Tree Medical
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 3 for Dr. Chua Yi Ting, Pediatrics, Singapore
+Rating: 8/10
+Clinic visited: Banyan Tree Medical
+Description: Dr. Chua Yi Ting noticed a speech delay early and referred us to a therapist, which has made a real difference. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 4 for Dr. Chua Yi Ting, Pediatrics, Singapore
+Rating: 7/10
+Clinic visited: Banyan Tree Medical
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 5 for Dr. Chua Yi Ting, Pediatrics, Singapore
+Rating: 6/10
+Clinic visited: Banyan Tree Medical
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Chua Yi Ting, Pediatrics, Singapore
+Rating: 5/10
+Clinic visited: Banyan Tree Medical
+Description: Dr. Chua Yi Ting is thorough with exams, but the after-hours phone line at Banyan Tree Medical is hard to reach.
+
+Review 7 for Dr. Chua Yi Ting, Pediatrics, Singapore
+Rating: 6/10
+Clinic visited: Banyan Tree Medical
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Chua Yi Ting, Pediatrics, Singapore
+Rating: 7/10
+Clinic visited: Banyan Tree Medical
+Description: Booking was easy online, but the confirmation email contained the wrong address for Banyan Tree Medical. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Overall rating for Dr. Chua Yi Ting, Pediatrics, Singapore: 6.38/10 from 8 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Valérie Martinez
+Doctor ID: 1212
+Specialization: Neurology
+Gender: Female
+Years of experience: 28
+City: Lyon, France
+Clinics: Centre de Santé Croix-Rousse (clinic ID 158)
+
+Review 1 for Dr. Valérie Martinez, Neurology, Lyon
+Rating: 5/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 2 for Dr. Valérie Martinez, Neurology, Lyon
+Rating: 7/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Valérie Martinez, Neurology, Lyon
+Rating: 8/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 4 for Dr. Valérie Martinez, Neurology, Lyon
+Rating: 7/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: Dr. Valérie Martinez was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 5 for Dr. Valérie Martinez, Neurology, Lyon
+Rating: 7/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Valérie Martinez, Neurology, Lyon
+Rating: 9/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 7 for Dr. Valérie Martinez, Neurology, Lyon
+Rating: 8/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: The neurological exam by Dr. Valérie Martinez was thorough, with every reflex test and gait check explained as it happened.
+
+Review 8 for Dr. Valérie Martinez, Neurology, Lyon
+Rating: 8/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Valérie Martinez, Neurology, Lyon
+Rating: 7/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Supportive about my diagnosis, yet follow-up appointments with Dr. Valérie Martinez at Centre de Santé Croix-Rousse are difficult to schedule.
+
+Review 10 for Dr. Valérie Martinez, Neurology, Lyon
+Rating: 9/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: Dr. Valérie Martinez used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 11 for Dr. Valérie Martinez, Neurology, Lyon
+Rating: 7/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: I liked the advice I got from Dr. Valérie Martinez, but I would have liked more time to ask follow-up questions before the visit ended. Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Overall rating for Dr. Valérie Martinez, Neurology, Lyon: 7.45/10 from 11 reviews

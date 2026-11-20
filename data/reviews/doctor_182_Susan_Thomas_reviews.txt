@@ -1,0 +1,49 @@
+Doctor: Dr. Susan Thomas
+Doctor ID: 182
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 29
+City: New York, USA
+Clinics: Parkview Primary Care Associates (clinic ID 25)
+
+Review 1 for Dr. Susan Thomas, Pediatrics, New York
+Rating: 8/10
+Clinic visited: Parkview Primary Care Associates
+Description: Appointment reminders came by text and email, and rescheduling took two taps. The school physical at Parkview Primary Care Associates was quick, thorough and the forms were completed on the spot. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Susan Thomas, Pediatrics, New York
+Rating: 9/10
+Clinic visited: Parkview Primary Care Associates
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. I came away understanding my condition better than I have in years of previous appointments. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Susan Thomas, Pediatrics, New York
+Rating: 9/10
+Clinic visited: Parkview Primary Care Associates
+Description: A translator was arranged for my mother without us asking twice, and Dr. Susan Thomas spoke directly to her throughout. The waiting room in New York has a play corner and separate seating for sick children, which I really valued.
+
+Review 4 for Dr. Susan Thomas, Pediatrics, New York
+Rating: 10/10
+Clinic visited: Parkview Primary Care Associates
+Description: Sensitive questions were handled by Dr. Susan Thomas with discretion and without a hint of judgment.
+
+Review 5 for Dr. Susan Thomas, Pediatrics, New York
+Rating: 4/10
+Clinic visited: Parkview Primary Care Associates
+Description: I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why. Dr. Susan Thomas did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 6 for Dr. Susan Thomas, Pediatrics, New York
+Rating: 9/10
+Clinic visited: Parkview Primary Care Associates
+Description: Dr. Susan Thomas used a calm, steady voice that settled my nerves before a stressful procedure. Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Susan Thomas, Pediatrics, New York
+Rating: 8/10
+Clinic visited: Parkview Primary Care Associates
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 8 for Dr. Susan Thomas, Pediatrics, New York
+Rating: 7/10
+Clinic visited: Parkview Primary Care Associates
+Description: Good bedside manner from Dr. Susan Thomas, but the parking near Parkview Primary Care Associates is limited and I had to circle for fifteen minutes. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Susan Thomas, Pediatrics, New York: 8.00/10 from 8 reviews

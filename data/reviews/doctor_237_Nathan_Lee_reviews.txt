@@ -1,0 +1,59 @@
+Doctor: Dr. Nathan Lee
+Doctor ID: 237
+Specialization: Neurology
+Gender: Male
+Years of experience: 4
+City: San Francisco, USA
+Clinics: Sunset District Clinic (clinic ID 33)
+
+Review 1 for Dr. Nathan Lee, Neurology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 2 for Dr. Nathan Lee, Neurology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 3 for Dr. Nathan Lee, Neurology, San Francisco
+Rating: 10/10
+Clinic visited: Sunset District Clinic
+Description: Living with multiple sclerosis feels less frightening because Dr. Nathan Lee explains and discusses every change in my plan. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 4 for Dr. Nathan Lee, Neurology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 5 for Dr. Nathan Lee, Neurology, San Francisco
+Rating: 10/10
+Clinic visited: Sunset District Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 6 for Dr. Nathan Lee, Neurology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: Getting to Sunset District Clinic by public transport in San Francisco was easy, and there is a step-free entrance for wheelchairs. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Nathan Lee, Neurology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: The memory assessment for my father at Sunset District Clinic was gentle and respectful, and the family received a clear written summary.
+
+Review 8 for Dr. Nathan Lee, Neurology, San Francisco
+Rating: 10/10
+Clinic visited: Sunset District Clinic
+Description: Paperwork at Sunset District Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 9 for Dr. Nathan Lee, Neurology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: Everything was explained in plain English by Dr. Nathan Lee, and nothing was left to guess. The neurological exam by Dr. Nathan Lee was thorough, with every reflex test and gait check explained as it happened.
+
+Review 10 for Dr. Nathan Lee, Neurology, San Francisco
+Rating: 10/10
+Clinic visited: Sunset District Clinic
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Sunset District Clinic. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Overall rating for Dr. Nathan Lee, Neurology, San Francisco: 9.40/10 from 10 reviews

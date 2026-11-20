@@ -1,0 +1,49 @@
+Doctor: Dr. Megan White
+Doctor ID: 6529
+Specialization: Psychology
+Gender: Female
+Years of experience: 12
+City: Perth, Australia
+Clinics: Jacaranda Family Practice (clinic ID 845); Outback Road Medical (clinic ID 846); Boronia Health Centre (clinic ID 847)
+
+Review 1 for Dr. Megan White, Psychology, Perth
+Rating: 7/10
+Clinic visited: Outback Road Medical
+Description: Dr. Megan White listens well, though some sessions felt like a recap of the previous one without much new direction. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Megan White, Psychology, Perth
+Rating: 6/10
+Clinic visited: Jacaranda Family Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Megan White, Psychology, Perth
+Rating: 9/10
+Clinic visited: Boronia Health Centre
+Description: I appreciated the written summary Dr. Megan White sent after each session and the short worksheets between visits. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 4 for Dr. Megan White, Psychology, Perth
+Rating: 6/10
+Clinic visited: Outback Road Medical
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 5 for Dr. Megan White, Psychology, Perth
+Rating: 9/10
+Clinic visited: Outback Road Medical
+Description: Sessions with Dr. Megan White start on time and end on time, which is a small thing that made me feel respected. Appointment reminders came by text and email, and rescheduling took two taps. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Megan White, Psychology, Perth
+Rating: 7/10
+Clinic visited: Boronia Health Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Megan White, Psychology, Perth
+Rating: 9/10
+Clinic visited: Boronia Health Centre
+Description: Warm, patient and honest, Dr. Megan White told me what progress to expect and it matched reality.
+
+Review 8 for Dr. Megan White, Psychology, Perth
+Rating: 8/10
+Clinic visited: Boronia Health Centre
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Overall rating for Dr. Megan White, Psychology, Perth: 7.62/10 from 8 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Teresa Galli
+Doctor ID: 3409
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 17
+City: Milan, Italy
+Clinics: Studio Medico Brera (clinic ID 442)
+
+Review 1 for Dr. Teresa Galli, Pediatrics, Milan
+Rating: 5/10
+Clinic visited: Studio Medico Brera
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Caring and gentle with my child, Dr. Teresa Galli nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 2 for Dr. Teresa Galli, Pediatrics, Milan
+Rating: 8/10
+Clinic visited: Studio Medico Brera
+Description: My toddler was terrified of doctors, but Dr. Teresa Galli sat on the floor, played with a stuffed toy and examined everything without a single tear. Dr. Teresa Galli drew a quick sketch to explain what was going on, which helped me remember it afterwards. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Teresa Galli, Pediatrics, Milan
+Rating: 8/10
+Clinic visited: Studio Medico Brera
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice.
+
+Review 4 for Dr. Teresa Galli, Pediatrics, Milan
+Rating: 8/10
+Clinic visited: Studio Medico Brera
+Description: Our family has been coming for years, and she remembers each child's history and personality.
+
+Review 5 for Dr. Teresa Galli, Pediatrics, Milan
+Rating: 8/10
+Clinic visited: Studio Medico Brera
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Teresa Galli, Pediatrics, Milan
+Rating: 7/10
+Clinic visited: Studio Medico Brera
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 7 for Dr. Teresa Galli, Pediatrics, Milan
+Rating: 8/10
+Clinic visited: Studio Medico Brera
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Teresa Galli, Pediatrics, Milan
+Rating: 7/10
+Clinic visited: Studio Medico Brera
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Teresa Galli, Pediatrics, Milan
+Rating: 7/10
+Clinic visited: Studio Medico Brera
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Teresa Galli, Pediatrics, Milan
+Rating: 7/10
+Clinic visited: Studio Medico Brera
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 11 for Dr. Teresa Galli, Pediatrics, Milan
+Rating: 7/10
+Clinic visited: Studio Medico Brera
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 12 for Dr. Teresa Galli, Pediatrics, Milan
+Rating: 9/10
+Clinic visited: Studio Medico Brera
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Overall rating for Dr. Teresa Galli, Pediatrics, Milan: 7.42/10 from 12 reviews

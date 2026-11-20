@@ -1,0 +1,59 @@
+Doctor: Dr. Hussain Mackeen
+Doctor ID: 5657
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 3
+City: Kandy, Sri Lanka
+Clinics: Mahaweli Medical Centre (clinic ID 731)
+
+Review 1 for Dr. Hussain Mackeen, Pediatrics, Kandy
+Rating: 9/10
+Clinic visited: Mahaweli Medical Centre
+Description: We got a same-day appointment for a high fever, and the care at Mahaweli Medical Centre was kind and efficient.
+
+Review 2 for Dr. Hussain Mackeen, Pediatrics, Kandy
+Rating: 7/10
+Clinic visited: Mahaweli Medical Centre
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 3 for Dr. Hussain Mackeen, Pediatrics, Kandy
+Rating: 4/10
+Clinic visited: Mahaweli Medical Centre
+Description: The waiting room at Mahaweli Medical Centre was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 4 for Dr. Hussain Mackeen, Pediatrics, Kandy
+Rating: 6/10
+Clinic visited: Mahaweli Medical Centre
+Description: Quick appointment and a fair price in Kandy, but the staff seemed overwhelmed and a bit curt on the phone. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Hussain Mackeen, Pediatrics, Kandy
+Rating: 7/10
+Clinic visited: Mahaweli Medical Centre
+Description: Dr. Hussain Mackeen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Hussain Mackeen, Pediatrics, Kandy
+Rating: 9/10
+Clinic visited: Mahaweli Medical Centre
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. My teenager actually spoke up during the visit, and Dr. Hussain Mackeen handled sensitive topics with respect. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Hussain Mackeen, Pediatrics, Kandy
+Rating: 8/10
+Clinic visited: Mahaweli Medical Centre
+Description: I was given a printed summary of the visit, which I shared with my family at home. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Hussain Mackeen, Pediatrics, Kandy
+Rating: 6/10
+Clinic visited: Mahaweli Medical Centre
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 9 for Dr. Hussain Mackeen, Pediatrics, Kandy
+Rating: 6/10
+Clinic visited: Mahaweli Medical Centre
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 10 for Dr. Hussain Mackeen, Pediatrics, Kandy
+Rating: 7/10
+Clinic visited: Mahaweli Medical Centre
+Description: Caring and gentle with my child, Dr. Hussain Mackeen nonetheless ran forty minutes behind schedule at most appointments. The treatment plan from Dr. Hussain Mackeen made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Hussain Mackeen, Pediatrics, Kandy: 6.90/10 from 10 reviews

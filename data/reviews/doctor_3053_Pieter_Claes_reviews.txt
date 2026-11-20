@@ -1,0 +1,49 @@
+Doctor: Dr. Pieter Claes
+Doctor ID: 3053
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 10
+City: Antwerp, Belgium
+Clinics: Polikliniek Het Zuid (clinic ID 397)
+
+Review 1 for Dr. Pieter Claes, Psychiatry, Antwerp
+Rating: 10/10
+Clinic visited: Polikliniek Het Zuid
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Never once did Dr. Pieter Claes make me feel weak for asking for help, and the stigma I carried really began to ease. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Pieter Claes, Psychiatry, Antwerp
+Rating: 8/10
+Clinic visited: Polikliniek Het Zuid
+Description: Appointments in Antwerp are always on schedule, and the waiting area is peaceful and private.
+
+Review 3 for Dr. Pieter Claes, Psychiatry, Antwerp
+Rating: 6/10
+Clinic visited: Polikliniek Het Zuid
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 4 for Dr. Pieter Claes, Psychiatry, Antwerp
+Rating: 6/10
+Clinic visited: Polikliniek Het Zuid
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I liked the advice I got from Dr. Pieter Claes, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 5 for Dr. Pieter Claes, Psychiatry, Antwerp
+Rating: 7/10
+Clinic visited: Polikliniek Het Zuid
+Description: Dr. Pieter Claes is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 6 for Dr. Pieter Claes, Psychiatry, Antwerp
+Rating: 8/10
+Clinic visited: Polikliniek Het Zuid
+Description: A same-day slot was found for me at Polikliniek Het Zuid when I called with a worrying symptom. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Pieter Claes, Psychiatry, Antwerp
+Rating: 4/10
+Clinic visited: Polikliniek Het Zuid
+Description: Dr. Pieter Claes seemed to focus on the paperwork, and I did not feel I could share what was really going on. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 8 for Dr. Pieter Claes, Psychiatry, Antwerp
+Rating: 7/10
+Clinic visited: Polikliniek Het Zuid
+Description: Dr. Pieter Claes was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Pieter Claes, Psychiatry, Antwerp: 7.00/10 from 8 reviews

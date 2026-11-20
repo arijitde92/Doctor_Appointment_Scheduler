@@ -1,0 +1,59 @@
+Doctor: Dr. Astrid Karlsen
+Doctor ID: 1951
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 20
+City: Bergen, Norway
+Clinics: Legesenteret Torgallmenningen (clinic ID 255)
+
+Review 1 for Dr. Astrid Karlsen, Gastroenterology, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Astrid Karlsen, Gastroenterology, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Knowledgeable about my reflux, Dr. Astrid Karlsen still gave diet advice that felt generic and not tailored to my habits. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Astrid Karlsen, Gastroenterology, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Astrid Karlsen, Gastroenterology, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Astrid Karlsen, Gastroenterology, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Dr. Astrid Karlsen is thorough, but I waited nearly two months to get the first available slot. Quick appointment and a fair price in Bergen, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Astrid Karlsen, Gastroenterology, Bergen
+Rating: 5/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 7 for Dr. Astrid Karlsen, Gastroenterology, Bergen
+Rating: 8/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. Dr. Astrid Karlsen used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 8 for Dr. Astrid Karlsen, Gastroenterology, Bergen
+Rating: 5/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Astrid Karlsen, Gastroenterology, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 10 for Dr. Astrid Karlsen, Gastroenterology, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Dr. Astrid Karlsen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Astrid Karlsen, Gastroenterology, Bergen: 6.50/10 from 10 reviews

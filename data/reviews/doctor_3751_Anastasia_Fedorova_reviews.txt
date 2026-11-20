@@ -1,0 +1,64 @@
+Doctor: Dr. Anastasia Fedorova
+Doctor ID: 3751
+Specialization: Cardiology
+Gender: Female
+Years of experience: 6
+City: Moscow, Russia
+Clinics: Klinika Beryozka (clinic ID 484)
+
+Review 1 for Dr. Anastasia Fedorova, Cardiology, Moscow
+Rating: 9/10
+Clinic visited: Klinika Beryozka
+Description: The cardiology unit at Klinika Beryozka runs on time, and the technicians were professional during my echocardiogram.
+
+Review 2 for Dr. Anastasia Fedorova, Cardiology, Moscow
+Rating: 6/10
+Clinic visited: Klinika Beryozka
+Description: Dr. Anastasia Fedorova adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 3 for Dr. Anastasia Fedorova, Cardiology, Moscow
+Rating: 6/10
+Clinic visited: Klinika Beryozka
+Description: Great care in the visit itself, but the billing for the tests at Klinika Beryozka was confusing. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Anastasia Fedorova, Cardiology, Moscow
+Rating: 7/10
+Clinic visited: Klinika Beryozka
+Description: I liked the advice I got from Dr. Anastasia Fedorova, but I would have liked more time to ask follow-up questions before the visit ended. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Anastasia Fedorova, Cardiology, Moscow
+Rating: 9/10
+Clinic visited: Klinika Beryozka
+Description: Honest about the risks and benefits of the procedure, Dr. Anastasia Fedorova never pressured me toward surgery. My test results arrived in the portal within two days, together with a short note that made sense. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Anastasia Fedorova, Cardiology, Moscow
+Rating: 9/10
+Clinic visited: Klinika Beryozka
+Description: My stress test was supervised carefully, and Dr. Anastasia Fedorova reviewed the results in the same visit with a plan for my cholesterol. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Anastasia Fedorova, Cardiology, Moscow
+Rating: 9/10
+Clinic visited: Klinika Beryozka
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 8 for Dr. Anastasia Fedorova, Cardiology, Moscow
+Rating: 7/10
+Clinic visited: Klinika Beryozka
+Description: The treatment plan from Dr. Anastasia Fedorova made sense, but I wished it had been written down for me to take away. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 9 for Dr. Anastasia Fedorova, Cardiology, Moscow
+Rating: 5/10
+Clinic visited: Klinika Beryozka
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Quick appointment and a fair price in Moscow, but the staff seemed overwhelmed and a bit curt on the phone. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Anastasia Fedorova, Cardiology, Moscow
+Rating: 7/10
+Clinic visited: Klinika Beryozka
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 11 for Dr. Anastasia Fedorova, Cardiology, Moscow
+Rating: 9/10
+Clinic visited: Klinika Beryozka
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Managing my blood pressure with Dr. Anastasia Fedorova has been steady and practical, with home readings reviewed at every visit. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Anastasia Fedorova, Cardiology, Moscow: 7.55/10 from 11 reviews

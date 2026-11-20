@@ -1,0 +1,59 @@
+Doctor: Dr. Adam Woźniak
+Doctor ID: 2748
+Specialization: General
+Gender: Male
+Years of experience: 9
+City: Krakow, Poland
+Clinics: Centrum Medyczne Floriańska Plus (clinic ID 360); Przychodnia Podgórze Wisła (clinic ID 361)
+
+Review 1 for Dr. Adam Woźniak, General, Krakow
+Rating: 6/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Adam Woźniak, General, Krakow
+Rating: 8/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: Managing my type 2 diabetes with Dr. Adam Woźniak has been steady and practical, with quarterly blood sugar reviews and no lectures. Booking online at Centrum Medyczne Floriańska Plus was simple, and I got a confirmation text with clear directions and a reminder the day before. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Adam Woźniak, General, Krakow
+Rating: 7/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Adam Woźniak, General, Krakow
+Rating: 7/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: Dr. Adam Woźniak is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 5 for Dr. Adam Woźniak, General, Krakow
+Rating: 7/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: Referrals from Dr. Adam Woźniak are handled well, but getting test results back took longer than I was told to expect.
+
+Review 6 for Dr. Adam Woźniak, General, Krakow
+Rating: 7/10
+Clinic visited: Przychodnia Podgórze Wisła
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Przychodnia Podgórze Wisła were inconsistent. Dr. Adam Woźniak was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Adam Woźniak, General, Krakow
+Rating: 6/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: I got what I needed, but the next available appointment was three weeks away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Adam Woźniak, General, Krakow
+Rating: 5/10
+Clinic visited: Przychodnia Podgórze Wisła
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Dr. Adam Woźniak was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 9 for Dr. Adam Woźniak, General, Krakow
+Rating: 8/10
+Clinic visited: Przychodnia Podgórze Wisła
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. My blood pressure had crept up and Dr. Adam Woźniak walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 10 for Dr. Adam Woźniak, General, Krakow
+Rating: 7/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Adam Woźniak, General, Krakow: 6.80/10 from 10 reviews

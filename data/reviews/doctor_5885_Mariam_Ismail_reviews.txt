@@ -1,0 +1,69 @@
+Doctor: Dr. Mariam Ismail
+Doctor ID: 5885
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 3
+City: Cairo, Egypt
+Clinics: Nile Garden Family Clinic (clinic ID 760); Nasr City Shifa Medical Centre (clinic ID 761); Heliopolis Salama Polyclinic (clinic ID 762)
+
+Review 1 for Dr. Mariam Ismail, Psychiatry, Cairo
+Rating: 8/10
+Clinic visited: Nile Garden Family Clinic
+Description: Sensitive questions were handled by Dr. Mariam Ismail with discretion and without a hint of judgment. Appointments in Cairo are always on schedule, and the waiting area is peaceful and private. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Mariam Ismail, Psychiatry, Cairo
+Rating: 8/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: Dr. Mariam Ismail took a full history before suggesting any medication and explained the likely side effects honestly. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 3 for Dr. Mariam Ismail, Psychiatry, Cairo
+Rating: 8/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 4 for Dr. Mariam Ismail, Psychiatry, Cairo
+Rating: 6/10
+Clinic visited: Nasr City Shifa Medical Centre
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 5 for Dr. Mariam Ismail, Psychiatry, Cairo
+Rating: 9/10
+Clinic visited: Nile Garden Family Clinic
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 6 for Dr. Mariam Ismail, Psychiatry, Cairo
+Rating: 8/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 7 for Dr. Mariam Ismail, Psychiatry, Cairo
+Rating: 6/10
+Clinic visited: Nasr City Shifa Medical Centre
+Description: Dr. Mariam Ismail is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 8 for Dr. Mariam Ismail, Psychiatry, Cairo
+Rating: 7/10
+Clinic visited: Nile Garden Family Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 9 for Dr. Mariam Ismail, Psychiatry, Cairo
+Rating: 9/10
+Clinic visited: Nasr City Shifa Medical Centre
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 10 for Dr. Mariam Ismail, Psychiatry, Cairo
+Rating: 9/10
+Clinic visited: Nile Garden Family Clinic
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 11 for Dr. Mariam Ismail, Psychiatry, Cairo
+Rating: 5/10
+Clinic visited: Nasr City Shifa Medical Centre
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Good bedside manner from Dr. Mariam Ismail, but the parking near Nasr City Shifa Medical Centre is limited and I had to circle for fifteen minutes.
+
+Review 12 for Dr. Mariam Ismail, Psychiatry, Cairo
+Rating: 8/10
+Clinic visited: Nile Garden Family Clinic
+Description: My family was included in a session at my request, and Dr. Mariam Ismail handled it with great tact. Everything was explained in plain English by Dr. Mariam Ismail, and nothing was left to guess.
+
+Overall rating for Dr. Mariam Ismail, Psychiatry, Cairo: 7.58/10 from 12 reviews

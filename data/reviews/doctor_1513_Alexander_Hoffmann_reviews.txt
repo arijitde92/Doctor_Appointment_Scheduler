@@ -1,0 +1,64 @@
+Doctor: Dr. Alexander Hoffmann
+Doctor ID: 1513
+Specialization: Psychology
+Gender: Male
+Years of experience: 24
+City: Berlin, Germany
+Clinics: Gesundheitspraxis Prenzlauer Tor (clinic ID 197)
+
+Review 1 for Dr. Alexander Hoffmann, Psychology, Berlin
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: He has a calm way of asking the difficult questions that makes it feel safe to answer honestly.
+
+Review 2 for Dr. Alexander Hoffmann, Psychology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Alexander Hoffmann, Psychology, Berlin
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Dr. Alexander Hoffmann listens well, though some sessions felt like a recap of the previous one without much new direction. I liked the advice I got from Dr. Alexander Hoffmann, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Alexander Hoffmann, Psychology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. The treatment plan from Dr. Alexander Hoffmann made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Alexander Hoffmann, Psychology, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Online sessions through Gesundheitspraxis Prenzlauer Tor worked just as well as in-person ones, and the video link never once failed. The practice in Berlin is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Alexander Hoffmann, Psychology, Berlin
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Alexander Hoffmann, Psychology, Berlin
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Couples therapy at Gesundheitspraxis Prenzlauer Tor helped us stop repeating the same argument. We now have a way to pause and listen. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 8 for Dr. Alexander Hoffmann, Psychology, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Review 9 for Dr. Alexander Hoffmann, Psychology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Good bedside manner from Dr. Alexander Hoffmann, but the parking near Gesundheitspraxis Prenzlauer Tor is limited and I had to circle for fifteen minutes.
+
+Review 10 for Dr. Alexander Hoffmann, Psychology, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 11 for Dr. Alexander Hoffmann, Psychology, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Alexander Hoffmann gave me practical tools I still use. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Alexander Hoffmann, Psychology, Berlin: 7.55/10 from 11 reviews

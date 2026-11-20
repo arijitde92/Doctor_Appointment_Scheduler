@@ -1,0 +1,59 @@
+Doctor: Dr. Anna Wagner
+Doctor ID: 2978
+Specialization: General
+Gender: Female
+Years of experience: 4
+City: Salzburg, Austria
+Clinics: Medizinisches Zentrum Maxglan (clinic ID 388)
+
+Review 1 for Dr. Anna Wagner, General, Salzburg
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 2 for Dr. Anna Wagner, General, Salzburg
+Rating: 4/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: There was no translator available, and my parent was left unable to follow what was being said. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 3 for Dr. Anna Wagner, General, Salzburg
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: Dr. Anna Wagner is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 4 for Dr. Anna Wagner, General, Salzburg
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: Vaccination advice from Dr. Anna Wagner for my travel plans was thorough and specific to the countries I was visiting. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Anna Wagner, General, Salzburg
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: I always hear back within a day when I leave a question with the nurse at Medizinisches Zentrum Maxglan, and Dr. Anna Wagner follows up on lab results personally.
+
+Review 6 for Dr. Anna Wagner, General, Salzburg
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Anna Wagner, General, Salzburg
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Anna Wagner, General, Salzburg
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 9 for Dr. Anna Wagner, General, Salzburg
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 10 for Dr. Anna Wagner, General, Salzburg
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Referrals from Dr. Anna Wagner are handled well, but getting test results back took longer than I was told to expect.
+
+Overall rating for Dr. Anna Wagner, General, Salzburg: 6.90/10 from 10 reviews

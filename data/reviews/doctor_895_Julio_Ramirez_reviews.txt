@@ -1,0 +1,59 @@
+Doctor: Dr. Julio Ramírez
+Doctor ID: 895
+Specialization: General
+Gender: Male
+Years of experience: 1
+City: Arequipa, Peru
+Clinics: Policlínica Bustamante (clinic ID 118)
+
+Review 1 for Dr. Julio Ramírez, General, Arequipa
+Rating: 8/10
+Clinic visited: Policlínica Bustamante
+Description: Vaccination advice from Dr. Julio Ramírez for my travel plans was thorough and specific to the countries I was visiting. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 2 for Dr. Julio Ramírez, General, Arequipa
+Rating: 8/10
+Clinic visited: Policlínica Bustamante
+Description: My annual check-up with Dr. Julio Ramírez took forty minutes, with every screening explained and nothing rushed. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Julio Ramírez, General, Arequipa
+Rating: 9/10
+Clinic visited: Policlínica Bustamante
+Description: By the time I left the room, Dr. Julio Ramírez had sorted the sick note, referral letter and prescription refill. Booking online at Policlínica Bustamante was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 4 for Dr. Julio Ramírez, General, Arequipa
+Rating: 8/10
+Clinic visited: Policlínica Bustamante
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. Sensitive questions were handled by Dr. Julio Ramírez with discretion and without a hint of judgment.
+
+Review 5 for Dr. Julio Ramírez, General, Arequipa
+Rating: 8/10
+Clinic visited: Policlínica Bustamante
+Description: I always hear back within a day when I leave a question with the nurse at Policlínica Bustamante, and Dr. Julio Ramírez follows up on lab results personally.
+
+Review 6 for Dr. Julio Ramírez, General, Arequipa
+Rating: 9/10
+Clinic visited: Policlínica Bustamante
+Description: As a new patient in Arequipa, I felt welcomed at Policlínica Bustamante, and my whole history was reviewed in one relaxed visit. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Julio Ramírez, General, Arequipa
+Rating: 10/10
+Clinic visited: Policlínica Bustamante
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Getting to Policlínica Bustamante from across Arequipa was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 8 for Dr. Julio Ramírez, General, Arequipa
+Rating: 10/10
+Clinic visited: Policlínica Bustamante
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 9 for Dr. Julio Ramírez, General, Arequipa
+Rating: 10/10
+Clinic visited: Policlínica Bustamante
+Description: I went in with months of tiredness, and Dr. Julio Ramírez ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. My whole family is switching over after seeing how good the care was.
+
+Review 10 for Dr. Julio Ramírez, General, Arequipa
+Rating: 8/10
+Clinic visited: Policlínica Bustamante
+Description: A translator was arranged for my mother without us asking twice, and Dr. Julio Ramírez spoke directly to her throughout. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Julio Ramírez, General, Arequipa: 8.80/10 from 10 reviews

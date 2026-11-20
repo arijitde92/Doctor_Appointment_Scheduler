@@ -1,0 +1,54 @@
+Doctor: Dr. Rune Jensen
+Doctor ID: 1958
+Specialization: Cardiology
+Gender: Male
+Years of experience: 16
+City: Bergen, Norway
+Clinics: Legesenteret Torgallmenningen (clinic ID 255); Medisinsk Senter Olav Kyrres (clinic ID 257)
+
+Review 1 for Dr. Rune Jensen, Cardiology, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Rune Jensen, Cardiology, Bergen
+Rating: 5/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Dr. Rune Jensen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Rune Jensen, Cardiology, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: The treatment plan from Dr. Rune Jensen made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Rune Jensen, Cardiology, Bergen
+Rating: 4/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: I reported chest tightness and was sent home with a leaflet and no ECG.
+
+Review 5 for Dr. Rune Jensen, Cardiology, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 6 for Dr. Rune Jensen, Cardiology, Bergen
+Rating: 3/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: My worries about side effects from my medication were waved off, and nobody offered an alternative. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 7 for Dr. Rune Jensen, Cardiology, Bergen
+Rating: 9/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Dr. Rune Jensen explained the difference between my statin options and let me weigh in on the choice. At my visit, Dr. Rune Jensen took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 8 for Dr. Rune Jensen, Cardiology, Bergen
+Rating: 6/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Great care in the visit itself, but the billing for the tests at Medisinsk Senter Olav Kyrres was confusing.
+
+Review 9 for Dr. Rune Jensen, Cardiology, Bergen
+Rating: 9/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: My atrial fibrillation is well managed by Dr. Rune Jensen, and I know exactly what symptoms mean I should call. Everything was explained in plain English by Dr. Rune Jensen, and nothing was left to guess.
+
+Overall rating for Dr. Rune Jensen, Cardiology, Bergen: 6.22/10 from 9 reviews

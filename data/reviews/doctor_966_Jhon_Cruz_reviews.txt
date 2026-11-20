@@ -1,0 +1,49 @@
+Doctor: Dr. Jhon Cruz
+Doctor ID: 966
+Specialization: Radiology
+Gender: Male
+Years of experience: 1
+City: Lima, Peru
+Clinics: Centro Médico Miraflores (clinic ID 126); Consultorios Médicos Arequipa (clinic ID 128)
+
+Review 1 for Dr. Jhon Cruz, Radiology, Lima
+Rating: 9/10
+Clinic visited: Centro Médico Miraflores
+Description: Dr. Jhon Cruz looked me in the eye, listened to the whole story and only then started typing. When my scan showed something that needed a second look, Dr. Jhon Cruz arranged the follow-up the same day.
+
+Review 2 for Dr. Jhon Cruz, Radiology, Lima
+Rating: 9/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Dr. Jhon Cruz compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 3 for Dr. Jhon Cruz, Radiology, Lima
+Rating: 9/10
+Clinic visited: Centro Médico Miraflores
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Review 4 for Dr. Jhon Cruz, Radiology, Lima
+Rating: 9/10
+Clinic visited: Centro Médico Miraflores
+Description: At my visit, Dr. Jhon Cruz took notes on my medication list, checked for interactions and explained the changes simply. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Jhon Cruz, Radiology, Lima
+Rating: 10/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 6 for Dr. Jhon Cruz, Radiology, Lima
+Rating: 8/10
+Clinic visited: Centro Médico Miraflores
+Description: The report from Dr. Jhon Cruz was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 7 for Dr. Jhon Cruz, Radiology, Lima
+Rating: 8/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: Booking a CT scan online at Consultorios Médicos Arequipa took two minutes, and I was in and out within forty minutes. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 8 for Dr. Jhon Cruz, Radiology, Lima
+Rating: 8/10
+Clinic visited: Centro Médico Miraflores
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Overall rating for Dr. Jhon Cruz, Radiology, Lima: 8.75/10 from 8 reviews

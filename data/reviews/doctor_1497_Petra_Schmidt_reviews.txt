@@ -1,0 +1,54 @@
+Doctor: Dr. Petra Schmidt
+Doctor ID: 1497
+Specialization: Neurology
+Gender: Female
+Years of experience: 29
+City: Berlin, Germany
+Clinics: Praxiszentrum am Kurfürstendamm (clinic ID 195); Medizinisches Zentrum Friedrichshain-Mitte (clinic ID 196)
+
+Review 1 for Dr. Petra Schmidt, Neurology, Berlin
+Rating: 8/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Petra Schmidt, Neurology, Berlin
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Dr. Petra Schmidt double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 3 for Dr. Petra Schmidt, Neurology, Berlin
+Rating: 9/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 4 for Dr. Petra Schmidt, Neurology, Berlin
+Rating: 8/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. The neurological exam by Dr. Petra Schmidt was thorough, with every reflex test and gait check explained as it happened.
+
+Review 5 for Dr. Petra Schmidt, Neurology, Berlin
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: The EEG appointment ran on time, and Dr. Petra Schmidt reviewed the tracing with me the same week. Booking online at Medizinisches Zentrum Friedrichshain-Mitte was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 6 for Dr. Petra Schmidt, Neurology, Berlin
+Rating: 8/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Dr. Petra Schmidt looked me in the eye, listened to the whole story and only then started typing. I felt listened to about my numb hands, and the nerve conduction test was done promptly at Praxiszentrum am Kurfürstendamm.
+
+Review 7 for Dr. Petra Schmidt, Neurology, Berlin
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Dr. Petra Schmidt took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy.
+
+Review 8 for Dr. Petra Schmidt, Neurology, Berlin
+Rating: 9/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 9 for Dr. Petra Schmidt, Neurology, Berlin
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Living with multiple sclerosis feels less frightening because Dr. Petra Schmidt explains and discusses every change in my plan. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Petra Schmidt, Neurology, Berlin: 8.78/10 from 9 reviews

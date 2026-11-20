@@ -1,0 +1,64 @@
+Doctor: Dr. José Hansen
+Doctor ID: 3272
+Specialization: General
+Gender: Male
+Years of experience: 6
+City: Dudelange, Luxembourg
+Clinics: Centre de Santé Schmelz (clinic ID 424)
+
+Review 1 for Dr. José Hansen, General, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Centre de Santé Schmelz were inconsistent.
+
+Review 2 for Dr. José Hansen, General, Dudelange
+Rating: 9/10
+Clinic visited: Centre de Santé Schmelz
+Description: I went in with months of tiredness, and Dr. José Hansen ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 3 for Dr. José Hansen, General, Dudelange
+Rating: 8/10
+Clinic visited: Centre de Santé Schmelz
+Description: Managing my type 2 diabetes with Dr. José Hansen has been steady and practical, with quarterly blood sugar reviews and no lectures. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 4 for Dr. José Hansen, General, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. José Hansen, General, Dudelange
+Rating: 6/10
+Clinic visited: Centre de Santé Schmelz
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. José Hansen, General, Dudelange
+Rating: 6/10
+Clinic visited: Centre de Santé Schmelz
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. José Hansen is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 7 for Dr. José Hansen, General, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: Booking was easy online, but the confirmation email contained the wrong address for Centre de Santé Schmelz. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. José Hansen, General, Dudelange
+Rating: 6/10
+Clinic visited: Centre de Santé Schmelz
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. José Hansen, General, Dudelange
+Rating: 9/10
+Clinic visited: Centre de Santé Schmelz
+Description: My blood pressure had crept up and Dr. José Hansen walked me through diet changes before suggesting anything else. Three months later my readings were normal. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 10 for Dr. José Hansen, General, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. José Hansen, General, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: Referrals from Dr. José Hansen are handled well, but getting test results back took longer than I was told to expect.
+
+Overall rating for Dr. José Hansen, General, Dudelange: 7.18/10 from 11 reviews

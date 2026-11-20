@@ -1,0 +1,59 @@
+Doctor: Dr. Zeng Yanyan
+Doctor ID: 3928
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 17
+City: Shanghai, China
+Clinics: Huaihai Family Health Practice (clinic ID 507); Xianxia Hongkang Polyclinic (clinic ID 508)
+
+Review 1 for Dr. Zeng Yanyan, Pulmonology, Shanghai
+Rating: 4/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: I called twice about worsening symptoms and no one returned my message until the following week. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 2 for Dr. Zeng Yanyan, Pulmonology, Shanghai
+Rating: 7/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Xianxia Hongkang Polyclinic.
+
+Review 3 for Dr. Zeng Yanyan, Pulmonology, Shanghai
+Rating: 7/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Zeng Yanyan, Pulmonology, Shanghai
+Rating: 7/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Dr. Zeng Yanyan was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Zeng Yanyan, Pulmonology, Shanghai
+Rating: 6/10
+Clinic visited: Huaihai Family Health Practice
+Description: Helpful and honest about my prognosis, Dr. Zeng Yanyan could still have given me more written material to take home. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Zeng Yanyan, Pulmonology, Shanghai
+Rating: 7/10
+Clinic visited: Huaihai Family Health Practice
+Description: I liked the advice I got from Dr. Zeng Yanyan, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Zeng Yanyan, Pulmonology, Shanghai
+Rating: 8/10
+Clinic visited: Huaihai Family Health Practice
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Dr. Zeng Yanyan explained my lung nodule follow-up schedule calmly, which took away weeks of worry. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Zeng Yanyan, Pulmonology, Shanghai
+Rating: 8/10
+Clinic visited: Huaihai Family Health Practice
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Zeng Yanyan was practical and never preachy.
+
+Review 9 for Dr. Zeng Yanyan, Pulmonology, Shanghai
+Rating: 8/10
+Clinic visited: Huaihai Family Health Practice
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 10 for Dr. Zeng Yanyan, Pulmonology, Shanghai
+Rating: 8/10
+Clinic visited: Huaihai Family Health Practice
+Description: After years of poorly controlled asthma, Dr. Zeng Yanyan reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Overall rating for Dr. Zeng Yanyan, Pulmonology, Shanghai: 7.00/10 from 10 reviews

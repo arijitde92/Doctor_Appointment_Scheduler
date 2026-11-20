@@ -55,6 +55,7 @@ const BOOKING_FIELDS: Array<[keyof BookingDetails, string]> = [
   ["address", "Address"],
   ["date", "Date"],
   ["time", "Time"],
+  ["timeZone", "Time zone"],
   ["reference", "Reference"],
 ];
 
@@ -75,7 +76,7 @@ export function parseBookingPrompt(text: string): BookingDetails | null {
   if (!text.startsWith(BOOKING_HEADER)) return null;
   const details: BookingDetails = {};
   for (const line of text.split("\n").slice(1)) {
-    const match = /^-\s*([A-Za-z]+):\s*(.+)$/.exec(line.trim());
+    const match = /^-\s*([A-Za-z][A-Za-z ]*):\s*(.+)$/.exec(line.trim());
     if (!match) continue;
     const field = BOOKING_FIELDS.find(([, label]) => label.toLowerCase() === match[1].toLowerCase());
     if (field) details[field[0]] = match[2].trim();

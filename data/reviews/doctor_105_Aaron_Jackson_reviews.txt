@@ -1,0 +1,54 @@
+Doctor: Dr. Aaron Jackson
+Doctor ID: 105
+Specialization: Neurology
+Gender: Male
+Years of experience: 4
+City: Chicago, USA
+Clinics: Lincoln Park Family Clinic (clinic ID 16)
+
+Review 1 for Dr. Aaron Jackson, Neurology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: The EEG appointment ran on time, and Dr. Aaron Jackson reviewed the tracing with me the same week. Everything was explained in plain English by Dr. Aaron Jackson, and nothing was left to guess.
+
+Review 2 for Dr. Aaron Jackson, Neurology, Chicago
+Rating: 7/10
+Clinic visited: Lincoln Park Family Clinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Aaron Jackson, Neurology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Aaron Jackson, Neurology, Chicago
+Rating: 7/10
+Clinic visited: Lincoln Park Family Clinic
+Description: The treatment plan from Dr. Aaron Jackson made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Aaron Jackson, Neurology, Chicago
+Rating: 7/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Aaron Jackson, Neurology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 7 for Dr. Aaron Jackson, Neurology, Chicago
+Rating: 7/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Aaron Jackson, Neurology, Chicago
+Rating: 6/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Dr. Aaron Jackson explained my results well, although the visit felt short for such a complex condition. Booking was easy online, but the confirmation email contained the wrong address for Lincoln Park Family Clinic.
+
+Review 9 for Dr. Aaron Jackson, Neurology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Aaron Jackson, Neurology, Chicago: 7.33/10 from 9 reviews

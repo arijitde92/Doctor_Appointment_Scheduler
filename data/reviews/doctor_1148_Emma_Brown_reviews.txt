@@ -1,0 +1,54 @@
+Doctor: Dr. Emma Brown
+Doctor ID: 1148
+Specialization: General
+Gender: Female
+Years of experience: 15
+City: Manchester, UK
+Clinics: King Street Medical Practice (clinic ID 150)
+
+Review 1 for Dr. Emma Brown, General, Manchester
+Rating: 7/10
+Clinic visited: King Street Medical Practice
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 2 for Dr. Emma Brown, General, Manchester
+Rating: 6/10
+Clinic visited: King Street Medical Practice
+Description: The treatment plan from Dr. Emma Brown made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Emma Brown, General, Manchester
+Rating: 7/10
+Clinic visited: King Street Medical Practice
+Description: Referrals from Dr. Emma Brown are handled well, but getting test results back took longer than I was told to expect. Good bedside manner from Dr. Emma Brown, but the parking near King Street Medical Practice is limited and I had to circle for fifteen minutes. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Emma Brown, General, Manchester
+Rating: 7/10
+Clinic visited: King Street Medical Practice
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Emma Brown, General, Manchester
+Rating: 6/10
+Clinic visited: King Street Medical Practice
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Emma Brown, General, Manchester
+Rating: 7/10
+Clinic visited: King Street Medical Practice
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Emma Brown, General, Manchester
+Rating: 7/10
+Clinic visited: King Street Medical Practice
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from King Street Medical Practice were inconsistent. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Emma Brown, General, Manchester
+Rating: 10/10
+Clinic visited: King Street Medical Practice
+Description: I went in with months of tiredness, and Dr. Emma Brown ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 9 for Dr. Emma Brown, General, Manchester
+Rating: 5/10
+Clinic visited: King Street Medical Practice
+Description: Dr. Emma Brown is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Quick appointment and a fair price in Manchester, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Emma Brown, General, Manchester: 6.89/10 from 9 reviews

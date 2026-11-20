@@ -1,0 +1,49 @@
+Doctor: Dr. Antonio Ramos
+Doctor ID: 4796
+Specialization: General
+Gender: Male
+Years of experience: 13
+City: Davao City, Philippines
+Clinics: Tala Medical Clinic (clinic ID 620); Araw Family Clinic (clinic ID 621)
+
+Review 1 for Dr. Antonio Ramos, General, Davao City
+Rating: 7/10
+Clinic visited: Araw Family Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I liked the advice I got from Dr. Antonio Ramos, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Antonio Ramos, General, Davao City
+Rating: 7/10
+Clinic visited: Tala Medical Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Tala Medical Clinic were inconsistent.
+
+Review 3 for Dr. Antonio Ramos, General, Davao City
+Rating: 9/10
+Clinic visited: Tala Medical Clinic
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. Dr. Antonio Ramos double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Antonio Ramos, General, Davao City
+Rating: 6/10
+Clinic visited: Araw Family Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Antonio Ramos, General, Davao City
+Rating: 7/10
+Clinic visited: Araw Family Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Antonio Ramos, General, Davao City
+Rating: 6/10
+Clinic visited: Araw Family Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Araw Family Clinic. Dr. Antonio Ramos is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 7 for Dr. Antonio Ramos, General, Davao City
+Rating: 9/10
+Clinic visited: Araw Family Clinic
+Description: Vaccination advice from Dr. Antonio Ramos for my travel plans was thorough and specific to the countries I was visiting. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 8 for Dr. Antonio Ramos, General, Davao City
+Rating: 6/10
+Clinic visited: Araw Family Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Antonio Ramos, General, Davao City: 7.12/10 from 8 reviews

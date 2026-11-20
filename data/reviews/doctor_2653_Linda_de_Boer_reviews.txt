@@ -1,0 +1,49 @@
+Doctor: Dr. Linda de Boer
+Doctor ID: 2653
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 2
+City: The Hague, Netherlands
+Clinics: Gezondheidscentrum Scheveningen (clinic ID 347)
+
+Review 1 for Dr. Linda de Boer, Gastroenterology, The Hague
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Skilled with the scope, but communication about the fasting time before the procedure was unclear. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Linda de Boer, Gastroenterology, The Hague
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 3 for Dr. Linda de Boer, Gastroenterology, The Hague
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Knowledgeable about my reflux, Dr. Linda de Boer still gave diet advice that felt generic and not tailored to my habits. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Linda de Boer, Gastroenterology, The Hague
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Booking was easy online, but the confirmation email contained the wrong address for Gezondheidscentrum Scheveningen.
+
+Review 5 for Dr. Linda de Boer, Gastroenterology, The Hague
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Linda de Boer, Gastroenterology, The Hague
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Dr. Linda de Boer is thorough, but I waited nearly two months to get the first available slot.
+
+Review 7 for Dr. Linda de Boer, Gastroenterology, The Hague
+Rating: 10/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: I was nervous about my screening, but the team at Gezondheidscentrum Scheveningen made me feel at ease, and I was home within hours.
+
+Review 8 for Dr. Linda de Boer, Gastroenterology, The Hague
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Overall rating for Dr. Linda de Boer, Gastroenterology, The Hague: 6.38/10 from 8 reviews

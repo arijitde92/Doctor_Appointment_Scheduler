@@ -1,0 +1,49 @@
+Doctor: Dr. Manuel Schmitz
+Doctor ID: 3327
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 17
+City: Luxembourg City, Luxembourg
+Clinics: Centre Médical Kirchberg (clinic ID 431)
+
+Review 1 for Dr. Manuel Schmitz, Orthopedic, Luxembourg City
+Rating: 7/10
+Clinic visited: Centre Médical Kirchberg
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Manuel Schmitz, Orthopedic, Luxembourg City
+Rating: 9/10
+Clinic visited: Centre Médical Kirchberg
+Description: I came away understanding my condition better than I have in years of previous appointments. He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Manuel Schmitz, Orthopedic, Luxembourg City
+Rating: 8/10
+Clinic visited: Centre Médical Kirchberg
+Description: Dr. Manuel Schmitz double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Manuel Schmitz, Orthopedic, Luxembourg City
+Rating: 7/10
+Clinic visited: Centre Médical Kirchberg
+Description: I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Manuel Schmitz, Orthopedic, Luxembourg City
+Rating: 8/10
+Clinic visited: Centre Médical Kirchberg
+Description: Seen the same day at Centre Médical Kirchberg after a bad ankle sprain, with an X-ray done and a brace fitted before I left. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 6 for Dr. Manuel Schmitz, Orthopedic, Luxembourg City
+Rating: 7/10
+Clinic visited: Centre Médical Kirchberg
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Manuel Schmitz, Orthopedic, Luxembourg City
+Rating: 9/10
+Clinic visited: Centre Médical Kirchberg
+Description: The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule.
+
+Review 8 for Dr. Manuel Schmitz, Orthopedic, Luxembourg City
+Rating: 8/10
+Clinic visited: Centre Médical Kirchberg
+Description: Prescriptions from Dr. Manuel Schmitz were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Overall rating for Dr. Manuel Schmitz, Orthopedic, Luxembourg City: 7.88/10 from 8 reviews

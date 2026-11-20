@@ -1,0 +1,54 @@
+Doctor: Dr. Daniela Rizzo
+Doctor ID: 3425
+Specialization: Psychology
+Gender: Female
+Years of experience: 11
+City: Milan, Italy
+Clinics: Poliambulatorio Isola (clinic ID 444)
+
+Review 1 for Dr. Daniela Rizzo, Psychology, Milan
+Rating: 9/10
+Clinic visited: Poliambulatorio Isola
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 2 for Dr. Daniela Rizzo, Psychology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Isola
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Daniela Rizzo gave me practical tools I still use.
+
+Review 3 for Dr. Daniela Rizzo, Psychology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Isola
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 4 for Dr. Daniela Rizzo, Psychology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Isola
+Description: Couples therapy at Poliambulatorio Isola helped us stop repeating the same argument. We now have a way to pause and listen. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Daniela Rizzo, Psychology, Milan
+Rating: 9/10
+Clinic visited: Poliambulatorio Isola
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. Dr. Daniela Rizzo double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Daniela Rizzo, Psychology, Milan
+Rating: 7/10
+Clinic visited: Poliambulatorio Isola
+Description: Insightful and kind, though progress with Dr. Daniela Rizzo felt slow, and I wished for more structured homework between sessions. I liked the advice I got from Dr. Daniela Rizzo, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Daniela Rizzo, Psychology, Milan
+Rating: 9/10
+Clinic visited: Poliambulatorio Isola
+Description: I never felt judged by Dr. Daniela Rizzo when talking about my burnout, and the sessions gave me language for things I could not explain before. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Daniela Rizzo, Psychology, Milan
+Rating: 7/10
+Clinic visited: Poliambulatorio Isola
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot.
+
+Review 9 for Dr. Daniela Rizzo, Psychology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Isola
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Daniela Rizzo designed around my actual job. I came away understanding my condition better than I have in years of previous appointments.
+
+Overall rating for Dr. Daniela Rizzo, Psychology, Milan: 8.11/10 from 9 reviews

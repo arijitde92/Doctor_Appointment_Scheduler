@@ -1,0 +1,49 @@
+Doctor: Dr. Peng Jun
+Doctor ID: 3842
+Specialization: General
+Gender: Male
+Years of experience: 2
+City: Beijing, China
+Clinics: Zhongguancun Kangyi Clinic (clinic ID 496); Dongsanhuan Family Health Practice (clinic ID 497)
+
+Review 1 for Dr. Peng Jun, General, Beijing
+Rating: 7/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 2 for Dr. Peng Jun, General, Beijing
+Rating: 8/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 3 for Dr. Peng Jun, General, Beijing
+Rating: 7/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Referrals from Dr. Peng Jun are handled well, but getting test results back took longer than I was told to expect.
+
+Review 4 for Dr. Peng Jun, General, Beijing
+Rating: 6/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Peng Jun, General, Beijing
+Rating: 9/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Peng Jun, General, Beijing
+Rating: 7/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Dr. Peng Jun is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 7 for Dr. Peng Jun, General, Beijing
+Rating: 6/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Zhongguancun Kangyi Clinic were inconsistent.
+
+Review 8 for Dr. Peng Jun, General, Beijing
+Rating: 8/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Peng Jun, General, Beijing: 7.25/10 from 8 reviews

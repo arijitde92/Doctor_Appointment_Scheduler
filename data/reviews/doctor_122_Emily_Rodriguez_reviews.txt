@@ -1,0 +1,49 @@
+Doctor: Dr. Emily Rodriguez
+Doctor ID: 122
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 23
+City: Chicago, USA
+Clinics: Hyde Park Medical Associates (clinic ID 18); Windy City Urgent and Primary Care (clinic ID 19)
+
+Review 1 for Dr. Emily Rodriguez, Pediatrics, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: We got a same-day appointment for a high fever, and the care at Windy City Urgent and Primary Care was kind and efficient. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 2 for Dr. Emily Rodriguez, Pediatrics, Chicago
+Rating: 7/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Emily Rodriguez, Pediatrics, Chicago
+Rating: 9/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Prescriptions from Dr. Emily Rodriguez were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 4 for Dr. Emily Rodriguez, Pediatrics, Chicago
+Rating: 7/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Caring and gentle with my child, Dr. Emily Rodriguez nonetheless ran forty minutes behind schedule at most appointments. Dr. Emily Rodriguez was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Emily Rodriguez, Pediatrics, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Dr. Emily Rodriguez noticed a speech delay early and referred us to a therapist, which has made a real difference. The receptionist at Windy City Urgent and Primary Care remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 6 for Dr. Emily Rodriguez, Pediatrics, Chicago
+Rating: 10/10
+Clinic visited: Hyde Park Medical Associates
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Emily Rodriguez, Pediatrics, Chicago
+Rating: 8/10
+Clinic visited: Hyde Park Medical Associates
+Description: Vaccination visits with Dr. Emily Rodriguez are painless and well explained, and my questions about the schedule were answered without any pressure. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Emily Rodriguez, Pediatrics, Chicago
+Rating: 10/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: The growth chart review was detailed, and I appreciated that Dr. Emily Rodriguez talked to my child as well as to me.
+
+Overall rating for Dr. Emily Rodriguez, Pediatrics, Chicago: 8.38/10 from 8 reviews

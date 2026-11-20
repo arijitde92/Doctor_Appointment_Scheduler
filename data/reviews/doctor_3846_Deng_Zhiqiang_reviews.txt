@@ -1,0 +1,54 @@
+Doctor: Dr. Deng Zhiqiang
+Doctor ID: 3846
+Specialization: Radiology
+Gender: Male
+Years of experience: 18
+City: Beijing, China
+Clinics: Zhongguancun Kangyi Clinic (clinic ID 496)
+
+Review 1 for Dr. Deng Zhiqiang, Radiology, Beijing
+Rating: 4/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. My images were not sent to my specialist as promised, so my consultation had to be postponed. Not a place I would choose again, and I hope others have a better experience.
+
+Review 2 for Dr. Deng Zhiqiang, Radiology, Beijing
+Rating: 5/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Dr. Deng Zhiqiang was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Deng Zhiqiang, Radiology, Beijing
+Rating: 3/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: I was charged for a second scan that I was told was a free repeat after an image problem.
+
+Review 4 for Dr. Deng Zhiqiang, Radiology, Beijing
+Rating: 8/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 5 for Dr. Deng Zhiqiang, Radiology, Beijing
+Rating: 7/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Professional technologist, though the changing room was cramped and the lockers did not work. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Deng Zhiqiang, Radiology, Beijing
+Rating: 6/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Deng Zhiqiang, Radiology, Beijing
+Rating: 5/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 8 for Dr. Deng Zhiqiang, Radiology, Beijing
+Rating: 6/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 9 for Dr. Deng Zhiqiang, Radiology, Beijing
+Rating: 6/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Dr. Deng Zhiqiang answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. The treatment plan from Dr. Deng Zhiqiang made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Deng Zhiqiang, Radiology, Beijing: 5.56/10 from 9 reviews

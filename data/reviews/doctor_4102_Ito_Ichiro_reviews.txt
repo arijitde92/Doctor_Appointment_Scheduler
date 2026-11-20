@@ -1,0 +1,54 @@
+Doctor: Dr. Ito Ichiro
+Doctor ID: 4102
+Specialization: Radiology
+Gender: Male
+Years of experience: 5
+City: Tokyo, Japan
+Clinics: Setagaya Kotobuki Family Clinic (clinic ID 529)
+
+Review 1 for Dr. Ito Ichiro, Radiology, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 2 for Dr. Ito Ichiro, Radiology, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Dr. Ito Ichiro was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Ito Ichiro, Radiology, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: The report from Dr. Ito Ichiro was thorough, though full of technical terms that needed my regular doctor to translate. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Ito Ichiro, Radiology, Tokyo
+Rating: 5/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Good bedside manner from Dr. Ito Ichiro, but the parking near Setagaya Kotobuki Family Clinic is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Ito Ichiro, Radiology, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Quick appointment and a fair price in Tokyo, but the staff seemed overwhelmed and a bit curt on the phone. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Ito Ichiro, Radiology, Tokyo
+Rating: 8/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Dr. Ito Ichiro used a calm, steady voice that settled my nerves before a stressful procedure. Reviewing my X-ray together with Dr. Ito Ichiro on the screen made it much easier to understand my arthritis.
+
+Review 7 for Dr. Ito Ichiro, Radiology, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Ito Ichiro, Radiology, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 9 for Dr. Ito Ichiro, Radiology, Tokyo
+Rating: 8/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: The receptionist at Setagaya Kotobuki Family Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Overall rating for Dr. Ito Ichiro, Radiology, Tokyo: 7.00/10 from 9 reviews

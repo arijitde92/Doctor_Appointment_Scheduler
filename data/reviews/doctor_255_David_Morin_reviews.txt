@@ -1,0 +1,64 @@
+Doctor: Dr. David Morin
+Doctor ID: 255
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 4
+City: Calgary, Canada
+Clinics: Prairie Sky Medical Clinic (clinic ID 35); Beltline Family Health (clinic ID 36)
+
+Review 1 for Dr. David Morin, Pulmonology, Calgary
+Rating: 6/10
+Clinic visited: Beltline Family Health
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful and honest about my prognosis, Dr. David Morin could still have given me more written material to take home.
+
+Review 2 for Dr. David Morin, Pulmonology, Calgary
+Rating: 5/10
+Clinic visited: Beltline Family Health
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 3 for Dr. David Morin, Pulmonology, Calgary
+Rating: 7/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Dr. David Morin was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. David Morin, Pulmonology, Calgary
+Rating: 8/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. David Morin, Pulmonology, Calgary
+Rating: 7/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. David Morin, Pulmonology, Calgary
+Rating: 6/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Quick appointment and a fair price in Calgary, but the staff seemed overwhelmed and a bit curt on the phone. Dr. David Morin adjusted my asthma medication well, but the breathing test appointment was a month away. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. David Morin, Pulmonology, Calgary
+Rating: 5/10
+Clinic visited: Beltline Family Health
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. David Morin, Pulmonology, Calgary
+Rating: 6/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Prairie Sky Medical Clinic regularly exceeded forty minutes. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 9 for Dr. David Morin, Pulmonology, Calgary
+Rating: 6/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Worth trying, but I would not call it the best option in the area.
+
+Review 10 for Dr. David Morin, Pulmonology, Calgary
+Rating: 8/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: At Prairie Sky Medical Clinic, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. Worth every minute of travel, and I would go again without a second thought.
+
+Review 11 for Dr. David Morin, Pulmonology, Calgary
+Rating: 7/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Overall rating for Dr. David Morin, Pulmonology, Calgary: 6.45/10 from 11 reviews

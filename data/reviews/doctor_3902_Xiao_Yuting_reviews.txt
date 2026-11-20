@@ -1,0 +1,49 @@
+Doctor: Dr. Xiao Yuting
+Doctor ID: 3902
+Specialization: Pathology
+Gender: Female
+Years of experience: 9
+City: Guangzhou, China
+Clinics: Haizhu Mingde Medical Clinic (clinic ID 504)
+
+Review 1 for Dr. Xiao Yuting, Pathology, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Xiao Yuting, Pathology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Good bedside manner from Dr. Xiao Yuting, but the parking near Haizhu Mingde Medical Clinic is limited and I had to circle for fifteen minutes. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 3 for Dr. Xiao Yuting, Pathology, Guangzhou
+Rating: 4/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week. The staff were curt and impatient when I asked how to read the reference ranges on my report.
+
+Review 4 for Dr. Xiao Yuting, Pathology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The blood draw was painless, but the waiting area at Haizhu Mingde Medical Clinic was crowded in the early morning.
+
+Review 5 for Dr. Xiao Yuting, Pathology, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Xiao Yuting, Pathology, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: I liked the advice I got from Dr. Xiao Yuting, but I would have liked more time to ask follow-up questions before the visit ended. Helpful in clarifying a borderline result, though Dr. Xiao Yuting gave little guidance about whether to repeat it.
+
+Review 7 for Dr. Xiao Yuting, Pathology, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Dr. Xiao Yuting answered my questions kindly, though the call back took three days. I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Xiao Yuting, Pathology, Guangzhou
+Rating: 5/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Overall rating for Dr. Xiao Yuting, Pathology, Guangzhou: 5.88/10 from 8 reviews

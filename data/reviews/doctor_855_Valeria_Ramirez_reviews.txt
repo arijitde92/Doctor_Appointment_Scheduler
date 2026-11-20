@@ -1,0 +1,54 @@
+Doctor: Dr. Valeria Ramírez
+Doctor ID: 855
+Specialization: Radiology
+Gender: Female
+Years of experience: 2
+City: Rosario, Argentina
+Clinics: Consultorios Médicos Córdoba (clinic ID 112); Instituto Médico Fisherton (clinic ID 114)
+
+Review 1 for Dr. Valeria Ramírez, Radiology, Rosario
+Rating: 6/10
+Clinic visited: Instituto Médico Fisherton
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The report from Dr. Valeria Ramírez was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 2 for Dr. Valeria Ramírez, Radiology, Rosario
+Rating: 7/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Valeria Ramírez, Radiology, Rosario
+Rating: 9/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: I appreciated that she offered more than one option and let me choose what suited my life. She called me personally after my scan to explain the findings in plain language before I saw my own doctor. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Valeria Ramírez, Radiology, Rosario
+Rating: 10/10
+Clinic visited: Instituto Médico Fisherton
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. Everything was explained in plain English by Dr. Valeria Ramírez, and nothing was left to guess.
+
+Review 5 for Dr. Valeria Ramírez, Radiology, Rosario
+Rating: 9/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: Fast, clean and professional; the bone density scan with Dr. Valeria Ramírez was painless and the results were explained clearly.
+
+Review 6 for Dr. Valeria Ramírez, Radiology, Rosario
+Rating: 9/10
+Clinic visited: Instituto Médico Fisherton
+Description: Dr. Valeria Ramírez looked me in the eye, listened to the whole story and only then started typing. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Valeria Ramírez, Radiology, Rosario
+Rating: 7/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Valeria Ramírez, Radiology, Rosario
+Rating: 8/10
+Clinic visited: Instituto Médico Fisherton
+Description: Dr. Valeria Ramírez compared my new scan with last year's and pointed out exactly what had stayed the same. Prescriptions from Dr. Valeria Ramírez were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 9 for Dr. Valeria Ramírez, Radiology, Rosario
+Rating: 8/10
+Clinic visited: Instituto Médico Fisherton
+Description: The report from Dr. Valeria Ramírez was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Overall rating for Dr. Valeria Ramírez, Radiology, Rosario: 8.11/10 from 9 reviews

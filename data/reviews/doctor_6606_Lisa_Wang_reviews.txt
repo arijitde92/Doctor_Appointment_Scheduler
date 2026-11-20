@@ -1,0 +1,49 @@
+Doctor: Dr. Lisa Wang
+Doctor ID: 6606
+Specialization: Radiology
+Gender: Female
+Years of experience: 19
+City: Auckland, New Zealand
+Clinics: Pohutukawa Medical Centre (clinic ID 856)
+
+Review 1 for Dr. Lisa Wang, Radiology, Auckland
+Rating: 8/10
+Clinic visited: Pohutukawa Medical Centre
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 2 for Dr. Lisa Wang, Radiology, Auckland
+Rating: 7/10
+Clinic visited: Pohutukawa Medical Centre
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Quick appointment and a fair price in Auckland, but the staff seemed overwhelmed and a bit curt on the phone. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Lisa Wang, Radiology, Auckland
+Rating: 7/10
+Clinic visited: Pohutukawa Medical Centre
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Lisa Wang, Radiology, Auckland
+Rating: 6/10
+Clinic visited: Pohutukawa Medical Centre
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Lisa Wang, Radiology, Auckland
+Rating: 9/10
+Clinic visited: Pohutukawa Medical Centre
+Description: Appointment reminders came by text and email, and rescheduling took two taps. My ultrasound was unhurried, and Dr. Lisa Wang took time to show me the images and explain what each measurement meant.
+
+Review 6 for Dr. Lisa Wang, Radiology, Auckland
+Rating: 8/10
+Clinic visited: Pohutukawa Medical Centre
+Description: I came away understanding my condition better than I have in years of previous appointments. She called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 7 for Dr. Lisa Wang, Radiology, Auckland
+Rating: 4/10
+Clinic visited: Pohutukawa Medical Centre
+Description: Dr. Lisa Wang was never available to discuss my findings, and the report left me more confused than before. My referral was sent to the wrong specialist and I lost a month before the mistake was found. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 8 for Dr. Lisa Wang, Radiology, Auckland
+Rating: 10/10
+Clinic visited: Pohutukawa Medical Centre
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Lisa Wang were respectful throughout.
+
+Overall rating for Dr. Lisa Wang, Radiology, Auckland: 7.38/10 from 8 reviews

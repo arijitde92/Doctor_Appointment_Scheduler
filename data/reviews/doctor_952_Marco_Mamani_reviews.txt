@@ -1,0 +1,69 @@
+Doctor: Dr. Marco Mamani
+Doctor ID: 952
+Specialization: General
+Gender: Male
+Years of experience: 2
+City: Lima, Peru
+Clinics: Clínica San Isidro Familiar (clinic ID 125)
+
+Review 1 for Dr. Marco Mamani, General, Lima
+Rating: 4/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Dr. Marco Mamani seemed distracted by the computer screen throughout and missed that I had mentioned chest tightness twice.
+
+Review 2 for Dr. Marco Mamani, General, Lima
+Rating: 5/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Referrals from Dr. Marco Mamani are handled well, but getting test results back took longer than I was told to expect. Quick appointment and a fair price in Lima, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Marco Mamani, General, Lima
+Rating: 8/10
+Clinic visited: Clínica San Isidro Familiar
+Description: I went in with months of tiredness, and Dr. Marco Mamani ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 4 for Dr. Marco Mamani, General, Lima
+Rating: 6/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Dr. Marco Mamani is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 5 for Dr. Marco Mamani, General, Lima
+Rating: 7/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Clínica San Isidro Familiar were inconsistent.
+
+Review 6 for Dr. Marco Mamani, General, Lima
+Rating: 7/10
+Clinic visited: Clínica San Isidro Familiar
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Marco Mamani, General, Lima
+Rating: 3/10
+Clinic visited: Clínica San Isidro Familiar
+Description: My visit with Dr. Marco Mamani lasted barely six minutes, and I left with more questions than I arrived with. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. I left disappointed and will take my business to another clinic.
+
+Review 8 for Dr. Marco Mamani, General, Lima
+Rating: 6/10
+Clinic visited: Clínica San Isidro Familiar
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Marco Mamani, General, Lima
+Rating: 5/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Dr. Marco Mamani was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Marco Mamani, General, Lima
+Rating: 6/10
+Clinic visited: Clínica San Isidro Familiar
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 11 for Dr. Marco Mamani, General, Lima
+Rating: 5/10
+Clinic visited: Clínica San Isidro Familiar
+Description: I liked the advice I got from Dr. Marco Mamani, but I would have liked more time to ask follow-up questions before the visit ended. I will give it one more visit before I decide whether to stay.
+
+Review 12 for Dr. Marco Mamani, General, Lima
+Rating: 8/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Cholesterol results were explained by Dr. Marco Mamani with a simple chart, and we agreed on a plan I could realistically follow.
+
+Overall rating for Dr. Marco Mamani, General, Lima: 5.83/10 from 12 reviews

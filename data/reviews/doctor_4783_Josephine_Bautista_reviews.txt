@@ -1,0 +1,54 @@
+Doctor: Dr. Josephine Bautista
+Doctor ID: 4783
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 7
+City: Cebu City, Philippines
+Clinics: Pag-asa Health Centre (clinic ID 618); Klinika Ligaya (clinic ID 619)
+
+Review 1 for Dr. Josephine Bautista, Orthopedic, Cebu City
+Rating: 7/10
+Clinic visited: Klinika Ligaya
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Josephine Bautista, Orthopedic, Cebu City
+Rating: 10/10
+Clinic visited: Klinika Ligaya
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Josephine Bautista, Orthopedic, Cebu City
+Rating: 8/10
+Clinic visited: Klinika Ligaya
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 4 for Dr. Josephine Bautista, Orthopedic, Cebu City
+Rating: 8/10
+Clinic visited: Pag-asa Health Centre
+Description: Follow-up scans were compared with the earlier ones, and Dr. Josephine Bautista showed me how the bone had healed. I was called in within five minutes of my appointment time at Pag-asa Health Centre, which is rare and much appreciated.
+
+Review 5 for Dr. Josephine Bautista, Orthopedic, Cebu City
+Rating: 10/10
+Clinic visited: Klinika Ligaya
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 6 for Dr. Josephine Bautista, Orthopedic, Cebu City
+Rating: 10/10
+Clinic visited: Klinika Ligaya
+Description: Getting to Klinika Ligaya by public transport in Cebu City was easy, and there is a step-free entrance for wheelchairs.
+
+Review 7 for Dr. Josephine Bautista, Orthopedic, Cebu City
+Rating: 8/10
+Clinic visited: Pag-asa Health Centre
+Description: I appreciated Dr. Josephine Bautista's honest comparison between injections, therapy and surgery for my hip pain. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Josephine Bautista, Orthopedic, Cebu City
+Rating: 7/10
+Clinic visited: Klinika Ligaya
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 9 for Dr. Josephine Bautista, Orthopedic, Cebu City
+Rating: 6/10
+Clinic visited: Klinika Ligaya
+Description: Good bedside manner from Dr. Josephine Bautista, but the parking near Klinika Ligaya is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Josephine Bautista, Orthopedic, Cebu City: 8.22/10 from 9 reviews

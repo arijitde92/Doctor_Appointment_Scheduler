@@ -1,0 +1,64 @@
+Doctor: Dr. Wu Chia-hui
+Doctor ID: 4451
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 1
+City: Taipei, Taiwan
+Clinics: Shilin Tianmu Medical Clinic (clinic ID 574)
+
+Review 1 for Dr. Wu Chia-hui, Psychiatry, Taipei
+Rating: 6/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Wu Chia-hui, Psychiatry, Taipei
+Rating: 10/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: Telehealth follow-ups at Shilin Tianmu Medical Clinic are punctual and calm, and refills are dealt with quickly.
+
+Review 3 for Dr. Wu Chia-hui, Psychiatry, Taipei
+Rating: 8/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 4 for Dr. Wu Chia-hui, Psychiatry, Taipei
+Rating: 9/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: Dr. Wu Chia-hui drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 5 for Dr. Wu Chia-hui, Psychiatry, Taipei
+Rating: 8/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. The receptionist at Shilin Tianmu Medical Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 6 for Dr. Wu Chia-hui, Psychiatry, Taipei
+Rating: 9/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: I felt heard by Dr. Wu Chia-hui during a very hard time, and nobody rushed me out of the room.
+
+Review 7 for Dr. Wu Chia-hui, Psychiatry, Taipei
+Rating: 5/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: Dr. Wu Chia-hui is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 8 for Dr. Wu Chia-hui, Psychiatry, Taipei
+Rating: 7/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: The treatment plan from Dr. Wu Chia-hui made sense, but I wished it had been written down for me to take away. Good listener, yet the refill process at Shilin Tianmu Medical Clinic is slow and requires several phone calls. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Wu Chia-hui, Psychiatry, Taipei
+Rating: 7/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 10 for Dr. Wu Chia-hui, Psychiatry, Taipei
+Rating: 6/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 11 for Dr. Wu Chia-hui, Psychiatry, Taipei
+Rating: 6/10
+Clinic visited: Shilin Tianmu Medical Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Booking was easy online, but the confirmation email contained the wrong address for Shilin Tianmu Medical Clinic. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Wu Chia-hui, Psychiatry, Taipei: 7.36/10 from 11 reviews

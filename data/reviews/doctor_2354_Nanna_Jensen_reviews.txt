@@ -1,0 +1,49 @@
+Doctor: Dr. Nanna Jensen
+Doctor ID: 2354
+Specialization: Radiology
+Gender: Female
+Years of experience: 25
+City: Copenhagen, Denmark
+Clinics: Lægehuset Østerbro Torv (clinic ID 308)
+
+Review 1 for Dr. Nanna Jensen, Radiology, Copenhagen
+Rating: 5/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Nanna Jensen, Radiology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Good bedside manner from Dr. Nanna Jensen, but the parking near Lægehuset Østerbro Torv is limited and I had to circle for fifteen minutes. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Nanna Jensen, Radiology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Appreciated the clear instructions about fasting and drinking water before the abdominal scan. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Nanna Jensen, Radiology, Copenhagen
+Rating: 5/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: I liked the advice I got from Dr. Nanna Jensen, but I would have liked more time to ask follow-up questions before the visit ended. The report from Dr. Nanna Jensen was thorough, though full of technical terms that needed my regular doctor to translate. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Nanna Jensen, Radiology, Copenhagen
+Rating: 4/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: The staff seemed rushed and impatient with an elderly patient who needed help changing. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Review 6 for Dr. Nanna Jensen, Radiology, Copenhagen
+Rating: 6/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: The treatment plan from Dr. Nanna Jensen made sense, but I wished it had been written down for me to take away. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 7 for Dr. Nanna Jensen, Radiology, Copenhagen
+Rating: 6/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: Dr. Nanna Jensen answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Quick appointment and a fair price in Copenhagen, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 8 for Dr. Nanna Jensen, Radiology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Overall rating for Dr. Nanna Jensen, Radiology, Copenhagen: 6.00/10 from 8 reviews

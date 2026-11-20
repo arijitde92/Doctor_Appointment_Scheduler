@@ -1,0 +1,64 @@
+Doctor: Dr. Leonid Kravchenko
+Doctor ID: 3609
+Specialization: General
+Gender: Male
+Years of experience: 30
+City: Lviv, Ukraine
+Clinics: Lion Gate Medical Centre (clinic ID 466); Stryiska Family Doctor Practice (clinic ID 467)
+
+Review 1 for Dr. Leonid Kravchenko, General, Lviv
+Rating: 5/10
+Clinic visited: Lion Gate Medical Centre
+Description: Dr. Leonid Kravchenko is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Leonid Kravchenko, General, Lviv
+Rating: 6/10
+Clinic visited: Lion Gate Medical Centre
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Lion Gate Medical Centre were inconsistent. Quick appointment and a fair price in Lviv, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Leonid Kravchenko, General, Lviv
+Rating: 6/10
+Clinic visited: Lion Gate Medical Centre
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Leonid Kravchenko, General, Lviv
+Rating: 4/10
+Clinic visited: Stryiska Family Doctor Practice
+Description: Dr. Leonid Kravchenko seemed distracted by the computer screen throughout and missed that I had mentioned chest tightness twice. I felt dismissed by Dr. Leonid Kravchenko when I brought up a second concern, and was told to book another appointment for it.
+
+Review 5 for Dr. Leonid Kravchenko, General, Lviv
+Rating: 5/10
+Clinic visited: Lion Gate Medical Centre
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 6 for Dr. Leonid Kravchenko, General, Lviv
+Rating: 4/10
+Clinic visited: Stryiska Family Doctor Practice
+Description: My lab results from Stryiska Family Doctor Practice were never called in, and I only found them by chasing the front desk three times.
+
+Review 7 for Dr. Leonid Kravchenko, General, Lviv
+Rating: 5/10
+Clinic visited: Lion Gate Medical Centre
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Good bedside manner from Dr. Leonid Kravchenko, but the parking near Lion Gate Medical Centre is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Leonid Kravchenko, General, Lviv
+Rating: 3/10
+Clinic visited: Stryiska Family Doctor Practice
+Description: My persistent fatigue was brushed aside as stress by Dr. Leonid Kravchenko, and it took a second doctor to find the actual cause. The prescription from Dr. Leonid Kravchenko was not the one we discussed, and I only noticed when I got home.
+
+Review 9 for Dr. Leonid Kravchenko, General, Lviv
+Rating: 5/10
+Clinic visited: Stryiska Family Doctor Practice
+Description: Referrals from Dr. Leonid Kravchenko are handled well, but getting test results back took longer than I was told to expect.
+
+Review 10 for Dr. Leonid Kravchenko, General, Lviv
+Rating: 6/10
+Clinic visited: Lion Gate Medical Centre
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 11 for Dr. Leonid Kravchenko, General, Lviv
+Rating: 7/10
+Clinic visited: Stryiska Family Doctor Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Leonid Kravchenko, General, Lviv: 5.09/10 from 11 reviews

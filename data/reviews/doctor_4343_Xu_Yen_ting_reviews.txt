@@ -1,0 +1,54 @@
+Doctor: Dr. Xu Yen-ting
+Doctor ID: 4343
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 4
+City: Taichung, Taiwan
+Clinics: Xitun Guangming Medical Clinic (clinic ID 560); Central District Fengle Polyclinic (clinic ID 563)
+
+Review 1 for Dr. Xu Yen-ting, Pediatrics, Taichung
+Rating: 9/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: My teenager actually spoke up during the visit, and Dr. Xu Yen-ting handled sensitive topics with respect. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Xu Yen-ting, Pediatrics, Taichung
+Rating: 7/10
+Clinic visited: Central District Fengle Polyclinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Xu Yen-ting, Pediatrics, Taichung
+Rating: 10/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: Dr. Xu Yen-ting double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Xu Yen-ting, Pediatrics, Taichung
+Rating: 7/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Xu Yen-ting, Pediatrics, Taichung
+Rating: 8/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: We got a same-day appointment for a high fever, and the care at Xitun Guangming Medical Clinic was kind and efficient. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Xu Yen-ting, Pediatrics, Taichung
+Rating: 9/10
+Clinic visited: Central District Fengle Polyclinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Xu Yen-ting, Pediatrics, Taichung
+Rating: 7/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Xu Yen-ting, Pediatrics, Taichung
+Rating: 8/10
+Clinic visited: Central District Fengle Polyclinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Our family has been coming for years, and he remembers each child's history and personality. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Xu Yen-ting, Pediatrics, Taichung
+Rating: 10/10
+Clinic visited: Central District Fengle Polyclinic
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Xu Yen-ting, Pediatrics, Taichung: 8.33/10 from 9 reviews

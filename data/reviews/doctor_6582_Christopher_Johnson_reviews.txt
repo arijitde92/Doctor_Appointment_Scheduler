@@ -1,0 +1,49 @@
+Doctor: Dr. Christopher Johnson
+Doctor ID: 6582
+Specialization: General
+Gender: Male
+Years of experience: 4
+City: Sydney, Australia
+Clinics: Wattle Grove Medical (clinic ID 853)
+
+Review 1 for Dr. Christopher Johnson, General, Sydney
+Rating: 9/10
+Clinic visited: Wattle Grove Medical
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. Paperwork at Wattle Grove Medical was kept to a minimum, and the staff helped me complete the insurance form. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Christopher Johnson, General, Sydney
+Rating: 9/10
+Clinic visited: Wattle Grove Medical
+Description: Getting to Wattle Grove Medical from across Sydney was easy, and the same-week appointment saved me an urgent care trip. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 3 for Dr. Christopher Johnson, General, Sydney
+Rating: 8/10
+Clinic visited: Wattle Grove Medical
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. My test results arrived in the portal within two days, together with a short note that made sense. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Christopher Johnson, General, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Wattle Grove Medical were inconsistent. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Christopher Johnson, General, Sydney
+Rating: 5/10
+Clinic visited: Wattle Grove Medical
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Christopher Johnson, General, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: Referrals from Dr. Christopher Johnson are handled well, but getting test results back took longer than I was told to expect. Helpful visit overall, although I only found out about an extra charge after I had paid. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Christopher Johnson, General, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Christopher Johnson, General, Sydney
+Rating: 8/10
+Clinic visited: Wattle Grove Medical
+Description: Managing my type 2 diabetes with Dr. Christopher Johnson has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Overall rating for Dr. Christopher Johnson, General, Sydney: 7.50/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Carlos Barbosa
+Doctor ID: 593
+Specialization: General
+Gender: Male
+Years of experience: 2
+City: Curitiba, Brazil
+Clinics: Clínica Batel Saúde Integral (clinic ID 80); Centro Médico Rua XV (clinic ID 81); Clínica Portão Familiar (clinic ID 83)
+
+Review 1 for Dr. Carlos Barbosa, General, Curitiba
+Rating: 8/10
+Clinic visited: Clínica Portão Familiar
+Description: The waiting room at Clínica Portão Familiar was clean, quiet and comfortable, with enough seating and water available. As a new patient in Curitiba, I felt welcomed at Clínica Portão Familiar, and my whole history was reviewed in one relaxed visit.
+
+Review 2 for Dr. Carlos Barbosa, General, Curitiba
+Rating: 8/10
+Clinic visited: Centro Médico Rua XV
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. The receptionist at Centro Médico Rua XV remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 3 for Dr. Carlos Barbosa, General, Curitiba
+Rating: 7/10
+Clinic visited: Centro Médico Rua XV
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Carlos Barbosa, General, Curitiba
+Rating: 6/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Dr. Carlos Barbosa was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Carlos Barbosa, General, Curitiba
+Rating: 8/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Best family doctor I have had; He treats the whole person and not just the symptom list. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Carlos Barbosa, General, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Portão Familiar
+Description: Dr. Carlos Barbosa is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Carlos Barbosa, General, Curitiba
+Rating: 6/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: Referrals from Dr. Carlos Barbosa are handled well, but getting test results back took longer than I was told to expect. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Carlos Barbosa, General, Curitiba
+Rating: 6/10
+Clinic visited: Centro Médico Rua XV
+Description: Booking was easy online, but the confirmation email contained the wrong address for Centro Médico Rua XV. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Centro Médico Rua XV were inconsistent.
+
+Review 9 for Dr. Carlos Barbosa, General, Curitiba
+Rating: 8/10
+Clinic visited: Clínica Portão Familiar
+Description: By the time I left the room, Dr. Carlos Barbosa had sorted the sick note, referral letter and prescription refill.
+
+Overall rating for Dr. Carlos Barbosa, General, Curitiba: 7.11/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Rania Rizk
+Doctor ID: 5903
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 5
+City: Cairo, Egypt
+Clinics: Heliopolis Salama Polyclinic (clinic ID 762)
+
+Review 1 for Dr. Rania Rizk, Pediatrics, Cairo
+Rating: 7/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: Dr. Rania Rizk was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Rania Rizk, Pediatrics, Cairo
+Rating: 8/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 3 for Dr. Rania Rizk, Pediatrics, Cairo
+Rating: 7/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 4 for Dr. Rania Rizk, Pediatrics, Cairo
+Rating: 9/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. The waiting room at Heliopolis Salama Polyclinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 5 for Dr. Rania Rizk, Pediatrics, Cairo
+Rating: 10/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. Vaccination visits with Dr. Rania Rizk are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 6 for Dr. Rania Rizk, Pediatrics, Cairo
+Rating: 8/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: Everything was explained in plain English by Dr. Rania Rizk, and nothing was left to guess. The school physical at Heliopolis Salama Polyclinic was quick, thorough and the forms were completed on the spot.
+
+Review 7 for Dr. Rania Rizk, Pediatrics, Cairo
+Rating: 6/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: Caring and gentle with my child, Dr. Rania Rizk nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 8 for Dr. Rania Rizk, Pediatrics, Cairo
+Rating: 10/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: At my visit, Dr. Rania Rizk took notes on my medication list, checked for interactions and explained the changes simply. I phoned after hours about a fever and was called back within the hour with calm, sensible advice.
+
+Overall rating for Dr. Rania Rizk, Pediatrics, Cairo: 8.12/10 from 8 reviews

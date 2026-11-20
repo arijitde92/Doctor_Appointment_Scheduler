@@ -1,0 +1,49 @@
+Doctor: Dr. Silvia Conti
+Doctor ID: 3352
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 30
+City: Florence, Italy
+Clinics: Poliambulatorio Santa Maria Novella (clinic ID 435); Centro Medico Campo di Marte (clinic ID 436)
+
+Review 1 for Dr. Silvia Conti, Pediatrics, Florence
+Rating: 10/10
+Clinic visited: Centro Medico Campo di Marte
+Description: Booking online at Centro Medico Campo di Marte was simple, and I got a confirmation text with clear directions and a reminder the day before. Our family has been coming for years, and she remembers each child's history and personality. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Silvia Conti, Pediatrics, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 3 for Dr. Silvia Conti, Pediatrics, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 4 for Dr. Silvia Conti, Pediatrics, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: We got a same-day appointment for a high fever, and the care at Poliambulatorio Santa Maria Novella was kind and efficient. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Silvia Conti, Pediatrics, Florence
+Rating: 10/10
+Clinic visited: Centro Medico Campo di Marte
+Description: The school physical at Centro Medico Campo di Marte was quick, thorough and the forms were completed on the spot.
+
+Review 6 for Dr. Silvia Conti, Pediatrics, Florence
+Rating: 8/10
+Clinic visited: Centro Medico Campo di Marte
+Description: Dr. Silvia Conti noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 7 for Dr. Silvia Conti, Pediatrics, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Quick appointment and a fair price in Florence, but the staff seemed overwhelmed and a bit curt on the phone. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Silvia Conti, Pediatrics, Florence
+Rating: 6/10
+Clinic visited: Centro Medico Campo di Marte
+Description: I got what I needed, but the next available appointment was three weeks away. Caring and gentle with my child, Dr. Silvia Conti nonetheless ran forty minutes behind schedule at most appointments. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Silvia Conti, Pediatrics, Florence: 8.00/10 from 8 reviews

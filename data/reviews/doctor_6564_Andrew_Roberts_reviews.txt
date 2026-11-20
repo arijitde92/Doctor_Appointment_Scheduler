@@ -1,0 +1,49 @@
+Doctor: Dr. Andrew Roberts
+Doctor ID: 6564
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 30
+City: Sydney, Australia
+Clinics: Southern Cross Family Medical Practice (clinic ID 850); Coastal Family Doctors (clinic ID 854)
+
+Review 1 for Dr. Andrew Roberts, Pediatrics, Sydney
+Rating: 10/10
+Clinic visited: Coastal Family Doctors
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Everything was explained in plain English by Dr. Andrew Roberts, and nothing was left to guess.
+
+Review 2 for Dr. Andrew Roberts, Pediatrics, Sydney
+Rating: 8/10
+Clinic visited: Coastal Family Doctors
+Description: A same-day slot was found for me at Coastal Family Doctors when I called with a worrying symptom. Our family has been coming for years, and he remembers each child's history and personality. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Andrew Roberts, Pediatrics, Sydney
+Rating: 6/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Andrew Roberts, Pediatrics, Sydney
+Rating: 8/10
+Clinic visited: Coastal Family Doctors
+Description: My teenager actually spoke up during the visit, and Dr. Andrew Roberts handled sensitive topics with respect. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Andrew Roberts, Pediatrics, Sydney
+Rating: 10/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: The waiting room in Sydney has a play corner and separate seating for sick children, which I really valued. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 6 for Dr. Andrew Roberts, Pediatrics, Sydney
+Rating: 9/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 7 for Dr. Andrew Roberts, Pediatrics, Sydney
+Rating: 7/10
+Clinic visited: Coastal Family Doctors
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Andrew Roberts, Pediatrics, Sydney
+Rating: 6/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Helpful visit overall, although I only found out about an extra charge after I had paid. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Andrew Roberts, Pediatrics, Sydney: 8.00/10 from 8 reviews

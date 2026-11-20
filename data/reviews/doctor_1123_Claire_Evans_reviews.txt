@@ -1,0 +1,49 @@
+Doctor: Dr. Claire Evans
+Doctor ID: 1123
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 13
+City: London, UK
+Clinics: Aldersgate Street Polyclinic (clinic ID 147); Brixton Road Health Practice (clinic ID 148)
+
+Review 1 for Dr. Claire Evans, Pulmonology, London
+Rating: 6/10
+Clinic visited: Brixton Road Health Practice
+Description: Dr. Claire Evans adjusted my asthma medication well, but the breathing test appointment was a month away. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Claire Evans, Pulmonology, London
+Rating: 8/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. The visit began with a short, friendly chat that put me at ease before any examination started. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Claire Evans, Pulmonology, London
+Rating: 6/10
+Clinic visited: Brixton Road Health Practice
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 4 for Dr. Claire Evans, Pulmonology, London
+Rating: 7/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Aldersgate Street Polyclinic.
+
+Review 5 for Dr. Claire Evans, Pulmonology, London
+Rating: 8/10
+Clinic visited: Brixton Road Health Practice
+Description: She called personally with my scan results and walked me through what the findings did and did not mean. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Claire Evans, Pulmonology, London
+Rating: 7/10
+Clinic visited: Brixton Road Health Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Pleasant manner and careful lung exam, though the waiting time at Brixton Road Health Practice regularly exceeded forty minutes.
+
+Review 7 for Dr. Claire Evans, Pulmonology, London
+Rating: 5/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Good bedside manner from Dr. Claire Evans, but the parking near Aldersgate Street Polyclinic is limited and I had to circle for fifteen minutes. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Claire Evans, Pulmonology, London
+Rating: 7/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Quick appointment and a fair price in London, but the staff seemed overwhelmed and a bit curt on the phone. Helpful and honest about my prognosis, Dr. Claire Evans could still have given me more written material to take home.
+
+Overall rating for Dr. Claire Evans, Pulmonology, London: 6.75/10 from 8 reviews

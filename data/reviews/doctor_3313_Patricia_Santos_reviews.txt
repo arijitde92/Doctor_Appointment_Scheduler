@@ -1,0 +1,69 @@
+Doctor: Dr. Patrícia Santos
+Doctor ID: 3313
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 12
+City: Luxembourg City, Luxembourg
+Clinics: Cabinet Médical Gare (clinic ID 430); Centre de Santé Belair (clinic ID 434)
+
+Review 1 for Dr. Patrícia Santos, Psychiatry, Luxembourg City
+Rating: 9/10
+Clinic visited: Cabinet Médical Gare
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 2 for Dr. Patrícia Santos, Psychiatry, Luxembourg City
+Rating: 9/10
+Clinic visited: Cabinet Médical Gare
+Description: The ADHD assessment by Dr. Patrícia Santos was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 3 for Dr. Patrícia Santos, Psychiatry, Luxembourg City
+Rating: 9/10
+Clinic visited: Cabinet Médical Gare
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Dr. Patrícia Santos looked me in the eye, listened to the whole story and only then started typing.
+
+Review 4 for Dr. Patrícia Santos, Psychiatry, Luxembourg City
+Rating: 9/10
+Clinic visited: Cabinet Médical Gare
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 5 for Dr. Patrícia Santos, Psychiatry, Luxembourg City
+Rating: 8/10
+Clinic visited: Centre de Santé Belair
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 6 for Dr. Patrícia Santos, Psychiatry, Luxembourg City
+Rating: 10/10
+Clinic visited: Cabinet Médical Gare
+Description: Appointments in Luxembourg City are always on schedule, and the waiting area is peaceful and private.
+
+Review 7 for Dr. Patrícia Santos, Psychiatry, Luxembourg City
+Rating: 8/10
+Clinic visited: Cabinet Médical Gare
+Description: The practice in Luxembourg City is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I felt heard by Dr. Patrícia Santos during a very hard time, and nobody rushed me out of the room.
+
+Review 8 for Dr. Patrícia Santos, Psychiatry, Luxembourg City
+Rating: 8/10
+Clinic visited: Centre de Santé Belair
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. At my visit, Dr. Patrícia Santos took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 9 for Dr. Patrícia Santos, Psychiatry, Luxembourg City
+Rating: 10/10
+Clinic visited: Cabinet Médical Gare
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. I will be coming back for all my future check-ups.
+
+Review 10 for Dr. Patrícia Santos, Psychiatry, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre de Santé Belair
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 11 for Dr. Patrícia Santos, Psychiatry, Luxembourg City
+Rating: 6/10
+Clinic visited: Cabinet Médical Gare
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I liked the advice I got from Dr. Patrícia Santos, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 12 for Dr. Patrícia Santos, Psychiatry, Luxembourg City
+Rating: 7/10
+Clinic visited: Cabinet Médical Gare
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Booking was easy online, but the confirmation email contained the wrong address for Cabinet Médical Gare. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Patrícia Santos, Psychiatry, Luxembourg City: 8.25/10 from 12 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Nazrul Mia
+Doctor ID: 5404
+Specialization: Psychology
+Gender: Male
+Years of experience: 8
+City: Chittagong, Bangladesh
+Clinics: Nirmal Shastho Clinic (clinic ID 699)
+
+Review 1 for Dr. Nazrul Mia, Psychology, Chittagong
+Rating: 9/10
+Clinic visited: Nirmal Shastho Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Nazrul Mia felt well organized from start to finish. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Nazrul Mia, Psychology, Chittagong
+Rating: 8/10
+Clinic visited: Nirmal Shastho Clinic
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Review 3 for Dr. Nazrul Mia, Psychology, Chittagong
+Rating: 8/10
+Clinic visited: Nirmal Shastho Clinic
+Description: Warm, patient and honest, Dr. Nazrul Mia told me what progress to expect and it matched reality. Sensitive questions were handled by Dr. Nazrul Mia with discretion and without a hint of judgment.
+
+Review 4 for Dr. Nazrul Mia, Psychology, Chittagong
+Rating: 9/10
+Clinic visited: Nirmal Shastho Clinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. He has a calm way of asking the difficult questions that makes it feel safe to answer honestly.
+
+Review 5 for Dr. Nazrul Mia, Psychology, Chittagong
+Rating: 8/10
+Clinic visited: Nirmal Shastho Clinic
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Nazrul Mia, Psychology, Chittagong
+Rating: 8/10
+Clinic visited: Nirmal Shastho Clinic
+Description: The office in Chittagong is quiet and private, and the receptionist never mentions anything in front of other patients. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Nazrul Mia, Psychology, Chittagong
+Rating: 10/10
+Clinic visited: Nirmal Shastho Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Nazrul Mia, Psychology, Chittagong
+Rating: 10/10
+Clinic visited: Nirmal Shastho Clinic
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Nazrul Mia gave me practical tools I still use. Prescriptions from Dr. Nazrul Mia were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Overall rating for Dr. Nazrul Mia, Psychology, Chittagong: 8.75/10 from 8 reviews

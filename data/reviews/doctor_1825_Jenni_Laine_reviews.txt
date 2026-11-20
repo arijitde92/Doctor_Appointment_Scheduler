@@ -1,0 +1,54 @@
+Doctor: Dr. Jenni Laine
+Doctor ID: 1825
+Specialization: General
+Gender: Female
+Years of experience: 3
+City: Espoo, Finland
+Clinics: Lääkäriasema Espoon Keskus (clinic ID 238)
+
+Review 1 for Dr. Jenni Laine, General, Espoo
+Rating: 9/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: My blood pressure had crept up and Dr. Jenni Laine walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 2 for Dr. Jenni Laine, General, Espoo
+Rating: 7/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Lääkäriasema Espoon Keskus were inconsistent.
+
+Review 3 for Dr. Jenni Laine, General, Espoo
+Rating: 7/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Dr. Jenni Laine was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Jenni Laine, General, Espoo
+Rating: 8/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: Managing my type 2 diabetes with Dr. Jenni Laine has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 5 for Dr. Jenni Laine, General, Espoo
+Rating: 10/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 6 for Dr. Jenni Laine, General, Espoo
+Rating: 7/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Jenni Laine, General, Espoo
+Rating: 7/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: I liked the advice I got from Dr. Jenni Laine, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Jenni Laine, General, Espoo
+Rating: 8/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: My test results arrived in the portal within two days, together with a short note that made sense. By the time I left the room, Dr. Jenni Laine had sorted the sick note, referral letter and prescription refill. I have no hesitation sending my own relatives here.
+
+Review 9 for Dr. Jenni Laine, General, Espoo
+Rating: 10/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: I always hear back within a day when I leave a question with the nurse at Lääkäriasema Espoon Keskus, and Dr. Jenni Laine follows up on lab results personally.
+
+Overall rating for Dr. Jenni Laine, General, Espoo: 8.11/10 from 9 reviews

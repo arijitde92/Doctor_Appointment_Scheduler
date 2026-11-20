@@ -1,0 +1,49 @@
+Doctor: Dr. Emma Fredriksson
+Doctor ID: 2196
+Specialization: General
+Gender: Female
+Years of experience: 11
+City: Stockholm, Sweden
+Clinics: Medicinskt Centrum Sveavägen (clinic ID 287)
+
+Review 1 for Dr. Emma Fredriksson, General, Stockholm
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Dr. Emma Fredriksson is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 2 for Dr. Emma Fredriksson, General, Stockholm
+Rating: 5/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Medicinskt Centrum Sveavägen were inconsistent.
+
+Review 3 for Dr. Emma Fredriksson, General, Stockholm
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Dr. Emma Fredriksson was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 4 for Dr. Emma Fredriksson, General, Stockholm
+Rating: 4/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 5 for Dr. Emma Fredriksson, General, Stockholm
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: As a new patient in Stockholm, I felt welcomed at Medicinskt Centrum Sveavägen, and my whole history was reviewed in one relaxed visit. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 6 for Dr. Emma Fredriksson, General, Stockholm
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 7 for Dr. Emma Fredriksson, General, Stockholm
+Rating: 4/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: My persistent fatigue was brushed aside as stress by Dr. Emma Fredriksson, and it took a second doctor to find the actual cause. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Review 8 for Dr. Emma Fredriksson, General, Stockholm
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Good bedside manner from Dr. Emma Fredriksson, but the parking near Medicinskt Centrum Sveavägen is limited and I had to circle for fifteen minutes. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Overall rating for Dr. Emma Fredriksson, General, Stockholm: 6.12/10 from 8 reviews

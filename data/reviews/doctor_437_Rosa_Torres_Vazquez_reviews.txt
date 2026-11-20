@@ -1,0 +1,59 @@
+Doctor: Dr. Rosa Torres Vázquez
+Doctor ID: 437
+Specialization: General
+Gender: Female
+Years of experience: 4
+City: Mexico City, Mexico
+Clinics: Clínica Santa Brígida (clinic ID 60); Centro Médico Polanco Norte (clinic ID 61)
+
+Review 1 for Dr. Rosa Torres Vázquez, General, Mexico City
+Rating: 10/10
+Clinic visited: Clínica Santa Brígida
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 2 for Dr. Rosa Torres Vázquez, General, Mexico City
+Rating: 9/10
+Clinic visited: Clínica Santa Brígida
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Dr. Rosa Torres Vázquez spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Rosa Torres Vázquez, General, Mexico City
+Rating: 8/10
+Clinic visited: Clínica Santa Brígida
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. The waiting room at Clínica Santa Brígida was clean, quiet and comfortable, with enough seating and water available.
+
+Review 4 for Dr. Rosa Torres Vázquez, General, Mexico City
+Rating: 9/10
+Clinic visited: Centro Médico Polanco Norte
+Description: I appreciated that she offered more than one option and let me choose what suited my life. By the time I left the room, Dr. Rosa Torres Vázquez had sorted the sick note, referral letter and prescription refill.
+
+Review 5 for Dr. Rosa Torres Vázquez, General, Mexico City
+Rating: 9/10
+Clinic visited: Clínica Santa Brígida
+Description: Vaccination advice from Dr. Rosa Torres Vázquez for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 6 for Dr. Rosa Torres Vázquez, General, Mexico City
+Rating: 8/10
+Clinic visited: Clínica Santa Brígida
+Description: My annual check-up with Dr. Rosa Torres Vázquez took forty minutes, with every screening explained and nothing rushed. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Rosa Torres Vázquez, General, Mexico City
+Rating: 10/10
+Clinic visited: Clínica Santa Brígida
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Cholesterol results were explained by Dr. Rosa Torres Vázquez with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 8 for Dr. Rosa Torres Vázquez, General, Mexico City
+Rating: 9/10
+Clinic visited: Clínica Santa Brígida
+Description: Prescriptions from Dr. Rosa Torres Vázquez were sent to my pharmacy before I even left the building, and the dosage instructions were written down. As a new patient in Mexico City, I felt welcomed at Clínica Santa Brígida, and my whole history was reviewed in one relaxed visit.
+
+Review 9 for Dr. Rosa Torres Vázquez, General, Mexico City
+Rating: 6/10
+Clinic visited: Clínica Santa Brígida
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Clínica Santa Brígida were inconsistent. Worth trying, but I would not call it the best option in the area.
+
+Review 10 for Dr. Rosa Torres Vázquez, General, Mexico City
+Rating: 8/10
+Clinic visited: Clínica Santa Brígida
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Overall rating for Dr. Rosa Torres Vázquez, General, Mexico City: 8.60/10 from 10 reviews

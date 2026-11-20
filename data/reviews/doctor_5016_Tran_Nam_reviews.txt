@@ -1,0 +1,59 @@
+Doctor: Dr. Tran Nam
+Doctor ID: 5016
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 10
+City: Hanoi, Vietnam
+Clinics: Phong Kham Da Khoa Thien Phuc (clinic ID 648)
+
+Review 1 for Dr. Tran Nam, Gastroenterology, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Tran Nam, Gastroenterology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 3 for Dr. Tran Nam, Gastroenterology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 4 for Dr. Tran Nam, Gastroenterology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Tran Nam, Gastroenterology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Dr. Tran Nam was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 6 for Dr. Tran Nam, Gastroenterology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Clear explanation from Dr. Tran Nam of fatty liver and exactly which lifestyle changes would make a measurable difference. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 7 for Dr. Tran Nam, Gastroenterology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Getting to Phong Kham Da Khoa Thien Phuc by public transport in Hanoi was easy, and there is a step-free entrance for wheelchairs. I get regular check-ups for my Crohn's disease, and Dr. Tran Nam adjusts my treatment carefully and always explains why.
+
+Review 8 for Dr. Tran Nam, Gastroenterology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The treatment plan from Dr. Tran Nam made sense, but I wished it had been written down for me to take away. Knowledgeable about my reflux, Dr. Tran Nam still gave diet advice that felt generic and not tailored to my habits.
+
+Review 9 for Dr. Tran Nam, Gastroenterology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 10 for Dr. Tran Nam, Gastroenterology, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Quick appointment and a fair price in Hanoi, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Tran Nam, Gastroenterology, Hanoi: 6.50/10 from 10 reviews

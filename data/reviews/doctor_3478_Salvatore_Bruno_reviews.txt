@@ -1,0 +1,49 @@
+Doctor: Dr. Salvatore Bruno
+Doctor ID: 3478
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 5
+City: Rome, Italy
+Clinics: Poliambulatorio Santa Chiara (clinic ID 450)
+
+Review 1 for Dr. Salvatore Bruno, Orthopedic, Rome
+Rating: 9/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. The nurse was friendly and efficient, and the whole visit with Dr. Salvatore Bruno felt well organized from start to finish.
+
+Review 2 for Dr. Salvatore Bruno, Orthopedic, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Salvatore Bruno, Orthopedic, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: A translator was arranged for my mother without us asking twice, and Dr. Salvatore Bruno spoke directly to her throughout. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Salvatore Bruno, Orthopedic, Rome
+Rating: 9/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: Follow-up scans were compared with the earlier ones, and Dr. Salvatore Bruno showed me how the bone had healed.
+
+Review 5 for Dr. Salvatore Bruno, Orthopedic, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. My torn rotator cuff was managed first by Dr. Salvatore Bruno with physiotherapy, and surgery was only suggested when it truly was needed. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Salvatore Bruno, Orthopedic, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Salvatore Bruno, Orthopedic, Rome
+Rating: 6/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Salvatore Bruno, Orthopedic, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Overall rating for Dr. Salvatore Bruno, Orthopedic, Rome: 8.00/10 from 8 reviews

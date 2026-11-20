@@ -1,0 +1,49 @@
+Doctor: Dr. Héctor Rojas
+Doctor ID: 921
+Specialization: Neurology
+Gender: Male
+Years of experience: 23
+City: Cusco, Peru
+Clinics: Centro Médico El Sol (clinic ID 121)
+
+Review 1 for Dr. Héctor Rojas, Neurology, Cusco
+Rating: 9/10
+Clinic visited: Centro Médico El Sol
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 2 for Dr. Héctor Rojas, Neurology, Cusco
+Rating: 6/10
+Clinic visited: Centro Médico El Sol
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Booking was easy online, but the confirmation email contained the wrong address for Centro Médico El Sol. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Héctor Rojas, Neurology, Cusco
+Rating: 8/10
+Clinic visited: Centro Médico El Sol
+Description: Getting a same-month appointment in Cusco for my sudden headaches was a real relief, and the work-up was prompt. Dr. Héctor Rojas double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Héctor Rojas, Neurology, Cusco
+Rating: 6/10
+Clinic visited: Centro Médico El Sol
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Héctor Rojas at Centro Médico El Sol are difficult to schedule.
+
+Review 5 for Dr. Héctor Rojas, Neurology, Cusco
+Rating: 8/10
+Clinic visited: Centro Médico El Sol
+Description: The memory assessment for my father at Centro Médico El Sol was gentle and respectful, and the family received a clear written summary.
+
+Review 6 for Dr. Héctor Rojas, Neurology, Cusco
+Rating: 5/10
+Clinic visited: Centro Médico El Sol
+Description: Dr. Héctor Rojas explained my results well, although the visit felt short for such a complex condition. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Héctor Rojas, Neurology, Cusco
+Rating: 9/10
+Clinic visited: Centro Médico El Sol
+Description: He patiently explained my MRI findings and calmed my worries about memory problems.
+
+Review 8 for Dr. Héctor Rojas, Neurology, Cusco
+Rating: 8/10
+Clinic visited: Centro Médico El Sol
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. Dr. Héctor Rojas looked me in the eye, listened to the whole story and only then started typing.
+
+Overall rating for Dr. Héctor Rojas, Neurology, Cusco: 7.38/10 from 8 reviews

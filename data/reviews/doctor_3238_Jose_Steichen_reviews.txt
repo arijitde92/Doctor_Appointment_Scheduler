@@ -1,0 +1,69 @@
+Doctor: Dr. José Steichen
+Doctor ID: 3238
+Specialization: Pathology
+Gender: Male
+Years of experience: 25
+City: Dudelange, Luxembourg
+Clinics: Cabinet Médical Dudelange Centre (clinic ID 420); Polyclinique Italiens (clinic ID 422); Centre de Santé Schmelz (clinic ID 424)
+
+Review 1 for Dr. José Steichen, Pathology, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. José Steichen, Pathology, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Dr. José Steichen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. José Steichen, Pathology, Dudelange
+Rating: 6/10
+Clinic visited: Cabinet Médical Dudelange Centre
+Description: Dr. José Steichen answered my questions kindly, though the call back took three days.
+
+Review 4 for Dr. José Steichen, Pathology, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. José Steichen, Pathology, Dudelange
+Rating: 9/10
+Clinic visited: Cabinet Médical Dudelange Centre
+Description: Dr. José Steichen took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. Booking online at Cabinet Médical Dudelange Centre was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 6 for Dr. José Steichen, Pathology, Dudelange
+Rating: 6/10
+Clinic visited: Centre de Santé Schmelz
+Description: The blood draw was painless, but the waiting area at Centre de Santé Schmelz was crowded in the early morning. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. José Steichen, Pathology, Dudelange
+Rating: 7/10
+Clinic visited: Cabinet Médical Dudelange Centre
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. José Steichen, Pathology, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: Helpful in clarifying a borderline result, though Dr. José Steichen gave little guidance about whether to repeat it. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 9 for Dr. José Steichen, Pathology, Dudelange
+Rating: 6/10
+Clinic visited: Cabinet Médical Dudelange Centre
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Helpful visit overall, although I only found out about an extra charge after I had paid. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. José Steichen, Pathology, Dudelange
+Rating: 6/10
+Clinic visited: Cabinet Médical Dudelange Centre
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I will give it one more visit before I decide whether to stay.
+
+Review 11 for Dr. José Steichen, Pathology, Dudelange
+Rating: 6/10
+Clinic visited: Centre de Santé Schmelz
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 12 for Dr. José Steichen, Pathology, Dudelange
+Rating: 8/10
+Clinic visited: Cabinet Médical Dudelange Centre
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Overall rating for Dr. José Steichen, Pathology, Dudelange: 6.83/10 from 12 reviews

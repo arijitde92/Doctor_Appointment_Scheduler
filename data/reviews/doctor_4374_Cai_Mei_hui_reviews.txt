@@ -1,0 +1,54 @@
+Doctor: Dr. Cai Mei-hui
+Doctor ID: 4374
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 27
+City: Taichung, Taiwan
+Clinics: Central District Fengle Polyclinic (clinic ID 563)
+
+Review 1 for Dr. Cai Mei-hui, Psychiatry, Taichung
+Rating: 6/10
+Clinic visited: Central District Fengle Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Cai Mei-hui, Psychiatry, Taichung
+Rating: 6/10
+Clinic visited: Central District Fengle Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Cai Mei-hui, Psychiatry, Taichung
+Rating: 7/10
+Clinic visited: Central District Fengle Polyclinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 4 for Dr. Cai Mei-hui, Psychiatry, Taichung
+Rating: 6/10
+Clinic visited: Central District Fengle Polyclinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Cai Mei-hui, Psychiatry, Taichung
+Rating: 6/10
+Clinic visited: Central District Fengle Polyclinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Good bedside manner from Dr. Cai Mei-hui, but the parking near Central District Fengle Polyclinic is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Cai Mei-hui, Psychiatry, Taichung
+Rating: 6/10
+Clinic visited: Central District Fengle Polyclinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular. The treatment plan from Dr. Cai Mei-hui made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Cai Mei-hui, Psychiatry, Taichung
+Rating: 8/10
+Clinic visited: Central District Fengle Polyclinic
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Cai Mei-hui, Psychiatry, Taichung
+Rating: 9/10
+Clinic visited: Central District Fengle Polyclinic
+Description: I can ring Central District Fengle Polyclinic with an urgent question and receive a thoughtful reply the same day. A same-day slot was found for me at Central District Fengle Polyclinic when I called with a worrying symptom.
+
+Review 9 for Dr. Cai Mei-hui, Psychiatry, Taichung
+Rating: 8/10
+Clinic visited: Central District Fengle Polyclinic
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. Prescriptions from Dr. Cai Mei-hui were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Overall rating for Dr. Cai Mei-hui, Psychiatry, Taichung: 6.89/10 from 9 reviews

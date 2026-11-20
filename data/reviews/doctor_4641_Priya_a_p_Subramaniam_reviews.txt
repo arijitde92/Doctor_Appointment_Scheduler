@@ -1,0 +1,59 @@
+Doctor: Dr. Priya a/p Subramaniam
+Doctor ID: 4641
+Specialization: Pathology
+Gender: Female
+Years of experience: 13
+City: Ipoh, Malaysia
+Clinics: Klinik Nusa Prima (clinic ID 600); Lestari Health Centre (clinic ID 601); Klinik Medik Tulus (clinic ID 602)
+
+Review 1 for Dr. Priya a/p Subramaniam, Pathology, Ipoh
+Rating: 9/10
+Clinic visited: Klinik Medik Tulus
+Description: Getting to Klinik Medik Tulus by public transport in Ipoh was easy, and there is a step-free entrance for wheelchairs.
+
+Review 2 for Dr. Priya a/p Subramaniam, Pathology, Ipoh
+Rating: 7/10
+Clinic visited: Klinik Nusa Prima
+Description: Helpful in clarifying a borderline result, though Dr. Priya a/p Subramaniam gave little guidance about whether to repeat it. Booking was easy online, but the confirmation email contained the wrong address for Klinik Nusa Prima.
+
+Review 3 for Dr. Priya a/p Subramaniam, Pathology, Ipoh
+Rating: 10/10
+Clinic visited: Lestari Health Centre
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Dr. Priya a/p Subramaniam took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 4 for Dr. Priya a/p Subramaniam, Pathology, Ipoh
+Rating: 8/10
+Clinic visited: Klinik Nusa Prima
+Description: The staff and Dr. Priya a/p Subramaniam patiently went through my cholesterol and glucose numbers and explained what each meant for me. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Priya a/p Subramaniam, Pathology, Ipoh
+Rating: 5/10
+Clinic visited: Klinik Medik Tulus
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Priya a/p Subramaniam, Pathology, Ipoh
+Rating: 4/10
+Clinic visited: Klinik Nusa Prima
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week. The staff were curt and impatient when I asked how to read the reference ranges on my report.
+
+Review 7 for Dr. Priya a/p Subramaniam, Pathology, Ipoh
+Rating: 6/10
+Clinic visited: Lestari Health Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Priya a/p Subramaniam, Pathology, Ipoh
+Rating: 7/10
+Clinic visited: Klinik Nusa Prima
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 9 for Dr. Priya a/p Subramaniam, Pathology, Ipoh
+Rating: 7/10
+Clinic visited: Lestari Health Centre
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Priya a/p Subramaniam, Pathology, Ipoh
+Rating: 6/10
+Clinic visited: Klinik Nusa Prima
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Overall rating for Dr. Priya a/p Subramaniam, Pathology, Ipoh: 6.90/10 from 10 reviews

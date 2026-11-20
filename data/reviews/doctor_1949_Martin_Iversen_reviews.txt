@@ -1,0 +1,64 @@
+Doctor: Dr. Martin Iversen
+Doctor ID: 1949
+Specialization: Psychology
+Gender: Male
+Years of experience: 22
+City: Bergen, Norway
+Clinics: Legesenteret Torgallmenningen (clinic ID 255)
+
+Review 1 for Dr. Martin Iversen, Psychology, Bergen
+Rating: 8/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: I never felt judged by Dr. Martin Iversen when talking about my burnout, and the sessions gave me language for things I could not explain before. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Martin Iversen, Psychology, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Martin Iversen, Psychology, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot.
+
+Review 4 for Dr. Martin Iversen, Psychology, Bergen
+Rating: 9/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: The office in Bergen is quiet and private, and the receptionist never mentions anything in front of other patients. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Martin Iversen, Psychology, Bergen
+Rating: 5/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Insightful and kind, though progress with Dr. Martin Iversen felt slow, and I wished for more structured homework between sessions. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Martin Iversen, Psychology, Bergen
+Rating: 5/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Dr. Martin Iversen listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 7 for Dr. Martin Iversen, Psychology, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 8 for Dr. Martin Iversen, Psychology, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 9 for Dr. Martin Iversen, Psychology, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: My trauma work felt well paced, although the schedule changed several times at Legesenteret Torgallmenningen. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 10 for Dr. Martin Iversen, Psychology, Bergen
+Rating: 5/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. I liked the advice I got from Dr. Martin Iversen, but I would have liked more time to ask follow-up questions before the visit ended. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 11 for Dr. Martin Iversen, Psychology, Bergen
+Rating: 5/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Martin Iversen, Psychology, Bergen: 6.27/10 from 11 reviews

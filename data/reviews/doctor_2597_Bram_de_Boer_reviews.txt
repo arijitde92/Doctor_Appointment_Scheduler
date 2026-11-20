@@ -1,0 +1,59 @@
+Doctor: Dr. Bram de Boer
+Doctor ID: 2597
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 6
+City: Rotterdam, Netherlands
+Clinics: Medisch Centrum Coolsingel (clinic ID 340)
+
+Review 1 for Dr. Bram de Boer, Pediatrics, Rotterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Bram de Boer, Pediatrics, Rotterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Bram de Boer, Pediatrics, Rotterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Bram de Boer is thorough with exams, but the after-hours phone line at Medisch Centrum Coolsingel is hard to reach. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Bram de Boer, Pediatrics, Rotterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: My teenager actually spoke up during the visit, and Dr. Bram de Boer handled sensitive topics with respect.
+
+Review 5 for Dr. Bram de Boer, Pediatrics, Rotterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: My toddler was terrified of doctors, but Dr. Bram de Boer sat on the floor, played with a stuffed toy and examined everything without a single tear. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Bram de Boer, Pediatrics, Rotterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I liked the advice I got from Dr. Bram de Boer, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Bram de Boer, Pediatrics, Rotterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Bram de Boer, Pediatrics, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: The school physical at Medisch Centrum Coolsingel was quick, thorough and the forms were completed on the spot. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 9 for Dr. Bram de Boer, Pediatrics, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Dr. Bram de Boer noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 10 for Dr. Bram de Boer, Pediatrics, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: The growth chart review was detailed, and I appreciated that Dr. Bram de Boer talked to my child as well as to me. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Overall rating for Dr. Bram de Boer, Pediatrics, Rotterdam: 7.60/10 from 10 reviews

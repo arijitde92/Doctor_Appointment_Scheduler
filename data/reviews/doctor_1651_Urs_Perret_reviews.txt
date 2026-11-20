@@ -1,0 +1,64 @@
+Doctor: Dr. Urs Perret
+Doctor ID: 1651
+Specialization: Cardiology
+Gender: Male
+Years of experience: 7
+City: Basel, Switzerland
+Clinics: Praxiszentrum Rheinknie (clinic ID 215); Aerztehaus Steinen Basel (clinic ID 216); Gesundheitszentrum Clara (clinic ID 217)
+
+Review 1 for Dr. Urs Perret, Cardiology, Basel
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Clara
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 2 for Dr. Urs Perret, Cardiology, Basel
+Rating: 7/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Urs Perret, Cardiology, Basel
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Dr. Urs Perret adjusted my blood pressure medication carefully, though I had to call twice for a refill. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Urs Perret, Cardiology, Basel
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Great care in the visit itself, but the billing for the tests at Gesundheitszentrum Clara was confusing.
+
+Review 5 for Dr. Urs Perret, Cardiology, Basel
+Rating: 7/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Helpful with my cholesterol, Dr. Urs Perret still gave dietary advice that was a little generic. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Urs Perret, Cardiology, Basel
+Rating: 10/10
+Clinic visited: Praxiszentrum Rheinknie
+Description: The receptionist at Praxiszentrum Rheinknie remembered my name and had my forms ready, so check-in took less than a minute. Clear and calm advice at Praxiszentrum Rheinknie about exercise after my stent, including a gradual written schedule.
+
+Review 7 for Dr. Urs Perret, Cardiology, Basel
+Rating: 6/10
+Clinic visited: Praxiszentrum Rheinknie
+Description: Dr. Urs Perret was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 8 for Dr. Urs Perret, Cardiology, Basel
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Clara
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Urs Perret, Cardiology, Basel
+Rating: 5/10
+Clinic visited: Praxiszentrum Rheinknie
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 10 for Dr. Urs Perret, Cardiology, Basel
+Rating: 9/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: Everything was explained in plain English by Dr. Urs Perret, and nothing was left to guess.
+
+Review 11 for Dr. Urs Perret, Cardiology, Basel
+Rating: 7/10
+Clinic visited: Praxiszentrum Rheinknie
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Overall rating for Dr. Urs Perret, Cardiology, Basel: 6.82/10 from 11 reviews

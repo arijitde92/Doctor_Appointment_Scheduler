@@ -1,0 +1,49 @@
+Doctor: Dr. Heikki Mattila
+Doctor ID: 1878
+Specialization: Radiology
+Gender: Male
+Years of experience: 20
+City: Tampere, Finland
+Clinics: Lääkärikeskus Hämeenkatu Plus (clinic ID 245); Terveyskeskus Tahmela (clinic ID 249)
+
+Review 1 for Dr. Heikki Mattila, Radiology, Tampere
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hämeenkatu Plus
+Description: Dr. Heikki Mattila answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 2 for Dr. Heikki Mattila, Radiology, Tampere
+Rating: 9/10
+Clinic visited: Lääkärikeskus Hämeenkatu Plus
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Heikki Mattila, Radiology, Tampere
+Rating: 4/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Dr. Heikki Mattila did not seem to have read my notes and asked me to repeat my whole history from the beginning. The staff seemed rushed and impatient with an elderly patient who needed help changing.
+
+Review 4 for Dr. Heikki Mattila, Radiology, Tampere
+Rating: 8/10
+Clinic visited: Lääkärikeskus Hämeenkatu Plus
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. Dr. Heikki Mattila looked me in the eye, listened to the whole story and only then started typing.
+
+Review 5 for Dr. Heikki Mattila, Radiology, Tampere
+Rating: 9/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Dr. Heikki Mattila compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 6 for Dr. Heikki Mattila, Radiology, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Heikki Mattila, Radiology, Tampere
+Rating: 6/10
+Clinic visited: Lääkärikeskus Hämeenkatu Plus
+Description: The report from Dr. Heikki Mattila was thorough, though full of technical terms that needed my regular doctor to translate. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Heikki Mattila, Radiology, Tampere
+Rating: 6/10
+Clinic visited: Lääkärikeskus Hämeenkatu Plus
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Heikki Mattila, Radiology, Tampere: 7.00/10 from 8 reviews

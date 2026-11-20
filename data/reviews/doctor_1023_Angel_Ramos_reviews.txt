@@ -1,0 +1,69 @@
+Doctor: Dr. Ángel Ramos
+Doctor ID: 1023
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 4
+City: Trujillo, Peru
+Clinics: Instituto de Salud Víctor Larco (clinic ID 134)
+
+Review 1 for Dr. Ángel Ramos, Gastroenterology, Trujillo
+Rating: 5/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 2 for Dr. Ángel Ramos, Gastroenterology, Trujillo
+Rating: 5/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Ángel Ramos, Gastroenterology, Trujillo
+Rating: 5/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Good bedside manner from Dr. Ángel Ramos, but the parking near Instituto de Salud Víctor Larco is limited and I had to circle for fifteen minutes.
+
+Review 4 for Dr. Ángel Ramos, Gastroenterology, Trujillo
+Rating: 7/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 5 for Dr. Ángel Ramos, Gastroenterology, Trujillo
+Rating: 6/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Ángel Ramos, Gastroenterology, Trujillo
+Rating: 8/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: I was nervous about my screening, but the team at Instituto de Salud Víctor Larco made me feel at ease, and I was home within hours.
+
+Review 7 for Dr. Ángel Ramos, Gastroenterology, Trujillo
+Rating: 8/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. The receptionist at Instituto de Salud Víctor Larco remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 8 for Dr. Ángel Ramos, Gastroenterology, Trujillo
+Rating: 7/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The treatment plan from Dr. Ángel Ramos made sense, but I wished it had been written down for me to take away. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Ángel Ramos, Gastroenterology, Trujillo
+Rating: 8/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. Prescriptions from Dr. Ángel Ramos were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 10 for Dr. Ángel Ramos, Gastroenterology, Trujillo
+Rating: 6/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 11 for Dr. Ángel Ramos, Gastroenterology, Trujillo
+Rating: 8/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 12 for Dr. Ángel Ramos, Gastroenterology, Trujillo
+Rating: 4/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. My symptoms were dismissed by Dr. Ángel Ramos as a diet issue without any exam, and the problem continued for months. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Overall rating for Dr. Ángel Ramos, Gastroenterology, Trujillo: 6.42/10 from 12 reviews

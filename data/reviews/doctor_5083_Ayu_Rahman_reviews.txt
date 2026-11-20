@@ -1,0 +1,54 @@
+Doctor: Dr. Ayu Rahman
+Doctor ID: 5083
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 4
+City: Bandung, Indonesia
+Clinics: Klinik Dharma Bakti (clinic ID 657)
+
+Review 1 for Dr. Ayu Rahman, Psychiatry, Bandung
+Rating: 7/10
+Clinic visited: Klinik Dharma Bakti
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Ayu Rahman, Psychiatry, Bandung
+Rating: 7/10
+Clinic visited: Klinik Dharma Bakti
+Description: Dr. Ayu Rahman is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 3 for Dr. Ayu Rahman, Psychiatry, Bandung
+Rating: 7/10
+Clinic visited: Klinik Dharma Bakti
+Description: Good listener, yet the refill process at Klinik Dharma Bakti is slow and requires several phone calls. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Ayu Rahman, Psychiatry, Bandung
+Rating: 6/10
+Clinic visited: Klinik Dharma Bakti
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Booking was easy online, but the confirmation email contained the wrong address for Klinik Dharma Bakti.
+
+Review 5 for Dr. Ayu Rahman, Psychiatry, Bandung
+Rating: 8/10
+Clinic visited: Klinik Dharma Bakti
+Description: The practice in Bandung is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Telehealth follow-ups at Klinik Dharma Bakti are punctual and calm, and refills are dealt with quickly.
+
+Review 6 for Dr. Ayu Rahman, Psychiatry, Bandung
+Rating: 10/10
+Clinic visited: Klinik Dharma Bakti
+Description: My family was included in a session at my request, and Dr. Ayu Rahman handled it with great tact. A same-day slot was found for me at Klinik Dharma Bakti when I called with a worrying symptom.
+
+Review 7 for Dr. Ayu Rahman, Psychiatry, Bandung
+Rating: 8/10
+Clinic visited: Klinik Dharma Bakti
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. The waiting room at Klinik Dharma Bakti was clean, quiet and comfortable, with enough seating and water available.
+
+Review 8 for Dr. Ayu Rahman, Psychiatry, Bandung
+Rating: 9/10
+Clinic visited: Klinik Dharma Bakti
+Description: I can ring Klinik Dharma Bakti with an urgent question and receive a thoughtful reply the same day. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 9 for Dr. Ayu Rahman, Psychiatry, Bandung
+Rating: 7/10
+Clinic visited: Klinik Dharma Bakti
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Ayu Rahman, Psychiatry, Bandung: 7.67/10 from 9 reviews

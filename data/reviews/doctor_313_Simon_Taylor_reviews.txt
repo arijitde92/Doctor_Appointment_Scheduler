@@ -1,0 +1,49 @@
+Doctor: Dr. Simon Taylor
+Doctor ID: 313
+Specialization: Neurology
+Gender: Male
+Years of experience: 5
+City: Montreal, Canada
+Clinics: Polyclinique du Parc (clinic ID 43)
+
+Review 1 for Dr. Simon Taylor, Neurology, Montreal
+Rating: 7/10
+Clinic visited: Polyclinique du Parc
+Description: I liked the advice I got from Dr. Simon Taylor, but I would have liked more time to ask follow-up questions before the visit ended. Supportive about my diagnosis, yet follow-up appointments with Dr. Simon Taylor at Polyclinique du Parc are difficult to schedule.
+
+Review 2 for Dr. Simon Taylor, Neurology, Montreal
+Rating: 7/10
+Clinic visited: Polyclinique du Parc
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Simon Taylor, Neurology, Montreal
+Rating: 5/10
+Clinic visited: Polyclinique du Parc
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Simon Taylor, Neurology, Montreal
+Rating: 9/10
+Clinic visited: Polyclinique du Parc
+Description: Getting a same-month appointment in Montreal for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 5 for Dr. Simon Taylor, Neurology, Montreal
+Rating: 7/10
+Clinic visited: Polyclinique du Parc
+Description: Dr. Simon Taylor explained my results well, although the visit felt short for such a complex condition.
+
+Review 6 for Dr. Simon Taylor, Neurology, Montreal
+Rating: 7/10
+Clinic visited: Polyclinique du Parc
+Description: Booking was easy online, but the confirmation email contained the wrong address for Polyclinique du Parc. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 7 for Dr. Simon Taylor, Neurology, Montreal
+Rating: 8/10
+Clinic visited: Polyclinique du Parc
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 8 for Dr. Simon Taylor, Neurology, Montreal
+Rating: 8/10
+Clinic visited: Polyclinique du Parc
+Description: The waiting room at Polyclinique du Parc was clean, quiet and comfortable, with enough seating and water available. He patiently explained my MRI findings and calmed my worries about memory problems.
+
+Overall rating for Dr. Simon Taylor, Neurology, Montreal: 7.25/10 from 8 reviews

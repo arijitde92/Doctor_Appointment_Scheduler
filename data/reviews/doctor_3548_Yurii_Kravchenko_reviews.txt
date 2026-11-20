@@ -1,0 +1,49 @@
+Doctor: Dr. Yurii Kravchenko
+Doctor ID: 3548
+Specialization: Cardiology
+Gender: Male
+Years of experience: 1
+City: Dnipro, Ukraine
+Clinics: Slobozhanska Polyclinic (clinic ID 459)
+
+Review 1 for Dr. Yurii Kravchenko, Cardiology, Dnipro
+Rating: 7/10
+Clinic visited: Slobozhanska Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Yurii Kravchenko adjusted my blood pressure medication carefully, though I had to call twice for a refill. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Yurii Kravchenko, Cardiology, Dnipro
+Rating: 5/10
+Clinic visited: Slobozhanska Polyclinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 3 for Dr. Yurii Kravchenko, Cardiology, Dnipro
+Rating: 4/10
+Clinic visited: Slobozhanska Polyclinic
+Description: I felt dismissed by Dr. Yurii Kravchenko when I brought up a second concern, and was told to book another appointment for it. I was billed separately for tests that I understood to be part of the original consultation.
+
+Review 4 for Dr. Yurii Kravchenko, Cardiology, Dnipro
+Rating: 4/10
+Clinic visited: Slobozhanska Polyclinic
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 5 for Dr. Yurii Kravchenko, Cardiology, Dnipro
+Rating: 4/10
+Clinic visited: Slobozhanska Polyclinic
+Description: My test results sat on Dr. Yurii Kravchenko's desk for two weeks, and I only learned about a medication change when I called the pharmacy. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 6 for Dr. Yurii Kravchenko, Cardiology, Dnipro
+Rating: 7/10
+Clinic visited: Slobozhanska Polyclinic
+Description: Helpful with my cholesterol, Dr. Yurii Kravchenko still gave dietary advice that was a little generic. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Yurii Kravchenko, Cardiology, Dnipro
+Rating: 5/10
+Clinic visited: Slobozhanska Polyclinic
+Description: Great care in the visit itself, but the billing for the tests at Slobozhanska Polyclinic was confusing. Booking was easy online, but the confirmation email contained the wrong address for Slobozhanska Polyclinic. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Yurii Kravchenko, Cardiology, Dnipro
+Rating: 6/10
+Clinic visited: Slobozhanska Polyclinic
+Description: I liked the advice I got from Dr. Yurii Kravchenko, but I would have liked more time to ask follow-up questions before the visit ended. The echocardiogram staff were kind, but the results took over a week to be explained to me. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Yurii Kravchenko, Cardiology, Dnipro: 5.25/10 from 8 reviews

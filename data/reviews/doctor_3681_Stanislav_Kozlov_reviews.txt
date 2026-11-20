@@ -1,0 +1,59 @@
+Doctor: Dr. Stanislav Kozlov
+Doctor ID: 3681
+Specialization: Cardiology
+Gender: Male
+Years of experience: 4
+City: Kazan, Russia
+Clinics: Bulak Medical Centre (clinic ID 475); Idel Health Practice (clinic ID 478)
+
+Review 1 for Dr. Stanislav Kozlov, Cardiology, Kazan
+Rating: 10/10
+Clinic visited: Idel Health Practice
+Description: Dr. Stanislav Kozlov drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 2 for Dr. Stanislav Kozlov, Cardiology, Kazan
+Rating: 9/10
+Clinic visited: Bulak Medical Centre
+Description: My atrial fibrillation is well managed by Dr. Stanislav Kozlov, and I know exactly what symptoms mean I should call. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Stanislav Kozlov, Cardiology, Kazan
+Rating: 10/10
+Clinic visited: Bulak Medical Centre
+Description: The receptionist at Bulak Medical Centre remembered my name and had my forms ready, so check-in took less than a minute. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Stanislav Kozlov, Cardiology, Kazan
+Rating: 10/10
+Clinic visited: Bulak Medical Centre
+Description: Paperwork at Bulak Medical Centre was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 5 for Dr. Stanislav Kozlov, Cardiology, Kazan
+Rating: 10/10
+Clinic visited: Idel Health Practice
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 6 for Dr. Stanislav Kozlov, Cardiology, Kazan
+Rating: 9/10
+Clinic visited: Bulak Medical Centre
+Description: My stress test was supervised carefully, and Dr. Stanislav Kozlov reviewed the results in the same visit with a plan for my cholesterol. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 7 for Dr. Stanislav Kozlov, Cardiology, Kazan
+Rating: 8/10
+Clinic visited: Idel Health Practice
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 8 for Dr. Stanislav Kozlov, Cardiology, Kazan
+Rating: 8/10
+Clinic visited: Bulak Medical Centre
+Description: I came away understanding my condition better than I have in years of previous appointments. Worth every minute of travel, and I would go again without a second thought.
+
+Review 9 for Dr. Stanislav Kozlov, Cardiology, Kazan
+Rating: 8/10
+Clinic visited: Bulak Medical Centre
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 10 for Dr. Stanislav Kozlov, Cardiology, Kazan
+Rating: 7/10
+Clinic visited: Idel Health Practice
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Overall rating for Dr. Stanislav Kozlov, Cardiology, Kazan: 8.90/10 from 10 reviews

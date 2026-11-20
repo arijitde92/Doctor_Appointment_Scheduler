@@ -1,0 +1,54 @@
+Doctor: Dr. Lee Dae-jung
+Doctor ID: 4262
+Specialization: General
+Gender: Male
+Years of experience: 19
+City: Incheon, South Korea
+Clinics: Cheongna Dure Medical Clinic (clinic ID 549)
+
+Review 1 for Dr. Lee Dae-jung, General, Incheon
+Rating: 8/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: My annual check-up with Dr. Lee Dae-jung took forty minutes, with every screening explained and nothing rushed. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 2 for Dr. Lee Dae-jung, General, Incheon
+Rating: 8/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 3 for Dr. Lee Dae-jung, General, Incheon
+Rating: 7/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: Dr. Lee Dae-jung was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Lee Dae-jung, General, Incheon
+Rating: 4/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week. My lab results from Cheongna Dure Medical Clinic were never called in, and I only found them by chasing the front desk three times.
+
+Review 5 for Dr. Lee Dae-jung, General, Incheon
+Rating: 6/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Cheongna Dure Medical Clinic were inconsistent. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Lee Dae-jung, General, Incheon
+Rating: 7/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Quick appointment and a fair price in Incheon, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Lee Dae-jung, General, Incheon
+Rating: 7/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Lee Dae-jung, General, Incheon
+Rating: 7/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Lee Dae-jung, General, Incheon
+Rating: 8/10
+Clinic visited: Cheongna Dure Medical Clinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Overall rating for Dr. Lee Dae-jung, General, Incheon: 6.89/10 from 9 reviews

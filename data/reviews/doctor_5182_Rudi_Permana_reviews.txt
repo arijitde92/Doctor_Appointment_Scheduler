@@ -1,0 +1,54 @@
+Doctor: Dr. Rudi Permana
+Doctor ID: 5182
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 4
+City: Surabaya, Indonesia
+Clinics: Klinik Sumber Waras Jaya (clinic ID 670)
+
+Review 1 for Dr. Rudi Permana, Gastroenterology, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 2 for Dr. Rudi Permana, Gastroenterology, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: I liked the advice I got from Dr. Rudi Permana, but I would have liked more time to ask follow-up questions before the visit ended. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Rudi Permana, Gastroenterology, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 4 for Dr. Rudi Permana, Gastroenterology, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: Dr. Rudi Permana is thorough, but I waited nearly two months to get the first available slot. I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Rudi Permana, Gastroenterology, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 6 for Dr. Rudi Permana, Gastroenterology, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Rudi Permana, Gastroenterology, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: Dr. Rudi Permana took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. Dr. Rudi Permana looked me in the eye, listened to the whole story and only then started typing.
+
+Review 8 for Dr. Rudi Permana, Gastroenterology, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: Knowledgeable about my reflux, Dr. Rudi Permana still gave diet advice that felt generic and not tailored to my habits.
+
+Review 9 for Dr. Rudi Permana, Gastroenterology, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Rudi Permana, Gastroenterology, Surabaya: 6.67/10 from 9 reviews

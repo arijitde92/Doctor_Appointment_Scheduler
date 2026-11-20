@@ -1,0 +1,49 @@
+Doctor: Dr. Alberto García López
+Doctor ID: 439
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 2
+City: Mexico City, Mexico
+Clinics: Clínica Santa Brígida (clinic ID 60); Centro Médico Polanco Norte (clinic ID 61)
+
+Review 1 for Dr. Alberto García López, Pediatrics, Mexico City
+Rating: 5/10
+Clinic visited: Clínica Santa Brígida
+Description: Caring and gentle with my child, Dr. Alberto García López nonetheless ran forty minutes behind schedule at most appointments. The treatment plan from Dr. Alberto García López made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Alberto García López, Pediatrics, Mexico City
+Rating: 5/10
+Clinic visited: Centro Médico Polanco Norte
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Alberto García López, Pediatrics, Mexico City
+Rating: 6/10
+Clinic visited: Clínica Santa Brígida
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Booking was easy online, but the confirmation email contained the wrong address for Clínica Santa Brígida.
+
+Review 4 for Dr. Alberto García López, Pediatrics, Mexico City
+Rating: 5/10
+Clinic visited: Clínica Santa Brígida
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Alberto García López is thorough with exams, but the after-hours phone line at Clínica Santa Brígida is hard to reach.
+
+Review 5 for Dr. Alberto García López, Pediatrics, Mexico City
+Rating: 8/10
+Clinic visited: Clínica Santa Brígida
+Description: Vaccination visits with Dr. Alberto García López are painless and well explained, and my questions about the schedule were answered without any pressure. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Alberto García López, Pediatrics, Mexico City
+Rating: 7/10
+Clinic visited: Centro Médico Polanco Norte
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Alberto García López, Pediatrics, Mexico City
+Rating: 8/10
+Clinic visited: Centro Médico Polanco Norte
+Description: My teenager actually spoke up during the visit, and Dr. Alberto García López handled sensitive topics with respect.
+
+Review 8 for Dr. Alberto García López, Pediatrics, Mexico City
+Rating: 6/10
+Clinic visited: Centro Médico Polanco Norte
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Overall rating for Dr. Alberto García López, Pediatrics, Mexico City: 6.25/10 from 8 reviews

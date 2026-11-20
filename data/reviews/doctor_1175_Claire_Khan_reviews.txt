@@ -1,0 +1,69 @@
+Doctor: Dr. Claire Khan
+Doctor ID: 1175
+Specialization: Cardiology
+Gender: Female
+Years of experience: 10
+City: Manchester, UK
+Clinics: Hardman Square Polyclinic (clinic ID 153)
+
+Review 1 for Dr. Claire Khan, Cardiology, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 2 for Dr. Claire Khan, Cardiology, Manchester
+Rating: 9/10
+Clinic visited: Hardman Square Polyclinic
+Description: After my palpitations began, Dr. Claire Khan arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. The nurse was friendly and efficient, and the whole visit with Dr. Claire Khan felt well organized from start to finish.
+
+Review 3 for Dr. Claire Khan, Cardiology, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Claire Khan, Cardiology, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: My atrial fibrillation is well managed by Dr. Claire Khan, and I know exactly what symptoms mean I should call. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Claire Khan, Cardiology, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 6 for Dr. Claire Khan, Cardiology, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: Good bedside manner from Dr. Claire Khan, but the parking near Hardman Square Polyclinic is limited and I had to circle for fifteen minutes. Great care in the visit itself, but the billing for the tests at Hardman Square Polyclinic was confusing.
+
+Review 7 for Dr. Claire Khan, Cardiology, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: Quick appointment and a fair price in Manchester, but the staff seemed overwhelmed and a bit curt on the phone. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 8 for Dr. Claire Khan, Cardiology, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning.
+
+Review 9 for Dr. Claire Khan, Cardiology, Manchester
+Rating: 6/10
+Clinic visited: Hardman Square Polyclinic
+Description: I liked the advice I got from Dr. Claire Khan, but I would have liked more time to ask follow-up questions before the visit ended. Helpful with my cholesterol, Dr. Claire Khan still gave dietary advice that was a little generic.
+
+Review 10 for Dr. Claire Khan, Cardiology, Manchester
+Rating: 9/10
+Clinic visited: Hardman Square Polyclinic
+Description: Prescriptions from Dr. Claire Khan were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Dr. Claire Khan explained the difference between my statin options and let me weigh in on the choice. My whole family is switching over after seeing how good the care was.
+
+Review 11 for Dr. Claire Khan, Cardiology, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: Dr. Claire Khan adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 12 for Dr. Claire Khan, Cardiology, Manchester
+Rating: 10/10
+Clinic visited: Hardman Square Polyclinic
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices.
+
+Overall rating for Dr. Claire Khan, Cardiology, Manchester: 7.67/10 from 12 reviews

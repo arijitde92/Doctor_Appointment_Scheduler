@@ -1,0 +1,49 @@
+Doctor: Dr. Zhuang Yu-chen
+Doctor ID: 4384
+Specialization: Cardiology
+Gender: Female
+Years of experience: 11
+City: Tainan, Taiwan
+Clinics: Anping Haiyun Medical Clinic (clinic ID 565)
+
+Review 1 for Dr. Zhuang Yu-chen, Cardiology, Tainan
+Rating: 8/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 2 for Dr. Zhuang Yu-chen, Cardiology, Tainan
+Rating: 9/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: The cardiology unit at Anping Haiyun Medical Clinic runs on time, and the technicians were professional during my echocardiogram.
+
+Review 3 for Dr. Zhuang Yu-chen, Cardiology, Tainan
+Rating: 8/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: My stress test was supervised carefully, and Dr. Zhuang Yu-chen reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 4 for Dr. Zhuang Yu-chen, Cardiology, Tainan
+Rating: 8/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 5 for Dr. Zhuang Yu-chen, Cardiology, Tainan
+Rating: 5/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: Dr. Zhuang Yu-chen adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 6 for Dr. Zhuang Yu-chen, Cardiology, Tainan
+Rating: 9/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: Paperwork at Anping Haiyun Medical Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 7 for Dr. Zhuang Yu-chen, Cardiology, Tainan
+Rating: 9/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: Dr. Zhuang Yu-chen used a calm, steady voice that settled my nerves before a stressful procedure. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 8 for Dr. Zhuang Yu-chen, Cardiology, Tainan
+Rating: 8/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: Dr. Zhuang Yu-chen looked me in the eye, listened to the whole story and only then started typing. Honest about the risks and benefits of the procedure, Dr. Zhuang Yu-chen never pressured me toward surgery. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Zhuang Yu-chen, Cardiology, Tainan: 8.00/10 from 8 reviews

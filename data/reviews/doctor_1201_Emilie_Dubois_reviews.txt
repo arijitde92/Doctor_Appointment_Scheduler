@@ -1,0 +1,49 @@
+Doctor: Dr. Émilie Dubois
+Doctor ID: 1201
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: Lyon, France
+Clinics: Cabinet Médical des Brotteaux (clinic ID 156); Centre de Santé Croix-Rousse (clinic ID 158); Polyclinique de Gerland (clinic ID 159)
+
+Review 1 for Dr. Émilie Dubois, Cardiology, Lyon
+Rating: 10/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: A same-day slot was found for me at Centre de Santé Croix-Rousse when I called with a worrying symptom. After my palpitations began, Dr. Émilie Dubois arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Émilie Dubois, Cardiology, Lyon
+Rating: 9/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Émilie Dubois, Cardiology, Lyon
+Rating: 5/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: Helpful with my cholesterol, Dr. Émilie Dubois still gave dietary advice that was a little generic. Dr. Émilie Dubois was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Émilie Dubois, Cardiology, Lyon
+Rating: 6/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: Quick appointment and a fair price in Lyon, but the staff seemed overwhelmed and a bit curt on the phone. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Émilie Dubois, Cardiology, Lyon
+Rating: 8/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 6 for Dr. Émilie Dubois, Cardiology, Lyon
+Rating: 6/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 7 for Dr. Émilie Dubois, Cardiology, Lyon
+Rating: 5/10
+Clinic visited: Centre de Santé Croix-Rousse
+Description: Great care in the visit itself, but the billing for the tests at Centre de Santé Croix-Rousse was confusing. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Émilie Dubois, Cardiology, Lyon
+Rating: 7/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Émilie Dubois, Cardiology, Lyon: 7.00/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Gabriela Martínez
+Doctor ID: 719
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 3
+City: Buenos Aires, Argentina
+Clinics: Centro Médico Recoleta Norte (clinic ID 95); Clínica Belgrano Salud (clinic ID 96); Consultorios Médicos Caballito (clinic ID 97)
+
+Review 1 for Dr. Gabriela Martínez, Pediatrics, Buenos Aires
+Rating: 6/10
+Clinic visited: Clínica Belgrano Salud
+Description: Dr. Gabriela Martínez is thorough with exams, but the after-hours phone line at Clínica Belgrano Salud is hard to reach.
+
+Review 2 for Dr. Gabriela Martínez, Pediatrics, Buenos Aires
+Rating: 6/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 3 for Dr. Gabriela Martínez, Pediatrics, Buenos Aires
+Rating: 4/10
+Clinic visited: Clínica Belgrano Salud
+Description: Dr. Gabriela Martínez spoke mostly to the computer, and my child clung to me throughout the whole appointment. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 4 for Dr. Gabriela Martínez, Pediatrics, Buenos Aires
+Rating: 6/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 5 for Dr. Gabriela Martínez, Pediatrics, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Booking was easy online, but the confirmation email contained the wrong address for Consultorios Médicos Caballito.
+
+Review 6 for Dr. Gabriela Martínez, Pediatrics, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 7 for Dr. Gabriela Martínez, Pediatrics, Buenos Aires
+Rating: 7/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I liked the advice I got from Dr. Gabriela Martínez, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Gabriela Martínez, Pediatrics, Buenos Aires
+Rating: 10/10
+Clinic visited: Clínica Belgrano Salud
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Overall rating for Dr. Gabriela Martínez, Pediatrics, Buenos Aires: 6.62/10 from 8 reviews

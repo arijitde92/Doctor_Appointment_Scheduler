@@ -1,0 +1,54 @@
+Doctor: Dr. Karin de Boer
+Doctor ID: 2685
+Specialization: Cardiology
+Gender: Female
+Years of experience: 9
+City: Utrecht, Netherlands
+Clinics: Gezondheidscentrum Leidsche Rijn (clinic ID 352)
+
+Review 1 for Dr. Karin de Boer, Cardiology, Utrecht
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 2 for Dr. Karin de Boer, Cardiology, Utrecht
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: At my visit, Dr. Karin de Boer took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 3 for Dr. Karin de Boer, Cardiology, Utrecht
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 4 for Dr. Karin de Boer, Cardiology, Utrecht
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: My atrial fibrillation is well managed by Dr. Karin de Boer, and I know exactly what symptoms mean I should call. Appointment reminders came by text and email, and rescheduling took two taps. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Karin de Boer, Cardiology, Utrecht
+Rating: 10/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: Honest about the risks and benefits of the procedure, Dr. Karin de Boer never pressured me toward surgery. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 6 for Dr. Karin de Boer, Cardiology, Utrecht
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: The cardiology unit at Gezondheidscentrum Leidsche Rijn runs on time, and the technicians were professional during my echocardiogram. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 7 for Dr. Karin de Boer, Cardiology, Utrecht
+Rating: 10/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. Dr. Karin de Boer looked me in the eye, listened to the whole story and only then started typing.
+
+Review 8 for Dr. Karin de Boer, Cardiology, Utrecht
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Karin de Boer adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 9 for Dr. Karin de Boer, Cardiology, Utrecht
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: I appreciated that she offered more than one option and let me choose what suited my life. I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Karin de Boer, Cardiology, Utrecht: 8.67/10 from 9 reviews

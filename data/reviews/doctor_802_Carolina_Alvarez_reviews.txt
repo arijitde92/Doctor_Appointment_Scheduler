@@ -1,0 +1,49 @@
+Doctor: Dr. Carolina Álvarez
+Doctor ID: 802
+Specialization: General
+Gender: Female
+Years of experience: 2
+City: Mendoza, Argentina
+Clinics: Clínica Cuyo Salud (clinic ID 105); Centro Médico Las Heras (clinic ID 106)
+
+Review 1 for Dr. Carolina Álvarez, General, Mendoza
+Rating: 6/10
+Clinic visited: Clínica Cuyo Salud
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Carolina Álvarez is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 2 for Dr. Carolina Álvarez, General, Mendoza
+Rating: 7/10
+Clinic visited: Clínica Cuyo Salud
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Carolina Álvarez, General, Mendoza
+Rating: 5/10
+Clinic visited: Clínica Cuyo Salud
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Carolina Álvarez, General, Mendoza
+Rating: 7/10
+Clinic visited: Clínica Cuyo Salud
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 5 for Dr. Carolina Álvarez, General, Mendoza
+Rating: 6/10
+Clinic visited: Centro Médico Las Heras
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Centro Médico Las Heras were inconsistent. Dr. Carolina Álvarez was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 6 for Dr. Carolina Álvarez, General, Mendoza
+Rating: 5/10
+Clinic visited: Centro Médico Las Heras
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Booking was easy online, but the confirmation email contained the wrong address for Centro Médico Las Heras. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Carolina Álvarez, General, Mendoza
+Rating: 4/10
+Clinic visited: Clínica Cuyo Salud
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. I was sent for a battery of tests that had nothing to do with my complaint and received a surprise bill afterwards. Not a place I would choose again, and I hope others have a better experience.
+
+Review 8 for Dr. Carolina Álvarez, General, Mendoza
+Rating: 7/10
+Clinic visited: Clínica Cuyo Salud
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Carolina Álvarez, General, Mendoza: 5.88/10 from 8 reviews

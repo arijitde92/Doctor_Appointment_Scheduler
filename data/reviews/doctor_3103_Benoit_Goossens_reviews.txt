@@ -1,0 +1,54 @@
+Doctor: Dr. Benoît Goossens
+Doctor ID: 3103
+Specialization: General
+Gender: Male
+Years of experience: 10
+City: Brussels, Belgium
+Clinics: Medisch Centrum Schuman (clinic ID 403)
+
+Review 1 for Dr. Benoît Goossens, General, Brussels
+Rating: 7/10
+Clinic visited: Medisch Centrum Schuman
+Description: Referrals from Dr. Benoît Goossens are handled well, but getting test results back took longer than I was told to expect. I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Benoît Goossens, General, Brussels
+Rating: 8/10
+Clinic visited: Medisch Centrum Schuman
+Description: The practice in Brussels is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Cholesterol results were explained by Dr. Benoît Goossens with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 3 for Dr. Benoît Goossens, General, Brussels
+Rating: 9/10
+Clinic visited: Medisch Centrum Schuman
+Description: Dr. Benoît Goossens spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. Dr. Benoît Goossens drew a quick sketch to explain what was going on, which helped me remember it afterwards. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Benoît Goossens, General, Brussels
+Rating: 6/10
+Clinic visited: Medisch Centrum Schuman
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 5 for Dr. Benoît Goossens, General, Brussels
+Rating: 5/10
+Clinic visited: Medisch Centrum Schuman
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Dr. Benoît Goossens is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 6 for Dr. Benoît Goossens, General, Brussels
+Rating: 6/10
+Clinic visited: Medisch Centrum Schuman
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Benoît Goossens, General, Brussels
+Rating: 4/10
+Clinic visited: Medisch Centrum Schuman
+Description: My lab results from Medisch Centrum Schuman were never called in, and I only found them by chasing the front desk three times.
+
+Review 8 for Dr. Benoît Goossens, General, Brussels
+Rating: 6/10
+Clinic visited: Medisch Centrum Schuman
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Medisch Centrum Schuman were inconsistent. The treatment plan from Dr. Benoît Goossens made sense, but I wished it had been written down for me to take away.
+
+Review 9 for Dr. Benoît Goossens, General, Brussels
+Rating: 8/10
+Clinic visited: Medisch Centrum Schuman
+Description: I went in with months of tiredness, and Dr. Benoît Goossens ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Overall rating for Dr. Benoît Goossens, General, Brussels: 6.56/10 from 9 reviews

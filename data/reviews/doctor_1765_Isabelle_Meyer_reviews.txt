@@ -1,0 +1,49 @@
+Doctor: Dr. Isabelle Meyer
+Doctor ID: 1765
+Specialization: Radiology
+Gender: Female
+Years of experience: 18
+City: Zurich, Switzerland
+Clinics: Aerztezentrum Seefeld Plus (clinic ID 230)
+
+Review 1 for Dr. Isabelle Meyer, Radiology, Zurich
+Rating: 9/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: Dr. Isabelle Meyer compared my new scan with last year's and pointed out exactly what had stayed the same. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Isabelle Meyer, Radiology, Zurich
+Rating: 9/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: The receptionist at Aerztezentrum Seefeld Plus remembered my name and had my forms ready, so check-in took less than a minute. The report from Dr. Isabelle Meyer was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 3 for Dr. Isabelle Meyer, Radiology, Zurich
+Rating: 9/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Isabelle Meyer sent a clear report within a day. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Isabelle Meyer, Radiology, Zurich
+Rating: 6/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: Dr. Isabelle Meyer was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 5 for Dr. Isabelle Meyer, Radiology, Zurich
+Rating: 8/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Isabelle Meyer were respectful throughout.
+
+Review 6 for Dr. Isabelle Meyer, Radiology, Zurich
+Rating: 10/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: A translator was arranged for my mother without us asking twice, and Dr. Isabelle Meyer spoke directly to her throughout. Images from Aerztezentrum Seefeld Plus were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Isabelle Meyer, Radiology, Zurich
+Rating: 7/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The report from Dr. Isabelle Meyer was thorough, though full of technical terms that needed my regular doctor to translate. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Isabelle Meyer, Radiology, Zurich
+Rating: 10/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. Dr. Isabelle Meyer looked me in the eye, listened to the whole story and only then started typing.
+
+Overall rating for Dr. Isabelle Meyer, Radiology, Zurich: 8.50/10 from 8 reviews

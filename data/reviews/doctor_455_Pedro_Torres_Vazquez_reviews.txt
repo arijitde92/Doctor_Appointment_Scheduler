@@ -1,0 +1,59 @@
+Doctor: Dr. Pedro Torres Vázquez
+Doctor ID: 455
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 12
+City: Mexico City, Mexico
+Clinics: Clínica Familiar del Valle (clinic ID 63); Policlínica Reforma (clinic ID 64)
+
+Review 1 for Dr. Pedro Torres Vázquez, Pediatrics, Mexico City
+Rating: 8/10
+Clinic visited: Policlínica Reforma
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice. Dr. Pedro Torres Vázquez double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 2 for Dr. Pedro Torres Vázquez, Pediatrics, Mexico City
+Rating: 6/10
+Clinic visited: Clínica Familiar del Valle
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Pedro Torres Vázquez, Pediatrics, Mexico City
+Rating: 5/10
+Clinic visited: Clínica Familiar del Valle
+Description: I liked the advice I got from Dr. Pedro Torres Vázquez, but I would have liked more time to ask follow-up questions before the visit ended. Caring and gentle with my child, Dr. Pedro Torres Vázquez nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 4 for Dr. Pedro Torres Vázquez, Pediatrics, Mexico City
+Rating: 7/10
+Clinic visited: Policlínica Reforma
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Pedro Torres Vázquez, Pediatrics, Mexico City
+Rating: 6/10
+Clinic visited: Policlínica Reforma
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Pedro Torres Vázquez, Pediatrics, Mexico City
+Rating: 7/10
+Clinic visited: Clínica Familiar del Valle
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Pedro Torres Vázquez, Pediatrics, Mexico City
+Rating: 6/10
+Clinic visited: Clínica Familiar del Valle
+Description: Dr. Pedro Torres Vázquez is thorough with exams, but the after-hours phone line at Clínica Familiar del Valle is hard to reach. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 8 for Dr. Pedro Torres Vázquez, Pediatrics, Mexico City
+Rating: 6/10
+Clinic visited: Policlínica Reforma
+Description: Dr. Pedro Torres Vázquez was thoughtful and clear, though the front desk was disorganized and lost my first referral form. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 9 for Dr. Pedro Torres Vázquez, Pediatrics, Mexico City
+Rating: 5/10
+Clinic visited: Clínica Familiar del Valle
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 10 for Dr. Pedro Torres Vázquez, Pediatrics, Mexico City
+Rating: 9/10
+Clinic visited: Policlínica Reforma
+Description: A translator was arranged for my mother without us asking twice, and Dr. Pedro Torres Vázquez spoke directly to her throughout. My child's asthma action plan from Dr. Pedro Torres Vázquez was written out clearly so that school staff could follow it too. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Pedro Torres Vázquez, Pediatrics, Mexico City: 6.50/10 from 10 reviews

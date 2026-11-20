@@ -1,0 +1,64 @@
+Doctor: Dr. Mercedes Gómez Álvarez
+Doctor ID: 1341
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 12
+City: Barcelona, Spain
+Clinics: Clínica Sant Jordi (clinic ID 175); Centre Mèdic Eixample (clinic ID 176); Centre Mèdic Sants (clinic ID 179)
+
+Review 1 for Dr. Mercedes Gómez Álvarez, Psychiatry, Barcelona
+Rating: 4/10
+Clinic visited: Centre Mèdic Eixample
+Description: My concerns about how I felt on the dose were waved away rather than explored.
+
+Review 2 for Dr. Mercedes Gómez Álvarez, Psychiatry, Barcelona
+Rating: 6/10
+Clinic visited: Centre Mèdic Sants
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Mercedes Gómez Álvarez, Psychiatry, Barcelona
+Rating: 4/10
+Clinic visited: Centre Mèdic Eixample
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 4 for Dr. Mercedes Gómez Álvarez, Psychiatry, Barcelona
+Rating: 5/10
+Clinic visited: Centre Mèdic Sants
+Description: Booking was easy online, but the confirmation email contained the wrong address for Centre Mèdic Sants.
+
+Review 5 for Dr. Mercedes Gómez Álvarez, Psychiatry, Barcelona
+Rating: 5/10
+Clinic visited: Centre Mèdic Eixample
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Mercedes Gómez Álvarez, Psychiatry, Barcelona
+Rating: 5/10
+Clinic visited: Clínica Sant Jordi
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Good bedside manner from Dr. Mercedes Gómez Álvarez, but the parking near Clínica Sant Jordi is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Mercedes Gómez Álvarez, Psychiatry, Barcelona
+Rating: 6/10
+Clinic visited: Centre Mèdic Eixample
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Mercedes Gómez Álvarez, Psychiatry, Barcelona
+Rating: 4/10
+Clinic visited: Centre Mèdic Sants
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 9 for Dr. Mercedes Gómez Álvarez, Psychiatry, Barcelona
+Rating: 6/10
+Clinic visited: Clínica Sant Jordi
+Description: Dr. Mercedes Gómez Álvarez is knowledgeable, though I waited several weeks for my first appointment. Quick appointment and a fair price in Barcelona, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 10 for Dr. Mercedes Gómez Álvarez, Psychiatry, Barcelona
+Rating: 4/10
+Clinic visited: Clínica Sant Jordi
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion. Not a place I would choose again, and I hope others have a better experience.
+
+Review 11 for Dr. Mercedes Gómez Álvarez, Psychiatry, Barcelona
+Rating: 4/10
+Clinic visited: Centre Mèdic Sants
+Description: Dr. Mercedes Gómez Álvarez seemed to focus on the paperwork, and I did not feel I could share what was really going on.
+
+Overall rating for Dr. Mercedes Gómez Álvarez, Psychiatry, Barcelona: 4.82/10 from 11 reviews

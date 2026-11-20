@@ -1,0 +1,54 @@
+Doctor: Dr. Ana Reyes
+Doctor ID: 4859
+Specialization: Pathology
+Gender: Female
+Years of experience: 7
+City: Manila, Philippines
+Clinics: San Lorenzo Family Clinic (clinic ID 627)
+
+Review 1 for Dr. Ana Reyes, Pathology, Manila
+Rating: 7/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Ana Reyes, Pathology, Manila
+Rating: 6/10
+Clinic visited: San Lorenzo Family Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 3 for Dr. Ana Reyes, Pathology, Manila
+Rating: 6/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Ana Reyes, Pathology, Manila
+Rating: 5/10
+Clinic visited: San Lorenzo Family Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Ana Reyes, Pathology, Manila
+Rating: 7/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Quick appointment and a fair price in Manila, but the staff seemed overwhelmed and a bit curt on the phone. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 6 for Dr. Ana Reyes, Pathology, Manila
+Rating: 6/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Dr. Ana Reyes answered my questions kindly, though the call back took three days.
+
+Review 7 for Dr. Ana Reyes, Pathology, Manila
+Rating: 7/10
+Clinic visited: San Lorenzo Family Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 8 for Dr. Ana Reyes, Pathology, Manila
+Rating: 6/10
+Clinic visited: San Lorenzo Family Clinic
+Description: The blood draw was painless, but the waiting area at San Lorenzo Family Clinic was crowded in the early morning.
+
+Review 9 for Dr. Ana Reyes, Pathology, Manila
+Rating: 7/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Ana Reyes gave little guidance about whether to repeat it. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Ana Reyes, Pathology, Manila: 6.33/10 from 9 reviews

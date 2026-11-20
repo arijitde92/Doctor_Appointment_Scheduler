@@ -1,0 +1,49 @@
+Doctor: Dr. Baek Ji-hye
+Doctor ID: 4171
+Specialization: Psychology
+Gender: Female
+Years of experience: 14
+City: Busan, South Korea
+Clinics: Nampo Hanbit Health Clinic (clinic ID 537); Sasang Nuri Medical Clinic (clinic ID 539)
+
+Review 1 for Dr. Baek Ji-hye, Psychology, Busan
+Rating: 10/10
+Clinic visited: Sasang Nuri Medical Clinic
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 2 for Dr. Baek Ji-hye, Psychology, Busan
+Rating: 10/10
+Clinic visited: Sasang Nuri Medical Clinic
+Description: Warm, patient and honest, Dr. Baek Ji-hye told me what progress to expect and it matched reality. Everything was explained in plain English by Dr. Baek Ji-hye, and nothing was left to guess.
+
+Review 3 for Dr. Baek Ji-hye, Psychology, Busan
+Rating: 7/10
+Clinic visited: Sasang Nuri Medical Clinic
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Baek Ji-hye, Psychology, Busan
+Rating: 10/10
+Clinic visited: Sasang Nuri Medical Clinic
+Description: Online sessions through Sasang Nuri Medical Clinic worked just as well as in-person ones, and the video link never once failed. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Baek Ji-hye, Psychology, Busan
+Rating: 10/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: I appreciated the written summary Dr. Baek Ji-hye sent after each session and the short worksheets between visits.
+
+Review 6 for Dr. Baek Ji-hye, Psychology, Busan
+Rating: 10/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 7 for Dr. Baek Ji-hye, Psychology, Busan
+Rating: 7/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Dr. Baek Ji-hye listens well, though some sessions felt like a recap of the previous one without much new direction. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Baek Ji-hye, Psychology, Busan
+Rating: 7/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Overall rating for Dr. Baek Ji-hye, Psychology, Busan: 8.88/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Hasegawa Emi
+Doctor ID: 4113
+Specialization: General
+Gender: Female
+Years of experience: 13
+City: Yokohama, Japan
+Clinics: Minato Mirai Nami Clinic (clinic ID 530); Yokohama Station Kaze Medical Clinic (clinic ID 531)
+
+Review 1 for Dr. Hasegawa Emi, General, Yokohama
+Rating: 7/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Yokohama Station Kaze Medical Clinic were inconsistent. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Hasegawa Emi, General, Yokohama
+Rating: 7/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Referrals from Dr. Hasegawa Emi are handled well, but getting test results back took longer than I was told to expect. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Hasegawa Emi, General, Yokohama
+Rating: 6/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Hasegawa Emi is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 4 for Dr. Hasegawa Emi, General, Yokohama
+Rating: 8/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: My blood pressure had crept up and Dr. Hasegawa Emi walked me through diet changes before suggesting anything else. Three months later my readings were normal. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Hasegawa Emi, General, Yokohama
+Rating: 9/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: I always hear back within a day when I leave a question with the nurse at Yokohama Station Kaze Medical Clinic, and Dr. Hasegawa Emi follows up on lab results personally.
+
+Review 6 for Dr. Hasegawa Emi, General, Yokohama
+Rating: 9/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: My annual check-up with Dr. Hasegawa Emi took forty minutes, with every screening explained and nothing rushed. Dr. Hasegawa Emi drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 7 for Dr. Hasegawa Emi, General, Yokohama
+Rating: 9/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Hasegawa Emi, General, Yokohama
+Rating: 6/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Overall rating for Dr. Hasegawa Emi, General, Yokohama: 7.62/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Henrik Nilsson
+Doctor ID: 2186
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 27
+City: Stockholm, Sweden
+Clinics: Vårdcentralen Drottninggatan Plus (clinic ID 285); Läkarhuset Götgatan (clinic ID 286); Medicinskt Centrum Sveavägen (clinic ID 287)
+
+Review 1 for Dr. Henrik Nilsson, Orthopedic, Stockholm
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Dr. Henrik Nilsson explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 2 for Dr. Henrik Nilsson, Orthopedic, Stockholm
+Rating: 4/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 3 for Dr. Henrik Nilsson, Orthopedic, Stockholm
+Rating: 7/10
+Clinic visited: Vårdcentralen Drottninggatan Plus
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Henrik Nilsson, Orthopedic, Stockholm
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Henrik Nilsson, Orthopedic, Stockholm
+Rating: 6/10
+Clinic visited: Vårdcentralen Drottninggatan Plus
+Description: Booking was easy online, but the confirmation email contained the wrong address for Vårdcentralen Drottninggatan Plus. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 6 for Dr. Henrik Nilsson, Orthopedic, Stockholm
+Rating: 8/10
+Clinic visited: Vårdcentralen Drottninggatan Plus
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Dr. Henrik Nilsson explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 7 for Dr. Henrik Nilsson, Orthopedic, Stockholm
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Henrik Nilsson, Orthopedic, Stockholm
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: The practice in Stockholm is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Plain, honest advice from Dr. Henrik Nilsson for my arthritis, including which exercises to avoid and which would help. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Henrik Nilsson, Orthopedic, Stockholm: 6.62/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Leandro Aguirre
+Doctor ID: 804
+Specialization: Pathology
+Gender: Male
+Years of experience: 5
+City: Mendoza, Argentina
+Clinics: Clínica Cuyo Salud (clinic ID 105); Consultorios Médicos Aconcagua (clinic ID 107)
+
+Review 1 for Dr. Leandro Aguirre, Pathology, Mendoza
+Rating: 7/10
+Clinic visited: Clínica Cuyo Salud
+Description: Dr. Leandro Aguirre was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Leandro Aguirre, Pathology, Mendoza
+Rating: 7/10
+Clinic visited: Clínica Cuyo Salud
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Leandro Aguirre, Pathology, Mendoza
+Rating: 4/10
+Clinic visited: Clínica Cuyo Salud
+Description: The staff were curt and impatient when I asked how to read the reference ranges on my report. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. I will not be returning and have already started looking for another doctor.
+
+Review 4 for Dr. Leandro Aguirre, Pathology, Mendoza
+Rating: 7/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I liked the advice I got from Dr. Leandro Aguirre, but I would have liked more time to ask follow-up questions before the visit ended. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Leandro Aguirre, Pathology, Mendoza
+Rating: 10/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: Getting to Consultorios Médicos Aconcagua by public transport in Mendoza was easy, and there is a step-free entrance for wheelchairs. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Leandro Aguirre, Pathology, Mendoza
+Rating: 6/10
+Clinic visited: Clínica Cuyo Salud
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Leandro Aguirre answered my questions kindly, though the call back took three days.
+
+Review 7 for Dr. Leandro Aguirre, Pathology, Mendoza
+Rating: 6/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: Helpful in clarifying a borderline result, though Dr. Leandro Aguirre gave little guidance about whether to repeat it. Booking was easy online, but the confirmation email contained the wrong address for Consultorios Médicos Aconcagua.
+
+Review 8 for Dr. Leandro Aguirre, Pathology, Mendoza
+Rating: 6/10
+Clinic visited: Clínica Cuyo Salud
+Description: The blood draw was painless, but the waiting area at Clínica Cuyo Salud was crowded in the early morning.
+
+Review 9 for Dr. Leandro Aguirre, Pathology, Mendoza
+Rating: 7/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Leandro Aguirre, Pathology, Mendoza: 6.67/10 from 9 reviews

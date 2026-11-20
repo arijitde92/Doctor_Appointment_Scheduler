@@ -1,0 +1,59 @@
+Doctor: Dr. Lin Ming-hsiung
+Doctor ID: 4367
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 7
+City: Taichung, Taiwan
+Clinics: Nantun Yongkang Health Clinic (clinic ID 562)
+
+Review 1 for Dr. Lin Ming-hsiung, Psychiatry, Taichung
+Rating: 7/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Lin Ming-hsiung, Psychiatry, Taichung
+Rating: 6/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 3 for Dr. Lin Ming-hsiung, Psychiatry, Taichung
+Rating: 6/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: Dr. Lin Ming-hsiung is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 4 for Dr. Lin Ming-hsiung, Psychiatry, Taichung
+Rating: 7/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Lin Ming-hsiung, Psychiatry, Taichung
+Rating: 7/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 6 for Dr. Lin Ming-hsiung, Psychiatry, Taichung
+Rating: 6/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Lin Ming-hsiung, Psychiatry, Taichung
+Rating: 5/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: Good listener, yet the refill process at Nantun Yongkang Health Clinic is slow and requires several phone calls.
+
+Review 8 for Dr. Lin Ming-hsiung, Psychiatry, Taichung
+Rating: 6/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 9 for Dr. Lin Ming-hsiung, Psychiatry, Taichung
+Rating: 7/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 10 for Dr. Lin Ming-hsiung, Psychiatry, Taichung
+Rating: 7/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Lin Ming-hsiung, Psychiatry, Taichung: 6.40/10 from 10 reviews

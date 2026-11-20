@@ -1,0 +1,49 @@
+Doctor: Dr. Luiz Andrade
+Doctor ID: 693
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 15
+City: Sao Paulo, Brazil
+Clinics: Policlínica Paulista Vida (clinic ID 92); Clínica Santo Amaro Integrada (clinic ID 93)
+
+Review 1 for Dr. Luiz Andrade, Gastroenterology, Sao Paulo
+Rating: 4/10
+Clinic visited: Policlínica Paulista Vida
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 2 for Dr. Luiz Andrade, Gastroenterology, Sao Paulo
+Rating: 7/10
+Clinic visited: Policlínica Paulista Vida
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Skilled with the scope, but communication about the fasting time before the procedure was unclear. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Luiz Andrade, Gastroenterology, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: I liked the advice I got from Dr. Luiz Andrade, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Luiz Andrade, Gastroenterology, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Luiz Andrade, Gastroenterology, Sao Paulo
+Rating: 4/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: After my endoscopy, nobody called with results and I had to chase the office repeatedly. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 6 for Dr. Luiz Andrade, Gastroenterology, Sao Paulo
+Rating: 8/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: The receptionist at Clínica Santo Amaro Integrada remembered my name and had my forms ready, so check-in took less than a minute. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Luiz Andrade, Gastroenterology, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Luiz Andrade, Gastroenterology, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Luiz Andrade, Gastroenterology, Sao Paulo: 5.88/10 from 8 reviews

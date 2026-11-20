@@ -1,0 +1,49 @@
+Doctor: Dr. Song Long
+Doctor ID: 3956
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 20
+City: Shenzhen, China
+Clinics: Futian Kangning Medical Centre (clinic ID 510)
+
+Review 1 for Dr. Song Long, Psychiatry, Shenzhen
+Rating: 5/10
+Clinic visited: Futian Kangning Medical Centre
+Description: Good listener, yet the refill process at Futian Kangning Medical Centre is slow and requires several phone calls.
+
+Review 2 for Dr. Song Long, Psychiatry, Shenzhen
+Rating: 5/10
+Clinic visited: Futian Kangning Medical Centre
+Description: Dr. Song Long is knowledgeable, though I waited several weeks for my first appointment. The treatment plan from Dr. Song Long made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Song Long, Psychiatry, Shenzhen
+Rating: 2/10
+Clinic visited: Futian Kangning Medical Centre
+Description: The waiting room at Futian Kangning Medical Centre was overcrowded and there was nowhere to sit, even for elderly patients. Dr. Song Long seemed to focus on the paperwork, and I did not feel I could share what was really going on.
+
+Review 4 for Dr. Song Long, Psychiatry, Shenzhen
+Rating: 3/10
+Clinic visited: Futian Kangning Medical Centre
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 5 for Dr. Song Long, Psychiatry, Shenzhen
+Rating: 4/10
+Clinic visited: Futian Kangning Medical Centre
+Description: Requests for a refill went unanswered for days, and I ran out of my medication. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 6 for Dr. Song Long, Psychiatry, Shenzhen
+Rating: 4/10
+Clinic visited: Futian Kangning Medical Centre
+Description: The staff at Futian Kangning Medical Centre were curt on the phone, and it took four attempts to book a simple follow-up. I was not told about common side effects by Dr. Song Long, and I had a rough first two weeks that could have been avoided. I will not be returning and have already started looking for another doctor.
+
+Review 7 for Dr. Song Long, Psychiatry, Shenzhen
+Rating: 2/10
+Clinic visited: Futian Kangning Medical Centre
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible. I left disappointed and will take my business to another clinic.
+
+Review 8 for Dr. Song Long, Psychiatry, Shenzhen
+Rating: 1/10
+Clinic visited: Futian Kangning Medical Centre
+Description: My concerns about how I felt on the dose were waved away rather than explored. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. Not a place I would choose again, and I hope others have a better experience.
+
+Overall rating for Dr. Song Long, Psychiatry, Shenzhen: 3.25/10 from 8 reviews

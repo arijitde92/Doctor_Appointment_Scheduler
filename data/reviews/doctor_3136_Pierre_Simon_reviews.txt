@@ -1,0 +1,69 @@
+Doctor: Dr. Pierre Simon
+Doctor ID: 3136
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 25
+City: Ghent, Belgium
+Clinics: Polikliniek Dampoort (clinic ID 407)
+
+Review 1 for Dr. Pierre Simon, Gastroenterology, Ghent
+Rating: 9/10
+Clinic visited: Polikliniek Dampoort
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Pierre Simon, Gastroenterology, Ghent
+Rating: 8/10
+Clinic visited: Polikliniek Dampoort
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. The visit began with a short, friendly chat that put me at ease before any examination started. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Pierre Simon, Gastroenterology, Ghent
+Rating: 7/10
+Clinic visited: Polikliniek Dampoort
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Pierre Simon, Gastroenterology, Ghent
+Rating: 7/10
+Clinic visited: Polikliniek Dampoort
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Pierre Simon, Gastroenterology, Ghent
+Rating: 8/10
+Clinic visited: Polikliniek Dampoort
+Description: Getting to Polikliniek Dampoort in Ghent was simple, and the day-procedure unit was calm and efficient.
+
+Review 6 for Dr. Pierre Simon, Gastroenterology, Ghent
+Rating: 10/10
+Clinic visited: Polikliniek Dampoort
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed.
+
+Review 7 for Dr. Pierre Simon, Gastroenterology, Ghent
+Rating: 8/10
+Clinic visited: Polikliniek Dampoort
+Description: I get regular check-ups for my Crohn's disease, and Dr. Pierre Simon adjusts my treatment carefully and always explains why. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Pierre Simon, Gastroenterology, Ghent
+Rating: 9/10
+Clinic visited: Polikliniek Dampoort
+Description: I was nervous about my screening, but the team at Polikliniek Dampoort made me feel at ease, and I was home within hours. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 9 for Dr. Pierre Simon, Gastroenterology, Ghent
+Rating: 10/10
+Clinic visited: Polikliniek Dampoort
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary. This is the first doctor I have trusted completely in years.
+
+Review 10 for Dr. Pierre Simon, Gastroenterology, Ghent
+Rating: 10/10
+Clinic visited: Polikliniek Dampoort
+Description: A same-day slot was found for me at Polikliniek Dampoort when I called with a worrying symptom. I received a full summary letter from Polikliniek Dampoort after my endoscopy, which my regular doctor found very useful.
+
+Review 11 for Dr. Pierre Simon, Gastroenterology, Ghent
+Rating: 10/10
+Clinic visited: Polikliniek Dampoort
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Review 12 for Dr. Pierre Simon, Gastroenterology, Ghent
+Rating: 10/10
+Clinic visited: Polikliniek Dampoort
+Description: Clear explanation from Dr. Pierre Simon of fatty liver and exactly which lifestyle changes would make a measurable difference.
+
+Overall rating for Dr. Pierre Simon, Gastroenterology, Ghent: 8.83/10 from 12 reviews

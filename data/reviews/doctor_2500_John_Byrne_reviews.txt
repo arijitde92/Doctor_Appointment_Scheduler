@@ -1,0 +1,54 @@
+Doctor: Dr. John Byrne
+Doctor ID: 2500
+Specialization: General
+Gender: Male
+Years of experience: 21
+City: Galway, Ireland
+Clinics: Dominick Street Medical Centre (clinic ID 327)
+
+Review 1 for Dr. John Byrne, General, Galway
+Rating: 8/10
+Clinic visited: Dominick Street Medical Centre
+Description: Managing my type 2 diabetes with Dr. John Byrne has been steady and practical, with quarterly blood sugar reviews and no lectures. The waiting room at Dominick Street Medical Centre was clean, quiet and comfortable, with enough seating and water available.
+
+Review 2 for Dr. John Byrne, General, Galway
+Rating: 7/10
+Clinic visited: Dominick Street Medical Centre
+Description: The treatment plan from Dr. John Byrne made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. John Byrne, General, Galway
+Rating: 5/10
+Clinic visited: Dominick Street Medical Centre
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Dominick Street Medical Centre were inconsistent. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. John Byrne, General, Galway
+Rating: 9/10
+Clinic visited: Dominick Street Medical Centre
+Description: My annual check-up with Dr. John Byrne took forty minutes, with every screening explained and nothing rushed. My test results arrived in the portal within two days, together with a short note that made sense. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. John Byrne, General, Galway
+Rating: 9/10
+Clinic visited: Dominick Street Medical Centre
+Description: Getting to Dominick Street Medical Centre from across Galway was easy, and the same-week appointment saved me an urgent care trip. Booking online at Dominick Street Medical Centre was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 6 for Dr. John Byrne, General, Galway
+Rating: 4/10
+Clinic visited: Dominick Street Medical Centre
+Description: I felt dismissed by Dr. John Byrne when I brought up a second concern, and was told to book another appointment for it.
+
+Review 7 for Dr. John Byrne, General, Galway
+Rating: 6/10
+Clinic visited: Dominick Street Medical Centre
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Booking was easy online, but the confirmation email contained the wrong address for Dominick Street Medical Centre. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. John Byrne, General, Galway
+Rating: 9/10
+Clinic visited: Dominick Street Medical Centre
+Description: The nurse was friendly and efficient, and the whole visit with Dr. John Byrne felt well organized from start to finish. Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 9 for Dr. John Byrne, General, Galway
+Rating: 8/10
+Clinic visited: Dominick Street Medical Centre
+Description: Dr. John Byrne spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Overall rating for Dr. John Byrne, General, Galway: 7.22/10 from 9 reviews

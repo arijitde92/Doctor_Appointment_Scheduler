@@ -1,0 +1,49 @@
+Doctor: Dr. Pierre Steiner
+Doctor ID: 1733
+Specialization: General
+Gender: Male
+Years of experience: 3
+City: Geneva, Switzerland
+Clinics: Cabinet Médical des Eaux-Vives (clinic ID 225); Cabinet Médical Plainpalais Centre (clinic ID 228)
+
+Review 1 for Dr. Pierre Steiner, General, Geneva
+Rating: 10/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: As a new patient in Geneva, I felt welcomed at Cabinet Médical Plainpalais Centre, and my whole history was reviewed in one relaxed visit.
+
+Review 2 for Dr. Pierre Steiner, General, Geneva
+Rating: 9/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. I went in with months of tiredness, and Dr. Pierre Steiner ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Pierre Steiner, General, Geneva
+Rating: 10/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: Dr. Pierre Steiner used a calm, steady voice that settled my nerves before a stressful procedure. Dr. Pierre Steiner spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 4 for Dr. Pierre Steiner, General, Geneva
+Rating: 7/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Dr. Pierre Steiner is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Dr. Pierre Steiner was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Pierre Steiner, General, Geneva
+Rating: 10/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: Getting to Cabinet Médical Plainpalais Centre by public transport in Geneva was easy, and there is a step-free entrance for wheelchairs. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 6 for Dr. Pierre Steiner, General, Geneva
+Rating: 9/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: My blood pressure had crept up and Dr. Pierre Steiner walked me through diet changes before suggesting anything else. Three months later my readings were normal. Sensitive questions were handled by Dr. Pierre Steiner with discretion and without a hint of judgment. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Pierre Steiner, General, Geneva
+Rating: 10/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Pierre Steiner, General, Geneva
+Rating: 8/10
+Clinic visited: Cabinet Médical Plainpalais Centre
+Description: Getting to Cabinet Médical Plainpalais Centre from across Geneva was easy, and the same-week appointment saved me an urgent care trip. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Pierre Steiner, General, Geneva: 9.12/10 from 8 reviews

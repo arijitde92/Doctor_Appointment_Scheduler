@@ -1,0 +1,49 @@
+Doctor: Dr. Daniel Hofmann
+Doctor ID: 1739
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 14
+City: Geneva, Switzerland
+Clinics: Centre Médical du Lac Bleu (clinic ID 226)
+
+Review 1 for Dr. Daniel Hofmann, Orthopedic, Geneva
+Rating: 9/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 2 for Dr. Daniel Hofmann, Orthopedic, Geneva
+Rating: 7/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Very skilled with my knee, but Dr. Daniel Hofmann's clinic runs behind and the wait was over an hour. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Daniel Hofmann, Orthopedic, Geneva
+Rating: 9/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 4 for Dr. Daniel Hofmann, Orthopedic, Geneva
+Rating: 10/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Clear aftercare instructions from Dr. Daniel Hofmann and a direct number to call if something felt wrong after my surgery. Sensitive questions were handled by Dr. Daniel Hofmann with discretion and without a hint of judgment.
+
+Review 5 for Dr. Daniel Hofmann, Orthopedic, Geneva
+Rating: 8/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Daniel Hofmann, Orthopedic, Geneva
+Rating: 10/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Daniel Hofmann, Orthopedic, Geneva
+Rating: 7/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 8 for Dr. Daniel Hofmann, Orthopedic, Geneva
+Rating: 10/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Dr. Daniel Hofmann double-checked my allergy list before prescribing anything, and that careful habit earned my trust. My torn rotator cuff was managed first by Dr. Daniel Hofmann with physiotherapy, and surgery was only suggested when it truly was needed.
+
+Overall rating for Dr. Daniel Hofmann, Orthopedic, Geneva: 8.75/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Pham Thang
+Doctor ID: 5021
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 7
+City: Hanoi, Vietnam
+Clinics: Phong Kham An Khang Plus (clinic ID 649)
+
+Review 1 for Dr. Pham Thang, Psychiatry, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham An Khang Plus
+Description: My family was included in a session at my request, and Dr. Pham Thang handled it with great tact. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 2 for Dr. Pham Thang, Psychiatry, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 3 for Dr. Pham Thang, Psychiatry, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Good listener, yet the refill process at Phong Kham An Khang Plus is slow and requires several phone calls. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Pham Thang, Psychiatry, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham An Khang Plus
+Description: He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 5 for Dr. Pham Thang, Psychiatry, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Pham Thang, Psychiatry, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham An Khang Plus
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Pham Thang, Psychiatry, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham An Khang Plus
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Dr. Pham Thang is knowledgeable, though I waited several weeks for my first appointment. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Pham Thang, Psychiatry, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Telehealth follow-ups at Phong Kham An Khang Plus are punctual and calm, and refills are dealt with quickly.
+
+Overall rating for Dr. Pham Thang, Psychiatry, Hanoi: 7.38/10 from 8 reviews

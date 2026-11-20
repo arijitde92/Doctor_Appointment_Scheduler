@@ -1,0 +1,59 @@
+Doctor: Dr. Nicole Wilson
+Doctor ID: 6515
+Specialization: Cardiology
+Gender: Female
+Years of experience: 2
+City: Melbourne, Australia
+Clinics: Bridgeview Medical Practice (clinic ID 843); Riverbend Health Centre (clinic ID 844)
+
+Review 1 for Dr. Nicole Wilson, Cardiology, Melbourne
+Rating: 6/10
+Clinic visited: Riverbend Health Centre
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 2 for Dr. Nicole Wilson, Cardiology, Melbourne
+Rating: 7/10
+Clinic visited: Bridgeview Medical Practice
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Dr. Nicole Wilson adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 3 for Dr. Nicole Wilson, Cardiology, Melbourne
+Rating: 6/10
+Clinic visited: Riverbend Health Centre
+Description: Quick appointment and a fair price in Melbourne, but the staff seemed overwhelmed and a bit curt on the phone. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 4 for Dr. Nicole Wilson, Cardiology, Melbourne
+Rating: 7/10
+Clinic visited: Bridgeview Medical Practice
+Description: Helpful with my cholesterol, Dr. Nicole Wilson still gave dietary advice that was a little generic. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Nicole Wilson, Cardiology, Melbourne
+Rating: 5/10
+Clinic visited: Bridgeview Medical Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 6 for Dr. Nicole Wilson, Cardiology, Melbourne
+Rating: 4/10
+Clinic visited: Bridgeview Medical Practice
+Description: My test results sat on Dr. Nicole Wilson's desk for two weeks, and I only learned about a medication change when I called the pharmacy. The waiting room at Bridgeview Medical Practice was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 7 for Dr. Nicole Wilson, Cardiology, Melbourne
+Rating: 7/10
+Clinic visited: Riverbend Health Centre
+Description: Good bedside manner from Dr. Nicole Wilson, but the parking near Riverbend Health Centre is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Nicole Wilson, Cardiology, Melbourne
+Rating: 6/10
+Clinic visited: Riverbend Health Centre
+Description: Great care in the visit itself, but the billing for the tests at Riverbend Health Centre was confusing.
+
+Review 9 for Dr. Nicole Wilson, Cardiology, Melbourne
+Rating: 6/10
+Clinic visited: Bridgeview Medical Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Nicole Wilson, Cardiology, Melbourne
+Rating: 3/10
+Clinic visited: Bridgeview Medical Practice
+Description: The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes.
+
+Overall rating for Dr. Nicole Wilson, Cardiology, Melbourne: 5.70/10 from 10 reviews

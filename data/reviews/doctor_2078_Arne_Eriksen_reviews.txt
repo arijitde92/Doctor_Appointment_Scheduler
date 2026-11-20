@@ -1,0 +1,59 @@
+Doctor: Dr. Arne Eriksen
+Doctor ID: 2078
+Specialization: Cardiology
+Gender: Male
+Years of experience: 28
+City: Trondheim, Norway
+Clinics: Helsehuset Nidelven (clinic ID 271); Legesenteret Klæbu Vei (clinic ID 274)
+
+Review 1 for Dr. Arne Eriksen, Cardiology, Trondheim
+Rating: 9/10
+Clinic visited: Helsehuset Nidelven
+Description: My atrial fibrillation is well managed by Dr. Arne Eriksen, and I know exactly what symptoms mean I should call.
+
+Review 2 for Dr. Arne Eriksen, Cardiology, Trondheim
+Rating: 9/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Managing my blood pressure with Dr. Arne Eriksen has been steady and practical, with home readings reviewed at every visit. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Arne Eriksen, Cardiology, Trondheim
+Rating: 10/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: I was given a printed summary of the visit, which I shared with my family at home. After my heart attack, Dr. Arne Eriksen explained the rehab plan and medication changes with great patience and kindness.
+
+Review 4 for Dr. Arne Eriksen, Cardiology, Trondheim
+Rating: 8/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. The waiting room at Legesenteret Klæbu Vei was clean, quiet and comfortable, with enough seating and water available. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Arne Eriksen, Cardiology, Trondheim
+Rating: 8/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Honest about the risks and benefits of the procedure, Dr. Arne Eriksen never pressured me toward surgery. A translator was arranged for my mother without us asking twice, and Dr. Arne Eriksen spoke directly to her throughout.
+
+Review 6 for Dr. Arne Eriksen, Cardiology, Trondheim
+Rating: 7/10
+Clinic visited: Helsehuset Nidelven
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Arne Eriksen, Cardiology, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Great care in the visit itself, but the billing for the tests at Legesenteret Klæbu Vei was confusing.
+
+Review 8 for Dr. Arne Eriksen, Cardiology, Trondheim
+Rating: 8/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 9 for Dr. Arne Eriksen, Cardiology, Trondheim
+Rating: 8/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: After my palpitations began, Dr. Arne Eriksen arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 10 for Dr. Arne Eriksen, Cardiology, Trondheim
+Rating: 10/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. Dr. Arne Eriksen looked me in the eye, listened to the whole story and only then started typing.
+
+Overall rating for Dr. Arne Eriksen, Cardiology, Trondheim: 8.40/10 from 10 reviews

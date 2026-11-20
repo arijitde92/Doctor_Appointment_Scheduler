@@ -1,0 +1,49 @@
+Doctor: Dr. Charlotte Harris
+Doctor ID: 6565
+Specialization: General
+Gender: Female
+Years of experience: 15
+City: Sydney, Australia
+Clinics: Southern Cross Family Medical Practice (clinic ID 850); Harbourside General Practice (clinic ID 852)
+
+Review 1 for Dr. Charlotte Harris, General, Sydney
+Rating: 9/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 2 for Dr. Charlotte Harris, General, Sydney
+Rating: 7/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: Referrals from Dr. Charlotte Harris are handled well, but getting test results back took longer than I was told to expect. The treatment plan from Dr. Charlotte Harris made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Charlotte Harris, General, Sydney
+Rating: 8/10
+Clinic visited: Harbourside General Practice
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 4 for Dr. Charlotte Harris, General, Sydney
+Rating: 9/10
+Clinic visited: Harbourside General Practice
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 5 for Dr. Charlotte Harris, General, Sydney
+Rating: 5/10
+Clinic visited: Harbourside General Practice
+Description: I got what I needed, but the next available appointment was three weeks away. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 6 for Dr. Charlotte Harris, General, Sydney
+Rating: 6/10
+Clinic visited: Harbourside General Practice
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Harbourside General Practice were inconsistent.
+
+Review 7 for Dr. Charlotte Harris, General, Sydney
+Rating: 8/10
+Clinic visited: Harbourside General Practice
+Description: My blood pressure had crept up and Dr. Charlotte Harris walked me through diet changes before suggesting anything else. Three months later my readings were normal. Dr. Charlotte Harris double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 8 for Dr. Charlotte Harris, General, Sydney
+Rating: 5/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Charlotte Harris, General, Sydney: 7.12/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Yang Yu-hsiang
+Doctor ID: 4337
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 14
+City: Kaohsiung, Taiwan
+Clinics: Xinxing Jiali Medical Clinic (clinic ID 559)
+
+Review 1 for Dr. Yang Yu-hsiang, Pulmonology, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Dr. Yang Yu-hsiang drew a quick sketch to explain what was going on, which helped me remember it afterwards. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Yang Yu-hsiang, Pulmonology, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Yang Yu-hsiang, Pulmonology, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: After years of poorly controlled asthma, Dr. Yang Yu-hsiang reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 4 for Dr. Yang Yu-hsiang, Pulmonology, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Clear, honest answers from Dr. Yang Yu-hsiang about my shortness of breath, and no unnecessary tests were ordered.
+
+Review 5 for Dr. Yang Yu-hsiang, Pulmonology, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Yang Yu-hsiang, Pulmonology, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 7 for Dr. Yang Yu-hsiang, Pulmonology, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 8 for Dr. Yang Yu-hsiang, Pulmonology, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. I have no hesitation sending my own relatives here.
+
+Review 9 for Dr. Yang Yu-hsiang, Pulmonology, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks.
+
+Overall rating for Dr. Yang Yu-hsiang, Pulmonology, Kaohsiung: 8.56/10 from 9 reviews

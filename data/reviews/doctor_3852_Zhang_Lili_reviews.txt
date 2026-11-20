@@ -1,0 +1,69 @@
+Doctor: Dr. Zhang Lili
+Doctor ID: 3852
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 2
+City: Beijing, China
+Clinics: Fuchengmen Anhe Polyclinic (clinic ID 498)
+
+Review 1 for Dr. Zhang Lili, Gastroenterology, Beijing
+Rating: 10/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: A translator was arranged for my mother without us asking twice, and Dr. Zhang Lili spoke directly to her throughout. Dr. Zhang Lili took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards.
+
+Review 2 for Dr. Zhang Lili, Gastroenterology, Beijing
+Rating: 9/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: I get regular check-ups for my Crohn's disease, and Dr. Zhang Lili adjusts my treatment carefully and always explains why. Booking online at Fuchengmen Anhe Polyclinic was simple, and I got a confirmation text with clear directions and a reminder the day before. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Zhang Lili, Gastroenterology, Beijing
+Rating: 7/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Zhang Lili, Gastroenterology, Beijing
+Rating: 7/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Zhang Lili, Gastroenterology, Beijing
+Rating: 10/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: The practice in Beijing is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. She never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Zhang Lili, Gastroenterology, Beijing
+Rating: 9/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 7 for Dr. Zhang Lili, Gastroenterology, Beijing
+Rating: 9/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Zhang Lili, Gastroenterology, Beijing
+Rating: 10/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Getting to Fuchengmen Anhe Polyclinic in Beijing was simple, and the day-procedure unit was calm and efficient.
+
+Review 9 for Dr. Zhang Lili, Gastroenterology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 10 for Dr. Zhang Lili, Gastroenterology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: A gentle, respectful manner from Dr. Zhang Lili made a very awkward exam bearable, with every step explained before it happened. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 11 for Dr. Zhang Lili, Gastroenterology, Beijing
+Rating: 10/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 12 for Dr. Zhang Lili, Gastroenterology, Beijing
+Rating: 9/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Helpful dietitian referral from Dr. Zhang Lili and written guidance for living with ulcerative colitis. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Zhang Lili, Gastroenterology, Beijing: 8.83/10 from 12 reviews

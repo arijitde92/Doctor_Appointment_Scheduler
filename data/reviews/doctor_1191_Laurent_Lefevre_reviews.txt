@@ -1,0 +1,64 @@
+Doctor: Dr. Laurent Lefèvre
+Doctor ID: 1191
+Specialization: General
+Gender: Male
+Years of experience: 2
+City: Lyon, France
+Clinics: Centre Médical Bellecour (clinic ID 155)
+
+Review 1 for Dr. Laurent Lefèvre, General, Lyon
+Rating: 6/10
+Clinic visited: Centre Médical Bellecour
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 2 for Dr. Laurent Lefèvre, General, Lyon
+Rating: 9/10
+Clinic visited: Centre Médical Bellecour
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Laurent Lefèvre, General, Lyon
+Rating: 9/10
+Clinic visited: Centre Médical Bellecour
+Description: The waiting room at Centre Médical Bellecour was clean, quiet and comfortable, with enough seating and water available.
+
+Review 4 for Dr. Laurent Lefèvre, General, Lyon
+Rating: 7/10
+Clinic visited: Centre Médical Bellecour
+Description: Good bedside manner from Dr. Laurent Lefèvre, but the parking near Centre Médical Bellecour is limited and I had to circle for fifteen minutes. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 5 for Dr. Laurent Lefèvre, General, Lyon
+Rating: 7/10
+Clinic visited: Centre Médical Bellecour
+Description: I liked the advice I got from Dr. Laurent Lefèvre, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Laurent Lefèvre, General, Lyon
+Rating: 4/10
+Clinic visited: Centre Médical Bellecour
+Description: I was sent for a battery of tests that had nothing to do with my complaint and received a surprise bill afterwards. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 7 for Dr. Laurent Lefèvre, General, Lyon
+Rating: 9/10
+Clinic visited: Centre Médical Bellecour
+Description: Dr. Laurent Lefèvre spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. Prescriptions from Dr. Laurent Lefèvre were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Laurent Lefèvre, General, Lyon
+Rating: 8/10
+Clinic visited: Centre Médical Bellecour
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 9 for Dr. Laurent Lefèvre, General, Lyon
+Rating: 9/10
+Clinic visited: Centre Médical Bellecour
+Description: My test results arrived in the portal within two days, together with a short note that made sense. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 10 for Dr. Laurent Lefèvre, General, Lyon
+Rating: 6/10
+Clinic visited: Centre Médical Bellecour
+Description: Referrals from Dr. Laurent Lefèvre are handled well, but getting test results back took longer than I was told to expect. The doctor was kind, though the clinic's evening hours are very limited for working people. I will give it one more visit before I decide whether to stay.
+
+Review 11 for Dr. Laurent Lefèvre, General, Lyon
+Rating: 6/10
+Clinic visited: Centre Médical Bellecour
+Description: Dr. Laurent Lefèvre is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Dr. Laurent Lefèvre was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Laurent Lefèvre, General, Lyon: 7.27/10 from 11 reviews

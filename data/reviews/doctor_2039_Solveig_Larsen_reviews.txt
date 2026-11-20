@@ -1,0 +1,49 @@
+Doctor: Dr. Solveig Larsen
+Doctor ID: 2039
+Specialization: General
+Gender: Female
+Years of experience: 4
+City: Stavanger, Norway
+Clinics: Helsehuset Vågen (clinic ID 266)
+
+Review 1 for Dr. Solveig Larsen, General, Stavanger
+Rating: 9/10
+Clinic visited: Helsehuset Vågen
+Description: I went in with months of tiredness, and Dr. Solveig Larsen ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. At my visit, Dr. Solveig Larsen took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 2 for Dr. Solveig Larsen, General, Stavanger
+Rating: 9/10
+Clinic visited: Helsehuset Vågen
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 3 for Dr. Solveig Larsen, General, Stavanger
+Rating: 8/10
+Clinic visited: Helsehuset Vågen
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 4 for Dr. Solveig Larsen, General, Stavanger
+Rating: 6/10
+Clinic visited: Helsehuset Vågen
+Description: Dr. Solveig Larsen is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Solveig Larsen, General, Stavanger
+Rating: 6/10
+Clinic visited: Helsehuset Vågen
+Description: Referrals from Dr. Solveig Larsen are handled well, but getting test results back took longer than I was told to expect. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Solveig Larsen, General, Stavanger
+Rating: 7/10
+Clinic visited: Helsehuset Vågen
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Helsehuset Vågen were inconsistent. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Solveig Larsen, General, Stavanger
+Rating: 8/10
+Clinic visited: Helsehuset Vågen
+Description: My blood pressure had crept up and Dr. Solveig Larsen walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 8 for Dr. Solveig Larsen, General, Stavanger
+Rating: 8/10
+Clinic visited: Helsehuset Vågen
+Description: Getting to Helsehuset Vågen from across Stavanger was easy, and the same-week appointment saved me an urgent care trip. She was upfront about what could and could not be treated, and did not oversell any option. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Solveig Larsen, General, Stavanger: 7.62/10 from 8 reviews

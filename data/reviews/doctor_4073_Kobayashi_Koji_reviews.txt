@@ -1,0 +1,54 @@
+Doctor: Dr. Kobayashi Koji
+Doctor ID: 4073
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 1
+City: Tokyo, Japan
+Clinics: Sakura Family Clinic (clinic ID 525); Shinjuku Midori Medical Clinic (clinic ID 526); Ikebukuro Aoba Health Clinic (clinic ID 528)
+
+Review 1 for Dr. Kobayashi Koji, Psychiatry, Tokyo
+Rating: 8/10
+Clinic visited: Sakura Family Clinic
+Description: Dr. Kobayashi Koji took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 2 for Dr. Kobayashi Koji, Psychiatry, Tokyo
+Rating: 9/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: I can ring Shinjuku Midori Medical Clinic with an urgent question and receive a thoughtful reply the same day.
+
+Review 3 for Dr. Kobayashi Koji, Psychiatry, Tokyo
+Rating: 8/10
+Clinic visited: Sakura Family Clinic
+Description: My family was included in a session at my request, and Dr. Kobayashi Koji handled it with great tact. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Kobayashi Koji, Psychiatry, Tokyo
+Rating: 10/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 5 for Dr. Kobayashi Koji, Psychiatry, Tokyo
+Rating: 6/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Kobayashi Koji, Psychiatry, Tokyo
+Rating: 7/10
+Clinic visited: Sakura Family Clinic
+Description: Quick appointment and a fair price in Tokyo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Kobayashi Koji, Psychiatry, Tokyo
+Rating: 7/10
+Clinic visited: Sakura Family Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 8 for Dr. Kobayashi Koji, Psychiatry, Tokyo
+Rating: 9/10
+Clinic visited: Sakura Family Clinic
+Description: Prescriptions from Dr. Kobayashi Koji were sent to my pharmacy before I even left the building, and the dosage instructions were written down. My depression finally has a treatment plan from Dr. Kobayashi Koji that works, with regular check-ins and careful dose changes. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Kobayashi Koji, Psychiatry, Tokyo
+Rating: 8/10
+Clinic visited: Ikebukuro Aoba Health Clinic
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. Dr. Kobayashi Koji drew a quick sketch to explain what was going on, which helped me remember it afterwards. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Kobayashi Koji, Psychiatry, Tokyo: 8.00/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Daniel Walker
+Doctor ID: 1117
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 7
+City: London, UK
+Clinics: Cabot Square Medical Centre (clinic ID 146)
+
+Review 1 for Dr. Daniel Walker, Pulmonology, London
+Rating: 8/10
+Clinic visited: Cabot Square Medical Centre
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. My oxygen levels are monitored carefully at Cabot Square Medical Centre, and the home equipment was arranged without any hassle.
+
+Review 2 for Dr. Daniel Walker, Pulmonology, London
+Rating: 6/10
+Clinic visited: Cabot Square Medical Centre
+Description: Dr. Daniel Walker adjusted my asthma medication well, but the breathing test appointment was a month away. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Daniel Walker, Pulmonology, London
+Rating: 7/10
+Clinic visited: Cabot Square Medical Centre
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Daniel Walker, Pulmonology, London
+Rating: 10/10
+Clinic visited: Cabot Square Medical Centre
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Daniel Walker.
+
+Review 5 for Dr. Daniel Walker, Pulmonology, London
+Rating: 10/10
+Clinic visited: Cabot Square Medical Centre
+Description: Everything was explained in plain English by Dr. Daniel Walker, and nothing was left to guess.
+
+Review 6 for Dr. Daniel Walker, Pulmonology, London
+Rating: 8/10
+Clinic visited: Cabot Square Medical Centre
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 7 for Dr. Daniel Walker, Pulmonology, London
+Rating: 9/10
+Clinic visited: Cabot Square Medical Centre
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 8 for Dr. Daniel Walker, Pulmonology, London
+Rating: 10/10
+Clinic visited: Cabot Square Medical Centre
+Description: Dr. Daniel Walker explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Overall rating for Dr. Daniel Walker, Pulmonology, London: 8.50/10 from 8 reviews

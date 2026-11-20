@@ -1,0 +1,59 @@
+Doctor: Dr. Oh Mi-young
+Doctor ID: 4190
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 2
+City: Daegu, South Korea
+Clinics: Dongseongno Dalbit Medical Clinic (clinic ID 540)
+
+Review 1 for Dr. Oh Mi-young, Pediatrics, Daegu
+Rating: 9/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Prescriptions from Dr. Oh Mi-young were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 2 for Dr. Oh Mi-young, Pediatrics, Daegu
+Rating: 6/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Oh Mi-young, Pediatrics, Daegu
+Rating: 5/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Oh Mi-young, Pediatrics, Daegu
+Rating: 5/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Caring and gentle with my child, Dr. Oh Mi-young nonetheless ran forty minutes behind schedule at most appointments. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Oh Mi-young, Pediatrics, Daegu
+Rating: 8/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Dr. Oh Mi-young drew a quick sketch to explain what was going on, which helped me remember it afterwards. Our newborn check-ups with Dr. Oh Mi-young were reassuring; every question about feeding and sleep got a calm, practical answer. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Oh Mi-young, Pediatrics, Daegu
+Rating: 6/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Good bedside manner from Dr. Oh Mi-young, but the parking near Dongseongno Dalbit Medical Clinic is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Oh Mi-young, Pediatrics, Daegu
+Rating: 4/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Dr. Oh Mi-young did not seem to have read my notes and asked me to repeat my whole history from the beginning. I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why.
+
+Review 8 for Dr. Oh Mi-young, Pediatrics, Daegu
+Rating: 5/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 9 for Dr. Oh Mi-young, Pediatrics, Daegu
+Rating: 4/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. I will not be returning and have already started looking for another doctor.
+
+Review 10 for Dr. Oh Mi-young, Pediatrics, Daegu
+Rating: 8/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Getting to Dongseongno Dalbit Medical Clinic by public transport in Daegu was easy, and there is a step-free entrance for wheelchairs. Dr. Oh Mi-young noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Overall rating for Dr. Oh Mi-young, Pediatrics, Daegu: 6.00/10 from 10 reviews

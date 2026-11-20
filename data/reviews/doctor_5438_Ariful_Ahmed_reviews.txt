@@ -1,0 +1,59 @@
+Doctor: Dr. Ariful Ahmed
+Doctor ID: 5438
+Specialization: General
+Gender: Male
+Years of experience: 24
+City: Dhaka, Bangladesh
+Clinics: Padma Wellness Clinic (clinic ID 704)
+
+Review 1 for Dr. Ariful Ahmed, General, Dhaka
+Rating: 3/10
+Clinic visited: Padma Wellness Clinic
+Description: I came in about worsening headaches and was told to drink more water and relax, with no examination at all. The waiting room at Padma Wellness Clinic was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 2 for Dr. Ariful Ahmed, General, Dhaka
+Rating: 6/10
+Clinic visited: Padma Wellness Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 3 for Dr. Ariful Ahmed, General, Dhaka
+Rating: 4/10
+Clinic visited: Padma Wellness Clinic
+Description: My visit with Dr. Ariful Ahmed lasted barely six minutes, and I left with more questions than I arrived with. My questions were answered by Dr. Ariful Ahmed with short, vague replies, and I left without a clear plan.
+
+Review 4 for Dr. Ariful Ahmed, General, Dhaka
+Rating: 5/10
+Clinic visited: Padma Wellness Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Ariful Ahmed, General, Dhaka
+Rating: 7/10
+Clinic visited: Padma Wellness Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Ariful Ahmed, General, Dhaka
+Rating: 8/10
+Clinic visited: Padma Wellness Clinic
+Description: My blood pressure had crept up and Dr. Ariful Ahmed walked me through diet changes before suggesting anything else. Three months later my readings were normal. Sensitive questions were handled by Dr. Ariful Ahmed with discretion and without a hint of judgment. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Ariful Ahmed, General, Dhaka
+Rating: 6/10
+Clinic visited: Padma Wellness Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 8 for Dr. Ariful Ahmed, General, Dhaka
+Rating: 10/10
+Clinic visited: Padma Wellness Clinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. Dr. Ariful Ahmed used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 9 for Dr. Ariful Ahmed, General, Dhaka
+Rating: 6/10
+Clinic visited: Padma Wellness Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Padma Wellness Clinic.
+
+Review 10 for Dr. Ariful Ahmed, General, Dhaka
+Rating: 5/10
+Clinic visited: Padma Wellness Clinic
+Description: Referrals from Dr. Ariful Ahmed are handled well, but getting test results back took longer than I was told to expect. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Ariful Ahmed, General, Dhaka: 6.00/10 from 10 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Antônia Carvalho
+Doctor ID: 681
+Specialization: General
+Gender: Female
+Years of experience: 8
+City: Sao Paulo, Brazil
+Clinics: Clínica Vila Madalena Saúde (clinic ID 90); Centro Médico Faria Lima (clinic ID 91)
+
+Review 1 for Dr. Antônia Carvalho, General, Sao Paulo
+Rating: 8/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: Getting to Clínica Vila Madalena Saúde from across Sao Paulo was easy, and the same-week appointment saved me an urgent care trip. Dr. Antônia Carvalho used a calm, steady voice that settled my nerves before a stressful procedure. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Antônia Carvalho, General, Sao Paulo
+Rating: 8/10
+Clinic visited: Centro Médico Faria Lima
+Description: Managing my type 2 diabetes with Dr. Antônia Carvalho has been steady and practical, with quarterly blood sugar reviews and no lectures. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Antônia Carvalho, General, Sao Paulo
+Rating: 9/10
+Clinic visited: Centro Médico Faria Lima
+Description: As a new patient in Sao Paulo, I felt welcomed at Centro Médico Faria Lima, and my whole history was reviewed in one relaxed visit. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Antônia Carvalho, General, Sao Paulo
+Rating: 5/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Antônia Carvalho, General, Sao Paulo
+Rating: 8/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: A same-day slot was found for me at Clínica Vila Madalena Saúde when I called with a worrying symptom. Dr. Antônia Carvalho spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Antônia Carvalho, General, Sao Paulo
+Rating: 7/10
+Clinic visited: Centro Médico Faria Lima
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Antônia Carvalho, General, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 8 for Dr. Antônia Carvalho, General, Sao Paulo
+Rating: 7/10
+Clinic visited: Clínica Vila Madalena Saúde
+Description: Quick appointment and a fair price in Sao Paulo, but the staff seemed overwhelmed and a bit curt on the phone. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Antônia Carvalho, General, Sao Paulo
+Rating: 6/10
+Clinic visited: Centro Médico Faria Lima
+Description: Dr. Antônia Carvalho is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Antônia Carvalho, General, Sao Paulo
+Rating: 6/10
+Clinic visited: Centro Médico Faria Lima
+Description: Referrals from Dr. Antônia Carvalho are handled well, but getting test results back took longer than I was told to expect. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Antônia Carvalho, General, Sao Paulo: 7.00/10 from 10 reviews

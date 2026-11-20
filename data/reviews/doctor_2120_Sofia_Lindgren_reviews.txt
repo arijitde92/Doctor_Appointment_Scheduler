@@ -1,0 +1,49 @@
+Doctor: Dr. Sofia Lindgren
+Doctor ID: 2120
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 6
+City: Gothenburg, Sweden
+Clinics: Läkarhuset Östra Hamngatan (clinic ID 276); Medicinskt Centrum Linné (clinic ID 277); Hälsocentralen Södra Vägen (clinic ID 278)
+
+Review 1 for Dr. Sofia Lindgren, Psychiatry, Gothenburg
+Rating: 6/10
+Clinic visited: Hälsocentralen Södra Vägen
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Quick appointment and a fair price in Gothenburg, but the staff seemed overwhelmed and a bit curt on the phone. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Sofia Lindgren, Psychiatry, Gothenburg
+Rating: 5/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Helpful diagnosis, though the billing for my first long assessment was confusing. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Sofia Lindgren, Psychiatry, Gothenburg
+Rating: 5/10
+Clinic visited: Hälsocentralen Södra Vägen
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Sofia Lindgren, Psychiatry, Gothenburg
+Rating: 9/10
+Clinic visited: Hälsocentralen Södra Vägen
+Description: A same-day slot was found for me at Hälsocentralen Södra Vägen when I called with a worrying symptom. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 5 for Dr. Sofia Lindgren, Psychiatry, Gothenburg
+Rating: 4/10
+Clinic visited: Hälsocentralen Södra Vägen
+Description: Dr. Sofia Lindgren did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 6 for Dr. Sofia Lindgren, Psychiatry, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 7 for Dr. Sofia Lindgren, Psychiatry, Gothenburg
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Linné
+Description: I felt heard by Dr. Sofia Lindgren during a very hard time, and nobody rushed me out of the room.
+
+Review 8 for Dr. Sofia Lindgren, Psychiatry, Gothenburg
+Rating: 5/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Sofia Lindgren, Psychiatry, Gothenburg: 6.38/10 from 8 reviews

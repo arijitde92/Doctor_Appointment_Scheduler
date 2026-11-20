@@ -1,0 +1,54 @@
+Doctor: Dr. Grace Ryan
+Doctor ID: 2511
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: Galway, Ireland
+Clinics: Shop Street Polyclinic (clinic ID 328)
+
+Review 1 for Dr. Grace Ryan, Cardiology, Galway
+Rating: 7/10
+Clinic visited: Shop Street Polyclinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I liked the advice I got from Dr. Grace Ryan, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Grace Ryan, Cardiology, Galway
+Rating: 9/10
+Clinic visited: Shop Street Polyclinic
+Description: Seeing Dr. Grace Ryan in Galway meant my whole family history was reviewed, and now my sister is being screened too.
+
+Review 3 for Dr. Grace Ryan, Cardiology, Galway
+Rating: 9/10
+Clinic visited: Shop Street Polyclinic
+Description: After my palpitations began, Dr. Grace Ryan arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 4 for Dr. Grace Ryan, Cardiology, Galway
+Rating: 7/10
+Clinic visited: Shop Street Polyclinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Grace Ryan, Cardiology, Galway
+Rating: 8/10
+Clinic visited: Shop Street Polyclinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Grace Ryan, Cardiology, Galway
+Rating: 9/10
+Clinic visited: Shop Street Polyclinic
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 7 for Dr. Grace Ryan, Cardiology, Galway
+Rating: 9/10
+Clinic visited: Shop Street Polyclinic
+Description: Dr. Grace Ryan drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 8 for Dr. Grace Ryan, Cardiology, Galway
+Rating: 10/10
+Clinic visited: Shop Street Polyclinic
+Description: Honest about the risks and benefits of the procedure, Dr. Grace Ryan never pressured me toward surgery.
+
+Review 9 for Dr. Grace Ryan, Cardiology, Galway
+Rating: 8/10
+Clinic visited: Shop Street Polyclinic
+Description: My atrial fibrillation is well managed by Dr. Grace Ryan, and I know exactly what symptoms mean I should call. The receptionist at Shop Street Polyclinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Overall rating for Dr. Grace Ryan, Cardiology, Galway: 8.44/10 from 9 reviews

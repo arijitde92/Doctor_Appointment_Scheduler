@@ -1,0 +1,49 @@
+Doctor: Dr. Sven Andersson
+Doctor ID: 2198
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 15
+City: Stockholm, Sweden
+Clinics: Medicinskt Centrum Sveavägen (clinic ID 287)
+
+Review 1 for Dr. Sven Andersson, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: My routine pap smear with Dr. Sven Andersson was quick and respectful, with each step explained before it was done. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Sven Andersson, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues.
+
+Review 3 for Dr. Sven Andersson, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Dr. Sven Andersson explained my options well, though the office was often running an hour behind. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Sven Andersson, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 5/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history. Good bedside manner from Dr. Sven Andersson, but the parking near Medicinskt Centrum Sveavägen is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Sven Andersson, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: The ultrasound images from Dr. Sven Andersson were great, but I had to call twice to get the written report. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 6 for Dr. Sven Andersson, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Sven Andersson, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Gestational diabetes was explained clearly, with a simple monitoring plan and kind support throughout.
+
+Review 8 for Dr. Sven Andersson, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Sven Andersson, Obstetrics and Gynecology (OB/GYN), Stockholm: 7.00/10 from 8 reviews

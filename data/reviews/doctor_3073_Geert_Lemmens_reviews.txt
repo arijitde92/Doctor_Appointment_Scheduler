@@ -1,0 +1,49 @@
+Doctor: Dr. Geert Lemmens
+Doctor ID: 3073
+Specialization: General
+Gender: Male
+Years of experience: 2
+City: Brussels, Belgium
+Clinics: Centre Médical Louise (clinic ID 400); Cabinet Médical Sablon (clinic ID 401)
+
+Review 1 for Dr. Geert Lemmens, General, Brussels
+Rating: 8/10
+Clinic visited: Cabinet Médical Sablon
+Description: I went in with months of tiredness, and Dr. Geert Lemmens ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Everything was explained in plain English by Dr. Geert Lemmens, and nothing was left to guess.
+
+Review 2 for Dr. Geert Lemmens, General, Brussels
+Rating: 5/10
+Clinic visited: Centre Médical Louise
+Description: Referrals from Dr. Geert Lemmens are handled well, but getting test results back took longer than I was told to expect. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Geert Lemmens, General, Brussels
+Rating: 10/10
+Clinic visited: Centre Médical Louise
+Description: As a new patient in Brussels, I felt welcomed at Centre Médical Louise, and my whole history was reviewed in one relaxed visit. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Geert Lemmens, General, Brussels
+Rating: 5/10
+Clinic visited: Centre Médical Louise
+Description: Dr. Geert Lemmens is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Geert Lemmens, General, Brussels
+Rating: 8/10
+Clinic visited: Centre Médical Louise
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Geert Lemmens, General, Brussels
+Rating: 9/10
+Clinic visited: Cabinet Médical Sablon
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Geert Lemmens, General, Brussels
+Rating: 10/10
+Clinic visited: Cabinet Médical Sablon
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 8 for Dr. Geert Lemmens, General, Brussels
+Rating: 9/10
+Clinic visited: Cabinet Médical Sablon
+Description: By the time I left the room, Dr. Geert Lemmens had sorted the sick note, referral letter and prescription refill. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Geert Lemmens, General, Brussels: 8.00/10 from 8 reviews

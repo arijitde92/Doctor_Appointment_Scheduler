@@ -1,0 +1,64 @@
+Doctor: Dr. Ogawa Haruki
+Doctor ID: 4027
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 10
+City: Kyoto, Japan
+Clinics: Nijo Yume Medical Clinic (clinic ID 519)
+
+Review 1 for Dr. Ogawa Haruki, Psychiatry, Kyoto
+Rating: 8/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. I appreciated that he offered more than one option and let me choose what suited my life. My whole family is switching over after seeing how good the care was.
+
+Review 2 for Dr. Ogawa Haruki, Psychiatry, Kyoto
+Rating: 6/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 3 for Dr. Ogawa Haruki, Psychiatry, Kyoto
+Rating: 5/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 4 for Dr. Ogawa Haruki, Psychiatry, Kyoto
+Rating: 8/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: My family was included in a session at my request, and Dr. Ogawa Haruki handled it with great tact. Never once did I feel rushed, even though the clinic was clearly busy that morning. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Ogawa Haruki, Psychiatry, Kyoto
+Rating: 8/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 6 for Dr. Ogawa Haruki, Psychiatry, Kyoto
+Rating: 8/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Appointments in Kyoto are always on schedule, and the waiting area is peaceful and private. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 7 for Dr. Ogawa Haruki, Psychiatry, Kyoto
+Rating: 9/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Ogawa Haruki, Psychiatry, Kyoto
+Rating: 7/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 9 for Dr. Ogawa Haruki, Psychiatry, Kyoto
+Rating: 6/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Dr. Ogawa Haruki is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 10 for Dr. Ogawa Haruki, Psychiatry, Kyoto
+Rating: 6/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 11 for Dr. Ogawa Haruki, Psychiatry, Kyoto
+Rating: 5/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Ogawa Haruki, Psychiatry, Kyoto: 6.91/10 from 11 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Elizabeth López Hernández
+Doctor ID: 467
+Specialization: Pathology
+Gender: Female
+Years of experience: 21
+City: Mexico City, Mexico
+Clinics: Policlínica Reforma (clinic ID 64)
+
+Review 1 for Dr. Elizabeth López Hernández, Pathology, Mexico City
+Rating: 3/10
+Clinic visited: Policlínica Reforma
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 2 for Dr. Elizabeth López Hernández, Pathology, Mexico City
+Rating: 6/10
+Clinic visited: Policlínica Reforma
+Description: Dr. Elizabeth López Hernández answered my questions kindly, though the call back took three days.
+
+Review 3 for Dr. Elizabeth López Hernández, Pathology, Mexico City
+Rating: 5/10
+Clinic visited: Policlínica Reforma
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 4 for Dr. Elizabeth López Hernández, Pathology, Mexico City
+Rating: 6/10
+Clinic visited: Policlínica Reforma
+Description: Good bedside manner from Dr. Elizabeth López Hernández, but the parking near Policlínica Reforma is limited and I had to circle for fifteen minutes. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 5 for Dr. Elizabeth López Hernández, Pathology, Mexico City
+Rating: 5/10
+Clinic visited: Policlínica Reforma
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Elizabeth López Hernández, Pathology, Mexico City
+Rating: 5/10
+Clinic visited: Policlínica Reforma
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Elizabeth López Hernández, Pathology, Mexico City
+Rating: 7/10
+Clinic visited: Policlínica Reforma
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Elizabeth López Hernández, Pathology, Mexico City
+Rating: 4/10
+Clinic visited: Policlínica Reforma
+Description: The report was handed over by Dr. Elizabeth López Hernández with no explanation, and I left frightened and confused about the terminology. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 9 for Dr. Elizabeth López Hernández, Pathology, Mexico City
+Rating: 4/10
+Clinic visited: Policlínica Reforma
+Description: Dr. Elizabeth López Hernández was never available to talk about my result, and the front desk repeated that I should ask my referring physician.
+
+Review 10 for Dr. Elizabeth López Hernández, Pathology, Mexico City
+Rating: 6/10
+Clinic visited: Policlínica Reforma
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 11 for Dr. Elizabeth López Hernández, Pathology, Mexico City
+Rating: 2/10
+Clinic visited: Policlínica Reforma
+Description: My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive. The staff at Policlínica Reforma were curt on the phone, and it took four attempts to book a simple follow-up.
+
+Overall rating for Dr. Elizabeth López Hernández, Pathology, Mexico City: 4.82/10 from 11 reviews

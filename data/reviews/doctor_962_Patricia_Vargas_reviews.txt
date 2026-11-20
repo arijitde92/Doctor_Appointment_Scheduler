@@ -1,0 +1,49 @@
+Doctor: Dr. Patricia Vargas
+Doctor ID: 962
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 28
+City: Lima, Peru
+Clinics: Centro Médico Miraflores (clinic ID 126)
+
+Review 1 for Dr. Patricia Vargas, Psychiatry, Lima
+Rating: 6/10
+Clinic visited: Centro Médico Miraflores
+Description: The treatment plan from Dr. Patricia Vargas made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Patricia Vargas, Psychiatry, Lima
+Rating: 6/10
+Clinic visited: Centro Médico Miraflores
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 3 for Dr. Patricia Vargas, Psychiatry, Lima
+Rating: 7/10
+Clinic visited: Centro Médico Miraflores
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Booking was easy online, but the confirmation email contained the wrong address for Centro Médico Miraflores. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Patricia Vargas, Psychiatry, Lima
+Rating: 5/10
+Clinic visited: Centro Médico Miraflores
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Patricia Vargas, Psychiatry, Lima
+Rating: 5/10
+Clinic visited: Centro Médico Miraflores
+Description: Good listener, yet the refill process at Centro Médico Miraflores is slow and requires several phone calls.
+
+Review 6 for Dr. Patricia Vargas, Psychiatry, Lima
+Rating: 6/10
+Clinic visited: Centro Médico Miraflores
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Dr. Patricia Vargas was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Patricia Vargas, Psychiatry, Lima
+Rating: 7/10
+Clinic visited: Centro Médico Miraflores
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Patricia Vargas, Psychiatry, Lima
+Rating: 9/10
+Clinic visited: Centro Médico Miraflores
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Telehealth follow-ups at Centro Médico Miraflores are punctual and calm, and refills are dealt with quickly.
+
+Overall rating for Dr. Patricia Vargas, Psychiatry, Lima: 6.38/10 from 8 reviews

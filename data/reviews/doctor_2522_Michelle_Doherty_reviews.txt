@@ -1,0 +1,59 @@
+Doctor: Dr. Michelle Doherty
+Doctor ID: 2522
+Specialization: Radiology
+Gender: Female
+Years of experience: 16
+City: Limerick, Ireland
+Clinics: O'Connell Street Medical Practice (clinic ID 330)
+
+Review 1 for Dr. Michelle Doherty, Radiology, Limerick
+Rating: 5/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Michelle Doherty, Radiology, Limerick
+Rating: 6/10
+Clinic visited: O'Connell Street Medical Practice
+Description: The report from Dr. Michelle Doherty was thorough, though full of technical terms that needed my regular doctor to translate. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Michelle Doherty, Radiology, Limerick
+Rating: 6/10
+Clinic visited: O'Connell Street Medical Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Michelle Doherty, Radiology, Limerick
+Rating: 6/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 5 for Dr. Michelle Doherty, Radiology, Limerick
+Rating: 7/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Dr. Michelle Doherty answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 6 for Dr. Michelle Doherty, Radiology, Limerick
+Rating: 8/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Reviewing my X-ray together with Dr. Michelle Doherty on the screen made it much easier to understand my arthritis. I came away understanding my condition better than I have in years of previous appointments. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Michelle Doherty, Radiology, Limerick
+Rating: 6/10
+Clinic visited: O'Connell Street Medical Practice
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 8 for Dr. Michelle Doherty, Radiology, Limerick
+Rating: 9/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Images from O'Connell Street Medical Practice were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 9 for Dr. Michelle Doherty, Radiology, Limerick
+Rating: 6/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 10 for Dr. Michelle Doherty, Radiology, Limerick
+Rating: 7/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Overall rating for Dr. Michelle Doherty, Radiology, Limerick: 6.60/10 from 10 reviews

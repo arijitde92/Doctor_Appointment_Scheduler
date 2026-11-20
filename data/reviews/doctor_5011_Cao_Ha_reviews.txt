@@ -1,0 +1,49 @@
+Doctor: Dr. Cao Ha
+Doctor ID: 5011
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 3
+City: Hanoi, Vietnam
+Clinics: Phong Kham Gia Dinh Tam Duc (clinic ID 647)
+
+Review 1 for Dr. Cao Ha, Pediatrics, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. The treatment plan from Dr. Cao Ha made sense, but I wished it had been written down for me to take away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Cao Ha, Pediatrics, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 3 for Dr. Cao Ha, Pediatrics, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Dr. Cao Ha was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Cao Ha, Pediatrics, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Cao Ha, Pediatrics, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Dr. Cao Ha is thorough with exams, but the after-hours phone line at Phong Kham Gia Dinh Tam Duc is hard to reach. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Cao Ha, Pediatrics, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 7 for Dr. Cao Ha, Pediatrics, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Caring and gentle with my child, Dr. Cao Ha nonetheless ran forty minutes behind schedule at most appointments. Good bedside manner from Dr. Cao Ha, but the parking near Phong Kham Gia Dinh Tam Duc is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Cao Ha, Pediatrics, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Cao Ha, Pediatrics, Hanoi: 6.62/10 from 8 reviews

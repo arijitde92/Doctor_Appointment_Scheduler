@@ -1,0 +1,59 @@
+Doctor: Dr. Ulrika Johansson
+Doctor ID: 2179
+Specialization: Cardiology
+Gender: Female
+Years of experience: 8
+City: Stockholm, Sweden
+Clinics: Vårdcentralen Drottninggatan Plus (clinic ID 285); Medicinskt Centrum Sveavägen (clinic ID 287)
+
+Review 1 for Dr. Ulrika Johansson, Cardiology, Stockholm
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Dr. Ulrika Johansson was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Ulrika Johansson, Cardiology, Stockholm
+Rating: 6/10
+Clinic visited: Vårdcentralen Drottninggatan Plus
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Ulrika Johansson, Cardiology, Stockholm
+Rating: 7/10
+Clinic visited: Vårdcentralen Drottninggatan Plus
+Description: Booking was easy online, but the confirmation email contained the wrong address for Vårdcentralen Drottninggatan Plus. Helpful with my cholesterol, Dr. Ulrika Johansson still gave dietary advice that was a little generic.
+
+Review 4 for Dr. Ulrika Johansson, Cardiology, Stockholm
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Ulrika Johansson adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 5 for Dr. Ulrika Johansson, Cardiology, Stockholm
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 6 for Dr. Ulrika Johansson, Cardiology, Stockholm
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: I appreciated that she offered more than one option and let me choose what suited my life. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 7 for Dr. Ulrika Johansson, Cardiology, Stockholm
+Rating: 5/10
+Clinic visited: Vårdcentralen Drottninggatan Plus
+Description: The treatment plan from Dr. Ulrika Johansson made sense, but I wished it had been written down for me to take away. Great care in the visit itself, but the billing for the tests at Vårdcentralen Drottninggatan Plus was confusing.
+
+Review 8 for Dr. Ulrika Johansson, Cardiology, Stockholm
+Rating: 6/10
+Clinic visited: Vårdcentralen Drottninggatan Plus
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. I liked the advice I got from Dr. Ulrika Johansson, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 9 for Dr. Ulrika Johansson, Cardiology, Stockholm
+Rating: 6/10
+Clinic visited: Vårdcentralen Drottninggatan Plus
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Ulrika Johansson, Cardiology, Stockholm
+Rating: 6/10
+Clinic visited: Vårdcentralen Drottninggatan Plus
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Ulrika Johansson, Cardiology, Stockholm: 6.60/10 from 10 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Hamish Jones
+Doctor ID: 6740
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 4
+City: Wellington, New Zealand
+Clinics: Manuka Health Clinic (clinic ID 873)
+
+Review 1 for Dr. Hamish Jones, Pulmonology, Wellington
+Rating: 9/10
+Clinic visited: Manuka Health Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 2 for Dr. Hamish Jones, Pulmonology, Wellington
+Rating: 9/10
+Clinic visited: Manuka Health Clinic
+Description: He called personally with my scan results and walked me through what the findings did and did not mean.
+
+Review 3 for Dr. Hamish Jones, Pulmonology, Wellington
+Rating: 10/10
+Clinic visited: Manuka Health Clinic
+Description: The practice in Wellington is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan.
+
+Review 4 for Dr. Hamish Jones, Pulmonology, Wellington
+Rating: 10/10
+Clinic visited: Manuka Health Clinic
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 5 for Dr. Hamish Jones, Pulmonology, Wellington
+Rating: 8/10
+Clinic visited: Manuka Health Clinic
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 6 for Dr. Hamish Jones, Pulmonology, Wellington
+Rating: 9/10
+Clinic visited: Manuka Health Clinic
+Description: Clear, honest answers from Dr. Hamish Jones about my shortness of breath, and no unnecessary tests were ordered. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Hamish Jones, Pulmonology, Wellington
+Rating: 10/10
+Clinic visited: Manuka Health Clinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Quitting smoking felt possible for the first time because the advice from Dr. Hamish Jones was practical and never preachy.
+
+Review 8 for Dr. Hamish Jones, Pulmonology, Wellington
+Rating: 6/10
+Clinic visited: Manuka Health Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Manuka Health Clinic regularly exceeded forty minutes. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Hamish Jones, Pulmonology, Wellington
+Rating: 10/10
+Clinic visited: Manuka Health Clinic
+Description: After years of poorly controlled asthma, Dr. Hamish Jones reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Hamish Jones, Pulmonology, Wellington: 9.00/10 from 9 reviews

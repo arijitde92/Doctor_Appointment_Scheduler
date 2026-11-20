@@ -1,0 +1,54 @@
+Doctor: Dr. Olivia Taylor
+Doctor ID: 1084
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 2
+City: Edinburgh, UK
+Clinics: Morningside Family Clinic (clinic ID 142)
+
+Review 1 for Dr. Olivia Taylor, Orthopedic, Edinburgh
+Rating: 5/10
+Clinic visited: Morningside Family Clinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Olivia Taylor, Orthopedic, Edinburgh
+Rating: 5/10
+Clinic visited: Morningside Family Clinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Olivia Taylor, Orthopedic, Edinburgh
+Rating: 4/10
+Clinic visited: Morningside Family Clinic
+Description: I was told by Dr. Olivia Taylor that my knee pain was just age without any scan or exam, and the pain kept getting worse. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 4 for Dr. Olivia Taylor, Orthopedic, Edinburgh
+Rating: 6/10
+Clinic visited: Morningside Family Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Morningside Family Clinic.
+
+Review 5 for Dr. Olivia Taylor, Orthopedic, Edinburgh
+Rating: 7/10
+Clinic visited: Morningside Family Clinic
+Description: Dr. Olivia Taylor explained surgery options clearly, though the physiotherapy referral took weeks to arrive. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Olivia Taylor, Orthopedic, Edinburgh
+Rating: 5/10
+Clinic visited: Morningside Family Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 7 for Dr. Olivia Taylor, Orthopedic, Edinburgh
+Rating: 4/10
+Clinic visited: Morningside Family Clinic
+Description: The appointment lasted five minutes and ended with an injection I had not agreed to beforehand. My questions were answered by Dr. Olivia Taylor with short, vague replies, and I left without a clear plan.
+
+Review 8 for Dr. Olivia Taylor, Orthopedic, Edinburgh
+Rating: 4/10
+Clinic visited: Morningside Family Clinic
+Description: My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Review 9 for Dr. Olivia Taylor, Orthopedic, Edinburgh
+Rating: 7/10
+Clinic visited: Morningside Family Clinic
+Description: Dr. Olivia Taylor was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Overall rating for Dr. Olivia Taylor, Orthopedic, Edinburgh: 5.22/10 from 9 reviews

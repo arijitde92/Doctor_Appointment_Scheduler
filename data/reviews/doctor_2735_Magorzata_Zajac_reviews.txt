@@ -1,0 +1,49 @@
+Doctor: Dr. Małgorzata Zając
+Doctor ID: 2735
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 17
+City: Gdansk, Poland
+Clinics: Centrum Zdrowia Orunia (clinic ID 358)
+
+Review 1 for Dr. Małgorzata Zając, Orthopedic, Gdansk
+Rating: 6/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Dr. Małgorzata Zając was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good result from my shoulder injection, although the cost was higher than the estimate I received. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Małgorzata Zając, Orthopedic, Gdansk
+Rating: 4/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: There was no translator available, and my parent was left unable to follow what was being said. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 3 for Dr. Małgorzata Zając, Orthopedic, Gdansk
+Rating: 3/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: The appointment lasted five minutes and ended with an injection I had not agreed to beforehand. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 4 for Dr. Małgorzata Zając, Orthopedic, Gdansk
+Rating: 6/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 5 for Dr. Małgorzata Zając, Orthopedic, Gdansk
+Rating: 4/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 6 for Dr. Małgorzata Zając, Orthopedic, Gdansk
+Rating: 6/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 7 for Dr. Małgorzata Zając, Orthopedic, Gdansk
+Rating: 6/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Very skilled with my knee, but Dr. Małgorzata Zając's clinic runs behind and the wait was over an hour.
+
+Review 8 for Dr. Małgorzata Zając, Orthopedic, Gdansk
+Rating: 5/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Małgorzata Zając, Orthopedic, Gdansk: 5.00/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Daniela Favre
+Doctor ID: 1705
+Specialization: Cardiology
+Gender: Female
+Years of experience: 28
+City: Bern, Switzerland
+Clinics: Gesundheitszentrum Lorraine-Breitenrain (clinic ID 222)
+
+Review 1 for Dr. Daniela Favre, Cardiology, Bern
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Managing my blood pressure with Dr. Daniela Favre has been steady and practical, with home readings reviewed at every visit.
+
+Review 2 for Dr. Daniela Favre, Cardiology, Bern
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 3 for Dr. Daniela Favre, Cardiology, Bern
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Daniela Favre, Cardiology, Bern
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: My stress test was supervised carefully, and Dr. Daniela Favre reviewed the results in the same visit with a plan for my cholesterol. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Daniela Favre, Cardiology, Bern
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: The receptionist at Gesundheitszentrum Lorraine-Breitenrain remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 6 for Dr. Daniela Favre, Cardiology, Bern
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 7 for Dr. Daniela Favre, Cardiology, Bern
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 8 for Dr. Daniela Favre, Cardiology, Bern
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Dr. Daniela Favre adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Overall rating for Dr. Daniela Favre, Cardiology, Bern: 7.62/10 from 8 reviews

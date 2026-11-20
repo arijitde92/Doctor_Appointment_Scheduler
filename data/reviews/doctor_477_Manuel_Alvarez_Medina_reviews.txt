@@ -1,0 +1,49 @@
+Doctor: Dr. Manuel Álvarez Medina
+Doctor ID: 477
+Specialization: Cardiology
+Gender: Male
+Years of experience: 16
+City: Monterrey, Mexico
+Clinics: Clínica San Jerónimo Norte (clinic ID 65); Consultorios Médicos Contry (clinic ID 67)
+
+Review 1 for Dr. Manuel Álvarez Medina, Cardiology, Monterrey
+Rating: 10/10
+Clinic visited: Consultorios Médicos Contry
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 2 for Dr. Manuel Álvarez Medina, Cardiology, Monterrey
+Rating: 9/10
+Clinic visited: Consultorios Médicos Contry
+Description: Honest about the risks and benefits of the procedure, Dr. Manuel Álvarez Medina never pressured me toward surgery. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 3 for Dr. Manuel Álvarez Medina, Cardiology, Monterrey
+Rating: 9/10
+Clinic visited: Clínica San Jerónimo Norte
+Description: Dr. Manuel Álvarez Medina explained the difference between my statin options and let me weigh in on the choice. Five stars from me, and I would book again tomorrow.
+
+Review 4 for Dr. Manuel Álvarez Medina, Cardiology, Monterrey
+Rating: 9/10
+Clinic visited: Consultorios Médicos Contry
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Manuel Álvarez Medina, Cardiology, Monterrey
+Rating: 10/10
+Clinic visited: Clínica San Jerónimo Norte
+Description: Managing my blood pressure with Dr. Manuel Álvarez Medina has been steady and practical, with home readings reviewed at every visit. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Manuel Álvarez Medina, Cardiology, Monterrey
+Rating: 8/10
+Clinic visited: Clínica San Jerónimo Norte
+Description: The waiting room at Clínica San Jerónimo Norte was clean, quiet and comfortable, with enough seating and water available.
+
+Review 7 for Dr. Manuel Álvarez Medina, Cardiology, Monterrey
+Rating: 7/10
+Clinic visited: Consultorios Médicos Contry
+Description: Helpful with my cholesterol, Dr. Manuel Álvarez Medina still gave dietary advice that was a little generic.
+
+Review 8 for Dr. Manuel Álvarez Medina, Cardiology, Monterrey
+Rating: 9/10
+Clinic visited: Consultorios Médicos Contry
+Description: Dr. Manuel Álvarez Medina drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Overall rating for Dr. Manuel Álvarez Medina, Cardiology, Monterrey: 8.88/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Jennifer Leblanc
+Doctor ID: 302
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 1
+City: Montreal, Canada
+Clinics: Centre Médical René-Lévesque (clinic ID 41); Clinique Santé Côte-des-Neiges (clinic ID 42); Clinique Médicale McGill Collège (clinic ID 44)
+
+Review 1 for Dr. Jennifer Leblanc, Psychiatry, Montreal
+Rating: 8/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Excellent at explaining how therapy and medication work together, and Dr. Jennifer Leblanc coordinated with my counselor. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Jennifer Leblanc, Psychiatry, Montreal
+Rating: 7/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Dr. Jennifer Leblanc is knowledgeable, though I waited several weeks for my first appointment. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Jennifer Leblanc, Psychiatry, Montreal
+Rating: 5/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Jennifer Leblanc, Psychiatry, Montreal
+Rating: 10/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 5 for Dr. Jennifer Leblanc, Psychiatry, Montreal
+Rating: 4/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: My concerns about how I felt on the dose were waved away rather than explored. I left disappointed and will take my business to another clinic.
+
+Review 6 for Dr. Jennifer Leblanc, Psychiatry, Montreal
+Rating: 6/10
+Clinic visited: Centre Médical René-Lévesque
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Booking was easy online, but the confirmation email contained the wrong address for Centre Médical René-Lévesque.
+
+Review 7 for Dr. Jennifer Leblanc, Psychiatry, Montreal
+Rating: 10/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: I can ring Clinique Médicale McGill Collège with an urgent question and receive a thoughtful reply the same day.
+
+Review 8 for Dr. Jennifer Leblanc, Psychiatry, Montreal
+Rating: 9/10
+Clinic visited: Centre Médical René-Lévesque
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. Dr. Jennifer Leblanc drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 9 for Dr. Jennifer Leblanc, Psychiatry, Montreal
+Rating: 8/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Dr. Jennifer Leblanc took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Overall rating for Dr. Jennifer Leblanc, Psychiatry, Montreal: 7.44/10 from 9 reviews

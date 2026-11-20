@@ -1,0 +1,54 @@
+Doctor: Dr. Sun Ming
+Doctor ID: 3910
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 29
+City: Shanghai, China
+Clinics: Lujiazui Kangtai Medical Centre (clinic ID 505)
+
+Review 1 for Dr. Sun Ming, Gastroenterology, Shanghai
+Rating: 9/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Prescriptions from Dr. Sun Ming were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I received a full summary letter from Lujiazui Kangtai Medical Centre after my endoscopy, which my regular doctor found very useful.
+
+Review 2 for Dr. Sun Ming, Gastroenterology, Shanghai
+Rating: 8/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 3 for Dr. Sun Ming, Gastroenterology, Shanghai
+Rating: 8/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Sensitive questions were handled by Dr. Sun Ming with discretion and without a hint of judgment. Clear explanation from Dr. Sun Ming of fatty liver and exactly which lifestyle changes would make a measurable difference. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Sun Ming, Gastroenterology, Shanghai
+Rating: 7/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Sun Ming, Gastroenterology, Shanghai
+Rating: 9/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: At my visit, Dr. Sun Ming took notes on my medication list, checked for interactions and explained the changes simply. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Sun Ming, Gastroenterology, Shanghai
+Rating: 8/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Sun Ming felt well organized from start to finish. Results of the biopsy were shared within a week, with a phone call to walk me through them. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Sun Ming, Gastroenterology, Shanghai
+Rating: 8/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Dr. Sun Ming took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 8 for Dr. Sun Ming, Gastroenterology, Shanghai
+Rating: 10/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Helpful dietitian referral from Dr. Sun Ming and written guidance for living with ulcerative colitis.
+
+Review 9 for Dr. Sun Ming, Gastroenterology, Shanghai
+Rating: 9/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Sun Ming, Gastroenterology, Shanghai: 8.44/10 from 9 reviews

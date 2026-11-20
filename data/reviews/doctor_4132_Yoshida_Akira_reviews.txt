@@ -1,0 +1,69 @@
+Doctor: Dr. Yoshida Akira
+Doctor ID: 4132
+Specialization: General
+Gender: Male
+Years of experience: 29
+City: Yokohama, Japan
+Clinics: Shin-Yokohama Hoshi Clinic (clinic ID 533)
+
+Review 1 for Dr. Yoshida Akira, General, Yokohama
+Rating: 9/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 2 for Dr. Yoshida Akira, General, Yokohama
+Rating: 5/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Dr. Yoshida Akira is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Yoshida Akira, General, Yokohama
+Rating: 7/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Helpful visit overall, although I only found out about an extra charge after I had paid. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Yoshida Akira, General, Yokohama
+Rating: 9/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Yoshida Akira, General, Yokohama
+Rating: 9/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 6 for Dr. Yoshida Akira, General, Yokohama
+Rating: 8/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: I went in with months of tiredness, and Dr. Yoshida Akira ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 7 for Dr. Yoshida Akira, General, Yokohama
+Rating: 7/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 8 for Dr. Yoshida Akira, General, Yokohama
+Rating: 9/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: I always hear back within a day when I leave a question with the nurse at Shin-Yokohama Hoshi Clinic, and Dr. Yoshida Akira follows up on lab results personally. Prescriptions from Dr. Yoshida Akira were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 9 for Dr. Yoshida Akira, General, Yokohama
+Rating: 8/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Dr. Yoshida Akira looked me in the eye, listened to the whole story and only then started typing. My blood pressure had crept up and Dr. Yoshida Akira walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 10 for Dr. Yoshida Akira, General, Yokohama
+Rating: 6/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 11 for Dr. Yoshida Akira, General, Yokohama
+Rating: 10/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Worth every minute of travel, and I would go again without a second thought.
+
+Review 12 for Dr. Yoshida Akira, General, Yokohama
+Rating: 8/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Getting to Shin-Yokohama Hoshi Clinic from across Yokohama was easy, and the same-week appointment saved me an urgent care trip.
+
+Overall rating for Dr. Yoshida Akira, General, Yokohama: 7.92/10 from 12 reviews

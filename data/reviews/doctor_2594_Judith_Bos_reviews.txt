@@ -1,0 +1,69 @@
+Doctor: Dr. Judith Bos
+Doctor ID: 2594
+Specialization: Radiology
+Gender: Female
+Years of experience: 2
+City: Amsterdam, Netherlands
+Clinics: Medisch Centrum Westerpark (clinic ID 339)
+
+Review 1 for Dr. Judith Bos, Radiology, Amsterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum Westerpark
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Good bedside manner from Dr. Judith Bos, but the parking near Medisch Centrum Westerpark is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Judith Bos, Radiology, Amsterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum Westerpark
+Description: The report from Dr. Judith Bos was thorough, though full of technical terms that needed my regular doctor to translate. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Judith Bos, Radiology, Amsterdam
+Rating: 5/10
+Clinic visited: Medisch Centrum Westerpark
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Judith Bos, Radiology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Westerpark
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Judith Bos, Radiology, Amsterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum Westerpark
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Judith Bos, Radiology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Westerpark
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 7 for Dr. Judith Bos, Radiology, Amsterdam
+Rating: 4/10
+Clinic visited: Medisch Centrum Westerpark
+Description: My images were not sent to my specialist as promised, so my consultation had to be postponed. The visit felt rushed, and Dr. Judith Bos was already halfway out the door when I started to describe my second symptom.
+
+Review 8 for Dr. Judith Bos, Radiology, Amsterdam
+Rating: 5/10
+Clinic visited: Medisch Centrum Westerpark
+Description: Quick appointment and a fair price in Amsterdam, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 9 for Dr. Judith Bos, Radiology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Westerpark
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Judith Bos, Radiology, Amsterdam
+Rating: 4/10
+Clinic visited: Medisch Centrum Westerpark
+Description: I was charged for a second scan that I was told was a free repeat after an image problem. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 11 for Dr. Judith Bos, Radiology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Westerpark
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Dr. Judith Bos answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 12 for Dr. Judith Bos, Radiology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Westerpark
+Description: Dr. Judith Bos was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Judith Bos, Radiology, Amsterdam: 5.92/10 from 12 reviews

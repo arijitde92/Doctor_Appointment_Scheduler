@@ -1,0 +1,64 @@
+Doctor: Dr. Lars Lehmann
+Doctor ID: 1504
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 11
+City: Berlin, Germany
+Clinics: Medizinisches Zentrum Friedrichshain-Mitte (clinic ID 196)
+
+Review 1 for Dr. Lars Lehmann, Pediatrics, Berlin
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Lars Lehmann, Pediatrics, Berlin
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 3 for Dr. Lars Lehmann, Pediatrics, Berlin
+Rating: 4/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: We were left waiting over an hour with a sick, crying baby and received no apology. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 4 for Dr. Lars Lehmann, Pediatrics, Berlin
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Caring and gentle with my child, Dr. Lars Lehmann nonetheless ran forty minutes behind schedule at most appointments. Quick appointment and a fair price in Berlin, but the staff seemed overwhelmed and a bit curt on the phone. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Lars Lehmann, Pediatrics, Berlin
+Rating: 4/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: My child had a fever for three days and Dr. Lars Lehmann said to wait it out, with no examination of the ears or throat. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 6 for Dr. Lars Lehmann, Pediatrics, Berlin
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 7 for Dr. Lars Lehmann, Pediatrics, Berlin
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Lars Lehmann, Pediatrics, Berlin
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Dr. Lars Lehmann was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. Lars Lehmann is thorough with exams, but the after-hours phone line at Medizinisches Zentrum Friedrichshain-Mitte is hard to reach. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Lars Lehmann, Pediatrics, Berlin
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. My teenager actually spoke up during the visit, and Dr. Lars Lehmann handled sensitive topics with respect.
+
+Review 10 for Dr. Lars Lehmann, Pediatrics, Berlin
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 11 for Dr. Lars Lehmann, Pediatrics, Berlin
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Lars Lehmann, Pediatrics, Berlin: 5.64/10 from 11 reviews

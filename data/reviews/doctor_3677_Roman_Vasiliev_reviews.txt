@@ -1,0 +1,64 @@
+Doctor: Dr. Roman Vasiliev
+Doctor ID: 3677
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 7
+City: Kazan, Russia
+Clinics: Bulak Medical Centre (clinic ID 475)
+
+Review 1 for Dr. Roman Vasiliev, Psychiatry, Kazan
+Rating: 6/10
+Clinic visited: Bulak Medical Centre
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Roman Vasiliev, Psychiatry, Kazan
+Rating: 6/10
+Clinic visited: Bulak Medical Centre
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Roman Vasiliev, Psychiatry, Kazan
+Rating: 8/10
+Clinic visited: Bulak Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Dr. Roman Vasiliev took a full history before suggesting any medication and explained the likely side effects honestly. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Roman Vasiliev, Psychiatry, Kazan
+Rating: 7/10
+Clinic visited: Bulak Medical Centre
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 5 for Dr. Roman Vasiliev, Psychiatry, Kazan
+Rating: 7/10
+Clinic visited: Bulak Medical Centre
+Description: Good listener, yet the refill process at Bulak Medical Centre is slow and requires several phone calls. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Roman Vasiliev, Psychiatry, Kazan
+Rating: 9/10
+Clinic visited: Bulak Medical Centre
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Roman Vasiliev, Psychiatry, Kazan
+Rating: 8/10
+Clinic visited: Bulak Medical Centre
+Description: My family was included in a session at my request, and Dr. Roman Vasiliev handled it with great tact. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Roman Vasiliev, Psychiatry, Kazan
+Rating: 5/10
+Clinic visited: Bulak Medical Centre
+Description: Dr. Roman Vasiliev is knowledgeable, though I waited several weeks for my first appointment. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Roman Vasiliev, Psychiatry, Kazan
+Rating: 8/10
+Clinic visited: Bulak Medical Centre
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. My whole family is switching over after seeing how good the care was.
+
+Review 10 for Dr. Roman Vasiliev, Psychiatry, Kazan
+Rating: 7/10
+Clinic visited: Bulak Medical Centre
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Dr. Roman Vasiliev was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 11 for Dr. Roman Vasiliev, Psychiatry, Kazan
+Rating: 9/10
+Clinic visited: Bulak Medical Centre
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Overall rating for Dr. Roman Vasiliev, Psychiatry, Kazan: 7.27/10 from 11 reviews

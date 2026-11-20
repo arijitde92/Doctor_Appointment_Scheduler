@@ -1,0 +1,49 @@
+Doctor: Dr. Marco Lombardi
+Doctor ID: 3498
+Specialization: Psychology
+Gender: Male
+Years of experience: 4
+City: Rome, Italy
+Clinics: Poliambulatorio Trastevere (clinic ID 453)
+
+Review 1 for Dr. Marco Lombardi, Psychology, Rome
+Rating: 6/10
+Clinic visited: Poliambulatorio Trastevere
+Description: I liked the advice I got from Dr. Marco Lombardi, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Marco Lombardi, Psychology, Rome
+Rating: 9/10
+Clinic visited: Poliambulatorio Trastevere
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 3 for Dr. Marco Lombardi, Psychology, Rome
+Rating: 5/10
+Clinic visited: Poliambulatorio Trastevere
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. I got what I needed, but the next available appointment was three weeks away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Marco Lombardi, Psychology, Rome
+Rating: 6/10
+Clinic visited: Poliambulatorio Trastevere
+Description: My trauma work felt well paced, although the schedule changed several times at Poliambulatorio Trastevere. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Marco Lombardi, Psychology, Rome
+Rating: 10/10
+Clinic visited: Poliambulatorio Trastevere
+Description: I appreciated the written summary Dr. Marco Lombardi sent after each session and the short worksheets between visits. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Marco Lombardi, Psychology, Rome
+Rating: 7/10
+Clinic visited: Poliambulatorio Trastevere
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 7 for Dr. Marco Lombardi, Psychology, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Getting to Poliambulatorio Trastevere by public transport in Rome was easy, and there is a step-free entrance for wheelchairs. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Marco Lombardi, Psychology, Rome
+Rating: 10/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Warm, patient and honest, Dr. Marco Lombardi told me what progress to expect and it matched reality.
+
+Overall rating for Dr. Marco Lombardi, Psychology, Rome: 7.62/10 from 8 reviews

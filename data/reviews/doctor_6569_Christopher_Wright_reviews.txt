@@ -1,0 +1,54 @@
+Doctor: Dr. Christopher Wright
+Doctor ID: 6569
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 8
+City: Sydney, Australia
+Clinics: Gumtree Medical Centre (clinic ID 851)
+
+Review 1 for Dr. Christopher Wright, Orthopedic, Sydney
+Rating: 7/10
+Clinic visited: Gumtree Medical Centre
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Dr. Christopher Wright was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Christopher Wright, Orthopedic, Sydney
+Rating: 9/10
+Clinic visited: Gumtree Medical Centre
+Description: Dr. Christopher Wright drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 3 for Dr. Christopher Wright, Orthopedic, Sydney
+Rating: 7/10
+Clinic visited: Gumtree Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away. The cast was applied well, but the instructions for showering and sleeping were rushed. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Christopher Wright, Orthopedic, Sydney
+Rating: 7/10
+Clinic visited: Gumtree Medical Centre
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Christopher Wright, Orthopedic, Sydney
+Rating: 8/10
+Clinic visited: Gumtree Medical Centre
+Description: Plain, honest advice from Dr. Christopher Wright for my arthritis, including which exercises to avoid and which would help. Dr. Christopher Wright used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 6 for Dr. Christopher Wright, Orthopedic, Sydney
+Rating: 8/10
+Clinic visited: Gumtree Medical Centre
+Description: After my knee replacement, Dr. Christopher Wright explained the entire recovery timeline, and I was walking with a cane by week three. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 7 for Dr. Christopher Wright, Orthopedic, Sydney
+Rating: 8/10
+Clinic visited: Gumtree Medical Centre
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 8 for Dr. Christopher Wright, Orthopedic, Sydney
+Rating: 7/10
+Clinic visited: Gumtree Medical Centre
+Description: Quick appointment and a fair price in Sydney, but the staff seemed overwhelmed and a bit curt on the phone. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Christopher Wright, Orthopedic, Sydney
+Rating: 9/10
+Clinic visited: Gumtree Medical Centre
+Description: Booking online at Gumtree Medical Centre was simple, and I got a confirmation text with clear directions and a reminder the day before. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Christopher Wright, Orthopedic, Sydney: 7.78/10 from 9 reviews

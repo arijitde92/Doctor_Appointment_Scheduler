@@ -1,0 +1,59 @@
+Doctor: Dr. Fernanda Costa
+Doctor ID: 591
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 2
+City: Belo Horizonte, Brazil
+Clinics: Instituto de Medicina Cristiano Machado (clinic ID 79)
+
+Review 1 for Dr. Fernanda Costa, Orthopedic, Belo Horizonte
+Rating: 5/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 2 for Dr. Fernanda Costa, Orthopedic, Belo Horizonte
+Rating: 7/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Fernanda Costa, Orthopedic, Belo Horizonte
+Rating: 7/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 4 for Dr. Fernanda Costa, Orthopedic, Belo Horizonte
+Rating: 4/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: I was told by Dr. Fernanda Costa that my knee pain was just age without any scan or exam, and the pain kept getting worse. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 5 for Dr. Fernanda Costa, Orthopedic, Belo Horizonte
+Rating: 5/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: Dr. Fernanda Costa explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Dr. Fernanda Costa was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Fernanda Costa, Orthopedic, Belo Horizonte
+Rating: 9/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 7 for Dr. Fernanda Costa, Orthopedic, Belo Horizonte
+Rating: 7/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Fernanda Costa, Orthopedic, Belo Horizonte
+Rating: 8/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 9 for Dr. Fernanda Costa, Orthopedic, Belo Horizonte
+Rating: 8/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: Plain, honest advice from Dr. Fernanda Costa for my arthritis, including which exercises to avoid and which would help. Booking online at Instituto de Medicina Cristiano Machado was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 10 for Dr. Fernanda Costa, Orthopedic, Belo Horizonte
+Rating: 7/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: Very skilled with my knee, but Dr. Fernanda Costa's clinic runs behind and the wait was over an hour.
+
+Overall rating for Dr. Fernanda Costa, Orthopedic, Belo Horizonte: 6.70/10 from 10 reviews

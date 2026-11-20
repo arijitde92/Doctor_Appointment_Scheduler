@@ -1,0 +1,69 @@
+Doctor: Dr. Hans Vos
+Doctor ID: 2558
+Specialization: Radiology
+Gender: Male
+Years of experience: 24
+City: Amsterdam, Netherlands
+Clinics: Huisartsenpraktijk Jordaan (clinic ID 335); Polikliniek Oost (clinic ID 338)
+
+Review 1 for Dr. Hans Vos, Radiology, Amsterdam
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Dr. Hans Vos compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 2 for Dr. Hans Vos, Radiology, Amsterdam
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Dr. Hans Vos answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Good bedside manner from Dr. Hans Vos, but the parking near Huisartsenpraktijk Jordaan is limited and I had to circle for fifteen minutes. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Hans Vos, Radiology, Amsterdam
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Hans Vos, Radiology, Amsterdam
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 5 for Dr. Hans Vos, Radiology, Amsterdam
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 6 for Dr. Hans Vos, Radiology, Amsterdam
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Hans Vos, Radiology, Amsterdam
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Hans Vos, Radiology, Amsterdam
+Rating: 5/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 9 for Dr. Hans Vos, Radiology, Amsterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Dr. Hans Vos double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Fast, clean and professional; the bone density scan with Dr. Hans Vos was painless and the results were explained clearly.
+
+Review 10 for Dr. Hans Vos, Radiology, Amsterdam
+Rating: 8/10
+Clinic visited: Polikliniek Oost
+Description: The report from Dr. Hans Vos was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 11 for Dr. Hans Vos, Radiology, Amsterdam
+Rating: 4/10
+Clinic visited: Polikliniek Oost
+Description: Dr. Hans Vos was never available to discuss my findings, and the report left me more confused than before. I felt dismissed by Dr. Hans Vos when I brought up a second concern, and was told to book another appointment for it.
+
+Review 12 for Dr. Hans Vos, Radiology, Amsterdam
+Rating: 7/10
+Clinic visited: Polikliniek Oost
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The report from Dr. Hans Vos was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Overall rating for Dr. Hans Vos, Radiology, Amsterdam: 6.67/10 from 12 reviews

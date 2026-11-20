@@ -1,0 +1,49 @@
+Doctor: Dr. Mikkel Holm
+Doctor ID: 2399
+Specialization: General
+Gender: Male
+Years of experience: 22
+City: Odense, Denmark
+Clinics: Klinik Overgade Plus (clinic ID 314)
+
+Review 1 for Dr. Mikkel Holm, General, Odense
+Rating: 9/10
+Clinic visited: Klinik Overgade Plus
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Mikkel Holm, General, Odense
+Rating: 9/10
+Clinic visited: Klinik Overgade Plus
+Description: Getting to Klinik Overgade Plus from across Odense was easy, and the same-week appointment saved me an urgent care trip. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Mikkel Holm, General, Odense
+Rating: 5/10
+Clinic visited: Klinik Overgade Plus
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Klinik Overgade Plus were inconsistent. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Mikkel Holm, General, Odense
+Rating: 8/10
+Clinic visited: Klinik Overgade Plus
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 5 for Dr. Mikkel Holm, General, Odense
+Rating: 8/10
+Clinic visited: Klinik Overgade Plus
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 6 for Dr. Mikkel Holm, General, Odense
+Rating: 7/10
+Clinic visited: Klinik Overgade Plus
+Description: Dr. Mikkel Holm is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I got what I needed, but the next available appointment was three weeks away. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Mikkel Holm, General, Odense
+Rating: 8/10
+Clinic visited: Klinik Overgade Plus
+Description: Cholesterol results were explained by Dr. Mikkel Holm with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 8 for Dr. Mikkel Holm, General, Odense
+Rating: 8/10
+Clinic visited: Klinik Overgade Plus
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Overall rating for Dr. Mikkel Holm, General, Odense: 7.75/10 from 8 reviews

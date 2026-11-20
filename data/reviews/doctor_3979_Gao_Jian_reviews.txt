@@ -1,0 +1,64 @@
+Doctor: Dr. Gao Jian
+Doctor ID: 3979
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 2
+City: Shenzhen, China
+Clinics: Shennan Hengxin Polyclinic (clinic ID 513)
+
+Review 1 for Dr. Gao Jian, Pulmonology, Shenzhen
+Rating: 10/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Gao Jian. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 2 for Dr. Gao Jian, Pulmonology, Shenzhen
+Rating: 10/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: The spirometry test was explained step by step, and Dr. Gao Jian put the results in context with a clear picture of my lung function. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Gao Jian, Pulmonology, Shenzhen
+Rating: 7/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Dr. Gao Jian adjusted my asthma medication well, but the breathing test appointment was a month away. Dr. Gao Jian was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Gao Jian, Pulmonology, Shenzhen
+Rating: 7/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 5 for Dr. Gao Jian, Pulmonology, Shenzhen
+Rating: 8/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Gao Jian was practical and never preachy. The waiting room at Shennan Hengxin Polyclinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 6 for Dr. Gao Jian, Pulmonology, Shenzhen
+Rating: 10/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: After years of poorly controlled asthma, Dr. Gao Jian reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Gao Jian, Pulmonology, Shenzhen
+Rating: 9/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Gao Jian, Pulmonology, Shenzhen
+Rating: 7/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 9 for Dr. Gao Jian, Pulmonology, Shenzhen
+Rating: 6/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 10 for Dr. Gao Jian, Pulmonology, Shenzhen
+Rating: 5/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 11 for Dr. Gao Jian, Pulmonology, Shenzhen
+Rating: 9/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Overall rating for Dr. Gao Jian, Pulmonology, Shenzhen: 8.00/10 from 11 reviews

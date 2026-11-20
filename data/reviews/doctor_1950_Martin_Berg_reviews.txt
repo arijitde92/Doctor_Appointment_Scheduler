@@ -1,0 +1,59 @@
+Doctor: Dr. Martin Berg
+Doctor ID: 1950
+Specialization: General
+Gender: Male
+Years of experience: 8
+City: Bergen, Norway
+Clinics: Legesenteret Torgallmenningen (clinic ID 255); Helsehuset Strandgaten (clinic ID 256); Legekontoret Kalfaret (clinic ID 258)
+
+Review 1 for Dr. Martin Berg, General, Bergen
+Rating: 10/10
+Clinic visited: Legekontoret Kalfaret
+Description: I went in with months of tiredness, and Dr. Martin Berg ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Appointment reminders came by text and email, and rescheduling took two taps. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Martin Berg, General, Bergen
+Rating: 9/10
+Clinic visited: Helsehuset Strandgaten
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Martin Berg, General, Bergen
+Rating: 9/10
+Clinic visited: Legekontoret Kalfaret
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 4 for Dr. Martin Berg, General, Bergen
+Rating: 10/10
+Clinic visited: Legekontoret Kalfaret
+Description: I always hear back within a day when I leave a question with the nurse at Legekontoret Kalfaret, and Dr. Martin Berg follows up on lab results personally. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Martin Berg, General, Bergen
+Rating: 7/10
+Clinic visited: Helsehuset Strandgaten
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 6 for Dr. Martin Berg, General, Bergen
+Rating: 10/10
+Clinic visited: Helsehuset Strandgaten
+Description: Booking online at Helsehuset Strandgaten was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 7 for Dr. Martin Berg, General, Bergen
+Rating: 8/10
+Clinic visited: Helsehuset Strandgaten
+Description: Getting to Helsehuset Strandgaten from across Bergen was easy, and the same-week appointment saved me an urgent care trip. The receptionist at Helsehuset Strandgaten remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 8 for Dr. Martin Berg, General, Bergen
+Rating: 10/10
+Clinic visited: Legesenteret Torgallmenningen
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Martin Berg, General, Bergen
+Rating: 10/10
+Clinic visited: Legekontoret Kalfaret
+Description: Managing my type 2 diabetes with Dr. Martin Berg has been steady and practical, with quarterly blood sugar reviews and no lectures. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 10 for Dr. Martin Berg, General, Bergen
+Rating: 8/10
+Clinic visited: Helsehuset Strandgaten
+Description: As a new patient in Bergen, I felt welcomed at Helsehuset Strandgaten, and my whole history was reviewed in one relaxed visit. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Overall rating for Dr. Martin Berg, General, Bergen: 9.10/10 from 10 reviews

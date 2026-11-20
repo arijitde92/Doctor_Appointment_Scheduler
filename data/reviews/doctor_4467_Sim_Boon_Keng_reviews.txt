@@ -1,0 +1,54 @@
+Doctor: Dr. Sim Boon Keng
+Doctor ID: 4467
+Specialization: General
+Gender: Male
+Years of experience: 1
+City: Singapore, Singapore
+Clinics: Sunrise Medical Centre (clinic ID 576)
+
+Review 1 for Dr. Sim Boon Keng, General, Singapore
+Rating: 9/10
+Clinic visited: Sunrise Medical Centre
+Description: My annual check-up with Dr. Sim Boon Keng took forty minutes, with every screening explained and nothing rushed. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Sim Boon Keng, General, Singapore
+Rating: 9/10
+Clinic visited: Sunrise Medical Centre
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 3 for Dr. Sim Boon Keng, General, Singapore
+Rating: 9/10
+Clinic visited: Sunrise Medical Centre
+Description: I always hear back within a day when I leave a question with the nurse at Sunrise Medical Centre, and Dr. Sim Boon Keng follows up on lab results personally.
+
+Review 4 for Dr. Sim Boon Keng, General, Singapore
+Rating: 10/10
+Clinic visited: Sunrise Medical Centre
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Sim Boon Keng, General, Singapore
+Rating: 9/10
+Clinic visited: Sunrise Medical Centre
+Description: As a new patient in Singapore, I felt welcomed at Sunrise Medical Centre, and my whole history was reviewed in one relaxed visit. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Sim Boon Keng, General, Singapore
+Rating: 10/10
+Clinic visited: Sunrise Medical Centre
+Description: Getting to Sunrise Medical Centre from across Singapore was easy, and the same-week appointment saved me an urgent care trip. Dr. Sim Boon Keng looked me in the eye, listened to the whole story and only then started typing.
+
+Review 7 for Dr. Sim Boon Keng, General, Singapore
+Rating: 10/10
+Clinic visited: Sunrise Medical Centre
+Description: Booking online at Sunrise Medical Centre was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 8 for Dr. Sim Boon Keng, General, Singapore
+Rating: 10/10
+Clinic visited: Sunrise Medical Centre
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. Dr. Sim Boon Keng drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 9 for Dr. Sim Boon Keng, General, Singapore
+Rating: 7/10
+Clinic visited: Sunrise Medical Centre
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Sim Boon Keng, General, Singapore: 9.22/10 from 9 reviews

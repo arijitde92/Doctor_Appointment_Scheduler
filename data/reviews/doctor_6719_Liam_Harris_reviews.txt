@@ -1,0 +1,54 @@
+Doctor: Dr. Liam Harris
+Doctor ID: 6719
+Specialization: Radiology
+Gender: Male
+Years of experience: 4
+City: Wellington, New Zealand
+Clinics: Southern Alps Health Practice (clinic ID 871)
+
+Review 1 for Dr. Liam Harris, Radiology, Wellington
+Rating: 8/10
+Clinic visited: Southern Alps Health Practice
+Description: My ultrasound was unhurried, and Dr. Liam Harris took time to show me the images and explain what each measurement meant. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Liam Harris, Radiology, Wellington
+Rating: 10/10
+Clinic visited: Southern Alps Health Practice
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 3 for Dr. Liam Harris, Radiology, Wellington
+Rating: 9/10
+Clinic visited: Southern Alps Health Practice
+Description: I was called in within five minutes of my appointment time at Southern Alps Health Practice, which is rare and much appreciated. The report from Dr. Liam Harris was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 4 for Dr. Liam Harris, Radiology, Wellington
+Rating: 7/10
+Clinic visited: Southern Alps Health Practice
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Liam Harris, Radiology, Wellington
+Rating: 8/10
+Clinic visited: Southern Alps Health Practice
+Description: My test results arrived in the portal within two days, together with a short note that made sense. He called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 6 for Dr. Liam Harris, Radiology, Wellington
+Rating: 7/10
+Clinic visited: Southern Alps Health Practice
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Liam Harris, Radiology, Wellington
+Rating: 9/10
+Clinic visited: Southern Alps Health Practice
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Dr. Liam Harris compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 8 for Dr. Liam Harris, Radiology, Wellington
+Rating: 8/10
+Clinic visited: Southern Alps Health Practice
+Description: Dr. Liam Harris double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 9 for Dr. Liam Harris, Radiology, Wellington
+Rating: 7/10
+Clinic visited: Southern Alps Health Practice
+Description: Dr. Liam Harris was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Liam Harris, Radiology, Wellington: 8.11/10 from 9 reviews

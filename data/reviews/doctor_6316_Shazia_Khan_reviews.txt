@@ -1,0 +1,49 @@
+Doctor: Dr. Shazia Khan
+Doctor ID: 6316
+Specialization: Pathology
+Gender: Female
+Years of experience: 12
+City: Islamabad, Pakistan
+Clinics: G-9 Markaz Care Polyclinic (clinic ID 817); I-8 Markaz Health Practice (clinic ID 818)
+
+Review 1 for Dr. Shazia Khan, Pathology, Islamabad
+Rating: 5/10
+Clinic visited: I-8 Markaz Health Practice
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Shazia Khan, Pathology, Islamabad
+Rating: 8/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 3 for Dr. Shazia Khan, Pathology, Islamabad
+Rating: 8/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Shazia Khan, Pathology, Islamabad
+Rating: 8/10
+Clinic visited: I-8 Markaz Health Practice
+Description: The staff and Dr. Shazia Khan patiently went through my cholesterol and glucose numbers and explained what each meant for me. Dr. Shazia Khan double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Shazia Khan, Pathology, Islamabad
+Rating: 6/10
+Clinic visited: I-8 Markaz Health Practice
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Shazia Khan, Pathology, Islamabad
+Rating: 9/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: Prescriptions from Dr. Shazia Khan were sent to my pharmacy before I even left the building, and the dosage instructions were written down. My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 7 for Dr. Shazia Khan, Pathology, Islamabad
+Rating: 6/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: Helpful in clarifying a borderline result, though Dr. Shazia Khan gave little guidance about whether to repeat it. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Shazia Khan, Pathology, Islamabad
+Rating: 8/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Overall rating for Dr. Shazia Khan, Pathology, Islamabad: 7.25/10 from 8 reviews

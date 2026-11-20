@@ -1,0 +1,69 @@
+Doctor: Dr. Vira Pavlenko
+Doctor ID: 3560
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 4
+City: Kyiv, Ukraine
+Clinics: Zdorovya Rodyny Medical Centre (clinic ID 460); Dnipro Vita Clinic (clinic ID 461); Obolon Family Polyclinic (clinic ID 462)
+
+Review 1 for Dr. Vira Pavlenko, Pediatrics, Kyiv
+Rating: 6/10
+Clinic visited: Obolon Family Polyclinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Vira Pavlenko, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Dnipro Vita Clinic
+Description: Dr. Vira Pavlenko is thorough with exams, but the after-hours phone line at Dnipro Vita Clinic is hard to reach.
+
+Review 3 for Dr. Vira Pavlenko, Pediatrics, Kyiv
+Rating: 5/10
+Clinic visited: Dnipro Vita Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 4 for Dr. Vira Pavlenko, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Vira Pavlenko, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Obolon Family Polyclinic
+Description: Caring and gentle with my child, Dr. Vira Pavlenko nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 6 for Dr. Vira Pavlenko, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Obolon Family Polyclinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. The treatment plan from Dr. Vira Pavlenko made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Vira Pavlenko, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 8 for Dr. Vira Pavlenko, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Dnipro Vita Clinic
+Description: Dr. Vira Pavlenko was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 9 for Dr. Vira Pavlenko, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Dnipro Vita Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 10 for Dr. Vira Pavlenko, Pediatrics, Kyiv
+Rating: 6/10
+Clinic visited: Obolon Family Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Obolon Family Polyclinic.
+
+Review 11 for Dr. Vira Pavlenko, Pediatrics, Kyiv
+Rating: 5/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 12 for Dr. Vira Pavlenko, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Dnipro Vita Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Vira Pavlenko, Pediatrics, Kyiv: 6.50/10 from 12 reviews

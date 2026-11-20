@@ -1,0 +1,69 @@
+Doctor: Dr. Matsumoto Masato
+Doctor ID: 4133
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 3
+City: Yokohama, Japan
+Clinics: Shin-Yokohama Hoshi Clinic (clinic ID 533)
+
+Review 1 for Dr. Matsumoto Masato, Psychiatry, Yokohama
+Rating: 8/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: My family was included in a session at my request, and Dr. Matsumoto Masato handled it with great tact. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 2 for Dr. Matsumoto Masato, Psychiatry, Yokohama
+Rating: 5/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Dr. Matsumoto Masato was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good listener, yet the refill process at Shin-Yokohama Hoshi Clinic is slow and requires several phone calls.
+
+Review 3 for Dr. Matsumoto Masato, Psychiatry, Yokohama
+Rating: 4/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Requests for a refill went unanswered for days, and I ran out of my medication. The waiting room at Shin-Yokohama Hoshi Clinic was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 4 for Dr. Matsumoto Masato, Psychiatry, Yokohama
+Rating: 7/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 5 for Dr. Matsumoto Masato, Psychiatry, Yokohama
+Rating: 8/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Dr. Matsumoto Masato took a full history before suggesting any medication and explained the likely side effects honestly. Sensitive questions were handled by Dr. Matsumoto Masato with discretion and without a hint of judgment.
+
+Review 6 for Dr. Matsumoto Masato, Psychiatry, Yokohama
+Rating: 7/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I got what I needed, but the next available appointment was three weeks away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Matsumoto Masato, Psychiatry, Yokohama
+Rating: 7/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Matsumoto Masato, Psychiatry, Yokohama
+Rating: 7/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Dr. Matsumoto Masato is knowledgeable, though I waited several weeks for my first appointment. Helpful visit overall, although I only found out about an extra charge after I had paid. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Matsumoto Masato, Psychiatry, Yokohama
+Rating: 5/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 10 for Dr. Matsumoto Masato, Psychiatry, Yokohama
+Rating: 6/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Good bedside manner from Dr. Matsumoto Masato, but the parking near Shin-Yokohama Hoshi Clinic is limited and I had to circle for fifteen minutes.
+
+Review 11 for Dr. Matsumoto Masato, Psychiatry, Yokohama
+Rating: 8/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: The waiting room at Shin-Yokohama Hoshi Clinic was clean, quiet and comfortable, with enough seating and water available. My depression finally has a treatment plan from Dr. Matsumoto Masato that works, with regular check-ins and careful dose changes.
+
+Review 12 for Dr. Matsumoto Masato, Psychiatry, Yokohama
+Rating: 6/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Matsumoto Masato, Psychiatry, Yokohama: 6.50/10 from 12 reviews

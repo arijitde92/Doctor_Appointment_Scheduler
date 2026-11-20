@@ -1,0 +1,54 @@
+Doctor: Dr. Jesús Mendoza
+Doctor ID: 969
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 9
+City: Lima, Peru
+Clinics: Policlínica Benavides (clinic ID 127)
+
+Review 1 for Dr. Jesús Mendoza, Pulmonology, Lima
+Rating: 8/10
+Clinic visited: Policlínica Benavides
+Description: My oxygen levels are monitored carefully at Policlínica Benavides, and the home equipment was arranged without any hassle.
+
+Review 2 for Dr. Jesús Mendoza, Pulmonology, Lima
+Rating: 8/10
+Clinic visited: Policlínica Benavides
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 3 for Dr. Jesús Mendoza, Pulmonology, Lima
+Rating: 8/10
+Clinic visited: Policlínica Benavides
+Description: At Policlínica Benavides, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 4 for Dr. Jesús Mendoza, Pulmonology, Lima
+Rating: 9/10
+Clinic visited: Policlínica Benavides
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Jesús Mendoza, Pulmonology, Lima
+Rating: 10/10
+Clinic visited: Policlínica Benavides
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Jesús Mendoza, Pulmonology, Lima
+Rating: 7/10
+Clinic visited: Policlínica Benavides
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Jesús Mendoza, Pulmonology, Lima
+Rating: 7/10
+Clinic visited: Policlínica Benavides
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Jesús Mendoza, Pulmonology, Lima
+Rating: 9/10
+Clinic visited: Policlínica Benavides
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Jesús Mendoza was practical and never preachy. Dr. Jesús Mendoza looked me in the eye, listened to the whole story and only then started typing. My whole family is switching over after seeing how good the care was.
+
+Review 9 for Dr. Jesús Mendoza, Pulmonology, Lima
+Rating: 7/10
+Clinic visited: Policlínica Benavides
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Jesús Mendoza, Pulmonology, Lima: 8.11/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Birgit Schmitt
+Doctor ID: 1630
+Specialization: Pathology
+Gender: Female
+Years of experience: 23
+City: Munich, Germany
+Clinics: Gesundheitszentrum Haidhausen Ost (clinic ID 213)
+
+Review 1 for Dr. Birgit Schmitt, Pathology, Munich
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 2 for Dr. Birgit Schmitt, Pathology, Munich
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Helpful in clarifying a borderline result, though Dr. Birgit Schmitt gave little guidance about whether to repeat it. Dr. Birgit Schmitt was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Birgit Schmitt, Pathology, Munich
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Dr. Birgit Schmitt double-checked my allergy list before prescribing anything, and that careful habit earned my trust. The lab under Dr. Birgit Schmitt was clean, organized and never overbooked, and results arrived exactly when promised.
+
+Review 4 for Dr. Birgit Schmitt, Pathology, Munich
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Birgit Schmitt, Pathology, Munich
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Dr. Birgit Schmitt answered my questions kindly, though the call back took three days.
+
+Review 6 for Dr. Birgit Schmitt, Pathology, Munich
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: I liked the advice I got from Dr. Birgit Schmitt, but I would have liked more time to ask follow-up questions before the visit ended. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 7 for Dr. Birgit Schmitt, Pathology, Munich
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Dr. Birgit Schmitt looked me in the eye, listened to the whole story and only then started typing.
+
+Review 8 for Dr. Birgit Schmitt, Pathology, Munich
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Overall rating for Dr. Birgit Schmitt, Pathology, Munich: 6.88/10 from 8 reviews

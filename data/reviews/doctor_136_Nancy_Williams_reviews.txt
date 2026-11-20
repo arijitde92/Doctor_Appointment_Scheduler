@@ -1,0 +1,49 @@
+Doctor: Dr. Nancy Williams
+Doctor ID: 136
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 11
+City: Houston, USA
+Clinics: Bayou City Family Medicine (clinic ID 20)
+
+Review 1 for Dr. Nancy Williams, Psychiatry, Houston
+Rating: 7/10
+Clinic visited: Bayou City Family Medicine
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 2 for Dr. Nancy Williams, Psychiatry, Houston
+Rating: 6/10
+Clinic visited: Bayou City Family Medicine
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 3 for Dr. Nancy Williams, Psychiatry, Houston
+Rating: 7/10
+Clinic visited: Bayou City Family Medicine
+Description: Dr. Nancy Williams is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 4 for Dr. Nancy Williams, Psychiatry, Houston
+Rating: 6/10
+Clinic visited: Bayou City Family Medicine
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Nancy Williams, Psychiatry, Houston
+Rating: 8/10
+Clinic visited: Bayou City Family Medicine
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Nancy Williams, Psychiatry, Houston
+Rating: 9/10
+Clinic visited: Bayou City Family Medicine
+Description: I was called in within five minutes of my appointment time at Bayou City Family Medicine, which is rare and much appreciated. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Nancy Williams, Psychiatry, Houston
+Rating: 6/10
+Clinic visited: Bayou City Family Medicine
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Nancy Williams, Psychiatry, Houston
+Rating: 7/10
+Clinic visited: Bayou City Family Medicine
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good listener, yet the refill process at Bayou City Family Medicine is slow and requires several phone calls.
+
+Overall rating for Dr. Nancy Williams, Psychiatry, Houston: 7.00/10 from 8 reviews

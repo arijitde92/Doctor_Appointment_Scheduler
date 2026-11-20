@@ -1,0 +1,64 @@
+Doctor: Dr. Niels Larsen
+Doctor ID: 2344
+Specialization: Pathology
+Gender: Male
+Years of experience: 22
+City: Copenhagen, Denmark
+Clinics: Lægecentret Nørrebro Park (clinic ID 306); Sundhedscenter Amager Plus (clinic ID 307); Klinik Frederiksborg Center (clinic ID 309)
+
+Review 1 for Dr. Niels Larsen, Pathology, Copenhagen
+Rating: 5/10
+Clinic visited: Klinik Frederiksborg Center
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 2 for Dr. Niels Larsen, Pathology, Copenhagen
+Rating: 6/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Dr. Niels Larsen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Niels Larsen, Pathology, Copenhagen
+Rating: 6/10
+Clinic visited: Klinik Frederiksborg Center
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 4 for Dr. Niels Larsen, Pathology, Copenhagen
+Rating: 5/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The blood draw was painless, but the waiting area at Sundhedscenter Amager Plus was crowded in the early morning.
+
+Review 5 for Dr. Niels Larsen, Pathology, Copenhagen
+Rating: 9/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: I came away understanding my condition better than I have in years of previous appointments. Dr. Niels Larsen took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Niels Larsen, Pathology, Copenhagen
+Rating: 7/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Niels Larsen, Pathology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Dr. Niels Larsen used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 8 for Dr. Niels Larsen, Pathology, Copenhagen
+Rating: 9/10
+Clinic visited: Klinik Frederiksborg Center
+Description: I was nervous about the biopsy result, and the call from Dr. Niels Larsen was gentle, honest and unhurried. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 9 for Dr. Niels Larsen, Pathology, Copenhagen
+Rating: 8/10
+Clinic visited: Klinik Frederiksborg Center
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 10 for Dr. Niels Larsen, Pathology, Copenhagen
+Rating: 9/10
+Clinic visited: Klinik Frederiksborg Center
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 11 for Dr. Niels Larsen, Pathology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Overall rating for Dr. Niels Larsen, Pathology, Copenhagen: 7.27/10 from 11 reviews

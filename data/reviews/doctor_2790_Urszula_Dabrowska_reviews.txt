@@ -1,0 +1,49 @@
+Doctor: Dr. Urszula Dąbrowska
+Doctor ID: 2790
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 1
+City: Warsaw, Poland
+Clinics: Centrum Medyczne Marszałkowska Plus (clinic ID 365); Poliklinika Jerozolimskie Centrum (clinic ID 367)
+
+Review 1 for Dr. Urszula Dąbrowska, Pediatrics, Warsaw
+Rating: 6/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. The treatment plan from Dr. Urszula Dąbrowska made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Urszula Dąbrowska, Pediatrics, Warsaw
+Rating: 6/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Good bedside manner from Dr. Urszula Dąbrowska, but the parking near Poliklinika Jerozolimskie Centrum is limited and I had to circle for fifteen minutes. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Urszula Dąbrowska, Pediatrics, Warsaw
+Rating: 8/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Dr. Urszula Dąbrowska noticed a speech delay early and referred us to a therapist, which has made a real difference. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 4 for Dr. Urszula Dąbrowska, Pediatrics, Warsaw
+Rating: 5/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Booking was easy online, but the confirmation email contained the wrong address for Centrum Medyczne Marszałkowska Plus. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Urszula Dąbrowska, Pediatrics, Warsaw
+Rating: 6/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Urszula Dąbrowska, Pediatrics, Warsaw
+Rating: 6/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: Dr. Urszula Dąbrowska is thorough with exams, but the after-hours phone line at Centrum Medyczne Marszałkowska Plus is hard to reach. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Urszula Dąbrowska, Pediatrics, Warsaw
+Rating: 7/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Urszula Dąbrowska, Pediatrics, Warsaw
+Rating: 6/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: Caring and gentle with my child, Dr. Urszula Dąbrowska nonetheless ran forty minutes behind schedule at most appointments.
+
+Overall rating for Dr. Urszula Dąbrowska, Pediatrics, Warsaw: 6.25/10 from 8 reviews

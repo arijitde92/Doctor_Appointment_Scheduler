@@ -1,0 +1,49 @@
+Doctor: Dr. Lamai Jaidee
+Doctor ID: 5237
+Specialization: General
+Gender: Female
+Years of experience: 1
+City: Bangkok, Thailand
+Clinics: Thonglor Wellness Clinic (clinic ID 678); Lanna Family Clinic (clinic ID 679)
+
+Review 1 for Dr. Lamai Jaidee, General, Bangkok
+Rating: 8/10
+Clinic visited: Thonglor Wellness Clinic
+Description: By the time I left the room, Dr. Lamai Jaidee had sorted the sick note, referral letter and prescription refill.
+
+Review 2 for Dr. Lamai Jaidee, General, Bangkok
+Rating: 8/10
+Clinic visited: Lanna Family Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 3 for Dr. Lamai Jaidee, General, Bangkok
+Rating: 10/10
+Clinic visited: Lanna Family Clinic
+Description: Dr. Lamai Jaidee double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Lamai Jaidee, General, Bangkok
+Rating: 9/10
+Clinic visited: Thonglor Wellness Clinic
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 5 for Dr. Lamai Jaidee, General, Bangkok
+Rating: 9/10
+Clinic visited: Lanna Family Clinic
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 6 for Dr. Lamai Jaidee, General, Bangkok
+Rating: 9/10
+Clinic visited: Thonglor Wellness Clinic
+Description: I went in with months of tiredness, and Dr. Lamai Jaidee ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 7 for Dr. Lamai Jaidee, General, Bangkok
+Rating: 9/10
+Clinic visited: Lanna Family Clinic
+Description: My annual check-up with Dr. Lamai Jaidee took forty minutes, with every screening explained and nothing rushed.
+
+Review 8 for Dr. Lamai Jaidee, General, Bangkok
+Rating: 10/10
+Clinic visited: Thonglor Wellness Clinic
+Description: The waiting room at Thonglor Wellness Clinic was clean, quiet and comfortable, with enough seating and water available.
+
+Overall rating for Dr. Lamai Jaidee, General, Bangkok: 9.00/10 from 8 reviews

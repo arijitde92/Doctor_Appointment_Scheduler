@@ -1,0 +1,64 @@
+Doctor: Dr. Cao Tam
+Doctor ID: 5010
+Specialization: Neurology
+Gender: Female
+Years of experience: 16
+City: Hanoi, Vietnam
+Clinics: Phong Kham Gia Dinh Tam Duc (clinic ID 647)
+
+Review 1 for Dr. Cao Tam, Neurology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Cao Tam, Neurology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Dr. Cao Tam explained my results well, although the visit felt short for such a complex condition.
+
+Review 3 for Dr. Cao Tam, Neurology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Good bedside manner from Dr. Cao Tam, but the parking near Phong Kham Gia Dinh Tam Duc is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Cao Tam, Neurology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Cao Tam, Neurology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 6 for Dr. Cao Tam, Neurology, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: The treatment plan from Dr. Cao Tam made sense, but I wished it had been written down for me to take away. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 7 for Dr. Cao Tam, Neurology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 8 for Dr. Cao Tam, Neurology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Cao Tam at Phong Kham Gia Dinh Tam Duc are difficult to schedule. I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Cao Tam, Neurology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: The EEG appointment ran on time, and Dr. Cao Tam reviewed the tracing with me the same week. I was called in within five minutes of my appointment time at Phong Kham Gia Dinh Tam Duc, which is rare and much appreciated.
+
+Review 10 for Dr. Cao Tam, Neurology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Worth trying, but I would not call it the best option in the area.
+
+Review 11 for Dr. Cao Tam, Neurology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Getting to Phong Kham Gia Dinh Tam Duc by public transport in Hanoi was easy, and there is a step-free entrance for wheelchairs. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Cao Tam, Neurology, Hanoi: 6.91/10 from 11 reviews

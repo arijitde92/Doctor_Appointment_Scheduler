@@ -1,0 +1,49 @@
+Doctor: Dr. Marco Ccori
+Doctor ID: 987
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 7
+City: Lima, Peru
+Clinics: Clínica La Marina Salud (clinic ID 129)
+
+Review 1 for Dr. Marco Ccori, Pediatrics, Lima
+Rating: 9/10
+Clinic visited: Clínica La Marina Salud
+Description: A translator was arranged for my mother without us asking twice, and Dr. Marco Ccori spoke directly to her throughout. My teenager actually spoke up during the visit, and Dr. Marco Ccori handled sensitive topics with respect.
+
+Review 2 for Dr. Marco Ccori, Pediatrics, Lima
+Rating: 9/10
+Clinic visited: Clínica La Marina Salud
+Description: Sensitive questions were handled by Dr. Marco Ccori with discretion and without a hint of judgment. My child's asthma action plan from Dr. Marco Ccori was written out clearly so that school staff could follow it too.
+
+Review 3 for Dr. Marco Ccori, Pediatrics, Lima
+Rating: 9/10
+Clinic visited: Clínica La Marina Salud
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Our newborn check-ups with Dr. Marco Ccori were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Review 4 for Dr. Marco Ccori, Pediatrics, Lima
+Rating: 9/10
+Clinic visited: Clínica La Marina Salud
+Description: Vaccination visits with Dr. Marco Ccori are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 5 for Dr. Marco Ccori, Pediatrics, Lima
+Rating: 8/10
+Clinic visited: Clínica La Marina Salud
+Description: The school physical at Clínica La Marina Salud was quick, thorough and the forms were completed on the spot. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Marco Ccori, Pediatrics, Lima
+Rating: 9/10
+Clinic visited: Clínica La Marina Salud
+Description: He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Marco Ccori, Pediatrics, Lima
+Rating: 6/10
+Clinic visited: Clínica La Marina Salud
+Description: The treatment plan from Dr. Marco Ccori made sense, but I wished it had been written down for me to take away. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 8 for Dr. Marco Ccori, Pediatrics, Lima
+Rating: 10/10
+Clinic visited: Clínica La Marina Salud
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. The growth chart review was detailed, and I appreciated that Dr. Marco Ccori talked to my child as well as to me.
+
+Overall rating for Dr. Marco Ccori, Pediatrics, Lima: 8.62/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. David Bouchard
+Doctor ID: 367
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 14
+City: Vancouver, Canada
+Clinics: Broadway Family Practice (clinic ID 51); South Granville Medical Group (clinic ID 53)
+
+Review 1 for Dr. David Bouchard, Orthopedic, Vancouver
+Rating: 6/10
+Clinic visited: Broadway Family Practice
+Description: Dr. David Bouchard explained surgery options clearly, though the physiotherapy referral took weeks to arrive. The treatment plan from Dr. David Bouchard made sense, but I wished it had been written down for me to take away. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. David Bouchard, Orthopedic, Vancouver
+Rating: 8/10
+Clinic visited: South Granville Medical Group
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. I never felt pressured toward an operation, and the second opinion I sought agreed with the plan.
+
+Review 3 for Dr. David Bouchard, Orthopedic, Vancouver
+Rating: 6/10
+Clinic visited: South Granville Medical Group
+Description: Very skilled with my knee, but Dr. David Bouchard's clinic runs behind and the wait was over an hour.
+
+Review 4 for Dr. David Bouchard, Orthopedic, Vancouver
+Rating: 6/10
+Clinic visited: Broadway Family Practice
+Description: I got what I needed, but the next available appointment was three weeks away. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 5 for Dr. David Bouchard, Orthopedic, Vancouver
+Rating: 6/10
+Clinic visited: Broadway Family Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. David Bouchard, Orthopedic, Vancouver
+Rating: 5/10
+Clinic visited: Broadway Family Practice
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. David Bouchard, Orthopedic, Vancouver
+Rating: 4/10
+Clinic visited: South Granville Medical Group
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 8 for Dr. David Bouchard, Orthopedic, Vancouver
+Rating: 5/10
+Clinic visited: Broadway Family Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 9 for Dr. David Bouchard, Orthopedic, Vancouver
+Rating: 7/10
+Clinic visited: Broadway Family Practice
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 10 for Dr. David Bouchard, Orthopedic, Vancouver
+Rating: 5/10
+Clinic visited: South Granville Medical Group
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Quick appointment and a fair price in Vancouver, but the staff seemed overwhelmed and a bit curt on the phone. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. David Bouchard, Orthopedic, Vancouver: 5.80/10 from 10 reviews

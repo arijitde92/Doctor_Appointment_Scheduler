@@ -1,0 +1,59 @@
+Doctor: Dr. Lisa Thompson
+Doctor ID: 149
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: Houston, USA
+Clinics: Galleria Medical Group (clinic ID 21)
+
+Review 1 for Dr. Lisa Thompson, Cardiology, Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 2 for Dr. Lisa Thompson, Cardiology, Houston
+Rating: 5/10
+Clinic visited: Galleria Medical Group
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Lisa Thompson, Cardiology, Houston
+Rating: 7/10
+Clinic visited: Galleria Medical Group
+Description: Helpful with my cholesterol, Dr. Lisa Thompson still gave dietary advice that was a little generic. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Lisa Thompson, Cardiology, Houston
+Rating: 6/10
+Clinic visited: Galleria Medical Group
+Description: Dr. Lisa Thompson adjusted my blood pressure medication carefully, though I had to call twice for a refill. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Lisa Thompson, Cardiology, Houston
+Rating: 7/10
+Clinic visited: Galleria Medical Group
+Description: Quick appointment and a fair price in Houston, but the staff seemed overwhelmed and a bit curt on the phone. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 6 for Dr. Lisa Thompson, Cardiology, Houston
+Rating: 6/10
+Clinic visited: Galleria Medical Group
+Description: The treatment plan from Dr. Lisa Thompson made sense, but I wished it had been written down for me to take away. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 7 for Dr. Lisa Thompson, Cardiology, Houston
+Rating: 6/10
+Clinic visited: Galleria Medical Group
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 8 for Dr. Lisa Thompson, Cardiology, Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. I have no hesitation sending my own relatives here.
+
+Review 9 for Dr. Lisa Thompson, Cardiology, Houston
+Rating: 6/10
+Clinic visited: Galleria Medical Group
+Description: Great care in the visit itself, but the billing for the tests at Galleria Medical Group was confusing. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Lisa Thompson, Cardiology, Houston
+Rating: 6/10
+Clinic visited: Galleria Medical Group
+Description: I liked the advice I got from Dr. Lisa Thompson, but I would have liked more time to ask follow-up questions before the visit ended. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Lisa Thompson, Cardiology, Houston: 6.50/10 from 10 reviews

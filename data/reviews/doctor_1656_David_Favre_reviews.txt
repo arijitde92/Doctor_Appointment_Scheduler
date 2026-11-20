@@ -1,0 +1,49 @@
+Doctor: Dr. David Favre
+Doctor ID: 1656
+Specialization: Pathology
+Gender: Male
+Years of experience: 1
+City: Basel, Switzerland
+Clinics: Aerztehaus Steinen Basel (clinic ID 216)
+
+Review 1 for Dr. David Favre, Pathology, Basel
+Rating: 8/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 2 for Dr. David Favre, Pathology, Basel
+Rating: 10/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 3 for Dr. David Favre, Pathology, Basel
+Rating: 9/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 4 for Dr. David Favre, Pathology, Basel
+Rating: 8/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 5 for Dr. David Favre, Pathology, Basel
+Rating: 8/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: Dr. David Favre took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I feel lucky to have found this practice in my area.
+
+Review 6 for Dr. David Favre, Pathology, Basel
+Rating: 9/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. The waiting room at Aerztehaus Steinen Basel was clean, quiet and comfortable, with enough seating and water available.
+
+Review 7 for Dr. David Favre, Pathology, Basel
+Rating: 8/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: Booking online at Aerztehaus Steinen Basel was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 8 for Dr. David Favre, Pathology, Basel
+Rating: 7/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Overall rating for Dr. David Favre, Pathology, Basel: 8.38/10 from 8 reviews

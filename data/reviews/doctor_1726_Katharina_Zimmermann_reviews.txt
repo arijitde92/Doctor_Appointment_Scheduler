@@ -1,0 +1,64 @@
+Doctor: Dr. Katharina Zimmermann
+Doctor ID: 1726
+Specialization: Psychology
+Gender: Female
+Years of experience: 12
+City: Geneva, Switzerland
+Clinics: Cabinet Médical des Eaux-Vives (clinic ID 225); Centre Médical du Lac Bleu (clinic ID 226)
+
+Review 1 for Dr. Katharina Zimmermann, Psychology, Geneva
+Rating: 5/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Good bedside manner from Dr. Katharina Zimmermann, but the parking near Centre Médical du Lac Bleu is limited and I had to circle for fifteen minutes. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Katharina Zimmermann, Psychology, Geneva
+Rating: 5/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Katharina Zimmermann, Psychology, Geneva
+Rating: 6/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Dr. Katharina Zimmermann listens well, though some sessions felt like a recap of the previous one without much new direction. I got what I needed, but the next available appointment was three weeks away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Katharina Zimmermann, Psychology, Geneva
+Rating: 5/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. Dr. Katharina Zimmermann was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Katharina Zimmermann, Psychology, Geneva
+Rating: 4/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 6 for Dr. Katharina Zimmermann, Psychology, Geneva
+Rating: 7/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. Helpful visit overall, although I only found out about an extra charge after I had paid. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Katharina Zimmermann, Psychology, Geneva
+Rating: 4/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: I raised concerns about the pace of treatment and they were dismissed rather than discussed. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 8 for Dr. Katharina Zimmermann, Psychology, Geneva
+Rating: 6/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. My trauma work felt well paced, although the schedule changed several times at Cabinet Médical des Eaux-Vives.
+
+Review 9 for Dr. Katharina Zimmermann, Psychology, Geneva
+Rating: 4/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: I felt interrupted by Dr. Katharina Zimmermann several times while describing my situation and left without feeling heard.
+
+Review 10 for Dr. Katharina Zimmermann, Psychology, Geneva
+Rating: 8/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: The office in Geneva is quiet and private, and the receptionist never mentions anything in front of other patients. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 11 for Dr. Katharina Zimmermann, Psychology, Geneva
+Rating: 6/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Overall rating for Dr. Katharina Zimmermann, Psychology, Geneva: 5.45/10 from 11 reviews

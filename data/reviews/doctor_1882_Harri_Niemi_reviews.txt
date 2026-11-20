@@ -1,0 +1,49 @@
+Doctor: Dr. Harri Niemi
+Doctor ID: 1882
+Specialization: Psychology
+Gender: Male
+Years of experience: 3
+City: Tampere, Finland
+Clinics: Lääkärikeskus Hämeenkatu Plus (clinic ID 245); Terveysasema Satakunnankatu (clinic ID 246); Terveyskeskus Tahmela (clinic ID 249)
+
+Review 1 for Dr. Harri Niemi, Psychology, Tampere
+Rating: 8/10
+Clinic visited: Lääkärikeskus Hämeenkatu Plus
+Description: At my visit, Dr. Harri Niemi took notes on my medication list, checked for interactions and explained the changes simply. Helped me set boundaries with my family without any blame, and I have kept using those scripts for months.
+
+Review 2 for Dr. Harri Niemi, Psychology, Tampere
+Rating: 10/10
+Clinic visited: Terveyskeskus Tahmela
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer. Appointment reminders came by text and email, and rescheduling took two taps. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Harri Niemi, Psychology, Tampere
+Rating: 9/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: I never felt judged by Dr. Harri Niemi when talking about my burnout, and the sessions gave me language for things I could not explain before. Booking online at Terveysasema Satakunnankatu was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 4 for Dr. Harri Niemi, Psychology, Tampere
+Rating: 8/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Warm, patient and honest, Dr. Harri Niemi told me what progress to expect and it matched reality.
+
+Review 5 for Dr. Harri Niemi, Psychology, Tampere
+Rating: 8/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: The office in Tampere is quiet and private, and the receptionist never mentions anything in front of other patients.
+
+Review 6 for Dr. Harri Niemi, Psychology, Tampere
+Rating: 10/10
+Clinic visited: Lääkärikeskus Hämeenkatu Plus
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 7 for Dr. Harri Niemi, Psychology, Tampere
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hämeenkatu Plus
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 8 for Dr. Harri Niemi, Psychology, Tampere
+Rating: 10/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Harri Niemi designed around my actual job. Paperwork at Terveysasema Satakunnankatu was kept to a minimum, and the staff helped me complete the insurance form.
+
+Overall rating for Dr. Harri Niemi, Psychology, Tampere: 8.75/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Marcela Gutiérrez
+Doctor ID: 798
+Specialization: Neurology
+Gender: Female
+Years of experience: 7
+City: Mendoza, Argentina
+Clinics: Clínica Cuyo Salud (clinic ID 105); Consultorios Médicos Aconcagua (clinic ID 107)
+
+Review 1 for Dr. Marcela Gutiérrez, Neurology, Mendoza
+Rating: 7/10
+Clinic visited: Clínica Cuyo Salud
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Good bedside manner from Dr. Marcela Gutiérrez, but the parking near Clínica Cuyo Salud is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Marcela Gutiérrez, Neurology, Mendoza
+Rating: 6/10
+Clinic visited: Clínica Cuyo Salud
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 3 for Dr. Marcela Gutiérrez, Neurology, Mendoza
+Rating: 7/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Marcela Gutiérrez, Neurology, Mendoza
+Rating: 5/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Marcela Gutiérrez at Consultorios Médicos Aconcagua are difficult to schedule. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Marcela Gutiérrez, Neurology, Mendoza
+Rating: 6/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: Dr. Marcela Gutiérrez explained my results well, although the visit felt short for such a complex condition. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Marcela Gutiérrez, Neurology, Mendoza
+Rating: 7/10
+Clinic visited: Clínica Cuyo Salud
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Marcela Gutiérrez, Neurology, Mendoza
+Rating: 6/10
+Clinic visited: Clínica Cuyo Salud
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Marcela Gutiérrez, Neurology, Mendoza
+Rating: 7/10
+Clinic visited: Clínica Cuyo Salud
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Marcela Gutiérrez, Neurology, Mendoza
+Rating: 7/10
+Clinic visited: Clínica Cuyo Salud
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Marcela Gutiérrez, Neurology, Mendoza: 6.44/10 from 9 reviews

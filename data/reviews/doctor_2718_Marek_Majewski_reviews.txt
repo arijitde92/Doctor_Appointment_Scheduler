@@ -1,0 +1,59 @@
+Doctor: Dr. Marek Majewski
+Doctor ID: 2718
+Specialization: General
+Gender: Male
+Years of experience: 18
+City: Gdansk, Poland
+Clinics: Przychodnia Wrzeszcz Centrum (clinic ID 356)
+
+Review 1 for Dr. Marek Majewski, General, Gdansk
+Rating: 7/10
+Clinic visited: Przychodnia Wrzeszcz Centrum
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Marek Majewski, General, Gdansk
+Rating: 7/10
+Clinic visited: Przychodnia Wrzeszcz Centrum
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Marek Majewski, General, Gdansk
+Rating: 7/10
+Clinic visited: Przychodnia Wrzeszcz Centrum
+Description: Dr. Marek Majewski was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Marek Majewski, General, Gdansk
+Rating: 10/10
+Clinic visited: Przychodnia Wrzeszcz Centrum
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 5 for Dr. Marek Majewski, General, Gdansk
+Rating: 10/10
+Clinic visited: Przychodnia Wrzeszcz Centrum
+Description: My annual check-up with Dr. Marek Majewski took forty minutes, with every screening explained and nothing rushed.
+
+Review 6 for Dr. Marek Majewski, General, Gdansk
+Rating: 9/10
+Clinic visited: Przychodnia Wrzeszcz Centrum
+Description: The practice in Gdansk is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Marek Majewski, General, Gdansk
+Rating: 8/10
+Clinic visited: Przychodnia Wrzeszcz Centrum
+Description: Managing my type 2 diabetes with Dr. Marek Majewski has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 8 for Dr. Marek Majewski, General, Gdansk
+Rating: 8/10
+Clinic visited: Przychodnia Wrzeszcz Centrum
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Vaccination advice from Dr. Marek Majewski for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 9 for Dr. Marek Majewski, General, Gdansk
+Rating: 8/10
+Clinic visited: Przychodnia Wrzeszcz Centrum
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 10 for Dr. Marek Majewski, General, Gdansk
+Rating: 7/10
+Clinic visited: Przychodnia Wrzeszcz Centrum
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Marek Majewski, General, Gdansk: 8.10/10 from 10 reviews

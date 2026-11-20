@@ -1,0 +1,49 @@
+Doctor: Dr. Thomas Baumann
+Doctor ID: 1648
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 10
+City: Basel, Switzerland
+Clinics: Praxiszentrum Rheinknie (clinic ID 215); Aerztehaus Steinen Basel (clinic ID 216); Medizinisches Zentrum Gundeli (clinic ID 218)
+
+Review 1 for Dr. Thomas Baumann, Pediatrics, Basel
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 2 for Dr. Thomas Baumann, Pediatrics, Basel
+Rating: 8/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 3 for Dr. Thomas Baumann, Pediatrics, Basel
+Rating: 9/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: The waiting room at Aerztehaus Steinen Basel was clean, quiet and comfortable, with enough seating and water available. He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 4 for Dr. Thomas Baumann, Pediatrics, Basel
+Rating: 10/10
+Clinic visited: Praxiszentrum Rheinknie
+Description: The waiting room in Basel has a play corner and separate seating for sick children, which I really valued. He was upfront about what could and could not be treated, and did not oversell any option. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Thomas Baumann, Pediatrics, Basel
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Sensitive questions were handled by Dr. Thomas Baumann with discretion and without a hint of judgment. Kind to anxious parents, Dr. Thomas Baumann never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 6 for Dr. Thomas Baumann, Pediatrics, Basel
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Our family has been coming for years, and he remembers each child's history and personality.
+
+Review 7 for Dr. Thomas Baumann, Pediatrics, Basel
+Rating: 10/10
+Clinic visited: Aerztehaus Steinen Basel
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Thomas Baumann, Pediatrics, Basel
+Rating: 10/10
+Clinic visited: Praxiszentrum Rheinknie
+Description: I appreciated that he offered more than one option and let me choose what suited my life. The growth chart review was detailed, and I appreciated that Dr. Thomas Baumann talked to my child as well as to me.
+
+Overall rating for Dr. Thomas Baumann, Pediatrics, Basel: 9.50/10 from 8 reviews

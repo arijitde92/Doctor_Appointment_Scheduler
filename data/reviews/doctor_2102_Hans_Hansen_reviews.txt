@@ -1,0 +1,69 @@
+Doctor: Dr. Hans Hansen
+Doctor ID: 2102
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 4
+City: Trondheim, Norway
+Clinics: Legesenteret Klæbu Vei (clinic ID 274)
+
+Review 1 for Dr. Hans Hansen, Pediatrics, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Caring and gentle with my child, Dr. Hans Hansen nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 2 for Dr. Hans Hansen, Pediatrics, Trondheim
+Rating: 10/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Hans Hansen, Pediatrics, Trondheim
+Rating: 10/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Sensitive questions were handled by Dr. Hans Hansen with discretion and without a hint of judgment. Five stars from me, and I would book again tomorrow.
+
+Review 4 for Dr. Hans Hansen, Pediatrics, Trondheim
+Rating: 10/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Kind to anxious parents, Dr. Hans Hansen never showed a hint of impatience when I felt silly asking about a rash. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Hans Hansen, Pediatrics, Trondheim
+Rating: 9/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Dr. Hans Hansen drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 6 for Dr. Hans Hansen, Pediatrics, Trondheim
+Rating: 8/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Our newborn check-ups with Dr. Hans Hansen were reassuring; every question about feeding and sleep got a calm, practical answer. A translator was arranged for my mother without us asking twice, and Dr. Hans Hansen spoke directly to her throughout. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Hans Hansen, Pediatrics, Trondheim
+Rating: 9/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. Booking online at Legesenteret Klæbu Vei was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 8 for Dr. Hans Hansen, Pediatrics, Trondheim
+Rating: 10/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: My teenager actually spoke up during the visit, and Dr. Hans Hansen handled sensitive topics with respect.
+
+Review 9 for Dr. Hans Hansen, Pediatrics, Trondheim
+Rating: 9/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: The growth chart review was detailed, and I appreciated that Dr. Hans Hansen talked to my child as well as to me. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 10 for Dr. Hans Hansen, Pediatrics, Trondheim
+Rating: 9/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: A same-day slot was found for me at Legesenteret Klæbu Vei when I called with a worrying symptom. Our family has been coming for years, and he remembers each child's history and personality. Highly recommended, and I have already told two colleagues about it.
+
+Review 11 for Dr. Hans Hansen, Pediatrics, Trondheim
+Rating: 10/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: My child's asthma action plan from Dr. Hans Hansen was written out clearly so that school staff could follow it too.
+
+Review 12 for Dr. Hans Hansen, Pediatrics, Trondheim
+Rating: 8/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Vaccination visits with Dr. Hans Hansen are painless and well explained, and my questions about the schedule were answered without any pressure. The practice in Trondheim is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Overall rating for Dr. Hans Hansen, Pediatrics, Trondheim: 9.08/10 from 12 reviews

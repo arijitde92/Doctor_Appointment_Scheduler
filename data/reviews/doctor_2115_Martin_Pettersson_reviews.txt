@@ -1,0 +1,54 @@
+Doctor: Dr. Martin Pettersson
+Doctor ID: 2115
+Specialization: Pathology
+Gender: Male
+Years of experience: 26
+City: Gothenburg, Sweden
+Clinics: Vårdcentralen Avenyn Plus (clinic ID 275)
+
+Review 1 for Dr. Martin Pettersson, Pathology, Gothenburg
+Rating: 6/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Martin Pettersson, Pathology, Gothenburg
+Rating: 9/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: The lab at Vårdcentralen Avenyn Plus had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 3 for Dr. Martin Pettersson, Pathology, Gothenburg
+Rating: 10/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Fast turnaround at Vårdcentralen Avenyn Plus on my thyroid panel, with results in my online account by the next morning.
+
+Review 4 for Dr. Martin Pettersson, Pathology, Gothenburg
+Rating: 8/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Prescriptions from Dr. Martin Pettersson were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Martin Pettersson, Pathology, Gothenburg
+Rating: 8/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: The lab under Dr. Martin Pettersson was clean, organized and never overbooked, and results arrived exactly when promised. At my visit, Dr. Martin Pettersson took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 6 for Dr. Martin Pettersson, Pathology, Gothenburg
+Rating: 9/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: I was called in within five minutes of my appointment time at Vårdcentralen Avenyn Plus, which is rare and much appreciated. He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 7 for Dr. Martin Pettersson, Pathology, Gothenburg
+Rating: 8/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 8 for Dr. Martin Pettersson, Pathology, Gothenburg
+Rating: 8/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Dr. Martin Pettersson took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. Dr. Martin Pettersson looked me in the eye, listened to the whole story and only then started typing.
+
+Review 9 for Dr. Martin Pettersson, Pathology, Gothenburg
+Rating: 7/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Martin Pettersson, Pathology, Gothenburg: 8.11/10 from 9 reviews

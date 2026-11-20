@@ -1,0 +1,49 @@
+Doctor: Dr. William Robinson
+Doctor ID: 6491
+Specialization: Cardiology
+Gender: Male
+Years of experience: 2
+City: Melbourne, Australia
+Clinics: Eucalypt Health Practice (clinic ID 840)
+
+Review 1 for Dr. William Robinson, Cardiology, Melbourne
+Rating: 8/10
+Clinic visited: Eucalypt Health Practice
+Description: Paperwork at Eucalypt Health Practice was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 2 for Dr. William Robinson, Cardiology, Melbourne
+Rating: 8/10
+Clinic visited: Eucalypt Health Practice
+Description: The cardiology unit at Eucalypt Health Practice runs on time, and the technicians were professional during my echocardiogram. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 3 for Dr. William Robinson, Cardiology, Melbourne
+Rating: 7/10
+Clinic visited: Eucalypt Health Practice
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. William Robinson, Cardiology, Melbourne
+Rating: 9/10
+Clinic visited: Eucalypt Health Practice
+Description: Dr. William Robinson looked me in the eye, listened to the whole story and only then started typing.
+
+Review 5 for Dr. William Robinson, Cardiology, Melbourne
+Rating: 10/10
+Clinic visited: Eucalypt Health Practice
+Description: Seeing Dr. William Robinson in Melbourne meant my whole family history was reviewed, and now my sister is being screened too. Never once did I feel rushed, even though the clinic was clearly busy that morning. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. William Robinson, Cardiology, Melbourne
+Rating: 9/10
+Clinic visited: Eucalypt Health Practice
+Description: Managing my blood pressure with Dr. William Robinson has been steady and practical, with home readings reviewed at every visit.
+
+Review 7 for Dr. William Robinson, Cardiology, Melbourne
+Rating: 9/10
+Clinic visited: Eucalypt Health Practice
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. William Robinson, Cardiology, Melbourne
+Rating: 10/10
+Clinic visited: Eucalypt Health Practice
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Overall rating for Dr. William Robinson, Cardiology, Melbourne: 8.75/10 from 8 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Wong Jia Hui
+Doctor ID: 4486
+Specialization: General
+Gender: Female
+Years of experience: 5
+City: Singapore, Singapore
+Clinics: Lotus Family Practice (clinic ID 578); Banyan Tree Medical (clinic ID 592)
+
+Review 1 for Dr. Wong Jia Hui, General, Singapore
+Rating: 4/10
+Clinic visited: Banyan Tree Medical
+Description: I felt dismissed by Dr. Wong Jia Hui when I brought up a second concern, and was told to book another appointment for it.
+
+Review 2 for Dr. Wong Jia Hui, General, Singapore
+Rating: 4/10
+Clinic visited: Banyan Tree Medical
+Description: I was sent for a battery of tests that had nothing to do with my complaint and received a surprise bill afterwards. The visit felt rushed, and Dr. Wong Jia Hui was already halfway out the door when I started to describe my second symptom.
+
+Review 3 for Dr. Wong Jia Hui, General, Singapore
+Rating: 8/10
+Clinic visited: Banyan Tree Medical
+Description: My annual check-up with Dr. Wong Jia Hui took forty minutes, with every screening explained and nothing rushed. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Wong Jia Hui, General, Singapore
+Rating: 5/10
+Clinic visited: Banyan Tree Medical
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Banyan Tree Medical were inconsistent.
+
+Review 5 for Dr. Wong Jia Hui, General, Singapore
+Rating: 6/10
+Clinic visited: Banyan Tree Medical
+Description: Quick appointment and a fair price in Singapore, but the staff seemed overwhelmed and a bit curt on the phone. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 6 for Dr. Wong Jia Hui, General, Singapore
+Rating: 6/10
+Clinic visited: Lotus Family Practice
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Wong Jia Hui, General, Singapore
+Rating: 7/10
+Clinic visited: Lotus Family Practice
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Wong Jia Hui, General, Singapore
+Rating: 4/10
+Clinic visited: Lotus Family Practice
+Description: My persistent fatigue was brushed aside as stress by Dr. Wong Jia Hui, and it took a second doctor to find the actual cause. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 9 for Dr. Wong Jia Hui, General, Singapore
+Rating: 5/10
+Clinic visited: Lotus Family Practice
+Description: Dr. Wong Jia Hui is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The treatment plan from Dr. Wong Jia Hui made sense, but I wished it had been written down for me to take away.
+
+Review 10 for Dr. Wong Jia Hui, General, Singapore
+Rating: 4/10
+Clinic visited: Banyan Tree Medical
+Description: My questions were answered by Dr. Wong Jia Hui with short, vague replies, and I left without a clear plan. My visit with Dr. Wong Jia Hui lasted barely six minutes, and I left with more questions than I arrived with.
+
+Review 11 for Dr. Wong Jia Hui, General, Singapore
+Rating: 6/10
+Clinic visited: Banyan Tree Medical
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 12 for Dr. Wong Jia Hui, General, Singapore
+Rating: 6/10
+Clinic visited: Banyan Tree Medical
+Description: Referrals from Dr. Wong Jia Hui are handled well, but getting test results back took longer than I was told to expect. Booking was easy online, but the confirmation email contained the wrong address for Banyan Tree Medical. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Wong Jia Hui, General, Singapore: 5.42/10 from 12 reviews

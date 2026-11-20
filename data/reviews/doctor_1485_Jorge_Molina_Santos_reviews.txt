@@ -1,0 +1,59 @@
+Doctor: Dr. Jorge Molina Santos
+Doctor ID: 1485
+Specialization: Radiology
+Gender: Male
+Years of experience: 5
+City: Valencia, Spain
+Clinics: Centro de Salud Benimaclet (clinic ID 194)
+
+Review 1 for Dr. Jorge Molina Santos, Radiology, Valencia
+Rating: 5/10
+Clinic visited: Centro de Salud Benimaclet
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 2 for Dr. Jorge Molina Santos, Radiology, Valencia
+Rating: 5/10
+Clinic visited: Centro de Salud Benimaclet
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 3 for Dr. Jorge Molina Santos, Radiology, Valencia
+Rating: 9/10
+Clinic visited: Centro de Salud Benimaclet
+Description: Reviewing my X-ray together with Dr. Jorge Molina Santos on the screen made it much easier to understand my arthritis. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 4 for Dr. Jorge Molina Santos, Radiology, Valencia
+Rating: 6/10
+Clinic visited: Centro de Salud Benimaclet
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 5 for Dr. Jorge Molina Santos, Radiology, Valencia
+Rating: 6/10
+Clinic visited: Centro de Salud Benimaclet
+Description: Dr. Jorge Molina Santos was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. The report from Dr. Jorge Molina Santos was thorough, though full of technical terms that needed my regular doctor to translate. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Jorge Molina Santos, Radiology, Valencia
+Rating: 8/10
+Clinic visited: Centro de Salud Benimaclet
+Description: My ultrasound was unhurried, and Dr. Jorge Molina Santos took time to show me the images and explain what each measurement meant. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Jorge Molina Santos, Radiology, Valencia
+Rating: 9/10
+Clinic visited: Centro de Salud Benimaclet
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Jorge Molina Santos, Radiology, Valencia
+Rating: 5/10
+Clinic visited: Centro de Salud Benimaclet
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 9 for Dr. Jorge Molina Santos, Radiology, Valencia
+Rating: 4/10
+Clinic visited: Centro de Salud Benimaclet
+Description: My questions were answered by Dr. Jorge Molina Santos with short, vague replies, and I left without a clear plan. The technologist gave almost no instructions before my MRI, and I had to repeat part of the scan because I moved.
+
+Review 10 for Dr. Jorge Molina Santos, Radiology, Valencia
+Rating: 7/10
+Clinic visited: Centro de Salud Benimaclet
+Description: Dr. Jorge Molina Santos answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Overall rating for Dr. Jorge Molina Santos, Radiology, Valencia: 6.40/10 from 10 reviews

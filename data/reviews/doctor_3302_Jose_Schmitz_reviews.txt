@@ -1,0 +1,54 @@
+Doctor: Dr. José Schmitz
+Doctor ID: 3302
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 12
+City: Esch-sur-Alzette, Luxembourg
+Clinics: Clinique du Brill (clinic ID 428)
+
+Review 1 for Dr. José Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 9/10
+Clinic visited: Clinique du Brill
+Description: Clear aftercare instructions from Dr. José Schmitz and a direct number to call if something felt wrong after my surgery. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. José Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Clinique du Brill
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 3 for Dr. José Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 5/10
+Clinic visited: Clinique du Brill
+Description: Good bedside manner from Dr. José Schmitz, but the parking near Clinique du Brill is limited and I had to circle for fifteen minutes.
+
+Review 4 for Dr. José Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Clinique du Brill
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. José Schmitz explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 5 for Dr. José Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Clinique du Brill
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. The doctor was kind, though the clinic's evening hours are very limited for working people. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. José Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Clinique du Brill
+Description: Sensitive questions were handled by Dr. José Schmitz with discretion and without a hint of judgment.
+
+Review 7 for Dr. José Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 9/10
+Clinic visited: Clinique du Brill
+Description: After my knee replacement, Dr. José Schmitz explained the entire recovery timeline, and I was walking with a cane by week three. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. José Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Clinique du Brill
+Description: I got what I needed, but the next available appointment was three weeks away. Very skilled with my knee, but Dr. José Schmitz's clinic runs behind and the wait was over an hour.
+
+Review 9 for Dr. José Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 5/10
+Clinic visited: Clinique du Brill
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. José Schmitz, Orthopedic, Esch-sur-Alzette: 7.00/10 from 9 reviews

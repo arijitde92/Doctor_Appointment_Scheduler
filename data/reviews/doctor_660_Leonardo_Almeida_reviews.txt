@@ -1,0 +1,59 @@
+Doctor: Dr. Leonardo Almeida
+Doctor ID: 660
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 4
+City: Rio de Janeiro, Brazil
+Clinics: Clínica Botafogo Familiar (clinic ID 88)
+
+Review 1 for Dr. Leonardo Almeida, Gastroenterology, Rio de Janeiro
+Rating: 3/10
+Clinic visited: Clínica Botafogo Familiar
+Description: The bowel prep instructions from Dr. Leonardo Almeida's office were contradictory, and I had to reschedule my colonoscopy because of the confusion. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Review 2 for Dr. Leonardo Almeida, Gastroenterology, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Dr. Leonardo Almeida was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Leonardo Almeida, Gastroenterology, Rio de Janeiro
+Rating: 3/10
+Clinic visited: Clínica Botafogo Familiar
+Description: My questions were answered by Dr. Leonardo Almeida with short, vague replies, and I left without a clear plan.
+
+Review 4 for Dr. Leonardo Almeida, Gastroenterology, Rio de Janeiro
+Rating: 4/10
+Clinic visited: Clínica Botafogo Familiar
+Description: My symptoms were dismissed by Dr. Leonardo Almeida as a diet issue without any exam, and the problem continued for months. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 5 for Dr. Leonardo Almeida, Gastroenterology, Rio de Janeiro
+Rating: 5/10
+Clinic visited: Clínica Botafogo Familiar
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Leonardo Almeida, Gastroenterology, Rio de Janeiro
+Rating: 5/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clínica Botafogo Familiar.
+
+Review 7 for Dr. Leonardo Almeida, Gastroenterology, Rio de Janeiro
+Rating: 3/10
+Clinic visited: Clínica Botafogo Familiar
+Description: I described ongoing stomach pain and was told it was stress, with no tests ordered for months. Not a place I would choose again, and I hope others have a better experience.
+
+Review 8 for Dr. Leonardo Almeida, Gastroenterology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Clínica Botafogo Familiar
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 9 for Dr. Leonardo Almeida, Gastroenterology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Leonardo Almeida, Gastroenterology, Rio de Janeiro
+Rating: 4/10
+Clinic visited: Clínica Botafogo Familiar
+Description: After my endoscopy, nobody called with results and I had to chase the office repeatedly. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. I expected more, and I cannot in good conscience recommend it to friends.
+
+Overall rating for Dr. Leonardo Almeida, Gastroenterology, Rio de Janeiro: 4.70/10 from 10 reviews

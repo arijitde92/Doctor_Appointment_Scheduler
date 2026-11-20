@@ -1,0 +1,49 @@
+Doctor: Dr. Ikeda Akiko
+Doctor ID: 4104
+Specialization: Cardiology
+Gender: Female
+Years of experience: 11
+City: Yokohama, Japan
+Clinics: Minato Mirai Nami Clinic (clinic ID 530); Yokohama Station Kaze Medical Clinic (clinic ID 531)
+
+Review 1 for Dr. Ikeda Akiko, Cardiology, Yokohama
+Rating: 6/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Ikeda Akiko, Cardiology, Yokohama
+Rating: 7/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: The treatment plan from Dr. Ikeda Akiko made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Ikeda Akiko, Cardiology, Yokohama
+Rating: 5/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 4 for Dr. Ikeda Akiko, Cardiology, Yokohama
+Rating: 6/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Dr. Ikeda Akiko adjusted my blood pressure medication carefully, though I had to call twice for a refill. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Ikeda Akiko, Cardiology, Yokohama
+Rating: 5/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Great care in the visit itself, but the billing for the tests at Yokohama Station Kaze Medical Clinic was confusing. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Ikeda Akiko, Cardiology, Yokohama
+Rating: 8/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 7 for Dr. Ikeda Akiko, Cardiology, Yokohama
+Rating: 5/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Ikeda Akiko, Cardiology, Yokohama
+Rating: 5/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Overall rating for Dr. Ikeda Akiko, Cardiology, Yokohama: 5.88/10 from 8 reviews

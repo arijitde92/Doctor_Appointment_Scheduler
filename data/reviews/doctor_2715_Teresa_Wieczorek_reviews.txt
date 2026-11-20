@@ -1,0 +1,49 @@
+Doctor: Dr. Teresa Wieczorek
+Doctor ID: 2715
+Specialization: Pathology
+Gender: Female
+Years of experience: 17
+City: Gdansk, Poland
+Clinics: Centrum Medyczne Długi Targ Plus (clinic ID 355); Poliklinika Motława (clinic ID 357)
+
+Review 1 for Dr. Teresa Wieczorek, Pathology, Gdansk
+Rating: 5/10
+Clinic visited: Centrum Medyczne Długi Targ Plus
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 2 for Dr. Teresa Wieczorek, Pathology, Gdansk
+Rating: 6/10
+Clinic visited: Centrum Medyczne Długi Targ Plus
+Description: Quick appointment and a fair price in Gdansk, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Teresa Wieczorek, Pathology, Gdansk
+Rating: 8/10
+Clinic visited: Poliklinika Motława
+Description: Fast turnaround at Poliklinika Motława on my thyroid panel, with results in my online account by the next morning.
+
+Review 4 for Dr. Teresa Wieczorek, Pathology, Gdansk
+Rating: 5/10
+Clinic visited: Centrum Medyczne Długi Targ Plus
+Description: Good bedside manner from Dr. Teresa Wieczorek, but the parking near Centrum Medyczne Długi Targ Plus is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Teresa Wieczorek, Pathology, Gdansk
+Rating: 5/10
+Clinic visited: Poliklinika Motława
+Description: Dr. Teresa Wieczorek answered my questions kindly, though the call back took three days. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Teresa Wieczorek, Pathology, Gdansk
+Rating: 5/10
+Clinic visited: Poliklinika Motława
+Description: Dr. Teresa Wieczorek was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The blood draw was painless, but the waiting area at Poliklinika Motława was crowded in the early morning. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Teresa Wieczorek, Pathology, Gdansk
+Rating: 6/10
+Clinic visited: Poliklinika Motława
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Teresa Wieczorek, Pathology, Gdansk
+Rating: 8/10
+Clinic visited: Centrum Medyczne Długi Targ Plus
+Description: A translator was arranged for my mother without us asking twice, and Dr. Teresa Wieczorek spoke directly to her throughout.
+
+Overall rating for Dr. Teresa Wieczorek, Pathology, Gdansk: 6.00/10 from 8 reviews

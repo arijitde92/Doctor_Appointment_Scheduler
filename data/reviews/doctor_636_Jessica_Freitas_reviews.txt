@@ -1,0 +1,54 @@
+Doctor: Dr. Jéssica Freitas
+Doctor ID: 636
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 27
+City: Rio de Janeiro, Brazil
+Clinics: Clínica Copacabana Bem-Estar (clinic ID 85); Centro Médico Ipanema Sul (clinic ID 86)
+
+Review 1 for Dr. Jéssica Freitas, Pediatrics, Rio de Janeiro
+Rating: 9/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 2 for Dr. Jéssica Freitas, Pediatrics, Rio de Janeiro
+Rating: 9/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: We got a same-day appointment for a high fever, and the care at Centro Médico Ipanema Sul was kind and efficient.
+
+Review 3 for Dr. Jéssica Freitas, Pediatrics, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Clínica Copacabana Bem-Estar
+Description: The waiting room in Rio de Janeiro has a play corner and separate seating for sick children, which I really valued. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 4 for Dr. Jéssica Freitas, Pediatrics, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Jéssica Freitas, Pediatrics, Rio de Janeiro
+Rating: 10/10
+Clinic visited: Clínica Copacabana Bem-Estar
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Jéssica Freitas, Pediatrics, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 7 for Dr. Jéssica Freitas, Pediatrics, Rio de Janeiro
+Rating: 10/10
+Clinic visited: Clínica Copacabana Bem-Estar
+Description: Dr. Jéssica Freitas used a calm, steady voice that settled my nerves before a stressful procedure. Dr. Jéssica Freitas noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 8 for Dr. Jéssica Freitas, Pediatrics, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Clínica Copacabana Bem-Estar
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 9 for Dr. Jéssica Freitas, Pediatrics, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: I was called in within five minutes of my appointment time at Centro Médico Ipanema Sul, which is rare and much appreciated. My toddler was terrified of doctors, but Dr. Jéssica Freitas sat on the floor, played with a stuffed toy and examined everything without a single tear.
+
+Overall rating for Dr. Jéssica Freitas, Pediatrics, Rio de Janeiro: 8.44/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Vanessa Rivera
+Doctor ID: 1012
+Specialization: Neurology
+Gender: Female
+Years of experience: 2
+City: Trujillo, Peru
+Clinics: Consultorios Médicos Mansiche (clinic ID 132)
+
+Review 1 for Dr. Vanessa Rivera, Neurology, Trujillo
+Rating: 6/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Vanessa Rivera, Neurology, Trujillo
+Rating: 6/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Vanessa Rivera, Neurology, Trujillo
+Rating: 5/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: I liked the advice I got from Dr. Vanessa Rivera, but I would have liked more time to ask follow-up questions before the visit ended. Careful assessment of my memory issues, though I would have liked more information on support services. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Vanessa Rivera, Neurology, Trujillo
+Rating: 6/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Dr. Vanessa Rivera explained my results well, although the visit felt short for such a complex condition. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Vanessa Rivera, Neurology, Trujillo
+Rating: 6/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 6 for Dr. Vanessa Rivera, Neurology, Trujillo
+Rating: 2/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: The visit felt rushed, and Dr. Vanessa Rivera was already halfway out the door when I started to describe my second symptom. My worsening headaches were put down to stress without a proper neurological exam or any imaging.
+
+Review 7 for Dr. Vanessa Rivera, Neurology, Trujillo
+Rating: 7/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Vanessa Rivera, Neurology, Trujillo
+Rating: 6/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Dr. Vanessa Rivera was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Vanessa Rivera, Neurology, Trujillo: 5.50/10 from 8 reviews

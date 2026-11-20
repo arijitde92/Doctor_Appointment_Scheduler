@@ -1,0 +1,54 @@
+Doctor: Dr. Aidan O'Reilly
+Doctor ID: 2486
+Specialization: Pathology
+Gender: Male
+Years of experience: 23
+City: Galway, Ireland
+Clinics: Eyre Square Health Practice (clinic ID 325); Dominick Street Medical Centre (clinic ID 327)
+
+Review 1 for Dr. Aidan O'Reilly, Pathology, Galway
+Rating: 8/10
+Clinic visited: Dominick Street Medical Centre
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. The practice in Galway is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 2 for Dr. Aidan O'Reilly, Pathology, Galway
+Rating: 7/10
+Clinic visited: Dominick Street Medical Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Aidan O'Reilly, Pathology, Galway
+Rating: 8/10
+Clinic visited: Eyre Square Health Practice
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 4 for Dr. Aidan O'Reilly, Pathology, Galway
+Rating: 7/10
+Clinic visited: Eyre Square Health Practice
+Description: Dr. Aidan O'Reilly was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Aidan O'Reilly answered my questions kindly, though the call back took three days. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Aidan O'Reilly, Pathology, Galway
+Rating: 5/10
+Clinic visited: Eyre Square Health Practice
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 6 for Dr. Aidan O'Reilly, Pathology, Galway
+Rating: 5/10
+Clinic visited: Dominick Street Medical Centre
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Aidan O'Reilly, Pathology, Galway
+Rating: 8/10
+Clinic visited: Dominick Street Medical Centre
+Description: Allergy panel results were explained in detail by Dr. Aidan O'Reilly, with a note on which results mattered clinically and which did not. Dr. Aidan O'Reilly double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 8 for Dr. Aidan O'Reilly, Pathology, Galway
+Rating: 9/10
+Clinic visited: Dominick Street Medical Centre
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 9 for Dr. Aidan O'Reilly, Pathology, Galway
+Rating: 6/10
+Clinic visited: Dominick Street Medical Centre
+Description: Booking was easy online, but the confirmation email contained the wrong address for Dominick Street Medical Centre. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Aidan O'Reilly, Pathology, Galway: 7.00/10 from 9 reviews

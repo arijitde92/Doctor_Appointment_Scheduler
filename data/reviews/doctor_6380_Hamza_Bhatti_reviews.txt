@@ -1,0 +1,59 @@
+Doctor: Dr. Hamza Bhatti
+Doctor ID: 6380
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 14
+City: Lahore, Pakistan
+Clinics: Johar Town Sehat Centre (clinic ID 826); Model Town Care Polyclinic (clinic ID 827)
+
+Review 1 for Dr. Hamza Bhatti, Pulmonology, Lahore
+Rating: 5/10
+Clinic visited: Johar Town Sehat Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Hamza Bhatti, Pulmonology, Lahore
+Rating: 5/10
+Clinic visited: Johar Town Sehat Centre
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 3 for Dr. Hamza Bhatti, Pulmonology, Lahore
+Rating: 7/10
+Clinic visited: Model Town Care Polyclinic
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Hamza Bhatti, Pulmonology, Lahore
+Rating: 7/10
+Clinic visited: Johar Town Sehat Centre
+Description: Pleasant manner and careful lung exam, though the waiting time at Johar Town Sehat Centre regularly exceeded forty minutes. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Hamza Bhatti, Pulmonology, Lahore
+Rating: 6/10
+Clinic visited: Model Town Care Polyclinic
+Description: Helpful and honest about my prognosis, Dr. Hamza Bhatti could still have given me more written material to take home. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Hamza Bhatti, Pulmonology, Lahore
+Rating: 7/10
+Clinic visited: Johar Town Sehat Centre
+Description: Dr. Hamza Bhatti adjusted my asthma medication well, but the breathing test appointment was a month away. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Hamza Bhatti, Pulmonology, Lahore
+Rating: 6/10
+Clinic visited: Johar Town Sehat Centre
+Description: Good bedside manner from Dr. Hamza Bhatti, but the parking near Johar Town Sehat Centre is limited and I had to circle for fifteen minutes. Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 8 for Dr. Hamza Bhatti, Pulmonology, Lahore
+Rating: 6/10
+Clinic visited: Model Town Care Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 9 for Dr. Hamza Bhatti, Pulmonology, Lahore
+Rating: 7/10
+Clinic visited: Johar Town Sehat Centre
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Hamza Bhatti, Pulmonology, Lahore
+Rating: 3/10
+Clinic visited: Johar Town Sehat Centre
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found. The bill for my pulmonary function tests was far higher than the estimate I had been given. I expected more, and I cannot in good conscience recommend it to friends.
+
+Overall rating for Dr. Hamza Bhatti, Pulmonology, Lahore: 5.90/10 from 10 reviews

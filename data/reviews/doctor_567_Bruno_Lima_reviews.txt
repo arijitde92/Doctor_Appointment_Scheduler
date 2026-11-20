@@ -1,0 +1,49 @@
+Doctor: Dr. Bruno Lima
+Doctor ID: 567
+Specialization: Pathology
+Gender: Male
+Years of experience: 22
+City: Belo Horizonte, Brazil
+Clinics: Centro Médico Contorno (clinic ID 76); Instituto de Medicina Cristiano Machado (clinic ID 79)
+
+Review 1 for Dr. Bruno Lima, Pathology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: Fast turnaround at Instituto de Medicina Cristiano Machado on my thyroid panel, with results in my online account by the next morning.
+
+Review 2 for Dr. Bruno Lima, Pathology, Belo Horizonte
+Rating: 10/10
+Clinic visited: Centro Médico Contorno
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Bruno Lima, Pathology, Belo Horizonte
+Rating: 10/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 4 for Dr. Bruno Lima, Pathology, Belo Horizonte
+Rating: 10/10
+Clinic visited: Instituto de Medicina Cristiano Machado
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Review 5 for Dr. Bruno Lima, Pathology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Centro Médico Contorno
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Bruno Lima felt well organized from start to finish.
+
+Review 6 for Dr. Bruno Lima, Pathology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Centro Médico Contorno
+Description: Dr. Bruno Lima took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Bruno Lima, Pathology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Centro Médico Contorno
+Description: The lab at Centro Médico Contorno had a quick, friendly blood draw and the phlebotomist found my vein on the first try. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Bruno Lima, Pathology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Centro Médico Contorno
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Overall rating for Dr. Bruno Lima, Pathology, Belo Horizonte: 9.00/10 from 8 reviews

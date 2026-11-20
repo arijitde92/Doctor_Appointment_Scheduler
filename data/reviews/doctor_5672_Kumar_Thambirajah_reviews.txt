@@ -1,0 +1,64 @@
+Doctor: Dr. Kumar Thambirajah
+Doctor ID: 5672
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 24
+City: Kandy, Sri Lanka
+Clinics: Sembuwatta Care Clinic (clinic ID 733)
+
+Review 1 for Dr. Kumar Thambirajah, Pediatrics, Kandy
+Rating: 6/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 2 for Dr. Kumar Thambirajah, Pediatrics, Kandy
+Rating: 4/10
+Clinic visited: Sembuwatta Care Clinic
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found. My child had a fever for three days and Dr. Kumar Thambirajah said to wait it out, with no examination of the ears or throat.
+
+Review 3 for Dr. Kumar Thambirajah, Pediatrics, Kandy
+Rating: 6/10
+Clinic visited: Sembuwatta Care Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Booking was easy online, but the confirmation email contained the wrong address for Sembuwatta Care Clinic.
+
+Review 4 for Dr. Kumar Thambirajah, Pediatrics, Kandy
+Rating: 10/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Kind to anxious parents, Dr. Kumar Thambirajah never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 5 for Dr. Kumar Thambirajah, Pediatrics, Kandy
+Rating: 7/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Kumar Thambirajah, Pediatrics, Kandy
+Rating: 6/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Dr. Kumar Thambirajah is thorough with exams, but the after-hours phone line at Sembuwatta Care Clinic is hard to reach. Good bedside manner from Dr. Kumar Thambirajah, but the parking near Sembuwatta Care Clinic is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Kumar Thambirajah, Pediatrics, Kandy
+Rating: 9/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Kumar Thambirajah, Pediatrics, Kandy
+Rating: 7/10
+Clinic visited: Sembuwatta Care Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Kumar Thambirajah, Pediatrics, Kandy
+Rating: 6/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 10 for Dr. Kumar Thambirajah, Pediatrics, Kandy
+Rating: 8/10
+Clinic visited: Sembuwatta Care Clinic
+Description: Our family has been coming for years, and he remembers each child's history and personality.
+
+Review 11 for Dr. Kumar Thambirajah, Pediatrics, Kandy
+Rating: 7/10
+Clinic visited: Sembuwatta Care Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Overall rating for Dr. Kumar Thambirajah, Pediatrics, Kandy: 6.91/10 from 11 reviews

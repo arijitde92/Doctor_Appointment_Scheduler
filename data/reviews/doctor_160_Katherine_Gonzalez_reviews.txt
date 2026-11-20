@@ -1,0 +1,64 @@
+Doctor: Dr. Katherine Gonzalez
+Doctor ID: 160
+Specialization: Cardiology
+Gender: Female
+Years of experience: 27
+City: Houston, USA
+Clinics: Downtown Houston Health Center (clinic ID 22); Westchase Primary Care (clinic ID 23)
+
+Review 1 for Dr. Katherine Gonzalez, Cardiology, Houston
+Rating: 5/10
+Clinic visited: Westchase Primary Care
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Katherine Gonzalez, Cardiology, Houston
+Rating: 10/10
+Clinic visited: Downtown Houston Health Center
+Description: At my visit, Dr. Katherine Gonzalez took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 3 for Dr. Katherine Gonzalez, Cardiology, Houston
+Rating: 10/10
+Clinic visited: Downtown Houston Health Center
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. After my heart attack, Dr. Katherine Gonzalez explained the rehab plan and medication changes with great patience and kindness. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Katherine Gonzalez, Cardiology, Houston
+Rating: 7/10
+Clinic visited: Downtown Houston Health Center
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 5 for Dr. Katherine Gonzalez, Cardiology, Houston
+Rating: 5/10
+Clinic visited: Downtown Houston Health Center
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 6 for Dr. Katherine Gonzalez, Cardiology, Houston
+Rating: 9/10
+Clinic visited: Westchase Primary Care
+Description: The cardiology unit at Westchase Primary Care runs on time, and the technicians were professional during my echocardiogram.
+
+Review 7 for Dr. Katherine Gonzalez, Cardiology, Houston
+Rating: 8/10
+Clinic visited: Downtown Houston Health Center
+Description: A same-day slot was found for me at Downtown Houston Health Center when I called with a worrying symptom.
+
+Review 8 for Dr. Katherine Gonzalez, Cardiology, Houston
+Rating: 7/10
+Clinic visited: Downtown Houston Health Center
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Great care in the visit itself, but the billing for the tests at Downtown Houston Health Center was confusing. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Katherine Gonzalez, Cardiology, Houston
+Rating: 5/10
+Clinic visited: Westchase Primary Care
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 10 for Dr. Katherine Gonzalez, Cardiology, Houston
+Rating: 5/10
+Clinic visited: Westchase Primary Care
+Description: Good bedside manner from Dr. Katherine Gonzalez, but the parking near Westchase Primary Care is limited and I had to circle for fifteen minutes.
+
+Review 11 for Dr. Katherine Gonzalez, Cardiology, Houston
+Rating: 7/10
+Clinic visited: Westchase Primary Care
+Description: Helpful with my cholesterol, Dr. Katherine Gonzalez still gave dietary advice that was a little generic. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Katherine Gonzalez, Cardiology, Houston: 7.09/10 from 11 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Silvia Ccori
+Doctor ID: 907
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 7
+City: Arequipa, Peru
+Clinics: Instituto de Salud Cayma (clinic ID 119)
+
+Review 1 for Dr. Silvia Ccori, Orthopedic, Arequipa
+Rating: 6/10
+Clinic visited: Instituto de Salud Cayma
+Description: Very skilled with my knee, but Dr. Silvia Ccori's clinic runs behind and the wait was over an hour. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Silvia Ccori, Orthopedic, Arequipa
+Rating: 6/10
+Clinic visited: Instituto de Salud Cayma
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Silvia Ccori, Orthopedic, Arequipa
+Rating: 5/10
+Clinic visited: Instituto de Salud Cayma
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 4 for Dr. Silvia Ccori, Orthopedic, Arequipa
+Rating: 6/10
+Clinic visited: Instituto de Salud Cayma
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 5 for Dr. Silvia Ccori, Orthopedic, Arequipa
+Rating: 7/10
+Clinic visited: Instituto de Salud Cayma
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 6 for Dr. Silvia Ccori, Orthopedic, Arequipa
+Rating: 5/10
+Clinic visited: Instituto de Salud Cayma
+Description: Quick appointment and a fair price in Arequipa, but the staff seemed overwhelmed and a bit curt on the phone. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 7 for Dr. Silvia Ccori, Orthopedic, Arequipa
+Rating: 4/10
+Clinic visited: Instituto de Salud Cayma
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 8 for Dr. Silvia Ccori, Orthopedic, Arequipa
+Rating: 5/10
+Clinic visited: Instituto de Salud Cayma
+Description: Dr. Silvia Ccori was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 9 for Dr. Silvia Ccori, Orthopedic, Arequipa
+Rating: 4/10
+Clinic visited: Instituto de Salud Cayma
+Description: My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed. The visit felt rushed, and Dr. Silvia Ccori was already halfway out the door when I started to describe my second symptom. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 10 for Dr. Silvia Ccori, Orthopedic, Arequipa
+Rating: 5/10
+Clinic visited: Instituto de Salud Cayma
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Overall rating for Dr. Silvia Ccori, Orthopedic, Arequipa: 5.30/10 from 10 reviews

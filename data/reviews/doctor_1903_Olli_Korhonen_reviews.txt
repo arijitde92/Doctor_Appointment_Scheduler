@@ -1,0 +1,49 @@
+Doctor: Dr. Olli Korhonen
+Doctor ID: 1903
+Specialization: Neurology
+Gender: Male
+Years of experience: 10
+City: Tampere, Finland
+Clinics: Lääkäriasema Tammela Tampere (clinic ID 248)
+
+Review 1 for Dr. Olli Korhonen, Neurology, Tampere
+Rating: 10/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 2 for Dr. Olli Korhonen, Neurology, Tampere
+Rating: 9/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: Dr. Olli Korhonen took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. Dr. Olli Korhonen looked me in the eye, listened to the whole story and only then started typing. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Olli Korhonen, Neurology, Tampere
+Rating: 10/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: Getting a same-month appointment in Tampere for my sudden headaches was a real relief, and the work-up was prompt. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Olli Korhonen, Neurology, Tampere
+Rating: 10/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: Dr. Olli Korhonen double-checked my allergy list before prescribing anything, and that careful habit earned my trust. He patiently explained my MRI findings and calmed my worries about memory problems.
+
+Review 5 for Dr. Olli Korhonen, Neurology, Tampere
+Rating: 10/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: Clear and honest talk with Dr. Olli Korhonen about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Review 6 for Dr. Olli Korhonen, Neurology, Tampere
+Rating: 9/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 7 for Dr. Olli Korhonen, Neurology, Tampere
+Rating: 10/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: Living with multiple sclerosis feels less frightening because Dr. Olli Korhonen explains and discusses every change in my plan.
+
+Review 8 for Dr. Olli Korhonen, Neurology, Tampere
+Rating: 10/10
+Clinic visited: Lääkäriasema Tammela Tampere
+Description: I appreciated that he offered more than one option and let me choose what suited my life. The EEG appointment ran on time, and Dr. Olli Korhonen reviewed the tracing with me the same week.
+
+Overall rating for Dr. Olli Korhonen, Neurology, Tampere: 9.75/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Tim Weber
+Doctor ID: 3213
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 9
+City: Differdange, Luxembourg
+Clinics: Polyclinique Niederkorn (clinic ID 417)
+
+Review 1 for Dr. Tim Weber, Gastroenterology, Differdange
+Rating: 6/10
+Clinic visited: Polyclinique Niederkorn
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I liked the advice I got from Dr. Tim Weber, but I would have liked more time to ask follow-up questions before the visit ended. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Tim Weber, Gastroenterology, Differdange
+Rating: 7/10
+Clinic visited: Polyclinique Niederkorn
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The treatment plan from Dr. Tim Weber made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Tim Weber, Gastroenterology, Differdange
+Rating: 4/10
+Clinic visited: Polyclinique Niederkorn
+Description: I felt dismissed by Dr. Tim Weber when I brought up a second concern, and was told to book another appointment for it.
+
+Review 4 for Dr. Tim Weber, Gastroenterology, Differdange
+Rating: 5/10
+Clinic visited: Polyclinique Niederkorn
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Knowledgeable about my reflux, Dr. Tim Weber still gave diet advice that felt generic and not tailored to my habits.
+
+Review 5 for Dr. Tim Weber, Gastroenterology, Differdange
+Rating: 6/10
+Clinic visited: Polyclinique Niederkorn
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Tim Weber, Gastroenterology, Differdange
+Rating: 6/10
+Clinic visited: Polyclinique Niederkorn
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Tim Weber, Gastroenterology, Differdange
+Rating: 5/10
+Clinic visited: Polyclinique Niederkorn
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Dr. Tim Weber was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Tim Weber, Gastroenterology, Differdange
+Rating: 5/10
+Clinic visited: Polyclinique Niederkorn
+Description: Dr. Tim Weber is thorough, but I waited nearly two months to get the first available slot.
+
+Overall rating for Dr. Tim Weber, Gastroenterology, Differdange: 5.50/10 from 8 reviews

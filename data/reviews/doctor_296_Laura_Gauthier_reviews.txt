@@ -1,0 +1,69 @@
+Doctor: Dr. Laura Gauthier
+Doctor ID: 296
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 15
+City: Montreal, Canada
+Clinics: Clinique Médicale du Plateau (clinic ID 40); Clinique Santé Côte-des-Neiges (clinic ID 42)
+
+Review 1 for Dr. Laura Gauthier, Pulmonology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Laura Gauthier felt well organized from start to finish. The allergy-related asthma triggers we identified have made a visible difference to my winters in Montreal.
+
+Review 2 for Dr. Laura Gauthier, Pulmonology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. At Clinique Santé Côte-des-Neiges, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Laura Gauthier, Pulmonology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Clear, honest answers from Dr. Laura Gauthier about my shortness of breath, and no unnecessary tests were ordered. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Laura Gauthier, Pulmonology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale du Plateau
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Laura Gauthier, Pulmonology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Dr. Laura Gauthier explained my lung nodule follow-up schedule calmly, which took away weeks of worry. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 6 for Dr. Laura Gauthier, Pulmonology, Montreal
+Rating: 6/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Laura Gauthier, Pulmonology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Laura Gauthier, Pulmonology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I liked the advice I got from Dr. Laura Gauthier, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 9 for Dr. Laura Gauthier, Pulmonology, Montreal
+Rating: 6/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good advice about triggers, but the clinic's phone line is difficult to get through to. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Laura Gauthier, Pulmonology, Montreal
+Rating: 6/10
+Clinic visited: Clinique Médicale du Plateau
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Helpful and honest about my prognosis, Dr. Laura Gauthier could still have given me more written material to take home. Worth trying, but I would not call it the best option in the area.
+
+Review 11 for Dr. Laura Gauthier, Pulmonology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale du Plateau
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 12 for Dr. Laura Gauthier, Pulmonology, Montreal
+Rating: 9/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: She called personally with my scan results and walked me through what the findings did and did not mean. Everything was explained in plain English by Dr. Laura Gauthier, and nothing was left to guess.
+
+Overall rating for Dr. Laura Gauthier, Pulmonology, Montreal: 7.25/10 from 12 reviews

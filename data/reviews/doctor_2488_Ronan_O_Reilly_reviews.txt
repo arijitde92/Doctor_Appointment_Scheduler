@@ -1,0 +1,49 @@
+Doctor: Dr. Ronan O'Reilly
+Doctor ID: 2488
+Specialization: General
+Gender: Male
+Years of experience: 26
+City: Galway, Ireland
+Clinics: Eyre Square Health Practice (clinic ID 325); Shop Street Polyclinic (clinic ID 328)
+
+Review 1 for Dr. Ronan O'Reilly, General, Galway
+Rating: 8/10
+Clinic visited: Shop Street Polyclinic
+Description: A translator was arranged for my mother without us asking twice, and Dr. Ronan O'Reilly spoke directly to her throughout. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 2 for Dr. Ronan O'Reilly, General, Galway
+Rating: 6/10
+Clinic visited: Shop Street Polyclinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Ronan O'Reilly, General, Galway
+Rating: 9/10
+Clinic visited: Shop Street Polyclinic
+Description: The practice in Galway is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 4 for Dr. Ronan O'Reilly, General, Galway
+Rating: 7/10
+Clinic visited: Eyre Square Health Practice
+Description: Dr. Ronan O'Reilly was thoughtful and clear, though the front desk was disorganized and lost my first referral form. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 5 for Dr. Ronan O'Reilly, General, Galway
+Rating: 6/10
+Clinic visited: Shop Street Polyclinic
+Description: Good bedside manner from Dr. Ronan O'Reilly, but the parking near Shop Street Polyclinic is limited and I had to circle for fifteen minutes. Dr. Ronan O'Reilly is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 6 for Dr. Ronan O'Reilly, General, Galway
+Rating: 8/10
+Clinic visited: Eyre Square Health Practice
+Description: I went in with months of tiredness, and Dr. Ronan O'Reilly ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 7 for Dr. Ronan O'Reilly, General, Galway
+Rating: 6/10
+Clinic visited: Eyre Square Health Practice
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Ronan O'Reilly, General, Galway
+Rating: 6/10
+Clinic visited: Shop Street Polyclinic
+Description: Referrals from Dr. Ronan O'Reilly are handled well, but getting test results back took longer than I was told to expect. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Ronan O'Reilly, General, Galway: 7.00/10 from 8 reviews

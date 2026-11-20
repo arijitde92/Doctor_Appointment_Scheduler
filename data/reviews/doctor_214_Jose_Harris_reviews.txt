@@ -1,0 +1,59 @@
+Doctor: Dr. Jose Harris
+Doctor ID: 214
+Specialization: Pathology
+Gender: Male
+Years of experience: 10
+City: San Francisco, USA
+Clinics: Golden Gate Family Practice (clinic ID 30); Van Ness Medical Group (clinic ID 31); Mission Bay Primary Care (clinic ID 34)
+
+Review 1 for Dr. Jose Harris, Pathology, San Francisco
+Rating: 6/10
+Clinic visited: Van Ness Medical Group
+Description: Dr. Jose Harris answered my questions kindly, though the call back took three days. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Jose Harris, Pathology, San Francisco
+Rating: 5/10
+Clinic visited: Golden Gate Family Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Golden Gate Family Practice.
+
+Review 3 for Dr. Jose Harris, Pathology, San Francisco
+Rating: 7/10
+Clinic visited: Golden Gate Family Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Jose Harris, Pathology, San Francisco
+Rating: 5/10
+Clinic visited: Mission Bay Primary Care
+Description: The blood draw was painless, but the waiting area at Mission Bay Primary Care was crowded in the early morning. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Jose Harris, Pathology, San Francisco
+Rating: 6/10
+Clinic visited: Mission Bay Primary Care
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Helpful in clarifying a borderline result, though Dr. Jose Harris gave little guidance about whether to repeat it.
+
+Review 6 for Dr. Jose Harris, Pathology, San Francisco
+Rating: 5/10
+Clinic visited: Mission Bay Primary Care
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Jose Harris, Pathology, San Francisco
+Rating: 3/10
+Clinic visited: Golden Gate Family Practice
+Description: The staff at Golden Gate Family Practice were curt on the phone, and it took four attempts to book a simple follow-up. My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive.
+
+Review 8 for Dr. Jose Harris, Pathology, San Francisco
+Rating: 5/10
+Clinic visited: Mission Bay Primary Care
+Description: Dr. Jose Harris was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 9 for Dr. Jose Harris, Pathology, San Francisco
+Rating: 5/10
+Clinic visited: Golden Gate Family Practice
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Clear explanations, but the follow-up call took a week longer than I had been told. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Jose Harris, Pathology, San Francisco
+Rating: 4/10
+Clinic visited: Mission Bay Primary Care
+Description: I was billed twice for the same panel and it took a month to get a correction. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Overall rating for Dr. Jose Harris, Pathology, San Francisco: 5.10/10 from 10 reviews

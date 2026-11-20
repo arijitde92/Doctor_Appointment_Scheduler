@@ -1,0 +1,59 @@
+Doctor: Dr. Kristina Hansson
+Doctor ID: 2216
+Specialization: Cardiology
+Gender: Female
+Years of experience: 24
+City: Stockholm, Sweden
+Clinics: Läkarmottagningen Odenplan Park (clinic ID 289)
+
+Review 1 for Dr. Kristina Hansson, Cardiology, Stockholm
+Rating: 10/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 2 for Dr. Kristina Hansson, Cardiology, Stockholm
+Rating: 5/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Kristina Hansson, Cardiology, Stockholm
+Rating: 9/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: After my palpitations began, Dr. Kristina Hansson arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. Dr. Kristina Hansson double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Kristina Hansson, Cardiology, Stockholm
+Rating: 6/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Kristina Hansson, Cardiology, Stockholm
+Rating: 8/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: The cardiology unit at Läkarmottagningen Odenplan Park runs on time, and the technicians were professional during my echocardiogram.
+
+Review 6 for Dr. Kristina Hansson, Cardiology, Stockholm
+Rating: 7/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: Dr. Kristina Hansson adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 7 for Dr. Kristina Hansson, Cardiology, Stockholm
+Rating: 7/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: The treatment plan from Dr. Kristina Hansson made sense, but I wished it had been written down for me to take away. The echocardiogram staff were kind, but the results took over a week to be explained to me. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Kristina Hansson, Cardiology, Stockholm
+Rating: 10/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: Dr. Kristina Hansson looked me in the eye, listened to the whole story and only then started typing. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Kristina Hansson, Cardiology, Stockholm
+Rating: 6/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: Helpful with my cholesterol, Dr. Kristina Hansson still gave dietary advice that was a little generic. Clear explanations, but the follow-up call took a week longer than I had been told. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Kristina Hansson, Cardiology, Stockholm
+Rating: 6/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Kristina Hansson, Cardiology, Stockholm: 7.40/10 from 10 reviews

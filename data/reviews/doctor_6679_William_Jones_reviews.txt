@@ -1,0 +1,49 @@
+Doctor: Dr. William Jones
+Doctor ID: 6679
+Specialization: Psychology
+Gender: Male
+Years of experience: 5
+City: Hamilton, New Zealand
+Clinics: Matai Medical Centre (clinic ID 866); Hauraki Health Clinic (clinic ID 867); Korimako Medical Group (clinic ID 869)
+
+Review 1 for Dr. William Jones, Psychology, Hamilton
+Rating: 8/10
+Clinic visited: Korimako Medical Group
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. William Jones, Psychology, Hamilton
+Rating: 10/10
+Clinic visited: Matai Medical Centre
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Review 3 for Dr. William Jones, Psychology, Hamilton
+Rating: 8/10
+Clinic visited: Korimako Medical Group
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months.
+
+Review 4 for Dr. William Jones, Psychology, Hamilton
+Rating: 8/10
+Clinic visited: Korimako Medical Group
+Description: I was called in within five minutes of my appointment time at Korimako Medical Group, which is rare and much appreciated. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. William Jones, Psychology, Hamilton
+Rating: 7/10
+Clinic visited: Korimako Medical Group
+Description: Quick appointment and a fair price in Hamilton, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. William Jones, Psychology, Hamilton
+Rating: 7/10
+Clinic visited: Matai Medical Centre
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. I liked the advice I got from Dr. William Jones, but I would have liked more time to ask follow-up questions before the visit ended. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. William Jones, Psychology, Hamilton
+Rating: 8/10
+Clinic visited: Matai Medical Centre
+Description: Sessions with Dr. William Jones start on time and end on time, which is a small thing that made me feel respected. The practice in Hamilton is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 8 for Dr. William Jones, Psychology, Hamilton
+Rating: 6/10
+Clinic visited: Matai Medical Centre
+Description: Dr. William Jones listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Overall rating for Dr. William Jones, Psychology, Hamilton: 7.75/10 from 8 reviews

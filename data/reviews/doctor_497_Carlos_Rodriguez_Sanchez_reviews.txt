@@ -1,0 +1,69 @@
+Doctor: Dr. Carlos Rodríguez Sánchez
+Doctor ID: 497
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 30
+City: Monterrey, Mexico
+Clinics: Clínica Familiar Cumbres (clinic ID 68)
+
+Review 1 for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey
+Rating: 5/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Good listener, yet the refill process at Clínica Familiar Cumbres is slow and requires several phone calls. Quick appointment and a fair price in Monterrey, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey
+Rating: 6/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 3 for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey
+Rating: 6/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey
+Rating: 8/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Dr. Carlos Rodríguez Sánchez double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 5 for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey
+Rating: 5/10
+Clinic visited: Clínica Familiar Cumbres
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 6 for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey
+Rating: 5/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey
+Rating: 6/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Dr. Carlos Rodríguez Sánchez was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 8 for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey
+Rating: 8/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Telehealth follow-ups at Clínica Familiar Cumbres are punctual and calm, and refills are dealt with quickly. Everything was explained in plain English by Dr. Carlos Rodríguez Sánchez, and nothing was left to guess.
+
+Review 9 for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey
+Rating: 6/10
+Clinic visited: Clínica Familiar Cumbres
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Carlos Rodríguez Sánchez is knowledgeable, though I waited several weeks for my first appointment. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey
+Rating: 5/10
+Clinic visited: Clínica Familiar Cumbres
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 11 for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey
+Rating: 6/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 12 for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey
+Rating: 7/10
+Clinic visited: Clínica Familiar Cumbres
+Description: The treatment plan from Dr. Carlos Rodríguez Sánchez made sense, but I wished it had been written down for me to take away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Carlos Rodríguez Sánchez, Psychiatry, Monterrey: 6.08/10 from 12 reviews

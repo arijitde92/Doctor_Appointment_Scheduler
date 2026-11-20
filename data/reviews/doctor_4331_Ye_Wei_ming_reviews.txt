@@ -1,0 +1,69 @@
+Doctor: Dr. Ye Wei-ming
+Doctor ID: 4331
+Specialization: Radiology
+Gender: Male
+Years of experience: 8
+City: Kaohsiung, Taiwan
+Clinics: Gushan Haibin Health Clinic (clinic ID 557)
+
+Review 1 for Dr. Ye Wei-ming, Radiology, Kaohsiung
+Rating: 7/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The report from Dr. Ye Wei-ming was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 2 for Dr. Ye Wei-ming, Radiology, Kaohsiung
+Rating: 8/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Dr. Ye Wei-ming looked me in the eye, listened to the whole story and only then started typing.
+
+Review 3 for Dr. Ye Wei-ming, Radiology, Kaohsiung
+Rating: 4/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: I waited two weeks for a report from Dr. Ye Wei-ming and had to call three times before anyone could tell me the result.
+
+Review 4 for Dr. Ye Wei-ming, Radiology, Kaohsiung
+Rating: 4/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: My images were not sent to my specialist as promised, so my consultation had to be postponed.
+
+Review 5 for Dr. Ye Wei-ming, Radiology, Kaohsiung
+Rating: 6/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. I liked the advice I got from Dr. Ye Wei-ming, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Ye Wei-ming, Radiology, Kaohsiung
+Rating: 7/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Ye Wei-ming, Radiology, Kaohsiung
+Rating: 8/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: The staff at Gushan Haibin Health Clinic in Kaohsiung explained the contrast dye and its side effects before I signed anything. Sensitive questions were handled by Dr. Ye Wei-ming with discretion and without a hint of judgment.
+
+Review 8 for Dr. Ye Wei-ming, Radiology, Kaohsiung
+Rating: 6/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 9 for Dr. Ye Wei-ming, Radiology, Kaohsiung
+Rating: 8/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 10 for Dr. Ye Wei-ming, Radiology, Kaohsiung
+Rating: 7/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 11 for Dr. Ye Wei-ming, Radiology, Kaohsiung
+Rating: 7/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Dr. Ye Wei-ming answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 12 for Dr. Ye Wei-ming, Radiology, Kaohsiung
+Rating: 7/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Overall rating for Dr. Ye Wei-ming, Radiology, Kaohsiung: 6.58/10 from 12 reviews

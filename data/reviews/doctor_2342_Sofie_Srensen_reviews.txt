@@ -1,0 +1,49 @@
+Doctor: Dr. Sofie Sørensen
+Doctor ID: 2342
+Specialization: General
+Gender: Female
+Years of experience: 9
+City: Copenhagen, Denmark
+Clinics: Lægecentret Nørrebro Park (clinic ID 306); Sundhedscenter Amager Plus (clinic ID 307)
+
+Review 1 for Dr. Sofie Sørensen, General, Copenhagen
+Rating: 8/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: The receptionist at Lægecentret Nørrebro Park remembered my name and had my forms ready, so check-in took less than a minute. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Sofie Sørensen, General, Copenhagen
+Rating: 7/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 3 for Dr. Sofie Sørensen, General, Copenhagen
+Rating: 7/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Dr. Sofie Sørensen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Sofie Sørensen, General, Copenhagen
+Rating: 8/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Managing my type 2 diabetes with Dr. Sofie Sørensen has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 5 for Dr. Sofie Sørensen, General, Copenhagen
+Rating: 8/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 6 for Dr. Sofie Sørensen, General, Copenhagen
+Rating: 8/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 7 for Dr. Sofie Sørensen, General, Copenhagen
+Rating: 8/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: By the time I left the room, Dr. Sofie Sørensen had sorted the sick note, referral letter and prescription refill. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Sofie Sørensen, General, Copenhagen
+Rating: 6/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Referrals from Dr. Sofie Sørensen are handled well, but getting test results back took longer than I was told to expect.
+
+Overall rating for Dr. Sofie Sørensen, General, Copenhagen: 7.50/10 from 8 reviews

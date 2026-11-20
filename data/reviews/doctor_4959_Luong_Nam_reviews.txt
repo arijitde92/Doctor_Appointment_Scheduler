@@ -1,0 +1,59 @@
+Doctor: Dr. Luong Nam
+Doctor ID: 4959
+Specialization: Psychology
+Gender: Male
+Years of experience: 7
+City: Hai Phong, Vietnam
+Clinics: Phong Kham Gia Dinh Viet Y (clinic ID 640); Phong Kham Hai Au (clinic ID 641); Phong Kham Da Khoa Nam Phuong (clinic ID 642)
+
+Review 1 for Dr. Luong Nam, Psychology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Hai Au
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Dr. Luong Nam listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 2 for Dr. Luong Nam, Psychology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. Booking was easy online, but the confirmation email contained the wrong address for Phong Kham Da Khoa Nam Phuong.
+
+Review 3 for Dr. Luong Nam, Psychology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Luong Nam, Psychology, Hai Phong
+Rating: 9/10
+Clinic visited: Phong Kham Gia Dinh Viet Y
+Description: Dr. Luong Nam looked me in the eye, listened to the whole story and only then started typing.
+
+Review 5 for Dr. Luong Nam, Psychology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Gia Dinh Viet Y
+Description: Insightful and kind, though progress with Dr. Luong Nam felt slow, and I wished for more structured homework between sessions.
+
+Review 6 for Dr. Luong Nam, Psychology, Hai Phong
+Rating: 5/10
+Clinic visited: Phong Kham Hai Au
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 7 for Dr. Luong Nam, Psychology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: Working through my grief felt guided but never forced, and we always ended each session with something concrete to try. Dr. Luong Nam drew a quick sketch to explain what was going on, which helped me remember it afterwards. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Luong Nam, Psychology, Hai Phong
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Nam Phuong
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. I liked the advice I got from Dr. Luong Nam, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 9 for Dr. Luong Nam, Psychology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Hai Au
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 10 for Dr. Luong Nam, Psychology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Viet Y
+Description: My trauma work felt well paced, although the schedule changed several times at Phong Kham Gia Dinh Viet Y. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Luong Nam, Psychology, Hai Phong: 6.70/10 from 10 reviews

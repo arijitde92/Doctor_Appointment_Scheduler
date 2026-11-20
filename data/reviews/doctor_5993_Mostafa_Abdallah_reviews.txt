@@ -1,0 +1,54 @@
+Doctor: Dr. Mostafa Abdallah
+Doctor ID: 5993
+Specialization: Pathology
+Gender: Male
+Years of experience: 2
+City: Luxor, Egypt
+Clinics: Thebes Care Clinic (clinic ID 774)
+
+Review 1 for Dr. Mostafa Abdallah, Pathology, Luxor
+Rating: 8/10
+Clinic visited: Thebes Care Clinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. The lab under Dr. Mostafa Abdallah was clean, organized and never overbooked, and results arrived exactly when promised.
+
+Review 2 for Dr. Mostafa Abdallah, Pathology, Luxor
+Rating: 8/10
+Clinic visited: Thebes Care Clinic
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Luxor. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Mostafa Abdallah, Pathology, Luxor
+Rating: 8/10
+Clinic visited: Thebes Care Clinic
+Description: The biopsy report was returned in three days, and Dr. Mostafa Abdallah took time on the phone to explain every term in it. The nurse was friendly and efficient, and the whole visit with Dr. Mostafa Abdallah felt well organized from start to finish.
+
+Review 4 for Dr. Mostafa Abdallah, Pathology, Luxor
+Rating: 9/10
+Clinic visited: Thebes Care Clinic
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 5 for Dr. Mostafa Abdallah, Pathology, Luxor
+Rating: 5/10
+Clinic visited: Thebes Care Clinic
+Description: I liked the advice I got from Dr. Mostafa Abdallah, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Mostafa Abdallah, Pathology, Luxor
+Rating: 9/10
+Clinic visited: Thebes Care Clinic
+Description: A same-day slot was found for me at Thebes Care Clinic when I called with a worrying symptom.
+
+Review 7 for Dr. Mostafa Abdallah, Pathology, Luxor
+Rating: 8/10
+Clinic visited: Thebes Care Clinic
+Description: The staff and Dr. Mostafa Abdallah patiently went through my cholesterol and glucose numbers and explained what each meant for me. Getting to Thebes Care Clinic by public transport in Luxor was easy, and there is a step-free entrance for wheelchairs.
+
+Review 8 for Dr. Mostafa Abdallah, Pathology, Luxor
+Rating: 9/10
+Clinic visited: Thebes Care Clinic
+Description: Dr. Mostafa Abdallah used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 9 for Dr. Mostafa Abdallah, Pathology, Luxor
+Rating: 10/10
+Clinic visited: Thebes Care Clinic
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Overall rating for Dr. Mostafa Abdallah, Pathology, Luxor: 8.22/10 from 9 reviews

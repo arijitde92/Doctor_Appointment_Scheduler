@@ -1,0 +1,49 @@
+Doctor: Dr. Jorge Rodríguez
+Doctor ID: 1005
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 13
+City: Trujillo, Peru
+Clinics: Centro Médico Larco (clinic ID 131)
+
+Review 1 for Dr. Jorge Rodríguez, Pulmonology, Trujillo
+Rating: 7/10
+Clinic visited: Centro Médico Larco
+Description: Quick appointment and a fair price in Trujillo, but the staff seemed overwhelmed and a bit curt on the phone. Good advice about triggers, but the clinic's phone line is difficult to get through to. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Jorge Rodríguez, Pulmonology, Trujillo
+Rating: 10/10
+Clinic visited: Centro Médico Larco
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 3 for Dr. Jorge Rodríguez, Pulmonology, Trujillo
+Rating: 10/10
+Clinic visited: Centro Médico Larco
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 4 for Dr. Jorge Rodríguez, Pulmonology, Trujillo
+Rating: 6/10
+Clinic visited: Centro Médico Larco
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 5 for Dr. Jorge Rodríguez, Pulmonology, Trujillo
+Rating: 8/10
+Clinic visited: Centro Médico Larco
+Description: Prescriptions from Dr. Jorge Rodríguez were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Jorge Rodríguez, Pulmonology, Trujillo
+Rating: 7/10
+Clinic visited: Centro Médico Larco
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Jorge Rodríguez, Pulmonology, Trujillo
+Rating: 4/10
+Clinic visited: Centro Médico Larco
+Description: The waiting room at Centro Médico Larco was overcrowded and there was nowhere to sit, even for elderly patients. I was told to just keep using my inhaler and nobody checked whether I was using it properly.
+
+Review 8 for Dr. Jorge Rodríguez, Pulmonology, Trujillo
+Rating: 6/10
+Clinic visited: Centro Médico Larco
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Pleasant manner and careful lung exam, though the waiting time at Centro Médico Larco regularly exceeded forty minutes.
+
+Overall rating for Dr. Jorge Rodríguez, Pulmonology, Trujillo: 7.25/10 from 8 reviews

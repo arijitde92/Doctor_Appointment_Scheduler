@@ -1,0 +1,54 @@
+Doctor: Dr. Ana Castillo
+Doctor ID: 943
+Specialization: Psychology
+Gender: Female
+Years of experience: 5
+City: Cusco, Peru
+Clinics: Policlínica Collasuyo (clinic ID 123)
+
+Review 1 for Dr. Ana Castillo, Psychology, Cusco
+Rating: 4/10
+Clinic visited: Policlínica Collasuyo
+Description: I raised concerns about the pace of treatment and they were dismissed rather than discussed. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 2 for Dr. Ana Castillo, Psychology, Cusco
+Rating: 8/10
+Clinic visited: Policlínica Collasuyo
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Ana Castillo, Psychology, Cusco
+Rating: 4/10
+Clinic visited: Policlínica Collasuyo
+Description: After a month I still did not know what the goals of therapy were or how progress would be measured. I will not be returning and have already started looking for another doctor.
+
+Review 4 for Dr. Ana Castillo, Psychology, Cusco
+Rating: 4/10
+Clinic visited: Policlínica Collasuyo
+Description: The waiting room at Policlínica Collasuyo was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 5 for Dr. Ana Castillo, Psychology, Cusco
+Rating: 5/10
+Clinic visited: Policlínica Collasuyo
+Description: Insightful and kind, though progress with Dr. Ana Castillo felt slow, and I wished for more structured homework between sessions. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 6 for Dr. Ana Castillo, Psychology, Cusco
+Rating: 8/10
+Clinic visited: Policlínica Collasuyo
+Description: A same-day slot was found for me at Policlínica Collasuyo when I called with a worrying symptom. After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Ana Castillo gave me practical tools I still use.
+
+Review 7 for Dr. Ana Castillo, Psychology, Cusco
+Rating: 6/10
+Clinic visited: Policlínica Collasuyo
+Description: My trauma work felt well paced, although the schedule changed several times at Policlínica Collasuyo.
+
+Review 8 for Dr. Ana Castillo, Psychology, Cusco
+Rating: 6/10
+Clinic visited: Policlínica Collasuyo
+Description: Dr. Ana Castillo listens well, though some sessions felt like a recap of the previous one without much new direction. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 9 for Dr. Ana Castillo, Psychology, Cusco
+Rating: 7/10
+Clinic visited: Policlínica Collasuyo
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Ana Castillo, Psychology, Cusco: 5.78/10 from 9 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Erik Smit
+Doctor ID: 2573
+Specialization: Cardiology
+Gender: Male
+Years of experience: 27
+City: Amsterdam, Netherlands
+Clinics: Medisch Centrum De Pijp (clinic ID 336)
+
+Review 1 for Dr. Erik Smit, Cardiology, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Erik Smit, Cardiology, Amsterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Prescriptions from Dr. Erik Smit were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Honest about the risks and benefits of the procedure, Dr. Erik Smit never pressured me toward surgery. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Erik Smit, Cardiology, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: After my palpitations began, Dr. Erik Smit arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. I was given a printed summary of the visit, which I shared with my family at home. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Erik Smit, Cardiology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum De Pijp
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Erik Smit, Cardiology, Amsterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Dr. Erik Smit was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Erik Smit, Cardiology, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Erik Smit, Cardiology, Amsterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Dr. Erik Smit adjusted my blood pressure medication carefully, though I had to call twice for a refill. I liked the advice I got from Dr. Erik Smit, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Erik Smit, Cardiology, Amsterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Clear and calm advice at Medisch Centrum De Pijp about exercise after my stent, including a gradual written schedule.
+
+Review 9 for Dr. Erik Smit, Cardiology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Helpful with my cholesterol, Dr. Erik Smit still gave dietary advice that was a little generic.
+
+Review 10 for Dr. Erik Smit, Cardiology, Amsterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum De Pijp
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Erik Smit, Cardiology, Amsterdam: 8.00/10 from 10 reviews

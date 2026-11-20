@@ -1,0 +1,69 @@
+Doctor: Dr. Ayman Salem
+Doctor ID: 5858
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 22
+City: Alexandria, Egypt
+Clinics: San Stefano Care Polyclinic (clinic ID 757)
+
+Review 1 for Dr. Ayman Salem, Psychiatry, Alexandria
+Rating: 6/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Ayman Salem, Psychiatry, Alexandria
+Rating: 6/10
+Clinic visited: San Stefano Care Polyclinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 3 for Dr. Ayman Salem, Psychiatry, Alexandria
+Rating: 9/10
+Clinic visited: San Stefano Care Polyclinic
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 4 for Dr. Ayman Salem, Psychiatry, Alexandria
+Rating: 6/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Ayman Salem, Psychiatry, Alexandria
+Rating: 5/10
+Clinic visited: San Stefano Care Polyclinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 6 for Dr. Ayman Salem, Psychiatry, Alexandria
+Rating: 8/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Dr. Ayman Salem took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 7 for Dr. Ayman Salem, Psychiatry, Alexandria
+Rating: 6/10
+Clinic visited: San Stefano Care Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 8 for Dr. Ayman Salem, Psychiatry, Alexandria
+Rating: 5/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good listener, yet the refill process at San Stefano Care Polyclinic is slow and requires several phone calls.
+
+Review 9 for Dr. Ayman Salem, Psychiatry, Alexandria
+Rating: 8/10
+Clinic visited: San Stefano Care Polyclinic
+Description: My depression finally has a treatment plan from Dr. Ayman Salem that works, with regular check-ins and careful dose changes. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. This is the first doctor I have trusted completely in years.
+
+Review 10 for Dr. Ayman Salem, Psychiatry, Alexandria
+Rating: 9/10
+Clinic visited: San Stefano Care Polyclinic
+Description: I can ring San Stefano Care Polyclinic with an urgent question and receive a thoughtful reply the same day. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 11 for Dr. Ayman Salem, Psychiatry, Alexandria
+Rating: 7/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Booking was easy online, but the confirmation email contained the wrong address for San Stefano Care Polyclinic.
+
+Review 12 for Dr. Ayman Salem, Psychiatry, Alexandria
+Rating: 6/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Dr. Ayman Salem is knowledgeable, though I waited several weeks for my first appointment.
+
+Overall rating for Dr. Ayman Salem, Psychiatry, Alexandria: 6.75/10 from 12 reviews

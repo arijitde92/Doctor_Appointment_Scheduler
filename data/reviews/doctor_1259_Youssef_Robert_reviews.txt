@@ -1,0 +1,49 @@
+Doctor: Dr. Youssef Robert
+Doctor ID: 1259
+Specialization: Pathology
+Gender: Male
+Years of experience: 3
+City: Marseille, France
+Clinics: Polyclinique Saint-Giniez (clinic ID 164)
+
+Review 1 for Dr. Youssef Robert, Pathology, Marseille
+Rating: 8/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: Fast turnaround at Polyclinique Saint-Giniez on my thyroid panel, with results in my online account by the next morning.
+
+Review 2 for Dr. Youssef Robert, Pathology, Marseille
+Rating: 10/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 3 for Dr. Youssef Robert, Pathology, Marseille
+Rating: 7/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Helpful in clarifying a borderline result, though Dr. Youssef Robert gave little guidance about whether to repeat it.
+
+Review 4 for Dr. Youssef Robert, Pathology, Marseille
+Rating: 9/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Youssef Robert, Pathology, Marseille
+Rating: 9/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: Allergy panel results were explained in detail by Dr. Youssef Robert, with a note on which results mattered clinically and which did not. At my visit, Dr. Youssef Robert took notes on my medication list, checked for interactions and explained the changes simply. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Youssef Robert, Pathology, Marseille
+Rating: 6/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The treatment plan from Dr. Youssef Robert made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Youssef Robert, Pathology, Marseille
+Rating: 6/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 8 for Dr. Youssef Robert, Pathology, Marseille
+Rating: 8/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: The practice in Marseille is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Marseille.
+
+Overall rating for Dr. Youssef Robert, Pathology, Marseille: 7.88/10 from 8 reviews

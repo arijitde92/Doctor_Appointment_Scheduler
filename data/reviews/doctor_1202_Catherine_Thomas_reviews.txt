@@ -1,0 +1,54 @@
+Doctor: Dr. Catherine Thomas
+Doctor ID: 1202
+Specialization: General
+Gender: Female
+Years of experience: 3
+City: Lyon, France
+Clinics: Cabinet Médical des Brotteaux (clinic ID 156)
+
+Review 1 for Dr. Catherine Thomas, General, Lyon
+Rating: 8/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Managing my type 2 diabetes with Dr. Catherine Thomas has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 2 for Dr. Catherine Thomas, General, Lyon
+Rating: 10/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: My annual check-up with Dr. Catherine Thomas took forty minutes, with every screening explained and nothing rushed. A translator was arranged for my mother without us asking twice, and Dr. Catherine Thomas spoke directly to her throughout.
+
+Review 3 for Dr. Catherine Thomas, General, Lyon
+Rating: 10/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: I always hear back within a day when I leave a question with the nurse at Cabinet Médical des Brotteaux, and Dr. Catherine Thomas follows up on lab results personally. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 4 for Dr. Catherine Thomas, General, Lyon
+Rating: 8/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 5 for Dr. Catherine Thomas, General, Lyon
+Rating: 10/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: By the time I left the room, Dr. Catherine Thomas had sorted the sick note, referral letter and prescription refill. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 6 for Dr. Catherine Thomas, General, Lyon
+Rating: 9/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: I was called in within five minutes of my appointment time at Cabinet Médical des Brotteaux, which is rare and much appreciated. My blood pressure had crept up and Dr. Catherine Thomas walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 7 for Dr. Catherine Thomas, General, Lyon
+Rating: 8/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 8 for Dr. Catherine Thomas, General, Lyon
+Rating: 9/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. I appreciated that she offered more than one option and let me choose what suited my life. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 9 for Dr. Catherine Thomas, General, Lyon
+Rating: 10/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Catherine Thomas, General, Lyon: 9.11/10 from 9 reviews

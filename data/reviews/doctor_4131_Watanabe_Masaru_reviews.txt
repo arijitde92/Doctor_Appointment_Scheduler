@@ -1,0 +1,54 @@
+Doctor: Dr. Watanabe Masaru
+Doctor ID: 4131
+Specialization: Cardiology
+Gender: Male
+Years of experience: 5
+City: Yokohama, Japan
+Clinics: Shin-Yokohama Hoshi Clinic (clinic ID 533)
+
+Review 1 for Dr. Watanabe Masaru, Cardiology, Yokohama
+Rating: 7/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Good bedside manner from Dr. Watanabe Masaru, but the parking near Shin-Yokohama Hoshi Clinic is limited and I had to circle for fifteen minutes. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 2 for Dr. Watanabe Masaru, Cardiology, Yokohama
+Rating: 9/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: I appreciated that he offered more than one option and let me choose what suited my life. He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 3 for Dr. Watanabe Masaru, Cardiology, Yokohama
+Rating: 10/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Seeing Dr. Watanabe Masaru in Yokohama meant my whole family history was reviewed, and now my sister is being screened too. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Watanabe Masaru, Cardiology, Yokohama
+Rating: 9/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: After my heart attack, Dr. Watanabe Masaru explained the rehab plan and medication changes with great patience and kindness.
+
+Review 5 for Dr. Watanabe Masaru, Cardiology, Yokohama
+Rating: 10/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 6 for Dr. Watanabe Masaru, Cardiology, Yokohama
+Rating: 6/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Dr. Watanabe Masaru was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Watanabe Masaru, Cardiology, Yokohama
+Rating: 8/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Booking online at Shin-Yokohama Hoshi Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before. The cardiology unit at Shin-Yokohama Hoshi Clinic runs on time, and the technicians were professional during my echocardiogram.
+
+Review 8 for Dr. Watanabe Masaru, Cardiology, Yokohama
+Rating: 10/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. Dr. Watanabe Masaru double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 9 for Dr. Watanabe Masaru, Cardiology, Yokohama
+Rating: 10/10
+Clinic visited: Shin-Yokohama Hoshi Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Clear and calm advice at Shin-Yokohama Hoshi Clinic about exercise after my stent, including a gradual written schedule.
+
+Overall rating for Dr. Watanabe Masaru, Cardiology, Yokohama: 8.78/10 from 9 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Faisal Ali
+Doctor ID: 6372
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 5
+City: Lahore, Pakistan
+Clinics: Gulberg Shahi Family Clinic (clinic ID 825); Model Town Care Polyclinic (clinic ID 827); Ravi Bank Medical Centre (clinic ID 829)
+
+Review 1 for Dr. Faisal Ali, Orthopedic, Lahore
+Rating: 6/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 2 for Dr. Faisal Ali, Orthopedic, Lahore
+Rating: 2/10
+Clinic visited: Gulberg Shahi Family Clinic
+Description: I was told by Dr. Faisal Ali that my knee pain was just age without any scan or exam, and the pain kept getting worse. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 3 for Dr. Faisal Ali, Orthopedic, Lahore
+Rating: 1/10
+Clinic visited: Ravi Bank Medical Centre
+Description: The surgery fee ended up far higher than the quote, and billing staff could not explain the difference. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. I left disappointed and will take my business to another clinic.
+
+Review 4 for Dr. Faisal Ali, Orthopedic, Lahore
+Rating: 7/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Faisal Ali, Orthopedic, Lahore
+Rating: 3/10
+Clinic visited: Ravi Bank Medical Centre
+Description: The appointment lasted five minutes and ended with an injection I had not agreed to beforehand. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 6 for Dr. Faisal Ali, Orthopedic, Lahore
+Rating: 6/10
+Clinic visited: Model Town Care Polyclinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 7 for Dr. Faisal Ali, Orthopedic, Lahore
+Rating: 5/10
+Clinic visited: Model Town Care Polyclinic
+Description: Dr. Faisal Ali explained surgery options clearly, though the physiotherapy referral took weeks to arrive. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Faisal Ali, Orthopedic, Lahore
+Rating: 5/10
+Clinic visited: Ravi Bank Medical Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 9 for Dr. Faisal Ali, Orthopedic, Lahore
+Rating: 4/10
+Clinic visited: Model Town Care Polyclinic
+Description: Dr. Faisal Ali seemed to dismiss my concerns about swelling after the operation, and I had to go elsewhere. I will not be returning and have already started looking for another doctor.
+
+Review 10 for Dr. Faisal Ali, Orthopedic, Lahore
+Rating: 4/10
+Clinic visited: Model Town Care Polyclinic
+Description: My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed. The staff at Model Town Care Polyclinic were curt on the phone, and it took four attempts to book a simple follow-up.
+
+Overall rating for Dr. Faisal Ali, Orthopedic, Lahore: 4.30/10 from 10 reviews

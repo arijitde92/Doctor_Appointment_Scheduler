@@ -1,0 +1,54 @@
+Doctor: Dr. Ava Ryan
+Doctor ID: 2462
+Specialization: Radiology
+Gender: Female
+Years of experience: 23
+City: Dublin, Ireland
+Clinics: Ranelagh Family Health Practice (clinic ID 321); Drumcondra Polyclinic (clinic ID 322)
+
+Review 1 for Dr. Ava Ryan, Radiology, Dublin
+Rating: 8/10
+Clinic visited: Drumcondra Polyclinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 2 for Dr. Ava Ryan, Radiology, Dublin
+Rating: 9/10
+Clinic visited: Drumcondra Polyclinic
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. The waiting room at Drumcondra Polyclinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 3 for Dr. Ava Ryan, Radiology, Dublin
+Rating: 7/10
+Clinic visited: Ranelagh Family Health Practice
+Description: The report from Dr. Ava Ryan was thorough, though full of technical terms that needed my regular doctor to translate. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Ava Ryan, Radiology, Dublin
+Rating: 9/10
+Clinic visited: Drumcondra Polyclinic
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. The nurse was friendly and efficient, and the whole visit with Dr. Ava Ryan felt well organized from start to finish.
+
+Review 5 for Dr. Ava Ryan, Radiology, Dublin
+Rating: 10/10
+Clinic visited: Ranelagh Family Health Practice
+Description: Booking a CT scan online at Ranelagh Family Health Practice took two minutes, and I was in and out within forty minutes.
+
+Review 6 for Dr. Ava Ryan, Radiology, Dublin
+Rating: 8/10
+Clinic visited: Ranelagh Family Health Practice
+Description: Fast, clean and professional; the bone density scan with Dr. Ava Ryan was painless and the results were explained clearly. I appreciated that she offered more than one option and let me choose what suited my life. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Ava Ryan, Radiology, Dublin
+Rating: 8/10
+Clinic visited: Drumcondra Polyclinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Ava Ryan, Radiology, Dublin
+Rating: 7/10
+Clinic visited: Drumcondra Polyclinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I got what I needed, but the next available appointment was three weeks away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. Ava Ryan, Radiology, Dublin
+Rating: 9/10
+Clinic visited: Ranelagh Family Health Practice
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Ava Ryan were respectful throughout. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Ava Ryan, Radiology, Dublin: 8.33/10 from 9 reviews

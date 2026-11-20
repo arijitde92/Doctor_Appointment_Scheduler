@@ -1,0 +1,64 @@
+Doctor: Dr. Camille Durand
+Doctor ID: 1185
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 25
+City: Lyon, France
+Clinics: Centre Médical Bellecour (clinic ID 155)
+
+Review 1 for Dr. Camille Durand, Psychiatry, Lyon
+Rating: 7/10
+Clinic visited: Centre Médical Bellecour
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 2 for Dr. Camille Durand, Psychiatry, Lyon
+Rating: 7/10
+Clinic visited: Centre Médical Bellecour
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The treatment plan from Dr. Camille Durand made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Camille Durand, Psychiatry, Lyon
+Rating: 6/10
+Clinic visited: Centre Médical Bellecour
+Description: Dr. Camille Durand was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Camille Durand, Psychiatry, Lyon
+Rating: 9/10
+Clinic visited: Centre Médical Bellecour
+Description: Telehealth follow-ups at Centre Médical Bellecour are punctual and calm, and refills are dealt with quickly.
+
+Review 5 for Dr. Camille Durand, Psychiatry, Lyon
+Rating: 5/10
+Clinic visited: Centre Médical Bellecour
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Camille Durand, Psychiatry, Lyon
+Rating: 6/10
+Clinic visited: Centre Médical Bellecour
+Description: Dr. Camille Durand was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Supportive in crisis, but follow-up between visits could have been more regular. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Camille Durand, Psychiatry, Lyon
+Rating: 6/10
+Clinic visited: Centre Médical Bellecour
+Description: Good listener, yet the refill process at Centre Médical Bellecour is slow and requires several phone calls. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Camille Durand, Psychiatry, Lyon
+Rating: 8/10
+Clinic visited: Centre Médical Bellecour
+Description: My depression finally has a treatment plan from Dr. Camille Durand that works, with regular check-ins and careful dose changes. Sensitive questions were handled by Dr. Camille Durand with discretion and without a hint of judgment.
+
+Review 9 for Dr. Camille Durand, Psychiatry, Lyon
+Rating: 7/10
+Clinic visited: Centre Médical Bellecour
+Description: Dr. Camille Durand is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 10 for Dr. Camille Durand, Psychiatry, Lyon
+Rating: 8/10
+Clinic visited: Centre Médical Bellecour
+Description: I can ring Centre Médical Bellecour with an urgent question and receive a thoughtful reply the same day.
+
+Review 11 for Dr. Camille Durand, Psychiatry, Lyon
+Rating: 9/10
+Clinic visited: Centre Médical Bellecour
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Camille Durand felt well organized from start to finish.
+
+Overall rating for Dr. Camille Durand, Psychiatry, Lyon: 7.09/10 from 11 reviews

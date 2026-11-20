@@ -1,0 +1,64 @@
+Doctor: Dr. Sophie Martin
+Doctor ID: 1254
+Specialization: Cardiology
+Gender: Female
+Years of experience: 2
+City: Marseille, France
+Clinics: Centre de Santé de la Joliette (clinic ID 163); Polyclinique Saint-Giniez (clinic ID 164)
+
+Review 1 for Dr. Sophie Martin, Cardiology, Marseille
+Rating: 8/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The cardiology unit at Centre de Santé de la Joliette runs on time, and the technicians were professional during my echocardiogram.
+
+Review 2 for Dr. Sophie Martin, Cardiology, Marseille
+Rating: 6/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Dr. Sophie Martin adjusted my blood pressure medication carefully, though I had to call twice for a refill. Booking was easy online, but the confirmation email contained the wrong address for Centre de Santé de la Joliette.
+
+Review 3 for Dr. Sophie Martin, Cardiology, Marseille
+Rating: 7/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. The treatment plan from Dr. Sophie Martin made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Sophie Martin, Cardiology, Marseille
+Rating: 10/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: After my heart attack, Dr. Sophie Martin explained the rehab plan and medication changes with great patience and kindness. Getting to Polyclinique Saint-Giniez by public transport in Marseille was easy, and there is a step-free entrance for wheelchairs.
+
+Review 5 for Dr. Sophie Martin, Cardiology, Marseille
+Rating: 7/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 6 for Dr. Sophie Martin, Cardiology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Helpful with my cholesterol, Dr. Sophie Martin still gave dietary advice that was a little generic. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Sophie Martin, Cardiology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 8 for Dr. Sophie Martin, Cardiology, Marseille
+Rating: 6/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 9 for Dr. Sophie Martin, Cardiology, Marseille
+Rating: 8/10
+Clinic visited: Centre de Santé de la Joliette
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Clear and calm advice at Centre de Santé de la Joliette about exercise after my stent, including a gradual written schedule.
+
+Review 10 for Dr. Sophie Martin, Cardiology, Marseille
+Rating: 9/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: My atrial fibrillation is well managed by Dr. Sophie Martin, and I know exactly what symptoms mean I should call.
+
+Review 11 for Dr. Sophie Martin, Cardiology, Marseille
+Rating: 7/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: Great care in the visit itself, but the billing for the tests at Polyclinique Saint-Giniez was confusing. Good bedside manner from Dr. Sophie Martin, but the parking near Polyclinique Saint-Giniez is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Sophie Martin, Cardiology, Marseille: 7.45/10 from 11 reviews

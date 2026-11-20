@@ -1,0 +1,49 @@
+Doctor: Dr. Nicole Williams
+Doctor ID: 5750
+Specialization: General
+Gender: Female
+Years of experience: 12
+City: Durban, South Africa
+Clinics: Westville Greens Health Practice (clinic ID 743)
+
+Review 1 for Dr. Nicole Williams, General, Durban
+Rating: 10/10
+Clinic visited: Westville Greens Health Practice
+Description: I was called in within five minutes of my appointment time at Westville Greens Health Practice, which is rare and much appreciated.
+
+Review 2 for Dr. Nicole Williams, General, Durban
+Rating: 10/10
+Clinic visited: Westville Greens Health Practice
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Nicole Williams felt well organized from start to finish. I always hear back within a day when I leave a question with the nurse at Westville Greens Health Practice, and Dr. Nicole Williams follows up on lab results personally.
+
+Review 3 for Dr. Nicole Williams, General, Durban
+Rating: 9/10
+Clinic visited: Westville Greens Health Practice
+Description: By the time I left the room, Dr. Nicole Williams had sorted the sick note, referral letter and prescription refill.
+
+Review 4 for Dr. Nicole Williams, General, Durban
+Rating: 8/10
+Clinic visited: Westville Greens Health Practice
+Description: I went in with months of tiredness, and Dr. Nicole Williams ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Dr. Nicole Williams looked me in the eye, listened to the whole story and only then started typing.
+
+Review 5 for Dr. Nicole Williams, General, Durban
+Rating: 9/10
+Clinic visited: Westville Greens Health Practice
+Description: Dr. Nicole Williams double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 6 for Dr. Nicole Williams, General, Durban
+Rating: 8/10
+Clinic visited: Westville Greens Health Practice
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 7 for Dr. Nicole Williams, General, Durban
+Rating: 10/10
+Clinic visited: Westville Greens Health Practice
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Best family doctor I have had; She treats the whole person and not just the symptom list. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Nicole Williams, General, Durban
+Rating: 10/10
+Clinic visited: Westville Greens Health Practice
+Description: Vaccination advice from Dr. Nicole Williams for my travel plans was thorough and specific to the countries I was visiting. I came away understanding my condition better than I have in years of previous appointments.
+
+Overall rating for Dr. Nicole Williams, General, Durban: 9.25/10 from 8 reviews

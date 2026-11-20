@@ -1,0 +1,59 @@
+Doctor: Dr. Holly Green
+Doctor ID: 1079
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 4
+City: Edinburgh, UK
+Clinics: Princes Street Health Practice (clinic ID 141)
+
+Review 1 for Dr. Holly Green, Psychiatry, Edinburgh
+Rating: 7/10
+Clinic visited: Princes Street Health Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Holly Green, Psychiatry, Edinburgh
+Rating: 8/10
+Clinic visited: Princes Street Health Practice
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. Booking online at Princes Street Health Practice was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 3 for Dr. Holly Green, Psychiatry, Edinburgh
+Rating: 10/10
+Clinic visited: Princes Street Health Practice
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. My depression finally has a treatment plan from Dr. Holly Green that works, with regular check-ins and careful dose changes.
+
+Review 4 for Dr. Holly Green, Psychiatry, Edinburgh
+Rating: 6/10
+Clinic visited: Princes Street Health Practice
+Description: I got what I needed, but the next available appointment was three weeks away. Good listener, yet the refill process at Princes Street Health Practice is slow and requires several phone calls.
+
+Review 5 for Dr. Holly Green, Psychiatry, Edinburgh
+Rating: 6/10
+Clinic visited: Princes Street Health Practice
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 6 for Dr. Holly Green, Psychiatry, Edinburgh
+Rating: 7/10
+Clinic visited: Princes Street Health Practice
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 7 for Dr. Holly Green, Psychiatry, Edinburgh
+Rating: 6/10
+Clinic visited: Princes Street Health Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Princes Street Health Practice.
+
+Review 8 for Dr. Holly Green, Psychiatry, Edinburgh
+Rating: 6/10
+Clinic visited: Princes Street Health Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 9 for Dr. Holly Green, Psychiatry, Edinburgh
+Rating: 5/10
+Clinic visited: Princes Street Health Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Dr. Holly Green is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 10 for Dr. Holly Green, Psychiatry, Edinburgh
+Rating: 9/10
+Clinic visited: Princes Street Health Practice
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Holly Green, Psychiatry, Edinburgh: 7.00/10 from 10 reviews

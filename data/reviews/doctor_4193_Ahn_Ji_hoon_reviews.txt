@@ -1,0 +1,59 @@
+Doctor: Dr. Ahn Ji-hoon
+Doctor ID: 4193
+Specialization: Psychology
+Gender: Male
+Years of experience: 8
+City: Daegu, South Korea
+Clinics: Dongseongno Dalbit Medical Clinic (clinic ID 540); Suseong Namu Family Clinic (clinic ID 541)
+
+Review 1 for Dr. Ahn Ji-hoon, Psychology, Daegu
+Rating: 6/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 2 for Dr. Ahn Ji-hoon, Psychology, Daegu
+Rating: 7/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 3 for Dr. Ahn Ji-hoon, Psychology, Daegu
+Rating: 8/10
+Clinic visited: Suseong Namu Family Clinic
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. Dr. Ahn Ji-hoon double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Ahn Ji-hoon, Psychology, Daegu
+Rating: 6/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Dr. Ahn Ji-hoon was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. Ahn Ji-hoon listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 5 for Dr. Ahn Ji-hoon, Psychology, Daegu
+Rating: 10/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Couples therapy at Dongseongno Dalbit Medical Clinic helped us stop repeating the same argument. We now have a way to pause and listen. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Ahn Ji-hoon, Psychology, Daegu
+Rating: 8/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 7 for Dr. Ahn Ji-hoon, Psychology, Daegu
+Rating: 10/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: I was called in within five minutes of my appointment time at Dongseongno Dalbit Medical Clinic, which is rare and much appreciated.
+
+Review 8 for Dr. Ahn Ji-hoon, Psychology, Daegu
+Rating: 8/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Working through my grief felt guided but never forced, and we always ended each session with something concrete to try. Paperwork at Dongseongno Dalbit Medical Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 9 for Dr. Ahn Ji-hoon, Psychology, Daegu
+Rating: 10/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: The office in Daegu is quiet and private, and the receptionist never mentions anything in front of other patients. I have no hesitation sending my own relatives here.
+
+Review 10 for Dr. Ahn Ji-hoon, Psychology, Daegu
+Rating: 10/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Ahn Ji-hoon gave me practical tools I still use.
+
+Overall rating for Dr. Ahn Ji-hoon, Psychology, Daegu: 8.30/10 from 10 reviews

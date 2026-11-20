@@ -1,0 +1,54 @@
+Doctor: Dr. Carlos Sanchez
+Doctor ID: 117
+Specialization: General
+Gender: Male
+Years of experience: 2
+City: Chicago, USA
+Clinics: Hyde Park Medical Associates (clinic ID 18)
+
+Review 1 for Dr. Carlos Sanchez, General, Chicago
+Rating: 6/10
+Clinic visited: Hyde Park Medical Associates
+Description: Dr. Carlos Sanchez is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Dr. Carlos Sanchez was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Carlos Sanchez, General, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Dr. Carlos Sanchez was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Carlos Sanchez, General, Chicago
+Rating: 8/10
+Clinic visited: Hyde Park Medical Associates
+Description: My test results arrived in the portal within two days, together with a short note that made sense. My blood pressure had crept up and Dr. Carlos Sanchez walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 4 for Dr. Carlos Sanchez, General, Chicago
+Rating: 8/10
+Clinic visited: Hyde Park Medical Associates
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. Dr. Carlos Sanchez drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 5 for Dr. Carlos Sanchez, General, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Carlos Sanchez, General, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 7 for Dr. Carlos Sanchez, General, Chicago
+Rating: 5/10
+Clinic visited: Hyde Park Medical Associates
+Description: Referrals from Dr. Carlos Sanchez are handled well, but getting test results back took longer than I was told to expect.
+
+Review 8 for Dr. Carlos Sanchez, General, Chicago
+Rating: 9/10
+Clinic visited: Hyde Park Medical Associates
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. The visit began with a short, friendly chat that put me at ease before any examination started. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 9 for Dr. Carlos Sanchez, General, Chicago
+Rating: 9/10
+Clinic visited: Hyde Park Medical Associates
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Overall rating for Dr. Carlos Sanchez, General, Chicago: 7.33/10 from 9 reviews

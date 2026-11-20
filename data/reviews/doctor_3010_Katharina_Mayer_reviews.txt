@@ -1,0 +1,64 @@
+Doctor: Dr. Katharina Mayer
+Doctor ID: 3010
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 2
+City: Vienna, Austria
+Clinics: Gesundheitszentrum Favoriten Süd (clinic ID 392)
+
+Review 1 for Dr. Katharina Mayer, Pediatrics, Vienna
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: My teenager actually spoke up during the visit, and Dr. Katharina Mayer handled sensitive topics with respect.
+
+Review 2 for Dr. Katharina Mayer, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: I got what I needed, but the next available appointment was three weeks away. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 3 for Dr. Katharina Mayer, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: Caring and gentle with my child, Dr. Katharina Mayer nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 4 for Dr. Katharina Mayer, Pediatrics, Vienna
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: Paperwork at Gesundheitszentrum Favoriten Süd was kept to a minimum, and the staff helped me complete the insurance form. Vaccination visits with Dr. Katharina Mayer are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 5 for Dr. Katharina Mayer, Pediatrics, Vienna
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: We got a same-day appointment for a high fever, and the care at Gesundheitszentrum Favoriten Süd was kind and efficient. Dr. Katharina Mayer looked me in the eye, listened to the whole story and only then started typing. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Katharina Mayer, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Dr. Katharina Mayer was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Katharina Mayer, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Katharina Mayer, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 9 for Dr. Katharina Mayer, Pediatrics, Vienna
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 10 for Dr. Katharina Mayer, Pediatrics, Vienna
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: Dr. Katharina Mayer is thorough with exams, but the after-hours phone line at Gesundheitszentrum Favoriten Süd is hard to reach.
+
+Review 11 for Dr. Katharina Mayer, Pediatrics, Vienna
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Katharina Mayer, Pediatrics, Vienna: 6.82/10 from 11 reviews

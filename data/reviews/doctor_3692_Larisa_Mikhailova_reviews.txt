@@ -1,0 +1,64 @@
+Doctor: Dr. Larisa Mikhailova
+Doctor ID: 3692
+Specialization: Radiology
+Gender: Female
+Years of experience: 5
+City: Kazan, Russia
+Clinics: Klinika Zdorovye Kazani (clinic ID 476); Idel Health Practice (clinic ID 478)
+
+Review 1 for Dr. Larisa Mikhailova, Radiology, Kazan
+Rating: 7/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Larisa Mikhailova, Radiology, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Fast, clean and professional; the bone density scan with Dr. Larisa Mikhailova was painless and the results were explained clearly. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Larisa Mikhailova, Radiology, Kazan
+Rating: 6/10
+Clinic visited: Idel Health Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Larisa Mikhailova, Radiology, Kazan
+Rating: 5/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Dr. Larisa Mikhailova answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Larisa Mikhailova, Radiology, Kazan
+Rating: 8/10
+Clinic visited: Idel Health Practice
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Larisa Mikhailova were respectful throughout. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Larisa Mikhailova, Radiology, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: The report from Dr. Larisa Mikhailova was detailed but written so a non-medical person could follow it, with a short summary at the top. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 7 for Dr. Larisa Mikhailova, Radiology, Kazan
+Rating: 9/10
+Clinic visited: Idel Health Practice
+Description: The staff at Idel Health Practice in Kazan explained the contrast dye and its side effects before I signed anything. Getting to Idel Health Practice by public transport in Kazan was easy, and there is a step-free entrance for wheelchairs.
+
+Review 8 for Dr. Larisa Mikhailova, Radiology, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 9 for Dr. Larisa Mikhailova, Radiology, Kazan
+Rating: 7/10
+Clinic visited: Idel Health Practice
+Description: The report from Dr. Larisa Mikhailova was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 10 for Dr. Larisa Mikhailova, Radiology, Kazan
+Rating: 4/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. The staff seemed rushed and impatient with an elderly patient who needed help changing.
+
+Review 11 for Dr. Larisa Mikhailova, Radiology, Kazan
+Rating: 5/10
+Clinic visited: Idel Health Practice
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Larisa Mikhailova, Radiology, Kazan: 6.82/10 from 11 reviews

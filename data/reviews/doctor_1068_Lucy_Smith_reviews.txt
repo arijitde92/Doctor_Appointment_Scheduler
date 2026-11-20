@@ -1,0 +1,49 @@
+Doctor: Dr. Lucy Smith
+Doctor ID: 1068
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 6
+City: Edinburgh, UK
+Clinics: Queen Street Medical Centre (clinic ID 140)
+
+Review 1 for Dr. Lucy Smith, Pulmonology, Edinburgh
+Rating: 10/10
+Clinic visited: Queen Street Medical Centre
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Lucy Smith, Pulmonology, Edinburgh
+Rating: 10/10
+Clinic visited: Queen Street Medical Centre
+Description: Paperwork at Queen Street Medical Centre was kept to a minimum, and the staff helped me complete the insurance form. Quitting smoking felt possible for the first time because the advice from Dr. Lucy Smith was practical and never preachy.
+
+Review 3 for Dr. Lucy Smith, Pulmonology, Edinburgh
+Rating: 10/10
+Clinic visited: Queen Street Medical Centre
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Lucy Smith. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Lucy Smith, Pulmonology, Edinburgh
+Rating: 10/10
+Clinic visited: Queen Street Medical Centre
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. I always leave Dr. Lucy Smith's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 5 for Dr. Lucy Smith, Pulmonology, Edinburgh
+Rating: 8/10
+Clinic visited: Queen Street Medical Centre
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 6 for Dr. Lucy Smith, Pulmonology, Edinburgh
+Rating: 10/10
+Clinic visited: Queen Street Medical Centre
+Description: The spirometry test was explained step by step, and Dr. Lucy Smith put the results in context with a clear picture of my lung function.
+
+Review 7 for Dr. Lucy Smith, Pulmonology, Edinburgh
+Rating: 9/10
+Clinic visited: Queen Street Medical Centre
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. My oxygen levels are monitored carefully at Queen Street Medical Centre, and the home equipment was arranged without any hassle.
+
+Review 8 for Dr. Lucy Smith, Pulmonology, Edinburgh
+Rating: 7/10
+Clinic visited: Queen Street Medical Centre
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Lucy Smith, Pulmonology, Edinburgh: 9.25/10 from 8 reviews

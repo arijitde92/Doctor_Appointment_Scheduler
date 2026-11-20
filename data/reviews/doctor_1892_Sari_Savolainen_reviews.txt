@@ -1,0 +1,64 @@
+Doctor: Dr. Sari Savolainen
+Doctor ID: 1892
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 2
+City: Tampere, Finland
+Clinics: Terveysasema Satakunnankatu (clinic ID 246)
+
+Review 1 for Dr. Sari Savolainen, Psychiatry, Tampere
+Rating: 6/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 2 for Dr. Sari Savolainen, Psychiatry, Tampere
+Rating: 8/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 3 for Dr. Sari Savolainen, Psychiatry, Tampere
+Rating: 9/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 4 for Dr. Sari Savolainen, Psychiatry, Tampere
+Rating: 10/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 5 for Dr. Sari Savolainen, Psychiatry, Tampere
+Rating: 6/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Sari Savolainen, Psychiatry, Tampere
+Rating: 7/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. I liked the advice I got from Dr. Sari Savolainen, but I would have liked more time to ask follow-up questions before the visit ended. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Sari Savolainen, Psychiatry, Tampere
+Rating: 6/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: Dr. Sari Savolainen is knowledgeable, though I waited several weeks for my first appointment. Dr. Sari Savolainen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Sari Savolainen, Psychiatry, Tampere
+Rating: 6/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: Good bedside manner from Dr. Sari Savolainen, but the parking near Terveysasema Satakunnankatu is limited and I had to circle for fifteen minutes. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 9 for Dr. Sari Savolainen, Psychiatry, Tampere
+Rating: 5/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 10 for Dr. Sari Savolainen, Psychiatry, Tampere
+Rating: 9/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Appointments in Tampere are always on schedule, and the waiting area is peaceful and private.
+
+Review 11 for Dr. Sari Savolainen, Psychiatry, Tampere
+Rating: 8/10
+Clinic visited: Terveysasema Satakunnankatu
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Sari Savolainen, Psychiatry, Tampere: 7.27/10 from 11 reviews

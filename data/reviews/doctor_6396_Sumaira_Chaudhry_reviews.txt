@@ -1,0 +1,54 @@
+Doctor: Dr. Sumaira Chaudhry
+Doctor ID: 6396
+Specialization: Cardiology
+Gender: Female
+Years of experience: 15
+City: Lahore, Pakistan
+Clinics: Ravi Bank Medical Centre (clinic ID 829)
+
+Review 1 for Dr. Sumaira Chaudhry, Cardiology, Lahore
+Rating: 8/10
+Clinic visited: Ravi Bank Medical Centre
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Quick to coordinate with my regular doctor, so my medications were consistent across both offices.
+
+Review 2 for Dr. Sumaira Chaudhry, Cardiology, Lahore
+Rating: 5/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I got what I needed, but the next available appointment was three weeks away.
+
+Review 3 for Dr. Sumaira Chaudhry, Cardiology, Lahore
+Rating: 7/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Booking was easy online, but the confirmation email contained the wrong address for Ravi Bank Medical Centre.
+
+Review 4 for Dr. Sumaira Chaudhry, Cardiology, Lahore
+Rating: 8/10
+Clinic visited: Ravi Bank Medical Centre
+Description: After my heart attack, Dr. Sumaira Chaudhry explained the rehab plan and medication changes with great patience and kindness. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Sumaira Chaudhry, Cardiology, Lahore
+Rating: 8/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Clear and calm advice at Ravi Bank Medical Centre about exercise after my stent, including a gradual written schedule. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 6 for Dr. Sumaira Chaudhry, Cardiology, Lahore
+Rating: 7/10
+Clinic visited: Ravi Bank Medical Centre
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Sumaira Chaudhry, Cardiology, Lahore
+Rating: 7/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 8 for Dr. Sumaira Chaudhry, Cardiology, Lahore
+Rating: 9/10
+Clinic visited: Ravi Bank Medical Centre
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Sumaira Chaudhry, Cardiology, Lahore
+Rating: 7/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Helpful with my cholesterol, Dr. Sumaira Chaudhry still gave dietary advice that was a little generic.
+
+Overall rating for Dr. Sumaira Chaudhry, Cardiology, Lahore: 7.33/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Florencia Rodríguez
+Doctor ID: 739
+Specialization: Psychology
+Gender: Female
+Years of experience: 1
+City: Buenos Aires, Argentina
+Clinics: Policlínica Palermo Integral (clinic ID 98)
+
+Review 1 for Dr. Florencia Rodríguez, Psychology, Buenos Aires
+Rating: 8/10
+Clinic visited: Policlínica Palermo Integral
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Review 2 for Dr. Florencia Rodríguez, Psychology, Buenos Aires
+Rating: 10/10
+Clinic visited: Policlínica Palermo Integral
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 3 for Dr. Florencia Rodríguez, Psychology, Buenos Aires
+Rating: 10/10
+Clinic visited: Policlínica Palermo Integral
+Description: Couples therapy at Policlínica Palermo Integral helped us stop repeating the same argument. We now have a way to pause and listen.
+
+Review 4 for Dr. Florencia Rodríguez, Psychology, Buenos Aires
+Rating: 10/10
+Clinic visited: Policlínica Palermo Integral
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Florencia Rodríguez gave me practical tools I still use. Booking online at Policlínica Palermo Integral was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 5 for Dr. Florencia Rodríguez, Psychology, Buenos Aires
+Rating: 10/10
+Clinic visited: Policlínica Palermo Integral
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Florencia Rodríguez designed around my actual job. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Florencia Rodríguez, Psychology, Buenos Aires
+Rating: 10/10
+Clinic visited: Policlínica Palermo Integral
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. I never felt judged by Dr. Florencia Rodríguez when talking about my burnout, and the sessions gave me language for things I could not explain before.
+
+Review 7 for Dr. Florencia Rodríguez, Psychology, Buenos Aires
+Rating: 5/10
+Clinic visited: Policlínica Palermo Integral
+Description: Insightful and kind, though progress with Dr. Florencia Rodríguez felt slow, and I wished for more structured homework between sessions. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 8 for Dr. Florencia Rodríguez, Psychology, Buenos Aires
+Rating: 9/10
+Clinic visited: Policlínica Palermo Integral
+Description: Dr. Florencia Rodríguez adapted the approach when the first method did not suit me, and that flexibility made all the difference. I appreciated that she offered more than one option and let me choose what suited my life. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Florencia Rodríguez, Psychology, Buenos Aires: 9.00/10 from 8 reviews

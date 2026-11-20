@@ -1,0 +1,69 @@
+Doctor: Dr. Khalid Al Sada
+Doctor ID: 6253
+Specialization: Radiology
+Gender: Male
+Years of experience: 4
+City: Doha, Qatar
+Clinics: Muaither Health Practice (clinic ID 808)
+
+Review 1 for Dr. Khalid Al Sada, Radiology, Doha
+Rating: 5/10
+Clinic visited: Muaither Health Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Khalid Al Sada, Radiology, Doha
+Rating: 7/10
+Clinic visited: Muaither Health Practice
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Khalid Al Sada, Radiology, Doha
+Rating: 7/10
+Clinic visited: Muaither Health Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 4 for Dr. Khalid Al Sada, Radiology, Doha
+Rating: 4/10
+Clinic visited: Muaither Health Practice
+Description: Dr. Khalid Al Sada was never available to discuss my findings, and the report left me more confused than before. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 5 for Dr. Khalid Al Sada, Radiology, Doha
+Rating: 9/10
+Clinic visited: Muaither Health Practice
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Khalid Al Sada sent a clear report within a day.
+
+Review 6 for Dr. Khalid Al Sada, Radiology, Doha
+Rating: 6/10
+Clinic visited: Muaither Health Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 7 for Dr. Khalid Al Sada, Radiology, Doha
+Rating: 6/10
+Clinic visited: Muaither Health Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Khalid Al Sada, Radiology, Doha
+Rating: 6/10
+Clinic visited: Muaither Health Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Khalid Al Sada answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Khalid Al Sada, Radiology, Doha
+Rating: 8/10
+Clinic visited: Muaither Health Practice
+Description: Dr. Khalid Al Sada compared my new scan with last year's and pointed out exactly what had stayed the same. I will be coming back for all my future check-ups.
+
+Review 10 for Dr. Khalid Al Sada, Radiology, Doha
+Rating: 8/10
+Clinic visited: Muaither Health Practice
+Description: A translator was arranged for my mother without us asking twice, and Dr. Khalid Al Sada spoke directly to her throughout. Booking a CT scan online at Muaither Health Practice took two minutes, and I was in and out within forty minutes.
+
+Review 11 for Dr. Khalid Al Sada, Radiology, Doha
+Rating: 7/10
+Clinic visited: Muaither Health Practice
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 12 for Dr. Khalid Al Sada, Radiology, Doha
+Rating: 7/10
+Clinic visited: Muaither Health Practice
+Description: I got what I needed, but the next available appointment was three weeks away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Khalid Al Sada, Radiology, Doha: 6.67/10 from 12 reviews

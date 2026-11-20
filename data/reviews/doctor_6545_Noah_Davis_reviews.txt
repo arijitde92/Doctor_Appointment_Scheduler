@@ -1,0 +1,49 @@
+Doctor: Dr. Noah Davis
+Doctor ID: 6545
+Specialization: Radiology
+Gender: Male
+Years of experience: 24
+City: Perth, Australia
+Clinics: Boronia Health Centre (clinic ID 847)
+
+Review 1 for Dr. Noah Davis, Radiology, Perth
+Rating: 7/10
+Clinic visited: Boronia Health Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Noah Davis, Radiology, Perth
+Rating: 7/10
+Clinic visited: Boronia Health Centre
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 3 for Dr. Noah Davis, Radiology, Perth
+Rating: 6/10
+Clinic visited: Boronia Health Centre
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Noah Davis, Radiology, Perth
+Rating: 8/10
+Clinic visited: Boronia Health Centre
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 5 for Dr. Noah Davis, Radiology, Perth
+Rating: 7/10
+Clinic visited: Boronia Health Centre
+Description: Dr. Noah Davis was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 6 for Dr. Noah Davis, Radiology, Perth
+Rating: 10/10
+Clinic visited: Boronia Health Centre
+Description: Fast, clean and professional; the bone density scan with Dr. Noah Davis was painless and the results were explained clearly. The nurse was friendly and efficient, and the whole visit with Dr. Noah Davis felt well organized from start to finish.
+
+Review 7 for Dr. Noah Davis, Radiology, Perth
+Rating: 7/10
+Clinic visited: Boronia Health Centre
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Noah Davis, Radiology, Perth
+Rating: 8/10
+Clinic visited: Boronia Health Centre
+Description: The report from Dr. Noah Davis was detailed but written so a non-medical person could follow it, with a short summary at the top. Dr. Noah Davis drew a quick sketch to explain what was going on, which helped me remember it afterwards. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Noah Davis, Radiology, Perth: 7.50/10 from 8 reviews

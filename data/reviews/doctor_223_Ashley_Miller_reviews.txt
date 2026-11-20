@@ -1,0 +1,49 @@
+Doctor: Dr. Ashley Miller
+Doctor ID: 223
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 5
+City: San Francisco, USA
+Clinics: Van Ness Medical Group (clinic ID 31)
+
+Review 1 for Dr. Ashley Miller, Pulmonology, San Francisco
+Rating: 9/10
+Clinic visited: Van Ness Medical Group
+Description: Dr. Ashley Miller explained my lung nodule follow-up schedule calmly, which took away weeks of worry. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 2 for Dr. Ashley Miller, Pulmonology, San Francisco
+Rating: 9/10
+Clinic visited: Van Ness Medical Group
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Ashley Miller, Pulmonology, San Francisco
+Rating: 7/10
+Clinic visited: Van Ness Medical Group
+Description: Dr. Ashley Miller adjusted my asthma medication well, but the breathing test appointment was a month away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Ashley Miller, Pulmonology, San Francisco
+Rating: 9/10
+Clinic visited: Van Ness Medical Group
+Description: A same-day slot was found for me at Van Ness Medical Group when I called with a worrying symptom. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Ashley Miller, Pulmonology, San Francisco
+Rating: 5/10
+Clinic visited: Van Ness Medical Group
+Description: The treatment plan from Dr. Ashley Miller made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Ashley Miller, Pulmonology, San Francisco
+Rating: 10/10
+Clinic visited: Van Ness Medical Group
+Description: The spirometry test was explained step by step, and Dr. Ashley Miller put the results in context with a clear picture of my lung function. The practice in San Francisco is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Ashley Miller, Pulmonology, San Francisco
+Rating: 7/10
+Clinic visited: Van Ness Medical Group
+Description: Dr. Ashley Miller was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Ashley Miller, Pulmonology, San Francisco
+Rating: 7/10
+Clinic visited: Van Ness Medical Group
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Ashley Miller, Pulmonology, San Francisco: 7.88/10 from 8 reviews

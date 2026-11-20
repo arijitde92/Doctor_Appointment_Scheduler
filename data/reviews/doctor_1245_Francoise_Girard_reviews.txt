@@ -1,0 +1,59 @@
+Doctor: Dr. Françoise Girard
+Doctor ID: 1245
+Specialization: Neurology
+Gender: Female
+Years of experience: 3
+City: Marseille, France
+Clinics: Clinique du Prado (clinic ID 162); Polyclinique Saint-Giniez (clinic ID 164)
+
+Review 1 for Dr. Françoise Girard, Neurology, Marseille
+Rating: 8/10
+Clinic visited: Clinique du Prado
+Description: Clear and honest talk with Dr. Françoise Girard about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist. Prescriptions from Dr. Françoise Girard were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 2 for Dr. Françoise Girard, Neurology, Marseille
+Rating: 10/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Françoise Girard, Neurology, Marseille
+Rating: 7/10
+Clinic visited: Clinique du Prado
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Françoise Girard, Neurology, Marseille
+Rating: 10/10
+Clinic visited: Clinique du Prado
+Description: I always leave Dr. Françoise Girard's office with a short written summary of changes, which helps my family keep up. Dr. Françoise Girard drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 5 for Dr. Françoise Girard, Neurology, Marseille
+Rating: 6/10
+Clinic visited: Clinique du Prado
+Description: Dr. Françoise Girard explained my results well, although the visit felt short for such a complex condition. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Françoise Girard, Neurology, Marseille
+Rating: 9/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: After years of migraines, Dr. Françoise Girard built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer.
+
+Review 7 for Dr. Françoise Girard, Neurology, Marseille
+Rating: 10/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: She patiently explained my MRI findings and calmed my worries about memory problems. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Françoise Girard, Neurology, Marseille
+Rating: 10/10
+Clinic visited: Clinique du Prado
+Description: I appreciated that she offered more than one option and let me choose what suited my life. Getting a same-month appointment in Marseille for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 9 for Dr. Françoise Girard, Neurology, Marseille
+Rating: 7/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 10 for Dr. Françoise Girard, Neurology, Marseille
+Rating: 7/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Overall rating for Dr. Françoise Girard, Neurology, Marseille: 8.40/10 from 10 reviews

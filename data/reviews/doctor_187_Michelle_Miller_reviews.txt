@@ -1,0 +1,49 @@
+Doctor: Dr. Michelle Miller
+Doctor ID: 187
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Female
+Years of experience: 2
+City: New York, USA
+Clinics: Midtown Family Medical Group (clinic ID 26)
+
+Review 1 for Dr. Michelle Miller, Obstetrics and Gynecology (OB/GYN), New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: A respectful exam, but I wished for more discussion on pain management before my procedure.
+
+Review 2 for Dr. Michelle Miller, Obstetrics and Gynecology (OB/GYN), New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history.
+
+Review 3 for Dr. Michelle Miller, Obstetrics and Gynecology (OB/GYN), New York
+Rating: 9/10
+Clinic visited: Midtown Family Medical Group
+Description: I appreciated being asked what I wanted from my birth experience before any decisions were made. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Michelle Miller, Obstetrics and Gynecology (OB/GYN), New York
+Rating: 5/10
+Clinic visited: Midtown Family Medical Group
+Description: I got what I needed, but the next available appointment was three weeks away. Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked.
+
+Review 5 for Dr. Michelle Miller, Obstetrics and Gynecology (OB/GYN), New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: The ultrasound images from Dr. Michelle Miller were great, but I had to call twice to get the written report. Dr. Michelle Miller was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 6 for Dr. Michelle Miller, Obstetrics and Gynecology (OB/GYN), New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Michelle Miller, Obstetrics and Gynecology (OB/GYN), New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Michelle Miller, Obstetrics and Gynecology (OB/GYN), New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: Quick appointment and a fair price in New York, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Michelle Miller explained my options well, though the office was often running an hour behind. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Michelle Miller, Obstetrics and Gynecology (OB/GYN), New York: 6.75/10 from 8 reviews

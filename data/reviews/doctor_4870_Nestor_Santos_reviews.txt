@@ -1,0 +1,49 @@
+Doctor: Dr. Nestor Santos
+Doctor ID: 4870
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 2
+City: Manila, Philippines
+Clinics: Klinika Luntian (clinic ID 629)
+
+Review 1 for Dr. Nestor Santos, Gastroenterology, Manila
+Rating: 6/10
+Clinic visited: Klinika Luntian
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Nestor Santos, Gastroenterology, Manila
+Rating: 7/10
+Clinic visited: Klinika Luntian
+Description: Knowledgeable about my reflux, Dr. Nestor Santos still gave diet advice that felt generic and not tailored to my habits. Quick appointment and a fair price in Manila, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Nestor Santos, Gastroenterology, Manila
+Rating: 8/10
+Clinic visited: Klinika Luntian
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. Dr. Nestor Santos drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Nestor Santos, Gastroenterology, Manila
+Rating: 6/10
+Clinic visited: Klinika Luntian
+Description: Dr. Nestor Santos is thorough, but I waited nearly two months to get the first available slot.
+
+Review 5 for Dr. Nestor Santos, Gastroenterology, Manila
+Rating: 7/10
+Clinic visited: Klinika Luntian
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Nestor Santos, Gastroenterology, Manila
+Rating: 6/10
+Clinic visited: Klinika Luntian
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Nestor Santos, Gastroenterology, Manila
+Rating: 7/10
+Clinic visited: Klinika Luntian
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Nestor Santos, Gastroenterology, Manila
+Rating: 7/10
+Clinic visited: Klinika Luntian
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Nestor Santos, Gastroenterology, Manila: 6.75/10 from 8 reviews

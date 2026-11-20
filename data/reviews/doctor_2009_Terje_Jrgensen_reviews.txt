@@ -1,0 +1,69 @@
+Doctor: Dr. Terje Jørgensen
+Doctor ID: 2009
+Specialization: Cardiology
+Gender: Male
+Years of experience: 10
+City: Oslo, Norway
+Clinics: Medisinsk Senter Thereses gate (clinic ID 262)
+
+Review 1 for Dr. Terje Jørgensen, Cardiology, Oslo
+Rating: 10/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Terje Jørgensen felt well organized from start to finish.
+
+Review 2 for Dr. Terje Jørgensen, Cardiology, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 3 for Dr. Terje Jørgensen, Cardiology, Oslo
+Rating: 8/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Honest about the risks and benefits of the procedure, Dr. Terje Jørgensen never pressured me toward surgery. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 4 for Dr. Terje Jørgensen, Cardiology, Oslo
+Rating: 9/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Terje Jørgensen, Cardiology, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Dr. Terje Jørgensen adjusted my blood pressure medication carefully, though I had to call twice for a refill. Dr. Terje Jørgensen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 6 for Dr. Terje Jørgensen, Cardiology, Oslo
+Rating: 8/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 7 for Dr. Terje Jørgensen, Cardiology, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 8 for Dr. Terje Jørgensen, Cardiology, Oslo
+Rating: 8/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: My atrial fibrillation is well managed by Dr. Terje Jørgensen, and I know exactly what symptoms mean I should call. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 9 for Dr. Terje Jørgensen, Cardiology, Oslo
+Rating: 8/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. The receptionist at Medisinsk Senter Thereses gate remembered my name and had my forms ready, so check-in took less than a minute. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 10 for Dr. Terje Jørgensen, Cardiology, Oslo
+Rating: 10/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Dr. Terje Jørgensen double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 11 for Dr. Terje Jørgensen, Cardiology, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: The treatment plan from Dr. Terje Jørgensen made sense, but I wished it had been written down for me to take away. Worth trying, but I would not call it the best option in the area.
+
+Review 12 for Dr. Terje Jørgensen, Cardiology, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Terje Jørgensen, Cardiology, Oslo: 8.00/10 from 12 reviews

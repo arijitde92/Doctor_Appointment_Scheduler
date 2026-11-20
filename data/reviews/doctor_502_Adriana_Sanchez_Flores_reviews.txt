@@ -1,0 +1,59 @@
+Doctor: Dr. Adriana Sánchez Flores
+Doctor ID: 502
+Specialization: Cardiology
+Gender: Female
+Years of experience: 25
+City: Monterrey, Mexico
+Clinics: Clínica Familiar Cumbres (clinic ID 68)
+
+Review 1 for Dr. Adriana Sánchez Flores, Cardiology, Monterrey
+Rating: 6/10
+Clinic visited: Clínica Familiar Cumbres
+Description: I got what I needed, but the next available appointment was three weeks away. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 2 for Dr. Adriana Sánchez Flores, Cardiology, Monterrey
+Rating: 10/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 3 for Dr. Adriana Sánchez Flores, Cardiology, Monterrey
+Rating: 5/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Great care in the visit itself, but the billing for the tests at Clínica Familiar Cumbres was confusing. Dr. Adriana Sánchez Flores was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Adriana Sánchez Flores, Cardiology, Monterrey
+Rating: 8/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Dr. Adriana Sánchez Flores double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 5 for Dr. Adriana Sánchez Flores, Cardiology, Monterrey
+Rating: 7/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Clear explanations, but the follow-up call took a week longer than I had been told. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Adriana Sánchez Flores, Cardiology, Monterrey
+Rating: 5/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Dr. Adriana Sánchez Flores adjusted my blood pressure medication carefully, though I had to call twice for a refill. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Adriana Sánchez Flores, Cardiology, Monterrey
+Rating: 8/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Adriana Sánchez Flores, Cardiology, Monterrey
+Rating: 6/10
+Clinic visited: Clínica Familiar Cumbres
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Adriana Sánchez Flores, Cardiology, Monterrey
+Rating: 8/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. At my visit, Dr. Adriana Sánchez Flores took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 10 for Dr. Adriana Sánchez Flores, Cardiology, Monterrey
+Rating: 7/10
+Clinic visited: Clínica Familiar Cumbres
+Description: Helpful with my cholesterol, Dr. Adriana Sánchez Flores still gave dietary advice that was a little generic.
+
+Overall rating for Dr. Adriana Sánchez Flores, Cardiology, Monterrey: 7.00/10 from 10 reviews

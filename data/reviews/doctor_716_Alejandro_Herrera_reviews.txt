@@ -1,0 +1,54 @@
+Doctor: Dr. Alejandro Herrera
+Doctor ID: 716
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 26
+City: Buenos Aires, Argentina
+Clinics: Centro Médico Recoleta Norte (clinic ID 95)
+
+Review 1 for Dr. Alejandro Herrera, Gastroenterology, Buenos Aires
+Rating: 9/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Everything was explained in plain English by Dr. Alejandro Herrera, and nothing was left to guess.
+
+Review 2 for Dr. Alejandro Herrera, Gastroenterology, Buenos Aires
+Rating: 10/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan. Sensitive questions were handled by Dr. Alejandro Herrera with discretion and without a hint of judgment.
+
+Review 3 for Dr. Alejandro Herrera, Gastroenterology, Buenos Aires
+Rating: 9/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. Dr. Alejandro Herrera double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Alejandro Herrera, Gastroenterology, Buenos Aires
+Rating: 8/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I received a full summary letter from Centro Médico Recoleta Norte after my endoscopy, which my regular doctor found very useful.
+
+Review 5 for Dr. Alejandro Herrera, Gastroenterology, Buenos Aires
+Rating: 6/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Alejandro Herrera, Gastroenterology, Buenos Aires
+Rating: 10/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Alejandro Herrera, Gastroenterology, Buenos Aires
+Rating: 9/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 8 for Dr. Alejandro Herrera, Gastroenterology, Buenos Aires
+Rating: 9/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Dr. Alejandro Herrera took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. Worth every minute of travel, and I would go again without a second thought.
+
+Review 9 for Dr. Alejandro Herrera, Gastroenterology, Buenos Aires
+Rating: 7/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Alejandro Herrera, Gastroenterology, Buenos Aires: 8.56/10 from 9 reviews

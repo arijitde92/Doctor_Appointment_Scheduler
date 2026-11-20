@@ -1,0 +1,59 @@
+Doctor: Dr. Barbara Morel
+Doctor ID: 1659
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 19
+City: Basel, Switzerland
+Clinics: Gesundheitszentrum Clara (clinic ID 217)
+
+Review 1 for Dr. Barbara Morel, Psychiatry, Basel
+Rating: 3/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 2 for Dr. Barbara Morel, Psychiatry, Basel
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Requests for a refill went unanswered for days, and I ran out of my medication. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 3 for Dr. Barbara Morel, Psychiatry, Basel
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Clara
+Description: I was given a printed summary of the visit, which I shared with my family at home. Clear and non-judgmental about my sleep medication, with a plan for stopping it safely.
+
+Review 4 for Dr. Barbara Morel, Psychiatry, Basel
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Clara
+Description: The prescription from Dr. Barbara Morel was not the one we discussed, and I only noticed when I got home.
+
+Review 5 for Dr. Barbara Morel, Psychiatry, Basel
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Clara
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 6 for Dr. Barbara Morel, Psychiatry, Basel
+Rating: 3/10
+Clinic visited: Gesundheitszentrum Clara
+Description: The staff at Gesundheitszentrum Clara were curt on the phone, and it took four attempts to book a simple follow-up.
+
+Review 7 for Dr. Barbara Morel, Psychiatry, Basel
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Clara
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion. The waiting room at Gesundheitszentrum Clara was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 8 for Dr. Barbara Morel, Psychiatry, Basel
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 9 for Dr. Barbara Morel, Psychiatry, Basel
+Rating: 3/10
+Clinic visited: Gesundheitszentrum Clara
+Description: My concerns about how I felt on the dose were waved away rather than explored. Not a place I would choose again, and I hope others have a better experience.
+
+Review 10 for Dr. Barbara Morel, Psychiatry, Basel
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Clara
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good listener, yet the refill process at Gesundheitszentrum Clara is slow and requires several phone calls.
+
+Overall rating for Dr. Barbara Morel, Psychiatry, Basel: 4.30/10 from 10 reviews

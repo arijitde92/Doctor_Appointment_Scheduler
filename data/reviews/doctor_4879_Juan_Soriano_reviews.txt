@@ -1,0 +1,49 @@
+Doctor: Dr. Juan Soriano
+Doctor ID: 4879
+Specialization: Cardiology
+Gender: Male
+Years of experience: 14
+City: Quezon City, Philippines
+Clinics: Perlas ng Silangan Medical Clinic (clinic ID 630); Santo Nino Polyclinic (clinic ID 631)
+
+Review 1 for Dr. Juan Soriano, Cardiology, Quezon City
+Rating: 7/10
+Clinic visited: Santo Nino Polyclinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Juan Soriano, Cardiology, Quezon City
+Rating: 8/10
+Clinic visited: Santo Nino Polyclinic
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 3 for Dr. Juan Soriano, Cardiology, Quezon City
+Rating: 9/10
+Clinic visited: Perlas ng Silangan Medical Clinic
+Description: Everything was explained in plain English by Dr. Juan Soriano, and nothing was left to guess. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 4 for Dr. Juan Soriano, Cardiology, Quezon City
+Rating: 10/10
+Clinic visited: Perlas ng Silangan Medical Clinic
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Juan Soriano, Cardiology, Quezon City
+Rating: 9/10
+Clinic visited: Santo Nino Polyclinic
+Description: My atrial fibrillation is well managed by Dr. Juan Soriano, and I know exactly what symptoms mean I should call. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Juan Soriano, Cardiology, Quezon City
+Rating: 10/10
+Clinic visited: Santo Nino Polyclinic
+Description: The cardiology unit at Santo Nino Polyclinic runs on time, and the technicians were professional during my echocardiogram. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Juan Soriano, Cardiology, Quezon City
+Rating: 8/10
+Clinic visited: Santo Nino Polyclinic
+Description: Managing my blood pressure with Dr. Juan Soriano has been steady and practical, with home readings reviewed at every visit. Prescriptions from Dr. Juan Soriano were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Juan Soriano, Cardiology, Quezon City
+Rating: 8/10
+Clinic visited: Perlas ng Silangan Medical Clinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Overall rating for Dr. Juan Soriano, Cardiology, Quezon City: 8.62/10 from 8 reviews

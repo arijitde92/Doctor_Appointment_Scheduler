@@ -1,0 +1,59 @@
+Doctor: Dr. Shimizu Sachiko
+Doctor ID: 4026
+Specialization: General
+Gender: Female
+Years of experience: 5
+City: Kyoto, Japan
+Clinics: Nijo Yume Medical Clinic (clinic ID 519)
+
+Review 1 for Dr. Shimizu Sachiko, General, Kyoto
+Rating: 9/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Dr. Shimizu Sachiko looked me in the eye, listened to the whole story and only then started typing. My blood pressure had crept up and Dr. Shimizu Sachiko walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 2 for Dr. Shimizu Sachiko, General, Kyoto
+Rating: 10/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Getting to Nijo Yume Medical Clinic by public transport in Kyoto was easy, and there is a step-free entrance for wheelchairs.
+
+Review 3 for Dr. Shimizu Sachiko, General, Kyoto
+Rating: 9/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Shimizu Sachiko felt well organized from start to finish.
+
+Review 4 for Dr. Shimizu Sachiko, General, Kyoto
+Rating: 10/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 5 for Dr. Shimizu Sachiko, General, Kyoto
+Rating: 10/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Getting to Nijo Yume Medical Clinic from across Kyoto was easy, and the same-week appointment saved me an urgent care trip. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Shimizu Sachiko, General, Kyoto
+Rating: 10/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: I always hear back within a day when I leave a question with the nurse at Nijo Yume Medical Clinic, and Dr. Shimizu Sachiko follows up on lab results personally. A same-day slot was found for me at Nijo Yume Medical Clinic when I called with a worrying symptom. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Shimizu Sachiko, General, Kyoto
+Rating: 9/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Managing my type 2 diabetes with Dr. Shimizu Sachiko has been steady and practical, with quarterly blood sugar reviews and no lectures. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 8 for Dr. Shimizu Sachiko, General, Kyoto
+Rating: 8/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 9 for Dr. Shimizu Sachiko, General, Kyoto
+Rating: 10/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Vaccination advice from Dr. Shimizu Sachiko for my travel plans was thorough and specific to the countries I was visiting. Dr. Shimizu Sachiko used a calm, steady voice that settled my nerves before a stressful procedure. I will be coming back for all my future check-ups.
+
+Review 10 for Dr. Shimizu Sachiko, General, Kyoto
+Rating: 10/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The receptionist at Nijo Yume Medical Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Overall rating for Dr. Shimizu Sachiko, General, Kyoto: 9.50/10 from 10 reviews

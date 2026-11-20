@@ -1,0 +1,64 @@
+Doctor: Dr. Mei Côté
+Doctor ID: 345
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 22
+City: Toronto, Canada
+Clinics: Etobicoke Care Clinic (clinic ID 48); Scarborough Wellness Medical Centre (clinic ID 49)
+
+Review 1 for Dr. Mei Côté, Pulmonology, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 2 for Dr. Mei Côté, Pulmonology, Toronto
+Rating: 7/10
+Clinic visited: Etobicoke Care Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 3 for Dr. Mei Côté, Pulmonology, Toronto
+Rating: 8/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: Everything was explained in plain English by Dr. Mei Côté, and nothing was left to guess. After years of poorly controlled asthma, Dr. Mei Côté reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 4 for Dr. Mei Côté, Pulmonology, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: At Etobicoke Care Clinic, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Mei Côté, Pulmonology, Toronto
+Rating: 9/10
+Clinic visited: Etobicoke Care Clinic
+Description: I always leave Dr. Mei Côté's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 6 for Dr. Mei Côté, Pulmonology, Toronto
+Rating: 7/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: Booking was easy online, but the confirmation email contained the wrong address for Scarborough Wellness Medical Centre. Helpful and honest about my prognosis, Dr. Mei Côté could still have given me more written material to take home.
+
+Review 7 for Dr. Mei Côté, Pulmonology, Toronto
+Rating: 8/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Toronto. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 8 for Dr. Mei Côté, Pulmonology, Toronto
+Rating: 5/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: Pleasant manner and careful lung exam, though the waiting time at Scarborough Wellness Medical Centre regularly exceeded forty minutes. Dr. Mei Côté was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Mei Côté, Pulmonology, Toronto
+Rating: 7/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: Dr. Mei Côté adjusted my asthma medication well, but the breathing test appointment was a month away. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 10 for Dr. Mei Côté, Pulmonology, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: My oxygen levels are monitored carefully at Etobicoke Care Clinic, and the home equipment was arranged without any hassle. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 11 for Dr. Mei Côté, Pulmonology, Toronto
+Rating: 7/10
+Clinic visited: Etobicoke Care Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Mei Côté, Pulmonology, Toronto: 7.45/10 from 11 reviews

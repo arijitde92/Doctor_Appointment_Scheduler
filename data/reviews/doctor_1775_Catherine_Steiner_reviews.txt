@@ -1,0 +1,49 @@
+Doctor: Dr. Catherine Steiner
+Doctor ID: 1775
+Specialization: Cardiology
+Gender: Female
+Years of experience: 12
+City: Zurich, Switzerland
+Clinics: Praxis Limmatblick (clinic ID 231); Medizinisches Zentrum Altstetten West (clinic ID 232); Gesundheitszentrum Oerlikon Nord (clinic ID 233)
+
+Review 1 for Dr. Catherine Steiner, Cardiology, Zurich
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Oerlikon Nord
+Description: Booking was easy online, but the confirmation email contained the wrong address for Gesundheitszentrum Oerlikon Nord. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 2 for Dr. Catherine Steiner, Cardiology, Zurich
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Altstetten West
+Description: After my palpitations began, Dr. Catherine Steiner arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. Dr. Catherine Steiner used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 3 for Dr. Catherine Steiner, Cardiology, Zurich
+Rating: 6/10
+Clinic visited: Praxis Limmatblick
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 4 for Dr. Catherine Steiner, Cardiology, Zurich
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Oerlikon Nord
+Description: Helpful with my cholesterol, Dr. Catherine Steiner still gave dietary advice that was a little generic. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Catherine Steiner, Cardiology, Zurich
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Altstetten West
+Description: Managing my blood pressure with Dr. Catherine Steiner has been steady and practical, with home readings reviewed at every visit. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 6 for Dr. Catherine Steiner, Cardiology, Zurich
+Rating: 7/10
+Clinic visited: Praxis Limmatblick
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Catherine Steiner, Cardiology, Zurich
+Rating: 6/10
+Clinic visited: Praxis Limmatblick
+Description: Dr. Catherine Steiner was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Catherine Steiner, Cardiology, Zurich
+Rating: 4/10
+Clinic visited: Praxis Limmatblick
+Description: The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes. The prescription from Dr. Catherine Steiner was not the one we discussed, and I only noticed when I got home.
+
+Overall rating for Dr. Catherine Steiner, Cardiology, Zurich: 6.62/10 from 8 reviews

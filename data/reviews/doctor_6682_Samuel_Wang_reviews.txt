@@ -1,0 +1,54 @@
+Doctor: Dr. Samuel Wang
+Doctor ID: 6682
+Specialization: Cardiology
+Gender: Male
+Years of experience: 1
+City: Hamilton, New Zealand
+Clinics: Matai Medical Centre (clinic ID 866); Hauraki Health Clinic (clinic ID 867)
+
+Review 1 for Dr. Samuel Wang, Cardiology, Hamilton
+Rating: 8/10
+Clinic visited: Matai Medical Centre
+Description: At my visit, Dr. Samuel Wang took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 2 for Dr. Samuel Wang, Cardiology, Hamilton
+Rating: 9/10
+Clinic visited: Matai Medical Centre
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Samuel Wang, Cardiology, Hamilton
+Rating: 10/10
+Clinic visited: Matai Medical Centre
+Description: After my heart attack, Dr. Samuel Wang explained the rehab plan and medication changes with great patience and kindness. Sensitive questions were handled by Dr. Samuel Wang with discretion and without a hint of judgment.
+
+Review 4 for Dr. Samuel Wang, Cardiology, Hamilton
+Rating: 10/10
+Clinic visited: Hauraki Health Clinic
+Description: Managing my blood pressure with Dr. Samuel Wang has been steady and practical, with home readings reviewed at every visit.
+
+Review 5 for Dr. Samuel Wang, Cardiology, Hamilton
+Rating: 10/10
+Clinic visited: Matai Medical Centre
+Description: The receptionist at Matai Medical Centre remembered my name and had my forms ready, so check-in took less than a minute. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Samuel Wang, Cardiology, Hamilton
+Rating: 10/10
+Clinic visited: Hauraki Health Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 7 for Dr. Samuel Wang, Cardiology, Hamilton
+Rating: 10/10
+Clinic visited: Matai Medical Centre
+Description: Honest about the risks and benefits of the procedure, Dr. Samuel Wang never pressured me toward surgery.
+
+Review 8 for Dr. Samuel Wang, Cardiology, Hamilton
+Rating: 9/10
+Clinic visited: Hauraki Health Clinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. My stress test was supervised carefully, and Dr. Samuel Wang reviewed the results in the same visit with a plan for my cholesterol. Worth every minute of travel, and I would go again without a second thought.
+
+Review 9 for Dr. Samuel Wang, Cardiology, Hamilton
+Rating: 8/10
+Clinic visited: Matai Medical Centre
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. The cardiology unit at Matai Medical Centre runs on time, and the technicians were professional during my echocardiogram.
+
+Overall rating for Dr. Samuel Wang, Cardiology, Hamilton: 9.33/10 from 9 reviews

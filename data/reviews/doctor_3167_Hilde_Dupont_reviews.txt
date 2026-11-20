@@ -1,0 +1,54 @@
+Doctor: Dr. Hilde Dupont
+Doctor ID: 3167
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 14
+City: Liege, Belgium
+Clinics: Cabinet Médical Guillemins (clinic ID 411); Polyclinique d'Outremeuse (clinic ID 412)
+
+Review 1 for Dr. Hilde Dupont, Orthopedic, Liege
+Rating: 6/10
+Clinic visited: Cabinet Médical Guillemins
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Hilde Dupont, Orthopedic, Liege
+Rating: 6/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Hilde Dupont, Orthopedic, Liege
+Rating: 7/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Hilde Dupont, Orthopedic, Liege
+Rating: 7/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Hilde Dupont, Orthopedic, Liege
+Rating: 5/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 6 for Dr. Hilde Dupont, Orthopedic, Liege
+Rating: 5/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Quick appointment and a fair price in Liege, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Hilde Dupont, Orthopedic, Liege
+Rating: 9/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. The X-ray was reviewed with me on screen, and she pointed out exactly where the cartilage had worn down. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Hilde Dupont, Orthopedic, Liege
+Rating: 8/10
+Clinic visited: Cabinet Médical Guillemins
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine.
+
+Review 9 for Dr. Hilde Dupont, Orthopedic, Liege
+Rating: 6/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Hilde Dupont, Orthopedic, Liege: 6.56/10 from 9 reviews

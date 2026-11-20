@@ -1,0 +1,64 @@
+Doctor: Dr. Laura Doherty
+Doctor ID: 2539
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 8
+City: Limerick, Ireland
+Clinics: Henry Street Health Centre (clinic ID 332); Dooradoyle Polyclinic (clinic ID 333)
+
+Review 1 for Dr. Laura Doherty, Orthopedic, Limerick
+Rating: 8/10
+Clinic visited: Henry Street Health Centre
+Description: Dr. Laura Doherty drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 2 for Dr. Laura Doherty, Orthopedic, Limerick
+Rating: 6/10
+Clinic visited: Henry Street Health Centre
+Description: Dr. Laura Doherty was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Laura Doherty, Orthopedic, Limerick
+Rating: 6/10
+Clinic visited: Henry Street Health Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Recovery has gone well, yet the pain control in the first week was not discussed in advance. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Laura Doherty, Orthopedic, Limerick
+Rating: 6/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Dr. Laura Doherty explained surgery options clearly, though the physiotherapy referral took weeks to arrive. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Laura Doherty, Orthopedic, Limerick
+Rating: 7/10
+Clinic visited: Henry Street Health Centre
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Laura Doherty, Orthopedic, Limerick
+Rating: 6/10
+Clinic visited: Henry Street Health Centre
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Laura Doherty, Orthopedic, Limerick
+Rating: 8/10
+Clinic visited: Henry Street Health Centre
+Description: Paperwork at Henry Street Health Centre was kept to a minimum, and the staff helped me complete the insurance form. The surgeon at Henry Street Health Centre spent time on my goals as a runner and shaped the treatment around them. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Laura Doherty, Orthopedic, Limerick
+Rating: 6/10
+Clinic visited: Dooradoyle Polyclinic
+Description: The treatment plan from Dr. Laura Doherty made sense, but I wished it had been written down for me to take away. Very skilled with my knee, but Dr. Laura Doherty's clinic runs behind and the wait was over an hour.
+
+Review 9 for Dr. Laura Doherty, Orthopedic, Limerick
+Rating: 5/10
+Clinic visited: Dooradoyle Polyclinic
+Description: I liked the advice I got from Dr. Laura Doherty, but I would have liked more time to ask follow-up questions before the visit ended. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 10 for Dr. Laura Doherty, Orthopedic, Limerick
+Rating: 5/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Dr. Laura Doherty was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 11 for Dr. Laura Doherty, Orthopedic, Limerick
+Rating: 4/10
+Clinic visited: Henry Street Health Centre
+Description: The waiting room at Henry Street Health Centre was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Overall rating for Dr. Laura Doherty, Orthopedic, Limerick: 6.09/10 from 11 reviews

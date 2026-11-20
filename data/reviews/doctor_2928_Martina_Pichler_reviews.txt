@@ -1,0 +1,49 @@
+Doctor: Dr. Martina Pichler
+Doctor ID: 2928
+Specialization: Neurology
+Gender: Female
+Years of experience: 4
+City: Innsbruck, Austria
+Clinics: Gesundheitszentrum Innrain (clinic ID 382)
+
+Review 1 for Dr. Martina Pichler, Neurology, Innsbruck
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: The receptionist at Gesundheitszentrum Innrain remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 2 for Dr. Martina Pichler, Neurology, Innsbruck
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: After a long wait, my appointment with Dr. Martina Pichler lasted a few minutes and ended with a new prescription and no discussion. The clinic never returned my call about my test results, and I had to chase them for over a week. I will not be returning and have already started looking for another doctor.
+
+Review 3 for Dr. Martina Pichler, Neurology, Innsbruck
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: I was told my MRI was 'fine' with no further explanation, and I left still not knowing what was causing my symptoms.
+
+Review 4 for Dr. Martina Pichler, Neurology, Innsbruck
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Martina Pichler at Gesundheitszentrum Innrain are difficult to schedule.
+
+Review 5 for Dr. Martina Pichler, Neurology, Innsbruck
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 6 for Dr. Martina Pichler, Neurology, Innsbruck
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 7 for Dr. Martina Pichler, Neurology, Innsbruck
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. I liked the advice I got from Dr. Martina Pichler, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Martina Pichler, Neurology, Innsbruck
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Innrain
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Martina Pichler explained my results well, although the visit felt short for such a complex condition.
+
+Overall rating for Dr. Martina Pichler, Neurology, Innsbruck: 6.00/10 from 8 reviews

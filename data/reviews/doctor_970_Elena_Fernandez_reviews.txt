@@ -1,0 +1,54 @@
+Doctor: Dr. Elena Fernández
+Doctor ID: 970
+Specialization: Psychology
+Gender: Female
+Years of experience: 30
+City: Lima, Peru
+Clinics: Policlínica Benavides (clinic ID 127)
+
+Review 1 for Dr. Elena Fernández, Psychology, Lima
+Rating: 8/10
+Clinic visited: Policlínica Benavides
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected. I was called in within five minutes of my appointment time at Policlínica Benavides, which is rare and much appreciated.
+
+Review 2 for Dr. Elena Fernández, Psychology, Lima
+Rating: 10/10
+Clinic visited: Policlínica Benavides
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 3 for Dr. Elena Fernández, Psychology, Lima
+Rating: 9/10
+Clinic visited: Policlínica Benavides
+Description: Online sessions through Policlínica Benavides worked just as well as in-person ones, and the video link never once failed.
+
+Review 4 for Dr. Elena Fernández, Psychology, Lima
+Rating: 9/10
+Clinic visited: Policlínica Benavides
+Description: Dr. Elena Fernández drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 5 for Dr. Elena Fernández, Psychology, Lima
+Rating: 7/10
+Clinic visited: Policlínica Benavides
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 6 for Dr. Elena Fernández, Psychology, Lima
+Rating: 9/10
+Clinic visited: Policlínica Benavides
+Description: Sessions with Dr. Elena Fernández start on time and end on time, which is a small thing that made me feel respected.
+
+Review 7 for Dr. Elena Fernández, Psychology, Lima
+Rating: 7/10
+Clinic visited: Policlínica Benavides
+Description: Dr. Elena Fernández was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Elena Fernández, Psychology, Lima
+Rating: 9/10
+Clinic visited: Policlínica Benavides
+Description: I never felt judged by Dr. Elena Fernández when talking about my burnout, and the sessions gave me language for things I could not explain before. At my visit, Dr. Elena Fernández took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 9 for Dr. Elena Fernández, Psychology, Lima
+Rating: 8/10
+Clinic visited: Policlínica Benavides
+Description: The office in Lima is quiet and private, and the receptionist never mentions anything in front of other patients. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Elena Fernández, Psychology, Lima: 8.44/10 from 9 reviews

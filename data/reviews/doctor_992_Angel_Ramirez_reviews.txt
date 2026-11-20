@@ -1,0 +1,54 @@
+Doctor: Dr. Ángel Ramírez
+Doctor ID: 992
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 2
+City: Trujillo, Peru
+Clinics: Clínica Primavera Norte (clinic ID 130)
+
+Review 1 for Dr. Ángel Ramírez, Gastroenterology, Trujillo
+Rating: 7/10
+Clinic visited: Clínica Primavera Norte
+Description: I liked the advice I got from Dr. Ángel Ramírez, but I would have liked more time to ask follow-up questions before the visit ended. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 2 for Dr. Ángel Ramírez, Gastroenterology, Trujillo
+Rating: 7/10
+Clinic visited: Clínica Primavera Norte
+Description: Dr. Ángel Ramírez is thorough, but I waited nearly two months to get the first available slot. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Ángel Ramírez, Gastroenterology, Trujillo
+Rating: 8/10
+Clinic visited: Clínica Primavera Norte
+Description: After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan. Dr. Ángel Ramírez used a calm, steady voice that settled my nerves before a stressful procedure. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Ángel Ramírez, Gastroenterology, Trujillo
+Rating: 9/10
+Clinic visited: Clínica Primavera Norte
+Description: Dr. Ángel Ramírez was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. The receptionist at Clínica Primavera Norte remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 5 for Dr. Ángel Ramírez, Gastroenterology, Trujillo
+Rating: 7/10
+Clinic visited: Clínica Primavera Norte
+Description: Quick appointment and a fair price in Trujillo, but the staff seemed overwhelmed and a bit curt on the phone. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 6 for Dr. Ángel Ramírez, Gastroenterology, Trujillo
+Rating: 10/10
+Clinic visited: Clínica Primavera Norte
+Description: I get regular check-ups for my Crohn's disease, and Dr. Ángel Ramírez adjusts my treatment carefully and always explains why. I felt like a person rather than a case number, and he asked about my life as well as my symptoms. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Ángel Ramírez, Gastroenterology, Trujillo
+Rating: 8/10
+Clinic visited: Clínica Primavera Norte
+Description: I was nervous about my screening, but the team at Clínica Primavera Norte made me feel at ease, and I was home within hours.
+
+Review 8 for Dr. Ángel Ramírez, Gastroenterology, Trujillo
+Rating: 7/10
+Clinic visited: Clínica Primavera Norte
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 9 for Dr. Ángel Ramírez, Gastroenterology, Trujillo
+Rating: 8/10
+Clinic visited: Clínica Primavera Norte
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Overall rating for Dr. Ángel Ramírez, Gastroenterology, Trujillo: 7.89/10 from 9 reviews

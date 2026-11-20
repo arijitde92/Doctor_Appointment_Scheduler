@@ -1,0 +1,69 @@
+Doctor: Dr. Kirill Vasiliev
+Doctor ID: 3695
+Specialization: Pathology
+Gender: Male
+Years of experience: 13
+City: Kazan, Russia
+Clinics: Chistopolskaya Family Polyclinic (clinic ID 477); Klinika Dostoevsky Street (clinic ID 479)
+
+Review 1 for Dr. Kirill Vasiliev, Pathology, Kazan
+Rating: 7/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: The blood draw was painless, but the waiting area at Chistopolskaya Family Polyclinic was crowded in the early morning.
+
+Review 2 for Dr. Kirill Vasiliev, Pathology, Kazan
+Rating: 7/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I liked the advice I got from Dr. Kirill Vasiliev, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Kirill Vasiliev, Pathology, Kazan
+Rating: 5/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Quick appointment and a fair price in Kazan, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Kirill Vasiliev, Pathology, Kazan
+Rating: 6/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 5 for Dr. Kirill Vasiliev, Pathology, Kazan
+Rating: 6/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: Dr. Kirill Vasiliev answered my questions kindly, though the call back took three days.
+
+Review 6 for Dr. Kirill Vasiliev, Pathology, Kazan
+Rating: 5/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Kirill Vasiliev, Pathology, Kazan
+Rating: 6/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: Helpful in clarifying a borderline result, though Dr. Kirill Vasiliev gave little guidance about whether to repeat it.
+
+Review 8 for Dr. Kirill Vasiliev, Pathology, Kazan
+Rating: 4/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: There was no translator available, and my parent was left unable to follow what was being said. My sample was labelled incorrectly and I had to return for a repeat blood draw. I will not be returning and have already started looking for another doctor.
+
+Review 9 for Dr. Kirill Vasiliev, Pathology, Kazan
+Rating: 6/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 10 for Dr. Kirill Vasiliev, Pathology, Kazan
+Rating: 5/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Good bedside manner from Dr. Kirill Vasiliev, but the parking near Klinika Dostoevsky Street is limited and I had to circle for fifteen minutes.
+
+Review 11 for Dr. Kirill Vasiliev, Pathology, Kazan
+Rating: 5/10
+Clinic visited: Klinika Dostoevsky Street
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 12 for Dr. Kirill Vasiliev, Pathology, Kazan
+Rating: 7/10
+Clinic visited: Chistopolskaya Family Polyclinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Kirill Vasiliev, Pathology, Kazan: 5.75/10 from 12 reviews

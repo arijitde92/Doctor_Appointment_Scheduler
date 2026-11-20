@@ -1,0 +1,49 @@
+Doctor: Dr. Karen Cohen
+Doctor ID: 133
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 5
+City: Chicago, USA
+Clinics: Windy City Urgent and Primary Care (clinic ID 19)
+
+Review 1 for Dr. Karen Cohen, Psychiatry, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Excellent at explaining how therapy and medication work together, and Dr. Karen Cohen coordinated with my counselor.
+
+Review 2 for Dr. Karen Cohen, Psychiatry, Chicago
+Rating: 6/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Quick appointment and a fair price in Chicago, but the staff seemed overwhelmed and a bit curt on the phone. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Karen Cohen, Psychiatry, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Dr. Karen Cohen used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 4 for Dr. Karen Cohen, Psychiatry, Chicago
+Rating: 7/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 5 for Dr. Karen Cohen, Psychiatry, Chicago
+Rating: 9/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. Getting to Windy City Urgent and Primary Care by public transport in Chicago was easy, and there is a step-free entrance for wheelchairs. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Karen Cohen, Psychiatry, Chicago
+Rating: 6/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 7 for Dr. Karen Cohen, Psychiatry, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Dr. Karen Cohen looked me in the eye, listened to the whole story and only then started typing. I felt heard by Dr. Karen Cohen during a very hard time, and nobody rushed me out of the room. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Karen Cohen, Psychiatry, Chicago
+Rating: 5/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Good listener, yet the refill process at Windy City Urgent and Primary Care is slow and requires several phone calls.
+
+Overall rating for Dr. Karen Cohen, Psychiatry, Chicago: 7.12/10 from 8 reviews

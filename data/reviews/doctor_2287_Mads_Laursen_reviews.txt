@@ -1,0 +1,64 @@
+Doctor: Dr. Mads Laursen
+Doctor ID: 2287
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 7
+City: Aalborg, Denmark
+Clinics: Klinik Sofiendal Aalborg (clinic ID 299)
+
+Review 1 for Dr. Mads Laursen, Gastroenterology, Aalborg
+Rating: 4/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: There was no translator available, and my parent was left unable to follow what was being said. Dr. Mads Laursen spent very little time explaining the biopsy findings and I left worried and confused. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 2 for Dr. Mads Laursen, Gastroenterology, Aalborg
+Rating: 8/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Mads Laursen, Gastroenterology, Aalborg
+Rating: 6/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Dr. Mads Laursen is thorough, but I waited nearly two months to get the first available slot. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Mads Laursen, Gastroenterology, Aalborg
+Rating: 7/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 5 for Dr. Mads Laursen, Gastroenterology, Aalborg
+Rating: 8/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: A gentle, respectful manner from Dr. Mads Laursen made a very awkward exam bearable, with every step explained before it happened. Prescriptions from Dr. Mads Laursen were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Mads Laursen, Gastroenterology, Aalborg
+Rating: 7/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Mads Laursen, Gastroenterology, Aalborg
+Rating: 7/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 8 for Dr. Mads Laursen, Gastroenterology, Aalborg
+Rating: 9/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed.
+
+Review 9 for Dr. Mads Laursen, Gastroenterology, Aalborg
+Rating: 7/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Mads Laursen, Gastroenterology, Aalborg
+Rating: 6/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 11 for Dr. Mads Laursen, Gastroenterology, Aalborg
+Rating: 8/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Dr. Mads Laursen drew a quick sketch to explain what was going on, which helped me remember it afterwards. My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Mads Laursen, Gastroenterology, Aalborg: 7.00/10 from 11 reviews

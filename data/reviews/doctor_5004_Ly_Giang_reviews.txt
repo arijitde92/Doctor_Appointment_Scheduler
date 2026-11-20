@@ -1,0 +1,49 @@
+Doctor: Dr. Ly Giang
+Doctor ID: 5004
+Specialization: General
+Gender: Female
+Years of experience: 11
+City: Hanoi, Vietnam
+Clinics: Phong Kham Gia Dinh Tam Duc (clinic ID 647)
+
+Review 1 for Dr. Ly Giang, General, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 2 for Dr. Ly Giang, General, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Booking was easy online, but the confirmation email contained the wrong address for Phong Kham Gia Dinh Tam Duc.
+
+Review 3 for Dr. Ly Giang, General, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Vaccination advice from Dr. Ly Giang for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 4 for Dr. Ly Giang, General, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Ly Giang, General, Hanoi
+Rating: 4/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: My visit with Dr. Ly Giang lasted barely six minutes, and I left with more questions than I arrived with.
+
+Review 6 for Dr. Ly Giang, General, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Phong Kham Gia Dinh Tam Duc were inconsistent. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Ly Giang, General, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: I liked the advice I got from Dr. Ly Giang, but I would have liked more time to ask follow-up questions before the visit ended. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Ly Giang, General, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: By the time I left the room, Dr. Ly Giang had sorted the sick note, referral letter and prescription refill. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Ly Giang, General, Hanoi: 6.50/10 from 8 reviews

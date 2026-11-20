@@ -1,0 +1,59 @@
+Doctor: Dr. Bart Vandenberghe
+Doctor ID: 3155
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 14
+City: Liege, Belgium
+Clinics: Centre Médical Saint-Lambert (clinic ID 410); Clinique des Vennes (clinic ID 413)
+
+Review 1 for Dr. Bart Vandenberghe, Psychiatry, Liege
+Rating: 8/10
+Clinic visited: Centre Médical Saint-Lambert
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Bart Vandenberghe, Psychiatry, Liege
+Rating: 9/10
+Clinic visited: Clinique des Vennes
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 3 for Dr. Bart Vandenberghe, Psychiatry, Liege
+Rating: 4/10
+Clinic visited: Clinique des Vennes
+Description: I was not told about common side effects by Dr. Bart Vandenberghe, and I had a rough first two weeks that could have been avoided. Dr. Bart Vandenberghe did not seem to have read my notes and asked me to repeat my whole history from the beginning. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 4 for Dr. Bart Vandenberghe, Psychiatry, Liege
+Rating: 7/10
+Clinic visited: Centre Médical Saint-Lambert
+Description: Dr. Bart Vandenberghe was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Bart Vandenberghe, Psychiatry, Liege
+Rating: 8/10
+Clinic visited: Clinique des Vennes
+Description: I felt heard by Dr. Bart Vandenberghe during a very hard time, and nobody rushed me out of the room. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 6 for Dr. Bart Vandenberghe, Psychiatry, Liege
+Rating: 7/10
+Clinic visited: Clinique des Vennes
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Bart Vandenberghe, Psychiatry, Liege
+Rating: 10/10
+Clinic visited: Clinique des Vennes
+Description: Appointments in Liege are always on schedule, and the waiting area is peaceful and private. Paperwork at Clinique des Vennes was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 8 for Dr. Bart Vandenberghe, Psychiatry, Liege
+Rating: 7/10
+Clinic visited: Clinique des Vennes
+Description: Dr. Bart Vandenberghe is knowledgeable, though I waited several weeks for my first appointment. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Bart Vandenberghe, Psychiatry, Liege
+Rating: 7/10
+Clinic visited: Clinique des Vennes
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 10 for Dr. Bart Vandenberghe, Psychiatry, Liege
+Rating: 10/10
+Clinic visited: Centre Médical Saint-Lambert
+Description: My depression finally has a treatment plan from Dr. Bart Vandenberghe that works, with regular check-ins and careful dose changes. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Overall rating for Dr. Bart Vandenberghe, Psychiatry, Liege: 7.70/10 from 10 reviews

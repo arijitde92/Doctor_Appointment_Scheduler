@@ -1,0 +1,49 @@
+Doctor: Dr. Daniel Castro
+Doctor ID: 734
+Specialization: Psychology
+Gender: Male
+Years of experience: 1
+City: Buenos Aires, Argentina
+Clinics: Consultorios Médicos Caballito (clinic ID 97)
+
+Review 1 for Dr. Daniel Castro, Psychology, Buenos Aires
+Rating: 9/10
+Clinic visited: Consultorios Médicos Caballito
+Description: He has a calm way of asking the difficult questions that makes it feel safe to answer honestly. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 2 for Dr. Daniel Castro, Psychology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Daniel Castro, Psychology, Buenos Aires
+Rating: 6/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Dr. Daniel Castro listens well, though some sessions felt like a recap of the previous one without much new direction. I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Daniel Castro, Psychology, Buenos Aires
+Rating: 8/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Working through my grief felt guided but never forced, and we always ended each session with something concrete to try.
+
+Review 5 for Dr. Daniel Castro, Psychology, Buenos Aires
+Rating: 8/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Sessions with Dr. Daniel Castro start on time and end on time, which is a small thing that made me feel respected.
+
+Review 6 for Dr. Daniel Castro, Psychology, Buenos Aires
+Rating: 9/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Couples therapy at Consultorios Médicos Caballito helped us stop repeating the same argument. We now have a way to pause and listen. The practice in Buenos Aires is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 7 for Dr. Daniel Castro, Psychology, Buenos Aires
+Rating: 9/10
+Clinic visited: Consultorios Médicos Caballito
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Daniel Castro designed around my actual job. I appreciated that he offered more than one option and let me choose what suited my life. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Daniel Castro, Psychology, Buenos Aires
+Rating: 8/10
+Clinic visited: Consultorios Médicos Caballito
+Description: At my visit, Dr. Daniel Castro took notes on my medication list, checked for interactions and explained the changes simply.
+
+Overall rating for Dr. Daniel Castro, Psychology, Buenos Aires: 8.00/10 from 8 reviews

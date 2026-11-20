@@ -1,0 +1,69 @@
+Doctor: Dr. Hu Mei
+Doctor ID: 3873
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 30
+City: Guangzhou, China
+Clinics: Tianhe Kangle Medical Centre (clinic ID 500)
+
+Review 1 for Dr. Hu Mei, Gastroenterology, Guangzhou
+Rating: 6/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: Quick appointment and a fair price in Guangzhou, but the staff seemed overwhelmed and a bit curt on the phone. Knowledgeable about my reflux, Dr. Hu Mei still gave diet advice that felt generic and not tailored to my habits.
+
+Review 2 for Dr. Hu Mei, Gastroenterology, Guangzhou
+Rating: 9/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: I was called in within five minutes of my appointment time at Tianhe Kangle Medical Centre, which is rare and much appreciated.
+
+Review 3 for Dr. Hu Mei, Gastroenterology, Guangzhou
+Rating: 10/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: At my visit, Dr. Hu Mei took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 4 for Dr. Hu Mei, Gastroenterology, Guangzhou
+Rating: 9/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: I get regular check-ups for my Crohn's disease, and Dr. Hu Mei adjusts my treatment carefully and always explains why. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Hu Mei, Gastroenterology, Guangzhou
+Rating: 8/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: After years of undiagnosed stomach pain, she identified celiac disease with the right blood tests and a careful plan.
+
+Review 6 for Dr. Hu Mei, Gastroenterology, Guangzhou
+Rating: 9/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: I was nervous about my screening, but the team at Tianhe Kangle Medical Centre made me feel at ease, and I was home within hours.
+
+Review 7 for Dr. Hu Mei, Gastroenterology, Guangzhou
+Rating: 6/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 8 for Dr. Hu Mei, Gastroenterology, Guangzhou
+Rating: 7/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 9 for Dr. Hu Mei, Gastroenterology, Guangzhou
+Rating: 7/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: Dr. Hu Mei is thorough, but I waited nearly two months to get the first available slot.
+
+Review 10 for Dr. Hu Mei, Gastroenterology, Guangzhou
+Rating: 7/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 11 for Dr. Hu Mei, Gastroenterology, Guangzhou
+Rating: 7/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Worth trying, but I would not call it the best option in the area.
+
+Review 12 for Dr. Hu Mei, Gastroenterology, Guangzhou
+Rating: 7/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Hu Mei, Gastroenterology, Guangzhou: 7.67/10 from 12 reviews

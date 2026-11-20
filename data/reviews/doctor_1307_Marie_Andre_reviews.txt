@@ -1,0 +1,54 @@
+Doctor: Dr. Marie André
+Doctor ID: 1307
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 19
+City: Toulouse, France
+Clinics: Centre Médical du Capitole (clinic ID 170); Clinique des Minimes (clinic ID 172); Centre de Santé Compans (clinic ID 173)
+
+Review 1 for Dr. Marie André, Pediatrics, Toulouse
+Rating: 8/10
+Clinic visited: Centre Médical du Capitole
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Everything was explained in plain English by Dr. Marie André, and nothing was left to guess.
+
+Review 2 for Dr. Marie André, Pediatrics, Toulouse
+Rating: 9/10
+Clinic visited: Centre Médical du Capitole
+Description: My toddler was terrified of doctors, but Dr. Marie André sat on the floor, played with a stuffed toy and examined everything without a single tear.
+
+Review 3 for Dr. Marie André, Pediatrics, Toulouse
+Rating: 7/10
+Clinic visited: Clinique des Minimes
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. I liked the advice I got from Dr. Marie André, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Marie André, Pediatrics, Toulouse
+Rating: 7/10
+Clinic visited: Centre Médical du Capitole
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Dr. Marie André was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Marie André, Pediatrics, Toulouse
+Rating: 7/10
+Clinic visited: Clinique des Minimes
+Description: Dr. Marie André is thorough with exams, but the after-hours phone line at Clinique des Minimes is hard to reach. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Marie André, Pediatrics, Toulouse
+Rating: 6/10
+Clinic visited: Centre Médical du Capitole
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Dr. Marie André was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Marie André, Pediatrics, Toulouse
+Rating: 6/10
+Clinic visited: Centre de Santé Compans
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. The doctor was kind, though the clinic's evening hours are very limited for working people. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Marie André, Pediatrics, Toulouse
+Rating: 7/10
+Clinic visited: Clinique des Minimes
+Description: Caring and gentle with my child, Dr. Marie André nonetheless ran forty minutes behind schedule at most appointments. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Marie André, Pediatrics, Toulouse
+Rating: 9/10
+Clinic visited: Clinique des Minimes
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Marie André felt well organized from start to finish.
+
+Overall rating for Dr. Marie André, Pediatrics, Toulouse: 7.33/10 from 9 reviews

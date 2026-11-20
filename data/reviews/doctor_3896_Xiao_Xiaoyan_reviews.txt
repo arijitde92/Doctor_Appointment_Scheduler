@@ -1,0 +1,54 @@
+Doctor: Dr. Xiao Xiaoyan
+Doctor ID: 3896
+Specialization: General
+Gender: Female
+Years of experience: 14
+City: Guangzhou, China
+Clinics: Jiangnan Hengkang Polyclinic (clinic ID 503)
+
+Review 1 for Dr. Xiao Xiaoyan, General, Guangzhou
+Rating: 8/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 2 for Dr. Xiao Xiaoyan, General, Guangzhou
+Rating: 7/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Jiangnan Hengkang Polyclinic were inconsistent. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Xiao Xiaoyan, General, Guangzhou
+Rating: 10/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: I always hear back within a day when I leave a question with the nurse at Jiangnan Hengkang Polyclinic, and Dr. Xiao Xiaoyan follows up on lab results personally. Booking online at Jiangnan Hengkang Polyclinic was simple, and I got a confirmation text with clear directions and a reminder the day before. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Xiao Xiaoyan, General, Guangzhou
+Rating: 9/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Dr. Xiao Xiaoyan double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Xiao Xiaoyan, General, Guangzhou
+Rating: 10/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: My annual check-up with Dr. Xiao Xiaoyan took forty minutes, with every screening explained and nothing rushed. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 6 for Dr. Xiao Xiaoyan, General, Guangzhou
+Rating: 10/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: By the time I left the room, Dr. Xiao Xiaoyan had sorted the sick note, referral letter and prescription refill.
+
+Review 7 for Dr. Xiao Xiaoyan, General, Guangzhou
+Rating: 9/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. The receptionist at Jiangnan Hengkang Polyclinic remembered my name and had my forms ready, so check-in took less than a minute. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Xiao Xiaoyan, General, Guangzhou
+Rating: 10/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Paperwork at Jiangnan Hengkang Polyclinic was kept to a minimum, and the staff helped me complete the insurance form. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 9 for Dr. Xiao Xiaoyan, General, Guangzhou
+Rating: 6/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Good bedside manner from Dr. Xiao Xiaoyan, but the parking near Jiangnan Hengkang Polyclinic is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Xiao Xiaoyan, General, Guangzhou: 8.78/10 from 9 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Charlie Davies
+Doctor ID: 1160
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 19
+City: Manchester, UK
+Clinics: Portland Health Centre (clinic ID 151)
+
+Review 1 for Dr. Charlie Davies, Psychiatry, Manchester
+Rating: 10/10
+Clinic visited: Portland Health Centre
+Description: Dr. Charlie Davies double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Dr. Charlie Davies took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 2 for Dr. Charlie Davies, Psychiatry, Manchester
+Rating: 9/10
+Clinic visited: Portland Health Centre
+Description: I was given a printed summary of the visit, which I shared with my family at home. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Charlie Davies, Psychiatry, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: My depression finally has a treatment plan from Dr. Charlie Davies that works, with regular check-ins and careful dose changes. Dr. Charlie Davies drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Charlie Davies, Psychiatry, Manchester
+Rating: 10/10
+Clinic visited: Portland Health Centre
+Description: Prescriptions from Dr. Charlie Davies were sent to my pharmacy before I even left the building, and the dosage instructions were written down. The ADHD assessment by Dr. Charlie Davies was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 5 for Dr. Charlie Davies, Psychiatry, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: My family was included in a session at my request, and Dr. Charlie Davies handled it with great tact. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 6 for Dr. Charlie Davies, Psychiatry, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Everything about the care was decent, but the cost was higher than I expected for a short appointment. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Charlie Davies, Psychiatry, Manchester
+Rating: 9/10
+Clinic visited: Portland Health Centre
+Description: Never once did Dr. Charlie Davies make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 8 for Dr. Charlie Davies, Psychiatry, Manchester
+Rating: 10/10
+Clinic visited: Portland Health Centre
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 9 for Dr. Charlie Davies, Psychiatry, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: Good bedside manner from Dr. Charlie Davies, but the parking near Portland Health Centre is limited and I had to circle for fifteen minutes.
+
+Review 10 for Dr. Charlie Davies, Psychiatry, Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Charlie Davies, Psychiatry, Manchester: 8.40/10 from 10 reviews

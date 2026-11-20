@@ -1,0 +1,59 @@
+Doctor: Dr. Daniela Alves
+Doctor ID: 697
+Specialization: Pathology
+Gender: Female
+Years of experience: 28
+City: Sao Paulo, Brazil
+Clinics: Policlínica Paulista Vida (clinic ID 92)
+
+Review 1 for Dr. Daniela Alves, Pathology, Sao Paulo
+Rating: 9/10
+Clinic visited: Policlínica Paulista Vida
+Description: The lab under Dr. Daniela Alves was clean, organized and never overbooked, and results arrived exactly when promised. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Daniela Alves, Pathology, Sao Paulo
+Rating: 8/10
+Clinic visited: Policlínica Paulista Vida
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 3 for Dr. Daniela Alves, Pathology, Sao Paulo
+Rating: 8/10
+Clinic visited: Policlínica Paulista Vida
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. The practice in Sao Paulo is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 4 for Dr. Daniela Alves, Pathology, Sao Paulo
+Rating: 10/10
+Clinic visited: Policlínica Paulista Vida
+Description: Allergy panel results were explained in detail by Dr. Daniela Alves, with a note on which results mattered clinically and which did not. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 5 for Dr. Daniela Alves, Pathology, Sao Paulo
+Rating: 6/10
+Clinic visited: Policlínica Paulista Vida
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Helpful in clarifying a borderline result, though Dr. Daniela Alves gave little guidance about whether to repeat it.
+
+Review 6 for Dr. Daniela Alves, Pathology, Sao Paulo
+Rating: 6/10
+Clinic visited: Policlínica Paulista Vida
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I liked the advice I got from Dr. Daniela Alves, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Daniela Alves, Pathology, Sao Paulo
+Rating: 7/10
+Clinic visited: Policlínica Paulista Vida
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Dr. Daniela Alves was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Daniela Alves, Pathology, Sao Paulo
+Rating: 8/10
+Clinic visited: Policlínica Paulista Vida
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Daniela Alves, Pathology, Sao Paulo
+Rating: 7/10
+Clinic visited: Policlínica Paulista Vida
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 10 for Dr. Daniela Alves, Pathology, Sao Paulo
+Rating: 9/10
+Clinic visited: Policlínica Paulista Vida
+Description: Dr. Daniela Alves took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. I was called in within five minutes of my appointment time at Policlínica Paulista Vida, which is rare and much appreciated. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Daniela Alves, Pathology, Sao Paulo: 7.80/10 from 10 reviews

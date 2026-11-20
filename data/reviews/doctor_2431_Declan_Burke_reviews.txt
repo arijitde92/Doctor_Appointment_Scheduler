@@ -1,0 +1,59 @@
+Doctor: Dr. Declan Burke
+Doctor ID: 2431
+Specialization: Radiology
+Gender: Male
+Years of experience: 27
+City: Cork, Ireland
+Clinics: Blackpool Polyclinic (clinic ID 318)
+
+Review 1 for Dr. Declan Burke, Radiology, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: Dr. Declan Burke looked me in the eye, listened to the whole story and only then started typing. Parking was simple, the waiting room was calm, and I never felt like a number.
+
+Review 2 for Dr. Declan Burke, Radiology, Cork
+Rating: 9/10
+Clinic visited: Blackpool Polyclinic
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 3 for Dr. Declan Burke, Radiology, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: Dr. Declan Burke used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 4 for Dr. Declan Burke, Radiology, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Declan Burke sent a clear report within a day.
+
+Review 5 for Dr. Declan Burke, Radiology, Cork
+Rating: 8/10
+Clinic visited: Blackpool Polyclinic
+Description: Booking a CT scan online at Blackpool Polyclinic took two minutes, and I was in and out within forty minutes.
+
+Review 6 for Dr. Declan Burke, Radiology, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: Everything was explained in plain English by Dr. Declan Burke, and nothing was left to guess. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Declan Burke, Radiology, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 8 for Dr. Declan Burke, Radiology, Cork
+Rating: 9/10
+Clinic visited: Blackpool Polyclinic
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 9 for Dr. Declan Burke, Radiology, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: Fast, clean and professional; the bone density scan with Dr. Declan Burke was painless and the results were explained clearly. I was called in within five minutes of my appointment time at Blackpool Polyclinic, which is rare and much appreciated.
+
+Review 10 for Dr. Declan Burke, Radiology, Cork
+Rating: 8/10
+Clinic visited: Blackpool Polyclinic
+Description: Reviewing my X-ray together with Dr. Declan Burke on the screen made it much easier to understand my arthritis. The receptionist at Blackpool Polyclinic remembered my name and had my forms ready, so check-in took less than a minute. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Declan Burke, Radiology, Cork: 9.40/10 from 10 reviews

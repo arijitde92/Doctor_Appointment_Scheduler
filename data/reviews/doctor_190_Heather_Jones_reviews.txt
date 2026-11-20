@@ -1,0 +1,64 @@
+Doctor: Dr. Heather Jones
+Doctor ID: 190
+Specialization: Neurology
+Gender: Female
+Years of experience: 20
+City: New York, USA
+Clinics: Midtown Family Medical Group (clinic ID 26); Union Square Health Practice (clinic ID 27); Brooklyn Heights Wellness Clinic (clinic ID 28)
+
+Review 1 for Dr. Heather Jones, Neurology, New York
+Rating: 5/10
+Clinic visited: Midtown Family Medical Group
+Description: Quick appointment and a fair price in New York, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Heather Jones explained my results well, although the visit felt short for such a complex condition.
+
+Review 2 for Dr. Heather Jones, Neurology, New York
+Rating: 7/10
+Clinic visited: Union Square Health Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Heather Jones, Neurology, New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Supportive about my diagnosis, yet follow-up appointments with Dr. Heather Jones at Midtown Family Medical Group are difficult to schedule.
+
+Review 4 for Dr. Heather Jones, Neurology, New York
+Rating: 7/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Heather Jones, Neurology, New York
+Rating: 5/10
+Clinic visited: Midtown Family Medical Group
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Heather Jones, Neurology, New York
+Rating: 5/10
+Clinic visited: Union Square Health Practice
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Heather Jones, Neurology, New York
+Rating: 8/10
+Clinic visited: Union Square Health Practice
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 8 for Dr. Heather Jones, Neurology, New York
+Rating: 6/10
+Clinic visited: Union Square Health Practice
+Description: I liked the advice I got from Dr. Heather Jones, but I would have liked more time to ask follow-up questions before the visit ended. Careful assessment of my memory issues, though I would have liked more information on support services. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Heather Jones, Neurology, New York
+Rating: 3/10
+Clinic visited: Midtown Family Medical Group
+Description: The bill included tests that I had never been told about, and nobody could explain them.
+
+Review 10 for Dr. Heather Jones, Neurology, New York
+Rating: 6/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 11 for Dr. Heather Jones, Neurology, New York
+Rating: 8/10
+Clinic visited: Union Square Health Practice
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. She patiently explained my MRI findings and calmed my worries about memory problems. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Heather Jones, Neurology, New York: 6.09/10 from 11 reviews

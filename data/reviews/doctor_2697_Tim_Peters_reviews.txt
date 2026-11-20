@@ -1,0 +1,59 @@
+Doctor: Dr. Tim Peters
+Doctor ID: 2697
+Specialization: Radiology
+Gender: Male
+Years of experience: 27
+City: Utrecht, Netherlands
+Clinics: Polikliniek Wittevrouwen (clinic ID 353)
+
+Review 1 for Dr. Tim Peters, Radiology, Utrecht
+Rating: 10/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: Booking a CT scan online at Polikliniek Wittevrouwen took two minutes, and I was in and out within forty minutes.
+
+Review 2 for Dr. Tim Peters, Radiology, Utrecht
+Rating: 9/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Review 3 for Dr. Tim Peters, Radiology, Utrecht
+Rating: 7/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Tim Peters, Radiology, Utrecht
+Rating: 9/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: When my scan showed something that needed a second look, Dr. Tim Peters arranged the follow-up the same day. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 5 for Dr. Tim Peters, Radiology, Utrecht
+Rating: 9/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Tim Peters were respectful throughout. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Tim Peters, Radiology, Utrecht
+Rating: 10/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: Prescriptions from Dr. Tim Peters were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Tim Peters, Radiology, Utrecht
+Rating: 8/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Tim Peters, Radiology, Utrecht
+Rating: 10/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Tim Peters, Radiology, Utrecht
+Rating: 8/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 10 for Dr. Tim Peters, Radiology, Utrecht
+Rating: 9/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: Fast, clean and professional; the bone density scan with Dr. Tim Peters was painless and the results were explained clearly. I was called in within five minutes of my appointment time at Polikliniek Wittevrouwen, which is rare and much appreciated.
+
+Overall rating for Dr. Tim Peters, Radiology, Utrecht: 8.90/10 from 10 reviews

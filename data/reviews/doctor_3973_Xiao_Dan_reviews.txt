@@ -1,0 +1,59 @@
+Doctor: Dr. Xiao Dan
+Doctor ID: 3973
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 22
+City: Shenzhen, China
+Clinics: Luohu Family Health Practice (clinic ID 512); Shennan Hengxin Polyclinic (clinic ID 513)
+
+Review 1 for Dr. Xiao Dan, Pediatrics, Shenzhen
+Rating: 7/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Clear explanations, but the follow-up call took a week longer than I had been told. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Xiao Dan, Pediatrics, Shenzhen
+Rating: 5/10
+Clinic visited: Luohu Family Health Practice
+Description: Dr. Xiao Dan was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Xiao Dan, Pediatrics, Shenzhen
+Rating: 9/10
+Clinic visited: Luohu Family Health Practice
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. We got a same-day appointment for a high fever, and the care at Luohu Family Health Practice was kind and efficient.
+
+Review 4 for Dr. Xiao Dan, Pediatrics, Shenzhen
+Rating: 10/10
+Clinic visited: Luohu Family Health Practice
+Description: The school physical at Luohu Family Health Practice was quick, thorough and the forms were completed on the spot.
+
+Review 5 for Dr. Xiao Dan, Pediatrics, Shenzhen
+Rating: 7/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Dr. Xiao Dan is thorough with exams, but the after-hours phone line at Shennan Hengxin Polyclinic is hard to reach. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Xiao Dan, Pediatrics, Shenzhen
+Rating: 8/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: My toddler was terrified of doctors, but Dr. Xiao Dan sat on the floor, played with a stuffed toy and examined everything without a single tear.
+
+Review 7 for Dr. Xiao Dan, Pediatrics, Shenzhen
+Rating: 8/10
+Clinic visited: Luohu Family Health Practice
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 8 for Dr. Xiao Dan, Pediatrics, Shenzhen
+Rating: 6/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: I got what I needed, but the next available appointment was three weeks away. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 9 for Dr. Xiao Dan, Pediatrics, Shenzhen
+Rating: 7/10
+Clinic visited: Luohu Family Health Practice
+Description: Dr. Xiao Dan was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Caring and gentle with my child, Dr. Xiao Dan nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 10 for Dr. Xiao Dan, Pediatrics, Shenzhen
+Rating: 7/10
+Clinic visited: Luohu Family Health Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Overall rating for Dr. Xiao Dan, Pediatrics, Shenzhen: 7.40/10 from 10 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Jean Roux
+Doctor ID: 1334
+Specialization: Pathology
+Gender: Male
+Years of experience: 8
+City: Toulouse, France
+Clinics: Polyclinique de Rangueil (clinic ID 174)
+
+Review 1 for Dr. Jean Roux, Pathology, Toulouse
+Rating: 6/10
+Clinic visited: Polyclinique de Rangueil
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Jean Roux, Pathology, Toulouse
+Rating: 7/10
+Clinic visited: Polyclinique de Rangueil
+Description: Helpful in clarifying a borderline result, though Dr. Jean Roux gave little guidance about whether to repeat it. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Jean Roux, Pathology, Toulouse
+Rating: 8/10
+Clinic visited: Polyclinique de Rangueil
+Description: The staff and Dr. Jean Roux patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Review 4 for Dr. Jean Roux, Pathology, Toulouse
+Rating: 6/10
+Clinic visited: Polyclinique de Rangueil
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Jean Roux, Pathology, Toulouse
+Rating: 10/10
+Clinic visited: Polyclinique de Rangueil
+Description: Dr. Jean Roux drew a quick sketch to explain what was going on, which helped me remember it afterwards. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Jean Roux, Pathology, Toulouse
+Rating: 6/10
+Clinic visited: Polyclinique de Rangueil
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 7 for Dr. Jean Roux, Pathology, Toulouse
+Rating: 6/10
+Clinic visited: Polyclinique de Rangueil
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Jean Roux, Pathology, Toulouse
+Rating: 7/10
+Clinic visited: Polyclinique de Rangueil
+Description: The blood draw was painless, but the waiting area at Polyclinique de Rangueil was crowded in the early morning. Dr. Jean Roux was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 9 for Dr. Jean Roux, Pathology, Toulouse
+Rating: 6/10
+Clinic visited: Polyclinique de Rangueil
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Good bedside manner from Dr. Jean Roux, but the parking near Polyclinique de Rangueil is limited and I had to circle for fifteen minutes.
+
+Review 10 for Dr. Jean Roux, Pathology, Toulouse
+Rating: 7/10
+Clinic visited: Polyclinique de Rangueil
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Jean Roux answered my questions kindly, though the call back took three days.
+
+Overall rating for Dr. Jean Roux, Pathology, Toulouse: 6.90/10 from 10 reviews

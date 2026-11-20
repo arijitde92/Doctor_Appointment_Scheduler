@@ -1,0 +1,64 @@
+Doctor: Dr. Wu Tzu-chi
+Doctor ID: 4385
+Specialization: Radiology
+Gender: Female
+Years of experience: 11
+City: Tainan, Taiwan
+Clinics: Anping Haiyun Medical Clinic (clinic ID 565)
+
+Review 1 for Dr. Wu Tzu-chi, Radiology, Tainan
+Rating: 6/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Wu Tzu-chi, Radiology, Tainan
+Rating: 9/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 3 for Dr. Wu Tzu-chi, Radiology, Tainan
+Rating: 8/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 4 for Dr. Wu Tzu-chi, Radiology, Tainan
+Rating: 9/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: The staff at Anping Haiyun Medical Clinic in Tainan explained the contrast dye and its side effects before I signed anything. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 5 for Dr. Wu Tzu-chi, Radiology, Tainan
+Rating: 7/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Wu Tzu-chi, Radiology, Tainan
+Rating: 8/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: Booking a CT scan online at Anping Haiyun Medical Clinic took two minutes, and I was in and out within forty minutes. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Wu Tzu-chi, Radiology, Tainan
+Rating: 8/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 8 for Dr. Wu Tzu-chi, Radiology, Tainan
+Rating: 9/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: A translator was arranged for my mother without us asking twice, and Dr. Wu Tzu-chi spoke directly to her throughout.
+
+Review 9 for Dr. Wu Tzu-chi, Radiology, Tainan
+Rating: 7/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Wu Tzu-chi answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 10 for Dr. Wu Tzu-chi, Radiology, Tainan
+Rating: 8/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: Reviewing my X-ray together with Dr. Wu Tzu-chi on the screen made it much easier to understand my arthritis.
+
+Review 11 for Dr. Wu Tzu-chi, Radiology, Tainan
+Rating: 8/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. When my scan showed something that needed a second look, Dr. Wu Tzu-chi arranged the follow-up the same day. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Wu Tzu-chi, Radiology, Tainan: 7.91/10 from 11 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. José Lima
+Doctor ID: 564
+Specialization: Radiology
+Gender: Male
+Years of experience: 28
+City: Belo Horizonte, Brazil
+Clinics: Centro Médico Contorno (clinic ID 76)
+
+Review 1 for Dr. José Lima, Radiology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Centro Médico Contorno
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. José Lima, Radiology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Centro Médico Contorno
+Description: Reviewing my X-ray together with Dr. José Lima on the screen made it much easier to understand my arthritis. Getting to Centro Médico Contorno by public transport in Belo Horizonte was easy, and there is a step-free entrance for wheelchairs.
+
+Review 3 for Dr. José Lima, Radiology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Centro Médico Contorno
+Description: The report from Dr. José Lima was detailed but written so a non-medical person could follow it, with a short summary at the top. Dr. José Lima used a calm, steady voice that settled my nerves before a stressful procedure. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. José Lima, Radiology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Centro Médico Contorno
+Description: Dr. José Lima compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 5 for Dr. José Lima, Radiology, Belo Horizonte
+Rating: 10/10
+Clinic visited: Centro Médico Contorno
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. Dr. José Lima double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 6 for Dr. José Lima, Radiology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Centro Médico Contorno
+Description: Quick appointment and a fair price in Belo Horizonte, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. José Lima, Radiology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Centro Médico Contorno
+Description: The report from Dr. José Lima was thorough, though full of technical terms that needed my regular doctor to translate. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. José Lima, Radiology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Centro Médico Contorno
+Description: Dr. José Lima answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. I got what I needed, but the next available appointment was three weeks away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. José Lima, Radiology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Centro Médico Contorno
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. José Lima sent a clear report within a day. The nurse was friendly and efficient, and the whole visit with Dr. José Lima felt well organized from start to finish.
+
+Review 10 for Dr. José Lima, Radiology, Belo Horizonte
+Rating: 6/10
+Clinic visited: Centro Médico Contorno
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 11 for Dr. José Lima, Radiology, Belo Horizonte
+Rating: 5/10
+Clinic visited: Centro Médico Contorno
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. José Lima, Radiology, Belo Horizonte: 7.64/10 from 11 reviews

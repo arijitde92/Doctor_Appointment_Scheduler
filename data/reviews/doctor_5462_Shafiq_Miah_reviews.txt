@@ -1,0 +1,49 @@
+Doctor: Dr. Shafiq Miah
+Doctor ID: 5462
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 4
+City: Khulna, Bangladesh
+Clinics: Bhairab Care Polyclinic (clinic ID 707)
+
+Review 1 for Dr. Shafiq Miah, Gastroenterology, Khulna
+Rating: 7/10
+Clinic visited: Bhairab Care Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Shafiq Miah, Gastroenterology, Khulna
+Rating: 8/10
+Clinic visited: Bhairab Care Polyclinic
+Description: Helpful dietitian referral from Dr. Shafiq Miah and written guidance for living with ulcerative colitis.
+
+Review 3 for Dr. Shafiq Miah, Gastroenterology, Khulna
+Rating: 5/10
+Clinic visited: Bhairab Care Polyclinic
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Shafiq Miah, Gastroenterology, Khulna
+Rating: 9/10
+Clinic visited: Bhairab Care Polyclinic
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 5 for Dr. Shafiq Miah, Gastroenterology, Khulna
+Rating: 6/10
+Clinic visited: Bhairab Care Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 6 for Dr. Shafiq Miah, Gastroenterology, Khulna
+Rating: 6/10
+Clinic visited: Bhairab Care Polyclinic
+Description: Dr. Shafiq Miah was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Shafiq Miah, Gastroenterology, Khulna
+Rating: 7/10
+Clinic visited: Bhairab Care Polyclinic
+Description: Dr. Shafiq Miah is thorough, but I waited nearly two months to get the first available slot.
+
+Review 8 for Dr. Shafiq Miah, Gastroenterology, Khulna
+Rating: 7/10
+Clinic visited: Bhairab Care Polyclinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Shafiq Miah, Gastroenterology, Khulna: 6.88/10 from 8 reviews

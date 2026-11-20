@@ -1,0 +1,54 @@
+Doctor: Dr. Marcos Santos
+Doctor ID: 701
+Specialization: Neurology
+Gender: Male
+Years of experience: 1
+City: Sao Paulo, Brazil
+Clinics: Clínica Santo Amaro Integrada (clinic ID 93)
+
+Review 1 for Dr. Marcos Santos, Neurology, Sao Paulo
+Rating: 8/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Marcos Santos, Neurology, Sao Paulo
+Rating: 6/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: Dr. Marcos Santos was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Marcos Santos, Neurology, Sao Paulo
+Rating: 9/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: The memory assessment for my father at Clínica Santo Amaro Integrada was gentle and respectful, and the family received a clear written summary. A translator was arranged for my mother without us asking twice, and Dr. Marcos Santos spoke directly to her throughout.
+
+Review 4 for Dr. Marcos Santos, Neurology, Sao Paulo
+Rating: 9/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Clínica Santo Amaro Integrada.
+
+Review 5 for Dr. Marcos Santos, Neurology, Sao Paulo
+Rating: 7/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 6 for Dr. Marcos Santos, Neurology, Sao Paulo
+Rating: 8/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: Appointment reminders came by text and email, and rescheduling took two taps. The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 7 for Dr. Marcos Santos, Neurology, Sao Paulo
+Rating: 9/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: Living with multiple sclerosis feels less frightening because Dr. Marcos Santos explains and discusses every change in my plan. The waiting room at Clínica Santo Amaro Integrada was clean, quiet and comfortable, with enough seating and water available. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Marcos Santos, Neurology, Sao Paulo
+Rating: 9/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: The practice in Sao Paulo is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 9 for Dr. Marcos Santos, Neurology, Sao Paulo
+Rating: 10/10
+Clinic visited: Clínica Santo Amaro Integrada
+Description: Everything was explained in plain English by Dr. Marcos Santos, and nothing was left to guess. After years of migraines, Dr. Marcos Santos built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Marcos Santos, Neurology, Sao Paulo: 8.33/10 from 9 reviews

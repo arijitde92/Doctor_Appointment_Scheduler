@@ -1,0 +1,59 @@
+Doctor: Dr. Laura Smith
+Doctor ID: 2497
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 2
+City: Galway, Ireland
+Clinics: Salthill Family Clinic (clinic ID 326)
+
+Review 1 for Dr. Laura Smith, Psychiatry, Galway
+Rating: 7/10
+Clinic visited: Salthill Family Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 2 for Dr. Laura Smith, Psychiatry, Galway
+Rating: 9/10
+Clinic visited: Salthill Family Clinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 3 for Dr. Laura Smith, Psychiatry, Galway
+Rating: 7/10
+Clinic visited: Salthill Family Clinic
+Description: Dr. Laura Smith was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Laura Smith, Psychiatry, Galway
+Rating: 7/10
+Clinic visited: Salthill Family Clinic
+Description: Good listener, yet the refill process at Salthill Family Clinic is slow and requires several phone calls. The treatment plan from Dr. Laura Smith made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Laura Smith, Psychiatry, Galway
+Rating: 7/10
+Clinic visited: Salthill Family Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. I like the measured approach, but sometimes I wanted more discussion of non-medication options. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Laura Smith, Psychiatry, Galway
+Rating: 8/10
+Clinic visited: Salthill Family Clinic
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 7 for Dr. Laura Smith, Psychiatry, Galway
+Rating: 8/10
+Clinic visited: Salthill Family Clinic
+Description: A same-day slot was found for me at Salthill Family Clinic when I called with a worrying symptom. Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Laura Smith, Psychiatry, Galway
+Rating: 8/10
+Clinic visited: Salthill Family Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I felt heard by Dr. Laura Smith during a very hard time, and nobody rushed me out of the room.
+
+Review 9 for Dr. Laura Smith, Psychiatry, Galway
+Rating: 7/10
+Clinic visited: Salthill Family Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 10 for Dr. Laura Smith, Psychiatry, Galway
+Rating: 5/10
+Clinic visited: Salthill Family Clinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Overall rating for Dr. Laura Smith, Psychiatry, Galway: 7.30/10 from 10 reviews

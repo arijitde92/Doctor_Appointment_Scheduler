@@ -1,0 +1,49 @@
+Doctor: Dr. Zheng Fang
+Doctor ID: 3860
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 1
+City: Beijing, China
+Clinics: Dongdaqiao Jiahe Medical Clinic (clinic ID 499)
+
+Review 1 for Dr. Zheng Fang, Psychiatry, Beijing
+Rating: 5/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Dr. Zheng Fang is knowledgeable, though I waited several weeks for my first appointment. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Zheng Fang, Psychiatry, Beijing
+Rating: 9/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Sensitive questions were handled by Dr. Zheng Fang with discretion and without a hint of judgment. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Zheng Fang, Psychiatry, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good listener, yet the refill process at Dongdaqiao Jiahe Medical Clinic is slow and requires several phone calls. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Zheng Fang, Psychiatry, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 5 for Dr. Zheng Fang, Psychiatry, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 6 for Dr. Zheng Fang, Psychiatry, Beijing
+Rating: 10/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Zheng Fang, Psychiatry, Beijing
+Rating: 9/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Excellent at explaining how therapy and medication work together, and Dr. Zheng Fang coordinated with my counselor.
+
+Review 8 for Dr. Zheng Fang, Psychiatry, Beijing
+Rating: 10/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Never once did Dr. Zheng Fang make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Overall rating for Dr. Zheng Fang, Psychiatry, Beijing: 8.25/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Oskar Andersson
+Doctor ID: 2222
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 1
+City: Uppsala, Sweden
+Clinics: Vårdcentralen Drottninggatan Uppsala (clinic ID 290)
+
+Review 1 for Dr. Oskar Andersson, Psychiatry, Uppsala
+Rating: 9/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: I felt heard by Dr. Oskar Andersson during a very hard time, and nobody rushed me out of the room. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Oskar Andersson, Psychiatry, Uppsala
+Rating: 8/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. Dr. Oskar Andersson double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Oskar Andersson, Psychiatry, Uppsala
+Rating: 8/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. My depression finally has a treatment plan from Dr. Oskar Andersson that works, with regular check-ins and careful dose changes. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Oskar Andersson, Psychiatry, Uppsala
+Rating: 6/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Booking was easy online, but the confirmation email contained the wrong address for Vårdcentralen Drottninggatan Uppsala. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Oskar Andersson, Psychiatry, Uppsala
+Rating: 6/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 6 for Dr. Oskar Andersson, Psychiatry, Uppsala
+Rating: 8/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Oskar Andersson, Psychiatry, Uppsala
+Rating: 7/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 8 for Dr. Oskar Andersson, Psychiatry, Uppsala
+Rating: 6/10
+Clinic visited: Vårdcentralen Drottninggatan Uppsala
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good listener, yet the refill process at Vårdcentralen Drottninggatan Uppsala is slow and requires several phone calls. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Oskar Andersson, Psychiatry, Uppsala: 7.25/10 from 8 reviews

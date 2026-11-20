@@ -1,0 +1,64 @@
+Doctor: Dr. Elin Lindgren
+Doctor ID: 2217
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 25
+City: Stockholm, Sweden
+Clinics: Läkarmottagningen Odenplan Park (clinic ID 289)
+
+Review 1 for Dr. Elin Lindgren, Psychiatry, Stockholm
+Rating: 4/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found. Requests for a refill went unanswered for days, and I ran out of my medication.
+
+Review 2 for Dr. Elin Lindgren, Psychiatry, Stockholm
+Rating: 3/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week. I will not be returning and have already started looking for another doctor.
+
+Review 3 for Dr. Elin Lindgren, Psychiatry, Stockholm
+Rating: 5/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: Good listener, yet the refill process at Läkarmottagningen Odenplan Park is slow and requires several phone calls. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Elin Lindgren, Psychiatry, Stockholm
+Rating: 5/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Elin Lindgren, Psychiatry, Stockholm
+Rating: 5/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Elin Lindgren is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 6 for Dr. Elin Lindgren, Psychiatry, Stockholm
+Rating: 4/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: I was not told about common side effects by Dr. Elin Lindgren, and I had a rough first two weeks that could have been avoided. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 7 for Dr. Elin Lindgren, Psychiatry, Stockholm
+Rating: 5/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Elin Lindgren, Psychiatry, Stockholm
+Rating: 9/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: The ADHD assessment by Dr. Elin Lindgren was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 9 for Dr. Elin Lindgren, Psychiatry, Stockholm
+Rating: 4/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: The prescription from Dr. Elin Lindgren was not the one we discussed, and I only noticed when I got home. I left disappointed and will take my business to another clinic.
+
+Review 10 for Dr. Elin Lindgren, Psychiatry, Stockholm
+Rating: 8/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: Dr. Elin Lindgren took a full history before suggesting any medication and explained the likely side effects honestly. My referral letter was written on the spot, and the specialist's office had my details before I called. I would happily recommend this doctor to friends and family.
+
+Review 11 for Dr. Elin Lindgren, Psychiatry, Stockholm
+Rating: 4/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: Dr. Elin Lindgren seemed to focus on the paperwork, and I did not feel I could share what was really going on. The waiting room at Läkarmottagningen Odenplan Park was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Overall rating for Dr. Elin Lindgren, Psychiatry, Stockholm: 5.09/10 from 11 reviews

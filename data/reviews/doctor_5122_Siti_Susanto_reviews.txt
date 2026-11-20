@@ -1,0 +1,49 @@
+Doctor: Dr. Siti Susanto
+Doctor ID: 5122
+Specialization: Cardiology
+Gender: Female
+Years of experience: 13
+City: Denpasar, Indonesia
+Clinics: Klinik Griya Sehat (clinic ID 661)
+
+Review 1 for Dr. Siti Susanto, Cardiology, Denpasar
+Rating: 10/10
+Clinic visited: Klinik Griya Sehat
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Siti Susanto, Cardiology, Denpasar
+Rating: 6/10
+Clinic visited: Klinik Griya Sehat
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 3 for Dr. Siti Susanto, Cardiology, Denpasar
+Rating: 8/10
+Clinic visited: Klinik Griya Sehat
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Siti Susanto, Cardiology, Denpasar
+Rating: 8/10
+Clinic visited: Klinik Griya Sehat
+Description: She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 5 for Dr. Siti Susanto, Cardiology, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Griya Sehat
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 6 for Dr. Siti Susanto, Cardiology, Denpasar
+Rating: 8/10
+Clinic visited: Klinik Griya Sehat
+Description: The cardiology unit at Klinik Griya Sehat runs on time, and the technicians were professional during my echocardiogram.
+
+Review 7 for Dr. Siti Susanto, Cardiology, Denpasar
+Rating: 9/10
+Clinic visited: Klinik Griya Sehat
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 8 for Dr. Siti Susanto, Cardiology, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Griya Sehat
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. I liked the advice I got from Dr. Siti Susanto, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Siti Susanto, Cardiology, Denpasar: 7.88/10 from 8 reviews

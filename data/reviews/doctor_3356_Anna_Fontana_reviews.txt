@@ -1,0 +1,69 @@
+Doctor: Dr. Anna Fontana
+Doctor ID: 3356
+Specialization: Neurology
+Gender: Female
+Years of experience: 3
+City: Florence, Italy
+Clinics: Poliambulatorio Santa Maria Novella (clinic ID 435); Centro Medico Campo di Marte (clinic ID 436)
+
+Review 1 for Dr. Anna Fontana, Neurology, Florence
+Rating: 9/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Anna Fontana felt well organized from start to finish.
+
+Review 2 for Dr. Anna Fontana, Neurology, Florence
+Rating: 6/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Dr. Anna Fontana explained my results well, although the visit felt short for such a complex condition. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Anna Fontana, Neurology, Florence
+Rating: 6/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Booking was easy online, but the confirmation email contained the wrong address for Poliambulatorio Santa Maria Novella.
+
+Review 4 for Dr. Anna Fontana, Neurology, Florence
+Rating: 7/10
+Clinic visited: Centro Medico Campo di Marte
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The migraine plan has helped, though the first medication caused side effects that were not fully explained. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Anna Fontana, Neurology, Florence
+Rating: 6/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 6 for Dr. Anna Fontana, Neurology, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Anna Fontana, Neurology, Florence
+Rating: 7/10
+Clinic visited: Centro Medico Campo di Marte
+Description: The treatment plan from Dr. Anna Fontana made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Anna Fontana, Neurology, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: I got what I needed, but the next available appointment was three weeks away. The nerve test was well done, but the technician and doctor gave slightly different explanations. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Anna Fontana, Neurology, Florence
+Rating: 9/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Dr. Anna Fontana drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 10 for Dr. Anna Fontana, Neurology, Florence
+Rating: 6/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Supportive about my diagnosis, yet follow-up appointments with Dr. Anna Fontana at Poliambulatorio Santa Maria Novella are difficult to schedule. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 11 for Dr. Anna Fontana, Neurology, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Dr. Anna Fontana was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 12 for Dr. Anna Fontana, Neurology, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Dr. Anna Fontana took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. Dr. Anna Fontana looked me in the eye, listened to the whole story and only then started typing. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Anna Fontana, Neurology, Florence: 7.17/10 from 12 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Guo Mei-ling
+Doctor ID: 4388
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 2
+City: Tainan, Taiwan
+Clinics: Anping Haiyun Medical Clinic (clinic ID 565); East District Jiaxin Family Clinic (clinic ID 566)
+
+Review 1 for Dr. Guo Mei-ling, Pediatrics, Tainan
+Rating: 6/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Guo Mei-ling, Pediatrics, Tainan
+Rating: 6/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 3 for Dr. Guo Mei-ling, Pediatrics, Tainan
+Rating: 7/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Guo Mei-ling, Pediatrics, Tainan
+Rating: 6/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: Caring and gentle with my child, Dr. Guo Mei-ling nonetheless ran forty minutes behind schedule at most appointments. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Guo Mei-ling, Pediatrics, Tainan
+Rating: 8/10
+Clinic visited: Anping Haiyun Medical Clinic
+Description: Our family has been coming for years, and she remembers each child's history and personality. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 6 for Dr. Guo Mei-ling, Pediatrics, Tainan
+Rating: 6/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Guo Mei-ling, Pediatrics, Tainan
+Rating: 7/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Dr. Guo Mei-ling was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Guo Mei-ling, Pediatrics, Tainan
+Rating: 6/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: Dr. Guo Mei-ling is thorough with exams, but the after-hours phone line at East District Jiaxin Family Clinic is hard to reach. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Guo Mei-ling, Pediatrics, Tainan
+Rating: 6/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Guo Mei-ling, Pediatrics, Tainan: 6.44/10 from 9 reviews

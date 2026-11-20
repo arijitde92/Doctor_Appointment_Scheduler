@@ -1,0 +1,59 @@
+Doctor: Dr. Gerhard Fuchs
+Doctor ID: 3017
+Specialization: General
+Gender: Male
+Years of experience: 28
+City: Vienna, Austria
+Clinics: Medizinisches Zentrum Landstraße (clinic ID 393)
+
+Review 1 for Dr. Gerhard Fuchs, General, Vienna
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: I got what I needed, but the next available appointment was three weeks away. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Medizinisches Zentrum Landstraße were inconsistent.
+
+Review 2 for Dr. Gerhard Fuchs, General, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: By the time I left the room, Dr. Gerhard Fuchs had sorted the sick note, referral letter and prescription refill. Dr. Gerhard Fuchs drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 3 for Dr. Gerhard Fuchs, General, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. The treatment plan from Dr. Gerhard Fuchs made sense, but I wished it had been written down for me to take away. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Gerhard Fuchs, General, Vienna
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 5 for Dr. Gerhard Fuchs, General, Vienna
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: My annual check-up with Dr. Gerhard Fuchs took forty minutes, with every screening explained and nothing rushed. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 6 for Dr. Gerhard Fuchs, General, Vienna
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: I liked the advice I got from Dr. Gerhard Fuchs, but I would have liked more time to ask follow-up questions before the visit ended. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 7 for Dr. Gerhard Fuchs, General, Vienna
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Referrals from Dr. Gerhard Fuchs are handled well, but getting test results back took longer than I was told to expect. The doctor was kind, though the clinic's evening hours are very limited for working people. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Gerhard Fuchs, General, Vienna
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 9 for Dr. Gerhard Fuchs, General, Vienna
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: I came away understanding my condition better than I have in years of previous appointments. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 10 for Dr. Gerhard Fuchs, General, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Overall rating for Dr. Gerhard Fuchs, General, Vienna: 7.30/10 from 10 reviews

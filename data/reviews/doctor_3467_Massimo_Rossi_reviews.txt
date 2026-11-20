@@ -1,0 +1,69 @@
+Doctor: Dr. Massimo Rossi
+Doctor ID: 3467
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 10
+City: Naples, Italy
+Clinics: Poliambulatorio Toledo (clinic ID 449)
+
+Review 1 for Dr. Massimo Rossi, Psychiatry, Naples
+Rating: 9/10
+Clinic visited: Poliambulatorio Toledo
+Description: He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 2 for Dr. Massimo Rossi, Psychiatry, Naples
+Rating: 8/10
+Clinic visited: Poliambulatorio Toledo
+Description: At my visit, Dr. Massimo Rossi took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 3 for Dr. Massimo Rossi, Psychiatry, Naples
+Rating: 6/10
+Clinic visited: Poliambulatorio Toledo
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I like the measured approach, but sometimes I wanted more discussion of non-medication options. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Massimo Rossi, Psychiatry, Naples
+Rating: 6/10
+Clinic visited: Poliambulatorio Toledo
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 5 for Dr. Massimo Rossi, Psychiatry, Naples
+Rating: 7/10
+Clinic visited: Poliambulatorio Toledo
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Dr. Massimo Rossi is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 6 for Dr. Massimo Rossi, Psychiatry, Naples
+Rating: 7/10
+Clinic visited: Poliambulatorio Toledo
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Massimo Rossi, Psychiatry, Naples
+Rating: 8/10
+Clinic visited: Poliambulatorio Toledo
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 8 for Dr. Massimo Rossi, Psychiatry, Naples
+Rating: 8/10
+Clinic visited: Poliambulatorio Toledo
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 9 for Dr. Massimo Rossi, Psychiatry, Naples
+Rating: 4/10
+Clinic visited: Poliambulatorio Toledo
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 10 for Dr. Massimo Rossi, Psychiatry, Naples
+Rating: 6/10
+Clinic visited: Poliambulatorio Toledo
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 11 for Dr. Massimo Rossi, Psychiatry, Naples
+Rating: 8/10
+Clinic visited: Poliambulatorio Toledo
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely.
+
+Review 12 for Dr. Massimo Rossi, Psychiatry, Naples
+Rating: 6/10
+Clinic visited: Poliambulatorio Toledo
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The treatment plan from Dr. Massimo Rossi made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Massimo Rossi, Psychiatry, Naples: 6.92/10 from 12 reviews

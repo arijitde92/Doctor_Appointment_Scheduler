@@ -1,0 +1,49 @@
+Doctor: Dr. Donal Quinn
+Doctor ID: 2493
+Specialization: General
+Gender: Male
+Years of experience: 5
+City: Galway, Ireland
+Clinics: Salthill Family Clinic (clinic ID 326)
+
+Review 1 for Dr. Donal Quinn, General, Galway
+Rating: 6/10
+Clinic visited: Salthill Family Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 2 for Dr. Donal Quinn, General, Galway
+Rating: 4/10
+Clinic visited: Salthill Family Clinic
+Description: Dr. Donal Quinn seemed distracted by the computer screen throughout and missed that I had mentioned chest tightness twice. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 3 for Dr. Donal Quinn, General, Galway
+Rating: 6/10
+Clinic visited: Salthill Family Clinic
+Description: Dr. Donal Quinn was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Donal Quinn is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 4 for Dr. Donal Quinn, General, Galway
+Rating: 4/10
+Clinic visited: Salthill Family Clinic
+Description: My persistent fatigue was brushed aside as stress by Dr. Donal Quinn, and it took a second doctor to find the actual cause. The staff at Salthill Family Clinic were curt on the phone, and it took four attempts to book a simple follow-up.
+
+Review 5 for Dr. Donal Quinn, General, Galway
+Rating: 8/10
+Clinic visited: Salthill Family Clinic
+Description: As a new patient in Galway, I felt welcomed at Salthill Family Clinic, and my whole history was reviewed in one relaxed visit.
+
+Review 6 for Dr. Donal Quinn, General, Galway
+Rating: 6/10
+Clinic visited: Salthill Family Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Donal Quinn, General, Galway
+Rating: 7/10
+Clinic visited: Salthill Family Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Quick appointment and a fair price in Galway, but the staff seemed overwhelmed and a bit curt on the phone. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Donal Quinn, General, Galway
+Rating: 7/10
+Clinic visited: Salthill Family Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Good bedside manner from Dr. Donal Quinn, but the parking near Salthill Family Clinic is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Donal Quinn, General, Galway: 6.00/10 from 8 reviews

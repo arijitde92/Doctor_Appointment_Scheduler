@@ -1,0 +1,49 @@
+Doctor: Dr. Mohamed Mansour
+Doctor ID: 6231
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 18
+City: Doha, Qatar
+Clinics: Al Sadd Family Clinic (clinic ID 805); West Bay Pearl Medical Centre (clinic ID 806); Old Airport Care Polyclinic (clinic ID 807)
+
+Review 1 for Dr. Mohamed Mansour, Pediatrics, Doha
+Rating: 5/10
+Clinic visited: Al Sadd Family Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Mohamed Mansour, Pediatrics, Doha
+Rating: 7/10
+Clinic visited: Al Sadd Family Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 3 for Dr. Mohamed Mansour, Pediatrics, Doha
+Rating: 6/10
+Clinic visited: Old Airport Care Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 4 for Dr. Mohamed Mansour, Pediatrics, Doha
+Rating: 7/10
+Clinic visited: West Bay Pearl Medical Centre
+Description: I liked the advice I got from Dr. Mohamed Mansour, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 5 for Dr. Mohamed Mansour, Pediatrics, Doha
+Rating: 5/10
+Clinic visited: West Bay Pearl Medical Centre
+Description: Dr. Mohamed Mansour was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 6 for Dr. Mohamed Mansour, Pediatrics, Doha
+Rating: 5/10
+Clinic visited: Al Sadd Family Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 7 for Dr. Mohamed Mansour, Pediatrics, Doha
+Rating: 8/10
+Clinic visited: Al Sadd Family Clinic
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Mohamed Mansour, Pediatrics, Doha
+Rating: 6/10
+Clinic visited: Al Sadd Family Clinic
+Description: Caring and gentle with my child, Dr. Mohamed Mansour nonetheless ran forty minutes behind schedule at most appointments. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Mohamed Mansour, Pediatrics, Doha: 6.12/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Carmen Castillo
+Doctor ID: 871
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 2
+City: Arequipa, Peru
+Clinics: Clínica Yanahuara Salud (clinic ID 115); Consultorios Médicos Parra (clinic ID 117); Policlínica Bustamante (clinic ID 118)
+
+Review 1 for Dr. Carmen Castillo, Orthopedic, Arequipa
+Rating: 7/10
+Clinic visited: Clínica Yanahuara Salud
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 2 for Dr. Carmen Castillo, Orthopedic, Arequipa
+Rating: 7/10
+Clinic visited: Consultorios Médicos Parra
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 3 for Dr. Carmen Castillo, Orthopedic, Arequipa
+Rating: 5/10
+Clinic visited: Clínica Yanahuara Salud
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Carmen Castillo, Orthopedic, Arequipa
+Rating: 9/10
+Clinic visited: Consultorios Médicos Parra
+Description: I appreciated Dr. Carmen Castillo's honest comparison between injections, therapy and surgery for my hip pain. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 5 for Dr. Carmen Castillo, Orthopedic, Arequipa
+Rating: 10/10
+Clinic visited: Consultorios Médicos Parra
+Description: The X-ray was reviewed with me on screen, and she pointed out exactly where the cartilage had worn down. A translator was arranged for my mother without us asking twice, and Dr. Carmen Castillo spoke directly to her throughout.
+
+Review 6 for Dr. Carmen Castillo, Orthopedic, Arequipa
+Rating: 6/10
+Clinic visited: Policlínica Bustamante
+Description: Dr. Carmen Castillo explained surgery options clearly, though the physiotherapy referral took weeks to arrive. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Carmen Castillo, Orthopedic, Arequipa
+Rating: 6/10
+Clinic visited: Policlínica Bustamante
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The treatment plan from Dr. Carmen Castillo made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Carmen Castillo, Orthopedic, Arequipa
+Rating: 7/10
+Clinic visited: Clínica Yanahuara Salud
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 9 for Dr. Carmen Castillo, Orthopedic, Arequipa
+Rating: 8/10
+Clinic visited: Clínica Yanahuara Salud
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Overall rating for Dr. Carmen Castillo, Orthopedic, Arequipa: 7.22/10 from 9 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Maryna Shevchenko
+Doctor ID: 3554
+Specialization: Pathology
+Gender: Female
+Years of experience: 30
+City: Kyiv, Ukraine
+Clinics: Zdorovya Rodyny Medical Centre (clinic ID 460); Dnipro Vita Clinic (clinic ID 461)
+
+Review 1 for Dr. Maryna Shevchenko, Pathology, Kyiv
+Rating: 7/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Good bedside manner from Dr. Maryna Shevchenko, but the parking near Zdorovya Rodyny Medical Centre is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Maryna Shevchenko, Pathology, Kyiv
+Rating: 5/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Quick appointment and a fair price in Kyiv, but the staff seemed overwhelmed and a bit curt on the phone. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Maryna Shevchenko, Pathology, Kyiv
+Rating: 5/10
+Clinic visited: Dnipro Vita Clinic
+Description: Dr. Maryna Shevchenko was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Helpful in clarifying a borderline result, though Dr. Maryna Shevchenko gave little guidance about whether to repeat it. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Maryna Shevchenko, Pathology, Kyiv
+Rating: 8/10
+Clinic visited: Dnipro Vita Clinic
+Description: I was nervous about the biopsy result, and the call from Dr. Maryna Shevchenko was gentle, honest and unhurried.
+
+Review 5 for Dr. Maryna Shevchenko, Pathology, Kyiv
+Rating: 6/10
+Clinic visited: Dnipro Vita Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Maryna Shevchenko, Pathology, Kyiv
+Rating: 7/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: The blood draw was painless, but the waiting area at Zdorovya Rodyny Medical Centre was crowded in the early morning. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Maryna Shevchenko, Pathology, Kyiv
+Rating: 8/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Maryna Shevchenko felt well organized from start to finish. Fast turnaround at Zdorovya Rodyny Medical Centre on my thyroid panel, with results in my online account by the next morning. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Maryna Shevchenko, Pathology, Kyiv
+Rating: 7/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Maryna Shevchenko, Pathology, Kyiv
+Rating: 7/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Maryna Shevchenko, Pathology, Kyiv: 6.67/10 from 9 reviews

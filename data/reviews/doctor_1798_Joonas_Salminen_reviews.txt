@@ -1,0 +1,49 @@
+Doctor: Dr. Joonas Salminen
+Doctor ID: 1798
+Specialization: Neurology
+Gender: Male
+Years of experience: 1
+City: Espoo, Finland
+Clinics: Lääkärikeskus Tapiola Plus (clinic ID 235)
+
+Review 1 for Dr. Joonas Salminen, Neurology, Espoo
+Rating: 6/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 2 for Dr. Joonas Salminen, Neurology, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 3 for Dr. Joonas Salminen, Neurology, Espoo
+Rating: 8/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Joonas Salminen, Neurology, Espoo
+Rating: 8/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: Paperwork at Lääkärikeskus Tapiola Plus was kept to a minimum, and the staff helped me complete the insurance form. He patiently explained my MRI findings and calmed my worries about memory problems. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Joonas Salminen, Neurology, Espoo
+Rating: 8/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Joonas Salminen, Neurology, Espoo
+Rating: 5/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: Dr. Joonas Salminen explained my results well, although the visit felt short for such a complex condition. The treatment plan from Dr. Joonas Salminen made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Joonas Salminen, Neurology, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Joonas Salminen at Lääkärikeskus Tapiola Plus are difficult to schedule.
+
+Review 8 for Dr. Joonas Salminen, Neurology, Espoo
+Rating: 4/10
+Clinic visited: Lääkärikeskus Tapiola Plus
+Description: After a long wait, my appointment with Dr. Joonas Salminen lasted a few minutes and ended with a new prescription and no discussion. The visit felt rushed, and Dr. Joonas Salminen was already halfway out the door when I started to describe my second symptom.
+
+Overall rating for Dr. Joonas Salminen, Neurology, Espoo: 6.62/10 from 8 reviews

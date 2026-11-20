@@ -1,0 +1,49 @@
+Doctor: Dr. Xie Qing
+Doctor ID: 3925
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 8
+City: Shanghai, China
+Clinics: Jingan Anxin Clinic (clinic ID 506)
+
+Review 1 for Dr. Xie Qing, Gastroenterology, Shanghai
+Rating: 9/10
+Clinic visited: Jingan Anxin Clinic
+Description: Dr. Xie Qing took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Xie Qing, Gastroenterology, Shanghai
+Rating: 7/10
+Clinic visited: Jingan Anxin Clinic
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 3 for Dr. Xie Qing, Gastroenterology, Shanghai
+Rating: 7/10
+Clinic visited: Jingan Anxin Clinic
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The treatment plan from Dr. Xie Qing made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Xie Qing, Gastroenterology, Shanghai
+Rating: 10/10
+Clinic visited: Jingan Anxin Clinic
+Description: I received a full summary letter from Jingan Anxin Clinic after my endoscopy, which my regular doctor found very useful.
+
+Review 5 for Dr. Xie Qing, Gastroenterology, Shanghai
+Rating: 10/10
+Clinic visited: Jingan Anxin Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 6 for Dr. Xie Qing, Gastroenterology, Shanghai
+Rating: 9/10
+Clinic visited: Jingan Anxin Clinic
+Description: Helpful dietitian referral from Dr. Xie Qing and written guidance for living with ulcerative colitis. The visit began with a short, friendly chat that put me at ease before any examination started. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Xie Qing, Gastroenterology, Shanghai
+Rating: 10/10
+Clinic visited: Jingan Anxin Clinic
+Description: Dr. Xie Qing double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 8 for Dr. Xie Qing, Gastroenterology, Shanghai
+Rating: 10/10
+Clinic visited: Jingan Anxin Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Xie Qing felt well organized from start to finish. I get regular check-ups for my Crohn's disease, and Dr. Xie Qing adjusts my treatment carefully and always explains why.
+
+Overall rating for Dr. Xie Qing, Gastroenterology, Shanghai: 9.00/10 from 8 reviews

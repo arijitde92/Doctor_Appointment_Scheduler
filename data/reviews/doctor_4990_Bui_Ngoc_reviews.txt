@@ -1,0 +1,54 @@
+Doctor: Dr. Bui Ngoc
+Doctor ID: 4990
+Specialization: Radiology
+Gender: Female
+Years of experience: 28
+City: Hanoi, Vietnam
+Clinics: Phong Kham Da Khoa Hoa Sen (clinic ID 645); Phong Kham Gia Dinh Tam Duc (clinic ID 647)
+
+Review 1 for Dr. Bui Ngoc, Radiology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 2 for Dr. Bui Ngoc, Radiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Bui Ngoc, Radiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Bui Ngoc were respectful throughout. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 4 for Dr. Bui Ngoc, Radiology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 5 for Dr. Bui Ngoc, Radiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. Booking online at Phong Kham Da Khoa Hoa Sen was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 6 for Dr. Bui Ngoc, Radiology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Bui Ngoc sent a clear report within a day. Getting to Phong Kham Da Khoa Hoa Sen by public transport in Hanoi was easy, and there is a step-free entrance for wheelchairs.
+
+Review 7 for Dr. Bui Ngoc, Radiology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Dr. Bui Ngoc double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 8 for Dr. Bui Ngoc, Radiology, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham Gia Dinh Tam Duc
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 9 for Dr. Bui Ngoc, Radiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: Everything was explained in plain English by Dr. Bui Ngoc, and nothing was left to guess. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Bui Ngoc, Radiology, Hanoi: 8.44/10 from 9 reviews

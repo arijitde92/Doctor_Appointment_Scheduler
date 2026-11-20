@@ -1,0 +1,69 @@
+Doctor: Dr. Dewi Mahendra
+Doctor ID: 5118
+Specialization: Radiology
+Gender: Female
+Years of experience: 3
+City: Denpasar, Indonesia
+Clinics: Klinik Griya Sehat (clinic ID 661); Klinik Berkah Keluarga (clinic ID 663)
+
+Review 1 for Dr. Dewi Mahendra, Radiology, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Griya Sehat
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. The treatment plan from Dr. Dewi Mahendra made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Dewi Mahendra, Radiology, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Griya Sehat
+Description: Good bedside manner from Dr. Dewi Mahendra, but the parking near Klinik Griya Sehat is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Dewi Mahendra, Radiology, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Berkah Keluarga
+Description: The report from Dr. Dewi Mahendra was thorough, though full of technical terms that needed my regular doctor to translate. The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Dewi Mahendra, Radiology, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Griya Sehat
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Dewi Mahendra, Radiology, Denpasar
+Rating: 9/10
+Clinic visited: Klinik Griya Sehat
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Review 6 for Dr. Dewi Mahendra, Radiology, Denpasar
+Rating: 8/10
+Clinic visited: Klinik Griya Sehat
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Dewi Mahendra were respectful throughout. Sensitive questions were handled by Dr. Dewi Mahendra with discretion and without a hint of judgment. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Dewi Mahendra, Radiology, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Berkah Keluarga
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Dewi Mahendra, Radiology, Denpasar
+Rating: 6/10
+Clinic visited: Klinik Griya Sehat
+Description: Dr. Dewi Mahendra answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 9 for Dr. Dewi Mahendra, Radiology, Denpasar
+Rating: 6/10
+Clinic visited: Klinik Berkah Keluarga
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 10 for Dr. Dewi Mahendra, Radiology, Denpasar
+Rating: 5/10
+Clinic visited: Klinik Griya Sehat
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 11 for Dr. Dewi Mahendra, Radiology, Denpasar
+Rating: 6/10
+Clinic visited: Klinik Berkah Keluarga
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 12 for Dr. Dewi Mahendra, Radiology, Denpasar
+Rating: 9/10
+Clinic visited: Klinik Griya Sehat
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. I appreciated that she offered more than one option and let me choose what suited my life. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Dewi Mahendra, Radiology, Denpasar: 7.00/10 from 12 reviews

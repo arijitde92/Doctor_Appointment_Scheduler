@@ -1,0 +1,59 @@
+Doctor: Dr. Emma Quinn
+Doctor ID: 2510
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 23
+City: Galway, Ireland
+Clinics: Shop Street Polyclinic (clinic ID 328)
+
+Review 1 for Dr. Emma Quinn, Psychiatry, Galway
+Rating: 5/10
+Clinic visited: Shop Street Polyclinic
+Description: Dr. Emma Quinn was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good listener, yet the refill process at Shop Street Polyclinic is slow and requires several phone calls.
+
+Review 2 for Dr. Emma Quinn, Psychiatry, Galway
+Rating: 5/10
+Clinic visited: Shop Street Polyclinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Booking was easy online, but the confirmation email contained the wrong address for Shop Street Polyclinic. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Emma Quinn, Psychiatry, Galway
+Rating: 5/10
+Clinic visited: Shop Street Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Emma Quinn is knowledgeable, though I waited several weeks for my first appointment. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Emma Quinn, Psychiatry, Galway
+Rating: 6/10
+Clinic visited: Shop Street Polyclinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 5 for Dr. Emma Quinn, Psychiatry, Galway
+Rating: 5/10
+Clinic visited: Shop Street Polyclinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Emma Quinn, Psychiatry, Galway
+Rating: 7/10
+Clinic visited: Shop Street Polyclinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 7 for Dr. Emma Quinn, Psychiatry, Galway
+Rating: 6/10
+Clinic visited: Shop Street Polyclinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 8 for Dr. Emma Quinn, Psychiatry, Galway
+Rating: 7/10
+Clinic visited: Shop Street Polyclinic
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Emma Quinn, Psychiatry, Galway
+Rating: 6/10
+Clinic visited: Shop Street Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 10 for Dr. Emma Quinn, Psychiatry, Galway
+Rating: 6/10
+Clinic visited: Shop Street Polyclinic
+Description: The treatment plan from Dr. Emma Quinn made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Emma Quinn, Psychiatry, Galway: 5.80/10 from 10 reviews

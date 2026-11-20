@@ -1,0 +1,59 @@
+Doctor: Dr. Jung Joon-ho
+Doctor ID: 4283
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 22
+City: Seoul, South Korea
+Clinics: Jongno Dasom Medical Centre (clinic ID 551); Mapo Barun Internal Medicine Clinic (clinic ID 552)
+
+Review 1 for Dr. Jung Joon-ho, Psychiatry, Seoul
+Rating: 4/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Dr. Jung Joon-ho seemed to focus on the paperwork, and I did not feel I could share what was really going on. The visit felt rushed, and Dr. Jung Joon-ho was already halfway out the door when I started to describe my second symptom.
+
+Review 2 for Dr. Jung Joon-ho, Psychiatry, Seoul
+Rating: 8/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Dr. Jung Joon-ho took a full history before suggesting any medication and explained the likely side effects honestly. The nurse was friendly and efficient, and the whole visit with Dr. Jung Joon-ho felt well organized from start to finish. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Jung Joon-ho, Psychiatry, Seoul
+Rating: 10/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: My family was included in a session at my request, and Dr. Jung Joon-ho handled it with great tact. The waiting room at Jongno Dasom Medical Centre was clean, quiet and comfortable, with enough seating and water available.
+
+Review 4 for Dr. Jung Joon-ho, Psychiatry, Seoul
+Rating: 10/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Prescriptions from Dr. Jung Joon-ho were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Appointments in Seoul are always on schedule, and the waiting area is peaceful and private.
+
+Review 5 for Dr. Jung Joon-ho, Psychiatry, Seoul
+Rating: 7/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Dr. Jung Joon-ho was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Jung Joon-ho, Psychiatry, Seoul
+Rating: 9/10
+Clinic visited: Jongno Dasom Medical Centre
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Telehealth follow-ups at Jongno Dasom Medical Centre are punctual and calm, and refills are dealt with quickly.
+
+Review 7 for Dr. Jung Joon-ho, Psychiatry, Seoul
+Rating: 8/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Jung Joon-ho, Psychiatry, Seoul
+Rating: 7/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Jung Joon-ho, Psychiatry, Seoul
+Rating: 8/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Excellent at explaining how therapy and medication work together, and Dr. Jung Joon-ho coordinated with my counselor. Even the billing team was helpful, and a mistake on my statement was corrected within a day. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 10 for Dr. Jung Joon-ho, Psychiatry, Seoul
+Rating: 8/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Overall rating for Dr. Jung Joon-ho, Psychiatry, Seoul: 7.90/10 from 10 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Helle Sørensen
+Doctor ID: 2401
+Specialization: Neurology
+Gender: Female
+Years of experience: 1
+City: Odense, Denmark
+Clinics: Klinik Overgade Plus (clinic ID 314)
+
+Review 1 for Dr. Helle Sørensen, Neurology, Odense
+Rating: 4/10
+Clinic visited: Klinik Overgade Plus
+Description: My questions were answered by Dr. Helle Sørensen with short, vague replies, and I left without a clear plan. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 2 for Dr. Helle Sørensen, Neurology, Odense
+Rating: 5/10
+Clinic visited: Klinik Overgade Plus
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 3 for Dr. Helle Sørensen, Neurology, Odense
+Rating: 6/10
+Clinic visited: Klinik Overgade Plus
+Description: Good bedside manner from Dr. Helle Sørensen, but the parking near Klinik Overgade Plus is limited and I had to circle for fifteen minutes. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Helle Sørensen, Neurology, Odense
+Rating: 6/10
+Clinic visited: Klinik Overgade Plus
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Helle Sørensen, Neurology, Odense
+Rating: 7/10
+Clinic visited: Klinik Overgade Plus
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 6 for Dr. Helle Sørensen, Neurology, Odense
+Rating: 7/10
+Clinic visited: Klinik Overgade Plus
+Description: Dr. Helle Sørensen explained my results well, although the visit felt short for such a complex condition. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Helle Sørensen, Neurology, Odense
+Rating: 8/10
+Clinic visited: Klinik Overgade Plus
+Description: At my visit, Dr. Helle Sørensen took notes on my medication list, checked for interactions and explained the changes simply. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Helle Sørensen, Neurology, Odense
+Rating: 6/10
+Clinic visited: Klinik Overgade Plus
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Helle Sørensen, Neurology, Odense
+Rating: 6/10
+Clinic visited: Klinik Overgade Plus
+Description: I liked the advice I got from Dr. Helle Sørensen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Helle Sørensen, Neurology, Odense: 6.11/10 from 9 reviews

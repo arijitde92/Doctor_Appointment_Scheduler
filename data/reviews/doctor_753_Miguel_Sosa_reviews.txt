@@ -1,0 +1,54 @@
+Doctor: Dr. Miguel Sosa
+Doctor ID: 753
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 11
+City: Buenos Aires, Argentina
+Clinics: Instituto Médico Corrientes (clinic ID 99)
+
+Review 1 for Dr. Miguel Sosa, Orthopedic, Buenos Aires
+Rating: 8/10
+Clinic visited: Instituto Médico Corrientes
+Description: After my knee replacement, Dr. Miguel Sosa explained the entire recovery timeline, and I was walking with a cane by week three. At my visit, Dr. Miguel Sosa took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 2 for Dr. Miguel Sosa, Orthopedic, Buenos Aires
+Rating: 6/10
+Clinic visited: Instituto Médico Corrientes
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Miguel Sosa, Orthopedic, Buenos Aires
+Rating: 8/10
+Clinic visited: Instituto Médico Corrientes
+Description: I was called in within five minutes of my appointment time at Instituto Médico Corrientes, which is rare and much appreciated. Getting around Buenos Aires on crutches was hard, but the accessible entrance and short waiting time at Instituto Médico Corrientes helped a lot. Five stars from me, and I would book again tomorrow.
+
+Review 4 for Dr. Miguel Sosa, Orthopedic, Buenos Aires
+Rating: 9/10
+Clinic visited: Instituto Médico Corrientes
+Description: Seen the same day at Instituto Médico Corrientes after a bad ankle sprain, with an X-ray done and a brace fitted before I left. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 5 for Dr. Miguel Sosa, Orthopedic, Buenos Aires
+Rating: 9/10
+Clinic visited: Instituto Médico Corrientes
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 6 for Dr. Miguel Sosa, Orthopedic, Buenos Aires
+Rating: 6/10
+Clinic visited: Instituto Médico Corrientes
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 7 for Dr. Miguel Sosa, Orthopedic, Buenos Aires
+Rating: 9/10
+Clinic visited: Instituto Médico Corrientes
+Description: Clear aftercare instructions from Dr. Miguel Sosa and a direct number to call if something felt wrong after my surgery.
+
+Review 8 for Dr. Miguel Sosa, Orthopedic, Buenos Aires
+Rating: 7/10
+Clinic visited: Instituto Médico Corrientes
+Description: Dr. Miguel Sosa was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 9 for Dr. Miguel Sosa, Orthopedic, Buenos Aires
+Rating: 9/10
+Clinic visited: Instituto Médico Corrientes
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. Booking online at Instituto Médico Corrientes was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Overall rating for Dr. Miguel Sosa, Orthopedic, Buenos Aires: 7.89/10 from 9 reviews

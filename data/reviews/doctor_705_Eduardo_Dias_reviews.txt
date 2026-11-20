@@ -1,0 +1,59 @@
+Doctor: Dr. Eduardo Dias
+Doctor ID: 705
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 5
+City: Sao Paulo, Brazil
+Clinics: Instituto de Saúde Rebouças (clinic ID 94)
+
+Review 1 for Dr. Eduardo Dias, Psychiatry, Sao Paulo
+Rating: 7/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Good listener, yet the refill process at Instituto de Saúde Rebouças is slow and requires several phone calls. Quick appointment and a fair price in Sao Paulo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Eduardo Dias, Psychiatry, Sao Paulo
+Rating: 10/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 3 for Dr. Eduardo Dias, Psychiatry, Sao Paulo
+Rating: 9/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. My family was included in a session at my request, and Dr. Eduardo Dias handled it with great tact. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Eduardo Dias, Psychiatry, Sao Paulo
+Rating: 9/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Excellent at explaining how therapy and medication work together, and Dr. Eduardo Dias coordinated with my counselor. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Eduardo Dias, Psychiatry, Sao Paulo
+Rating: 7/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Dr. Eduardo Dias is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 6 for Dr. Eduardo Dias, Psychiatry, Sao Paulo
+Rating: 5/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Dr. Eduardo Dias was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 7 for Dr. Eduardo Dias, Psychiatry, Sao Paulo
+Rating: 9/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Eduardo Dias, Psychiatry, Sao Paulo
+Rating: 10/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: Prescriptions from Dr. Eduardo Dias were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I can ring Instituto de Saúde Rebouças with an urgent question and receive a thoughtful reply the same day. Worth every minute of travel, and I would go again without a second thought.
+
+Review 9 for Dr. Eduardo Dias, Psychiatry, Sao Paulo
+Rating: 8/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: I was given a printed summary of the visit, which I shared with my family at home. I felt heard by Dr. Eduardo Dias during a very hard time, and nobody rushed me out of the room.
+
+Review 10 for Dr. Eduardo Dias, Psychiatry, Sao Paulo
+Rating: 7/10
+Clinic visited: Instituto de Saúde Rebouças
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Overall rating for Dr. Eduardo Dias, Psychiatry, Sao Paulo: 8.10/10 from 10 reviews

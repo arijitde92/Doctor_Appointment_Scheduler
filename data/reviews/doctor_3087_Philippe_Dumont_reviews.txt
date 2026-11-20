@@ -1,0 +1,49 @@
+Doctor: Dr. Philippe Dumont
+Doctor ID: 3087
+Specialization: Cardiology
+Gender: Male
+Years of experience: 10
+City: Brussels, Belgium
+Clinics: Cabinet Médical Sablon (clinic ID 401)
+
+Review 1 for Dr. Philippe Dumont, Cardiology, Brussels
+Rating: 8/10
+Clinic visited: Cabinet Médical Sablon
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 2 for Dr. Philippe Dumont, Cardiology, Brussels
+Rating: 6/10
+Clinic visited: Cabinet Médical Sablon
+Description: The treatment plan from Dr. Philippe Dumont made sense, but I wished it had been written down for me to take away. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 3 for Dr. Philippe Dumont, Cardiology, Brussels
+Rating: 6/10
+Clinic visited: Cabinet Médical Sablon
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Philippe Dumont, Cardiology, Brussels
+Rating: 8/10
+Clinic visited: Cabinet Médical Sablon
+Description: Clear and calm advice at Cabinet Médical Sablon about exercise after my stent, including a gradual written schedule.
+
+Review 5 for Dr. Philippe Dumont, Cardiology, Brussels
+Rating: 7/10
+Clinic visited: Cabinet Médical Sablon
+Description: Dr. Philippe Dumont adjusted my blood pressure medication carefully, though I had to call twice for a refill. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Philippe Dumont, Cardiology, Brussels
+Rating: 8/10
+Clinic visited: Cabinet Médical Sablon
+Description: After my palpitations began, Dr. Philippe Dumont arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Philippe Dumont, Cardiology, Brussels
+Rating: 7/10
+Clinic visited: Cabinet Médical Sablon
+Description: Great care in the visit itself, but the billing for the tests at Cabinet Médical Sablon was confusing. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Philippe Dumont, Cardiology, Brussels
+Rating: 7/10
+Clinic visited: Cabinet Médical Sablon
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Overall rating for Dr. Philippe Dumont, Cardiology, Brussels: 7.12/10 from 8 reviews

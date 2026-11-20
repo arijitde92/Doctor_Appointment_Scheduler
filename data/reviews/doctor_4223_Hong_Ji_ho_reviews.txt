@@ -1,0 +1,54 @@
+Doctor: Dr. Hong Ji-ho
+Doctor ID: 4223
+Specialization: Cardiology
+Gender: Male
+Years of experience: 9
+City: Daegu, South Korea
+Clinics: Chilgok Sori Medical Clinic (clinic ID 544)
+
+Review 1 for Dr. Hong Ji-ho, Cardiology, Daegu
+Rating: 6/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: Quick appointment and a fair price in Daegu, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Hong Ji-ho, Cardiology, Daegu
+Rating: 4/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: The visit felt rushed, and Dr. Hong Ji-ho was already halfway out the door when I started to describe my second symptom. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 3 for Dr. Hong Ji-ho, Cardiology, Daegu
+Rating: 5/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: Great care in the visit itself, but the billing for the tests at Chilgok Sori Medical Clinic was confusing. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Hong Ji-ho, Cardiology, Daegu
+Rating: 7/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 5 for Dr. Hong Ji-ho, Cardiology, Daegu
+Rating: 4/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: I reported chest tightness and was sent home with a leaflet and no ECG. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 6 for Dr. Hong Ji-ho, Cardiology, Daegu
+Rating: 7/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Hong Ji-ho, Cardiology, Daegu
+Rating: 7/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 8 for Dr. Hong Ji-ho, Cardiology, Daegu
+Rating: 2/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found. The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes.
+
+Review 9 for Dr. Hong Ji-ho, Cardiology, Daegu
+Rating: 7/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: Helpful with my cholesterol, Dr. Hong Ji-ho still gave dietary advice that was a little generic.
+
+Overall rating for Dr. Hong Ji-ho, Cardiology, Daegu: 5.44/10 from 9 reviews

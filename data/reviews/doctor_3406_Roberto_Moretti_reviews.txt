@@ -1,0 +1,69 @@
+Doctor: Dr. Roberto Moretti
+Doctor ID: 3406
+Specialization: Pathology
+Gender: Male
+Years of experience: 29
+City: Milan, Italy
+Clinics: Centro Medico Porta Venezia (clinic ID 441); Studio Medico Brera (clinic ID 442)
+
+Review 1 for Dr. Roberto Moretti, Pathology, Milan
+Rating: 5/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 2 for Dr. Roberto Moretti, Pathology, Milan
+Rating: 3/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Dr. Roberto Moretti was never available to talk about my result, and the front desk repeated that I should ask my referring physician.
+
+Review 3 for Dr. Roberto Moretti, Pathology, Milan
+Rating: 6/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Dr. Roberto Moretti answered my questions kindly, though the call back took three days. The treatment plan from Dr. Roberto Moretti made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Roberto Moretti, Pathology, Milan
+Rating: 5/10
+Clinic visited: Centro Medico Porta Venezia
+Description: The blood draw was painless, but the waiting area at Centro Medico Porta Venezia was crowded in the early morning.
+
+Review 5 for Dr. Roberto Moretti, Pathology, Milan
+Rating: 7/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Roberto Moretti, Pathology, Milan
+Rating: 6/10
+Clinic visited: Studio Medico Brera
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Roberto Moretti, Pathology, Milan
+Rating: 5/10
+Clinic visited: Studio Medico Brera
+Description: Helpful in clarifying a borderline result, though Dr. Roberto Moretti gave little guidance about whether to repeat it.
+
+Review 8 for Dr. Roberto Moretti, Pathology, Milan
+Rating: 5/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 9 for Dr. Roberto Moretti, Pathology, Milan
+Rating: 3/10
+Clinic visited: Studio Medico Brera
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. I was billed twice for the same panel and it took a month to get a correction.
+
+Review 10 for Dr. Roberto Moretti, Pathology, Milan
+Rating: 6/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Worth trying, but I would not call it the best option in the area.
+
+Review 11 for Dr. Roberto Moretti, Pathology, Milan
+Rating: 7/10
+Clinic visited: Studio Medico Brera
+Description: Good bedside manner from Dr. Roberto Moretti, but the parking near Studio Medico Brera is limited and I had to circle for fifteen minutes.
+
+Review 12 for Dr. Roberto Moretti, Pathology, Milan
+Rating: 4/10
+Clinic visited: Studio Medico Brera
+Description: My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive. The waiting room at Studio Medico Brera was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Overall rating for Dr. Roberto Moretti, Pathology, Milan: 5.17/10 from 12 reviews

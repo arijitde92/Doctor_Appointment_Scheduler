@@ -1,0 +1,54 @@
+Doctor: Dr. Shirin Sikder
+Doctor ID: 5437
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 10
+City: Dhaka, Bangladesh
+Clinics: Padma Wellness Clinic (clinic ID 704)
+
+Review 1 for Dr. Shirin Sikder, Gastroenterology, Dhaka
+Rating: 6/10
+Clinic visited: Padma Wellness Clinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Shirin Sikder, Gastroenterology, Dhaka
+Rating: 9/10
+Clinic visited: Padma Wellness Clinic
+Description: A gentle, respectful manner from Dr. Shirin Sikder made a very awkward exam bearable, with every step explained before it happened. Getting to Padma Wellness Clinic by public transport in Dhaka was easy, and there is a step-free entrance for wheelchairs. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Shirin Sikder, Gastroenterology, Dhaka
+Rating: 6/10
+Clinic visited: Padma Wellness Clinic
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I liked the advice I got from Dr. Shirin Sikder, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Shirin Sikder, Gastroenterology, Dhaka
+Rating: 7/10
+Clinic visited: Padma Wellness Clinic
+Description: Knowledgeable about my reflux, Dr. Shirin Sikder still gave diet advice that felt generic and not tailored to my habits.
+
+Review 5 for Dr. Shirin Sikder, Gastroenterology, Dhaka
+Rating: 5/10
+Clinic visited: Padma Wellness Clinic
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Shirin Sikder, Gastroenterology, Dhaka
+Rating: 7/10
+Clinic visited: Padma Wellness Clinic
+Description: Dr. Shirin Sikder is thorough, but I waited nearly two months to get the first available slot. I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Shirin Sikder, Gastroenterology, Dhaka
+Rating: 6/10
+Clinic visited: Padma Wellness Clinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 8 for Dr. Shirin Sikder, Gastroenterology, Dhaka
+Rating: 6/10
+Clinic visited: Padma Wellness Clinic
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Shirin Sikder, Gastroenterology, Dhaka
+Rating: 6/10
+Clinic visited: Padma Wellness Clinic
+Description: Quick appointment and a fair price in Dhaka, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Shirin Sikder, Gastroenterology, Dhaka: 6.44/10 from 9 reviews

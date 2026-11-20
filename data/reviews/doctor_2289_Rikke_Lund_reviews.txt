@@ -1,0 +1,69 @@
+Doctor: Dr. Rikke Lund
+Doctor ID: 2289
+Specialization: General
+Gender: Female
+Years of experience: 4
+City: Aalborg, Denmark
+Clinics: Klinik Sofiendal Aalborg (clinic ID 299)
+
+Review 1 for Dr. Rikke Lund, General, Aalborg
+Rating: 7/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Rikke Lund, General, Aalborg
+Rating: 10/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Managing my type 2 diabetes with Dr. Rikke Lund has been steady and practical, with quarterly blood sugar reviews and no lectures. Sensitive questions were handled by Dr. Rikke Lund with discretion and without a hint of judgment.
+
+Review 3 for Dr. Rikke Lund, General, Aalborg
+Rating: 8/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Dr. Rikke Lund spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 4 for Dr. Rikke Lund, General, Aalborg
+Rating: 10/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 5 for Dr. Rikke Lund, General, Aalborg
+Rating: 10/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. Paperwork at Klinik Sofiendal Aalborg was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 6 for Dr. Rikke Lund, General, Aalborg
+Rating: 8/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 7 for Dr. Rikke Lund, General, Aalborg
+Rating: 10/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: A translator was arranged for my mother without us asking twice, and Dr. Rikke Lund spoke directly to her throughout. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Rikke Lund, General, Aalborg
+Rating: 10/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Vaccination advice from Dr. Rikke Lund for my travel plans was thorough and specific to the countries I was visiting. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 9 for Dr. Rikke Lund, General, Aalborg
+Rating: 10/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: By the time I left the room, Dr. Rikke Lund had sorted the sick note, referral letter and prescription refill. I have no hesitation sending my own relatives here.
+
+Review 10 for Dr. Rikke Lund, General, Aalborg
+Rating: 10/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: The practice in Aalborg is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Best family doctor I have had; She treats the whole person and not just the symptom list.
+
+Review 11 for Dr. Rikke Lund, General, Aalborg
+Rating: 10/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: My blood pressure had crept up and Dr. Rikke Lund walked me through diet changes before suggesting anything else. Three months later my readings were normal. Highly recommended, and I have already told two colleagues about it.
+
+Review 12 for Dr. Rikke Lund, General, Aalborg
+Rating: 9/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: I always hear back within a day when I leave a question with the nurse at Klinik Sofiendal Aalborg, and Dr. Rikke Lund follows up on lab results personally.
+
+Overall rating for Dr. Rikke Lund, General, Aalborg: 9.33/10 from 12 reviews

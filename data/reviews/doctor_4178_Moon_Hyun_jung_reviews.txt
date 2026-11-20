@@ -1,0 +1,64 @@
+Doctor: Dr. Moon Hyun-jung
+Doctor ID: 4178
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 3
+City: Busan, South Korea
+Clinics: Dongnae Sarang Polyclinic (clinic ID 538)
+
+Review 1 for Dr. Moon Hyun-jung, Psychiatry, Busan
+Rating: 7/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Moon Hyun-jung is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 2 for Dr. Moon Hyun-jung, Psychiatry, Busan
+Rating: 4/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 3 for Dr. Moon Hyun-jung, Psychiatry, Busan
+Rating: 6/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Moon Hyun-jung, Psychiatry, Busan
+Rating: 6/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: Good listener, yet the refill process at Dongnae Sarang Polyclinic is slow and requires several phone calls. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Moon Hyun-jung, Psychiatry, Busan
+Rating: 8/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: I felt heard by Dr. Moon Hyun-jung during a very hard time, and nobody rushed me out of the room. Paperwork at Dongnae Sarang Polyclinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 6 for Dr. Moon Hyun-jung, Psychiatry, Busan
+Rating: 5/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Moon Hyun-jung, Psychiatry, Busan
+Rating: 4/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: I was not told about common side effects by Dr. Moon Hyun-jung, and I had a rough first two weeks that could have been avoided.
+
+Review 8 for Dr. Moon Hyun-jung, Psychiatry, Busan
+Rating: 4/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Review 9 for Dr. Moon Hyun-jung, Psychiatry, Busan
+Rating: 4/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 10 for Dr. Moon Hyun-jung, Psychiatry, Busan
+Rating: 6/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: I liked the advice I got from Dr. Moon Hyun-jung, but I would have liked more time to ask follow-up questions before the visit ended. I like the measured approach, but sometimes I wanted more discussion of non-medication options. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. Moon Hyun-jung, Psychiatry, Busan
+Rating: 7/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. The treatment plan from Dr. Moon Hyun-jung made sense, but I wished it had been written down for me to take away. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Moon Hyun-jung, Psychiatry, Busan: 5.55/10 from 11 reviews

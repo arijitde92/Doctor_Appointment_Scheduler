@@ -1,0 +1,49 @@
+Doctor: Dr. Willem Marais
+Doctor ID: 5784
+Specialization: Cardiology
+Gender: Male
+Years of experience: 11
+City: Johannesburg, South Africa
+Clinics: Melville Koppies Health Clinic (clinic ID 747); Bedfordview Ridge Family Clinic (clinic ID 749)
+
+Review 1 for Dr. Willem Marais, Cardiology, Johannesburg
+Rating: 8/10
+Clinic visited: Bedfordview Ridge Family Clinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 2 for Dr. Willem Marais, Cardiology, Johannesburg
+Rating: 7/10
+Clinic visited: Bedfordview Ridge Family Clinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Willem Marais, Cardiology, Johannesburg
+Rating: 10/10
+Clinic visited: Bedfordview Ridge Family Clinic
+Description: The cardiology unit at Bedfordview Ridge Family Clinic runs on time, and the technicians were professional during my echocardiogram. Everything was explained in plain English by Dr. Willem Marais, and nothing was left to guess.
+
+Review 4 for Dr. Willem Marais, Cardiology, Johannesburg
+Rating: 9/10
+Clinic visited: Melville Koppies Health Clinic
+Description: Dr. Willem Marais looked me in the eye, listened to the whole story and only then started typing.
+
+Review 5 for Dr. Willem Marais, Cardiology, Johannesburg
+Rating: 7/10
+Clinic visited: Bedfordview Ridge Family Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Willem Marais, Cardiology, Johannesburg
+Rating: 8/10
+Clinic visited: Melville Koppies Health Clinic
+Description: Getting to Melville Koppies Health Clinic by public transport in Johannesburg was easy, and there is a step-free entrance for wheelchairs. After my palpitations began, Dr. Willem Marais arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Willem Marais, Cardiology, Johannesburg
+Rating: 8/10
+Clinic visited: Bedfordview Ridge Family Clinic
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 8 for Dr. Willem Marais, Cardiology, Johannesburg
+Rating: 8/10
+Clinic visited: Melville Koppies Health Clinic
+Description: I came away understanding my condition better than I have in years of previous appointments. Clear and calm advice at Melville Koppies Health Clinic about exercise after my stent, including a gradual written schedule.
+
+Overall rating for Dr. Willem Marais, Cardiology, Johannesburg: 8.12/10 from 8 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Lin Jiajia
+Doctor ID: 3834
+Specialization: Pathology
+Gender: Female
+Years of experience: 5
+City: Beijing, China
+Clinics: Jianguo Heren Medical Centre (clinic ID 495)
+
+Review 1 for Dr. Lin Jiajia, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: The biopsy report was returned in three days, and Dr. Lin Jiajia took time on the phone to explain every term in it. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 2 for Dr. Lin Jiajia, Pathology, Beijing
+Rating: 4/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: The staff were curt and impatient when I asked how to read the reference ranges on my report. I felt dismissed by Dr. Lin Jiajia when I brought up a second concern, and was told to book another appointment for it.
+
+Review 3 for Dr. Lin Jiajia, Pathology, Beijing
+Rating: 6/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Lin Jiajia, Pathology, Beijing
+Rating: 7/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 5 for Dr. Lin Jiajia, Pathology, Beijing
+Rating: 6/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Quick appointment and a fair price in Beijing, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Lin Jiajia, Pathology, Beijing
+Rating: 6/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: The blood draw was painless, but the waiting area at Jianguo Heren Medical Centre was crowded in the early morning.
+
+Review 7 for Dr. Lin Jiajia, Pathology, Beijing
+Rating: 7/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Dr. Lin Jiajia answered my questions kindly, though the call back took three days.
+
+Review 8 for Dr. Lin Jiajia, Pathology, Beijing
+Rating: 5/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Helpful in clarifying a borderline result, though Dr. Lin Jiajia gave little guidance about whether to repeat it. Booking was easy online, but the confirmation email contained the wrong address for Jianguo Heren Medical Centre.
+
+Review 9 for Dr. Lin Jiajia, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Beijing. Getting to Jianguo Heren Medical Centre by public transport in Beijing was easy, and there is a step-free entrance for wheelchairs.
+
+Review 10 for Dr. Lin Jiajia, Pathology, Beijing
+Rating: 6/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 11 for Dr. Lin Jiajia, Pathology, Beijing
+Rating: 5/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 12 for Dr. Lin Jiajia, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: The lab under Dr. Lin Jiajia was clean, organized and never overbooked, and results arrived exactly when promised. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Lin Jiajia, Pathology, Beijing: 6.33/10 from 12 reviews

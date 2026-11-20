@@ -1,0 +1,64 @@
+Doctor: Dr. Ethan Harris
+Doctor ID: 6489
+Specialization: Radiology
+Gender: Male
+Years of experience: 3
+City: Melbourne, Australia
+Clinics: Eucalypt Health Practice (clinic ID 840)
+
+Review 1 for Dr. Ethan Harris, Radiology, Melbourne
+Rating: 7/10
+Clinic visited: Eucalypt Health Practice
+Description: Good bedside manner from Dr. Ethan Harris, but the parking near Eucalypt Health Practice is limited and I had to circle for fifteen minutes. The report from Dr. Ethan Harris was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 2 for Dr. Ethan Harris, Radiology, Melbourne
+Rating: 6/10
+Clinic visited: Eucalypt Health Practice
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. I liked the advice I got from Dr. Ethan Harris, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Ethan Harris, Radiology, Melbourne
+Rating: 5/10
+Clinic visited: Eucalypt Health Practice
+Description: Dr. Ethan Harris answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 4 for Dr. Ethan Harris, Radiology, Melbourne
+Rating: 6/10
+Clinic visited: Eucalypt Health Practice
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 5 for Dr. Ethan Harris, Radiology, Melbourne
+Rating: 7/10
+Clinic visited: Eucalypt Health Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Ethan Harris, Radiology, Melbourne
+Rating: 6/10
+Clinic visited: Eucalypt Health Practice
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 7 for Dr. Ethan Harris, Radiology, Melbourne
+Rating: 5/10
+Clinic visited: Eucalypt Health Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Ethan Harris, Radiology, Melbourne
+Rating: 8/10
+Clinic visited: Eucalypt Health Practice
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 9 for Dr. Ethan Harris, Radiology, Melbourne
+Rating: 7/10
+Clinic visited: Eucalypt Health Practice
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 10 for Dr. Ethan Harris, Radiology, Melbourne
+Rating: 6/10
+Clinic visited: Eucalypt Health Practice
+Description: Dr. Ethan Harris was thoughtful and clear, though the front desk was disorganized and lost my first referral form. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 11 for Dr. Ethan Harris, Radiology, Melbourne
+Rating: 3/10
+Clinic visited: Eucalypt Health Practice
+Description: Dr. Ethan Harris was never available to discuss my findings, and the report left me more confused than before.
+
+Overall rating for Dr. Ethan Harris, Radiology, Melbourne: 6.00/10 from 11 reviews

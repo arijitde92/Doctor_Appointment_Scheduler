@@ -1,0 +1,49 @@
+Doctor: Dr. Dao Tam
+Doctor ID: 5001
+Specialization: Psychology
+Gender: Female
+Years of experience: 16
+City: Hanoi, Vietnam
+Clinics: Phong Kham Binh An (clinic ID 646); Phong Kham Da Khoa Thien Phuc (clinic ID 648)
+
+Review 1 for Dr. Dao Tam, Psychology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Binh An
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Dao Tam, Psychology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 3 for Dr. Dao Tam, Psychology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Binh An
+Description: Dr. Dao Tam was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 4 for Dr. Dao Tam, Psychology, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Dao Tam gave me practical tools I still use.
+
+Review 5 for Dr. Dao Tam, Psychology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Binh An
+Description: Dr. Dao Tam listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 6 for Dr. Dao Tam, Psychology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 7 for Dr. Dao Tam, Psychology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Dao Tam, Psychology, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham Binh An
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Dao Tam, Psychology, Hanoi: 8.00/10 from 8 reviews

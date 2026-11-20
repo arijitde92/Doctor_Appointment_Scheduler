@@ -1,0 +1,59 @@
+Doctor: Dr. Luong Phuc
+Doctor ID: 4923
+Specialization: Pathology
+Gender: Male
+Years of experience: 3
+City: Da Nang, Vietnam
+Clinics: Phong Kham Da Khoa Phuc An (clinic ID 635); Phong Kham Tam Giao (clinic ID 636); Phong Kham Bach Duong (clinic ID 637)
+
+Review 1 for Dr. Luong Phuc, Pathology, Da Nang
+Rating: 8/10
+Clinic visited: Phong Kham Tam Giao
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Da Nang. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 2 for Dr. Luong Phuc, Pathology, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Phuc An
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 3 for Dr. Luong Phuc, Pathology, Da Nang
+Rating: 4/10
+Clinic visited: Phong Kham Tam Giao
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. I was billed twice for the same panel and it took a month to get a correction.
+
+Review 4 for Dr. Luong Phuc, Pathology, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Bach Duong
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Luong Phuc, Pathology, Da Nang
+Rating: 10/10
+Clinic visited: Phong Kham Tam Giao
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Sensitive questions were handled by Dr. Luong Phuc with discretion and without a hint of judgment. I feel lucky to have found this practice in my area.
+
+Review 6 for Dr. Luong Phuc, Pathology, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Tam Giao
+Description: Booking was easy online, but the confirmation email contained the wrong address for Phong Kham Tam Giao. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 7 for Dr. Luong Phuc, Pathology, Da Nang
+Rating: 9/10
+Clinic visited: Phong Kham Bach Duong
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. Dr. Luong Phuc double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Luong Phuc, Pathology, Da Nang
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Phuc An
+Description: The biopsy report was returned in three days, and Dr. Luong Phuc took time on the phone to explain every term in it. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 9 for Dr. Luong Phuc, Pathology, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Tam Giao
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 10 for Dr. Luong Phuc, Pathology, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Tam Giao
+Description: Dr. Luong Phuc was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Overall rating for Dr. Luong Phuc, Pathology, Da Nang: 7.10/10 from 10 reviews

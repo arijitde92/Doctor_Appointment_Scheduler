@@ -1,0 +1,54 @@
+Doctor: Dr. Paul Kennedy
+Doctor ID: 2542
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 27
+City: Limerick, Ireland
+Clinics: Henry Street Health Centre (clinic ID 332)
+
+Review 1 for Dr. Paul Kennedy, Pediatrics, Limerick
+Rating: 8/10
+Clinic visited: Henry Street Health Centre
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Paul Kennedy, Pediatrics, Limerick
+Rating: 7/10
+Clinic visited: Henry Street Health Centre
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Paul Kennedy, Pediatrics, Limerick
+Rating: 6/10
+Clinic visited: Henry Street Health Centre
+Description: Booking was easy online, but the confirmation email contained the wrong address for Henry Street Health Centre.
+
+Review 4 for Dr. Paul Kennedy, Pediatrics, Limerick
+Rating: 7/10
+Clinic visited: Henry Street Health Centre
+Description: Dr. Paul Kennedy is thorough with exams, but the after-hours phone line at Henry Street Health Centre is hard to reach. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 5 for Dr. Paul Kennedy, Pediatrics, Limerick
+Rating: 7/10
+Clinic visited: Henry Street Health Centre
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 6 for Dr. Paul Kennedy, Pediatrics, Limerick
+Rating: 6/10
+Clinic visited: Henry Street Health Centre
+Description: Caring and gentle with my child, Dr. Paul Kennedy nonetheless ran forty minutes behind schedule at most appointments. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Paul Kennedy, Pediatrics, Limerick
+Rating: 6/10
+Clinic visited: Henry Street Health Centre
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Good bedside manner from Dr. Paul Kennedy, but the parking near Henry Street Health Centre is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Paul Kennedy, Pediatrics, Limerick
+Rating: 4/10
+Clinic visited: Henry Street Health Centre
+Description: The visit felt rushed, and Dr. Paul Kennedy was already halfway out the door when I started to describe my second symptom. The visit felt rushed, and my worries about my toddler's feeding were waved away as normal.
+
+Review 9 for Dr. Paul Kennedy, Pediatrics, Limerick
+Rating: 3/10
+Clinic visited: Henry Street Health Centre
+Description: There was no translator available, and my parent was left unable to follow what was being said. I will not be returning and have already started looking for another doctor.
+
+Overall rating for Dr. Paul Kennedy, Pediatrics, Limerick: 6.00/10 from 9 reviews

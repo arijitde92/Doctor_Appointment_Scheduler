@@ -1,0 +1,59 @@
+Doctor: Dr. Daniel Castro
+Doctor ID: 811
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 5
+City: Mendoza, Argentina
+Clinics: Centro Médico Las Heras (clinic ID 106)
+
+Review 1 for Dr. Daniel Castro, Psychiatry, Mendoza
+Rating: 8/10
+Clinic visited: Centro Médico Las Heras
+Description: My family was included in a session at my request, and Dr. Daniel Castro handled it with great tact. A translator was arranged for my mother without us asking twice, and Dr. Daniel Castro spoke directly to her throughout.
+
+Review 2 for Dr. Daniel Castro, Psychiatry, Mendoza
+Rating: 10/10
+Clinic visited: Centro Médico Las Heras
+Description: I was given a printed summary of the visit, which I shared with my family at home. The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 3 for Dr. Daniel Castro, Psychiatry, Mendoza
+Rating: 9/10
+Clinic visited: Centro Médico Las Heras
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely.
+
+Review 4 for Dr. Daniel Castro, Psychiatry, Mendoza
+Rating: 9/10
+Clinic visited: Centro Médico Las Heras
+Description: Never once did Dr. Daniel Castro make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 5 for Dr. Daniel Castro, Psychiatry, Mendoza
+Rating: 8/10
+Clinic visited: Centro Médico Las Heras
+Description: The waiting room at Centro Médico Las Heras was clean, quiet and comfortable, with enough seating and water available. Dr. Daniel Castro took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 6 for Dr. Daniel Castro, Psychiatry, Mendoza
+Rating: 7/10
+Clinic visited: Centro Médico Las Heras
+Description: The treatment plan from Dr. Daniel Castro made sense, but I wished it had been written down for me to take away. Good listener, yet the refill process at Centro Médico Las Heras is slow and requires several phone calls.
+
+Review 7 for Dr. Daniel Castro, Psychiatry, Mendoza
+Rating: 6/10
+Clinic visited: Centro Médico Las Heras
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Daniel Castro, Psychiatry, Mendoza
+Rating: 9/10
+Clinic visited: Centro Médico Las Heras
+Description: Sensitive questions were handled by Dr. Daniel Castro with discretion and without a hint of judgment. Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 9 for Dr. Daniel Castro, Psychiatry, Mendoza
+Rating: 9/10
+Clinic visited: Centro Médico Las Heras
+Description: Appointments in Mendoza are always on schedule, and the waiting area is peaceful and private.
+
+Review 10 for Dr. Daniel Castro, Psychiatry, Mendoza
+Rating: 8/10
+Clinic visited: Centro Médico Las Heras
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Overall rating for Dr. Daniel Castro, Psychiatry, Mendoza: 8.30/10 from 10 reviews

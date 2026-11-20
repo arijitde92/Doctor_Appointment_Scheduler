@@ -1,0 +1,49 @@
+Doctor: Dr. Sven Schmitt
+Doctor ID: 1578
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 25
+City: Hamburg, Germany
+Clinics: Praxis am Rathausmarkt Nord (clinic ID 205); Gesundheitszentrum Altona-Elbe (clinic ID 207)
+
+Review 1 for Dr. Sven Schmitt, Pediatrics, Hamburg
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 2 for Dr. Sven Schmitt, Pediatrics, Hamburg
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: The growth chart review was detailed, and I appreciated that Dr. Sven Schmitt talked to my child as well as to me.
+
+Review 3 for Dr. Sven Schmitt, Pediatrics, Hamburg
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: Sensitive questions were handled by Dr. Sven Schmitt with discretion and without a hint of judgment. I phoned after hours about a fever and was called back within the hour with calm, sensible advice.
+
+Review 4 for Dr. Sven Schmitt, Pediatrics, Hamburg
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Sven Schmitt felt well organized from start to finish. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Sven Schmitt, Pediatrics, Hamburg
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Sven Schmitt, Pediatrics, Hamburg
+Rating: 7/10
+Clinic visited: Praxis am Rathausmarkt Nord
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Sven Schmitt, Pediatrics, Hamburg
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: Caring and gentle with my child, Dr. Sven Schmitt nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 8 for Dr. Sven Schmitt, Pediatrics, Hamburg
+Rating: 8/10
+Clinic visited: Praxis am Rathausmarkt Nord
+Description: We got a same-day appointment for a high fever, and the care at Praxis am Rathausmarkt Nord was kind and efficient. The practice in Hamburg is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Overall rating for Dr. Sven Schmitt, Pediatrics, Hamburg: 7.38/10 from 8 reviews

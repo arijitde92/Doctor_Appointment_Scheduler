@@ -1,0 +1,54 @@
+Doctor: Dr. Laila Soliman
+Doctor ID: 5904
+Specialization: Psychology
+Gender: Female
+Years of experience: 4
+City: Cairo, Egypt
+Clinics: Zamalek Care Health Practice (clinic ID 763)
+
+Review 1 for Dr. Laila Soliman, Psychology, Cairo
+Rating: 7/10
+Clinic visited: Zamalek Care Health Practice
+Description: Dr. Laila Soliman listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 2 for Dr. Laila Soliman, Psychology, Cairo
+Rating: 6/10
+Clinic visited: Zamalek Care Health Practice
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Laila Soliman, Psychology, Cairo
+Rating: 4/10
+Clinic visited: Zamalek Care Health Practice
+Description: Dr. Laila Soliman offered general advice that I could have found online, with no plan tailored to my situation. Dr. Laila Soliman did not seem to have read my notes and asked me to repeat my whole history from the beginning. I will not be returning and have already started looking for another doctor.
+
+Review 4 for Dr. Laila Soliman, Psychology, Cairo
+Rating: 4/10
+Clinic visited: Zamalek Care Health Practice
+Description: My questions were answered by Dr. Laila Soliman with short, vague replies, and I left without a clear plan. Sessions were frequently cut short, and I was still charged the full fee.
+
+Review 5 for Dr. Laila Soliman, Psychology, Cairo
+Rating: 6/10
+Clinic visited: Zamalek Care Health Practice
+Description: My trauma work felt well paced, although the schedule changed several times at Zamalek Care Health Practice. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 6 for Dr. Laila Soliman, Psychology, Cairo
+Rating: 7/10
+Clinic visited: Zamalek Care Health Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Zamalek Care Health Practice.
+
+Review 7 for Dr. Laila Soliman, Psychology, Cairo
+Rating: 6/10
+Clinic visited: Zamalek Care Health Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good tools for managing worry, but cancellations with short notice were handled inflexibly. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Laila Soliman, Psychology, Cairo
+Rating: 4/10
+Clinic visited: Zamalek Care Health Practice
+Description: After a month I still did not know what the goals of therapy were or how progress would be measured.
+
+Review 9 for Dr. Laila Soliman, Psychology, Cairo
+Rating: 6/10
+Clinic visited: Zamalek Care Health Practice
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Laila Soliman, Psychology, Cairo: 5.56/10 from 9 reviews

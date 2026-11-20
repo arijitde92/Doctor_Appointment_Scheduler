@@ -1,0 +1,59 @@
+Doctor: Dr. Sanne Dekker
+Doctor ID: 2686
+Specialization: Radiology
+Gender: Female
+Years of experience: 13
+City: Utrecht, Netherlands
+Clinics: Gezondheidscentrum Leidsche Rijn (clinic ID 352)
+
+Review 1 for Dr. Sanne Dekker, Radiology, Utrecht
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: I was given a printed summary of the visit, which I shared with my family at home. She called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 2 for Dr. Sanne Dekker, Radiology, Utrecht
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: Reviewing my X-ray together with Dr. Sanne Dekker on the screen made it much easier to understand my arthritis. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Sanne Dekker, Radiology, Utrecht
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: The receptionist at Gezondheidscentrum Leidsche Rijn remembered my name and had my forms ready, so check-in took less than a minute. Parking was simple, the waiting room was calm, and I never felt like a number.
+
+Review 4 for Dr. Sanne Dekker, Radiology, Utrecht
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: My ultrasound was unhurried, and Dr. Sanne Dekker took time to show me the images and explain what each measurement meant. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Sanne Dekker, Radiology, Utrecht
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: Fast, clean and professional; the bone density scan with Dr. Sanne Dekker was painless and the results were explained clearly.
+
+Review 6 for Dr. Sanne Dekker, Radiology, Utrecht
+Rating: 10/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: When my scan showed something that needed a second look, Dr. Sanne Dekker arranged the follow-up the same day. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 7 for Dr. Sanne Dekker, Radiology, Utrecht
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 8 for Dr. Sanne Dekker, Radiology, Utrecht
+Rating: 10/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: I came away understanding my condition better than I have in years of previous appointments. The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Sanne Dekker were respectful throughout.
+
+Review 9 for Dr. Sanne Dekker, Radiology, Utrecht
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: The practice in Utrecht is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Sanne Dekker sent a clear report within a day.
+
+Review 10 for Dr. Sanne Dekker, Radiology, Utrecht
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: Quick appointment and a fair price in Utrecht, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Sanne Dekker answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Overall rating for Dr. Sanne Dekker, Radiology, Utrecht: 8.40/10 from 10 reviews

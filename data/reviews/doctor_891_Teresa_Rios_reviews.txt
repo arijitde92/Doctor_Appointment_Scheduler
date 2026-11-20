@@ -1,0 +1,64 @@
+Doctor: Dr. Teresa Ríos
+Doctor ID: 891
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 4
+City: Arequipa, Peru
+Clinics: Consultorios Médicos Parra (clinic ID 117); Instituto de Salud Cayma (clinic ID 119)
+
+Review 1 for Dr. Teresa Ríos, Pediatrics, Arequipa
+Rating: 6/10
+Clinic visited: Consultorios Médicos Parra
+Description: Dr. Teresa Ríos is thorough with exams, but the after-hours phone line at Consultorios Médicos Parra is hard to reach. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Teresa Ríos, Pediatrics, Arequipa
+Rating: 8/10
+Clinic visited: Consultorios Médicos Parra
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice.
+
+Review 3 for Dr. Teresa Ríos, Pediatrics, Arequipa
+Rating: 6/10
+Clinic visited: Instituto de Salud Cayma
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Teresa Ríos, Pediatrics, Arequipa
+Rating: 4/10
+Clinic visited: Instituto de Salud Cayma
+Description: I felt dismissed by Dr. Teresa Ríos when I brought up a second concern, and was told to book another appointment for it.
+
+Review 5 for Dr. Teresa Ríos, Pediatrics, Arequipa
+Rating: 6/10
+Clinic visited: Consultorios Médicos Parra
+Description: Booking was easy online, but the confirmation email contained the wrong address for Consultorios Médicos Parra. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Teresa Ríos, Pediatrics, Arequipa
+Rating: 6/10
+Clinic visited: Instituto de Salud Cayma
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Teresa Ríos, Pediatrics, Arequipa
+Rating: 7/10
+Clinic visited: Instituto de Salud Cayma
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The treatment plan from Dr. Teresa Ríos made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Teresa Ríos, Pediatrics, Arequipa
+Rating: 5/10
+Clinic visited: Consultorios Médicos Parra
+Description: Caring and gentle with my child, Dr. Teresa Ríos nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 9 for Dr. Teresa Ríos, Pediatrics, Arequipa
+Rating: 8/10
+Clinic visited: Consultorios Médicos Parra
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Our newborn check-ups with Dr. Teresa Ríos were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Review 10 for Dr. Teresa Ríos, Pediatrics, Arequipa
+Rating: 7/10
+Clinic visited: Consultorios Médicos Parra
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 11 for Dr. Teresa Ríos, Pediatrics, Arequipa
+Rating: 7/10
+Clinic visited: Consultorios Médicos Parra
+Description: Dr. Teresa Ríos was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Teresa Ríos, Pediatrics, Arequipa: 6.36/10 from 11 reviews

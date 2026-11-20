@@ -1,0 +1,69 @@
+Doctor: Dr. Alessandra Ferrari
+Doctor ID: 3507
+Specialization: Cardiology
+Gender: Female
+Years of experience: 17
+City: Rome, Italy
+Clinics: Clinica Appia Nuova (clinic ID 454)
+
+Review 1 for Dr. Alessandra Ferrari, Cardiology, Rome
+Rating: 9/10
+Clinic visited: Clinica Appia Nuova
+Description: Dr. Alessandra Ferrari double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 2 for Dr. Alessandra Ferrari, Cardiology, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Alessandra Ferrari, Cardiology, Rome
+Rating: 9/10
+Clinic visited: Clinica Appia Nuova
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 4 for Dr. Alessandra Ferrari, Cardiology, Rome
+Rating: 5/10
+Clinic visited: Clinica Appia Nuova
+Description: I liked the advice I got from Dr. Alessandra Ferrari, but I would have liked more time to ask follow-up questions before the visit ended. Thorough exam and a good plan, yet the stress test appointment was almost a month away. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Alessandra Ferrari, Cardiology, Rome
+Rating: 4/10
+Clinic visited: Clinica Appia Nuova
+Description: The prescription from Dr. Alessandra Ferrari was not the one we discussed, and I only noticed when I got home. My worries about side effects from my medication were waved off, and nobody offered an alternative.
+
+Review 6 for Dr. Alessandra Ferrari, Cardiology, Rome
+Rating: 9/10
+Clinic visited: Clinica Appia Nuova
+Description: The cardiology unit at Clinica Appia Nuova runs on time, and the technicians were professional during my echocardiogram.
+
+Review 7 for Dr. Alessandra Ferrari, Cardiology, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: I got what I needed, but the next available appointment was three weeks away. Great care in the visit itself, but the billing for the tests at Clinica Appia Nuova was confusing.
+
+Review 8 for Dr. Alessandra Ferrari, Cardiology, Rome
+Rating: 6/10
+Clinic visited: Clinica Appia Nuova
+Description: Helpful with my cholesterol, Dr. Alessandra Ferrari still gave dietary advice that was a little generic. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 9 for Dr. Alessandra Ferrari, Cardiology, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 10 for Dr. Alessandra Ferrari, Cardiology, Rome
+Rating: 6/10
+Clinic visited: Clinica Appia Nuova
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 11 for Dr. Alessandra Ferrari, Cardiology, Rome
+Rating: 5/10
+Clinic visited: Clinica Appia Nuova
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 12 for Dr. Alessandra Ferrari, Cardiology, Rome
+Rating: 8/10
+Clinic visited: Clinica Appia Nuova
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Overall rating for Dr. Alessandra Ferrari, Cardiology, Rome: 6.83/10 from 12 reviews

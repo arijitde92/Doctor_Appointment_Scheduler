@@ -1,0 +1,59 @@
+Doctor: Dr. Adnan Raza
+Doctor ID: 6381
+Specialization: Neurology
+Gender: Male
+Years of experience: 15
+City: Lahore, Pakistan
+Clinics: Model Town Care Polyclinic (clinic ID 827)
+
+Review 1 for Dr. Adnan Raza, Neurology, Lahore
+Rating: 6/10
+Clinic visited: Model Town Care Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 2 for Dr. Adnan Raza, Neurology, Lahore
+Rating: 9/10
+Clinic visited: Model Town Care Polyclinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 3 for Dr. Adnan Raza, Neurology, Lahore
+Rating: 7/10
+Clinic visited: Model Town Care Polyclinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 4 for Dr. Adnan Raza, Neurology, Lahore
+Rating: 8/10
+Clinic visited: Model Town Care Polyclinic
+Description: The neurological exam by Dr. Adnan Raza was thorough, with every reflex test and gait check explained as it happened. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. Adnan Raza, Neurology, Lahore
+Rating: 9/10
+Clinic visited: Model Town Care Polyclinic
+Description: The EEG appointment ran on time, and Dr. Adnan Raza reviewed the tracing with me the same week.
+
+Review 6 for Dr. Adnan Raza, Neurology, Lahore
+Rating: 10/10
+Clinic visited: Model Town Care Polyclinic
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. My referral letter was written on the spot, and the specialist's office had my details before I called. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Adnan Raza, Neurology, Lahore
+Rating: 8/10
+Clinic visited: Model Town Care Polyclinic
+Description: I always leave Dr. Adnan Raza's office with a short written summary of changes, which helps my family keep up.
+
+Review 8 for Dr. Adnan Raza, Neurology, Lahore
+Rating: 8/10
+Clinic visited: Model Town Care Polyclinic
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 9 for Dr. Adnan Raza, Neurology, Lahore
+Rating: 9/10
+Clinic visited: Model Town Care Polyclinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 10 for Dr. Adnan Raza, Neurology, Lahore
+Rating: 10/10
+Clinic visited: Model Town Care Polyclinic
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Model Town Care Polyclinic. Dr. Adnan Raza drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Overall rating for Dr. Adnan Raza, Neurology, Lahore: 8.40/10 from 10 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Paulina Wróbel
+Doctor ID: 2729
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 4
+City: Gdansk, Poland
+Clinics: Poliklinika Motława (clinic ID 357)
+
+Review 1 for Dr. Paulina Wróbel, Psychiatry, Gdansk
+Rating: 7/10
+Clinic visited: Poliklinika Motława
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Paulina Wróbel, Psychiatry, Gdansk
+Rating: 9/10
+Clinic visited: Poliklinika Motława
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 3 for Dr. Paulina Wróbel, Psychiatry, Gdansk
+Rating: 6/10
+Clinic visited: Poliklinika Motława
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 4 for Dr. Paulina Wróbel, Psychiatry, Gdansk
+Rating: 6/10
+Clinic visited: Poliklinika Motława
+Description: Dr. Paulina Wróbel was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Paulina Wróbel, Psychiatry, Gdansk
+Rating: 8/10
+Clinic visited: Poliklinika Motława
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 6 for Dr. Paulina Wróbel, Psychiatry, Gdansk
+Rating: 8/10
+Clinic visited: Poliklinika Motława
+Description: Appointments in Gdansk are always on schedule, and the waiting area is peaceful and private.
+
+Review 7 for Dr. Paulina Wróbel, Psychiatry, Gdansk
+Rating: 8/10
+Clinic visited: Poliklinika Motława
+Description: Appointment reminders came by text and email, and rescheduling took two taps. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 8 for Dr. Paulina Wróbel, Psychiatry, Gdansk
+Rating: 8/10
+Clinic visited: Poliklinika Motława
+Description: Telehealth follow-ups at Poliklinika Motława are punctual and calm, and refills are dealt with quickly. Dr. Paulina Wróbel double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 9 for Dr. Paulina Wróbel, Psychiatry, Gdansk
+Rating: 9/10
+Clinic visited: Poliklinika Motława
+Description: The ADHD assessment by Dr. Paulina Wróbel was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 10 for Dr. Paulina Wróbel, Psychiatry, Gdansk
+Rating: 9/10
+Clinic visited: Poliklinika Motława
+Description: I felt heard by Dr. Paulina Wróbel during a very hard time, and nobody rushed me out of the room. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 11 for Dr. Paulina Wróbel, Psychiatry, Gdansk
+Rating: 7/10
+Clinic visited: Poliklinika Motława
+Description: Dr. Paulina Wróbel is knowledgeable, though I waited several weeks for my first appointment.
+
+Overall rating for Dr. Paulina Wróbel, Psychiatry, Gdansk: 7.73/10 from 11 reviews

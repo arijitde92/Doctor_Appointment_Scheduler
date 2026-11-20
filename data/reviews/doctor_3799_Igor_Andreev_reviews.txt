@@ -1,0 +1,59 @@
+Doctor: Dr. Igor Andreev
+Doctor ID: 3799
+Specialization: Psychology
+Gender: Male
+Years of experience: 29
+City: Saint Petersburg, Russia
+Clinics: Nevsky Medical Centre (clinic ID 490); Klinika Belye Nochi (clinic ID 491); Moskovsky Family Polyclinic (clinic ID 492)
+
+Review 1 for Dr. Igor Andreev, Psychology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Nevsky Medical Centre
+Description: The treatment plan from Dr. Igor Andreev made sense, but I wished it had been written down for me to take away. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 2 for Dr. Igor Andreev, Psychology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Nevsky Medical Centre
+Description: The office in Saint Petersburg is quiet and private, and the receptionist never mentions anything in front of other patients. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 3 for Dr. Igor Andreev, Psychology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: I was called in within five minutes of my appointment time at Moskovsky Family Polyclinic, which is rare and much appreciated. Five stars from me, and I would book again tomorrow.
+
+Review 4 for Dr. Igor Andreev, Psychology, Saint Petersburg
+Rating: 6/10
+Clinic visited: Klinika Belye Nochi
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Dr. Igor Andreev listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 5 for Dr. Igor Andreev, Psychology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Nevsky Medical Centre
+Description: Warm, patient and honest, Dr. Igor Andreev told me what progress to expect and it matched reality. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 6 for Dr. Igor Andreev, Psychology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Klinika Belye Nochi
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months.
+
+Review 7 for Dr. Igor Andreev, Psychology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Online sessions through Moskovsky Family Polyclinic worked just as well as in-person ones, and the video link never once failed. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 8 for Dr. Igor Andreev, Psychology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Belye Nochi
+Description: Insightful and kind, though progress with Dr. Igor Andreev felt slow, and I wished for more structured homework between sessions. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Igor Andreev, Psychology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Nevsky Medical Centre
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. Dr. Igor Andreev was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 10 for Dr. Igor Andreev, Psychology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Nevsky Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Igor Andreev, Psychology, Saint Petersburg: 7.80/10 from 10 reviews

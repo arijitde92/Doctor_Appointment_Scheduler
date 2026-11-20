@@ -1,0 +1,54 @@
+Doctor: Dr. Aaron Sanchez
+Doctor ID: 229
+Specialization: Neurology
+Gender: Male
+Years of experience: 15
+City: San Francisco, USA
+Clinics: Cow Hollow Health Associates (clinic ID 32)
+
+Review 1 for Dr. Aaron Sanchez, Neurology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: Prescriptions from Dr. Aaron Sanchez were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 2 for Dr. Aaron Sanchez, Neurology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: The EEG appointment ran on time, and Dr. Aaron Sanchez reviewed the tracing with me the same week. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 3 for Dr. Aaron Sanchez, Neurology, San Francisco
+Rating: 6/10
+Clinic visited: Cow Hollow Health Associates
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Aaron Sanchez explained my results well, although the visit felt short for such a complex condition.
+
+Review 4 for Dr. Aaron Sanchez, Neurology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: Clear and honest talk with Dr. Aaron Sanchez about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Aaron Sanchez, Neurology, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: I was called in within five minutes of my appointment time at Cow Hollow Health Associates, which is rare and much appreciated. My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 6 for Dr. Aaron Sanchez, Neurology, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: The neurological exam by Dr. Aaron Sanchez was thorough, with every reflex test and gait check explained as it happened.
+
+Review 7 for Dr. Aaron Sanchez, Neurology, San Francisco
+Rating: 7/10
+Clinic visited: Cow Hollow Health Associates
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 8 for Dr. Aaron Sanchez, Neurology, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried.
+
+Review 9 for Dr. Aaron Sanchez, Neurology, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: Living with multiple sclerosis feels less frightening because Dr. Aaron Sanchez explains and discusses every change in my plan.
+
+Overall rating for Dr. Aaron Sanchez, Neurology, San Francisco: 8.11/10 from 9 reviews

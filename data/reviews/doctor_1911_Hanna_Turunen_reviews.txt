@@ -1,0 +1,54 @@
+Doctor: Dr. Hanna Turunen
+Doctor ID: 1911
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 18
+City: Tampere, Finland
+Clinics: Terveyskeskus Tahmela (clinic ID 249)
+
+Review 1 for Dr. Hanna Turunen, Orthopedic, Tampere
+Rating: 6/10
+Clinic visited: Terveyskeskus Tahmela
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Hanna Turunen, Orthopedic, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. I liked the advice I got from Dr. Hanna Turunen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Hanna Turunen, Orthopedic, Tampere
+Rating: 5/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 4 for Dr. Hanna Turunen, Orthopedic, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Good bedside manner from Dr. Hanna Turunen, but the parking near Terveyskeskus Tahmela is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Hanna Turunen, Orthopedic, Tampere
+Rating: 6/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 6 for Dr. Hanna Turunen, Orthopedic, Tampere
+Rating: 4/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Dr. Hanna Turunen seemed to dismiss my concerns about swelling after the operation, and I had to go elsewhere. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. I left disappointed and will take my business to another clinic.
+
+Review 7 for Dr. Hanna Turunen, Orthopedic, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Very skilled with my knee, but Dr. Hanna Turunen's clinic runs behind and the wait was over an hour. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Hanna Turunen, Orthopedic, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Hanna Turunen, Orthopedic, Tampere
+Rating: 6/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Dr. Hanna Turunen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Hanna Turunen, Orthopedic, Tampere: 6.11/10 from 9 reviews

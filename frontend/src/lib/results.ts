@@ -115,7 +115,9 @@ export function parseFindDoctors(response: unknown): DoctorClinicRow[] | null {
               name: str(row.clinic_name) ?? `Clinic ${clinicId}`,
               address: str(row.address) ?? "",
               city: str(row.city),
+              country: str(row.country),
               pinCode: row.pin_code != null ? String(row.pin_code) : undefined,
+              timeZone: str(row.time_zone),
             }
           : undefined,
     });
@@ -136,8 +138,10 @@ export function parseClinics(response: unknown): Clinic[] | null {
       name: str(row.name ?? row.clinic_name) ?? `Clinic ${id}`,
       address: str(row.address) ?? "",
       city: str(row.city),
+      country: str(row.country),
       pinCode: row.pin_code != null ? String(row.pin_code) : undefined,
       fullAddress: str(row.full_address),
+      timeZone: str(row.time_zone),
     });
   }
   return out;

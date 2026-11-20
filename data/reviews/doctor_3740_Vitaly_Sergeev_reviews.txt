@@ -1,0 +1,64 @@
+Doctor: Dr. Vitaly Sergeev
+Doctor ID: 3740
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 11
+City: Moscow, Russia
+Clinics: Prospekt Mira Health Practice (clinic ID 483)
+
+Review 1 for Dr. Vitaly Sergeev, Psychiatry, Moscow
+Rating: 6/10
+Clinic visited: Prospekt Mira Health Practice
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The doctor was kind, though the clinic's evening hours are very limited for working people. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Vitaly Sergeev, Psychiatry, Moscow
+Rating: 6/10
+Clinic visited: Prospekt Mira Health Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 3 for Dr. Vitaly Sergeev, Psychiatry, Moscow
+Rating: 5/10
+Clinic visited: Prospekt Mira Health Practice
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 4 for Dr. Vitaly Sergeev, Psychiatry, Moscow
+Rating: 4/10
+Clinic visited: Prospekt Mira Health Practice
+Description: I was not told about common side effects by Dr. Vitaly Sergeev, and I had a rough first two weeks that could have been avoided. I left disappointed and will take my business to another clinic.
+
+Review 5 for Dr. Vitaly Sergeev, Psychiatry, Moscow
+Rating: 7/10
+Clinic visited: Prospekt Mira Health Practice
+Description: I liked the advice I got from Dr. Vitaly Sergeev, but I would have liked more time to ask follow-up questions before the visit ended. Good listener, yet the refill process at Prospekt Mira Health Practice is slow and requires several phone calls. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Vitaly Sergeev, Psychiatry, Moscow
+Rating: 7/10
+Clinic visited: Prospekt Mira Health Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 7 for Dr. Vitaly Sergeev, Psychiatry, Moscow
+Rating: 6/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Vitaly Sergeev, Psychiatry, Moscow
+Rating: 5/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Prospekt Mira Health Practice. Dr. Vitaly Sergeev is knowledgeable, though I waited several weeks for my first appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Vitaly Sergeev, Psychiatry, Moscow
+Rating: 6/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Vitaly Sergeev, Psychiatry, Moscow
+Rating: 4/10
+Clinic visited: Prospekt Mira Health Practice
+Description: My concerns about how I felt on the dose were waved away rather than explored. The staff at Prospekt Mira Health Practice were curt on the phone, and it took four attempts to book a simple follow-up. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 11 for Dr. Vitaly Sergeev, Psychiatry, Moscow
+Rating: 6/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Vitaly Sergeev, Psychiatry, Moscow: 5.64/10 from 11 reviews

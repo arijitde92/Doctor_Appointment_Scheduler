@@ -1,0 +1,54 @@
+Doctor: Dr. Foo Shi Min
+Doctor ID: 4601
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 5
+City: Singapore, Singapore
+Clinics: Pioneer Health Practice (clinic ID 594)
+
+Review 1 for Dr. Foo Shi Min, Psychiatry, Singapore
+Rating: 8/10
+Clinic visited: Pioneer Health Practice
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Foo Shi Min, Psychiatry, Singapore
+Rating: 6/10
+Clinic visited: Pioneer Health Practice
+Description: I got what I needed, but the next available appointment was three weeks away. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 3 for Dr. Foo Shi Min, Psychiatry, Singapore
+Rating: 9/10
+Clinic visited: Pioneer Health Practice
+Description: Telehealth follow-ups at Pioneer Health Practice are punctual and calm, and refills are dealt with quickly. A same-day slot was found for me at Pioneer Health Practice when I called with a worrying symptom. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Foo Shi Min, Psychiatry, Singapore
+Rating: 9/10
+Clinic visited: Pioneer Health Practice
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Foo Shi Min, Psychiatry, Singapore
+Rating: 8/10
+Clinic visited: Pioneer Health Practice
+Description: My family was included in a session at my request, and Dr. Foo Shi Min handled it with great tact.
+
+Review 6 for Dr. Foo Shi Min, Psychiatry, Singapore
+Rating: 9/10
+Clinic visited: Pioneer Health Practice
+Description: Everything was explained in plain English by Dr. Foo Shi Min, and nothing was left to guess.
+
+Review 7 for Dr. Foo Shi Min, Psychiatry, Singapore
+Rating: 6/10
+Clinic visited: Pioneer Health Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Supportive in crisis, but follow-up between visits could have been more regular. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Foo Shi Min, Psychiatry, Singapore
+Rating: 5/10
+Clinic visited: Pioneer Health Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 9 for Dr. Foo Shi Min, Psychiatry, Singapore
+Rating: 7/10
+Clinic visited: Pioneer Health Practice
+Description: Dr. Foo Shi Min was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Overall rating for Dr. Foo Shi Min, Psychiatry, Singapore: 7.44/10 from 9 reviews

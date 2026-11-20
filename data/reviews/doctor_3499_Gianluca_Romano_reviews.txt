@@ -1,0 +1,49 @@
+Doctor: Dr. Gianluca Romano
+Doctor ID: 3499
+Specialization: Radiology
+Gender: Male
+Years of experience: 1
+City: Rome, Italy
+Clinics: Poliambulatorio Trastevere (clinic ID 453)
+
+Review 1 for Dr. Gianluca Romano, Radiology, Rome
+Rating: 6/10
+Clinic visited: Poliambulatorio Trastevere
+Description: I liked the advice I got from Dr. Gianluca Romano, but I would have liked more time to ask follow-up questions before the visit ended. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Gianluca Romano, Radiology, Rome
+Rating: 6/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 3 for Dr. Gianluca Romano, Radiology, Rome
+Rating: 5/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Gianluca Romano, Radiology, Rome
+Rating: 5/10
+Clinic visited: Poliambulatorio Trastevere
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 5 for Dr. Gianluca Romano, Radiology, Rome
+Rating: 4/10
+Clinic visited: Poliambulatorio Trastevere
+Description: I was charged for a second scan that I was told was a free repeat after an image problem.
+
+Review 6 for Dr. Gianluca Romano, Radiology, Rome
+Rating: 2/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Dr. Gianluca Romano was never available to discuss my findings, and the report left me more confused than before. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. I will not be returning and have already started looking for another doctor.
+
+Review 7 for Dr. Gianluca Romano, Radiology, Rome
+Rating: 2/10
+Clinic visited: Poliambulatorio Trastevere
+Description: My images were not sent to my specialist as promised, so my consultation had to be postponed. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 8 for Dr. Gianluca Romano, Radiology, Rome
+Rating: 6/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Overall rating for Dr. Gianluca Romano, Radiology, Rome: 4.50/10 from 8 reviews

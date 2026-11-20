@@ -1,0 +1,49 @@
+Doctor: Dr. Yamaguchi Yui
+Doctor ID: 4006
+Specialization: Pathology
+Gender: Female
+Years of experience: 10
+City: Kyoto, Japan
+Clinics: Karasuma Matsu Family Clinic (clinic ID 516)
+
+Review 1 for Dr. Yamaguchi Yui, Pathology, Kyoto
+Rating: 5/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Dr. Yamaguchi Yui was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 2 for Dr. Yamaguchi Yui, Pathology, Kyoto
+Rating: 4/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: The visit felt rushed, and Dr. Yamaguchi Yui was already halfway out the door when I started to describe my second symptom. I was billed twice for the same panel and it took a month to get a correction. I left disappointed and will take my business to another clinic.
+
+Review 3 for Dr. Yamaguchi Yui, Pathology, Kyoto
+Rating: 4/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Dr. Yamaguchi Yui was never available to talk about my result, and the front desk repeated that I should ask my referring physician. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 4 for Dr. Yamaguchi Yui, Pathology, Kyoto
+Rating: 1/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 5 for Dr. Yamaguchi Yui, Pathology, Kyoto
+Rating: 4/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. I will not be returning and have already started looking for another doctor.
+
+Review 6 for Dr. Yamaguchi Yui, Pathology, Kyoto
+Rating: 3/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: I felt dismissed by Dr. Yamaguchi Yui when I brought up a second concern, and was told to book another appointment for it. My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 7 for Dr. Yamaguchi Yui, Pathology, Kyoto
+Rating: 4/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: The report was handed over by Dr. Yamaguchi Yui with no explanation, and I left frightened and confused about the terminology. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 8 for Dr. Yamaguchi Yui, Pathology, Kyoto
+Rating: 5/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Overall rating for Dr. Yamaguchi Yui, Pathology, Kyoto: 3.75/10 from 8 reviews

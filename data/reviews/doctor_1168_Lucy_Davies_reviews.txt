@@ -1,0 +1,49 @@
+Doctor: Dr. Lucy Davies
+Doctor ID: 1168
+Specialization: Psychology
+Gender: Female
+Years of experience: 1
+City: Manchester, UK
+Clinics: Wilmslow Road Family Clinic (clinic ID 152); Hardman Square Polyclinic (clinic ID 153)
+
+Review 1 for Dr. Lucy Davies, Psychology, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: I never felt judged by Dr. Lucy Davies when talking about my burnout, and the sessions gave me language for things I could not explain before. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Lucy Davies, Psychology, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Lucy Davies, Psychology, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: She was upfront about what could and could not be treated, and did not oversell any option. Helped me set boundaries with my family without any blame, and I have kept using those scripts for months.
+
+Review 4 for Dr. Lucy Davies, Psychology, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 5 for Dr. Lucy Davies, Psychology, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 6 for Dr. Lucy Davies, Psychology, Manchester
+Rating: 6/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Insightful and kind, though progress with Dr. Lucy Davies felt slow, and I wished for more structured homework between sessions.
+
+Review 7 for Dr. Lucy Davies, Psychology, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. The treatment plan from Dr. Lucy Davies made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Lucy Davies, Psychology, Manchester
+Rating: 6/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: My trauma work felt well paced, although the schedule changed several times at Wilmslow Road Family Clinic. Helpful visit overall, although I only found out about an extra charge after I had paid. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Lucy Davies, Psychology, Manchester: 7.25/10 from 8 reviews

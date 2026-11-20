@@ -1,0 +1,64 @@
+Doctor: Dr. Anastasia Grigorieva
+Doctor ID: 3722
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 8
+City: Moscow, Russia
+Clinics: Tverskoy Medical Centre (clinic ID 480)
+
+Review 1 for Dr. Anastasia Grigorieva, Pediatrics, Moscow
+Rating: 8/10
+Clinic visited: Tverskoy Medical Centre
+Description: The practice in Moscow is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 2 for Dr. Anastasia Grigorieva, Pediatrics, Moscow
+Rating: 7/10
+Clinic visited: Tverskoy Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Anastasia Grigorieva, Pediatrics, Moscow
+Rating: 10/10
+Clinic visited: Tverskoy Medical Centre
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 4 for Dr. Anastasia Grigorieva, Pediatrics, Moscow
+Rating: 9/10
+Clinic visited: Tverskoy Medical Centre
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. My child left with a sticker and a smile, which tells me everything about how the visit went. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Anastasia Grigorieva, Pediatrics, Moscow
+Rating: 8/10
+Clinic visited: Tverskoy Medical Centre
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. I feel lucky to have found this practice in my area.
+
+Review 6 for Dr. Anastasia Grigorieva, Pediatrics, Moscow
+Rating: 7/10
+Clinic visited: Tverskoy Medical Centre
+Description: The treatment plan from Dr. Anastasia Grigorieva made sense, but I wished it had been written down for me to take away. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 7 for Dr. Anastasia Grigorieva, Pediatrics, Moscow
+Rating: 8/10
+Clinic visited: Tverskoy Medical Centre
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Anastasia Grigorieva, Pediatrics, Moscow
+Rating: 8/10
+Clinic visited: Tverskoy Medical Centre
+Description: My child's asthma action plan from Dr. Anastasia Grigorieva was written out clearly so that school staff could follow it too.
+
+Review 9 for Dr. Anastasia Grigorieva, Pediatrics, Moscow
+Rating: 6/10
+Clinic visited: Tverskoy Medical Centre
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 10 for Dr. Anastasia Grigorieva, Pediatrics, Moscow
+Rating: 10/10
+Clinic visited: Tverskoy Medical Centre
+Description: The receptionist at Tverskoy Medical Centre remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 11 for Dr. Anastasia Grigorieva, Pediatrics, Moscow
+Rating: 10/10
+Clinic visited: Tverskoy Medical Centre
+Description: She was upfront about what could and could not be treated, and did not oversell any option.
+
+Overall rating for Dr. Anastasia Grigorieva, Pediatrics, Moscow: 8.27/10 from 11 reviews

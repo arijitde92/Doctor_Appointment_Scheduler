@@ -1,0 +1,59 @@
+Doctor: Dr. Fernando Ferrer Puig
+Doctor ID: 1440
+Specialization: Pathology
+Gender: Male
+Years of experience: 23
+City: Seville, Spain
+Clinics: Clínica Santa Justa (clinic ID 188)
+
+Review 1 for Dr. Fernando Ferrer Puig, Pathology, Seville
+Rating: 6/10
+Clinic visited: Clínica Santa Justa
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Fernando Ferrer Puig, Pathology, Seville
+Rating: 8/10
+Clinic visited: Clínica Santa Justa
+Description: I was given a printed summary of the visit, which I shared with my family at home. The lab under Dr. Fernando Ferrer Puig was clean, organized and never overbooked, and results arrived exactly when promised.
+
+Review 3 for Dr. Fernando Ferrer Puig, Pathology, Seville
+Rating: 10/10
+Clinic visited: Clínica Santa Justa
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. The receptionist at Clínica Santa Justa remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 4 for Dr. Fernando Ferrer Puig, Pathology, Seville
+Rating: 6/10
+Clinic visited: Clínica Santa Justa
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Dr. Fernando Ferrer Puig was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Fernando Ferrer Puig, Pathology, Seville
+Rating: 10/10
+Clinic visited: Clínica Santa Justa
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Appointment reminders came by text and email, and rescheduling took two taps. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Fernando Ferrer Puig, Pathology, Seville
+Rating: 8/10
+Clinic visited: Clínica Santa Justa
+Description: Allergy panel results were explained in detail by Dr. Fernando Ferrer Puig, with a note on which results mattered clinically and which did not. Sensitive questions were handled by Dr. Fernando Ferrer Puig with discretion and without a hint of judgment.
+
+Review 7 for Dr. Fernando Ferrer Puig, Pathology, Seville
+Rating: 9/10
+Clinic visited: Clínica Santa Justa
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 8 for Dr. Fernando Ferrer Puig, Pathology, Seville
+Rating: 10/10
+Clinic visited: Clínica Santa Justa
+Description: Dr. Fernando Ferrer Puig took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. Dr. Fernando Ferrer Puig looked me in the eye, listened to the whole story and only then started typing.
+
+Review 9 for Dr. Fernando Ferrer Puig, Pathology, Seville
+Rating: 9/10
+Clinic visited: Clínica Santa Justa
+Description: I asked for a second look at my slides, and Dr. Fernando Ferrer Puig reviewed them without any fuss and confirmed the finding in writing. Dr. Fernando Ferrer Puig drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 10 for Dr. Fernando Ferrer Puig, Pathology, Seville
+Rating: 9/10
+Clinic visited: Clínica Santa Justa
+Description: At my visit, Dr. Fernando Ferrer Puig took notes on my medication list, checked for interactions and explained the changes simply. I was nervous about the biopsy result, and the call from Dr. Fernando Ferrer Puig was gentle, honest and unhurried.
+
+Overall rating for Dr. Fernando Ferrer Puig, Pathology, Seville: 8.50/10 from 10 reviews

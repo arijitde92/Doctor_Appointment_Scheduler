@@ -1,0 +1,64 @@
+Doctor: Dr. José Ney
+Doctor ID: 3254
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 19
+City: Dudelange, Luxembourg
+Clinics: Polyclinique Italiens (clinic ID 422)
+
+Review 1 for Dr. José Ney, Pediatrics, Dudelange
+Rating: 8/10
+Clinic visited: Polyclinique Italiens
+Description: Our newborn check-ups with Dr. José Ney were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Review 2 for Dr. José Ney, Pediatrics, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 3 for Dr. José Ney, Pediatrics, Dudelange
+Rating: 9/10
+Clinic visited: Polyclinique Italiens
+Description: My toddler was terrified of doctors, but Dr. José Ney sat on the floor, played with a stuffed toy and examined everything without a single tear. I appreciated that he offered more than one option and let me choose what suited my life. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. José Ney, Pediatrics, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: Dr. José Ney is thorough with exams, but the after-hours phone line at Polyclinique Italiens is hard to reach.
+
+Review 5 for Dr. José Ney, Pediatrics, Dudelange
+Rating: 6/10
+Clinic visited: Polyclinique Italiens
+Description: The treatment plan from Dr. José Ney made sense, but I wished it had been written down for me to take away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. José Ney, Pediatrics, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I liked the advice I got from Dr. José Ney, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. José Ney, Pediatrics, Dudelange
+Rating: 5/10
+Clinic visited: Polyclinique Italiens
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. José Ney, Pediatrics, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 9 for Dr. José Ney, Pediatrics, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Dr. José Ney was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 10 for Dr. José Ney, Pediatrics, Dudelange
+Rating: 4/10
+Clinic visited: Polyclinique Italiens
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. The visit felt rushed, and my worries about my toddler's feeding were waved away as normal.
+
+Review 11 for Dr. José Ney, Pediatrics, Dudelange
+Rating: 4/10
+Clinic visited: Polyclinique Italiens
+Description: Dr. José Ney spoke mostly to the computer, and my child clung to me throughout the whole appointment.
+
+Overall rating for Dr. José Ney, Pediatrics, Dudelange: 6.45/10 from 11 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Antonio Garcia
+Doctor ID: 4896
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 2
+City: Quezon City, Philippines
+Clinics: Dalisay Family Health Practice (clinic ID 632)
+
+Review 1 for Dr. Antonio Garcia, Psychiatry, Quezon City
+Rating: 10/10
+Clinic visited: Dalisay Family Health Practice
+Description: Sensitive questions were handled by Dr. Antonio Garcia with discretion and without a hint of judgment. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Antonio Garcia, Psychiatry, Quezon City
+Rating: 8/10
+Clinic visited: Dalisay Family Health Practice
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 3 for Dr. Antonio Garcia, Psychiatry, Quezon City
+Rating: 9/10
+Clinic visited: Dalisay Family Health Practice
+Description: I felt heard by Dr. Antonio Garcia during a very hard time, and nobody rushed me out of the room. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Antonio Garcia, Psychiatry, Quezon City
+Rating: 10/10
+Clinic visited: Dalisay Family Health Practice
+Description: Excellent at explaining how therapy and medication work together, and Dr. Antonio Garcia coordinated with my counselor. The nurse was friendly and efficient, and the whole visit with Dr. Antonio Garcia felt well organized from start to finish.
+
+Review 5 for Dr. Antonio Garcia, Psychiatry, Quezon City
+Rating: 9/10
+Clinic visited: Dalisay Family Health Practice
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Antonio Garcia, Psychiatry, Quezon City
+Rating: 9/10
+Clinic visited: Dalisay Family Health Practice
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Appointments in Quezon City are always on schedule, and the waiting area is peaceful and private. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Antonio Garcia, Psychiatry, Quezon City
+Rating: 8/10
+Clinic visited: Dalisay Family Health Practice
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 8 for Dr. Antonio Garcia, Psychiatry, Quezon City
+Rating: 10/10
+Clinic visited: Dalisay Family Health Practice
+Description: Getting to Dalisay Family Health Practice by public transport in Quezon City was easy, and there is a step-free entrance for wheelchairs. Dr. Antonio Garcia took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 9 for Dr. Antonio Garcia, Psychiatry, Quezon City
+Rating: 10/10
+Clinic visited: Dalisay Family Health Practice
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 10 for Dr. Antonio Garcia, Psychiatry, Quezon City
+Rating: 7/10
+Clinic visited: Dalisay Family Health Practice
+Description: Good listener, yet the refill process at Dalisay Family Health Practice is slow and requires several phone calls.
+
+Overall rating for Dr. Antonio Garcia, Psychiatry, Quezon City: 9.00/10 from 10 reviews

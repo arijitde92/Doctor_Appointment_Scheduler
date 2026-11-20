@@ -1,0 +1,64 @@
+Doctor: Dr. Claire Vincent
+Doctor ID: 1219
+Specialization: Neurology
+Gender: Female
+Years of experience: 3
+City: Lyon, France
+Clinics: Polyclinique de Gerland (clinic ID 159)
+
+Review 1 for Dr. Claire Vincent, Neurology, Lyon
+Rating: 5/10
+Clinic visited: Polyclinique de Gerland
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 2 for Dr. Claire Vincent, Neurology, Lyon
+Rating: 6/10
+Clinic visited: Polyclinique de Gerland
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Clear explanations, but the follow-up call took a week longer than I had been told. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Claire Vincent, Neurology, Lyon
+Rating: 9/10
+Clinic visited: Polyclinique de Gerland
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 4 for Dr. Claire Vincent, Neurology, Lyon
+Rating: 7/10
+Clinic visited: Polyclinique de Gerland
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Claire Vincent, Neurology, Lyon
+Rating: 7/10
+Clinic visited: Polyclinique de Gerland
+Description: Quick appointment and a fair price in Lyon, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Claire Vincent, Neurology, Lyon
+Rating: 7/10
+Clinic visited: Polyclinique de Gerland
+Description: Dr. Claire Vincent was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 7 for Dr. Claire Vincent, Neurology, Lyon
+Rating: 7/10
+Clinic visited: Polyclinique de Gerland
+Description: Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 8 for Dr. Claire Vincent, Neurology, Lyon
+Rating: 7/10
+Clinic visited: Polyclinique de Gerland
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Claire Vincent, Neurology, Lyon
+Rating: 6/10
+Clinic visited: Polyclinique de Gerland
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Claire Vincent, Neurology, Lyon
+Rating: 8/10
+Clinic visited: Polyclinique de Gerland
+Description: Dr. Claire Vincent double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 11 for Dr. Claire Vincent, Neurology, Lyon
+Rating: 8/10
+Clinic visited: Polyclinique de Gerland
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. I felt like a person rather than a case number, and she asked about my life as well as my symptoms. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Claire Vincent, Neurology, Lyon: 7.00/10 from 11 reviews

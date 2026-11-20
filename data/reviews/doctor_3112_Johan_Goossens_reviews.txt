@@ -1,0 +1,59 @@
+Doctor: Dr. Johan Goossens
+Doctor ID: 3112
+Specialization: Pathology
+Gender: Male
+Years of experience: 30
+City: Brussels, Belgium
+Clinics: Clinique du Parvis (clinic ID 404)
+
+Review 1 for Dr. Johan Goossens, Pathology, Brussels
+Rating: 7/10
+Clinic visited: Clinique du Parvis
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Quick appointment and a fair price in Brussels, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Johan Goossens, Pathology, Brussels
+Rating: 9/10
+Clinic visited: Clinique du Parvis
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 3 for Dr. Johan Goossens, Pathology, Brussels
+Rating: 9/10
+Clinic visited: Clinique du Parvis
+Description: The lab at Clinique du Parvis had a quick, friendly blood draw and the phlebotomist found my vein on the first try. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Johan Goossens, Pathology, Brussels
+Rating: 6/10
+Clinic visited: Clinique du Parvis
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 5 for Dr. Johan Goossens, Pathology, Brussels
+Rating: 5/10
+Clinic visited: Clinique du Parvis
+Description: The blood draw was painless, but the waiting area at Clinique du Parvis was crowded in the early morning. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Johan Goossens, Pathology, Brussels
+Rating: 8/10
+Clinic visited: Clinique du Parvis
+Description: He was upfront about what could and could not be treated, and did not oversell any option. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Johan Goossens, Pathology, Brussels
+Rating: 8/10
+Clinic visited: Clinique du Parvis
+Description: The biopsy report was returned in three days, and Dr. Johan Goossens took time on the phone to explain every term in it. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 8 for Dr. Johan Goossens, Pathology, Brussels
+Rating: 7/10
+Clinic visited: Clinique du Parvis
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clinique du Parvis.
+
+Review 9 for Dr. Johan Goossens, Pathology, Brussels
+Rating: 7/10
+Clinic visited: Clinique du Parvis
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Dr. Johan Goossens answered my questions kindly, though the call back took three days.
+
+Review 10 for Dr. Johan Goossens, Pathology, Brussels
+Rating: 7/10
+Clinic visited: Clinique du Parvis
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Johan Goossens, Pathology, Brussels: 7.30/10 from 10 reviews

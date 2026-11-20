@@ -1,0 +1,49 @@
+Doctor: Dr. Jiang Chun-yu
+Doctor ID: 4312
+Specialization: General
+Gender: Female
+Years of experience: 28
+City: Kaohsiung, Taiwan
+Clinics: Sanduo Fuhe Medical Clinic (clinic ID 555)
+
+Review 1 for Dr. Jiang Chun-yu, General, Kaohsiung
+Rating: 7/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 2 for Dr. Jiang Chun-yu, General, Kaohsiung
+Rating: 6/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 3 for Dr. Jiang Chun-yu, General, Kaohsiung
+Rating: 6/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 4 for Dr. Jiang Chun-yu, General, Kaohsiung
+Rating: 7/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Sanduo Fuhe Medical Clinic were inconsistent.
+
+Review 5 for Dr. Jiang Chun-yu, General, Kaohsiung
+Rating: 7/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Referrals from Dr. Jiang Chun-yu are handled well, but getting test results back took longer than I was told to expect.
+
+Review 6 for Dr. Jiang Chun-yu, General, Kaohsiung
+Rating: 7/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Dr. Jiang Chun-yu is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Jiang Chun-yu, General, Kaohsiung
+Rating: 8/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: My annual check-up with Dr. Jiang Chun-yu took forty minutes, with every screening explained and nothing rushed.
+
+Review 8 for Dr. Jiang Chun-yu, General, Kaohsiung
+Rating: 10/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Managing my type 2 diabetes with Dr. Jiang Chun-yu has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Overall rating for Dr. Jiang Chun-yu, General, Kaohsiung: 7.25/10 from 8 reviews

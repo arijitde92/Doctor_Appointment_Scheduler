@@ -1,0 +1,64 @@
+Doctor: Dr. Giuseppe Ferrara
+Doctor ID: 3487
+Specialization: Radiology
+Gender: Male
+Years of experience: 18
+City: Rome, Italy
+Clinics: Centro Medico Prati (clinic ID 451)
+
+Review 1 for Dr. Giuseppe Ferrara, Radiology, Rome
+Rating: 9/10
+Clinic visited: Centro Medico Prati
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. A same-day slot was found for me at Centro Medico Prati when I called with a worrying symptom.
+
+Review 2 for Dr. Giuseppe Ferrara, Radiology, Rome
+Rating: 9/10
+Clinic visited: Centro Medico Prati
+Description: Everything was explained in plain English by Dr. Giuseppe Ferrara, and nothing was left to guess. My ultrasound was unhurried, and Dr. Giuseppe Ferrara took time to show me the images and explain what each measurement meant.
+
+Review 3 for Dr. Giuseppe Ferrara, Radiology, Rome
+Rating: 9/10
+Clinic visited: Centro Medico Prati
+Description: The staff at Centro Medico Prati in Rome explained the contrast dye and its side effects before I signed anything.
+
+Review 4 for Dr. Giuseppe Ferrara, Radiology, Rome
+Rating: 8/10
+Clinic visited: Centro Medico Prati
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Giuseppe Ferrara, Radiology, Rome
+Rating: 7/10
+Clinic visited: Centro Medico Prati
+Description: Dr. Giuseppe Ferrara answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 6 for Dr. Giuseppe Ferrara, Radiology, Rome
+Rating: 10/10
+Clinic visited: Centro Medico Prati
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 7 for Dr. Giuseppe Ferrara, Radiology, Rome
+Rating: 7/10
+Clinic visited: Centro Medico Prati
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 8 for Dr. Giuseppe Ferrara, Radiology, Rome
+Rating: 7/10
+Clinic visited: Centro Medico Prati
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 9 for Dr. Giuseppe Ferrara, Radiology, Rome
+Rating: 8/10
+Clinic visited: Centro Medico Prati
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. Dr. Giuseppe Ferrara drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 10 for Dr. Giuseppe Ferrara, Radiology, Rome
+Rating: 10/10
+Clinic visited: Centro Medico Prati
+Description: Dr. Giuseppe Ferrara double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 11 for Dr. Giuseppe Ferrara, Radiology, Rome
+Rating: 6/10
+Clinic visited: Centro Medico Prati
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Overall rating for Dr. Giuseppe Ferrara, Radiology, Rome: 8.18/10 from 11 reviews

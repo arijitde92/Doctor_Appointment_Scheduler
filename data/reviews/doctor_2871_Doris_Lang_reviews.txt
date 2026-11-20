@@ -1,0 +1,49 @@
+Doctor: Dr. Doris Lang
+Doctor ID: 2871
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 3
+City: Graz, Austria
+Clinics: Ärztehaus Herrengasse Graz (clinic ID 375); Gesundheitszentrum Annenviertel (clinic ID 376); Praxiszentrum Grazer Murblick (clinic ID 377)
+
+Review 1 for Dr. Doris Lang, Pediatrics, Graz
+Rating: 8/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Dr. Doris Lang noticed a speech delay early and referred us to a therapist, which has made a real difference. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Doris Lang, Pediatrics, Graz
+Rating: 9/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 3 for Dr. Doris Lang, Pediatrics, Graz
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Annenviertel
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Doris Lang, Pediatrics, Graz
+Rating: 9/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Dr. Doris Lang looked me in the eye, listened to the whole story and only then started typing. Vaccination visits with Dr. Doris Lang are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 5 for Dr. Doris Lang, Pediatrics, Graz
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Annenviertel
+Description: I got what I needed, but the next available appointment was three weeks away. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Doris Lang, Pediatrics, Graz
+Rating: 6/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Doris Lang, Pediatrics, Graz
+Rating: 6/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Doris Lang, Pediatrics, Graz
+Rating: 6/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: Dr. Doris Lang is thorough with exams, but the after-hours phone line at Praxiszentrum Grazer Murblick is hard to reach.
+
+Overall rating for Dr. Doris Lang, Pediatrics, Graz: 7.38/10 from 8 reviews

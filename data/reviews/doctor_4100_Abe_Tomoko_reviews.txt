@@ -1,0 +1,59 @@
+Doctor: Dr. Abe Tomoko
+Doctor ID: 4100
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 16
+City: Tokyo, Japan
+Clinics: Setagaya Kotobuki Family Clinic (clinic ID 529)
+
+Review 1 for Dr. Abe Tomoko, Pulmonology, Tokyo
+Rating: 8/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Abe Tomoko, Pulmonology, Tokyo
+Rating: 5/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 3 for Dr. Abe Tomoko, Pulmonology, Tokyo
+Rating: 9/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: At my visit, Dr. Abe Tomoko took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 4 for Dr. Abe Tomoko, Pulmonology, Tokyo
+Rating: 4/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Dr. Abe Tomoko rushed through my scan results and I left the room unsure whether I needed treatment. The visit felt rushed, and Dr. Abe Tomoko was already halfway out the door when I started to describe my second symptom.
+
+Review 5 for Dr. Abe Tomoko, Pulmonology, Tokyo
+Rating: 9/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Abe Tomoko.
+
+Review 6 for Dr. Abe Tomoko, Pulmonology, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Quick appointment and a fair price in Tokyo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Abe Tomoko, Pulmonology, Tokyo
+Rating: 6/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Abe Tomoko, Pulmonology, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Setagaya Kotobuki Family Clinic regularly exceeded forty minutes. The treatment plan from Dr. Abe Tomoko made sense, but I wished it had been written down for me to take away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Abe Tomoko, Pulmonology, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 10 for Dr. Abe Tomoko, Pulmonology, Tokyo
+Rating: 6/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Dr. Abe Tomoko adjusted my asthma medication well, but the breathing test appointment was a month away. Clear explanations, but the follow-up call took a week longer than I had been told. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Abe Tomoko, Pulmonology, Tokyo: 6.80/10 from 10 reviews

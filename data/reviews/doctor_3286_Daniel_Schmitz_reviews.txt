@@ -1,0 +1,59 @@
+Doctor: Dr. Daniel Schmitz
+Doctor ID: 3286
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 3
+City: Esch-sur-Alzette, Luxembourg
+Clinics: Centre Médical Belval (clinic ID 426)
+
+Review 1 for Dr. Daniel Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 9/10
+Clinic visited: Centre Médical Belval
+Description: Dr. Daniel Schmitz explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 2 for Dr. Daniel Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Centre Médical Belval
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. Appointment reminders came by text and email, and rescheduling took two taps. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Daniel Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Centre Médical Belval
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Daniel Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Centre Médical Belval
+Description: I appreciated Dr. Daniel Schmitz's honest comparison between injections, therapy and surgery for my hip pain.
+
+Review 5 for Dr. Daniel Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Centre Médical Belval
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 6 for Dr. Daniel Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 5/10
+Clinic visited: Centre Médical Belval
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. I liked the advice I got from Dr. Daniel Schmitz, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Daniel Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Centre Médical Belval
+Description: Getting around Esch-sur-Alzette on crutches was hard, but the accessible entrance and short waiting time at Centre Médical Belval helped a lot. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Daniel Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Centre Médical Belval
+Description: Seen the same day at Centre Médical Belval after a bad ankle sprain, with an X-ray done and a brace fitted before I left.
+
+Review 9 for Dr. Daniel Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Centre Médical Belval
+Description: Dr. Daniel Schmitz explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 10 for Dr. Daniel Schmitz, Orthopedic, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Centre Médical Belval
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Daniel Schmitz, Orthopedic, Esch-sur-Alzette: 7.20/10 from 10 reviews

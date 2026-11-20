@@ -1,0 +1,64 @@
+Doctor: Dr. Olga Makarova
+Doctor ID: 3816
+Specialization: Cardiology
+Gender: Female
+Years of experience: 17
+City: Saint Petersburg, Russia
+Clinics: Moskovsky Family Polyclinic (clinic ID 492); Neva Health Practice (clinic ID 493)
+
+Review 1 for Dr. Olga Makarova, Cardiology, Saint Petersburg
+Rating: 5/10
+Clinic visited: Neva Health Practice
+Description: The treatment plan from Dr. Olga Makarova made sense, but I wished it had been written down for me to take away. Great care in the visit itself, but the billing for the tests at Neva Health Practice was confusing.
+
+Review 2 for Dr. Olga Makarova, Cardiology, Saint Petersburg
+Rating: 4/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: My questions were answered by Dr. Olga Makarova with short, vague replies, and I left without a clear plan. I reported chest tightness and was sent home with a leaflet and no ECG. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 3 for Dr. Olga Makarova, Cardiology, Saint Petersburg
+Rating: 5/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Olga Makarova, Cardiology, Saint Petersburg
+Rating: 6/10
+Clinic visited: Neva Health Practice
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Olga Makarova, Cardiology, Saint Petersburg
+Rating: 5/10
+Clinic visited: Neva Health Practice
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Olga Makarova, Cardiology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: The receptionist at Moskovsky Family Polyclinic remembered my name and had my forms ready, so check-in took less than a minute. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 7 for Dr. Olga Makarova, Cardiology, Saint Petersburg
+Rating: 4/10
+Clinic visited: Neva Health Practice
+Description: Dr. Olga Makarova spent most of the appointment looking at the screen and gave very brief answers to my questions. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 8 for Dr. Olga Makarova, Cardiology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Dr. Olga Makarova explained the difference between my statin options and let me weigh in on the choice.
+
+Review 9 for Dr. Olga Makarova, Cardiology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: Seeing Dr. Olga Makarova in Saint Petersburg meant my whole family history was reviewed, and now my sister is being screened too. I feel lucky to have found this practice in my area.
+
+Review 10 for Dr. Olga Makarova, Cardiology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Neva Health Practice
+Description: Helpful with my cholesterol, Dr. Olga Makarova still gave dietary advice that was a little generic. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 11 for Dr. Olga Makarova, Cardiology, Saint Petersburg
+Rating: 4/10
+Clinic visited: Moskovsky Family Polyclinic
+Description: The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Overall rating for Dr. Olga Makarova, Cardiology, Saint Petersburg: 6.00/10 from 11 reviews

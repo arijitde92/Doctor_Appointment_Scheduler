@@ -1,0 +1,69 @@
+Doctor: Dr. Ricardo Núñez
+Doctor ID: 832
+Specialization: Cardiology
+Gender: Male
+Years of experience: 12
+City: Mendoza, Argentina
+Clinics: Instituto de Salud Belgrano (clinic ID 109)
+
+Review 1 for Dr. Ricardo Núñez, Cardiology, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Booking was easy online, but the confirmation email contained the wrong address for Instituto de Salud Belgrano.
+
+Review 2 for Dr. Ricardo Núñez, Cardiology, Mendoza
+Rating: 4/10
+Clinic visited: Instituto de Salud Belgrano
+Description: My questions were answered by Dr. Ricardo Núñez with short, vague replies, and I left without a clear plan. I was billed separately for tests that I understood to be part of the original consultation.
+
+Review 3 for Dr. Ricardo Núñez, Cardiology, Mendoza
+Rating: 8/10
+Clinic visited: Instituto de Salud Belgrano
+Description: After my palpitations began, Dr. Ricardo Núñez arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Ricardo Núñez, Cardiology, Mendoza
+Rating: 8/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. A translator was arranged for my mother without us asking twice, and Dr. Ricardo Núñez spoke directly to her throughout.
+
+Review 5 for Dr. Ricardo Núñez, Cardiology, Mendoza
+Rating: 7/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Great care in the visit itself, but the billing for the tests at Instituto de Salud Belgrano was confusing. Helpful visit overall, although I only found out about an extra charge after I had paid. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Ricardo Núñez, Cardiology, Mendoza
+Rating: 5/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Good bedside manner from Dr. Ricardo Núñez, but the parking near Instituto de Salud Belgrano is limited and I had to circle for fifteen minutes. The echocardiogram staff were kind, but the results took over a week to be explained to me. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Ricardo Núñez, Cardiology, Mendoza
+Rating: 7/10
+Clinic visited: Instituto de Salud Belgrano
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Ricardo Núñez, Cardiology, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Dr. Ricardo Núñez was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Helpful with my cholesterol, Dr. Ricardo Núñez still gave dietary advice that was a little generic.
+
+Review 9 for Dr. Ricardo Núñez, Cardiology, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Thorough exam and a good plan, yet the stress test appointment was almost a month away. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Ricardo Núñez, Cardiology, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 11 for Dr. Ricardo Núñez, Cardiology, Mendoza
+Rating: 5/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 12 for Dr. Ricardo Núñez, Cardiology, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Dr. Ricardo Núñez adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Overall rating for Dr. Ricardo Núñez, Cardiology, Mendoza: 6.17/10 from 12 reviews

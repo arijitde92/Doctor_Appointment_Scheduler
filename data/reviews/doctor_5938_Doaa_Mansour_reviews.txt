@@ -1,0 +1,49 @@
+Doctor: Dr. Doaa Mansour
+Doctor ID: 5938
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: Giza, Egypt
+Clinics: Sheikh Zayed Palm Polyclinic (clinic ID 767)
+
+Review 1 for Dr. Doaa Mansour, Cardiology, Giza
+Rating: 6/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Doaa Mansour, Cardiology, Giza
+Rating: 6/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Clear explanations, but the follow-up call took a week longer than I had been told. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Doaa Mansour, Cardiology, Giza
+Rating: 6/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: Great care in the visit itself, but the billing for the tests at Sheikh Zayed Palm Polyclinic was confusing.
+
+Review 4 for Dr. Doaa Mansour, Cardiology, Giza
+Rating: 7/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 5 for Dr. Doaa Mansour, Cardiology, Giza
+Rating: 8/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. After my palpitations began, Dr. Doaa Mansour arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 6 for Dr. Doaa Mansour, Cardiology, Giza
+Rating: 6/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: Helpful with my cholesterol, Dr. Doaa Mansour still gave dietary advice that was a little generic. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Doaa Mansour, Cardiology, Giza
+Rating: 7/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: Dr. Doaa Mansour adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 8 for Dr. Doaa Mansour, Cardiology, Giza
+Rating: 9/10
+Clinic visited: Sheikh Zayed Palm Polyclinic
+Description: I was called in within five minutes of my appointment time at Sheikh Zayed Palm Polyclinic, which is rare and much appreciated. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Doaa Mansour, Cardiology, Giza: 6.88/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Gulnara Egorova
+Doctor ID: 3720
+Specialization: Pathology
+Gender: Female
+Years of experience: 21
+City: Moscow, Russia
+Clinics: Tverskoy Medical Centre (clinic ID 480)
+
+Review 1 for Dr. Gulnara Egorova, Pathology, Moscow
+Rating: 6/10
+Clinic visited: Tverskoy Medical Centre
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Dr. Gulnara Egorova answered my questions kindly, though the call back took three days.
+
+Review 2 for Dr. Gulnara Egorova, Pathology, Moscow
+Rating: 7/10
+Clinic visited: Tverskoy Medical Centre
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Gulnara Egorova, Pathology, Moscow
+Rating: 8/10
+Clinic visited: Tverskoy Medical Centre
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 4 for Dr. Gulnara Egorova, Pathology, Moscow
+Rating: 7/10
+Clinic visited: Tverskoy Medical Centre
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The treatment plan from Dr. Gulnara Egorova made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Gulnara Egorova, Pathology, Moscow
+Rating: 8/10
+Clinic visited: Tverskoy Medical Centre
+Description: Fast turnaround at Tverskoy Medical Centre on my thyroid panel, with results in my online account by the next morning.
+
+Review 6 for Dr. Gulnara Egorova, Pathology, Moscow
+Rating: 7/10
+Clinic visited: Tverskoy Medical Centre
+Description: The blood draw was painless, but the waiting area at Tverskoy Medical Centre was crowded in the early morning. Clear explanations, but the follow-up call took a week longer than I had been told. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Gulnara Egorova, Pathology, Moscow
+Rating: 9/10
+Clinic visited: Tverskoy Medical Centre
+Description: The lab at Tverskoy Medical Centre had a quick, friendly blood draw and the phlebotomist found my vein on the first try. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Gulnara Egorova, Pathology, Moscow
+Rating: 9/10
+Clinic visited: Tverskoy Medical Centre
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Overall rating for Dr. Gulnara Egorova, Pathology, Moscow: 7.62/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Chloe Brown
+Doctor ID: 6455
+Specialization: General
+Gender: Female
+Years of experience: 22
+City: Brisbane, Australia
+Clinics: Bluegum Medical Group (clinic ID 836)
+
+Review 1 for Dr. Chloe Brown, General, Brisbane
+Rating: 10/10
+Clinic visited: Bluegum Medical Group
+Description: I went in with months of tiredness, and Dr. Chloe Brown ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 2 for Dr. Chloe Brown, General, Brisbane
+Rating: 9/10
+Clinic visited: Bluegum Medical Group
+Description: I always hear back within a day when I leave a question with the nurse at Bluegum Medical Group, and Dr. Chloe Brown follows up on lab results personally. Getting to Bluegum Medical Group by public transport in Brisbane was easy, and there is a step-free entrance for wheelchairs.
+
+Review 3 for Dr. Chloe Brown, General, Brisbane
+Rating: 7/10
+Clinic visited: Bluegum Medical Group
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Bluegum Medical Group were inconsistent.
+
+Review 4 for Dr. Chloe Brown, General, Brisbane
+Rating: 10/10
+Clinic visited: Bluegum Medical Group
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 5 for Dr. Chloe Brown, General, Brisbane
+Rating: 8/10
+Clinic visited: Bluegum Medical Group
+Description: Paperwork at Bluegum Medical Group was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 6 for Dr. Chloe Brown, General, Brisbane
+Rating: 9/10
+Clinic visited: Bluegum Medical Group
+Description: Cholesterol results were explained by Dr. Chloe Brown with a simple chart, and we agreed on a plan I could realistically follow. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 7 for Dr. Chloe Brown, General, Brisbane
+Rating: 8/10
+Clinic visited: Bluegum Medical Group
+Description: Booking online at Bluegum Medical Group was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 8 for Dr. Chloe Brown, General, Brisbane
+Rating: 9/10
+Clinic visited: Bluegum Medical Group
+Description: She was upfront about what could and could not be treated, and did not oversell any option. As a new patient in Brisbane, I felt welcomed at Bluegum Medical Group, and my whole history was reviewed in one relaxed visit.
+
+Review 9 for Dr. Chloe Brown, General, Brisbane
+Rating: 8/10
+Clinic visited: Bluegum Medical Group
+Description: Getting to Bluegum Medical Group from across Brisbane was easy, and the same-week appointment saved me an urgent care trip. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Overall rating for Dr. Chloe Brown, General, Brisbane: 8.67/10 from 9 reviews

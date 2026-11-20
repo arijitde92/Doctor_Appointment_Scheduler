@@ -1,0 +1,59 @@
+Doctor: Dr. Mori Daisuke
+Doctor ID: 4030
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 25
+City: Osaka, Japan
+Clinics: Umeda Sora Medical Clinic (clinic ID 520); Honmachi Kaede Health Clinic (clinic ID 523)
+
+Review 1 for Dr. Mori Daisuke, Gastroenterology, Osaka
+Rating: 10/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: I was nervous about my screening, but the team at Honmachi Kaede Health Clinic made me feel at ease, and I was home within hours. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Mori Daisuke, Gastroenterology, Osaka
+Rating: 10/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 3 for Dr. Mori Daisuke, Gastroenterology, Osaka
+Rating: 9/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 4 for Dr. Mori Daisuke, Gastroenterology, Osaka
+Rating: 10/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. I was given a printed summary of the visit, which I shared with my family at home. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Mori Daisuke, Gastroenterology, Osaka
+Rating: 8/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Dr. Mori Daisuke was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Mori Daisuke, Gastroenterology, Osaka
+Rating: 10/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: A gentle, respectful manner from Dr. Mori Daisuke made a very awkward exam bearable, with every step explained before it happened.
+
+Review 7 for Dr. Mori Daisuke, Gastroenterology, Osaka
+Rating: 10/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. The waiting room at Umeda Sora Medical Clinic was clean, quiet and comfortable, with enough seating and water available. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Mori Daisuke, Gastroenterology, Osaka
+Rating: 9/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Dr. Mori Daisuke looked me in the eye, listened to the whole story and only then started typing. I received a full summary letter from Honmachi Kaede Health Clinic after my endoscopy, which my regular doctor found very useful. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 9 for Dr. Mori Daisuke, Gastroenterology, Osaka
+Rating: 9/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Review 10 for Dr. Mori Daisuke, Gastroenterology, Osaka
+Rating: 9/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: I was called in within five minutes of my appointment time at Umeda Sora Medical Clinic, which is rare and much appreciated. Clear explanation from Dr. Mori Daisuke of fatty liver and exactly which lifestyle changes would make a measurable difference. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Mori Daisuke, Gastroenterology, Osaka: 9.40/10 from 10 reviews

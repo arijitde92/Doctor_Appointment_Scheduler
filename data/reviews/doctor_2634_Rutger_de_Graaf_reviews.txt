@@ -1,0 +1,59 @@
+Doctor: Dr. Rutger de Graaf
+Doctor ID: 2634
+Specialization: General
+Gender: Male
+Years of experience: 5
+City: The Hague, Netherlands
+Clinics: Medisch Centrum Denneweg (clinic ID 345); Gezondheidscentrum Scheveningen (clinic ID 347)
+
+Review 1 for Dr. Rutger de Graaf, General, The Hague
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Dr. Rutger de Graaf is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 2 for Dr. Rutger de Graaf, General, The Hague
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list.
+
+Review 3 for Dr. Rutger de Graaf, General, The Hague
+Rating: 7/10
+Clinic visited: Medisch Centrum Denneweg
+Description: Referrals from Dr. Rutger de Graaf are handled well, but getting test results back took longer than I was told to expect. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Rutger de Graaf, General, The Hague
+Rating: 9/10
+Clinic visited: Medisch Centrum Denneweg
+Description: Dr. Rutger de Graaf spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Rutger de Graaf, General, The Hague
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Booking was easy online, but the confirmation email contained the wrong address for Gezondheidscentrum Scheveningen. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 6 for Dr. Rutger de Graaf, General, The Hague
+Rating: 10/10
+Clinic visited: Medisch Centrum Denneweg
+Description: Prescriptions from Dr. Rutger de Graaf were sent to my pharmacy before I even left the building, and the dosage instructions were written down. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Rutger de Graaf, General, The Hague
+Rating: 6/10
+Clinic visited: Medisch Centrum Denneweg
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 8 for Dr. Rutger de Graaf, General, The Hague
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: The receptionist at Gezondheidscentrum Scheveningen remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 9 for Dr. Rutger de Graaf, General, The Hague
+Rating: 7/10
+Clinic visited: Medisch Centrum Denneweg
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 10 for Dr. Rutger de Graaf, General, The Hague
+Rating: 6/10
+Clinic visited: Medisch Centrum Denneweg
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Rutger de Graaf, General, The Hague: 7.50/10 from 10 reviews

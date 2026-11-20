@@ -1,0 +1,69 @@
+Doctor: Dr. Ton Anh
+Doctor ID: 4940
+Specialization: Cardiology
+Gender: Female
+Years of experience: 7
+City: Da Nang, Vietnam
+Clinics: Phong Kham Da Khoa Sao Mai (clinic ID 638); Phong Kham Thanh Binh (clinic ID 639)
+
+Review 1 for Dr. Ton Anh, Cardiology, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 2 for Dr. Ton Anh, Cardiology, Da Nang
+Rating: 3/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes.
+
+Review 3 for Dr. Ton Anh, Cardiology, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Thanh Binh
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Ton Anh, Cardiology, Da Nang
+Rating: 5/10
+Clinic visited: Phong Kham Thanh Binh
+Description: Dr. Ton Anh adjusted my blood pressure medication carefully, though I had to call twice for a refill. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Ton Anh, Cardiology, Da Nang
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Good bedside manner from Dr. Ton Anh, but the parking near Phong Kham Da Khoa Sao Mai is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Ton Anh, Cardiology, Da Nang
+Rating: 3/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. Not a place I would choose again, and I hope others have a better experience.
+
+Review 7 for Dr. Ton Anh, Cardiology, Da Nang
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Ton Anh, Cardiology, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: Helpful with my cholesterol, Dr. Ton Anh still gave dietary advice that was a little generic. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Ton Anh, Cardiology, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Thanh Binh
+Description: Dr. Ton Anh was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Great care in the visit itself, but the billing for the tests at Phong Kham Thanh Binh was confusing.
+
+Review 10 for Dr. Ton Anh, Cardiology, Da Nang
+Rating: 5/10
+Clinic visited: Phong Kham Thanh Binh
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I will give it one more visit before I decide whether to stay.
+
+Review 11 for Dr. Ton Anh, Cardiology, Da Nang
+Rating: 4/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 12 for Dr. Ton Anh, Cardiology, Da Nang
+Rating: 4/10
+Clinic visited: Phong Kham Thanh Binh
+Description: My worries about side effects from my medication were waved off, and nobody offered an alternative. The prescription from Dr. Ton Anh was not the one we discussed, and I only noticed when I got home.
+
+Overall rating for Dr. Ton Anh, Cardiology, Da Nang: 4.83/10 from 12 reviews

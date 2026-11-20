@@ -1,0 +1,49 @@
+Doctor: Dr. Rhys Walker
+Doctor ID: 1029
+Specialization: Cardiology
+Gender: Male
+Years of experience: 3
+City: Bristol, UK
+Clinics: Whiteladies Road Health Centre (clinic ID 135)
+
+Review 1 for Dr. Rhys Walker, Cardiology, Bristol
+Rating: 6/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Great care in the visit itself, but the billing for the tests at Whiteladies Road Health Centre was confusing.
+
+Review 2 for Dr. Rhys Walker, Cardiology, Bristol
+Rating: 6/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Dr. Rhys Walker adjusted my blood pressure medication carefully, though I had to call twice for a refill. I liked the advice I got from Dr. Rhys Walker, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Rhys Walker, Cardiology, Bristol
+Rating: 8/10
+Clinic visited: Whiteladies Road Health Centre
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 4 for Dr. Rhys Walker, Cardiology, Bristol
+Rating: 6/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Quick appointment and a fair price in Bristol, but the staff seemed overwhelmed and a bit curt on the phone. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 5 for Dr. Rhys Walker, Cardiology, Bristol
+Rating: 5/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Rhys Walker, Cardiology, Bristol
+Rating: 4/10
+Clinic visited: Whiteladies Road Health Centre
+Description: My questions were answered by Dr. Rhys Walker with short, vague replies, and I left without a clear plan. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 7 for Dr. Rhys Walker, Cardiology, Bristol
+Rating: 7/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Helpful with my cholesterol, Dr. Rhys Walker still gave dietary advice that was a little generic.
+
+Review 8 for Dr. Rhys Walker, Cardiology, Bristol
+Rating: 7/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. The doctor was kind, though the clinic's evening hours are very limited for working people. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Rhys Walker, Cardiology, Bristol: 6.12/10 from 8 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Nadia Botros
+Doctor ID: 5860
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 24
+City: Alexandria, Egypt
+Clinics: San Stefano Care Polyclinic (clinic ID 757)
+
+Review 1 for Dr. Nadia Botros, Pediatrics, Alexandria
+Rating: 6/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 2 for Dr. Nadia Botros, Pediatrics, Alexandria
+Rating: 6/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Nadia Botros, Pediatrics, Alexandria
+Rating: 8/10
+Clinic visited: San Stefano Care Polyclinic
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 4 for Dr. Nadia Botros, Pediatrics, Alexandria
+Rating: 5/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Good bedside manner from Dr. Nadia Botros, but the parking near San Stefano Care Polyclinic is limited and I had to circle for fifteen minutes. Caring and gentle with my child, Dr. Nadia Botros nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 5 for Dr. Nadia Botros, Pediatrics, Alexandria
+Rating: 6/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Nadia Botros, Pediatrics, Alexandria
+Rating: 7/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Dr. Nadia Botros is thorough with exams, but the after-hours phone line at San Stefano Care Polyclinic is hard to reach.
+
+Review 7 for Dr. Nadia Botros, Pediatrics, Alexandria
+Rating: 8/10
+Clinic visited: San Stefano Care Polyclinic
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. Everything was explained in plain English by Dr. Nadia Botros, and nothing was left to guess.
+
+Review 8 for Dr. Nadia Botros, Pediatrics, Alexandria
+Rating: 6/10
+Clinic visited: San Stefano Care Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for San Stefano Care Polyclinic. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 9 for Dr. Nadia Botros, Pediatrics, Alexandria
+Rating: 8/10
+Clinic visited: San Stefano Care Polyclinic
+Description: The school physical at San Stefano Care Polyclinic was quick, thorough and the forms were completed on the spot. Five stars from me, and I would book again tomorrow.
+
+Review 10 for Dr. Nadia Botros, Pediatrics, Alexandria
+Rating: 7/10
+Clinic visited: San Stefano Care Polyclinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 11 for Dr. Nadia Botros, Pediatrics, Alexandria
+Rating: 7/10
+Clinic visited: San Stefano Care Polyclinic
+Description: The treatment plan from Dr. Nadia Botros made sense, but I wished it had been written down for me to take away. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Nadia Botros, Pediatrics, Alexandria: 6.73/10 from 11 reviews

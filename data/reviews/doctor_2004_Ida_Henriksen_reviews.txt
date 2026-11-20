@@ -1,0 +1,69 @@
+Doctor: Dr. Ida Henriksen
+Doctor ID: 2004
+Specialization: General
+Gender: Female
+Years of experience: 26
+City: Oslo, Norway
+Clinics: Helsehuset Storgata (clinic ID 261)
+
+Review 1 for Dr. Ida Henriksen, General, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: Referrals from Dr. Ida Henriksen are handled well, but getting test results back took longer than I was told to expect. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Ida Henriksen, General, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Ida Henriksen, General, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: Booking was easy online, but the confirmation email contained the wrong address for Helsehuset Storgata.
+
+Review 4 for Dr. Ida Henriksen, General, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Ida Henriksen, General, Oslo
+Rating: 3/10
+Clinic visited: Helsehuset Storgata
+Description: My lab results from Helsehuset Storgata were never called in, and I only found them by chasing the front desk three times. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 6 for Dr. Ida Henriksen, General, Oslo
+Rating: 4/10
+Clinic visited: Helsehuset Storgata
+Description: I came in about worsening headaches and was told to drink more water and relax, with no examination at all. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 7 for Dr. Ida Henriksen, General, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Helsehuset Storgata were inconsistent.
+
+Review 8 for Dr. Ida Henriksen, General, Oslo
+Rating: 6/10
+Clinic visited: Helsehuset Storgata
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 9 for Dr. Ida Henriksen, General, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Ida Henriksen, General, Oslo
+Rating: 8/10
+Clinic visited: Helsehuset Storgata
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 11 for Dr. Ida Henriksen, General, Oslo
+Rating: 7/10
+Clinic visited: Helsehuset Storgata
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Dr. Ida Henriksen is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 12 for Dr. Ida Henriksen, General, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Ida Henriksen, General, Oslo: 5.25/10 from 12 reviews

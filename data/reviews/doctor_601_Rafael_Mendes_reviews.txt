@@ -1,0 +1,59 @@
+Doctor: Dr. Rafael Mendes
+Doctor ID: 601
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 16
+City: Curitiba, Brazil
+Clinics: Clínica Batel Saúde Integral (clinic ID 80); Centro Médico Rua XV (clinic ID 81)
+
+Review 1 for Dr. Rafael Mendes, Gastroenterology, Curitiba
+Rating: 7/10
+Clinic visited: Centro Médico Rua XV
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Rafael Mendes, Gastroenterology, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: Dr. Rafael Mendes is thorough, but I waited nearly two months to get the first available slot. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Rafael Mendes, Gastroenterology, Curitiba
+Rating: 6/10
+Clinic visited: Centro Médico Rua XV
+Description: Knowledgeable about my reflux, Dr. Rafael Mendes still gave diet advice that felt generic and not tailored to my habits. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Rafael Mendes, Gastroenterology, Curitiba
+Rating: 9/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: I was nervous about my screening, but the team at Clínica Batel Saúde Integral made me feel at ease, and I was home within hours. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 5 for Dr. Rafael Mendes, Gastroenterology, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Rafael Mendes, Gastroenterology, Curitiba
+Rating: 5/10
+Clinic visited: Centro Médico Rua XV
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. The treatment plan from Dr. Rafael Mendes made sense, but I wished it had been written down for me to take away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Rafael Mendes, Gastroenterology, Curitiba
+Rating: 8/10
+Clinic visited: Centro Médico Rua XV
+Description: He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. Dr. Rafael Mendes double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 8 for Dr. Rafael Mendes, Gastroenterology, Curitiba
+Rating: 9/10
+Clinic visited: Centro Médico Rua XV
+Description: Dr. Rafael Mendes took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards.
+
+Review 9 for Dr. Rafael Mendes, Gastroenterology, Curitiba
+Rating: 9/10
+Clinic visited: Centro Médico Rua XV
+Description: Dr. Rafael Mendes drew a quick sketch to explain what was going on, which helped me remember it afterwards. Helpful dietitian referral from Dr. Rafael Mendes and written guidance for living with ulcerative colitis.
+
+Review 10 for Dr. Rafael Mendes, Gastroenterology, Curitiba
+Rating: 6/10
+Clinic visited: Centro Médico Rua XV
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Rafael Mendes, Gastroenterology, Curitiba: 7.30/10 from 10 reviews

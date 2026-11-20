@@ -1,0 +1,59 @@
+Doctor: Dr. Óscar Sánchez
+Doctor ID: 928
+Specialization: General
+Gender: Male
+Years of experience: 13
+City: Cusco, Peru
+Clinics: Consultorios Médicos Tullumayo (clinic ID 122)
+
+Review 1 for Dr. Óscar Sánchez, General, Cusco
+Rating: 6/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Óscar Sánchez, General, Cusco
+Rating: 9/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: As a new patient in Cusco, I felt welcomed at Consultorios Médicos Tullumayo, and my whole history was reviewed in one relaxed visit. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 3 for Dr. Óscar Sánchez, General, Cusco
+Rating: 7/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Consultorios Médicos Tullumayo were inconsistent.
+
+Review 4 for Dr. Óscar Sánchez, General, Cusco
+Rating: 6/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 5 for Dr. Óscar Sánchez, General, Cusco
+Rating: 8/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: My annual check-up with Dr. Óscar Sánchez took forty minutes, with every screening explained and nothing rushed. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 6 for Dr. Óscar Sánchez, General, Cusco
+Rating: 6/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: Dr. Óscar Sánchez is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Óscar Sánchez, General, Cusco
+Rating: 9/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: I went in with months of tiredness, and Dr. Óscar Sánchez ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Óscar Sánchez, General, Cusco
+Rating: 6/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 9 for Dr. Óscar Sánchez, General, Cusco
+Rating: 6/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: Referrals from Dr. Óscar Sánchez are handled well, but getting test results back took longer than I was told to expect.
+
+Review 10 for Dr. Óscar Sánchez, General, Cusco
+Rating: 6/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Óscar Sánchez, General, Cusco: 6.90/10 from 10 reviews

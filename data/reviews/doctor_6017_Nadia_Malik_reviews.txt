@@ -1,0 +1,64 @@
+Doctor: Dr. Nadia Malik
+Doctor ID: 6017
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 7
+City: Abu Dhabi, UAE
+Clinics: Al Reem Care Polyclinic (clinic ID 777)
+
+Review 1 for Dr. Nadia Malik, Psychiatry, Abu Dhabi
+Rating: 7/10
+Clinic visited: Al Reem Care Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good listener, yet the refill process at Al Reem Care Polyclinic is slow and requires several phone calls.
+
+Review 2 for Dr. Nadia Malik, Psychiatry, Abu Dhabi
+Rating: 9/10
+Clinic visited: Al Reem Care Polyclinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Nadia Malik, Psychiatry, Abu Dhabi
+Rating: 6/10
+Clinic visited: Al Reem Care Polyclinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Nadia Malik, Psychiatry, Abu Dhabi
+Rating: 6/10
+Clinic visited: Al Reem Care Polyclinic
+Description: Dr. Nadia Malik is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 5 for Dr. Nadia Malik, Psychiatry, Abu Dhabi
+Rating: 8/10
+Clinic visited: Al Reem Care Polyclinic
+Description: I felt heard by Dr. Nadia Malik during a very hard time, and nobody rushed me out of the room. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 6 for Dr. Nadia Malik, Psychiatry, Abu Dhabi
+Rating: 7/10
+Clinic visited: Al Reem Care Polyclinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Nadia Malik, Psychiatry, Abu Dhabi
+Rating: 9/10
+Clinic visited: Al Reem Care Polyclinic
+Description: Dr. Nadia Malik drew a quick sketch to explain what was going on, which helped me remember it afterwards. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 8 for Dr. Nadia Malik, Psychiatry, Abu Dhabi
+Rating: 7/10
+Clinic visited: Al Reem Care Polyclinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. Nadia Malik, Psychiatry, Abu Dhabi
+Rating: 7/10
+Clinic visited: Al Reem Care Polyclinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 10 for Dr. Nadia Malik, Psychiatry, Abu Dhabi
+Rating: 8/10
+Clinic visited: Al Reem Care Polyclinic
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 11 for Dr. Nadia Malik, Psychiatry, Abu Dhabi
+Rating: 8/10
+Clinic visited: Al Reem Care Polyclinic
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Nadia Malik, Psychiatry, Abu Dhabi: 7.45/10 from 11 reviews

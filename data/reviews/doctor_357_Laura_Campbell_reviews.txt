@@ -1,0 +1,59 @@
+Doctor: Dr. Laura Campbell
+Doctor ID: 357
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 29
+City: Vancouver, Canada
+Clinics: Georgia Street Medical Clinic (clinic ID 50)
+
+Review 1 for Dr. Laura Campbell, Pediatrics, Vancouver
+Rating: 8/10
+Clinic visited: Georgia Street Medical Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 2 for Dr. Laura Campbell, Pediatrics, Vancouver
+Rating: 10/10
+Clinic visited: Georgia Street Medical Clinic
+Description: Our family has been coming for years, and she remembers each child's history and personality. Getting to Georgia Street Medical Clinic by public transport in Vancouver was easy, and there is a step-free entrance for wheelchairs.
+
+Review 3 for Dr. Laura Campbell, Pediatrics, Vancouver
+Rating: 8/10
+Clinic visited: Georgia Street Medical Clinic
+Description: The growth chart review was detailed, and I appreciated that Dr. Laura Campbell talked to my child as well as to me. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Laura Campbell, Pediatrics, Vancouver
+Rating: 7/10
+Clinic visited: Georgia Street Medical Clinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Laura Campbell, Pediatrics, Vancouver
+Rating: 7/10
+Clinic visited: Georgia Street Medical Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Laura Campbell, Pediatrics, Vancouver
+Rating: 6/10
+Clinic visited: Georgia Street Medical Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 7 for Dr. Laura Campbell, Pediatrics, Vancouver
+Rating: 7/10
+Clinic visited: Georgia Street Medical Clinic
+Description: Caring and gentle with my child, Dr. Laura Campbell nonetheless ran forty minutes behind schedule at most appointments. Quick appointment and a fair price in Vancouver, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 8 for Dr. Laura Campbell, Pediatrics, Vancouver
+Rating: 6/10
+Clinic visited: Georgia Street Medical Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 9 for Dr. Laura Campbell, Pediatrics, Vancouver
+Rating: 9/10
+Clinic visited: Georgia Street Medical Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 10 for Dr. Laura Campbell, Pediatrics, Vancouver
+Rating: 10/10
+Clinic visited: Georgia Street Medical Clinic
+Description: Our newborn check-ups with Dr. Laura Campbell were reassuring; every question about feeding and sleep got a calm, practical answer. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Laura Campbell, Pediatrics, Vancouver: 7.80/10 from 10 reviews

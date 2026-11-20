@@ -1,0 +1,64 @@
+Doctor: Dr. Rocío Pérez
+Doctor ID: 940
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 28
+City: Cusco, Peru
+Clinics: Policlínica Collasuyo (clinic ID 123)
+
+Review 1 for Dr. Rocío Pérez, Pediatrics, Cusco
+Rating: 9/10
+Clinic visited: Policlínica Collasuyo
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Rocío Pérez, Pediatrics, Cusco
+Rating: 7/10
+Clinic visited: Policlínica Collasuyo
+Description: Dr. Rocío Pérez was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 3 for Dr. Rocío Pérez, Pediatrics, Cusco
+Rating: 6/10
+Clinic visited: Policlínica Collasuyo
+Description: Dr. Rocío Pérez was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Rocío Pérez, Pediatrics, Cusco
+Rating: 7/10
+Clinic visited: Policlínica Collasuyo
+Description: Caring and gentle with my child, Dr. Rocío Pérez nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 5 for Dr. Rocío Pérez, Pediatrics, Cusco
+Rating: 7/10
+Clinic visited: Policlínica Collasuyo
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Rocío Pérez, Pediatrics, Cusco
+Rating: 8/10
+Clinic visited: Policlínica Collasuyo
+Description: Dr. Rocío Pérez noticed a speech delay early and referred us to a therapist, which has made a real difference. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 7 for Dr. Rocío Pérez, Pediatrics, Cusco
+Rating: 3/10
+Clinic visited: Policlínica Collasuyo
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. My child had a fever for three days and Dr. Rocío Pérez said to wait it out, with no examination of the ears or throat.
+
+Review 8 for Dr. Rocío Pérez, Pediatrics, Cusco
+Rating: 7/10
+Clinic visited: Policlínica Collasuyo
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Rocío Pérez, Pediatrics, Cusco
+Rating: 9/10
+Clinic visited: Policlínica Collasuyo
+Description: I appreciated that she offered more than one option and let me choose what suited my life. My child's asthma action plan from Dr. Rocío Pérez was written out clearly so that school staff could follow it too.
+
+Review 10 for Dr. Rocío Pérez, Pediatrics, Cusco
+Rating: 7/10
+Clinic visited: Policlínica Collasuyo
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 11 for Dr. Rocío Pérez, Pediatrics, Cusco
+Rating: 10/10
+Clinic visited: Policlínica Collasuyo
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Rocío Pérez, Pediatrics, Cusco: 7.27/10 from 11 reviews

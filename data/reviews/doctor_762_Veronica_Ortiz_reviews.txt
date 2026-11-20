@@ -1,0 +1,69 @@
+Doctor: Dr. Verónica Ortiz
+Doctor ID: 762
+Specialization: Neurology
+Gender: Female
+Years of experience: 26
+City: Cordoba, Argentina
+Clinics: Clínica Nueva Córdoba Salud (clinic ID 100)
+
+Review 1 for Dr. Verónica Ortiz, Neurology, Cordoba
+Rating: 6/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 2 for Dr. Verónica Ortiz, Neurology, Cordoba
+Rating: 7/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: Dr. Verónica Ortiz was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Verónica Ortiz, Neurology, Cordoba
+Rating: 9/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: Dr. Verónica Ortiz looked me in the eye, listened to the whole story and only then started typing.
+
+Review 4 for Dr. Verónica Ortiz, Neurology, Cordoba
+Rating: 9/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: I always leave Dr. Verónica Ortiz's office with a short written summary of changes, which helps my family keep up. Prescriptions from Dr. Verónica Ortiz were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 5 for Dr. Verónica Ortiz, Neurology, Cordoba
+Rating: 6/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 6 for Dr. Verónica Ortiz, Neurology, Cordoba
+Rating: 9/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 7 for Dr. Verónica Ortiz, Neurology, Cordoba
+Rating: 7/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Verónica Ortiz, Neurology, Cordoba
+Rating: 9/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: The memory assessment for my father at Clínica Nueva Córdoba Salud was gentle and respectful, and the family received a clear written summary.
+
+Review 9 for Dr. Verónica Ortiz, Neurology, Cordoba
+Rating: 8/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 10 for Dr. Verónica Ortiz, Neurology, Cordoba
+Rating: 7/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Verónica Ortiz at Clínica Nueva Córdoba Salud are difficult to schedule. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I will give it one more visit before I decide whether to stay.
+
+Review 11 for Dr. Verónica Ortiz, Neurology, Cordoba
+Rating: 10/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. I was called in within five minutes of my appointment time at Clínica Nueva Córdoba Salud, which is rare and much appreciated.
+
+Review 12 for Dr. Verónica Ortiz, Neurology, Cordoba
+Rating: 9/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: Dr. Verónica Ortiz took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Verónica Ortiz, Neurology, Cordoba: 8.00/10 from 12 reviews

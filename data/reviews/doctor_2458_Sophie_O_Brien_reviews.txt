@@ -1,0 +1,49 @@
+Doctor: Dr. Sophie O'Brien
+Doctor ID: 2458
+Specialization: General
+Gender: Female
+Years of experience: 25
+City: Dublin, Ireland
+Clinics: Ranelagh Family Health Practice (clinic ID 321)
+
+Review 1 for Dr. Sophie O'Brien, General, Dublin
+Rating: 7/10
+Clinic visited: Ranelagh Family Health Practice
+Description: Dr. Sophie O'Brien is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 2 for Dr. Sophie O'Brien, General, Dublin
+Rating: 7/10
+Clinic visited: Ranelagh Family Health Practice
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 3 for Dr. Sophie O'Brien, General, Dublin
+Rating: 9/10
+Clinic visited: Ranelagh Family Health Practice
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Five stars from me, and I would book again tomorrow.
+
+Review 4 for Dr. Sophie O'Brien, General, Dublin
+Rating: 9/10
+Clinic visited: Ranelagh Family Health Practice
+Description: The waiting room at Ranelagh Family Health Practice was clean, quiet and comfortable, with enough seating and water available. My blood pressure had crept up and Dr. Sophie O'Brien walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 5 for Dr. Sophie O'Brien, General, Dublin
+Rating: 7/10
+Clinic visited: Ranelagh Family Health Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 6 for Dr. Sophie O'Brien, General, Dublin
+Rating: 8/10
+Clinic visited: Ranelagh Family Health Practice
+Description: Managing my type 2 diabetes with Dr. Sophie O'Brien has been steady and practical, with quarterly blood sugar reviews and no lectures. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Sophie O'Brien, General, Dublin
+Rating: 9/10
+Clinic visited: Ranelagh Family Health Practice
+Description: Getting to Ranelagh Family Health Practice from across Dublin was easy, and the same-week appointment saved me an urgent care trip. Sensitive questions were handled by Dr. Sophie O'Brien with discretion and without a hint of judgment.
+
+Review 8 for Dr. Sophie O'Brien, General, Dublin
+Rating: 10/10
+Clinic visited: Ranelagh Family Health Practice
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Overall rating for Dr. Sophie O'Brien, General, Dublin: 8.25/10 from 8 reviews

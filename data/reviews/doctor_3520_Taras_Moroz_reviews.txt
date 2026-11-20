@@ -1,0 +1,59 @@
+Doctor: Dr. Taras Moroz
+Doctor ID: 3520
+Specialization: Psychology
+Gender: Male
+Years of experience: 2
+City: Dnipro, Ukraine
+Clinics: Dniprovska Medical Centre (clinic ID 455); Nova Hora Clinic (clinic ID 456); Slobozhanska Polyclinic (clinic ID 459)
+
+Review 1 for Dr. Taras Moroz, Psychology, Dnipro
+Rating: 6/10
+Clinic visited: Slobozhanska Polyclinic
+Description: Insightful and kind, though progress with Dr. Taras Moroz felt slow, and I wished for more structured homework between sessions. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Taras Moroz, Psychology, Dnipro
+Rating: 8/10
+Clinic visited: Slobozhanska Polyclinic
+Description: Working through my grief felt guided but never forced, and we always ended each session with something concrete to try. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 3 for Dr. Taras Moroz, Psychology, Dnipro
+Rating: 7/10
+Clinic visited: Dniprovska Medical Centre
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 4 for Dr. Taras Moroz, Psychology, Dnipro
+Rating: 9/10
+Clinic visited: Nova Hora Clinic
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Taras Moroz designed around my actual job. I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Taras Moroz, Psychology, Dnipro
+Rating: 6/10
+Clinic visited: Slobozhanska Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Taras Moroz, Psychology, Dnipro
+Rating: 9/10
+Clinic visited: Slobozhanska Polyclinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Taras Moroz gave me practical tools I still use.
+
+Review 7 for Dr. Taras Moroz, Psychology, Dnipro
+Rating: 7/10
+Clinic visited: Dniprovska Medical Centre
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 8 for Dr. Taras Moroz, Psychology, Dnipro
+Rating: 5/10
+Clinic visited: Slobozhanska Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Dr. Taras Moroz listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 9 for Dr. Taras Moroz, Psychology, Dnipro
+Rating: 4/10
+Clinic visited: Nova Hora Clinic
+Description: I felt interrupted by Dr. Taras Moroz several times while describing my situation and left without feeling heard. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 10 for Dr. Taras Moroz, Psychology, Dnipro
+Rating: 5/10
+Clinic visited: Nova Hora Clinic
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. Dr. Taras Moroz was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Taras Moroz, Psychology, Dnipro: 6.60/10 from 10 reviews

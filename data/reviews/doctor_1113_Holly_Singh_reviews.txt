@@ -1,0 +1,59 @@
+Doctor: Dr. Holly Singh
+Doctor ID: 1113
+Specialization: Radiology
+Gender: Female
+Years of experience: 2
+City: London, UK
+Clinics: Cabot Square Medical Centre (clinic ID 146); Upper Street Wellbeing Clinic (clinic ID 149)
+
+Review 1 for Dr. Holly Singh, Radiology, London
+Rating: 8/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Holly Singh sent a clear report within a day. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 2 for Dr. Holly Singh, Radiology, London
+Rating: 9/10
+Clinic visited: Cabot Square Medical Centre
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. The receptionist at Cabot Square Medical Centre remembered my name and had my forms ready, so check-in took less than a minute. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Holly Singh, Radiology, London
+Rating: 9/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Dr. Holly Singh used a calm, steady voice that settled my nerves before a stressful procedure. Booking a CT scan online at Upper Street Wellbeing Clinic took two minutes, and I was in and out within forty minutes. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Holly Singh, Radiology, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Holly Singh, Radiology, London
+Rating: 8/10
+Clinic visited: Cabot Square Medical Centre
+Description: Fast, clean and professional; the bone density scan with Dr. Holly Singh was painless and the results were explained clearly. Getting to Cabot Square Medical Centre by public transport in London was easy, and there is a step-free entrance for wheelchairs.
+
+Review 6 for Dr. Holly Singh, Radiology, London
+Rating: 10/10
+Clinic visited: Cabot Square Medical Centre
+Description: Sensitive questions were handled by Dr. Holly Singh with discretion and without a hint of judgment. The report from Dr. Holly Singh was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 7 for Dr. Holly Singh, Radiology, London
+Rating: 7/10
+Clinic visited: Cabot Square Medical Centre
+Description: The treatment plan from Dr. Holly Singh made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Holly Singh, Radiology, London
+Rating: 8/10
+Clinic visited: Cabot Square Medical Centre
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Holly Singh were respectful throughout.
+
+Review 9 for Dr. Holly Singh, Radiology, London
+Rating: 7/10
+Clinic visited: Cabot Square Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Holly Singh, Radiology, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: The report from Dr. Holly Singh was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Overall rating for Dr. Holly Singh, Radiology, London: 8.00/10 from 10 reviews

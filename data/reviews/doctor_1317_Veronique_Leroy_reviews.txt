@@ -1,0 +1,54 @@
+Doctor: Dr. Véronique Leroy
+Doctor ID: 1317
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 14
+City: Toulouse, France
+Clinics: Cabinet Médical Saint-Cyprien (clinic ID 171); Clinique des Minimes (clinic ID 172)
+
+Review 1 for Dr. Véronique Leroy, Psychiatry, Toulouse
+Rating: 6/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: Good listener, yet the refill process at Cabinet Médical Saint-Cyprien is slow and requires several phone calls. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Véronique Leroy, Psychiatry, Toulouse
+Rating: 7/10
+Clinic visited: Clinique des Minimes
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Véronique Leroy, Psychiatry, Toulouse
+Rating: 9/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. The practice in Toulouse is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 4 for Dr. Véronique Leroy, Psychiatry, Toulouse
+Rating: 8/10
+Clinic visited: Clinique des Minimes
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Véronique Leroy, Psychiatry, Toulouse
+Rating: 9/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: Never once did Dr. Véronique Leroy make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 6 for Dr. Véronique Leroy, Psychiatry, Toulouse
+Rating: 7/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: Good bedside manner from Dr. Véronique Leroy, but the parking near Cabinet Médical Saint-Cyprien is limited and I had to circle for fifteen minutes. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 7 for Dr. Véronique Leroy, Psychiatry, Toulouse
+Rating: 7/10
+Clinic visited: Clinique des Minimes
+Description: Dr. Véronique Leroy was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Véronique Leroy, Psychiatry, Toulouse
+Rating: 6/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: Dr. Véronique Leroy is knowledgeable, though I waited several weeks for my first appointment. I liked the advice I got from Dr. Véronique Leroy, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 9 for Dr. Véronique Leroy, Psychiatry, Toulouse
+Rating: 8/10
+Clinic visited: Clinique des Minimes
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Overall rating for Dr. Véronique Leroy, Psychiatry, Toulouse: 7.44/10 from 9 reviews

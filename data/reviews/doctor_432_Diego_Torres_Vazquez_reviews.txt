@@ -1,0 +1,59 @@
+Doctor: Dr. Diego Torres Vázquez
+Doctor ID: 432
+Specialization: Radiology
+Gender: Male
+Years of experience: 3
+City: Mexico City, Mexico
+Clinics: Clínica Santa Brígida (clinic ID 60); Centro Médico Polanco Norte (clinic ID 61)
+
+Review 1 for Dr. Diego Torres Vázquez, Radiology, Mexico City
+Rating: 9/10
+Clinic visited: Clínica Santa Brígida
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 2 for Dr. Diego Torres Vázquez, Radiology, Mexico City
+Rating: 10/10
+Clinic visited: Clínica Santa Brígida
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Diego Torres Vázquez, Radiology, Mexico City
+Rating: 9/10
+Clinic visited: Clínica Santa Brígida
+Description: He was upfront about what could and could not be treated, and did not oversell any option. I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 4 for Dr. Diego Torres Vázquez, Radiology, Mexico City
+Rating: 9/10
+Clinic visited: Clínica Santa Brígida
+Description: Reviewing my X-ray together with Dr. Diego Torres Vázquez on the screen made it much easier to understand my arthritis. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Diego Torres Vázquez, Radiology, Mexico City
+Rating: 9/10
+Clinic visited: Centro Médico Polanco Norte
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. The staff at Centro Médico Polanco Norte in Mexico City explained the contrast dye and its side effects before I signed anything.
+
+Review 6 for Dr. Diego Torres Vázquez, Radiology, Mexico City
+Rating: 7/10
+Clinic visited: Clínica Santa Brígida
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 7 for Dr. Diego Torres Vázquez, Radiology, Mexico City
+Rating: 10/10
+Clinic visited: Clínica Santa Brígida
+Description: Booking online at Clínica Santa Brígida was simple, and I got a confirmation text with clear directions and a reminder the day before. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Diego Torres Vázquez, Radiology, Mexico City
+Rating: 10/10
+Clinic visited: Clínica Santa Brígida
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. The report from Dr. Diego Torres Vázquez was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 9 for Dr. Diego Torres Vázquez, Radiology, Mexico City
+Rating: 9/10
+Clinic visited: Centro Médico Polanco Norte
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Dr. Diego Torres Vázquez compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 10 for Dr. Diego Torres Vázquez, Radiology, Mexico City
+Rating: 8/10
+Clinic visited: Centro Médico Polanco Norte
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Fast, clean and professional; the bone density scan with Dr. Diego Torres Vázquez was painless and the results were explained clearly.
+
+Overall rating for Dr. Diego Torres Vázquez, Radiology, Mexico City: 9.00/10 from 10 reviews

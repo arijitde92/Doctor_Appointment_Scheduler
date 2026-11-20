@@ -1,0 +1,54 @@
+Doctor: Dr. Oh So-yeon
+Doctor ID: 4244
+Specialization: Neurology
+Gender: Female
+Years of experience: 14
+City: Incheon, South Korea
+Clinics: Bupyeong Hanul Family Clinic (clinic ID 546); Juan Maeum Polyclinic (clinic ID 548)
+
+Review 1 for Dr. Oh So-yeon, Neurology, Incheon
+Rating: 8/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Booking online at Juan Maeum Polyclinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 2 for Dr. Oh So-yeon, Neurology, Incheon
+Rating: 9/10
+Clinic visited: Bupyeong Hanul Family Clinic
+Description: I always leave Dr. Oh So-yeon's office with a short written summary of changes, which helps my family keep up.
+
+Review 3 for Dr. Oh So-yeon, Neurology, Incheon
+Rating: 9/10
+Clinic visited: Bupyeong Hanul Family Clinic
+Description: Getting a same-month appointment in Incheon for my sudden headaches was a real relief, and the work-up was prompt. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 4 for Dr. Oh So-yeon, Neurology, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Oh So-yeon, Neurology, Incheon
+Rating: 10/10
+Clinic visited: Bupyeong Hanul Family Clinic
+Description: Clear and honest talk with Dr. Oh So-yeon about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist. At my visit, Dr. Oh So-yeon took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 6 for Dr. Oh So-yeon, Neurology, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 7 for Dr. Oh So-yeon, Neurology, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Oh So-yeon at Juan Maeum Polyclinic are difficult to schedule.
+
+Review 8 for Dr. Oh So-yeon, Neurology, Incheon
+Rating: 8/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Dr. Oh So-yeon took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 9 for Dr. Oh So-yeon, Neurology, Incheon
+Rating: 8/10
+Clinic visited: Bupyeong Hanul Family Clinic
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. My tremor was assessed carefully and the explanation of the options was balanced and unhurried. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Oh So-yeon, Neurology, Incheon: 8.11/10 from 9 reviews

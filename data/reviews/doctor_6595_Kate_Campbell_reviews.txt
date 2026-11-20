@@ -1,0 +1,59 @@
+Doctor: Dr. Kate Campbell
+Doctor ID: 6595
+Specialization: Cardiology
+Gender: Female
+Years of experience: 4
+City: Auckland, New Zealand
+Clinics: Kowhai Family Doctors (clinic ID 855); Pohutukawa Medical Centre (clinic ID 856)
+
+Review 1 for Dr. Kate Campbell, Cardiology, Auckland
+Rating: 2/10
+Clinic visited: Pohutukawa Medical Centre
+Description: The prescription from Dr. Kate Campbell was not the one we discussed, and I only noticed when I got home.
+
+Review 2 for Dr. Kate Campbell, Cardiology, Auckland
+Rating: 7/10
+Clinic visited: Kowhai Family Doctors
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. The treatment plan from Dr. Kate Campbell made sense, but I wished it had been written down for me to take away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Kate Campbell, Cardiology, Auckland
+Rating: 6/10
+Clinic visited: Kowhai Family Doctors
+Description: Great care in the visit itself, but the billing for the tests at Kowhai Family Doctors was confusing. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Kate Campbell, Cardiology, Auckland
+Rating: 8/10
+Clinic visited: Kowhai Family Doctors
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. My atrial fibrillation is well managed by Dr. Kate Campbell, and I know exactly what symptoms mean I should call.
+
+Review 5 for Dr. Kate Campbell, Cardiology, Auckland
+Rating: 7/10
+Clinic visited: Pohutukawa Medical Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 6 for Dr. Kate Campbell, Cardiology, Auckland
+Rating: 8/10
+Clinic visited: Pohutukawa Medical Centre
+Description: Dr. Kate Campbell used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 7 for Dr. Kate Campbell, Cardiology, Auckland
+Rating: 9/10
+Clinic visited: Kowhai Family Doctors
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 8 for Dr. Kate Campbell, Cardiology, Auckland
+Rating: 8/10
+Clinic visited: Pohutukawa Medical Centre
+Description: After my palpitations began, Dr. Kate Campbell arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 9 for Dr. Kate Campbell, Cardiology, Auckland
+Rating: 10/10
+Clinic visited: Kowhai Family Doctors
+Description: The practice in Auckland is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I feel lucky to have found this practice in my area.
+
+Review 10 for Dr. Kate Campbell, Cardiology, Auckland
+Rating: 7/10
+Clinic visited: Kowhai Family Doctors
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Overall rating for Dr. Kate Campbell, Cardiology, Auckland: 7.20/10 from 10 reviews

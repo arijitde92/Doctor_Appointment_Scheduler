@@ -1,0 +1,54 @@
+Doctor: Dr. Henrik Hansen
+Doctor ID: 2353
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 6
+City: Copenhagen, Denmark
+Clinics: Sundhedscenter Amager Plus (clinic ID 307)
+
+Review 1 for Dr. Henrik Hansen, Gastroenterology, Copenhagen
+Rating: 9/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: A translator was arranged for my mother without us asking twice, and Dr. Henrik Hansen spoke directly to her throughout. After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan.
+
+Review 2 for Dr. Henrik Hansen, Gastroenterology, Copenhagen
+Rating: 9/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Henrik Hansen felt well organized from start to finish.
+
+Review 3 for Dr. Henrik Hansen, Gastroenterology, Copenhagen
+Rating: 6/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Henrik Hansen, Gastroenterology, Copenhagen
+Rating: 5/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Henrik Hansen, Gastroenterology, Copenhagen
+Rating: 10/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. Paperwork at Sundhedscenter Amager Plus was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 6 for Dr. Henrik Hansen, Gastroenterology, Copenhagen
+Rating: 9/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Henrik Hansen, Gastroenterology, Copenhagen
+Rating: 8/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: Getting to Sundhedscenter Amager Plus in Copenhagen was simple, and the day-procedure unit was calm and efficient.
+
+Review 8 for Dr. Henrik Hansen, Gastroenterology, Copenhagen
+Rating: 8/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: Booking online at Sundhedscenter Amager Plus was simple, and I got a confirmation text with clear directions and a reminder the day before. I have no hesitation sending my own relatives here.
+
+Review 9 for Dr. Henrik Hansen, Gastroenterology, Copenhagen
+Rating: 5/10
+Clinic visited: Sundhedscenter Amager Plus
+Description: Dr. Henrik Hansen is thorough, but I waited nearly two months to get the first available slot. The treatment plan from Dr. Henrik Hansen made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Henrik Hansen, Gastroenterology, Copenhagen: 7.67/10 from 9 reviews

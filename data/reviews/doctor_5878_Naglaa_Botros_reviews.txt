@@ -1,0 +1,59 @@
+Doctor: Dr. Naglaa Botros
+Doctor ID: 5878
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 11
+City: Alexandria, Egypt
+Clinics: Miami Bahari Clinic (clinic ID 759)
+
+Review 1 for Dr. Naglaa Botros, Orthopedic, Alexandria
+Rating: 8/10
+Clinic visited: Miami Bahari Clinic
+Description: I came away understanding my condition better than I have in years of previous appointments. The surgeon at Miami Bahari Clinic spent time on my goals as a runner and shaped the treatment around them.
+
+Review 2 for Dr. Naglaa Botros, Orthopedic, Alexandria
+Rating: 7/10
+Clinic visited: Miami Bahari Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 3 for Dr. Naglaa Botros, Orthopedic, Alexandria
+Rating: 7/10
+Clinic visited: Miami Bahari Clinic
+Description: The treatment plan from Dr. Naglaa Botros made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Naglaa Botros, Orthopedic, Alexandria
+Rating: 8/10
+Clinic visited: Miami Bahari Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Naglaa Botros, Orthopedic, Alexandria
+Rating: 7/10
+Clinic visited: Miami Bahari Clinic
+Description: Very skilled with my knee, but Dr. Naglaa Botros's clinic runs behind and the wait was over an hour.
+
+Review 6 for Dr. Naglaa Botros, Orthopedic, Alexandria
+Rating: 8/10
+Clinic visited: Miami Bahari Clinic
+Description: Follow-up scans were compared with the earlier ones, and Dr. Naglaa Botros showed me how the bone had healed. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 7 for Dr. Naglaa Botros, Orthopedic, Alexandria
+Rating: 10/10
+Clinic visited: Miami Bahari Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Naglaa Botros felt well organized from start to finish. The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 8 for Dr. Naglaa Botros, Orthopedic, Alexandria
+Rating: 7/10
+Clinic visited: Miami Bahari Clinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 9 for Dr. Naglaa Botros, Orthopedic, Alexandria
+Rating: 5/10
+Clinic visited: Miami Bahari Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 10 for Dr. Naglaa Botros, Orthopedic, Alexandria
+Rating: 9/10
+Clinic visited: Miami Bahari Clinic
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. Dr. Naglaa Botros double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Overall rating for Dr. Naglaa Botros, Orthopedic, Alexandria: 7.60/10 from 10 reviews

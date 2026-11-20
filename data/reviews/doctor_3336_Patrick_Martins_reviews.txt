@@ -1,0 +1,54 @@
+Doctor: Dr. Patrick Martins
+Doctor ID: 3336
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 16
+City: Luxembourg City, Luxembourg
+Clinics: Clinique Bonnevoie (clinic ID 433)
+
+Review 1 for Dr. Patrick Martins, Gastroenterology, Luxembourg City
+Rating: 6/10
+Clinic visited: Clinique Bonnevoie
+Description: Knowledgeable about my reflux, Dr. Patrick Martins still gave diet advice that felt generic and not tailored to my habits. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Patrick Martins, Gastroenterology, Luxembourg City
+Rating: 8/10
+Clinic visited: Clinique Bonnevoie
+Description: The practice in Luxembourg City is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 3 for Dr. Patrick Martins, Gastroenterology, Luxembourg City
+Rating: 4/10
+Clinic visited: Clinique Bonnevoie
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. I described ongoing stomach pain and was told it was stress, with no tests ordered for months.
+
+Review 4 for Dr. Patrick Martins, Gastroenterology, Luxembourg City
+Rating: 8/10
+Clinic visited: Clinique Bonnevoie
+Description: A gentle, respectful manner from Dr. Patrick Martins made a very awkward exam bearable, with every step explained before it happened.
+
+Review 5 for Dr. Patrick Martins, Gastroenterology, Luxembourg City
+Rating: 9/10
+Clinic visited: Clinique Bonnevoie
+Description: Dr. Patrick Martins took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards.
+
+Review 6 for Dr. Patrick Martins, Gastroenterology, Luxembourg City
+Rating: 5/10
+Clinic visited: Clinique Bonnevoie
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Good bedside manner from Dr. Patrick Martins, but the parking near Clinique Bonnevoie is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Patrick Martins, Gastroenterology, Luxembourg City
+Rating: 6/10
+Clinic visited: Clinique Bonnevoie
+Description: The treatment plan from Dr. Patrick Martins made sense, but I wished it had been written down for me to take away. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Patrick Martins, Gastroenterology, Luxembourg City
+Rating: 8/10
+Clinic visited: Clinique Bonnevoie
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Review 9 for Dr. Patrick Martins, Gastroenterology, Luxembourg City
+Rating: 6/10
+Clinic visited: Clinique Bonnevoie
+Description: Dr. Patrick Martins is thorough, but I waited nearly two months to get the first available slot. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Patrick Martins, Gastroenterology, Luxembourg City: 6.67/10 from 9 reviews

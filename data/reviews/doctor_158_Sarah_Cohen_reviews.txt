@@ -1,0 +1,64 @@
+Doctor: Dr. Sarah Cohen
+Doctor ID: 158
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 29
+City: Houston, USA
+Clinics: Downtown Houston Health Center (clinic ID 22)
+
+Review 1 for Dr. Sarah Cohen, Gastroenterology, Houston
+Rating: 9/10
+Clinic visited: Downtown Houston Health Center
+Description: Paperwork at Downtown Houston Health Center was kept to a minimum, and the staff helped me complete the insurance form. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Sarah Cohen, Gastroenterology, Houston
+Rating: 7/10
+Clinic visited: Downtown Houston Health Center
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 3 for Dr. Sarah Cohen, Gastroenterology, Houston
+Rating: 5/10
+Clinic visited: Downtown Houston Health Center
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Booking was easy online, but the confirmation email contained the wrong address for Downtown Houston Health Center. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Sarah Cohen, Gastroenterology, Houston
+Rating: 6/10
+Clinic visited: Downtown Houston Health Center
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Sarah Cohen, Gastroenterology, Houston
+Rating: 5/10
+Clinic visited: Downtown Houston Health Center
+Description: Quick appointment and a fair price in Houston, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Sarah Cohen is thorough, but I waited nearly two months to get the first available slot.
+
+Review 6 for Dr. Sarah Cohen, Gastroenterology, Houston
+Rating: 5/10
+Clinic visited: Downtown Houston Health Center
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Sarah Cohen, Gastroenterology, Houston
+Rating: 8/10
+Clinic visited: Downtown Houston Health Center
+Description: Dr. Sarah Cohen was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 8 for Dr. Sarah Cohen, Gastroenterology, Houston
+Rating: 6/10
+Clinic visited: Downtown Houston Health Center
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 9 for Dr. Sarah Cohen, Gastroenterology, Houston
+Rating: 6/10
+Clinic visited: Downtown Houston Health Center
+Description: I liked the advice I got from Dr. Sarah Cohen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 10 for Dr. Sarah Cohen, Gastroenterology, Houston
+Rating: 5/10
+Clinic visited: Downtown Houston Health Center
+Description: Knowledgeable about my reflux, Dr. Sarah Cohen still gave diet advice that felt generic and not tailored to my habits. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 11 for Dr. Sarah Cohen, Gastroenterology, Houston
+Rating: 9/10
+Clinic visited: Downtown Houston Health Center
+Description: I get regular check-ups for my Crohn's disease, and Dr. Sarah Cohen adjusts my treatment carefully and always explains why.
+
+Overall rating for Dr. Sarah Cohen, Gastroenterology, Houston: 6.45/10 from 11 reviews

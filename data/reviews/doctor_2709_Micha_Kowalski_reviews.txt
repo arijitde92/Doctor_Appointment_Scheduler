@@ -1,0 +1,64 @@
+Doctor: Dr. Michał Kowalski
+Doctor ID: 2709
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 14
+City: Gdansk, Poland
+Clinics: Centrum Medyczne Długi Targ Plus (clinic ID 355); Poliklinika Motława (clinic ID 357)
+
+Review 1 for Dr. Michał Kowalski, Pulmonology, Gdansk
+Rating: 6/10
+Clinic visited: Poliklinika Motława
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 2 for Dr. Michał Kowalski, Pulmonology, Gdansk
+Rating: 7/10
+Clinic visited: Centrum Medyczne Długi Targ Plus
+Description: Dr. Michał Kowalski adjusted my asthma medication well, but the breathing test appointment was a month away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Michał Kowalski, Pulmonology, Gdansk
+Rating: 8/10
+Clinic visited: Centrum Medyczne Długi Targ Plus
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 4 for Dr. Michał Kowalski, Pulmonology, Gdansk
+Rating: 8/10
+Clinic visited: Poliklinika Motława
+Description: He called personally with my scan results and walked me through what the findings did and did not mean. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Michał Kowalski, Pulmonology, Gdansk
+Rating: 8/10
+Clinic visited: Centrum Medyczne Długi Targ Plus
+Description: The spirometry test was explained step by step, and Dr. Michał Kowalski put the results in context with a clear picture of my lung function.
+
+Review 6 for Dr. Michał Kowalski, Pulmonology, Gdansk
+Rating: 9/10
+Clinic visited: Poliklinika Motława
+Description: I always leave Dr. Michał Kowalski's office with a written summary of my breathing test results and what changed since the last visit. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 7 for Dr. Michał Kowalski, Pulmonology, Gdansk
+Rating: 7/10
+Clinic visited: Centrum Medyczne Długi Targ Plus
+Description: Dr. Michał Kowalski was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good advice about triggers, but the clinic's phone line is difficult to get through to. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Michał Kowalski, Pulmonology, Gdansk
+Rating: 7/10
+Clinic visited: Poliklinika Motława
+Description: Pleasant manner and careful lung exam, though the waiting time at Poliklinika Motława regularly exceeded forty minutes. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Michał Kowalski, Pulmonology, Gdansk
+Rating: 9/10
+Clinic visited: Poliklinika Motława
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Gdansk. Booking online at Poliklinika Motława was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 10 for Dr. Michał Kowalski, Pulmonology, Gdansk
+Rating: 7/10
+Clinic visited: Centrum Medyczne Długi Targ Plus
+Description: I got what I needed, but the next available appointment was three weeks away. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Worth trying, but I would not call it the best option in the area.
+
+Review 11 for Dr. Michał Kowalski, Pulmonology, Gdansk
+Rating: 9/10
+Clinic visited: Poliklinika Motława
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Clear, honest answers from Dr. Michał Kowalski about my shortness of breath, and no unnecessary tests were ordered.
+
+Overall rating for Dr. Michał Kowalski, Pulmonology, Gdansk: 7.73/10 from 11 reviews

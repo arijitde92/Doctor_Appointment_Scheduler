@@ -1,0 +1,54 @@
+Doctor: Dr. Meena Naidu
+Doctor ID: 4744
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 9
+City: Kuala Lumpur, Malaysia
+Clinics: Klinik Dr. Aman Bersatu (clinic ID 613)
+
+Review 1 for Dr. Meena Naidu, Gastroenterology, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Meena Naidu, Gastroenterology, Kuala Lumpur
+Rating: 9/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Meena Naidu, Gastroenterology, Kuala Lumpur
+Rating: 9/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Meena Naidu, Gastroenterology, Kuala Lumpur
+Rating: 8/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: Dr. Meena Naidu was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 5 for Dr. Meena Naidu, Gastroenterology, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Meena Naidu, Gastroenterology, Kuala Lumpur
+Rating: 7/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 7 for Dr. Meena Naidu, Gastroenterology, Kuala Lumpur
+Rating: 7/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: Dr. Meena Naidu was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Knowledgeable about my reflux, Dr. Meena Naidu still gave diet advice that felt generic and not tailored to my habits.
+
+Review 8 for Dr. Meena Naidu, Gastroenterology, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Meena Naidu, Gastroenterology, Kuala Lumpur
+Rating: 8/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: She never made me feel embarrassed about discussing bowel habits, which is the main reason I returned.
+
+Overall rating for Dr. Meena Naidu, Gastroenterology, Kuala Lumpur: 7.33/10 from 9 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Ng Kok Seng
+Doctor ID: 4630
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 5
+City: George Town, Malaysia
+Clinics: Bayu Medical Centre (clinic ID 598)
+
+Review 1 for Dr. Ng Kok Seng, Psychiatry, George Town
+Rating: 7/10
+Clinic visited: Bayu Medical Centre
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Ng Kok Seng, Psychiatry, George Town
+Rating: 9/10
+Clinic visited: Bayu Medical Centre
+Description: A same-day slot was found for me at Bayu Medical Centre when I called with a worrying symptom.
+
+Review 3 for Dr. Ng Kok Seng, Psychiatry, George Town
+Rating: 7/10
+Clinic visited: Bayu Medical Centre
+Description: Dr. Ng Kok Seng was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Ng Kok Seng, Psychiatry, George Town
+Rating: 10/10
+Clinic visited: Bayu Medical Centre
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 5 for Dr. Ng Kok Seng, Psychiatry, George Town
+Rating: 9/10
+Clinic visited: Bayu Medical Centre
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Ng Kok Seng, Psychiatry, George Town
+Rating: 10/10
+Clinic visited: Bayu Medical Centre
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 7 for Dr. Ng Kok Seng, Psychiatry, George Town
+Rating: 6/10
+Clinic visited: Bayu Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Helpful diagnosis, though the billing for my first long assessment was confusing. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Ng Kok Seng, Psychiatry, George Town
+Rating: 9/10
+Clinic visited: Bayu Medical Centre
+Description: My depression finally has a treatment plan from Dr. Ng Kok Seng that works, with regular check-ins and careful dose changes. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Ng Kok Seng, Psychiatry, George Town
+Rating: 10/10
+Clinic visited: Bayu Medical Centre
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Dr. Ng Kok Seng took a full history before suggesting any medication and explained the likely side effects honestly. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Ng Kok Seng, Psychiatry, George Town: 8.56/10 from 9 reviews

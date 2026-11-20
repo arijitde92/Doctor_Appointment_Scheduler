@@ -1,0 +1,49 @@
+Doctor: Dr. Patrick Wagner
+Doctor ID: 2900
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 8
+City: Graz, Austria
+Clinics: Medizinisches Zentrum Leonhard (clinic ID 378)
+
+Review 1 for Dr. Patrick Wagner, Pulmonology, Graz
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: Dr. Patrick Wagner adjusted my asthma medication well, but the breathing test appointment was a month away. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Patrick Wagner, Pulmonology, Graz
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: Pleasant manner and careful lung exam, though the waiting time at Medizinisches Zentrum Leonhard regularly exceeded forty minutes. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Patrick Wagner, Pulmonology, Graz
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: Quick appointment and a fair price in Graz, but the staff seemed overwhelmed and a bit curt on the phone. Helpful and honest about my prognosis, Dr. Patrick Wagner could still have given me more written material to take home. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Patrick Wagner, Pulmonology, Graz
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: Booking online at Medizinisches Zentrum Leonhard was simple, and I got a confirmation text with clear directions and a reminder the day before. After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Patrick Wagner, Pulmonology, Graz
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 6 for Dr. Patrick Wagner, Pulmonology, Graz
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 7 for Dr. Patrick Wagner, Pulmonology, Graz
+Rating: 4/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: I felt dismissed by Dr. Patrick Wagner when I brought up a second concern, and was told to book another appointment for it.
+
+Review 8 for Dr. Patrick Wagner, Pulmonology, Graz
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Overall rating for Dr. Patrick Wagner, Pulmonology, Graz: 6.50/10 from 8 reviews

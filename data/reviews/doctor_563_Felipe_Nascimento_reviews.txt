@@ -1,0 +1,49 @@
+Doctor: Dr. Felipe Nascimento
+Doctor ID: 563
+Specialization: Cardiology
+Gender: Male
+Years of experience: 1
+City: Belo Horizonte, Brazil
+Clinics: Centro Médico Contorno (clinic ID 76)
+
+Review 1 for Dr. Felipe Nascimento, Cardiology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Centro Médico Contorno
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Managing my blood pressure with Dr. Felipe Nascimento has been steady and practical, with home readings reviewed at every visit. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Felipe Nascimento, Cardiology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Centro Médico Contorno
+Description: Appointment reminders came by text and email, and rescheduling took two taps. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 3 for Dr. Felipe Nascimento, Cardiology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Centro Médico Contorno
+Description: My stress test was supervised carefully, and Dr. Felipe Nascimento reviewed the results in the same visit with a plan for my cholesterol. A same-day slot was found for me at Centro Médico Contorno when I called with a worrying symptom.
+
+Review 4 for Dr. Felipe Nascimento, Cardiology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Centro Médico Contorno
+Description: The treatment plan from Dr. Felipe Nascimento made sense, but I wished it had been written down for me to take away. Helpful with my cholesterol, Dr. Felipe Nascimento still gave dietary advice that was a little generic. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Felipe Nascimento, Cardiology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Centro Médico Contorno
+Description: The cardiology unit at Centro Médico Contorno runs on time, and the technicians were professional during my echocardiogram. The nurse was friendly and efficient, and the whole visit with Dr. Felipe Nascimento felt well organized from start to finish.
+
+Review 6 for Dr. Felipe Nascimento, Cardiology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Centro Médico Contorno
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 7 for Dr. Felipe Nascimento, Cardiology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Centro Médico Contorno
+Description: The practice in Belo Horizonte is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. After my heart attack, Dr. Felipe Nascimento explained the rehab plan and medication changes with great patience and kindness.
+
+Review 8 for Dr. Felipe Nascimento, Cardiology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Centro Médico Contorno
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Good bedside manner from Dr. Felipe Nascimento, but the parking near Centro Médico Contorno is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Felipe Nascimento, Cardiology, Belo Horizonte: 8.25/10 from 8 reviews

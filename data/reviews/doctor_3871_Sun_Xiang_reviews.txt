@@ -1,0 +1,69 @@
+Doctor: Dr. Sun Xiang
+Doctor ID: 3871
+Specialization: General
+Gender: Male
+Years of experience: 3
+City: Guangzhou, China
+Clinics: Tianhe Kangle Medical Centre (clinic ID 500); Dongfeng Family Health Practice (clinic ID 502)
+
+Review 1 for Dr. Sun Xiang, General, Guangzhou
+Rating: 8/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 2 for Dr. Sun Xiang, General, Guangzhou
+Rating: 7/10
+Clinic visited: Dongfeng Family Health Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Dr. Sun Xiang is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 3 for Dr. Sun Xiang, General, Guangzhou
+Rating: 9/10
+Clinic visited: Dongfeng Family Health Practice
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. As a new patient in Guangzhou, I felt welcomed at Dongfeng Family Health Practice, and my whole history was reviewed in one relaxed visit.
+
+Review 4 for Dr. Sun Xiang, General, Guangzhou
+Rating: 7/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. The treatment plan from Dr. Sun Xiang made sense, but I wished it had been written down for me to take away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Sun Xiang, General, Guangzhou
+Rating: 8/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: I was called in within five minutes of my appointment time at Tianhe Kangle Medical Centre, which is rare and much appreciated. My annual check-up with Dr. Sun Xiang took forty minutes, with every screening explained and nothing rushed.
+
+Review 6 for Dr. Sun Xiang, General, Guangzhou
+Rating: 8/10
+Clinic visited: Dongfeng Family Health Practice
+Description: Cholesterol results were explained by Dr. Sun Xiang with a simple chart, and we agreed on a plan I could realistically follow. The waiting room at Dongfeng Family Health Practice was clean, quiet and comfortable, with enough seating and water available.
+
+Review 7 for Dr. Sun Xiang, General, Guangzhou
+Rating: 6/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 8 for Dr. Sun Xiang, General, Guangzhou
+Rating: 8/10
+Clinic visited: Dongfeng Family Health Practice
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 9 for Dr. Sun Xiang, General, Guangzhou
+Rating: 7/10
+Clinic visited: Dongfeng Family Health Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Referrals from Dr. Sun Xiang are handled well, but getting test results back took longer than I was told to expect.
+
+Review 10 for Dr. Sun Xiang, General, Guangzhou
+Rating: 7/10
+Clinic visited: Dongfeng Family Health Practice
+Description: Quick appointment and a fair price in Guangzhou, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 11 for Dr. Sun Xiang, General, Guangzhou
+Rating: 7/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Tianhe Kangle Medical Centre were inconsistent.
+
+Review 12 for Dr. Sun Xiang, General, Guangzhou
+Rating: 9/10
+Clinic visited: Dongfeng Family Health Practice
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Managing my type 2 diabetes with Dr. Sun Xiang has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Overall rating for Dr. Sun Xiang, General, Guangzhou: 7.58/10 from 12 reviews

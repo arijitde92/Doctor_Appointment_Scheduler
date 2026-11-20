@@ -1,0 +1,69 @@
+Doctor: Dr. David Rossi
+Doctor ID: 1686
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 3
+City: Bern, Switzerland
+Clinics: Praxis Spitalgasse Bern (clinic ID 220); Aerztezentrum Marktplatz Aare (clinic ID 221)
+
+Review 1 for Dr. David Rossi, Pediatrics, Bern
+Rating: 9/10
+Clinic visited: Aerztezentrum Marktplatz Aare
+Description: He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 2 for Dr. David Rossi, Pediatrics, Bern
+Rating: 8/10
+Clinic visited: Aerztezentrum Marktplatz Aare
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. Dr. David Rossi drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 3 for Dr. David Rossi, Pediatrics, Bern
+Rating: 10/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: The waiting room in Bern has a play corner and separate seating for sick children, which I really valued. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. David Rossi, Pediatrics, Bern
+Rating: 6/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 5 for Dr. David Rossi, Pediatrics, Bern
+Rating: 8/10
+Clinic visited: Aerztezentrum Marktplatz Aare
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. David Rossi, Pediatrics, Bern
+Rating: 10/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: A translator was arranged for my mother without us asking twice, and Dr. David Rossi spoke directly to her throughout. Our newborn check-ups with Dr. David Rossi were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Review 7 for Dr. David Rossi, Pediatrics, Bern
+Rating: 7/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. David Rossi is thorough with exams, but the after-hours phone line at Praxis Spitalgasse Bern is hard to reach.
+
+Review 8 for Dr. David Rossi, Pediatrics, Bern
+Rating: 10/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: My toddler was terrified of doctors, but Dr. David Rossi sat on the floor, played with a stuffed toy and examined everything without a single tear.
+
+Review 9 for Dr. David Rossi, Pediatrics, Bern
+Rating: 9/10
+Clinic visited: Aerztezentrum Marktplatz Aare
+Description: Vaccination visits with Dr. David Rossi are painless and well explained, and my questions about the schedule were answered without any pressure. I asked about the cost before the visit and received an honest estimate that matched the final bill. Worth every minute of travel, and I would go again without a second thought.
+
+Review 10 for Dr. David Rossi, Pediatrics, Bern
+Rating: 6/10
+Clinic visited: Aerztezentrum Marktplatz Aare
+Description: Good bedside manner from Dr. David Rossi, but the parking near Aerztezentrum Marktplatz Aare is limited and I had to circle for fifteen minutes. Caring and gentle with my child, Dr. David Rossi nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 11 for Dr. David Rossi, Pediatrics, Bern
+Rating: 7/10
+Clinic visited: Aerztezentrum Marktplatz Aare
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Decent care overall, and I will probably return unless I find something closer.
+
+Review 12 for Dr. David Rossi, Pediatrics, Bern
+Rating: 10/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: Our family has been coming for years, and he remembers each child's history and personality. The nurse was friendly and efficient, and the whole visit with Dr. David Rossi felt well organized from start to finish.
+
+Overall rating for Dr. David Rossi, Pediatrics, Bern: 8.33/10 from 12 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Kirsten Johansen
+Doctor ID: 2357
+Specialization: General
+Gender: Female
+Years of experience: 1
+City: Copenhagen, Denmark
+Clinics: Lægehuset Østerbro Torv (clinic ID 308); Klinik Frederiksborg Center (clinic ID 309)
+
+Review 1 for Dr. Kirsten Johansen, General, Copenhagen
+Rating: 6/10
+Clinic visited: Klinik Frederiksborg Center
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Kirsten Johansen, General, Copenhagen
+Rating: 4/10
+Clinic visited: Klinik Frederiksborg Center
+Description: My lab results from Klinik Frederiksborg Center were never called in, and I only found them by chasing the front desk three times. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. I will not be returning and have already started looking for another doctor.
+
+Review 3 for Dr. Kirsten Johansen, General, Copenhagen
+Rating: 6/10
+Clinic visited: Klinik Frederiksborg Center
+Description: Referrals from Dr. Kirsten Johansen are handled well, but getting test results back took longer than I was told to expect. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Kirsten Johansen, General, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Lægehuset Østerbro Torv were inconsistent.
+
+Review 5 for Dr. Kirsten Johansen, General, Copenhagen
+Rating: 5/10
+Clinic visited: Klinik Frederiksborg Center
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 6 for Dr. Kirsten Johansen, General, Copenhagen
+Rating: 6/10
+Clinic visited: Klinik Frederiksborg Center
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Kirsten Johansen, General, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Kirsten Johansen, General, Copenhagen
+Rating: 8/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: By the time I left the room, Dr. Kirsten Johansen had sorted the sick note, referral letter and prescription refill.
+
+Overall rating for Dr. Kirsten Johansen, General, Copenhagen: 6.12/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Maxim Orlov
+Doctor ID: 3820
+Specialization: Neurology
+Gender: Male
+Years of experience: 12
+City: Saint Petersburg, Russia
+Clinics: Neva Health Practice (clinic ID 493)
+
+Review 1 for Dr. Maxim Orlov, Neurology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Neva Health Practice
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Maxim Orlov at Neva Health Practice are difficult to schedule. The treatment plan from Dr. Maxim Orlov made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Maxim Orlov, Neurology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Neva Health Practice
+Description: Getting to Neva Health Practice by public transport in Saint Petersburg was easy, and there is a step-free entrance for wheelchairs.
+
+Review 3 for Dr. Maxim Orlov, Neurology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Neva Health Practice
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Maxim Orlov, Neurology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Neva Health Practice
+Description: A same-day slot was found for me at Neva Health Practice when I called with a worrying symptom.
+
+Review 5 for Dr. Maxim Orlov, Neurology, Saint Petersburg
+Rating: 10/10
+Clinic visited: Neva Health Practice
+Description: Dr. Maxim Orlov looked me in the eye, listened to the whole story and only then started typing. He coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 6 for Dr. Maxim Orlov, Neurology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Neva Health Practice
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Neva Health Practice.
+
+Review 7 for Dr. Maxim Orlov, Neurology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Neva Health Practice
+Description: Quick appointment and a fair price in Saint Petersburg, but the staff seemed overwhelmed and a bit curt on the phone. The migraine plan has helped, though the first medication caused side effects that were not fully explained. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Maxim Orlov, Neurology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Neva Health Practice
+Description: Paperwork at Neva Health Practice was kept to a minimum, and the staff helped me complete the insurance form.
+
+Overall rating for Dr. Maxim Orlov, Neurology, Saint Petersburg: 8.12/10 from 8 reviews

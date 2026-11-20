@@ -1,0 +1,54 @@
+Doctor: Dr. Florian Walter
+Doctor ID: 1577
+Specialization: Psychology
+Gender: Male
+Years of experience: 30
+City: Hamburg, Germany
+Clinics: Praxis am Rathausmarkt Nord (clinic ID 205); Gesundheitszentrum Altona-Elbe (clinic ID 207)
+
+Review 1 for Dr. Florian Walter, Psychology, Hamburg
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: My questions were answered by Dr. Florian Walter with short, vague replies, and I left without a clear plan.
+
+Review 2 for Dr. Florian Walter, Psychology, Hamburg
+Rating: 6/10
+Clinic visited: Praxis am Rathausmarkt Nord
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 3 for Dr. Florian Walter, Psychology, Hamburg
+Rating: 8/10
+Clinic visited: Praxis am Rathausmarkt Nord
+Description: He has a calm way of asking the difficult questions that makes it feel safe to answer honestly. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 4 for Dr. Florian Walter, Psychology, Hamburg
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: Warm, patient and honest, Dr. Florian Walter told me what progress to expect and it matched reality.
+
+Review 5 for Dr. Florian Walter, Psychology, Hamburg
+Rating: 6/10
+Clinic visited: Praxis am Rathausmarkt Nord
+Description: Dr. Florian Walter was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. My trauma work felt well paced, although the schedule changed several times at Praxis am Rathausmarkt Nord.
+
+Review 6 for Dr. Florian Walter, Psychology, Hamburg
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Florian Walter, Psychology, Hamburg
+Rating: 6/10
+Clinic visited: Praxis am Rathausmarkt Nord
+Description: Dr. Florian Walter was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Insightful and kind, though progress with Dr. Florian Walter felt slow, and I wished for more structured homework between sessions. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Florian Walter, Psychology, Hamburg
+Rating: 6/10
+Clinic visited: Praxis am Rathausmarkt Nord
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Florian Walter, Psychology, Hamburg
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: I felt interrupted by Dr. Florian Walter several times while describing my situation and left without feeling heard. There was no translator available, and my parent was left unable to follow what was being said. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Overall rating for Dr. Florian Walter, Psychology, Hamburg: 5.89/10 from 9 reviews

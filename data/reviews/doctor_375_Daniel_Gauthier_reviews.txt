@@ -1,0 +1,49 @@
+Doctor: Dr. Daniel Gauthier
+Doctor ID: 375
+Specialization: General
+Gender: Male
+Years of experience: 3
+City: Vancouver, Canada
+Clinics: Yaletown Health Centre (clinic ID 52)
+
+Review 1 for Dr. Daniel Gauthier, General, Vancouver
+Rating: 10/10
+Clinic visited: Yaletown Health Centre
+Description: As a new patient in Vancouver, I felt welcomed at Yaletown Health Centre, and my whole history was reviewed in one relaxed visit. My referral letter was written on the spot, and the specialist's office had my details before I called. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Daniel Gauthier, General, Vancouver
+Rating: 9/10
+Clinic visited: Yaletown Health Centre
+Description: I was called in within five minutes of my appointment time at Yaletown Health Centre, which is rare and much appreciated. My annual check-up with Dr. Daniel Gauthier took forty minutes, with every screening explained and nothing rushed. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Daniel Gauthier, General, Vancouver
+Rating: 9/10
+Clinic visited: Yaletown Health Centre
+Description: At my visit, Dr. Daniel Gauthier took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 4 for Dr. Daniel Gauthier, General, Vancouver
+Rating: 7/10
+Clinic visited: Yaletown Health Centre
+Description: I got what I needed, but the next available appointment was three weeks away. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 5 for Dr. Daniel Gauthier, General, Vancouver
+Rating: 8/10
+Clinic visited: Yaletown Health Centre
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 6 for Dr. Daniel Gauthier, General, Vancouver
+Rating: 10/10
+Clinic visited: Yaletown Health Centre
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 7 for Dr. Daniel Gauthier, General, Vancouver
+Rating: 9/10
+Clinic visited: Yaletown Health Centre
+Description: My blood pressure had crept up and Dr. Daniel Gauthier walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 8 for Dr. Daniel Gauthier, General, Vancouver
+Rating: 5/10
+Clinic visited: Yaletown Health Centre
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Yaletown Health Centre were inconsistent. Clear explanations, but the follow-up call took a week longer than I had been told. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Daniel Gauthier, General, Vancouver: 8.38/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Lars de Boer
+Doctor ID: 2565
+Specialization: Neurology
+Gender: Male
+Years of experience: 1
+City: Amsterdam, Netherlands
+Clinics: Huisartsenpraktijk Jordaan (clinic ID 335)
+
+Review 1 for Dr. Lars de Boer, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: The waiting room at Huisartsenpraktijk Jordaan was clean, quiet and comfortable, with enough seating and water available.
+
+Review 2 for Dr. Lars de Boer, Neurology, Amsterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 3 for Dr. Lars de Boer, Neurology, Amsterdam
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: The EEG appointment ran on time, and Dr. Lars de Boer reviewed the tracing with me the same week. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Lars de Boer, Neurology, Amsterdam
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Lars de Boer at Huisartsenpraktijk Jordaan are difficult to schedule. I got what I needed, but the next available appointment was three weeks away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Lars de Boer, Neurology, Amsterdam
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Dr. Lars de Boer explained my results well, although the visit felt short for such a complex condition. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Lars de Boer, Neurology, Amsterdam
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The migraine plan has helped, though the first medication caused side effects that were not fully explained. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Lars de Boer, Neurology, Amsterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: A same-day slot was found for me at Huisartsenpraktijk Jordaan when I called with a worrying symptom.
+
+Review 8 for Dr. Lars de Boer, Neurology, Amsterdam
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Lars de Boer, Neurology, Amsterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices. I came away understanding my condition better than I have in years of previous appointments.
+
+Overall rating for Dr. Lars de Boer, Neurology, Amsterdam: 7.89/10 from 9 reviews

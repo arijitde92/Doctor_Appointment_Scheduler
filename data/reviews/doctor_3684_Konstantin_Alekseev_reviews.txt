@@ -1,0 +1,59 @@
+Doctor: Dr. Konstantin Alekseev
+Doctor ID: 3684
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 11
+City: Kazan, Russia
+Clinics: Klinika Zdorovye Kazani (clinic ID 476)
+
+Review 1 for Dr. Konstantin Alekseev, Psychiatry, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: At my visit, Dr. Konstantin Alekseev took notes on my medication list, checked for interactions and explained the changes simply. Dr. Konstantin Alekseev took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 2 for Dr. Konstantin Alekseev, Psychiatry, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Excellent at explaining how therapy and medication work together, and Dr. Konstantin Alekseev coordinated with my counselor. Booking online at Klinika Zdorovye Kazani was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 3 for Dr. Konstantin Alekseev, Psychiatry, Kazan
+Rating: 6/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Good bedside manner from Dr. Konstantin Alekseev, but the parking near Klinika Zdorovye Kazani is limited and I had to circle for fifteen minutes.
+
+Review 4 for Dr. Konstantin Alekseev, Psychiatry, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: I can ring Klinika Zdorovye Kazani with an urgent question and receive a thoughtful reply the same day. The practice in Kazan is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Konstantin Alekseev, Psychiatry, Kazan
+Rating: 7/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Good listener, yet the refill process at Klinika Zdorovye Kazani is slow and requires several phone calls. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Konstantin Alekseev, Psychiatry, Kazan
+Rating: 6/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Dr. Konstantin Alekseev is knowledgeable, though I waited several weeks for my first appointment. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Konstantin Alekseev, Psychiatry, Kazan
+Rating: 9/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Konstantin Alekseev, Psychiatry, Kazan
+Rating: 6/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Helpful diagnosis, though the billing for my first long assessment was confusing. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Konstantin Alekseev, Psychiatry, Kazan
+Rating: 7/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Konstantin Alekseev, Psychiatry, Kazan
+Rating: 7/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Overall rating for Dr. Konstantin Alekseev, Psychiatry, Kazan: 7.20/10 from 10 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Sophie Williams
+Doctor ID: 6464
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 25
+City: Brisbane, Australia
+Clinics: Federation Square Doctors (clinic ID 837)
+
+Review 1 for Dr. Sophie Williams, Pulmonology, Brisbane
+Rating: 6/10
+Clinic visited: Federation Square Doctors
+Description: Helpful and honest about my prognosis, Dr. Sophie Williams could still have given me more written material to take home.
+
+Review 2 for Dr. Sophie Williams, Pulmonology, Brisbane
+Rating: 7/10
+Clinic visited: Federation Square Doctors
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 3 for Dr. Sophie Williams, Pulmonology, Brisbane
+Rating: 8/10
+Clinic visited: Federation Square Doctors
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. A translator was arranged for my mother without us asking twice, and Dr. Sophie Williams spoke directly to her throughout.
+
+Review 4 for Dr. Sophie Williams, Pulmonology, Brisbane
+Rating: 8/10
+Clinic visited: Federation Square Doctors
+Description: Clear, honest answers from Dr. Sophie Williams about my shortness of breath, and no unnecessary tests were ordered.
+
+Review 5 for Dr. Sophie Williams, Pulmonology, Brisbane
+Rating: 7/10
+Clinic visited: Federation Square Doctors
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 6 for Dr. Sophie Williams, Pulmonology, Brisbane
+Rating: 8/10
+Clinic visited: Federation Square Doctors
+Description: Dr. Sophie Williams explained my lung nodule follow-up schedule calmly, which took away weeks of worry. Everything was explained in plain English by Dr. Sophie Williams, and nothing was left to guess.
+
+Review 7 for Dr. Sophie Williams, Pulmonology, Brisbane
+Rating: 7/10
+Clinic visited: Federation Square Doctors
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I liked the advice I got from Dr. Sophie Williams, but I would have liked more time to ask follow-up questions before the visit ended. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Sophie Williams, Pulmonology, Brisbane
+Rating: 8/10
+Clinic visited: Federation Square Doctors
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Brisbane.
+
+Review 9 for Dr. Sophie Williams, Pulmonology, Brisbane
+Rating: 7/10
+Clinic visited: Federation Square Doctors
+Description: Pleasant manner and careful lung exam, though the waiting time at Federation Square Doctors regularly exceeded forty minutes. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 10 for Dr. Sophie Williams, Pulmonology, Brisbane
+Rating: 9/10
+Clinic visited: Federation Square Doctors
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. I would happily recommend this doctor to friends and family.
+
+Review 11 for Dr. Sophie Williams, Pulmonology, Brisbane
+Rating: 10/10
+Clinic visited: Federation Square Doctors
+Description: The spirometry test was explained step by step, and Dr. Sophie Williams put the results in context with a clear picture of my lung function. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Overall rating for Dr. Sophie Williams, Pulmonology, Brisbane: 7.73/10 from 11 reviews

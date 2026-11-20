@@ -1,0 +1,49 @@
+Doctor: Dr. Maria Fontana
+Doctor ID: 3419
+Specialization: Cardiology
+Gender: Female
+Years of experience: 24
+City: Milan, Italy
+Clinics: Clinica Santa Giulia (clinic ID 443)
+
+Review 1 for Dr. Maria Fontana, Cardiology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Good bedside manner from Dr. Maria Fontana, but the parking near Clinica Santa Giulia is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Maria Fontana, Cardiology, Milan
+Rating: 10/10
+Clinic visited: Clinica Santa Giulia
+Description: Prescriptions from Dr. Maria Fontana were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 3 for Dr. Maria Fontana, Cardiology, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. I felt like a person rather than a case number, and she asked about my life as well as my symptoms. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Maria Fontana, Cardiology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 5 for Dr. Maria Fontana, Cardiology, Milan
+Rating: 9/10
+Clinic visited: Clinica Santa Giulia
+Description: Sensitive questions were handled by Dr. Maria Fontana with discretion and without a hint of judgment. Quick to coordinate with my regular doctor, so my medications were consistent across both offices. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Maria Fontana, Cardiology, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: Managing my blood pressure with Dr. Maria Fontana has been steady and practical, with home readings reviewed at every visit. Dr. Maria Fontana drew a quick sketch to explain what was going on, which helped me remember it afterwards. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Maria Fontana, Cardiology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Dr. Maria Fontana adjusted my blood pressure medication carefully, though I had to call twice for a refill. Helpful visit overall, although I only found out about an extra charge after I had paid. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Maria Fontana, Cardiology, Milan
+Rating: 10/10
+Clinic visited: Clinica Santa Giulia
+Description: Dr. Maria Fontana double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Maria Fontana, Cardiology, Milan: 8.25/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Xu Liang
+Doctor ID: 3913
+Specialization: General
+Gender: Male
+Years of experience: 16
+City: Shanghai, China
+Clinics: Lujiazui Kangtai Medical Centre (clinic ID 505); Huaihai Family Health Practice (clinic ID 507)
+
+Review 1 for Dr. Xu Liang, General, Shanghai
+Rating: 6/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Quick appointment and a fair price in Shanghai, but the staff seemed overwhelmed and a bit curt on the phone. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 2 for Dr. Xu Liang, General, Shanghai
+Rating: 5/10
+Clinic visited: Huaihai Family Health Practice
+Description: Dr. Xu Liang was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Xu Liang, General, Shanghai
+Rating: 7/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 4 for Dr. Xu Liang, General, Shanghai
+Rating: 6/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 5 for Dr. Xu Liang, General, Shanghai
+Rating: 7/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Referrals from Dr. Xu Liang are handled well, but getting test results back took longer than I was told to expect. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 6 for Dr. Xu Liang, General, Shanghai
+Rating: 5/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 7 for Dr. Xu Liang, General, Shanghai
+Rating: 7/10
+Clinic visited: Huaihai Family Health Practice
+Description: Dr. Xu Liang is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Xu Liang, General, Shanghai
+Rating: 5/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: The treatment plan from Dr. Xu Liang made sense, but I wished it had been written down for me to take away. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Lujiazui Kangtai Medical Centre were inconsistent.
+
+Review 9 for Dr. Xu Liang, General, Shanghai
+Rating: 7/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I liked the advice I got from Dr. Xu Liang, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 10 for Dr. Xu Liang, General, Shanghai
+Rating: 5/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Booking was easy online, but the confirmation email contained the wrong address for Lujiazui Kangtai Medical Centre.
+
+Overall rating for Dr. Xu Liang, General, Shanghai: 6.00/10 from 10 reviews

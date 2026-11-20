@@ -1,0 +1,59 @@
+Doctor: Dr. Catherine Durand
+Doctor ID: 1236
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 1
+City: Marseille, France
+Clinics: Cabinet Médical Castellane (clinic ID 161); Polyclinique Saint-Giniez (clinic ID 164)
+
+Review 1 for Dr. Catherine Durand, Psychiatry, Marseille
+Rating: 10/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: Dr. Catherine Durand took a full history before suggesting any medication and explained the likely side effects honestly. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 2 for Dr. Catherine Durand, Psychiatry, Marseille
+Rating: 10/10
+Clinic visited: Cabinet Médical Castellane
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. The ADHD assessment by Dr. Catherine Durand was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 3 for Dr. Catherine Durand, Psychiatry, Marseille
+Rating: 10/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: Excellent at explaining how therapy and medication work together, and Dr. Catherine Durand coordinated with my counselor. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 4 for Dr. Catherine Durand, Psychiatry, Marseille
+Rating: 8/10
+Clinic visited: Cabinet Médical Castellane
+Description: My depression finally has a treatment plan from Dr. Catherine Durand that works, with regular check-ins and careful dose changes. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 5 for Dr. Catherine Durand, Psychiatry, Marseille
+Rating: 8/10
+Clinic visited: Cabinet Médical Castellane
+Description: Never once did Dr. Catherine Durand make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 6 for Dr. Catherine Durand, Psychiatry, Marseille
+Rating: 10/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Catherine Durand, Psychiatry, Marseille
+Rating: 9/10
+Clinic visited: Cabinet Médical Castellane
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 8 for Dr. Catherine Durand, Psychiatry, Marseille
+Rating: 9/10
+Clinic visited: Cabinet Médical Castellane
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Catherine Durand, Psychiatry, Marseille
+Rating: 9/10
+Clinic visited: Cabinet Médical Castellane
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. My referral letter was written on the spot, and the specialist's office had my details before I called. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 10 for Dr. Catherine Durand, Psychiatry, Marseille
+Rating: 10/10
+Clinic visited: Polyclinique Saint-Giniez
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Catherine Durand, Psychiatry, Marseille: 9.30/10 from 10 reviews

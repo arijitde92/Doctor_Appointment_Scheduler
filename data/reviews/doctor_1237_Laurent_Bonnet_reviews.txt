@@ -1,0 +1,49 @@
+Doctor: Dr. Laurent Bonnet
+Doctor ID: 1237
+Specialization: Radiology
+Gender: Male
+Years of experience: 1
+City: Marseille, France
+Clinics: Cabinet Médical Castellane (clinic ID 161)
+
+Review 1 for Dr. Laurent Bonnet, Radiology, Marseille
+Rating: 8/10
+Clinic visited: Cabinet Médical Castellane
+Description: The receptionist at Cabinet Médical Castellane remembered my name and had my forms ready, so check-in took less than a minute. The report from Dr. Laurent Bonnet was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 2 for Dr. Laurent Bonnet, Radiology, Marseille
+Rating: 7/10
+Clinic visited: Cabinet Médical Castellane
+Description: The report from Dr. Laurent Bonnet was thorough, though full of technical terms that needed my regular doctor to translate. The treatment plan from Dr. Laurent Bonnet made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Laurent Bonnet, Radiology, Marseille
+Rating: 7/10
+Clinic visited: Cabinet Médical Castellane
+Description: I got what I needed, but the next available appointment was three weeks away. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 4 for Dr. Laurent Bonnet, Radiology, Marseille
+Rating: 8/10
+Clinic visited: Cabinet Médical Castellane
+Description: Paperwork at Cabinet Médical Castellane was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 5 for Dr. Laurent Bonnet, Radiology, Marseille
+Rating: 9/10
+Clinic visited: Cabinet Médical Castellane
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 6 for Dr. Laurent Bonnet, Radiology, Marseille
+Rating: 8/10
+Clinic visited: Cabinet Médical Castellane
+Description: When my scan showed something that needed a second look, Dr. Laurent Bonnet arranged the follow-up the same day. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Laurent Bonnet, Radiology, Marseille
+Rating: 7/10
+Clinic visited: Cabinet Médical Castellane
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Laurent Bonnet, Radiology, Marseille
+Rating: 7/10
+Clinic visited: Cabinet Médical Castellane
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Overall rating for Dr. Laurent Bonnet, Radiology, Marseille: 7.62/10 from 8 reviews

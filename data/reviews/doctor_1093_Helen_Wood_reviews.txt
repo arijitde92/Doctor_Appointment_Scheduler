@@ -1,0 +1,69 @@
+Doctor: Dr. Helen Wood
+Doctor ID: 1093
+Specialization: Neurology
+Gender: Female
+Years of experience: 3
+City: Edinburgh, UK
+Clinics: Queensferry Street Polyclinic (clinic ID 143)
+
+Review 1 for Dr. Helen Wood, Neurology, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Helen Wood at Queensferry Street Polyclinic are difficult to schedule. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Helen Wood, Neurology, Edinburgh
+Rating: 8/10
+Clinic visited: Queensferry Street Polyclinic
+Description: She coordinated with my regular doctor so my medicine list was consistent in both offices. A translator was arranged for my mother without us asking twice, and Dr. Helen Wood spoke directly to her throughout.
+
+Review 3 for Dr. Helen Wood, Neurology, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The nerve test was well done, but the technician and doctor gave slightly different explanations. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Helen Wood, Neurology, Edinburgh
+Rating: 8/10
+Clinic visited: Queensferry Street Polyclinic
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Queensferry Street Polyclinic. I came away understanding my condition better than I have in years of previous appointments. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Helen Wood, Neurology, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 6 for Dr. Helen Wood, Neurology, Edinburgh
+Rating: 9/10
+Clinic visited: Queensferry Street Polyclinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Helen Wood, Neurology, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Dr. Helen Wood was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Helen Wood, Neurology, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Clear explanations, but the follow-up call took a week longer than I had been told. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Helen Wood, Neurology, Edinburgh
+Rating: 6/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 10 for Dr. Helen Wood, Neurology, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 11 for Dr. Helen Wood, Neurology, Edinburgh
+Rating: 6/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Dr. Helen Wood explained my results well, although the visit felt short for such a complex condition.
+
+Review 12 for Dr. Helen Wood, Neurology, Edinburgh
+Rating: 6/10
+Clinic visited: Queensferry Street Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Helen Wood, Neurology, Edinburgh: 7.08/10 from 12 reviews

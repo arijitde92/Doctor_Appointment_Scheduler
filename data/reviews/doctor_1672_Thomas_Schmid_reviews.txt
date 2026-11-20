@@ -1,0 +1,64 @@
+Doctor: Dr. Thomas Schmid
+Doctor ID: 1672
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 9
+City: Basel, Switzerland
+Clinics: Medizinisches Zentrum Gundeli (clinic ID 218)
+
+Review 1 for Dr. Thomas Schmid, Orthopedic, Basel
+Rating: 4/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed. Dr. Thomas Schmid did not seem to have read my notes and asked me to repeat my whole history from the beginning. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 2 for Dr. Thomas Schmid, Orthopedic, Basel
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Thomas Schmid, Orthopedic, Basel
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Thomas Schmid, Orthopedic, Basel
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Booking was easy online, but the confirmation email contained the wrong address for Medizinisches Zentrum Gundeli. The cast was applied well, but the instructions for showering and sleeping were rushed. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Thomas Schmid, Orthopedic, Basel
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Dr. Thomas Schmid explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Quick appointment and a fair price in Basel, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Thomas Schmid, Orthopedic, Basel
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Thomas Schmid, Orthopedic, Basel
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Very skilled with my knee, but Dr. Thomas Schmid's clinic runs behind and the wait was over an hour.
+
+Review 8 for Dr. Thomas Schmid, Orthopedic, Basel
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Thomas Schmid, Orthopedic, Basel
+Rating: 4/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 10 for Dr. Thomas Schmid, Orthopedic, Basel
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 11 for Dr. Thomas Schmid, Orthopedic, Basel
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Good bedside manner from Dr. Thomas Schmid, but the parking near Medizinisches Zentrum Gundeli is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Thomas Schmid, Orthopedic, Basel: 5.55/10 from 11 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Silvia Ricci
+Doctor ID: 3432
+Specialization: Neurology
+Gender: Female
+Years of experience: 30
+City: Naples, Italy
+Clinics: Poliambulatorio Vomero (clinic ID 445); Centro Medico Chiaia (clinic ID 446); Clinica Posillipo (clinic ID 448)
+
+Review 1 for Dr. Silvia Ricci, Neurology, Naples
+Rating: 10/10
+Clinic visited: Clinica Posillipo
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 2 for Dr. Silvia Ricci, Neurology, Naples
+Rating: 9/10
+Clinic visited: Centro Medico Chiaia
+Description: The receptionist at Centro Medico Chiaia remembered my name and had my forms ready, so check-in took less than a minute. The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 3 for Dr. Silvia Ricci, Neurology, Naples
+Rating: 8/10
+Clinic visited: Centro Medico Chiaia
+Description: She patiently explained my MRI findings and calmed my worries about memory problems. A translator was arranged for my mother without us asking twice, and Dr. Silvia Ricci spoke directly to her throughout.
+
+Review 4 for Dr. Silvia Ricci, Neurology, Naples
+Rating: 10/10
+Clinic visited: Clinica Posillipo
+Description: The neurological exam by Dr. Silvia Ricci was thorough, with every reflex test and gait check explained as it happened. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Silvia Ricci, Neurology, Naples
+Rating: 10/10
+Clinic visited: Centro Medico Chiaia
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 6 for Dr. Silvia Ricci, Neurology, Naples
+Rating: 9/10
+Clinic visited: Clinica Posillipo
+Description: She coordinated with my regular doctor so my medicine list was consistent in both offices. Paperwork at Clinica Posillipo was kept to a minimum, and the staff helped me complete the insurance form. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Silvia Ricci, Neurology, Naples
+Rating: 9/10
+Clinic visited: Clinica Posillipo
+Description: I was given a printed summary of the visit, which I shared with my family at home. Getting a same-month appointment in Naples for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 8 for Dr. Silvia Ricci, Neurology, Naples
+Rating: 6/10
+Clinic visited: Centro Medico Chiaia
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Silvia Ricci, Neurology, Naples
+Rating: 9/10
+Clinic visited: Clinica Posillipo
+Description: The EEG appointment ran on time, and Dr. Silvia Ricci reviewed the tracing with me the same week. A same-day slot was found for me at Clinica Posillipo when I called with a worrying symptom. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Silvia Ricci, Neurology, Naples: 8.89/10 from 9 reviews

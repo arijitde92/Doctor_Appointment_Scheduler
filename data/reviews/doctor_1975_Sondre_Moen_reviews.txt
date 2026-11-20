@@ -1,0 +1,59 @@
+Doctor: Dr. Sondre Moen
+Doctor ID: 1975
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 14
+City: Bergen, Norway
+Clinics: Medisinsk Senter Olav Kyrres (clinic ID 257); Legekontoret Kalfaret (clinic ID 258)
+
+Review 1 for Dr. Sondre Moen, Pediatrics, Bergen
+Rating: 8/10
+Clinic visited: Legekontoret Kalfaret
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Sondre Moen, Pediatrics, Bergen
+Rating: 9/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Dr. Sondre Moen noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 3 for Dr. Sondre Moen, Pediatrics, Bergen
+Rating: 8/10
+Clinic visited: Legekontoret Kalfaret
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 4 for Dr. Sondre Moen, Pediatrics, Bergen
+Rating: 9/10
+Clinic visited: Legekontoret Kalfaret
+Description: The waiting room at Legekontoret Kalfaret was clean, quiet and comfortable, with enough seating and water available. My toddler was terrified of doctors, but Dr. Sondre Moen sat on the floor, played with a stuffed toy and examined everything without a single tear.
+
+Review 5 for Dr. Sondre Moen, Pediatrics, Bergen
+Rating: 9/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Paperwork at Medisinsk Senter Olav Kyrres was kept to a minimum, and the staff helped me complete the insurance form. My child's asthma action plan from Dr. Sondre Moen was written out clearly so that school staff could follow it too.
+
+Review 6 for Dr. Sondre Moen, Pediatrics, Bergen
+Rating: 7/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Dr. Sondre Moen is thorough with exams, but the after-hours phone line at Medisinsk Senter Olav Kyrres is hard to reach.
+
+Review 7 for Dr. Sondre Moen, Pediatrics, Bergen
+Rating: 9/10
+Clinic visited: Legekontoret Kalfaret
+Description: Dr. Sondre Moen drew a quick sketch to explain what was going on, which helped me remember it afterwards. He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Sondre Moen, Pediatrics, Bergen
+Rating: 10/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: My teenager actually spoke up during the visit, and Dr. Sondre Moen handled sensitive topics with respect.
+
+Review 9 for Dr. Sondre Moen, Pediatrics, Bergen
+Rating: 8/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: We got a same-day appointment for a high fever, and the care at Medisinsk Senter Olav Kyrres was kind and efficient. I was given a printed summary of the visit, which I shared with my family at home. This is the first doctor I have trusted completely in years.
+
+Review 10 for Dr. Sondre Moen, Pediatrics, Bergen
+Rating: 8/10
+Clinic visited: Medisinsk Senter Olav Kyrres
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Sondre Moen, Pediatrics, Bergen: 8.50/10 from 10 reviews

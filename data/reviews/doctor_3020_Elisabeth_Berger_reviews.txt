@@ -1,0 +1,69 @@
+Doctor: Dr. Elisabeth Berger
+Doctor ID: 3020
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 3
+City: Vienna, Austria
+Clinics: Medizinisches Zentrum Landstraße (clinic ID 393)
+
+Review 1 for Dr. Elisabeth Berger, Pediatrics, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 2 for Dr. Elisabeth Berger, Pediatrics, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Kind to anxious parents, Dr. Elisabeth Berger never showed a hint of impatience when I felt silly asking about a rash. Dr. Elisabeth Berger double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 3 for Dr. Elisabeth Berger, Pediatrics, Vienna
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. My toddler was terrified of doctors, but Dr. Elisabeth Berger sat on the floor, played with a stuffed toy and examined everything without a single tear. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Elisabeth Berger, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Dr. Elisabeth Berger is thorough with exams, but the after-hours phone line at Medizinisches Zentrum Landstraße is hard to reach. The treatment plan from Dr. Elisabeth Berger made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Elisabeth Berger, Pediatrics, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Caring and gentle with my child, Dr. Elisabeth Berger nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 6 for Dr. Elisabeth Berger, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Elisabeth Berger, Pediatrics, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The school physical at Medizinisches Zentrum Landstraße was quick, thorough and the forms were completed on the spot. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 8 for Dr. Elisabeth Berger, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 9 for Dr. Elisabeth Berger, Pediatrics, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 10 for Dr. Elisabeth Berger, Pediatrics, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Our newborn check-ups with Dr. Elisabeth Berger were reassuring; every question about feeding and sleep got a calm, practical answer. Paperwork at Medizinisches Zentrum Landstraße was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 11 for Dr. Elisabeth Berger, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 12 for Dr. Elisabeth Berger, Pediatrics, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Quick appointment and a fair price in Vienna, but the staff seemed overwhelmed and a bit curt on the phone. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Overall rating for Dr. Elisabeth Berger, Pediatrics, Vienna: 7.42/10 from 12 reviews

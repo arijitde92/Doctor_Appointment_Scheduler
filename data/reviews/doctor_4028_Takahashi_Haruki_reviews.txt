@@ -1,0 +1,54 @@
+Doctor: Dr. Takahashi Haruki
+Doctor ID: 4028
+Specialization: Psychology
+Gender: Male
+Years of experience: 9
+City: Osaka, Japan
+Clinics: Umeda Sora Medical Clinic (clinic ID 520); Shin-Osaka Tsubasa Clinic (clinic ID 524)
+
+Review 1 for Dr. Takahashi Haruki, Psychology, Osaka
+Rating: 5/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: Dr. Takahashi Haruki was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Takahashi Haruki, Psychology, Osaka
+Rating: 9/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown.
+
+Review 3 for Dr. Takahashi Haruki, Psychology, Osaka
+Rating: 5/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 4 for Dr. Takahashi Haruki, Psychology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Dr. Takahashi Haruki adapted the approach when the first method did not suit me, and that flexibility made all the difference.
+
+Review 5 for Dr. Takahashi Haruki, Psychology, Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. My trauma work felt well paced, although the schedule changed several times at Shin-Osaka Tsubasa Clinic. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Takahashi Haruki, Psychology, Osaka
+Rating: 7/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Dr. Takahashi Haruki listens well, though some sessions felt like a recap of the previous one without much new direction. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Takahashi Haruki, Psychology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Online sessions through Shin-Osaka Tsubasa Clinic worked just as well as in-person ones, and the video link never once failed.
+
+Review 8 for Dr. Takahashi Haruki, Psychology, Osaka
+Rating: 4/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: I felt interrupted by Dr. Takahashi Haruki several times while describing my situation and left without feeling heard. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 9 for Dr. Takahashi Haruki, Psychology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Booking online at Shin-Osaka Tsubasa Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Overall rating for Dr. Takahashi Haruki, Psychology, Osaka: 6.78/10 from 9 reviews

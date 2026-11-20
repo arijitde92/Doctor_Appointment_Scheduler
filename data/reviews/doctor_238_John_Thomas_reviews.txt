@@ -1,0 +1,64 @@
+Doctor: Dr. John Thomas
+Doctor ID: 238
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 4
+City: San Francisco, USA
+Clinics: Sunset District Clinic (clinic ID 33)
+
+Review 1 for Dr. John Thomas, Pediatrics, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: A same-day slot was found for me at Sunset District Clinic when I called with a worrying symptom. Vaccination visits with Dr. John Thomas are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 2 for Dr. John Thomas, Pediatrics, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: The waiting room in San Francisco has a play corner and separate seating for sick children, which I really valued.
+
+Review 3 for Dr. John Thomas, Pediatrics, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: Our family has been coming for years, and he remembers each child's history and personality.
+
+Review 4 for Dr. John Thomas, Pediatrics, San Francisco
+Rating: 7/10
+Clinic visited: Sunset District Clinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Good bedside manner from Dr. John Thomas, but the parking near Sunset District Clinic is limited and I had to circle for fifteen minutes. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. John Thomas, Pediatrics, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: Dr. John Thomas drew a quick sketch to explain what was going on, which helped me remember it afterwards. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. John Thomas, Pediatrics, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 7 for Dr. John Thomas, Pediatrics, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. The receptionist at Sunset District Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 8 for Dr. John Thomas, Pediatrics, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. John Thomas, Pediatrics, San Francisco
+Rating: 10/10
+Clinic visited: Sunset District Clinic
+Description: Dr. John Thomas noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 10 for Dr. John Thomas, Pediatrics, San Francisco
+Rating: 7/10
+Clinic visited: Sunset District Clinic
+Description: Dr. John Thomas is thorough with exams, but the after-hours phone line at Sunset District Clinic is hard to reach. Dr. John Thomas was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 11 for Dr. John Thomas, Pediatrics, San Francisco
+Rating: 7/10
+Clinic visited: Sunset District Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Overall rating for Dr. John Thomas, Pediatrics, San Francisco: 8.27/10 from 11 reviews

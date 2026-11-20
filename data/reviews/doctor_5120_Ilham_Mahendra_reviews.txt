@@ -1,0 +1,49 @@
+Doctor: Dr. Ilham Mahendra
+Doctor ID: 5120
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 16
+City: Denpasar, Indonesia
+Clinics: Klinik Griya Sehat (clinic ID 661)
+
+Review 1 for Dr. Ilham Mahendra, Orthopedic, Denpasar
+Rating: 9/10
+Clinic visited: Klinik Griya Sehat
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 2 for Dr. Ilham Mahendra, Orthopedic, Denpasar
+Rating: 8/10
+Clinic visited: Klinik Griya Sehat
+Description: He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. At my visit, Dr. Ilham Mahendra took notes on my medication list, checked for interactions and explained the changes simply. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Ilham Mahendra, Orthopedic, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Griya Sehat
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Booking was easy online, but the confirmation email contained the wrong address for Klinik Griya Sehat. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Ilham Mahendra, Orthopedic, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Griya Sehat
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Ilham Mahendra, Orthopedic, Denpasar
+Rating: 6/10
+Clinic visited: Klinik Griya Sehat
+Description: Very skilled with my knee, but Dr. Ilham Mahendra's clinic runs behind and the wait was over an hour. Dr. Ilham Mahendra was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Ilham Mahendra, Orthopedic, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Griya Sehat
+Description: Dr. Ilham Mahendra explained surgery options clearly, though the physiotherapy referral took weeks to arrive. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Ilham Mahendra, Orthopedic, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Griya Sehat
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Ilham Mahendra, Orthopedic, Denpasar
+Rating: 5/10
+Clinic visited: Klinik Griya Sehat
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Overall rating for Dr. Ilham Mahendra, Orthopedic, Denpasar: 7.00/10 from 8 reviews

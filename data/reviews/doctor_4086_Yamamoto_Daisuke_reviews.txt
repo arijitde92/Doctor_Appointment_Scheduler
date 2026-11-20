@@ -1,0 +1,64 @@
+Doctor: Dr. Yamamoto Daisuke
+Doctor ID: 4086
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 5
+City: Tokyo, Japan
+Clinics: Ginza Hikari Clinic (clinic ID 527)
+
+Review 1 for Dr. Yamamoto Daisuke, Pediatrics, Tokyo
+Rating: 6/10
+Clinic visited: Ginza Hikari Clinic
+Description: Dr. Yamamoto Daisuke was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Yamamoto Daisuke, Pediatrics, Tokyo
+Rating: 5/10
+Clinic visited: Ginza Hikari Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 3 for Dr. Yamamoto Daisuke, Pediatrics, Tokyo
+Rating: 7/10
+Clinic visited: Ginza Hikari Clinic
+Description: Good bedside manner from Dr. Yamamoto Daisuke, but the parking near Ginza Hikari Clinic is limited and I had to circle for fifteen minutes.
+
+Review 4 for Dr. Yamamoto Daisuke, Pediatrics, Tokyo
+Rating: 8/10
+Clinic visited: Ginza Hikari Clinic
+Description: Our family has been coming for years, and he remembers each child's history and personality.
+
+Review 5 for Dr. Yamamoto Daisuke, Pediatrics, Tokyo
+Rating: 8/10
+Clinic visited: Ginza Hikari Clinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 6 for Dr. Yamamoto Daisuke, Pediatrics, Tokyo
+Rating: 7/10
+Clinic visited: Ginza Hikari Clinic
+Description: Caring and gentle with my child, Dr. Yamamoto Daisuke nonetheless ran forty minutes behind schedule at most appointments. The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Yamamoto Daisuke, Pediatrics, Tokyo
+Rating: 9/10
+Clinic visited: Ginza Hikari Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Dr. Yamamoto Daisuke noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 8 for Dr. Yamamoto Daisuke, Pediatrics, Tokyo
+Rating: 9/10
+Clinic visited: Ginza Hikari Clinic
+Description: Kind to anxious parents, Dr. Yamamoto Daisuke never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 9 for Dr. Yamamoto Daisuke, Pediatrics, Tokyo
+Rating: 10/10
+Clinic visited: Ginza Hikari Clinic
+Description: My toddler was terrified of doctors, but Dr. Yamamoto Daisuke sat on the floor, played with a stuffed toy and examined everything without a single tear. Dr. Yamamoto Daisuke looked me in the eye, listened to the whole story and only then started typing.
+
+Review 10 for Dr. Yamamoto Daisuke, Pediatrics, Tokyo
+Rating: 7/10
+Clinic visited: Ginza Hikari Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 11 for Dr. Yamamoto Daisuke, Pediatrics, Tokyo
+Rating: 8/10
+Clinic visited: Ginza Hikari Clinic
+Description: Sensitive questions were handled by Dr. Yamamoto Daisuke with discretion and without a hint of judgment. My child's asthma action plan from Dr. Yamamoto Daisuke was written out clearly so that school staff could follow it too. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Yamamoto Daisuke, Pediatrics, Tokyo: 7.64/10 from 11 reviews

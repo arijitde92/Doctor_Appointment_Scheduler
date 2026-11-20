@@ -1,0 +1,49 @@
+Doctor: Dr. Bart Lambert
+Doctor ID: 3035
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 19
+City: Antwerp, Belgium
+Clinics: Medisch Centrum Meir (clinic ID 395); Huisartsenpraktijk Zurenborg (clinic ID 396)
+
+Review 1 for Dr. Bart Lambert, Orthopedic, Antwerp
+Rating: 10/10
+Clinic visited: Medisch Centrum Meir
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 2 for Dr. Bart Lambert, Orthopedic, Antwerp
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: Dr. Bart Lambert explained my back scan using a model of the spine, and I finally understood my sciatica. Dr. Bart Lambert drew a quick sketch to explain what was going on, which helped me remember it afterwards. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Bart Lambert, Orthopedic, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Meir
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Dr. Bart Lambert explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 4 for Dr. Bart Lambert, Orthopedic, Antwerp
+Rating: 8/10
+Clinic visited: Medisch Centrum Meir
+Description: The receptionist at Medisch Centrum Meir remembered my name and had my forms ready, so check-in took less than a minute. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Bart Lambert, Orthopedic, Antwerp
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Bart Lambert, Orthopedic, Antwerp
+Rating: 10/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: The X-ray was reviewed with me on screen, and he pointed out exactly where the cartilage had worn down. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 7 for Dr. Bart Lambert, Orthopedic, Antwerp
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: I appreciated that he offered more than one option and let me choose what suited my life. I appreciated Dr. Bart Lambert's honest comparison between injections, therapy and surgery for my hip pain.
+
+Review 8 for Dr. Bart Lambert, Orthopedic, Antwerp
+Rating: 10/10
+Clinic visited: Medisch Centrum Meir
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. My torn rotator cuff was managed first by Dr. Bart Lambert with physiotherapy, and surgery was only suggested when it truly was needed. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Bart Lambert, Orthopedic, Antwerp: 8.75/10 from 8 reviews

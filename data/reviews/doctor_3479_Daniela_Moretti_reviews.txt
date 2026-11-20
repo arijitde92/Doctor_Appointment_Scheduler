@@ -1,0 +1,64 @@
+Doctor: Dr. Daniela Moretti
+Doctor ID: 3479
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 4
+City: Rome, Italy
+Clinics: Poliambulatorio Santa Chiara (clinic ID 450); Centro Medico Prati (clinic ID 451); Clinica Appia Nuova (clinic ID 454)
+
+Review 1 for Dr. Daniela Moretti, Psychiatry, Rome
+Rating: 10/10
+Clinic visited: Clinica Appia Nuova
+Description: Dr. Daniela Moretti took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 2 for Dr. Daniela Moretti, Psychiatry, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: Never once did Dr. Daniela Moretti make me feel weak for asking for help, and the stigma I carried really began to ease. My test results arrived in the portal within two days, together with a short note that made sense. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Daniela Moretti, Psychiatry, Rome
+Rating: 8/10
+Clinic visited: Centro Medico Prati
+Description: I can ring Centro Medico Prati with an urgent question and receive a thoughtful reply the same day.
+
+Review 4 for Dr. Daniela Moretti, Psychiatry, Rome
+Rating: 6/10
+Clinic visited: Centro Medico Prati
+Description: Good listener, yet the refill process at Centro Medico Prati is slow and requires several phone calls.
+
+Review 5 for Dr. Daniela Moretti, Psychiatry, Rome
+Rating: 5/10
+Clinic visited: Centro Medico Prati
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Daniela Moretti, Psychiatry, Rome
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Daniela Moretti, Psychiatry, Rome
+Rating: 8/10
+Clinic visited: Clinica Appia Nuova
+Description: Telehealth follow-ups at Clinica Appia Nuova are punctual and calm, and refills are dealt with quickly.
+
+Review 8 for Dr. Daniela Moretti, Psychiatry, Rome
+Rating: 8/10
+Clinic visited: Centro Medico Prati
+Description: My depression finally has a treatment plan from Dr. Daniela Moretti that works, with regular check-ins and careful dose changes.
+
+Review 9 for Dr. Daniela Moretti, Psychiatry, Rome
+Rating: 9/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 10 for Dr. Daniela Moretti, Psychiatry, Rome
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: Quick appointment and a fair price in Rome, but the staff seemed overwhelmed and a bit curt on the phone. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I will give it one more visit before I decide whether to stay.
+
+Review 11 for Dr. Daniela Moretti, Psychiatry, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I liked the advice I got from Dr. Daniela Moretti, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Daniela Moretti, Psychiatry, Rome: 7.55/10 from 11 reviews

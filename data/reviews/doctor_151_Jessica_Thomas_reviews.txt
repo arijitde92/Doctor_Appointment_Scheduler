@@ -1,0 +1,49 @@
+Doctor: Dr. Jessica Thomas
+Doctor ID: 151
+Specialization: Radiology
+Gender: Female
+Years of experience: 9
+City: Houston, USA
+Clinics: Galleria Medical Group (clinic ID 21); Montrose Wellness Associates (clinic ID 24)
+
+Review 1 for Dr. Jessica Thomas, Radiology, Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: Dr. Jessica Thomas compared my new scan with last year's and pointed out exactly what had stayed the same. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 2 for Dr. Jessica Thomas, Radiology, Houston
+Rating: 9/10
+Clinic visited: Montrose Wellness Associates
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. My ultrasound was unhurried, and Dr. Jessica Thomas took time to show me the images and explain what each measurement meant.
+
+Review 3 for Dr. Jessica Thomas, Radiology, Houston
+Rating: 8/10
+Clinic visited: Montrose Wellness Associates
+Description: Images from Montrose Wellness Associates were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 4 for Dr. Jessica Thomas, Radiology, Houston
+Rating: 10/10
+Clinic visited: Montrose Wellness Associates
+Description: The staff at Montrose Wellness Associates in Houston explained the contrast dye and its side effects before I signed anything. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Jessica Thomas, Radiology, Houston
+Rating: 7/10
+Clinic visited: Galleria Medical Group
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 6 for Dr. Jessica Thomas, Radiology, Houston
+Rating: 7/10
+Clinic visited: Galleria Medical Group
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. I got what I needed, but the next available appointment was three weeks away. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Jessica Thomas, Radiology, Houston
+Rating: 9/10
+Clinic visited: Montrose Wellness Associates
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Jessica Thomas were respectful throughout.
+
+Review 8 for Dr. Jessica Thomas, Radiology, Houston
+Rating: 10/10
+Clinic visited: Galleria Medical Group
+Description: The practice in Houston is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. When my scan showed something that needed a second look, Dr. Jessica Thomas arranged the follow-up the same day.
+
+Overall rating for Dr. Jessica Thomas, Radiology, Houston: 8.50/10 from 8 reviews

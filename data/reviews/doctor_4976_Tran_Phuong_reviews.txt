@@ -1,0 +1,59 @@
+Doctor: Dr. Tran Phuong
+Doctor ID: 4976
+Specialization: General
+Gender: Female
+Years of experience: 6
+City: Hai Phong, Vietnam
+Clinics: Phong Kham Cat Tuong (clinic ID 643)
+
+Review 1 for Dr. Tran Phuong, General, Hai Phong
+Rating: 9/10
+Clinic visited: Phong Kham Cat Tuong
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. By the time I left the room, Dr. Tran Phuong had sorted the sick note, referral letter and prescription refill.
+
+Review 2 for Dr. Tran Phuong, General, Hai Phong
+Rating: 5/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Phong Kham Cat Tuong were inconsistent. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Tran Phuong, General, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Cat Tuong
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Tran Phuong, General, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Dr. Tran Phuong is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Tran Phuong, General, Hai Phong
+Rating: 5/10
+Clinic visited: Phong Kham Cat Tuong
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 6 for Dr. Tran Phuong, General, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Cat Tuong
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 7 for Dr. Tran Phuong, General, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Tran Phuong, General, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Tran Phuong, General, Hai Phong
+Rating: 10/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Dr. Tran Phuong used a calm, steady voice that settled my nerves before a stressful procedure. As a new patient in Hai Phong, I felt welcomed at Phong Kham Cat Tuong, and my whole history was reviewed in one relaxed visit.
+
+Review 10 for Dr. Tran Phuong, General, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Tran Phuong, General, Hai Phong: 6.70/10 from 10 reviews

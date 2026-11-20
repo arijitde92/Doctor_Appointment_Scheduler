@@ -1,0 +1,64 @@
+Doctor: Dr. Niklas Karlsson
+Doctor ID: 2153
+Specialization: Psychology
+Gender: Male
+Years of experience: 16
+City: Malmo, Sweden
+Clinics: Vårdcentralen Södra Förstan Plus (clinic ID 280); Läkarhuset Amiralsgatan (clinic ID 281)
+
+Review 1 for Dr. Niklas Karlsson, Psychology, Malmo
+Rating: 7/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 2 for Dr. Niklas Karlsson, Psychology, Malmo
+Rating: 7/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. Booking was easy online, but the confirmation email contained the wrong address for Läkarhuset Amiralsgatan. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Niklas Karlsson, Psychology, Malmo
+Rating: 9/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Niklas Karlsson gave me practical tools I still use.
+
+Review 4 for Dr. Niklas Karlsson, Psychology, Malmo
+Rating: 6/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Dr. Niklas Karlsson listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 5 for Dr. Niklas Karlsson, Psychology, Malmo
+Rating: 5/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. My trauma work felt well paced, although the schedule changed several times at Vårdcentralen Södra Förstan Plus.
+
+Review 6 for Dr. Niklas Karlsson, Psychology, Malmo
+Rating: 6/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Niklas Karlsson, Psychology, Malmo
+Rating: 8/10
+Clinic visited: Vårdcentralen Södra Förstan Plus
+Description: Everything was explained in plain English by Dr. Niklas Karlsson, and nothing was left to guess.
+
+Review 8 for Dr. Niklas Karlsson, Psychology, Malmo
+Rating: 6/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot.
+
+Review 9 for Dr. Niklas Karlsson, Psychology, Malmo
+Rating: 6/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: Insightful and kind, though progress with Dr. Niklas Karlsson felt slow, and I wished for more structured homework between sessions. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Niklas Karlsson, Psychology, Malmo
+Rating: 6/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. I will give it one more visit before I decide whether to stay.
+
+Review 11 for Dr. Niklas Karlsson, Psychology, Malmo
+Rating: 6/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Niklas Karlsson, Psychology, Malmo: 6.55/10 from 11 reviews

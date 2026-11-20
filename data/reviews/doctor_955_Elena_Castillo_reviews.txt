@@ -1,0 +1,54 @@
+Doctor: Dr. Elena Castillo
+Doctor ID: 955
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 12
+City: Lima, Peru
+Clinics: Clínica San Isidro Familiar (clinic ID 125)
+
+Review 1 for Dr. Elena Castillo, Pediatrics, Lima
+Rating: 6/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 2 for Dr. Elena Castillo, Pediatrics, Lima
+Rating: 5/10
+Clinic visited: Clínica San Isidro Familiar
+Description: I liked the advice I got from Dr. Elena Castillo, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Elena Castillo, Pediatrics, Lima
+Rating: 7/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Dr. Elena Castillo is thorough with exams, but the after-hours phone line at Clínica San Isidro Familiar is hard to reach.
+
+Review 4 for Dr. Elena Castillo, Pediatrics, Lima
+Rating: 5/10
+Clinic visited: Clínica San Isidro Familiar
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. The doctor was kind, though the clinic's evening hours are very limited for working people. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Elena Castillo, Pediatrics, Lima
+Rating: 6/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Caring and gentle with my child, Dr. Elena Castillo nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 6 for Dr. Elena Castillo, Pediatrics, Lima
+Rating: 6/10
+Clinic visited: Clínica San Isidro Familiar
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Elena Castillo, Pediatrics, Lima
+Rating: 8/10
+Clinic visited: Clínica San Isidro Familiar
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 8 for Dr. Elena Castillo, Pediatrics, Lima
+Rating: 7/10
+Clinic visited: Clínica San Isidro Familiar
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Elena Castillo, Pediatrics, Lima
+Rating: 7/10
+Clinic visited: Clínica San Isidro Familiar
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Overall rating for Dr. Elena Castillo, Pediatrics, Lima: 6.33/10 from 9 reviews

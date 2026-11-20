@@ -1,0 +1,69 @@
+Doctor: Dr. Luca Romano
+Doctor ID: 3370
+Specialization: General
+Gender: Male
+Years of experience: 10
+City: Florence, Italy
+Clinics: Studio Medico Oltrarno (clinic ID 437); Poliambulatorio Novoli (clinic ID 439)
+
+Review 1 for Dr. Luca Romano, General, Florence
+Rating: 6/10
+Clinic visited: Studio Medico Oltrarno
+Description: Referrals from Dr. Luca Romano are handled well, but getting test results back took longer than I was told to expect. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Luca Romano, General, Florence
+Rating: 7/10
+Clinic visited: Studio Medico Oltrarno
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Studio Medico Oltrarno were inconsistent. Dr. Luca Romano was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Luca Romano, General, Florence
+Rating: 5/10
+Clinic visited: Poliambulatorio Novoli
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 4 for Dr. Luca Romano, General, Florence
+Rating: 9/10
+Clinic visited: Poliambulatorio Novoli
+Description: I always hear back within a day when I leave a question with the nurse at Poliambulatorio Novoli, and Dr. Luca Romano follows up on lab results personally.
+
+Review 5 for Dr. Luca Romano, General, Florence
+Rating: 9/10
+Clinic visited: Studio Medico Oltrarno
+Description: My annual check-up with Dr. Luca Romano took forty minutes, with every screening explained and nothing rushed. Dr. Luca Romano drew a quick sketch to explain what was going on, which helped me remember it afterwards. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Luca Romano, General, Florence
+Rating: 8/10
+Clinic visited: Studio Medico Oltrarno
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Luca Romano, General, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Novoli
+Description: Good bedside manner from Dr. Luca Romano, but the parking near Poliambulatorio Novoli is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Luca Romano, General, Florence
+Rating: 7/10
+Clinic visited: Studio Medico Oltrarno
+Description: Dr. Luca Romano is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 9 for Dr. Luca Romano, General, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Novoli
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 10 for Dr. Luca Romano, General, Florence
+Rating: 8/10
+Clinic visited: Studio Medico Oltrarno
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Getting to Studio Medico Oltrarno from across Florence was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 11 for Dr. Luca Romano, General, Florence
+Rating: 9/10
+Clinic visited: Studio Medico Oltrarno
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Cholesterol results were explained by Dr. Luca Romano with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 12 for Dr. Luca Romano, General, Florence
+Rating: 8/10
+Clinic visited: Studio Medico Oltrarno
+Description: Booking online at Studio Medico Oltrarno was simple, and I got a confirmation text with clear directions and a reminder the day before. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Overall rating for Dr. Luca Romano, General, Florence: 7.58/10 from 12 reviews

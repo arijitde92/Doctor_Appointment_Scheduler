@@ -1,0 +1,69 @@
+Doctor: Dr. Camilla Berglund
+Doctor ID: 2175
+Specialization: Pathology
+Gender: Female
+Years of experience: 27
+City: Malmo, Sweden
+Clinics: Läkarmottagningen Östra Förstan (clinic ID 284)
+
+Review 1 for Dr. Camilla Berglund, Pathology, Malmo
+Rating: 7/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The treatment plan from Dr. Camilla Berglund made sense, but I wished it had been written down for me to take away. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 2 for Dr. Camilla Berglund, Pathology, Malmo
+Rating: 6/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Dr. Camilla Berglund answered my questions kindly, though the call back took three days. Booking was easy online, but the confirmation email contained the wrong address for Läkarmottagningen Östra Förstan.
+
+Review 3 for Dr. Camilla Berglund, Pathology, Malmo
+Rating: 6/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The doctor was kind, though the clinic's evening hours are very limited for working people. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Camilla Berglund, Pathology, Malmo
+Rating: 6/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Helpful in clarifying a borderline result, though Dr. Camilla Berglund gave little guidance about whether to repeat it.
+
+Review 5 for Dr. Camilla Berglund, Pathology, Malmo
+Rating: 6/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Dr. Camilla Berglund was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. The blood draw was painless, but the waiting area at Läkarmottagningen Östra Förstan was crowded in the early morning.
+
+Review 6 for Dr. Camilla Berglund, Pathology, Malmo
+Rating: 7/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Camilla Berglund, Pathology, Malmo
+Rating: 10/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The lab at Läkarmottagningen Östra Förstan had a quick, friendly blood draw and the phlebotomist found my vein on the first try. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Camilla Berglund, Pathology, Malmo
+Rating: 6/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 9 for Dr. Camilla Berglund, Pathology, Malmo
+Rating: 5/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 10 for Dr. Camilla Berglund, Pathology, Malmo
+Rating: 8/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The staff and Dr. Camilla Berglund patiently went through my cholesterol and glucose numbers and explained what each meant for me. Appointment reminders came by text and email, and rescheduling took two taps. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 11 for Dr. Camilla Berglund, Pathology, Malmo
+Rating: 6/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: I liked the advice I got from Dr. Camilla Berglund, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 12 for Dr. Camilla Berglund, Pathology, Malmo
+Rating: 7/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Quick appointment and a fair price in Malmo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Camilla Berglund, Pathology, Malmo: 6.67/10 from 12 reviews

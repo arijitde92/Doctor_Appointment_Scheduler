@@ -1,0 +1,69 @@
+Doctor: Dr. Jang Joo-won
+Doctor ID: 4269
+Specialization: General
+Gender: Male
+Years of experience: 29
+City: Seoul, South Korea
+Clinics: Gangnam Haneul Family Clinic (clinic ID 550)
+
+Review 1 for Dr. Jang Joo-won, General, Seoul
+Rating: 7/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Dr. Jang Joo-won was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Jang Joo-won, General, Seoul
+Rating: 6/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: Referrals from Dr. Jang Joo-won are handled well, but getting test results back took longer than I was told to expect.
+
+Review 3 for Dr. Jang Joo-won, General, Seoul
+Rating: 9/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 4 for Dr. Jang Joo-won, General, Seoul
+Rating: 8/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option. My annual check-up with Dr. Jang Joo-won took forty minutes, with every screening explained and nothing rushed.
+
+Review 5 for Dr. Jang Joo-won, General, Seoul
+Rating: 6/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Good bedside manner from Dr. Jang Joo-won, but the parking near Gangnam Haneul Family Clinic is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Jang Joo-won, General, Seoul
+Rating: 6/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Jang Joo-won, General, Seoul
+Rating: 7/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The treatment plan from Dr. Jang Joo-won made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Jang Joo-won, General, Seoul
+Rating: 5/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: Dr. Jang Joo-won is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Booking was easy online, but the confirmation email contained the wrong address for Gangnam Haneul Family Clinic. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Jang Joo-won, General, Seoul
+Rating: 6/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Gangnam Haneul Family Clinic were inconsistent.
+
+Review 10 for Dr. Jang Joo-won, General, Seoul
+Rating: 6/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 11 for Dr. Jang Joo-won, General, Seoul
+Rating: 5/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 12 for Dr. Jang Joo-won, General, Seoul
+Rating: 8/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Jang Joo-won, General, Seoul: 6.58/10 from 12 reviews

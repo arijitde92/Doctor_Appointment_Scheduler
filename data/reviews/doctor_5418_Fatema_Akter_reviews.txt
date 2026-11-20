@@ -1,0 +1,49 @@
+Doctor: Dr. Fatema Akter
+Doctor ID: 5418
+Specialization: Neurology
+Gender: Female
+Years of experience: 1
+City: Dhaka, Bangladesh
+Clinics: Dhanshiri Medical Centre (clinic ID 701)
+
+Review 1 for Dr. Fatema Akter, Neurology, Dhaka
+Rating: 7/10
+Clinic visited: Dhanshiri Medical Centre
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Fatema Akter, Neurology, Dhaka
+Rating: 9/10
+Clinic visited: Dhanshiri Medical Centre
+Description: Getting a same-month appointment in Dhaka for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 3 for Dr. Fatema Akter, Neurology, Dhaka
+Rating: 7/10
+Clinic visited: Dhanshiri Medical Centre
+Description: Dr. Fatema Akter explained my results well, although the visit felt short for such a complex condition.
+
+Review 4 for Dr. Fatema Akter, Neurology, Dhaka
+Rating: 8/10
+Clinic visited: Dhanshiri Medical Centre
+Description: She patiently explained my MRI findings and calmed my worries about memory problems. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 5 for Dr. Fatema Akter, Neurology, Dhaka
+Rating: 9/10
+Clinic visited: Dhanshiri Medical Centre
+Description: The memory assessment for my father at Dhanshiri Medical Centre was gentle and respectful, and the family received a clear written summary. The receptionist at Dhanshiri Medical Centre remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 6 for Dr. Fatema Akter, Neurology, Dhaka
+Rating: 9/10
+Clinic visited: Dhanshiri Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. She coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 7 for Dr. Fatema Akter, Neurology, Dhaka
+Rating: 6/10
+Clinic visited: Dhanshiri Medical Centre
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Fatema Akter, Neurology, Dhaka
+Rating: 8/10
+Clinic visited: Dhanshiri Medical Centre
+Description: Sensitive questions were handled by Dr. Fatema Akter with discretion and without a hint of judgment. Dr. Fatema Akter took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Fatema Akter, Neurology, Dhaka: 7.88/10 from 8 reviews

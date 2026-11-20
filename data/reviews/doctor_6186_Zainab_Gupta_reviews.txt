@@ -1,0 +1,64 @@
+Doctor: Dr. Zainab Gupta
+Doctor ID: 6186
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 25
+City: Al Khor, Qatar
+Clinics: Al Khor Souq Wellness Clinic (clinic ID 799)
+
+Review 1 for Dr. Zainab Gupta, Psychiatry, Al Khor
+Rating: 6/10
+Clinic visited: Al Khor Souq Wellness Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Zainab Gupta, Psychiatry, Al Khor
+Rating: 5/10
+Clinic visited: Al Khor Souq Wellness Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 3 for Dr. Zainab Gupta, Psychiatry, Al Khor
+Rating: 4/10
+Clinic visited: Al Khor Souq Wellness Clinic
+Description: Requests for a refill went unanswered for days, and I ran out of my medication. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 4 for Dr. Zainab Gupta, Psychiatry, Al Khor
+Rating: 6/10
+Clinic visited: Al Khor Souq Wellness Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Good bedside manner from Dr. Zainab Gupta, but the parking near Al Khor Souq Wellness Clinic is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Zainab Gupta, Psychiatry, Al Khor
+Rating: 6/10
+Clinic visited: Al Khor Souq Wellness Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Zainab Gupta, Psychiatry, Al Khor
+Rating: 8/10
+Clinic visited: Al Khor Souq Wellness Clinic
+Description: I felt heard by Dr. Zainab Gupta during a very hard time, and nobody rushed me out of the room.
+
+Review 7 for Dr. Zainab Gupta, Psychiatry, Al Khor
+Rating: 4/10
+Clinic visited: Al Khor Souq Wellness Clinic
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 8 for Dr. Zainab Gupta, Psychiatry, Al Khor
+Rating: 6/10
+Clinic visited: Al Khor Souq Wellness Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Quick appointment and a fair price in Al Khor, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 9 for Dr. Zainab Gupta, Psychiatry, Al Khor
+Rating: 6/10
+Clinic visited: Al Khor Souq Wellness Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 10 for Dr. Zainab Gupta, Psychiatry, Al Khor
+Rating: 7/10
+Clinic visited: Al Khor Souq Wellness Clinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 11 for Dr. Zainab Gupta, Psychiatry, Al Khor
+Rating: 5/10
+Clinic visited: Al Khor Souq Wellness Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Zainab Gupta is knowledgeable, though I waited several weeks for my first appointment.
+
+Overall rating for Dr. Zainab Gupta, Psychiatry, Al Khor: 5.73/10 from 11 reviews

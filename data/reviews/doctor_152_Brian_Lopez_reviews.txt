@@ -1,0 +1,54 @@
+Doctor: Dr. Brian Lopez
+Doctor ID: 152
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 5
+City: Houston, USA
+Clinics: Galleria Medical Group (clinic ID 21)
+
+Review 1 for Dr. Brian Lopez, Obstetrics and Gynecology (OB/GYN), Houston
+Rating: 6/10
+Clinic visited: Galleria Medical Group
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Brian Lopez, Obstetrics and Gynecology (OB/GYN), Houston
+Rating: 5/10
+Clinic visited: Galleria Medical Group
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Brian Lopez, Obstetrics and Gynecology (OB/GYN), Houston
+Rating: 6/10
+Clinic visited: Galleria Medical Group
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history.
+
+Review 4 for Dr. Brian Lopez, Obstetrics and Gynecology (OB/GYN), Houston
+Rating: 9/10
+Clinic visited: Galleria Medical Group
+Description: Gestational diabetes was explained clearly, with a simple monitoring plan and kind support throughout.
+
+Review 5 for Dr. Brian Lopez, Obstetrics and Gynecology (OB/GYN), Houston
+Rating: 9/10
+Clinic visited: Galleria Medical Group
+Description: At my visit, Dr. Brian Lopez took notes on my medication list, checked for interactions and explained the changes simply. Throughout my pregnancy Dr. Brian Lopez answered every question patiently, including the many late-night worries I sent through the portal.
+
+Review 6 for Dr. Brian Lopez, Obstetrics and Gynecology (OB/GYN), Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: Dr. Brian Lopez looked me in the eye, listened to the whole story and only then started typing. At Galleria Medical Group in Houston, the prenatal visits were scheduled well and rarely ran late.
+
+Review 7 for Dr. Brian Lopez, Obstetrics and Gynecology (OB/GYN), Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: After my miscarriage, Dr. Brian Lopez was compassionate, clear about next steps and checked in a week later. Dr. Brian Lopez used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 8 for Dr. Brian Lopez, Obstetrics and Gynecology (OB/GYN), Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 9 for Dr. Brian Lopez, Obstetrics and Gynecology (OB/GYN), Houston
+Rating: 4/10
+Clinic visited: Galleria Medical Group
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Overall rating for Dr. Brian Lopez, Obstetrics and Gynecology (OB/GYN), Houston: 7.00/10 from 9 reviews

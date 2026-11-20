@@ -1,0 +1,49 @@
+Doctor: Dr. Yamada Daiki
+Doctor ID: 4024
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 1
+City: Kyoto, Japan
+Clinics: Nijo Yume Medical Clinic (clinic ID 519)
+
+Review 1 for Dr. Yamada Daiki, Pediatrics, Kyoto
+Rating: 7/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 2 for Dr. Yamada Daiki, Pediatrics, Kyoto
+Rating: 10/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The school physical at Nijo Yume Medical Clinic was quick, thorough and the forms were completed on the spot.
+
+Review 3 for Dr. Yamada Daiki, Pediatrics, Kyoto
+Rating: 8/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: At my visit, Dr. Yamada Daiki took notes on my medication list, checked for interactions and explained the changes simply. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Yamada Daiki, Pediatrics, Kyoto
+Rating: 10/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 5 for Dr. Yamada Daiki, Pediatrics, Kyoto
+Rating: 10/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: We got a same-day appointment for a high fever, and the care at Nijo Yume Medical Clinic was kind and efficient. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 6 for Dr. Yamada Daiki, Pediatrics, Kyoto
+Rating: 10/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 7 for Dr. Yamada Daiki, Pediatrics, Kyoto
+Rating: 9/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The waiting room in Kyoto has a play corner and separate seating for sick children, which I really valued.
+
+Review 8 for Dr. Yamada Daiki, Pediatrics, Kyoto
+Rating: 8/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: I came away understanding my condition better than I have in years of previous appointments. I phoned after hours about a fever and was called back within the hour with calm, sensible advice. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Yamada Daiki, Pediatrics, Kyoto: 9.00/10 from 8 reviews

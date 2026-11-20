@@ -1,0 +1,59 @@
+Doctor: Dr. Lucía López Sánchez
+Doctor ID: 1350
+Specialization: Pathology
+Gender: Female
+Years of experience: 9
+City: Barcelona, Spain
+Clinics: Centre Mèdic Eixample (clinic ID 176)
+
+Review 1 for Dr. Lucía López Sánchez, Pathology, Barcelona
+Rating: 6/10
+Clinic visited: Centre Mèdic Eixample
+Description: Dr. Lucía López Sánchez answered my questions kindly, though the call back took three days. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Lucía López Sánchez, Pathology, Barcelona
+Rating: 5/10
+Clinic visited: Centre Mèdic Eixample
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 3 for Dr. Lucía López Sánchez, Pathology, Barcelona
+Rating: 5/10
+Clinic visited: Centre Mèdic Eixample
+Description: The blood draw was painless, but the waiting area at Centre Mèdic Eixample was crowded in the early morning. Good bedside manner from Dr. Lucía López Sánchez, but the parking near Centre Mèdic Eixample is limited and I had to circle for fifteen minutes.
+
+Review 4 for Dr. Lucía López Sánchez, Pathology, Barcelona
+Rating: 5/10
+Clinic visited: Centre Mèdic Eixample
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 5 for Dr. Lucía López Sánchez, Pathology, Barcelona
+Rating: 5/10
+Clinic visited: Centre Mèdic Eixample
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Lucía López Sánchez, Pathology, Barcelona
+Rating: 7/10
+Clinic visited: Centre Mèdic Eixample
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Lucía López Sánchez, Pathology, Barcelona
+Rating: 6/10
+Clinic visited: Centre Mèdic Eixample
+Description: Helpful in clarifying a borderline result, though Dr. Lucía López Sánchez gave little guidance about whether to repeat it.
+
+Review 8 for Dr. Lucía López Sánchez, Pathology, Barcelona
+Rating: 5/10
+Clinic visited: Centre Mèdic Eixample
+Description: I liked the advice I got from Dr. Lucía López Sánchez, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 9 for Dr. Lucía López Sánchez, Pathology, Barcelona
+Rating: 5/10
+Clinic visited: Centre Mèdic Eixample
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 10 for Dr. Lucía López Sánchez, Pathology, Barcelona
+Rating: 5/10
+Clinic visited: Centre Mèdic Eixample
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Lucía López Sánchez, Pathology, Barcelona: 5.40/10 from 10 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Ilya Volkov
+Doctor ID: 3732
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 3
+City: Moscow, Russia
+Clinics: Leninsky Family Polyclinic (clinic ID 482); Klinika Beryozka (clinic ID 484)
+
+Review 1 for Dr. Ilya Volkov, Orthopedic, Moscow
+Rating: 7/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Ilya Volkov, Orthopedic, Moscow
+Rating: 9/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Prescriptions from Dr. Ilya Volkov were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Clear aftercare instructions from Dr. Ilya Volkov and a direct number to call if something felt wrong after my surgery.
+
+Review 3 for Dr. Ilya Volkov, Orthopedic, Moscow
+Rating: 7/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. I liked the advice I got from Dr. Ilya Volkov, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Ilya Volkov, Orthopedic, Moscow
+Rating: 7/10
+Clinic visited: Klinika Beryozka
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Ilya Volkov, Orthopedic, Moscow
+Rating: 9/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Seen the same day at Leninsky Family Polyclinic after a bad ankle sprain, with an X-ray done and a brace fitted before I left.
+
+Review 6 for Dr. Ilya Volkov, Orthopedic, Moscow
+Rating: 6/10
+Clinic visited: Leninsky Family Polyclinic
+Description: The treatment plan from Dr. Ilya Volkov made sense, but I wished it had been written down for me to take away. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 7 for Dr. Ilya Volkov, Orthopedic, Moscow
+Rating: 5/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Ilya Volkov, Orthopedic, Moscow
+Rating: 7/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Leninsky Family Polyclinic. Very skilled with my knee, but Dr. Ilya Volkov's clinic runs behind and the wait was over an hour.
+
+Overall rating for Dr. Ilya Volkov, Orthopedic, Moscow: 7.12/10 from 8 reviews

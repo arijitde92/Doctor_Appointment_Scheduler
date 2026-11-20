@@ -1,0 +1,54 @@
+Doctor: Dr. Samuel Wright
+Doctor ID: 1178
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 15
+City: Manchester, UK
+Clinics: Hardman Square Polyclinic (clinic ID 153)
+
+Review 1 for Dr. Samuel Wright, Pulmonology, Manchester
+Rating: 4/10
+Clinic visited: Hardman Square Polyclinic
+Description: The breathing test appointment was cancelled the day before, and the next slot was six weeks away.
+
+Review 2 for Dr. Samuel Wright, Pulmonology, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: After years of poorly controlled asthma, Dr. Samuel Wright reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 3 for Dr. Samuel Wright, Pulmonology, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Samuel Wright, Pulmonology, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: The receptionist at Hardman Square Polyclinic remembered my name and had my forms ready, so check-in took less than a minute. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Samuel Wright, Pulmonology, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Samuel Wright, Pulmonology, Manchester
+Rating: 10/10
+Clinic visited: Hardman Square Polyclinic
+Description: I always leave Dr. Samuel Wright's office with a written summary of my breathing test results and what changed since the last visit. A translator was arranged for my mother without us asking twice, and Dr. Samuel Wright spoke directly to her throughout.
+
+Review 7 for Dr. Samuel Wright, Pulmonology, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 8 for Dr. Samuel Wright, Pulmonology, Manchester
+Rating: 10/10
+Clinic visited: Hardman Square Polyclinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Samuel Wright, Pulmonology, Manchester
+Rating: 9/10
+Clinic visited: Hardman Square Polyclinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Overall rating for Dr. Samuel Wright, Pulmonology, Manchester: 7.89/10 from 9 reviews

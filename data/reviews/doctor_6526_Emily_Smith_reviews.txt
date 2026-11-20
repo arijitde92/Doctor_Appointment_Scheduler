@@ -1,0 +1,49 @@
+Doctor: Dr. Emily Smith
+Doctor ID: 6526
+Specialization: Neurology
+Gender: Female
+Years of experience: 2
+City: Perth, Australia
+Clinics: Jacaranda Family Practice (clinic ID 845)
+
+Review 1 for Dr. Emily Smith, Neurology, Perth
+Rating: 8/10
+Clinic visited: Jacaranda Family Practice
+Description: I always leave Dr. Emily Smith's office with a short written summary of changes, which helps my family keep up. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Emily Smith, Neurology, Perth
+Rating: 4/10
+Clinic visited: Jacaranda Family Practice
+Description: Dr. Emily Smith did not look up from the notes while I described my seizure, and I felt completely unheard. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. Not a place I would choose again, and I hope others have a better experience.
+
+Review 3 for Dr. Emily Smith, Neurology, Perth
+Rating: 8/10
+Clinic visited: Jacaranda Family Practice
+Description: The memory assessment for my father at Jacaranda Family Practice was gentle and respectful, and the family received a clear written summary. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Emily Smith, Neurology, Perth
+Rating: 5/10
+Clinic visited: Jacaranda Family Practice
+Description: Dr. Emily Smith explained my results well, although the visit felt short for such a complex condition.
+
+Review 5 for Dr. Emily Smith, Neurology, Perth
+Rating: 6/10
+Clinic visited: Jacaranda Family Practice
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. The treatment plan from Dr. Emily Smith made sense, but I wished it had been written down for me to take away. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Emily Smith, Neurology, Perth
+Rating: 5/10
+Clinic visited: Jacaranda Family Practice
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 7 for Dr. Emily Smith, Neurology, Perth
+Rating: 8/10
+Clinic visited: Jacaranda Family Practice
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Jacaranda Family Practice.
+
+Review 8 for Dr. Emily Smith, Neurology, Perth
+Rating: 6/10
+Clinic visited: Jacaranda Family Practice
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Supportive about my diagnosis, yet follow-up appointments with Dr. Emily Smith at Jacaranda Family Practice are difficult to schedule. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Emily Smith, Neurology, Perth: 6.25/10 from 8 reviews

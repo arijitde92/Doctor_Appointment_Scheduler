@@ -1,0 +1,49 @@
+Doctor: Dr. Sabine Wagner
+Doctor ID: 1572
+Specialization: Cardiology
+Gender: Female
+Years of experience: 2
+City: Hamburg, Germany
+Clinics: Praxis am Rathausmarkt Nord (clinic ID 205); Medizinisches Zentrum Wandsbek Markt (clinic ID 208)
+
+Review 1 for Dr. Sabine Wagner, Cardiology, Hamburg
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 2 for Dr. Sabine Wagner, Cardiology, Hamburg
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Sabine Wagner, Cardiology, Hamburg
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Wandsbek Markt
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Quick to coordinate with my regular doctor, so my medications were consistent across both offices.
+
+Review 4 for Dr. Sabine Wagner, Cardiology, Hamburg
+Rating: 7/10
+Clinic visited: Praxis am Rathausmarkt Nord
+Description: Helpful with my cholesterol, Dr. Sabine Wagner still gave dietary advice that was a little generic. Booking was easy online, but the confirmation email contained the wrong address for Praxis am Rathausmarkt Nord.
+
+Review 5 for Dr. Sabine Wagner, Cardiology, Hamburg
+Rating: 8/10
+Clinic visited: Praxis am Rathausmarkt Nord
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Sabine Wagner felt well organized from start to finish. After my palpitations began, Dr. Sabine Wagner arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 6 for Dr. Sabine Wagner, Cardiology, Hamburg
+Rating: 7/10
+Clinic visited: Praxis am Rathausmarkt Nord
+Description: Dr. Sabine Wagner was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Sabine Wagner, Cardiology, Hamburg
+Rating: 8/10
+Clinic visited: Praxis am Rathausmarkt Nord
+Description: The cardiology unit at Praxis am Rathausmarkt Nord runs on time, and the technicians were professional during my echocardiogram.
+
+Review 8 for Dr. Sabine Wagner, Cardiology, Hamburg
+Rating: 8/10
+Clinic visited: Praxis am Rathausmarkt Nord
+Description: Everything was explained in plain English by Dr. Sabine Wagner, and nothing was left to guess. My stress test was supervised carefully, and Dr. Sabine Wagner reviewed the results in the same visit with a plan for my cholesterol. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Sabine Wagner, Cardiology, Hamburg: 7.88/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Dwi Pranata
+Doctor ID: 5087
+Specialization: Neurology
+Gender: Male
+Years of experience: 28
+City: Bandung, Indonesia
+Clinics: Klinik Dharma Bakti (clinic ID 657)
+
+Review 1 for Dr. Dwi Pranata, Neurology, Bandung
+Rating: 5/10
+Clinic visited: Klinik Dharma Bakti
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 2 for Dr. Dwi Pranata, Neurology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Dharma Bakti
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Dr. Dwi Pranata explained my results well, although the visit felt short for such a complex condition.
+
+Review 3 for Dr. Dwi Pranata, Neurology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Dharma Bakti
+Description: I liked the advice I got from Dr. Dwi Pranata, but I would have liked more time to ask follow-up questions before the visit ended. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 4 for Dr. Dwi Pranata, Neurology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Dharma Bakti
+Description: Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 5 for Dr. Dwi Pranata, Neurology, Bandung
+Rating: 8/10
+Clinic visited: Klinik Dharma Bakti
+Description: The memory assessment for my father at Klinik Dharma Bakti was gentle and respectful, and the family received a clear written summary. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 6 for Dr. Dwi Pranata, Neurology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Dharma Bakti
+Description: I got what I needed, but the next available appointment was three weeks away. The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 7 for Dr. Dwi Pranata, Neurology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Dharma Bakti
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Dwi Pranata, Neurology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Dharma Bakti
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Dwi Pranata at Klinik Dharma Bakti are difficult to schedule.
+
+Overall rating for Dr. Dwi Pranata, Neurology, Bandung: 6.25/10 from 8 reviews

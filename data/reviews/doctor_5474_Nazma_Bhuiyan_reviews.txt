@@ -1,0 +1,49 @@
+Doctor: Dr. Nazma Bhuiyan
+Doctor ID: 5474
+Specialization: General
+Gender: Female
+Years of experience: 17
+City: Khulna, Bangladesh
+Clinics: Khalishpur Health Practice (clinic ID 708)
+
+Review 1 for Dr. Nazma Bhuiyan, General, Khulna
+Rating: 8/10
+Clinic visited: Khalishpur Health Practice
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 2 for Dr. Nazma Bhuiyan, General, Khulna
+Rating: 7/10
+Clinic visited: Khalishpur Health Practice
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Nazma Bhuiyan, General, Khulna
+Rating: 8/10
+Clinic visited: Khalishpur Health Practice
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Nazma Bhuiyan, General, Khulna
+Rating: 5/10
+Clinic visited: Khalishpur Health Practice
+Description: Quick appointment and a fair price in Khulna, but the staff seemed overwhelmed and a bit curt on the phone. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Khalishpur Health Practice were inconsistent.
+
+Review 5 for Dr. Nazma Bhuiyan, General, Khulna
+Rating: 8/10
+Clinic visited: Khalishpur Health Practice
+Description: Managing my type 2 diabetes with Dr. Nazma Bhuiyan has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 6 for Dr. Nazma Bhuiyan, General, Khulna
+Rating: 8/10
+Clinic visited: Khalishpur Health Practice
+Description: At my visit, Dr. Nazma Bhuiyan took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 7 for Dr. Nazma Bhuiyan, General, Khulna
+Rating: 7/10
+Clinic visited: Khalishpur Health Practice
+Description: Referrals from Dr. Nazma Bhuiyan are handled well, but getting test results back took longer than I was told to expect. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 8 for Dr. Nazma Bhuiyan, General, Khulna
+Rating: 8/10
+Clinic visited: Khalishpur Health Practice
+Description: Dr. Nazma Bhuiyan spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Overall rating for Dr. Nazma Bhuiyan, General, Khulna: 7.38/10 from 8 reviews

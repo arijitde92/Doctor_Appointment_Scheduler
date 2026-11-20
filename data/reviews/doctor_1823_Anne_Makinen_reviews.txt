@@ -1,0 +1,49 @@
+Doctor: Dr. Anne Mäkinen
+Doctor ID: 1823
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 16
+City: Espoo, Finland
+Clinics: Lääkäriasema Espoon Keskus (clinic ID 238)
+
+Review 1 for Dr. Anne Mäkinen, Psychiatry, Espoo
+Rating: 10/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: My depression finally has a treatment plan from Dr. Anne Mäkinen that works, with regular check-ins and careful dose changes.
+
+Review 2 for Dr. Anne Mäkinen, Psychiatry, Espoo
+Rating: 4/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. Requests for a refill went unanswered for days, and I ran out of my medication.
+
+Review 3 for Dr. Anne Mäkinen, Psychiatry, Espoo
+Rating: 9/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Anne Mäkinen, Psychiatry, Espoo
+Rating: 5/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: Good bedside manner from Dr. Anne Mäkinen, but the parking near Lääkäriasema Espoon Keskus is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Anne Mäkinen, Psychiatry, Espoo
+Rating: 4/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: The prescription from Dr. Anne Mäkinen was not the one we discussed, and I only noticed when I got home. I was not told about common side effects by Dr. Anne Mäkinen, and I had a rough first two weeks that could have been avoided.
+
+Review 6 for Dr. Anne Mäkinen, Psychiatry, Espoo
+Rating: 9/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 7 for Dr. Anne Mäkinen, Psychiatry, Espoo
+Rating: 5/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 8 for Dr. Anne Mäkinen, Psychiatry, Espoo
+Rating: 6/10
+Clinic visited: Lääkäriasema Espoon Keskus
+Description: Dr. Anne Mäkinen is knowledgeable, though I waited several weeks for my first appointment. The telehealth visit was convenient, though the connection dropped twice and we had to restart. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Anne Mäkinen, Psychiatry, Espoo: 6.50/10 from 8 reviews

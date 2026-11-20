@@ -1,0 +1,49 @@
+Doctor: Dr. Jens Lange
+Doctor ID: 1548
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 3
+City: Frankfurt, Germany
+Clinics: Medizinisches Zentrum Bahnhofsviertel (clinic ID 202)
+
+Review 1 for Dr. Jens Lange, Gastroenterology, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Jens Lange, Gastroenterology, Frankfurt
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 3 for Dr. Jens Lange, Gastroenterology, Frankfurt
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Dr. Jens Lange is thorough, but I waited nearly two months to get the first available slot. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 4 for Dr. Jens Lange, Gastroenterology, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Booking was easy online, but the confirmation email contained the wrong address for Medizinisches Zentrum Bahnhofsviertel.
+
+Review 5 for Dr. Jens Lange, Gastroenterology, Frankfurt
+Rating: 3/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 6 for Dr. Jens Lange, Gastroenterology, Frankfurt
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Knowledgeable about my reflux, Dr. Jens Lange still gave diet advice that felt generic and not tailored to my habits.
+
+Review 7 for Dr. Jens Lange, Gastroenterology, Frankfurt
+Rating: 3/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: My questions were answered by Dr. Jens Lange with short, vague replies, and I left without a clear plan. After my endoscopy, nobody called with results and I had to chase the office repeatedly.
+
+Review 8 for Dr. Jens Lange, Gastroenterology, Frankfurt
+Rating: 4/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. The bowel prep instructions from Dr. Jens Lange's office were contradictory, and I had to reschedule my colonoscopy because of the confusion. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Overall rating for Dr. Jens Lange, Gastroenterology, Frankfurt: 5.25/10 from 8 reviews

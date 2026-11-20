@@ -1,0 +1,54 @@
+Doctor: Dr. Chong Shi Min
+Doctor ID: 4589
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 17
+City: Singapore, Singapore
+Clinics: Starlight Family Clinic (clinic ID 593)
+
+Review 1 for Dr. Chong Shi Min, Pediatrics, Singapore
+Rating: 7/10
+Clinic visited: Starlight Family Clinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Chong Shi Min, Pediatrics, Singapore
+Rating: 5/10
+Clinic visited: Starlight Family Clinic
+Description: Caring and gentle with my child, Dr. Chong Shi Min nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 3 for Dr. Chong Shi Min, Pediatrics, Singapore
+Rating: 7/10
+Clinic visited: Starlight Family Clinic
+Description: Quick appointment and a fair price in Singapore, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Chong Shi Min is thorough with exams, but the after-hours phone line at Starlight Family Clinic is hard to reach.
+
+Review 4 for Dr. Chong Shi Min, Pediatrics, Singapore
+Rating: 8/10
+Clinic visited: Starlight Family Clinic
+Description: I was called in within five minutes of my appointment time at Starlight Family Clinic, which is rare and much appreciated.
+
+Review 5 for Dr. Chong Shi Min, Pediatrics, Singapore
+Rating: 6/10
+Clinic visited: Starlight Family Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Chong Shi Min, Pediatrics, Singapore
+Rating: 6/10
+Clinic visited: Starlight Family Clinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 7 for Dr. Chong Shi Min, Pediatrics, Singapore
+Rating: 7/10
+Clinic visited: Starlight Family Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Chong Shi Min, Pediatrics, Singapore
+Rating: 6/10
+Clinic visited: Starlight Family Clinic
+Description: The treatment plan from Dr. Chong Shi Min made sense, but I wished it had been written down for me to take away.
+
+Review 9 for Dr. Chong Shi Min, Pediatrics, Singapore
+Rating: 8/10
+Clinic visited: Starlight Family Clinic
+Description: The growth chart review was detailed, and I appreciated that Dr. Chong Shi Min talked to my child as well as to me.
+
+Overall rating for Dr. Chong Shi Min, Pediatrics, Singapore: 6.67/10 from 9 reviews

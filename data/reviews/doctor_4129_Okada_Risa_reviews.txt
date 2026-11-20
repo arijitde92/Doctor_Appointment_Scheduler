@@ -1,0 +1,69 @@
+Doctor: Dr. Okada Risa
+Doctor ID: 4129
+Specialization: Pathology
+Gender: Female
+Years of experience: 9
+City: Yokohama, Japan
+Clinics: Kannai Sumire Family Clinic (clinic ID 532)
+
+Review 1 for Dr. Okada Risa, Pathology, Yokohama
+Rating: 8/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: The receptionist at Kannai Sumire Family Clinic remembered my name and had my forms ready, so check-in took less than a minute. The staff and Dr. Okada Risa patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Review 2 for Dr. Okada Risa, Pathology, Yokohama
+Rating: 6/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Dr. Okada Risa was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Okada Risa, Pathology, Yokohama
+Rating: 7/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The blood draw was painless, but the waiting area at Kannai Sumire Family Clinic was crowded in the early morning.
+
+Review 4 for Dr. Okada Risa, Pathology, Yokohama
+Rating: 9/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: The lab at Kannai Sumire Family Clinic had a quick, friendly blood draw and the phlebotomist found my vein on the first try. I asked about the cost before the visit and received an honest estimate that matched the final bill. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Okada Risa, Pathology, Yokohama
+Rating: 7/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Okada Risa, Pathology, Yokohama
+Rating: 6/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 7 for Dr. Okada Risa, Pathology, Yokohama
+Rating: 9/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 8 for Dr. Okada Risa, Pathology, Yokohama
+Rating: 6/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Okada Risa gave little guidance about whether to repeat it. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Okada Risa, Pathology, Yokohama
+Rating: 10/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: I asked for a second look at my slides, and Dr. Okada Risa reviewed them without any fuss and confirmed the finding in writing.
+
+Review 10 for Dr. Okada Risa, Pathology, Yokohama
+Rating: 8/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 11 for Dr. Okada Risa, Pathology, Yokohama
+Rating: 9/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: A same-day slot was found for me at Kannai Sumire Family Clinic when I called with a worrying symptom. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 12 for Dr. Okada Risa, Pathology, Yokohama
+Rating: 10/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Okada Risa, Pathology, Yokohama: 7.92/10 from 12 reviews

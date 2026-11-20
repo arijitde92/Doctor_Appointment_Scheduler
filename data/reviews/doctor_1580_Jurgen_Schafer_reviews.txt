@@ -1,0 +1,54 @@
+Doctor: Dr. Jürgen Schäfer
+Doctor ID: 1580
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 18
+City: Hamburg, Germany
+Clinics: Ärztehaus Eppendorfer Park (clinic ID 206); Gesundheitszentrum Altona-Elbe (clinic ID 207)
+
+Review 1 for Dr. Jürgen Schäfer, Orthopedic, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Dr. Jürgen Schäfer explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 2 for Dr. Jürgen Schäfer, Orthopedic, Hamburg
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: Good bedside manner from Dr. Jürgen Schäfer, but the parking near Gesundheitszentrum Altona-Elbe is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Jürgen Schäfer, Orthopedic, Hamburg
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Follow-up scans were compared with the earlier ones, and Dr. Jürgen Schäfer showed me how the bone had healed. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Jürgen Schäfer, Orthopedic, Hamburg
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: I appreciated Dr. Jürgen Schäfer's honest comparison between injections, therapy and surgery for my hip pain. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 5 for Dr. Jürgen Schäfer, Orthopedic, Hamburg
+Rating: 6/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Clear explanations, but the follow-up call took a week longer than I had been told. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Jürgen Schäfer, Orthopedic, Hamburg
+Rating: 9/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule. I was given a printed summary of the visit, which I shared with my family at home. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Jürgen Schäfer, Orthopedic, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Dr. Jürgen Schäfer double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 8 for Dr. Jürgen Schäfer, Orthopedic, Hamburg
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 9 for Dr. Jürgen Schäfer, Orthopedic, Hamburg
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Altona-Elbe
+Description: Seen the same day at Gesundheitszentrum Altona-Elbe after a bad ankle sprain, with an X-ray done and a brace fitted before I left. Prescriptions from Dr. Jürgen Schäfer were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Overall rating for Dr. Jürgen Schäfer, Orthopedic, Hamburg: 8.11/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Alison Brown
+Doctor ID: 6581
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 16
+City: Sydney, Australia
+Clinics: Harbourside General Practice (clinic ID 852)
+
+Review 1 for Dr. Alison Brown, Orthopedic, Sydney
+Rating: 6/10
+Clinic visited: Harbourside General Practice
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Alison Brown, Orthopedic, Sydney
+Rating: 6/10
+Clinic visited: Harbourside General Practice
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Alison Brown, Orthopedic, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Alison Brown, Orthopedic, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Very skilled with my knee, but Dr. Alison Brown's clinic runs behind and the wait was over an hour. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Alison Brown, Orthopedic, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: Dr. Alison Brown explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Booking was easy online, but the confirmation email contained the wrong address for Harbourside General Practice.
+
+Review 6 for Dr. Alison Brown, Orthopedic, Sydney
+Rating: 6/10
+Clinic visited: Harbourside General Practice
+Description: Dr. Alison Brown was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The cast was applied well, but the instructions for showering and sleeping were rushed. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Alison Brown, Orthopedic, Sydney
+Rating: 6/10
+Clinic visited: Harbourside General Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 8 for Dr. Alison Brown, Orthopedic, Sydney
+Rating: 8/10
+Clinic visited: Harbourside General Practice
+Description: I appreciated that she offered more than one option and let me choose what suited my life. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Alison Brown, Orthopedic, Sydney: 6.62/10 from 8 reviews

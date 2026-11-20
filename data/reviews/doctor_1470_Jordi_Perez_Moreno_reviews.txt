@@ -1,0 +1,49 @@
+Doctor: Dr. Jordi Pérez Moreno
+Doctor ID: 1470
+Specialization: Pathology
+Gender: Male
+Years of experience: 26
+City: Valencia, Spain
+Clinics: Policlínica del Turia (clinic ID 192)
+
+Review 1 for Dr. Jordi Pérez Moreno, Pathology, Valencia
+Rating: 5/10
+Clinic visited: Policlínica del Turia
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 2 for Dr. Jordi Pérez Moreno, Pathology, Valencia
+Rating: 8/10
+Clinic visited: Policlínica del Turia
+Description: Fast turnaround at Policlínica del Turia on my thyroid panel, with results in my online account by the next morning.
+
+Review 3 for Dr. Jordi Pérez Moreno, Pathology, Valencia
+Rating: 10/10
+Clinic visited: Policlínica del Turia
+Description: The biopsy report was returned in three days, and Dr. Jordi Pérez Moreno took time on the phone to explain every term in it. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 4 for Dr. Jordi Pérez Moreno, Pathology, Valencia
+Rating: 7/10
+Clinic visited: Policlínica del Turia
+Description: Booking was easy online, but the confirmation email contained the wrong address for Policlínica del Turia. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 5 for Dr. Jordi Pérez Moreno, Pathology, Valencia
+Rating: 7/10
+Clinic visited: Policlínica del Turia
+Description: Dr. Jordi Pérez Moreno was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Jordi Pérez Moreno answered my questions kindly, though the call back took three days.
+
+Review 6 for Dr. Jordi Pérez Moreno, Pathology, Valencia
+Rating: 6/10
+Clinic visited: Policlínica del Turia
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 7 for Dr. Jordi Pérez Moreno, Pathology, Valencia
+Rating: 6/10
+Clinic visited: Policlínica del Turia
+Description: Helpful in clarifying a borderline result, though Dr. Jordi Pérez Moreno gave little guidance about whether to repeat it. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Jordi Pérez Moreno, Pathology, Valencia
+Rating: 6/10
+Clinic visited: Policlínica del Turia
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Overall rating for Dr. Jordi Pérez Moreno, Pathology, Valencia: 6.88/10 from 8 reviews

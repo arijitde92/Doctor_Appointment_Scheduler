@@ -1,0 +1,49 @@
+Doctor: Dr. Reto Keller
+Doctor ID: 1781
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 3
+City: Zurich, Switzerland
+Clinics: Medizinisches Zentrum Altstetten West (clinic ID 232); Gesundheitszentrum Oerlikon Nord (clinic ID 233); Hausarztpraxis Wiedikon Platz (clinic ID 234)
+
+Review 1 for Dr. Reto Keller, Pediatrics, Zurich
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Altstetten West
+Description: My toddler was terrified of doctors, but Dr. Reto Keller sat on the floor, played with a stuffed toy and examined everything without a single tear. Sensitive questions were handled by Dr. Reto Keller with discretion and without a hint of judgment. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Reto Keller, Pediatrics, Zurich
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Oerlikon Nord
+Description: The school physical at Gesundheitszentrum Oerlikon Nord was quick, thorough and the forms were completed on the spot. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Reto Keller, Pediatrics, Zurich
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Oerlikon Nord
+Description: Kind to anxious parents, Dr. Reto Keller never showed a hint of impatience when I felt silly asking about a rash. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 4 for Dr. Reto Keller, Pediatrics, Zurich
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Altstetten West
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 5 for Dr. Reto Keller, Pediatrics, Zurich
+Rating: 10/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: The waiting room in Zurich has a play corner and separate seating for sick children, which I really valued. Never once did I feel rushed, even though the clinic was clearly busy that morning. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Reto Keller, Pediatrics, Zurich
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Altstetten West
+Description: Dr. Reto Keller noticed a speech delay early and referred us to a therapist, which has made a real difference. Dr. Reto Keller used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 7 for Dr. Reto Keller, Pediatrics, Zurich
+Rating: 9/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. Paperwork at Hausarztpraxis Wiedikon Platz was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 8 for Dr. Reto Keller, Pediatrics, Zurich
+Rating: 8/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: I was called in within five minutes of my appointment time at Hausarztpraxis Wiedikon Platz, which is rare and much appreciated. Vaccination visits with Dr. Reto Keller are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Overall rating for Dr. Reto Keller, Pediatrics, Zurich: 9.50/10 from 8 reviews

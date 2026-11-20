@@ -1,0 +1,49 @@
+Doctor: Dr. Carlo Moretti
+Doctor ID: 3374
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 11
+City: Florence, Italy
+Clinics: Clinica del Giglio (clinic ID 438)
+
+Review 1 for Dr. Carlo Moretti, Pulmonology, Florence
+Rating: 6/10
+Clinic visited: Clinica del Giglio
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good advice about triggers, but the clinic's phone line is difficult to get through to. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Carlo Moretti, Pulmonology, Florence
+Rating: 6/10
+Clinic visited: Clinica del Giglio
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Carlo Moretti, Pulmonology, Florence
+Rating: 7/10
+Clinic visited: Clinica del Giglio
+Description: Pleasant manner and careful lung exam, though the waiting time at Clinica del Giglio regularly exceeded forty minutes.
+
+Review 4 for Dr. Carlo Moretti, Pulmonology, Florence
+Rating: 5/10
+Clinic visited: Clinica del Giglio
+Description: Good bedside manner from Dr. Carlo Moretti, but the parking near Clinica del Giglio is limited and I had to circle for fifteen minutes. Dr. Carlo Moretti adjusted my asthma medication well, but the breathing test appointment was a month away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Carlo Moretti, Pulmonology, Florence
+Rating: 8/10
+Clinic visited: Clinica del Giglio
+Description: Clear, honest answers from Dr. Carlo Moretti about my shortness of breath, and no unnecessary tests were ordered. The practice in Florence is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 6 for Dr. Carlo Moretti, Pulmonology, Florence
+Rating: 6/10
+Clinic visited: Clinica del Giglio
+Description: Dr. Carlo Moretti was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Carlo Moretti, Pulmonology, Florence
+Rating: 9/10
+Clinic visited: Clinica del Giglio
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. He called personally with my scan results and walked me through what the findings did and did not mean.
+
+Review 8 for Dr. Carlo Moretti, Pulmonology, Florence
+Rating: 7/10
+Clinic visited: Clinica del Giglio
+Description: Helpful and honest about my prognosis, Dr. Carlo Moretti could still have given me more written material to take home. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Carlo Moretti, Pulmonology, Florence: 6.75/10 from 8 reviews

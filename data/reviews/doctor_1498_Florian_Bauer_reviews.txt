@@ -1,0 +1,54 @@
+Doctor: Dr. Florian Bauer
+Doctor ID: 1498
+Specialization: General
+Gender: Male
+Years of experience: 11
+City: Berlin, Germany
+Clinics: Praxiszentrum am Kurfürstendamm (clinic ID 195); Gesundheitspraxis Prenzlauer Tor (clinic ID 197); Praxis am Steglitzer Kreisel Park (clinic ID 199)
+
+Review 1 for Dr. Florian Bauer, General, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Cholesterol results were explained by Dr. Florian Bauer with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 2 for Dr. Florian Bauer, General, Berlin
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Gesundheitspraxis Prenzlauer Tor were inconsistent. I got what I needed, but the next available appointment was three weeks away.
+
+Review 3 for Dr. Florian Bauer, General, Berlin
+Rating: 9/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Vaccination advice from Dr. Florian Bauer for my travel plans was thorough and specific to the countries I was visiting. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Florian Bauer, General, Berlin
+Rating: 8/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 5 for Dr. Florian Bauer, General, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Dr. Florian Bauer is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Florian Bauer, General, Berlin
+Rating: 8/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: At my visit, Dr. Florian Bauer took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 7 for Dr. Florian Bauer, General, Berlin
+Rating: 4/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: My persistent fatigue was brushed aside as stress by Dr. Florian Bauer, and it took a second doctor to find the actual cause. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 8 for Dr. Florian Bauer, General, Berlin
+Rating: 6/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 9 for Dr. Florian Bauer, General, Berlin
+Rating: 9/10
+Clinic visited: Praxiszentrum am Kurfürstendamm
+Description: A same-day slot was found for me at Praxiszentrum am Kurfürstendamm when I called with a worrying symptom.
+
+Overall rating for Dr. Florian Bauer, General, Berlin: 7.22/10 from 9 reviews

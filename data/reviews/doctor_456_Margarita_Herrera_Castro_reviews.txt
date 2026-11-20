@@ -1,0 +1,54 @@
+Doctor: Dr. Margarita Herrera Castro
+Doctor ID: 456
+Specialization: Cardiology
+Gender: Female
+Years of experience: 23
+City: Mexico City, Mexico
+Clinics: Clínica Familiar del Valle (clinic ID 63)
+
+Review 1 for Dr. Margarita Herrera Castro, Cardiology, Mexico City
+Rating: 7/10
+Clinic visited: Clínica Familiar del Valle
+Description: Great care in the visit itself, but the billing for the tests at Clínica Familiar del Valle was confusing. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Margarita Herrera Castro, Cardiology, Mexico City
+Rating: 9/10
+Clinic visited: Clínica Familiar del Valle
+Description: Honest about the risks and benefits of the procedure, Dr. Margarita Herrera Castro never pressured me toward surgery. Paperwork at Clínica Familiar del Valle was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 3 for Dr. Margarita Herrera Castro, Cardiology, Mexico City
+Rating: 6/10
+Clinic visited: Clínica Familiar del Valle
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Margarita Herrera Castro, Cardiology, Mexico City
+Rating: 5/10
+Clinic visited: Clínica Familiar del Valle
+Description: Helpful with my cholesterol, Dr. Margarita Herrera Castro still gave dietary advice that was a little generic. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 5 for Dr. Margarita Herrera Castro, Cardiology, Mexico City
+Rating: 4/10
+Clinic visited: Clínica Familiar del Valle
+Description: The waiting room at Clínica Familiar del Valle was overcrowded and there was nowhere to sit, even for elderly patients. My worries about side effects from my medication were waved off, and nobody offered an alternative.
+
+Review 6 for Dr. Margarita Herrera Castro, Cardiology, Mexico City
+Rating: 7/10
+Clinic visited: Clínica Familiar del Valle
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Thorough exam and a good plan, yet the stress test appointment was almost a month away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Margarita Herrera Castro, Cardiology, Mexico City
+Rating: 7/10
+Clinic visited: Clínica Familiar del Valle
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 8 for Dr. Margarita Herrera Castro, Cardiology, Mexico City
+Rating: 6/10
+Clinic visited: Clínica Familiar del Valle
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 9 for Dr. Margarita Herrera Castro, Cardiology, Mexico City
+Rating: 7/10
+Clinic visited: Clínica Familiar del Valle
+Description: Dr. Margarita Herrera Castro adjusted my blood pressure medication carefully, though I had to call twice for a refill. Quick appointment and a fair price in Mexico City, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Margarita Herrera Castro, Cardiology, Mexico City: 6.44/10 from 9 reviews

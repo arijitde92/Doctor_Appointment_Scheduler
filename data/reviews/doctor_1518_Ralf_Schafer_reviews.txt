@@ -1,0 +1,49 @@
+Doctor: Dr. Ralf Schäfer
+Doctor ID: 1518
+Specialization: Radiology
+Gender: Male
+Years of experience: 27
+City: Berlin, Germany
+Clinics: Ärztehaus Neukölln-Süd (clinic ID 198)
+
+Review 1 for Dr. Ralf Schäfer, Radiology, Berlin
+Rating: 6/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 2 for Dr. Ralf Schäfer, Radiology, Berlin
+Rating: 6/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 3 for Dr. Ralf Schäfer, Radiology, Berlin
+Rating: 10/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Reviewing my X-ray together with Dr. Ralf Schäfer on the screen made it much easier to understand my arthritis. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 4 for Dr. Ralf Schäfer, Radiology, Berlin
+Rating: 7/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The report from Dr. Ralf Schäfer was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 5 for Dr. Ralf Schäfer, Radiology, Berlin
+Rating: 9/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Dr. Ralf Schäfer used a calm, steady voice that settled my nerves before a stressful procedure. Dr. Ralf Schäfer compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 6 for Dr. Ralf Schäfer, Radiology, Berlin
+Rating: 8/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. The report from Dr. Ralf Schäfer was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 7 for Dr. Ralf Schäfer, Radiology, Berlin
+Rating: 9/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 8 for Dr. Ralf Schäfer, Radiology, Berlin
+Rating: 9/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Overall rating for Dr. Ralf Schäfer, Radiology, Berlin: 8.00/10 from 8 reviews

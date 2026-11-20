@@ -1,0 +1,59 @@
+Doctor: Dr. Mateusz Majewski
+Doctor ID: 2781
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 9
+City: Krakow, Poland
+Clinics: Gabinety Lekarskie Opolska Park (clinic ID 364)
+
+Review 1 for Dr. Mateusz Majewski, Pulmonology, Krakow
+Rating: 7/10
+Clinic visited: Gabinety Lekarskie Opolska Park
+Description: Pleasant manner and careful lung exam, though the waiting time at Gabinety Lekarskie Opolska Park regularly exceeded forty minutes. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Mateusz Majewski, Pulmonology, Krakow
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Opolska Park
+Description: Everything was explained in plain English by Dr. Mateusz Majewski, and nothing was left to guess.
+
+Review 3 for Dr. Mateusz Majewski, Pulmonology, Krakow
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Opolska Park
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Krakow. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Mateusz Majewski, Pulmonology, Krakow
+Rating: 9/10
+Clinic visited: Gabinety Lekarskie Opolska Park
+Description: After years of poorly controlled asthma, Dr. Mateusz Majewski reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 5 for Dr. Mateusz Majewski, Pulmonology, Krakow
+Rating: 7/10
+Clinic visited: Gabinety Lekarskie Opolska Park
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Mateusz Majewski, Pulmonology, Krakow
+Rating: 6/10
+Clinic visited: Gabinety Lekarskie Opolska Park
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 7 for Dr. Mateusz Majewski, Pulmonology, Krakow
+Rating: 10/10
+Clinic visited: Gabinety Lekarskie Opolska Park
+Description: I always leave Dr. Mateusz Majewski's office with a written summary of my breathing test results and what changed since the last visit. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 8 for Dr. Mateusz Majewski, Pulmonology, Krakow
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Opolska Park
+Description: At Gabinety Lekarskie Opolska Park, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 9 for Dr. Mateusz Majewski, Pulmonology, Krakow
+Rating: 7/10
+Clinic visited: Gabinety Lekarskie Opolska Park
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 10 for Dr. Mateusz Majewski, Pulmonology, Krakow
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Opolska Park
+Description: Clear, honest answers from Dr. Mateusz Majewski about my shortness of breath, and no unnecessary tests were ordered. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Mateusz Majewski, Pulmonology, Krakow: 7.80/10 from 10 reviews

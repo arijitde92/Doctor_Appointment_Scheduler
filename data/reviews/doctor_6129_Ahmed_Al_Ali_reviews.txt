@@ -1,0 +1,59 @@
+Doctor: Dr. Ahmed Al Ali
+Doctor ID: 6129
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 9
+City: Sharjah, UAE
+Clinics: Al Nahda Medical Centre (clinic ID 791); Muwaileh Health Practice (clinic ID 793)
+
+Review 1 for Dr. Ahmed Al Ali, Psychiatry, Sharjah
+Rating: 7/10
+Clinic visited: Al Nahda Medical Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good listener, yet the refill process at Al Nahda Medical Centre is slow and requires several phone calls.
+
+Review 2 for Dr. Ahmed Al Ali, Psychiatry, Sharjah
+Rating: 5/10
+Clinic visited: Muwaileh Health Practice
+Description: Good bedside manner from Dr. Ahmed Al Ali, but the parking near Muwaileh Health Practice is limited and I had to circle for fifteen minutes. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 3 for Dr. Ahmed Al Ali, Psychiatry, Sharjah
+Rating: 3/10
+Clinic visited: Muwaileh Health Practice
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. I was not told about common side effects by Dr. Ahmed Al Ali, and I had a rough first two weeks that could have been avoided.
+
+Review 4 for Dr. Ahmed Al Ali, Psychiatry, Sharjah
+Rating: 7/10
+Clinic visited: Muwaileh Health Practice
+Description: Dr. Ahmed Al Ali is knowledgeable, though I waited several weeks for my first appointment. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Ahmed Al Ali, Psychiatry, Sharjah
+Rating: 6/10
+Clinic visited: Al Nahda Medical Centre
+Description: Dr. Ahmed Al Ali was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 6 for Dr. Ahmed Al Ali, Psychiatry, Sharjah
+Rating: 5/10
+Clinic visited: Muwaileh Health Practice
+Description: Dr. Ahmed Al Ali was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 7 for Dr. Ahmed Al Ali, Psychiatry, Sharjah
+Rating: 6/10
+Clinic visited: Muwaileh Health Practice
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 8 for Dr. Ahmed Al Ali, Psychiatry, Sharjah
+Rating: 8/10
+Clinic visited: Al Nahda Medical Centre
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Ahmed Al Ali, Psychiatry, Sharjah
+Rating: 7/10
+Clinic visited: Al Nahda Medical Centre
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The treatment plan from Dr. Ahmed Al Ali made sense, but I wished it had been written down for me to take away.
+
+Review 10 for Dr. Ahmed Al Ali, Psychiatry, Sharjah
+Rating: 7/10
+Clinic visited: Muwaileh Health Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Helpful diagnosis, though the billing for my first long assessment was confusing. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Ahmed Al Ali, Psychiatry, Sharjah: 6.10/10 from 10 reviews

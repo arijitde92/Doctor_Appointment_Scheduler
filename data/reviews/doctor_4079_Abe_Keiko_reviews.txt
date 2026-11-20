@@ -1,0 +1,59 @@
+Doctor: Dr. Abe Keiko
+Doctor ID: 4079
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 3
+City: Tokyo, Japan
+Clinics: Shinjuku Midori Medical Clinic (clinic ID 526)
+
+Review 1 for Dr. Abe Keiko, Gastroenterology, Tokyo
+Rating: 7/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 2 for Dr. Abe Keiko, Gastroenterology, Tokyo
+Rating: 7/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Abe Keiko, Gastroenterology, Tokyo
+Rating: 8/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 4 for Dr. Abe Keiko, Gastroenterology, Tokyo
+Rating: 9/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Abe Keiko, Gastroenterology, Tokyo
+Rating: 8/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: She never made me feel embarrassed about discussing bowel habits, which is the main reason I returned.
+
+Review 6 for Dr. Abe Keiko, Gastroenterology, Tokyo
+Rating: 6/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Abe Keiko, Gastroenterology, Tokyo
+Rating: 7/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: I liked the advice I got from Dr. Abe Keiko, but I would have liked more time to ask follow-up questions before the visit ended. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 8 for Dr. Abe Keiko, Gastroenterology, Tokyo
+Rating: 7/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Abe Keiko, Gastroenterology, Tokyo
+Rating: 7/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: Dr. Abe Keiko is thorough, but I waited nearly two months to get the first available slot. Dr. Abe Keiko was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 10 for Dr. Abe Keiko, Gastroenterology, Tokyo
+Rating: 8/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Overall rating for Dr. Abe Keiko, Gastroenterology, Tokyo: 7.40/10 from 10 reviews

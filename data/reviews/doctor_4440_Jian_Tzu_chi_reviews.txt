@@ -1,0 +1,69 @@
+Doctor: Dr. Jian Tzu-chi
+Doctor ID: 4440
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 20
+City: Taipei, Taiwan
+Clinics: Daan Mingde Health Clinic (clinic ID 572); Neihu Hengsheng Polyclinic (clinic ID 573)
+
+Review 1 for Dr. Jian Tzu-chi, Psychiatry, Taipei
+Rating: 8/10
+Clinic visited: Daan Mingde Health Clinic
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 2 for Dr. Jian Tzu-chi, Psychiatry, Taipei
+Rating: 9/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Never once did Dr. Jian Tzu-chi make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 3 for Dr. Jian Tzu-chi, Psychiatry, Taipei
+Rating: 7/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Jian Tzu-chi, Psychiatry, Taipei
+Rating: 6/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 5 for Dr. Jian Tzu-chi, Psychiatry, Taipei
+Rating: 5/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: Dr. Jian Tzu-chi was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 6 for Dr. Jian Tzu-chi, Psychiatry, Taipei
+Rating: 7/10
+Clinic visited: Neihu Hengsheng Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 7 for Dr. Jian Tzu-chi, Psychiatry, Taipei
+Rating: 8/10
+Clinic visited: Daan Mingde Health Clinic
+Description: The practice in Taipei is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 8 for Dr. Jian Tzu-chi, Psychiatry, Taipei
+Rating: 5/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Good listener, yet the refill process at Daan Mingde Health Clinic is slow and requires several phone calls.
+
+Review 9 for Dr. Jian Tzu-chi, Psychiatry, Taipei
+Rating: 7/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Daan Mingde Health Clinic. Dr. Jian Tzu-chi is knowledgeable, though I waited several weeks for my first appointment. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Jian Tzu-chi, Psychiatry, Taipei
+Rating: 6/10
+Clinic visited: Daan Mingde Health Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 11 for Dr. Jian Tzu-chi, Psychiatry, Taipei
+Rating: 5/10
+Clinic visited: Daan Mingde Health Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 12 for Dr. Jian Tzu-chi, Psychiatry, Taipei
+Rating: 8/10
+Clinic visited: Daan Mingde Health Clinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Overall rating for Dr. Jian Tzu-chi, Psychiatry, Taipei: 6.75/10 from 12 reviews

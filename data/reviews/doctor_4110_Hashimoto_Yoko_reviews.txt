@@ -1,0 +1,64 @@
+Doctor: Dr. Hashimoto Yoko
+Doctor ID: 4110
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 15
+City: Yokohama, Japan
+Clinics: Minato Mirai Nami Clinic (clinic ID 530)
+
+Review 1 for Dr. Hashimoto Yoko, Gastroenterology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 2 for Dr. Hashimoto Yoko, Gastroenterology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: I get regular check-ups for my Crohn's disease, and Dr. Hashimoto Yoko adjusts my treatment carefully and always explains why. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Hashimoto Yoko, Gastroenterology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Dr. Hashimoto Yoko was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 4 for Dr. Hashimoto Yoko, Gastroenterology, Yokohama
+Rating: 9/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Dr. Hashimoto Yoko took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. Appointment reminders came by text and email, and rescheduling took two taps. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Hashimoto Yoko, Gastroenterology, Yokohama
+Rating: 8/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Helpful dietitian referral from Dr. Hashimoto Yoko and written guidance for living with ulcerative colitis.
+
+Review 6 for Dr. Hashimoto Yoko, Gastroenterology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Dr. Hashimoto Yoko drew a quick sketch to explain what was going on, which helped me remember it afterwards. The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Hashimoto Yoko, Gastroenterology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 8 for Dr. Hashimoto Yoko, Gastroenterology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Review 9 for Dr. Hashimoto Yoko, Gastroenterology, Yokohama
+Rating: 8/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. She never made me feel embarrassed about discussing bowel habits, which is the main reason I returned.
+
+Review 10 for Dr. Hashimoto Yoko, Gastroenterology, Yokohama
+Rating: 9/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: I was called in within five minutes of my appointment time at Minato Mirai Nami Clinic, which is rare and much appreciated. Getting to Minato Mirai Nami Clinic in Yokohama was simple, and the day-procedure unit was calm and efficient.
+
+Review 11 for Dr. Hashimoto Yoko, Gastroenterology, Yokohama
+Rating: 7/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Dr. Hashimoto Yoko is thorough, but I waited nearly two months to get the first available slot. The treatment plan from Dr. Hashimoto Yoko made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Hashimoto Yoko, Gastroenterology, Yokohama: 9.18/10 from 11 reviews

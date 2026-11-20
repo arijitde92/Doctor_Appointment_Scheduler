@@ -1,0 +1,69 @@
+Doctor: Dr. Carlos Nguyen
+Doctor ID: 99
+Specialization: Pathology
+Gender: Male
+Years of experience: 30
+City: Chicago, USA
+Clinics: Lakeshore Internal Medicine (clinic ID 15)
+
+Review 1 for Dr. Carlos Nguyen, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I asked for a second look at my slides, and Dr. Carlos Nguyen reviewed them without any fuss and confirmed the finding in writing. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Carlos Nguyen, Pathology, Chicago
+Rating: 7/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 3 for Dr. Carlos Nguyen, Pathology, Chicago
+Rating: 6/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Carlos Nguyen, Pathology, Chicago
+Rating: 7/10
+Clinic visited: Lakeshore Internal Medicine
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Carlos Nguyen, Pathology, Chicago
+Rating: 7/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Dr. Carlos Nguyen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Carlos Nguyen answered my questions kindly, though the call back took three days.
+
+Review 6 for Dr. Carlos Nguyen, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 7 for Dr. Carlos Nguyen, Pathology, Chicago
+Rating: 7/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Helpful in clarifying a borderline result, though Dr. Carlos Nguyen gave little guidance about whether to repeat it. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Carlos Nguyen, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: The lab at Lakeshore Internal Medicine had a quick, friendly blood draw and the phlebotomist found my vein on the first try. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 9 for Dr. Carlos Nguyen, Pathology, Chicago
+Rating: 6/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Quick appointment and a fair price in Chicago, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 10 for Dr. Carlos Nguyen, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. Dr. Carlos Nguyen double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 11 for Dr. Carlos Nguyen, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 12 for Dr. Carlos Nguyen, Pathology, Chicago
+Rating: 7/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Overall rating for Dr. Carlos Nguyen, Pathology, Chicago: 7.25/10 from 12 reviews

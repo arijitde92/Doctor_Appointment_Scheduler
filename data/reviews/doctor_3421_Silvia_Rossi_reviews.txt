@@ -1,0 +1,69 @@
+Doctor: Dr. Silvia Rossi
+Doctor ID: 3421
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 12
+City: Milan, Italy
+Clinics: Clinica Santa Giulia (clinic ID 443)
+
+Review 1 for Dr. Silvia Rossi, Pediatrics, Milan
+Rating: 9/10
+Clinic visited: Clinica Santa Giulia
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice.
+
+Review 2 for Dr. Silvia Rossi, Pediatrics, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 3 for Dr. Silvia Rossi, Pediatrics, Milan
+Rating: 6/10
+Clinic visited: Clinica Santa Giulia
+Description: Caring and gentle with my child, Dr. Silvia Rossi nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 4 for Dr. Silvia Rossi, Pediatrics, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. Dr. Silvia Rossi looked me in the eye, listened to the whole story and only then started typing.
+
+Review 5 for Dr. Silvia Rossi, Pediatrics, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Dr. Silvia Rossi is thorough with exams, but the after-hours phone line at Clinica Santa Giulia is hard to reach. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Silvia Rossi, Pediatrics, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 7 for Dr. Silvia Rossi, Pediatrics, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 8 for Dr. Silvia Rossi, Pediatrics, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 9 for Dr. Silvia Rossi, Pediatrics, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Vaccination visits with Dr. Silvia Rossi are painless and well explained, and my questions about the schedule were answered without any pressure. Highly recommended, and I have already told two colleagues about it.
+
+Review 10 for Dr. Silvia Rossi, Pediatrics, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: The growth chart review was detailed, and I appreciated that Dr. Silvia Rossi talked to my child as well as to me.
+
+Review 11 for Dr. Silvia Rossi, Pediatrics, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 12 for Dr. Silvia Rossi, Pediatrics, Milan
+Rating: 9/10
+Clinic visited: Clinica Santa Giulia
+Description: My toddler was terrified of doctors, but Dr. Silvia Rossi sat on the floor, played with a stuffed toy and examined everything without a single tear. Prescriptions from Dr. Silvia Rossi were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Overall rating for Dr. Silvia Rossi, Pediatrics, Milan: 7.58/10 from 12 reviews

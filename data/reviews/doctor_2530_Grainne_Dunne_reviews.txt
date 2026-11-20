@@ -1,0 +1,54 @@
+Doctor: Dr. Grainne Dunne
+Doctor ID: 2530
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 12
+City: Limerick, Ireland
+Clinics: O'Connell Street Medical Practice (clinic ID 330); Dooradoyle Polyclinic (clinic ID 333)
+
+Review 1 for Dr. Grainne Dunne, Pediatrics, Limerick
+Rating: 10/10
+Clinic visited: Dooradoyle Polyclinic
+Description: The school physical at Dooradoyle Polyclinic was quick, thorough and the forms were completed on the spot.
+
+Review 2 for Dr. Grainne Dunne, Pediatrics, Limerick
+Rating: 8/10
+Clinic visited: O'Connell Street Medical Practice
+Description: My teenager actually spoke up during the visit, and Dr. Grainne Dunne handled sensitive topics with respect. Sensitive questions were handled by Dr. Grainne Dunne with discretion and without a hint of judgment.
+
+Review 3 for Dr. Grainne Dunne, Pediatrics, Limerick
+Rating: 10/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Kind to anxious parents, Dr. Grainne Dunne never showed a hint of impatience when I felt silly asking about a rash. I appreciated that she offered more than one option and let me choose what suited my life. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Grainne Dunne, Pediatrics, Limerick
+Rating: 9/10
+Clinic visited: O'Connell Street Medical Practice
+Description: The waiting room in Limerick has a play corner and separate seating for sick children, which I really valued.
+
+Review 5 for Dr. Grainne Dunne, Pediatrics, Limerick
+Rating: 7/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Caring and gentle with my child, Dr. Grainne Dunne nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 6 for Dr. Grainne Dunne, Pediatrics, Limerick
+Rating: 7/10
+Clinic visited: Dooradoyle Polyclinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 7 for Dr. Grainne Dunne, Pediatrics, Limerick
+Rating: 10/10
+Clinic visited: Dooradoyle Polyclinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. The growth chart review was detailed, and I appreciated that Dr. Grainne Dunne talked to my child as well as to me.
+
+Review 8 for Dr. Grainne Dunne, Pediatrics, Limerick
+Rating: 8/10
+Clinic visited: Dooradoyle Polyclinic
+Description: We got a same-day appointment for a high fever, and the care at Dooradoyle Polyclinic was kind and efficient. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 9 for Dr. Grainne Dunne, Pediatrics, Limerick
+Rating: 10/10
+Clinic visited: Dooradoyle Polyclinic
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Overall rating for Dr. Grainne Dunne, Pediatrics, Limerick: 8.78/10 from 9 reviews

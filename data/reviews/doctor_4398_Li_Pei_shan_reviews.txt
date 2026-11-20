@@ -1,0 +1,49 @@
+Doctor: Dr. Li Pei-shan
+Doctor ID: 4398
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 1
+City: Tainan, Taiwan
+Clinics: West Central Fuhe Health Clinic (clinic ID 567)
+
+Review 1 for Dr. Li Pei-shan, Pediatrics, Tainan
+Rating: 8/10
+Clinic visited: West Central Fuhe Health Clinic
+Description: The waiting room in Tainan has a play corner and separate seating for sick children, which I really valued. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 2 for Dr. Li Pei-shan, Pediatrics, Tainan
+Rating: 8/10
+Clinic visited: West Central Fuhe Health Clinic
+Description: Dr. Li Pei-shan noticed a speech delay early and referred us to a therapist, which has made a real difference. Dr. Li Pei-shan double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 3 for Dr. Li Pei-shan, Pediatrics, Tainan
+Rating: 10/10
+Clinic visited: West Central Fuhe Health Clinic
+Description: The school physical at West Central Fuhe Health Clinic was quick, thorough and the forms were completed on the spot.
+
+Review 4 for Dr. Li Pei-shan, Pediatrics, Tainan
+Rating: 7/10
+Clinic visited: West Central Fuhe Health Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for West Central Fuhe Health Clinic. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 5 for Dr. Li Pei-shan, Pediatrics, Tainan
+Rating: 9/10
+Clinic visited: West Central Fuhe Health Clinic
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 6 for Dr. Li Pei-shan, Pediatrics, Tainan
+Rating: 9/10
+Clinic visited: West Central Fuhe Health Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. The growth chart review was detailed, and I appreciated that Dr. Li Pei-shan talked to my child as well as to me.
+
+Review 7 for Dr. Li Pei-shan, Pediatrics, Tainan
+Rating: 7/10
+Clinic visited: West Central Fuhe Health Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Li Pei-shan is thorough with exams, but the after-hours phone line at West Central Fuhe Health Clinic is hard to reach. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Li Pei-shan, Pediatrics, Tainan
+Rating: 9/10
+Clinic visited: West Central Fuhe Health Clinic
+Description: Our family has been coming for years, and she remembers each child's history and personality. My referral letter was written on the spot, and the specialist's office had my details before I called. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Li Pei-shan, Pediatrics, Tainan: 8.38/10 from 8 reviews

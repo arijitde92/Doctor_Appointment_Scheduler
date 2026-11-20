@@ -1,0 +1,49 @@
+Doctor: Dr. Nadia Jacobs
+Doctor ID: 3113
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: Brussels, Belgium
+Clinics: Clinique du Parvis (clinic ID 404)
+
+Review 1 for Dr. Nadia Jacobs, Cardiology, Brussels
+Rating: 7/10
+Clinic visited: Clinique du Parvis
+Description: I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Nadia Jacobs, Cardiology, Brussels
+Rating: 6/10
+Clinic visited: Clinique du Parvis
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 3 for Dr. Nadia Jacobs, Cardiology, Brussels
+Rating: 5/10
+Clinic visited: Clinique du Parvis
+Description: The treatment plan from Dr. Nadia Jacobs made sense, but I wished it had been written down for me to take away. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Nadia Jacobs, Cardiology, Brussels
+Rating: 7/10
+Clinic visited: Clinique du Parvis
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Nadia Jacobs, Cardiology, Brussels
+Rating: 8/10
+Clinic visited: Clinique du Parvis
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. The receptionist at Clinique du Parvis remembered my name and had my forms ready, so check-in took less than a minute. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Nadia Jacobs, Cardiology, Brussels
+Rating: 7/10
+Clinic visited: Clinique du Parvis
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 7 for Dr. Nadia Jacobs, Cardiology, Brussels
+Rating: 6/10
+Clinic visited: Clinique du Parvis
+Description: Dr. Nadia Jacobs adjusted my blood pressure medication carefully, though I had to call twice for a refill. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Nadia Jacobs, Cardiology, Brussels
+Rating: 8/10
+Clinic visited: Clinique du Parvis
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Nadia Jacobs, Cardiology, Brussels: 6.75/10 from 8 reviews

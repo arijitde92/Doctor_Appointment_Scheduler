@@ -1,0 +1,49 @@
+Doctor: Dr. Francesca De Luca
+Doctor ID: 3353
+Specialization: Radiology
+Gender: Female
+Years of experience: 30
+City: Florence, Italy
+Clinics: Poliambulatorio Santa Maria Novella (clinic ID 435); Centro Medico Campo di Marte (clinic ID 436); Studio Medico Oltrarno (clinic ID 437)
+
+Review 1 for Dr. Francesca De Luca, Radiology, Florence
+Rating: 1/10
+Clinic visited: Studio Medico Oltrarno
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week. I will not be returning and have already started looking for another doctor.
+
+Review 2 for Dr. Francesca De Luca, Radiology, Florence
+Rating: 6/10
+Clinic visited: Centro Medico Campo di Marte
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Francesca De Luca, Radiology, Florence
+Rating: 4/10
+Clinic visited: Studio Medico Oltrarno
+Description: There was no translator available, and my parent was left unable to follow what was being said. I left disappointed and will take my business to another clinic.
+
+Review 4 for Dr. Francesca De Luca, Radiology, Florence
+Rating: 3/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: The technologist gave almost no instructions before my MRI, and I had to repeat part of the scan because I moved.
+
+Review 5 for Dr. Francesca De Luca, Radiology, Florence
+Rating: 6/10
+Clinic visited: Studio Medico Oltrarno
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The telehealth visit was convenient, though the connection dropped twice and we had to restart. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Francesca De Luca, Radiology, Florence
+Rating: 3/10
+Clinic visited: Centro Medico Campo di Marte
+Description: The waiting room at Centro Medico Campo di Marte was overcrowded and there was nowhere to sit, even for elderly patients. I was charged for a second scan that I was told was a free repeat after an image problem. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 7 for Dr. Francesca De Luca, Radiology, Florence
+Rating: 5/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Francesca De Luca, Radiology, Florence
+Rating: 3/10
+Clinic visited: Centro Medico Campo di Marte
+Description: I waited two weeks for a report from Dr. Francesca De Luca and had to call three times before anyone could tell me the result. I expected more, and I cannot in good conscience recommend it to friends.
+
+Overall rating for Dr. Francesca De Luca, Radiology, Florence: 3.88/10 from 8 reviews

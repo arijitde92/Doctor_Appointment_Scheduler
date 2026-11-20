@@ -1,0 +1,49 @@
+Doctor: Dr. Odd Olsen
+Doctor ID: 1977
+Specialization: Neurology
+Gender: Male
+Years of experience: 1
+City: Bergen, Norway
+Clinics: Legekontoret Kalfaret (clinic ID 258)
+
+Review 1 for Dr. Odd Olsen, Neurology, Bergen
+Rating: 9/10
+Clinic visited: Legekontoret Kalfaret
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Legekontoret Kalfaret. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Odd Olsen, Neurology, Bergen
+Rating: 8/10
+Clinic visited: Legekontoret Kalfaret
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 3 for Dr. Odd Olsen, Neurology, Bergen
+Rating: 9/10
+Clinic visited: Legekontoret Kalfaret
+Description: Booking online at Legekontoret Kalfaret was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 4 for Dr. Odd Olsen, Neurology, Bergen
+Rating: 7/10
+Clinic visited: Legekontoret Kalfaret
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 5 for Dr. Odd Olsen, Neurology, Bergen
+Rating: 10/10
+Clinic visited: Legekontoret Kalfaret
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 6 for Dr. Odd Olsen, Neurology, Bergen
+Rating: 7/10
+Clinic visited: Legekontoret Kalfaret
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Odd Olsen at Legekontoret Kalfaret are difficult to schedule. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Odd Olsen, Neurology, Bergen
+Rating: 7/10
+Clinic visited: Legekontoret Kalfaret
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Odd Olsen, Neurology, Bergen
+Rating: 9/10
+Clinic visited: Legekontoret Kalfaret
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried.
+
+Overall rating for Dr. Odd Olsen, Neurology, Bergen: 8.25/10 from 8 reviews

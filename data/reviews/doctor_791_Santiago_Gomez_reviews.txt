@@ -1,0 +1,59 @@
+Doctor: Dr. Santiago Gómez
+Doctor ID: 791
+Specialization: Cardiology
+Gender: Male
+Years of experience: 3
+City: Cordoba, Argentina
+Clinics: Instituto de Salud Vélez Sarsfield (clinic ID 104)
+
+Review 1 for Dr. Santiago Gómez, Cardiology, Cordoba
+Rating: 10/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Quick to coordinate with my regular doctor, so my medications were consistent across both offices. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Santiago Gómez, Cardiology, Cordoba
+Rating: 8/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Honest about the risks and benefits of the procedure, Dr. Santiago Gómez never pressured me toward surgery. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 3 for Dr. Santiago Gómez, Cardiology, Cordoba
+Rating: 8/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: The practice in Cordoba is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 4 for Dr. Santiago Gómez, Cardiology, Cordoba
+Rating: 8/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: The cardiology unit at Instituto de Salud Vélez Sarsfield runs on time, and the technicians were professional during my echocardiogram. Even the billing team was helpful, and a mistake on my statement was corrected within a day. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Santiago Gómez, Cardiology, Cordoba
+Rating: 9/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: I was given a printed summary of the visit, which I shared with my family at home. Managing my blood pressure with Dr. Santiago Gómez has been steady and practical, with home readings reviewed at every visit. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Santiago Gómez, Cardiology, Cordoba
+Rating: 10/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Clear and calm advice at Instituto de Salud Vélez Sarsfield about exercise after my stent, including a gradual written schedule. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Santiago Gómez, Cardiology, Cordoba
+Rating: 7/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Dr. Santiago Gómez was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Santiago Gómez, Cardiology, Cordoba
+Rating: 10/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 9 for Dr. Santiago Gómez, Cardiology, Cordoba
+Rating: 10/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. Prescriptions from Dr. Santiago Gómez were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 10 for Dr. Santiago Gómez, Cardiology, Cordoba
+Rating: 7/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Good bedside manner from Dr. Santiago Gómez, but the parking near Instituto de Salud Vélez Sarsfield is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Santiago Gómez, Cardiology, Cordoba: 8.70/10 from 10 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Sofía Núñez
+Doctor ID: 749
+Specialization: General
+Gender: Female
+Years of experience: 20
+City: Buenos Aires, Argentina
+Clinics: Instituto Médico Corrientes (clinic ID 99)
+
+Review 1 for Dr. Sofía Núñez, General, Buenos Aires
+Rating: 8/10
+Clinic visited: Instituto Médico Corrientes
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 2 for Dr. Sofía Núñez, General, Buenos Aires
+Rating: 8/10
+Clinic visited: Instituto Médico Corrientes
+Description: Managing my type 2 diabetes with Dr. Sofía Núñez has been steady and practical, with quarterly blood sugar reviews and no lectures. Paperwork at Instituto Médico Corrientes was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 3 for Dr. Sofía Núñez, General, Buenos Aires
+Rating: 7/10
+Clinic visited: Instituto Médico Corrientes
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 4 for Dr. Sofía Núñez, General, Buenos Aires
+Rating: 6/10
+Clinic visited: Instituto Médico Corrientes
+Description: Dr. Sofía Núñez is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Sofía Núñez, General, Buenos Aires
+Rating: 6/10
+Clinic visited: Instituto Médico Corrientes
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Instituto Médico Corrientes were inconsistent.
+
+Review 6 for Dr. Sofía Núñez, General, Buenos Aires
+Rating: 9/10
+Clinic visited: Instituto Médico Corrientes
+Description: My annual check-up with Dr. Sofía Núñez took forty minutes, with every screening explained and nothing rushed. Dr. Sofía Núñez looked me in the eye, listened to the whole story and only then started typing. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Sofía Núñez, General, Buenos Aires
+Rating: 8/10
+Clinic visited: Instituto Médico Corrientes
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. As a new patient in Buenos Aires, I felt welcomed at Instituto Médico Corrientes, and my whole history was reviewed in one relaxed visit.
+
+Review 8 for Dr. Sofía Núñez, General, Buenos Aires
+Rating: 8/10
+Clinic visited: Instituto Médico Corrientes
+Description: I always hear back within a day when I leave a question with the nurse at Instituto Médico Corrientes, and Dr. Sofía Núñez follows up on lab results personally.
+
+Review 9 for Dr. Sofía Núñez, General, Buenos Aires
+Rating: 6/10
+Clinic visited: Instituto Médico Corrientes
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Sofía Núñez, General, Buenos Aires
+Rating: 8/10
+Clinic visited: Instituto Médico Corrientes
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 11 for Dr. Sofía Núñez, General, Buenos Aires
+Rating: 6/10
+Clinic visited: Instituto Médico Corrientes
+Description: Referrals from Dr. Sofía Núñez are handled well, but getting test results back took longer than I was told to expect. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Sofía Núñez, General, Buenos Aires: 7.27/10 from 11 reviews

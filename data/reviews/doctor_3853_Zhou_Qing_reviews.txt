@@ -1,0 +1,49 @@
+Doctor: Dr. Zhou Qing
+Doctor ID: 3853
+Specialization: Neurology
+Gender: Female
+Years of experience: 3
+City: Beijing, China
+Clinics: Fuchengmen Anhe Polyclinic (clinic ID 498)
+
+Review 1 for Dr. Zhou Qing, Neurology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: The neurological exam by Dr. Zhou Qing was thorough, with every reflex test and gait check explained as it happened. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Zhou Qing, Neurology, Beijing
+Rating: 10/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Clear and honest talk with Dr. Zhou Qing about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Review 3 for Dr. Zhou Qing, Neurology, Beijing
+Rating: 6/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Zhou Qing, Neurology, Beijing
+Rating: 10/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Living with multiple sclerosis feels less frightening because Dr. Zhou Qing explains and discusses every change in my plan.
+
+Review 5 for Dr. Zhou Qing, Neurology, Beijing
+Rating: 9/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Fuchengmen Anhe Polyclinic.
+
+Review 6 for Dr. Zhou Qing, Neurology, Beijing
+Rating: 7/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Dr. Zhou Qing was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Zhou Qing, Neurology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Zhou Qing, Neurology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: I always leave Dr. Zhou Qing's office with a short written summary of changes, which helps my family keep up. Dr. Zhou Qing looked me in the eye, listened to the whole story and only then started typing. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Zhou Qing, Neurology, Beijing: 8.25/10 from 8 reviews

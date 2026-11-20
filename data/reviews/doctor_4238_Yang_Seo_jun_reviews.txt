@@ -1,0 +1,59 @@
+Doctor: Dr. Yang Seo-jun
+Doctor ID: 4238
+Specialization: General
+Gender: Male
+Years of experience: 6
+City: Incheon, South Korea
+Clinics: Songdo Bitna Medical Clinic (clinic ID 545)
+
+Review 1 for Dr. Yang Seo-jun, General, Incheon
+Rating: 9/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: I went in with months of tiredness, and Dr. Yang Seo-jun ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 2 for Dr. Yang Seo-jun, General, Incheon
+Rating: 8/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 3 for Dr. Yang Seo-jun, General, Incheon
+Rating: 9/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Dr. Yang Seo-jun used a calm, steady voice that settled my nerves before a stressful procedure. My blood pressure had crept up and Dr. Yang Seo-jun walked me through diet changes before suggesting anything else. Three months later my readings were normal. Five stars from me, and I would book again tomorrow.
+
+Review 4 for Dr. Yang Seo-jun, General, Incheon
+Rating: 6/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Dr. Yang Seo-jun was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Yang Seo-jun, General, Incheon
+Rating: 10/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Getting to Songdo Bitna Medical Clinic from across Incheon was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 6 for Dr. Yang Seo-jun, General, Incheon
+Rating: 8/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Cholesterol results were explained by Dr. Yang Seo-jun with a simple chart, and we agreed on a plan I could realistically follow. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Yang Seo-jun, General, Incheon
+Rating: 9/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: My annual check-up with Dr. Yang Seo-jun took forty minutes, with every screening explained and nothing rushed. Booking online at Songdo Bitna Medical Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 8 for Dr. Yang Seo-jun, General, Incheon
+Rating: 10/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Managing my type 2 diabetes with Dr. Yang Seo-jun has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 9 for Dr. Yang Seo-jun, General, Incheon
+Rating: 6/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Quick appointment and a fair price in Incheon, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 10 for Dr. Yang Seo-jun, General, Incheon
+Rating: 8/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: As a new patient in Incheon, I felt welcomed at Songdo Bitna Medical Clinic, and my whole history was reviewed in one relaxed visit.
+
+Overall rating for Dr. Yang Seo-jun, General, Incheon: 8.30/10 from 10 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Percy Fernández
+Doctor ID: 896
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 10
+City: Arequipa, Peru
+Clinics: Policlínica Bustamante (clinic ID 118)
+
+Review 1 for Dr. Percy Fernández, Pediatrics, Arequipa
+Rating: 5/10
+Clinic visited: Policlínica Bustamante
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Percy Fernández, Pediatrics, Arequipa
+Rating: 5/10
+Clinic visited: Policlínica Bustamante
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Percy Fernández is thorough with exams, but the after-hours phone line at Policlínica Bustamante is hard to reach.
+
+Review 3 for Dr. Percy Fernández, Pediatrics, Arequipa
+Rating: 6/10
+Clinic visited: Policlínica Bustamante
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Percy Fernández, Pediatrics, Arequipa
+Rating: 7/10
+Clinic visited: Policlínica Bustamante
+Description: Dr. Percy Fernández was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Percy Fernández, Pediatrics, Arequipa
+Rating: 4/10
+Clinic visited: Policlínica Bustamante
+Description: I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why. I felt dismissed by Dr. Percy Fernández when I brought up a second concern, and was told to book another appointment for it.
+
+Review 6 for Dr. Percy Fernández, Pediatrics, Arequipa
+Rating: 8/10
+Clinic visited: Policlínica Bustamante
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 7 for Dr. Percy Fernández, Pediatrics, Arequipa
+Rating: 6/10
+Clinic visited: Policlínica Bustamante
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 8 for Dr. Percy Fernández, Pediatrics, Arequipa
+Rating: 9/10
+Clinic visited: Policlínica Bustamante
+Description: The growth chart review was detailed, and I appreciated that Dr. Percy Fernández talked to my child as well as to me. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Percy Fernández, Pediatrics, Arequipa: 6.25/10 from 8 reviews

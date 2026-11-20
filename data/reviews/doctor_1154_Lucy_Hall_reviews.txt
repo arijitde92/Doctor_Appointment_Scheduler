@@ -1,0 +1,59 @@
+Doctor: Dr. Lucy Hall
+Doctor ID: 1154
+Specialization: General
+Gender: Female
+Years of experience: 12
+City: Manchester, UK
+Clinics: Portland Health Centre (clinic ID 151)
+
+Review 1 for Dr. Lucy Hall, General, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Lucy Hall, General, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: Referrals from Dr. Lucy Hall are handled well, but getting test results back took longer than I was told to expect. Dr. Lucy Hall was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Lucy Hall, General, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 4 for Dr. Lucy Hall, General, Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Portland Health Centre were inconsistent. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Lucy Hall, General, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Lucy Hall, General, Manchester
+Rating: 9/10
+Clinic visited: Portland Health Centre
+Description: I went in with months of tiredness, and Dr. Lucy Hall ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 7 for Dr. Lucy Hall, General, Manchester
+Rating: 10/10
+Clinic visited: Portland Health Centre
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. As a new patient in Manchester, I felt welcomed at Portland Health Centre, and my whole history was reviewed in one relaxed visit.
+
+Review 8 for Dr. Lucy Hall, General, Manchester
+Rating: 10/10
+Clinic visited: Portland Health Centre
+Description: By the time I left the room, Dr. Lucy Hall had sorted the sick note, referral letter and prescription refill. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 9 for Dr. Lucy Hall, General, Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: Dr. Lucy Hall is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 10 for Dr. Lucy Hall, General, Manchester
+Rating: 10/10
+Clinic visited: Portland Health Centre
+Description: She was upfront about what could and could not be treated, and did not oversell any option. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Overall rating for Dr. Lucy Hall, General, Manchester: 7.90/10 from 10 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Mei Tremblay
+Doctor ID: 342
+Specialization: General
+Gender: Female
+Years of experience: 10
+City: Toronto, Canada
+Clinics: Etobicoke Care Clinic (clinic ID 48)
+
+Review 1 for Dr. Mei Tremblay, General, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: Dr. Mei Tremblay double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 2 for Dr. Mei Tremblay, General, Toronto
+Rating: 5/10
+Clinic visited: Etobicoke Care Clinic
+Description: Referrals from Dr. Mei Tremblay are handled well, but getting test results back took longer than I was told to expect. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 3 for Dr. Mei Tremblay, General, Toronto
+Rating: 9/10
+Clinic visited: Etobicoke Care Clinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. As a new patient in Toronto, I felt welcomed at Etobicoke Care Clinic, and my whole history was reviewed in one relaxed visit.
+
+Review 4 for Dr. Mei Tremblay, General, Toronto
+Rating: 6/10
+Clinic visited: Etobicoke Care Clinic
+Description: Dr. Mei Tremblay is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 5 for Dr. Mei Tremblay, General, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: Dr. Mei Tremblay spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 6 for Dr. Mei Tremblay, General, Toronto
+Rating: 6/10
+Clinic visited: Etobicoke Care Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Mei Tremblay, General, Toronto
+Rating: 9/10
+Clinic visited: Etobicoke Care Clinic
+Description: Getting to Etobicoke Care Clinic from across Toronto was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 8 for Dr. Mei Tremblay, General, Toronto
+Rating: 7/10
+Clinic visited: Etobicoke Care Clinic
+Description: Dr. Mei Tremblay was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 9 for Dr. Mei Tremblay, General, Toronto
+Rating: 7/10
+Clinic visited: Etobicoke Care Clinic
+Description: I liked the advice I got from Dr. Mei Tremblay, but I would have liked more time to ask follow-up questions before the visit ended. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Worth trying, but I would not call it the best option in the area.
+
+Review 10 for Dr. Mei Tremblay, General, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: Dr. Mei Tremblay looked me in the eye, listened to the whole story and only then started typing.
+
+Review 11 for Dr. Mei Tremblay, General, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. My annual check-up with Dr. Mei Tremblay took forty minutes, with every screening explained and nothing rushed.
+
+Review 12 for Dr. Mei Tremblay, General, Toronto
+Rating: 7/10
+Clinic visited: Etobicoke Care Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Mei Tremblay, General, Toronto: 7.33/10 from 12 reviews

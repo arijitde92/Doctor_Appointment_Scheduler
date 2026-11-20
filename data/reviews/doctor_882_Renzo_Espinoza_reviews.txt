@@ -1,0 +1,54 @@
+Doctor: Dr. Renzo Espinoza
+Doctor ID: 882
+Specialization: Cardiology
+Gender: Male
+Years of experience: 18
+City: Arequipa, Peru
+Clinics: Centro Médico Misti (clinic ID 116); Consultorios Médicos Parra (clinic ID 117); Policlínica Bustamante (clinic ID 118)
+
+Review 1 for Dr. Renzo Espinoza, Cardiology, Arequipa
+Rating: 10/10
+Clinic visited: Centro Médico Misti
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Renzo Espinoza, Cardiology, Arequipa
+Rating: 9/10
+Clinic visited: Centro Médico Misti
+Description: Honest about the risks and benefits of the procedure, Dr. Renzo Espinoza never pressured me toward surgery. My referral letter was written on the spot, and the specialist's office had my details before I called. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Renzo Espinoza, Cardiology, Arequipa
+Rating: 9/10
+Clinic visited: Policlínica Bustamante
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 4 for Dr. Renzo Espinoza, Cardiology, Arequipa
+Rating: 5/10
+Clinic visited: Policlínica Bustamante
+Description: Helpful with my cholesterol, Dr. Renzo Espinoza still gave dietary advice that was a little generic.
+
+Review 5 for Dr. Renzo Espinoza, Cardiology, Arequipa
+Rating: 10/10
+Clinic visited: Policlínica Bustamante
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 6 for Dr. Renzo Espinoza, Cardiology, Arequipa
+Rating: 9/10
+Clinic visited: Centro Médico Misti
+Description: My stress test was supervised carefully, and Dr. Renzo Espinoza reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 7 for Dr. Renzo Espinoza, Cardiology, Arequipa
+Rating: 10/10
+Clinic visited: Consultorios Médicos Parra
+Description: Booking online at Consultorios Médicos Parra was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 8 for Dr. Renzo Espinoza, Cardiology, Arequipa
+Rating: 10/10
+Clinic visited: Centro Médico Misti
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 9 for Dr. Renzo Espinoza, Cardiology, Arequipa
+Rating: 10/10
+Clinic visited: Centro Médico Misti
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. A translator was arranged for my mother without us asking twice, and Dr. Renzo Espinoza spoke directly to her throughout.
+
+Overall rating for Dr. Renzo Espinoza, Cardiology, Arequipa: 9.11/10 from 9 reviews

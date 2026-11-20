@@ -1,0 +1,59 @@
+Doctor: Dr. Elisabeth Hagen
+Doctor ID: 2049
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 4
+City: Stavanger, Norway
+Clinics: Medisinsk Senter Kongsgård (clinic ID 267)
+
+Review 1 for Dr. Elisabeth Hagen, Pediatrics, Stavanger
+Rating: 7/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Elisabeth Hagen, Pediatrics, Stavanger
+Rating: 8/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: The school physical at Medisinsk Senter Kongsgård was quick, thorough and the forms were completed on the spot.
+
+Review 3 for Dr. Elisabeth Hagen, Pediatrics, Stavanger
+Rating: 9/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 4 for Dr. Elisabeth Hagen, Pediatrics, Stavanger
+Rating: 9/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Elisabeth Hagen, Pediatrics, Stavanger
+Rating: 9/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: I came away understanding my condition better than I have in years of previous appointments. Kind to anxious parents, Dr. Elisabeth Hagen never showed a hint of impatience when I felt silly asking about a rash. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Elisabeth Hagen, Pediatrics, Stavanger
+Rating: 8/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: My teenager actually spoke up during the visit, and Dr. Elisabeth Hagen handled sensitive topics with respect. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Elisabeth Hagen, Pediatrics, Stavanger
+Rating: 7/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Elisabeth Hagen is thorough with exams, but the after-hours phone line at Medisinsk Senter Kongsgård is hard to reach.
+
+Review 8 for Dr. Elisabeth Hagen, Pediatrics, Stavanger
+Rating: 8/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Our family has been coming for years, and she remembers each child's history and personality.
+
+Review 9 for Dr. Elisabeth Hagen, Pediatrics, Stavanger
+Rating: 9/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Dr. Elisabeth Hagen drew a quick sketch to explain what was going on, which helped me remember it afterwards. Dr. Elisabeth Hagen noticed a speech delay early and referred us to a therapist, which has made a real difference. Five stars from me, and I would book again tomorrow.
+
+Review 10 for Dr. Elisabeth Hagen, Pediatrics, Stavanger
+Rating: 7/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Elisabeth Hagen, Pediatrics, Stavanger: 8.10/10 from 10 reviews

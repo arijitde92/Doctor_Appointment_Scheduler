@@ -1,0 +1,64 @@
+Doctor: Dr. Bui Giang
+Doctor ID: 5057
+Specialization: General
+Gender: Female
+Years of experience: 13
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Dong Duong (clinic ID 654)
+
+Review 1 for Dr. Bui Giang, General, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Dong Duong
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Bui Giang, General, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Dong Duong
+Description: A same-day slot was found for me at Phong Kham Dong Duong when I called with a worrying symptom. Managing my type 2 diabetes with Dr. Bui Giang has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 3 for Dr. Bui Giang, General, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Dong Duong
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. Sensitive questions were handled by Dr. Bui Giang with discretion and without a hint of judgment.
+
+Review 4 for Dr. Bui Giang, General, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Dong Duong
+Description: I always hear back within a day when I leave a question with the nurse at Phong Kham Dong Duong, and Dr. Bui Giang follows up on lab results personally.
+
+Review 5 for Dr. Bui Giang, General, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Dong Duong
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 6 for Dr. Bui Giang, General, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Dong Duong
+Description: Getting to Phong Kham Dong Duong from across Ho Chi Minh City was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 7 for Dr. Bui Giang, General, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Dong Duong
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 8 for Dr. Bui Giang, General, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Dong Duong
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 9 for Dr. Bui Giang, General, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Dong Duong
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 10 for Dr. Bui Giang, General, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Dong Duong
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Phong Kham Dong Duong were inconsistent. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 11 for Dr. Bui Giang, General, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Dong Duong
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Overall rating for Dr. Bui Giang, General, Ho Chi Minh City: 7.55/10 from 11 reviews

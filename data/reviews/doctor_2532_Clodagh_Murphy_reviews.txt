@@ -1,0 +1,54 @@
+Doctor: Dr. Clodagh Murphy
+Doctor ID: 2532
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 17
+City: Limerick, Ireland
+Clinics: Castletroy Family Clinic (clinic ID 331); Henry Street Health Centre (clinic ID 332); Roxboro Road Wellbeing Clinic (clinic ID 334)
+
+Review 1 for Dr. Clodagh Murphy, Psychiatry, Limerick
+Rating: 7/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: Dr. Clodagh Murphy was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Clodagh Murphy, Psychiatry, Limerick
+Rating: 8/10
+Clinic visited: Henry Street Health Centre
+Description: Dr. Clodagh Murphy used a calm, steady voice that settled my nerves before a stressful procedure. Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Clodagh Murphy, Psychiatry, Limerick
+Rating: 6/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Clodagh Murphy, Psychiatry, Limerick
+Rating: 9/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: Appointments in Limerick are always on schedule, and the waiting area is peaceful and private. Dr. Clodagh Murphy double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Clodagh Murphy, Psychiatry, Limerick
+Rating: 7/10
+Clinic visited: Castletroy Family Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Castletroy Family Clinic. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 6 for Dr. Clodagh Murphy, Psychiatry, Limerick
+Rating: 6/10
+Clinic visited: Henry Street Health Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Helpful diagnosis, though the billing for my first long assessment was confusing. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Clodagh Murphy, Psychiatry, Limerick
+Rating: 9/10
+Clinic visited: Castletroy Family Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 8 for Dr. Clodagh Murphy, Psychiatry, Limerick
+Rating: 6/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: Good listener, yet the refill process at Roxboro Road Wellbeing Clinic is slow and requires several phone calls. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Clodagh Murphy, Psychiatry, Limerick
+Rating: 5/10
+Clinic visited: Henry Street Health Centre
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Quick appointment and a fair price in Limerick, but the staff seemed overwhelmed and a bit curt on the phone. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Clodagh Murphy, Psychiatry, Limerick: 7.00/10 from 9 reviews

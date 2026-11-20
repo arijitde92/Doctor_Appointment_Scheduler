@@ -1,0 +1,69 @@
+Doctor: Dr. Elena Egorova
+Doctor ID: 3711
+Specialization: Radiology
+Gender: Female
+Years of experience: 1
+City: Kazan, Russia
+Clinics: Klinika Dostoevsky Street (clinic ID 479)
+
+Review 1 for Dr. Elena Egorova, Radiology, Kazan
+Rating: 10/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 2 for Dr. Elena Egorova, Radiology, Kazan
+Rating: 9/10
+Clinic visited: Klinika Dostoevsky Street
+Description: I appreciated that she offered more than one option and let me choose what suited my life. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Elena Egorova, Radiology, Kazan
+Rating: 8/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Reviewing my X-ray together with Dr. Elena Egorova on the screen made it much easier to understand my arthritis. Everything was explained in plain English by Dr. Elena Egorova, and nothing was left to guess.
+
+Review 4 for Dr. Elena Egorova, Radiology, Kazan
+Rating: 7/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Quick appointment and a fair price in Kazan, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 5 for Dr. Elena Egorova, Radiology, Kazan
+Rating: 10/10
+Clinic visited: Klinika Dostoevsky Street
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 6 for Dr. Elena Egorova, Radiology, Kazan
+Rating: 8/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. She called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 7 for Dr. Elena Egorova, Radiology, Kazan
+Rating: 10/10
+Clinic visited: Klinika Dostoevsky Street
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 8 for Dr. Elena Egorova, Radiology, Kazan
+Rating: 10/10
+Clinic visited: Klinika Dostoevsky Street
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Elena Egorova were respectful throughout. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Elena Egorova, Radiology, Kazan
+Rating: 8/10
+Clinic visited: Klinika Dostoevsky Street
+Description: My ultrasound was unhurried, and Dr. Elena Egorova took time to show me the images and explain what each measurement meant. The practice in Kazan is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 10 for Dr. Elena Egorova, Radiology, Kazan
+Rating: 10/10
+Clinic visited: Klinika Dostoevsky Street
+Description: I came away understanding my condition better than I have in years of previous appointments. Fast, clean and professional; the bone density scan with Dr. Elena Egorova was painless and the results were explained clearly. I have no hesitation sending my own relatives here.
+
+Review 11 for Dr. Elena Egorova, Radiology, Kazan
+Rating: 8/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Dr. Elena Egorova drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 12 for Dr. Elena Egorova, Radiology, Kazan
+Rating: 7/10
+Clinic visited: Klinika Dostoevsky Street
+Description: I liked the advice I got from Dr. Elena Egorova, but I would have liked more time to ask follow-up questions before the visit ended. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Overall rating for Dr. Elena Egorova, Radiology, Kazan: 8.75/10 from 12 reviews

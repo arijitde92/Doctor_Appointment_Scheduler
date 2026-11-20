@@ -1,0 +1,54 @@
+Doctor: Dr. Mark O'Connor
+Doctor ID: 2425
+Specialization: Pathology
+Gender: Male
+Years of experience: 2
+City: Cork, Ireland
+Clinics: South Mall Health Centre (clinic ID 317)
+
+Review 1 for Dr. Mark O'Connor, Pathology, Cork
+Rating: 6/10
+Clinic visited: South Mall Health Centre
+Description: Helpful in clarifying a borderline result, though Dr. Mark O'Connor gave little guidance about whether to repeat it.
+
+Review 2 for Dr. Mark O'Connor, Pathology, Cork
+Rating: 5/10
+Clinic visited: South Mall Health Centre
+Description: Quick appointment and a fair price in Cork, but the staff seemed overwhelmed and a bit curt on the phone. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 3 for Dr. Mark O'Connor, Pathology, Cork
+Rating: 4/10
+Clinic visited: South Mall Health Centre
+Description: The report was handed over by Dr. Mark O'Connor with no explanation, and I left frightened and confused about the terminology. The clinic never returned my call about my test results, and I had to chase them for over a week. I will not be returning and have already started looking for another doctor.
+
+Review 4 for Dr. Mark O'Connor, Pathology, Cork
+Rating: 5/10
+Clinic visited: South Mall Health Centre
+Description: The blood draw was painless, but the waiting area at South Mall Health Centre was crowded in the early morning.
+
+Review 5 for Dr. Mark O'Connor, Pathology, Cork
+Rating: 6/10
+Clinic visited: South Mall Health Centre
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 6 for Dr. Mark O'Connor, Pathology, Cork
+Rating: 6/10
+Clinic visited: South Mall Health Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Mark O'Connor, Pathology, Cork
+Rating: 5/10
+Clinic visited: South Mall Health Centre
+Description: Dr. Mark O'Connor answered my questions kindly, though the call back took three days. The treatment plan from Dr. Mark O'Connor made sense, but I wished it had been written down for me to take away. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Mark O'Connor, Pathology, Cork
+Rating: 7/10
+Clinic visited: South Mall Health Centre
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Mark O'Connor, Pathology, Cork
+Rating: 4/10
+Clinic visited: South Mall Health Centre
+Description: The staff were curt and impatient when I asked how to read the reference ranges on my report. I felt dismissed by Dr. Mark O'Connor when I brought up a second concern, and was told to book another appointment for it. After this experience I am looking for a new doctor who will take time to listen.
+
+Overall rating for Dr. Mark O'Connor, Pathology, Cork: 5.33/10 from 9 reviews

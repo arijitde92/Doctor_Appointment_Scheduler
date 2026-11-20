@@ -1,0 +1,54 @@
+Doctor: Dr. Kristian Jakobsen
+Doctor ID: 2336
+Specialization: Radiology
+Gender: Male
+Years of experience: 7
+City: Copenhagen, Denmark
+Clinics: Lægehuset Vesterbro Plus (clinic ID 305); Klinik Frederiksborg Center (clinic ID 309)
+
+Review 1 for Dr. Kristian Jakobsen, Radiology, Copenhagen
+Rating: 3/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: The staff seemed rushed and impatient with an elderly patient who needed help changing. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 2 for Dr. Kristian Jakobsen, Radiology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: Dr. Kristian Jakobsen answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Clear explanations, but the follow-up call took a week longer than I had been told. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Kristian Jakobsen, Radiology, Copenhagen
+Rating: 6/10
+Clinic visited: Klinik Frederiksborg Center
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Dr. Kristian Jakobsen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Kristian Jakobsen, Radiology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 5 for Dr. Kristian Jakobsen, Radiology, Copenhagen
+Rating: 3/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. I waited two weeks for a report from Dr. Kristian Jakobsen and had to call three times before anyone could tell me the result. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 6 for Dr. Kristian Jakobsen, Radiology, Copenhagen
+Rating: 5/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Kristian Jakobsen, Radiology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. The report from Dr. Kristian Jakobsen was thorough, though full of technical terms that needed my regular doctor to translate. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Kristian Jakobsen, Radiology, Copenhagen
+Rating: 7/10
+Clinic visited: Klinik Frederiksborg Center
+Description: Quick appointment and a fair price in Copenhagen, but the staff seemed overwhelmed and a bit curt on the phone. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Kristian Jakobsen, Radiology, Copenhagen
+Rating: 6/10
+Clinic visited: Klinik Frederiksborg Center
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Overall rating for Dr. Kristian Jakobsen, Radiology, Copenhagen: 5.67/10 from 9 reviews

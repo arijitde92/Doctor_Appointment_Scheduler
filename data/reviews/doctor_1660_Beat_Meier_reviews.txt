@@ -1,0 +1,49 @@
+Doctor: Dr. Beat Meier
+Doctor ID: 1660
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 21
+City: Basel, Switzerland
+Clinics: Gesundheitszentrum Clara (clinic ID 217)
+
+Review 1 for Dr. Beat Meier, Pulmonology, Basel
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Booking was easy online, but the confirmation email contained the wrong address for Gesundheitszentrum Clara.
+
+Review 2 for Dr. Beat Meier, Pulmonology, Basel
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Clara
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found. I called twice about worsening symptoms and no one returned my message until the following week.
+
+Review 3 for Dr. Beat Meier, Pulmonology, Basel
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 4 for Dr. Beat Meier, Pulmonology, Basel
+Rating: 2/10
+Clinic visited: Gesundheitszentrum Clara
+Description: I was told to just keep using my inhaler and nobody checked whether I was using it properly.
+
+Review 5 for Dr. Beat Meier, Pulmonology, Basel
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Clara
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Beat Meier, Pulmonology, Basel
+Rating: 2/10
+Clinic visited: Gesundheitszentrum Clara
+Description: My persistent cough was labelled as allergies by Dr. Beat Meier without any chest examination or breathing test. There was no translator available, and my parent was left unable to follow what was being said. I left disappointed and will take my business to another clinic.
+
+Review 7 for Dr. Beat Meier, Pulmonology, Basel
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Clara
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Pleasant manner and careful lung exam, though the waiting time at Gesundheitszentrum Clara regularly exceeded forty minutes.
+
+Review 8 for Dr. Beat Meier, Pulmonology, Basel
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Clara
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Quick appointment and a fair price in Basel, but the staff seemed overwhelmed and a bit curt on the phone. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Beat Meier, Pulmonology, Basel: 4.50/10 from 8 reviews

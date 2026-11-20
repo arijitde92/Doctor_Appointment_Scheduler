@@ -1,0 +1,54 @@
+Doctor: Dr. Ana García
+Doctor ID: 980
+Specialization: Neurology
+Gender: Female
+Years of experience: 2
+City: Lima, Peru
+Clinics: Consultorios Médicos Arequipa (clinic ID 128)
+
+Review 1 for Dr. Ana García, Neurology, Lima
+Rating: 9/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: Dr. Ana García looked me in the eye, listened to the whole story and only then started typing. My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 2 for Dr. Ana García, Neurology, Lima
+Rating: 5/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Ana García, Neurology, Lima
+Rating: 10/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: After years of migraines, Dr. Ana García built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. At my visit, Dr. Ana García took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 4 for Dr. Ana García, Neurology, Lima
+Rating: 8/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Ana García, Neurology, Lima
+Rating: 9/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: She coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 6 for Dr. Ana García, Neurology, Lima
+Rating: 9/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. The memory assessment for my father at Consultorios Médicos Arequipa was gentle and respectful, and the family received a clear written summary. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Ana García, Neurology, Lima
+Rating: 8/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. My tremor was assessed carefully and the explanation of the options was balanced and unhurried.
+
+Review 8 for Dr. Ana García, Neurology, Lima
+Rating: 5/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: Booking was easy online, but the confirmation email contained the wrong address for Consultorios Médicos Arequipa. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Ana García, Neurology, Lima
+Rating: 9/10
+Clinic visited: Consultorios Médicos Arequipa
+Description: The EEG appointment ran on time, and Dr. Ana García reviewed the tracing with me the same week. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Overall rating for Dr. Ana García, Neurology, Lima: 8.00/10 from 9 reviews

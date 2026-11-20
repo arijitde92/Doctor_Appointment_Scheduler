@@ -1,0 +1,49 @@
+Doctor: Dr. Silvia Vázquez Iglesias
+Doctor ID: 1416
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 4
+City: Seville, Spain
+Clinics: Clínica Giralda (clinic ID 185); Policlínica Triana (clinic ID 187)
+
+Review 1 for Dr. Silvia Vázquez Iglesias, Pulmonology, Seville
+Rating: 7/10
+Clinic visited: Policlínica Triana
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 2 for Dr. Silvia Vázquez Iglesias, Pulmonology, Seville
+Rating: 7/10
+Clinic visited: Clínica Giralda
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Silvia Vázquez Iglesias, Pulmonology, Seville
+Rating: 10/10
+Clinic visited: Clínica Giralda
+Description: I was called in within five minutes of my appointment time at Clínica Giralda, which is rare and much appreciated. The spirometry test was explained step by step, and Dr. Silvia Vázquez Iglesias put the results in context with a clear picture of my lung function.
+
+Review 4 for Dr. Silvia Vázquez Iglesias, Pulmonology, Seville
+Rating: 6/10
+Clinic visited: Policlínica Triana
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 5 for Dr. Silvia Vázquez Iglesias, Pulmonology, Seville
+Rating: 9/10
+Clinic visited: Policlínica Triana
+Description: The waiting room at Policlínica Triana was clean, quiet and comfortable, with enough seating and water available. Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 6 for Dr. Silvia Vázquez Iglesias, Pulmonology, Seville
+Rating: 8/10
+Clinic visited: Clínica Giralda
+Description: My oxygen levels are monitored carefully at Clínica Giralda, and the home equipment was arranged without any hassle.
+
+Review 7 for Dr. Silvia Vázquez Iglesias, Pulmonology, Seville
+Rating: 9/10
+Clinic visited: Policlínica Triana
+Description: Paperwork at Policlínica Triana was kept to a minimum, and the staff helped me complete the insurance form. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 8 for Dr. Silvia Vázquez Iglesias, Pulmonology, Seville
+Rating: 6/10
+Clinic visited: Policlínica Triana
+Description: Dr. Silvia Vázquez Iglesias adjusted my asthma medication well, but the breathing test appointment was a month away. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Silvia Vázquez Iglesias, Pulmonology, Seville: 7.75/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Dirk Wouters
+Doctor ID: 3143
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 20
+City: Ghent, Belgium
+Clinics: Gezondheidscentrum Ledeberg (clinic ID 408)
+
+Review 1 for Dr. Dirk Wouters, Orthopedic, Ghent
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Sensitive questions were handled by Dr. Dirk Wouters with discretion and without a hint of judgment. Follow-up scans were compared with the earlier ones, and Dr. Dirk Wouters showed me how the bone had healed.
+
+Review 2 for Dr. Dirk Wouters, Orthopedic, Ghent
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Dr. Dirk Wouters explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 3 for Dr. Dirk Wouters, Orthopedic, Ghent
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: I came away understanding my condition better than I have in years of previous appointments. Plain, honest advice from Dr. Dirk Wouters for my arthritis, including which exercises to avoid and which would help.
+
+Review 4 for Dr. Dirk Wouters, Orthopedic, Ghent
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 5 for Dr. Dirk Wouters, Orthopedic, Ghent
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Dr. Dirk Wouters used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 6 for Dr. Dirk Wouters, Orthopedic, Ghent
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Getting around Ghent on crutches was hard, but the accessible entrance and short waiting time at Gezondheidscentrum Ledeberg helped a lot. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Dirk Wouters, Orthopedic, Ghent
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. I got what I needed, but the next available appointment was three weeks away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Dirk Wouters, Orthopedic, Ghent
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Overall rating for Dr. Dirk Wouters, Orthopedic, Ghent: 7.50/10 from 8 reviews

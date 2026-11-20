@@ -1,0 +1,54 @@
+Doctor: Dr. Pavlo Tkachenko
+Doctor ID: 3588
+Specialization: Neurology
+Gender: Male
+Years of experience: 7
+City: Kyiv, Ukraine
+Clinics: Klinika Sofiivska Dobrota (clinic ID 464)
+
+Review 1 for Dr. Pavlo Tkachenko, Neurology, Kyiv
+Rating: 6/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Dr. Pavlo Tkachenko explained my results well, although the visit felt short for such a complex condition. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Pavlo Tkachenko, Neurology, Kyiv
+Rating: 10/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: The receptionist at Klinika Sofiivska Dobrota remembered my name and had my forms ready, so check-in took less than a minute. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Pavlo Tkachenko, Neurology, Kyiv
+Rating: 10/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: I always leave Dr. Pavlo Tkachenko's office with a short written summary of changes, which helps my family keep up. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 4 for Dr. Pavlo Tkachenko, Neurology, Kyiv
+Rating: 8/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 5 for Dr. Pavlo Tkachenko, Neurology, Kyiv
+Rating: 9/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 6 for Dr. Pavlo Tkachenko, Neurology, Kyiv
+Rating: 8/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 7 for Dr. Pavlo Tkachenko, Neurology, Kyiv
+Rating: 8/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Clear and honest talk with Dr. Pavlo Tkachenko about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Review 8 for Dr. Pavlo Tkachenko, Neurology, Kyiv
+Rating: 8/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. He patiently explained my MRI findings and calmed my worries about memory problems.
+
+Review 9 for Dr. Pavlo Tkachenko, Neurology, Kyiv
+Rating: 8/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Pavlo Tkachenko, Neurology, Kyiv: 8.33/10 from 9 reviews

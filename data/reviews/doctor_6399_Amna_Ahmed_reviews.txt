@@ -1,0 +1,59 @@
+Doctor: Dr. Amna Ahmed
+Doctor ID: 6399
+Specialization: Pathology
+Gender: Female
+Years of experience: 23
+City: Lahore, Pakistan
+Clinics: Ravi Bank Medical Centre (clinic ID 829)
+
+Review 1 for Dr. Amna Ahmed, Pathology, Lahore
+Rating: 8/10
+Clinic visited: Ravi Bank Medical Centre
+Description: I was nervous about the biopsy result, and the call from Dr. Amna Ahmed was gentle, honest and unhurried. Dr. Amna Ahmed double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 2 for Dr. Amna Ahmed, Pathology, Lahore
+Rating: 8/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Fast turnaround at Ravi Bank Medical Centre on my thyroid panel, with results in my online account by the next morning. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 3 for Dr. Amna Ahmed, Pathology, Lahore
+Rating: 7/10
+Clinic visited: Ravi Bank Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 4 for Dr. Amna Ahmed, Pathology, Lahore
+Rating: 8/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Getting to Ravi Bank Medical Centre by public transport in Lahore was easy, and there is a step-free entrance for wheelchairs.
+
+Review 5 for Dr. Amna Ahmed, Pathology, Lahore
+Rating: 6/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Dr. Amna Ahmed answered my questions kindly, though the call back took three days. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Amna Ahmed, Pathology, Lahore
+Rating: 8/10
+Clinic visited: Ravi Bank Medical Centre
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. I was called in within five minutes of my appointment time at Ravi Bank Medical Centre, which is rare and much appreciated.
+
+Review 7 for Dr. Amna Ahmed, Pathology, Lahore
+Rating: 9/10
+Clinic visited: Ravi Bank Medical Centre
+Description: The lab at Ravi Bank Medical Centre had a quick, friendly blood draw and the phlebotomist found my vein on the first try. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Amna Ahmed, Pathology, Lahore
+Rating: 9/10
+Clinic visited: Ravi Bank Medical Centre
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Review 9 for Dr. Amna Ahmed, Pathology, Lahore
+Rating: 6/10
+Clinic visited: Ravi Bank Medical Centre
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 10 for Dr. Amna Ahmed, Pathology, Lahore
+Rating: 9/10
+Clinic visited: Ravi Bank Medical Centre
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. Allergy panel results were explained in detail by Dr. Amna Ahmed, with a note on which results mattered clinically and which did not.
+
+Overall rating for Dr. Amna Ahmed, Pathology, Lahore: 7.80/10 from 10 reviews

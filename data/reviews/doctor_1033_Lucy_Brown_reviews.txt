@@ -1,0 +1,64 @@
+Doctor: Dr. Lucy Brown
+Doctor ID: 1033
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 5
+City: Bristol, UK
+Clinics: Whiteladies Road Health Centre (clinic ID 135); Gloucester Road Family Clinic (clinic ID 137); Broad Street Polyclinic (clinic ID 138)
+
+Review 1 for Dr. Lucy Brown, Psychiatry, Bristol
+Rating: 8/10
+Clinic visited: Whiteladies Road Health Centre
+Description: My depression finally has a treatment plan from Dr. Lucy Brown that works, with regular check-ins and careful dose changes. Paperwork at Whiteladies Road Health Centre was kept to a minimum, and the staff helped me complete the insurance form. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Lucy Brown, Psychiatry, Bristol
+Rating: 6/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Good bedside manner from Dr. Lucy Brown, but the parking near Whiteladies Road Health Centre is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Lucy Brown, Psychiatry, Bristol
+Rating: 9/10
+Clinic visited: Broad Street Polyclinic
+Description: A same-day slot was found for me at Broad Street Polyclinic when I called with a worrying symptom.
+
+Review 4 for Dr. Lucy Brown, Psychiatry, Bristol
+Rating: 7/10
+Clinic visited: Broad Street Polyclinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Lucy Brown, Psychiatry, Bristol
+Rating: 8/10
+Clinic visited: Whiteladies Road Health Centre
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Lucy Brown felt well organized from start to finish. Telehealth follow-ups at Whiteladies Road Health Centre are punctual and calm, and refills are dealt with quickly.
+
+Review 6 for Dr. Lucy Brown, Psychiatry, Bristol
+Rating: 5/10
+Clinic visited: Broad Street Polyclinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Lucy Brown, Psychiatry, Bristol
+Rating: 6/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Dr. Lucy Brown is knowledgeable, though I waited several weeks for my first appointment. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Lucy Brown, Psychiatry, Bristol
+Rating: 7/10
+Clinic visited: Broad Street Polyclinic
+Description: Good listener, yet the refill process at Broad Street Polyclinic is slow and requires several phone calls.
+
+Review 9 for Dr. Lucy Brown, Psychiatry, Bristol
+Rating: 4/10
+Clinic visited: Broad Street Polyclinic
+Description: Dr. Lucy Brown seemed to focus on the paperwork, and I did not feel I could share what was really going on. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 10 for Dr. Lucy Brown, Psychiatry, Bristol
+Rating: 7/10
+Clinic visited: Gloucester Road Family Clinic
+Description: Dr. Lucy Brown was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I like the measured approach, but sometimes I wanted more discussion of non-medication options. I will give it one more visit before I decide whether to stay.
+
+Review 11 for Dr. Lucy Brown, Psychiatry, Bristol
+Rating: 8/10
+Clinic visited: Gloucester Road Family Clinic
+Description: Excellent at explaining how therapy and medication work together, and Dr. Lucy Brown coordinated with my counselor.
+
+Overall rating for Dr. Lucy Brown, Psychiatry, Bristol: 6.82/10 from 11 reviews

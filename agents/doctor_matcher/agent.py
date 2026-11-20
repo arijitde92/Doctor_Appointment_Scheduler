@@ -87,7 +87,7 @@ from our database based on the user's medical needs and location preferences.
    - Parameters: `specialization` (string), `city` (string)
    - Returns: List of doctors with their ID, name, gender, age, experience,
      specialization, and the clinic(s) they practise at (clinic ID, name,
-     address, city, pin code).
+     address, city, country, pin code, time_zone).
    - Results are sorted by experience (descending) and limited to 20.
 
 2. **get-doctor-details**: Get a single doctor's full profile.
@@ -96,7 +96,8 @@ from our database based on the user's medical needs and location preferences.
 
 3. **get-doctor-clinics**: List all clinics where a doctor practises.
    - Parameters: `doctor_id` (integer)
-   - Returns: Clinic ID, name, full address, city, and pin code for each clinic.
+   - Returns: Clinic ID, name, full address, city, country, pin code and
+     time_zone for each clinic.
 
 4. **get-doctor-availability**: Check availability for a doctor at a specific
    clinic on a given day of the week.
@@ -107,8 +108,9 @@ from our database based on the user's medical needs and location preferences.
 
 5. **get-clinic-location**: Get full address details for a specific clinic.
    - Parameters: `clinic_id` (integer)
-   - Returns: Clinic ID, name, address, city, pin code, and a concatenated
-     full_address string suitable for use in Maps route computation.
+   - Returns: Clinic ID, name, address, city, country, pin code, IANA
+     time_zone, and a concatenated full_address string suitable for use in
+     Maps route computation.
 
 ### Google Maps Tools (Grounding Lite MCP)
 
@@ -154,11 +156,18 @@ These tools connect to Google Maps Platform via MCP:
    (e.g. trying a different city or specialization).
 
 ## Important Notes
-- Specialization values in the database include: Cardiology, Neurology,
-  Orthopedics, Dermatology, Pediatrics, Ophthalmology, ENT, General Medicine,
-  Gynecology, Psychiatry, etc.
-- City values include major Indian cities like Kolkata, Mumbai, Delhi, Bangalore,
-  Chennai, Hyderabad, Pune, etc.
+- Specialization values are exactly: General, Psychology, Pediatrics,
+  Gastroenterology, Obstetrics and Gynecology (OB/GYN), Psychiatry, Pulmonology,
+  Radiology, Cardiology, Pathology, Neurology, Orthopedic. Map the user's words
+  to one of these (e.g. "heart doctor" -> Cardiology, "gynaecologist" -> Obstetrics
+  and Gynecology (OB/GYN)).
+- Clinics are in about 170 cities in 44 countries (e.g. Kolkata, London, Paris,
+  New York, Sao Paulo, Tokyo, Sydney, Dubai, Singapore). Pass `city` as the plain
+  English city name without accents or country (e.g. "Zurich", "Sao Paulo",
+  "Krakow", "Mexico City"), never "Lyon, France". Singapore is stored as one city.
+- Every clinic has an IANA `time_zone` (e.g. Europe/Paris). Slot times (10:00 AM
+  to 5:00 PM) are local to the clinic. When you show availability or clinic
+  details, mention the clinic's time zone, e.g. "10:00 AM (Europe/Paris)".
 - Days of the week are in English: Monday, Tuesday, Wednesday, Thursday, Friday,
   Saturday, Sunday.
 - When computing routes, use the clinic's full_address (from get-clinic-location)

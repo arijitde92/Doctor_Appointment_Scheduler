@@ -1,0 +1,49 @@
+Doctor: Dr. Imelda Bautista
+Doctor ID: 4817
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 30
+City: Davao City, Philippines
+Clinics: San Isidro Polyclinic (clinic ID 622); Kapitbahay Health Clinic (clinic ID 623)
+
+Review 1 for Dr. Imelda Bautista, Pediatrics, Davao City
+Rating: 7/10
+Clinic visited: Kapitbahay Health Clinic
+Description: Dr. Imelda Bautista is thorough with exams, but the after-hours phone line at Kapitbahay Health Clinic is hard to reach.
+
+Review 2 for Dr. Imelda Bautista, Pediatrics, Davao City
+Rating: 8/10
+Clinic visited: San Isidro Polyclinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 3 for Dr. Imelda Bautista, Pediatrics, Davao City
+Rating: 5/10
+Clinic visited: Kapitbahay Health Clinic
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Imelda Bautista, Pediatrics, Davao City
+Rating: 7/10
+Clinic visited: San Isidro Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Imelda Bautista, Pediatrics, Davao City
+Rating: 8/10
+Clinic visited: Kapitbahay Health Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Imelda Bautista felt well organized from start to finish.
+
+Review 6 for Dr. Imelda Bautista, Pediatrics, Davao City
+Rating: 5/10
+Clinic visited: San Isidro Polyclinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 7 for Dr. Imelda Bautista, Pediatrics, Davao City
+Rating: 9/10
+Clinic visited: Kapitbahay Health Clinic
+Description: The receptionist at Kapitbahay Health Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 8 for Dr. Imelda Bautista, Pediatrics, Davao City
+Rating: 6/10
+Clinic visited: Kapitbahay Health Clinic
+Description: Caring and gentle with my child, Dr. Imelda Bautista nonetheless ran forty minutes behind schedule at most appointments.
+
+Overall rating for Dr. Imelda Bautista, Pediatrics, Davao City: 6.88/10 from 8 reviews

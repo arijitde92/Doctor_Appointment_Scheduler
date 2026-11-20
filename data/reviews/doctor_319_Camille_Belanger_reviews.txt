@@ -1,0 +1,49 @@
+Doctor: Dr. Camille Bélanger
+Doctor ID: 319
+Specialization: Radiology
+Gender: Female
+Years of experience: 4
+City: Montreal, Canada
+Clinics: Clinique Médicale McGill Collège (clinic ID 44)
+
+Review 1 for Dr. Camille Bélanger, Radiology, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Camille Bélanger sent a clear report within a day.
+
+Review 2 for Dr. Camille Bélanger, Radiology, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 3 for Dr. Camille Bélanger, Radiology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 4 for Dr. Camille Bélanger, Radiology, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Reviewing my X-ray together with Dr. Camille Bélanger on the screen made it much easier to understand my arthritis.
+
+Review 5 for Dr. Camille Bélanger, Radiology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: The waiting room at Clinique Médicale McGill Collège was clean, quiet and comfortable, with enough seating and water available. Fast, clean and professional; the bone density scan with Dr. Camille Bélanger was painless and the results were explained clearly.
+
+Review 6 for Dr. Camille Bélanger, Radiology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Camille Bélanger, Radiology, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Images from Clinique Médicale McGill Collège were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. A translator was arranged for my mother without us asking twice, and Dr. Camille Bélanger spoke directly to her throughout.
+
+Review 8 for Dr. Camille Bélanger, Radiology, Montreal
+Rating: 10/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: The practice in Montreal is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Overall rating for Dr. Camille Bélanger, Radiology, Montreal: 8.75/10 from 8 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. George Jones
+Doctor ID: 1081
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 7
+City: Edinburgh, UK
+Clinics: Morningside Family Clinic (clinic ID 142)
+
+Review 1 for Dr. George Jones, Gastroenterology, Edinburgh
+Rating: 8/10
+Clinic visited: Morningside Family Clinic
+Description: I received a full summary letter from Morningside Family Clinic after my endoscopy, which my regular doctor found very useful. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 2 for Dr. George Jones, Gastroenterology, Edinburgh
+Rating: 9/10
+Clinic visited: Morningside Family Clinic
+Description: Dr. George Jones took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards.
+
+Review 3 for Dr. George Jones, Gastroenterology, Edinburgh
+Rating: 8/10
+Clinic visited: Morningside Family Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 4 for Dr. George Jones, Gastroenterology, Edinburgh
+Rating: 8/10
+Clinic visited: Morningside Family Clinic
+Description: He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 5 for Dr. George Jones, Gastroenterology, Edinburgh
+Rating: 9/10
+Clinic visited: Morningside Family Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps. The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. George Jones, Gastroenterology, Edinburgh
+Rating: 9/10
+Clinic visited: Morningside Family Clinic
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Review 7 for Dr. George Jones, Gastroenterology, Edinburgh
+Rating: 7/10
+Clinic visited: Morningside Family Clinic
+Description: Good bedside manner from Dr. George Jones, but the parking near Morningside Family Clinic is limited and I had to circle for fifteen minutes. Dr. George Jones is thorough, but I waited nearly two months to get the first available slot.
+
+Review 8 for Dr. George Jones, Gastroenterology, Edinburgh
+Rating: 8/10
+Clinic visited: Morningside Family Clinic
+Description: Clear explanation from Dr. George Jones of fatty liver and exactly which lifestyle changes would make a measurable difference. I was called in within five minutes of my appointment time at Morningside Family Clinic, which is rare and much appreciated.
+
+Review 9 for Dr. George Jones, Gastroenterology, Edinburgh
+Rating: 9/10
+Clinic visited: Morningside Family Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. A gentle, respectful manner from Dr. George Jones made a very awkward exam bearable, with every step explained before it happened.
+
+Review 10 for Dr. George Jones, Gastroenterology, Edinburgh
+Rating: 10/10
+Clinic visited: Morningside Family Clinic
+Description: I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 11 for Dr. George Jones, Gastroenterology, Edinburgh
+Rating: 7/10
+Clinic visited: Morningside Family Clinic
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. George Jones, Gastroenterology, Edinburgh: 8.36/10 from 11 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Abe Aya
+Doctor ID: 4029
+Specialization: General
+Gender: Female
+Years of experience: 17
+City: Osaka, Japan
+Clinics: Umeda Sora Medical Clinic (clinic ID 520); Namba Hinata Clinic (clinic ID 521)
+
+Review 1 for Dr. Abe Aya, General, Osaka
+Rating: 8/10
+Clinic visited: Namba Hinata Clinic
+Description: My blood pressure had crept up and Dr. Abe Aya walked me through diet changes before suggesting anything else. Three months later my readings were normal. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Abe Aya, General, Osaka
+Rating: 8/10
+Clinic visited: Namba Hinata Clinic
+Description: Cholesterol results were explained by Dr. Abe Aya with a simple chart, and we agreed on a plan I could realistically follow. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 3 for Dr. Abe Aya, General, Osaka
+Rating: 9/10
+Clinic visited: Namba Hinata Clinic
+Description: Vaccination advice from Dr. Abe Aya for my travel plans was thorough and specific to the countries I was visiting. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 4 for Dr. Abe Aya, General, Osaka
+Rating: 9/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: Everything was explained in plain English by Dr. Abe Aya, and nothing was left to guess.
+
+Review 5 for Dr. Abe Aya, General, Osaka
+Rating: 8/10
+Clinic visited: Namba Hinata Clinic
+Description: Getting to Namba Hinata Clinic from across Osaka was easy, and the same-week appointment saved me an urgent care trip. The nurse was friendly and efficient, and the whole visit with Dr. Abe Aya felt well organized from start to finish.
+
+Review 6 for Dr. Abe Aya, General, Osaka
+Rating: 8/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: I always hear back within a day when I leave a question with the nurse at Umeda Sora Medical Clinic, and Dr. Abe Aya follows up on lab results personally.
+
+Review 7 for Dr. Abe Aya, General, Osaka
+Rating: 10/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I went in with months of tiredness, and Dr. Abe Aya ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 8 for Dr. Abe Aya, General, Osaka
+Rating: 7/10
+Clinic visited: Namba Hinata Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I liked the advice I got from Dr. Abe Aya, but I would have liked more time to ask follow-up questions before the visit ended. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Abe Aya, General, Osaka
+Rating: 9/10
+Clinic visited: Namba Hinata Clinic
+Description: Dr. Abe Aya spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. Dr. Abe Aya used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 10 for Dr. Abe Aya, General, Osaka
+Rating: 7/10
+Clinic visited: Umeda Sora Medical Clinic
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Abe Aya, General, Osaka: 8.30/10 from 10 reviews

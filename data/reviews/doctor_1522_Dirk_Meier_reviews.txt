@@ -1,0 +1,54 @@
+Doctor: Dr. Dirk Meier
+Doctor ID: 1522
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 27
+City: Berlin, Germany
+Clinics: Ärztehaus Neukölln-Süd (clinic ID 198)
+
+Review 1 for Dr. Dirk Meier, Pediatrics, Berlin
+Rating: 10/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: The waiting room in Berlin has a play corner and separate seating for sick children, which I really valued. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. My whole family is switching over after seeing how good the care was.
+
+Review 2 for Dr. Dirk Meier, Pediatrics, Berlin
+Rating: 10/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Kind to anxious parents, Dr. Dirk Meier never showed a hint of impatience when I felt silly asking about a rash. My referral letter was written on the spot, and the specialist's office had my details before I called. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Dirk Meier, Pediatrics, Berlin
+Rating: 10/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: My child's asthma action plan from Dr. Dirk Meier was written out clearly so that school staff could follow it too. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 4 for Dr. Dirk Meier, Pediatrics, Berlin
+Rating: 9/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Dirk Meier, Pediatrics, Berlin
+Rating: 7/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Booking was easy online, but the confirmation email contained the wrong address for Ärztehaus Neukölln-Süd. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 6 for Dr. Dirk Meier, Pediatrics, Berlin
+Rating: 4/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 7 for Dr. Dirk Meier, Pediatrics, Berlin
+Rating: 7/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Dirk Meier is thorough with exams, but the after-hours phone line at Ärztehaus Neukölln-Süd is hard to reach.
+
+Review 8 for Dr. Dirk Meier, Pediatrics, Berlin
+Rating: 7/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Dirk Meier, Pediatrics, Berlin
+Rating: 6/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Caring and gentle with my child, Dr. Dirk Meier nonetheless ran forty minutes behind schedule at most appointments. The telehealth visit was convenient, though the connection dropped twice and we had to restart. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Dirk Meier, Pediatrics, Berlin: 7.78/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Andrea Hofmann
+Doctor ID: 1671
+Specialization: Cardiology
+Gender: Female
+Years of experience: 10
+City: Basel, Switzerland
+Clinics: Medizinisches Zentrum Gundeli (clinic ID 218); Hausarztpraxis Bahnhof Süd (clinic ID 219)
+
+Review 1 for Dr. Andrea Hofmann, Cardiology, Basel
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Andrea Hofmann, Cardiology, Basel
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 3 for Dr. Andrea Hofmann, Cardiology, Basel
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Andrea Hofmann, Cardiology, Basel
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: A same-day slot was found for me at Medizinisches Zentrum Gundeli when I called with a worrying symptom. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 5 for Dr. Andrea Hofmann, Cardiology, Basel
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Great care in the visit itself, but the billing for the tests at Medizinisches Zentrum Gundeli was confusing. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Andrea Hofmann, Cardiology, Basel
+Rating: 8/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: Clear and calm advice at Hausarztpraxis Bahnhof Süd about exercise after my stent, including a gradual written schedule. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Andrea Hofmann, Cardiology, Basel
+Rating: 8/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: Getting to Hausarztpraxis Bahnhof Süd by public transport in Basel was easy, and there is a step-free entrance for wheelchairs.
+
+Review 8 for Dr. Andrea Hofmann, Cardiology, Basel
+Rating: 9/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: Dr. Andrea Hofmann explained the difference between my statin options and let me weigh in on the choice. The waiting room at Hausarztpraxis Bahnhof Süd was clean, quiet and comfortable, with enough seating and water available.
+
+Overall rating for Dr. Andrea Hofmann, Cardiology, Basel: 7.75/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Vu Lan
+Doctor ID: 4949
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 14
+City: Da Nang, Vietnam
+Clinics: Phong Kham Thanh Binh (clinic ID 639)
+
+Review 1 for Dr. Vu Lan, Psychiatry, Da Nang
+Rating: 8/10
+Clinic visited: Phong Kham Thanh Binh
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. A same-day slot was found for me at Phong Kham Thanh Binh when I called with a worrying symptom. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Vu Lan, Psychiatry, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Thanh Binh
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Vu Lan, Psychiatry, Da Nang
+Rating: 8/10
+Clinic visited: Phong Kham Thanh Binh
+Description: Dr. Vu Lan took a full history before suggesting any medication and explained the likely side effects honestly. I felt like a person rather than a case number, and she asked about my life as well as my symptoms. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Vu Lan, Psychiatry, Da Nang
+Rating: 8/10
+Clinic visited: Phong Kham Thanh Binh
+Description: Appointments in Da Nang are always on schedule, and the waiting area is peaceful and private. Booking online at Phong Kham Thanh Binh was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 5 for Dr. Vu Lan, Psychiatry, Da Nang
+Rating: 5/10
+Clinic visited: Phong Kham Thanh Binh
+Description: Dr. Vu Lan was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Vu Lan, Psychiatry, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Thanh Binh
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Dr. Vu Lan was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Vu Lan, Psychiatry, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Thanh Binh
+Description: I liked the advice I got from Dr. Vu Lan, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Vu Lan, Psychiatry, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Thanh Binh
+Description: The treatment plan from Dr. Vu Lan made sense, but I wished it had been written down for me to take away.
+
+Review 9 for Dr. Vu Lan, Psychiatry, Da Nang
+Rating: 8/10
+Clinic visited: Phong Kham Thanh Binh
+Description: I felt heard by Dr. Vu Lan during a very hard time, and nobody rushed me out of the room.
+
+Review 10 for Dr. Vu Lan, Psychiatry, Da Nang
+Rating: 8/10
+Clinic visited: Phong Kham Thanh Binh
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Overall rating for Dr. Vu Lan, Psychiatry, Da Nang: 7.20/10 from 10 reviews

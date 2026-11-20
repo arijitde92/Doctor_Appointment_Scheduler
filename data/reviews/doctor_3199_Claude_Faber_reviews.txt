@@ -1,0 +1,49 @@
+Doctor: Dr. Claude Faber
+Doctor ID: 3199
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 5
+City: Differdange, Luxembourg
+Clinics: Cabinet Médical Differdange Centre (clinic ID 415)
+
+Review 1 for Dr. Claude Faber, Gastroenterology, Differdange
+Rating: 6/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Claude Faber, Gastroenterology, Differdange
+Rating: 6/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: Good bedside manner from Dr. Claude Faber, but the parking near Cabinet Médical Differdange Centre is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Claude Faber, Gastroenterology, Differdange
+Rating: 4/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: I was charged separately for several items that had been described as included in the procedure.
+
+Review 4 for Dr. Claude Faber, Gastroenterology, Differdange
+Rating: 5/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Claude Faber, Gastroenterology, Differdange
+Rating: 7/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Claude Faber, Gastroenterology, Differdange
+Rating: 4/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: Dr. Claude Faber spent very little time explaining the biopsy findings and I left worried and confused. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 7 for Dr. Claude Faber, Gastroenterology, Differdange
+Rating: 7/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 8 for Dr. Claude Faber, Gastroenterology, Differdange
+Rating: 5/10
+Clinic visited: Cabinet Médical Differdange Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Claude Faber, Gastroenterology, Differdange: 5.50/10 from 8 reviews

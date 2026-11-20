@@ -1,0 +1,49 @@
+Doctor: Dr. Anne Roux
+Doctor ID: 1220
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 4
+City: Lyon, France
+Clinics: Polyclinique de Gerland (clinic ID 159)
+
+Review 1 for Dr. Anne Roux, Psychiatry, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: Getting to Polyclinique de Gerland by public transport in Lyon was easy, and there is a step-free entrance for wheelchairs.
+
+Review 2 for Dr. Anne Roux, Psychiatry, Lyon
+Rating: 8/10
+Clinic visited: Polyclinique de Gerland
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. Paperwork at Polyclinique de Gerland was kept to a minimum, and the staff helped me complete the insurance form. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Anne Roux, Psychiatry, Lyon
+Rating: 8/10
+Clinic visited: Polyclinique de Gerland
+Description: Telehealth follow-ups at Polyclinique de Gerland are punctual and calm, and refills are dealt with quickly.
+
+Review 4 for Dr. Anne Roux, Psychiatry, Lyon
+Rating: 9/10
+Clinic visited: Polyclinique de Gerland
+Description: Dr. Anne Roux looked me in the eye, listened to the whole story and only then started typing.
+
+Review 5 for Dr. Anne Roux, Psychiatry, Lyon
+Rating: 8/10
+Clinic visited: Polyclinique de Gerland
+Description: At my visit, Dr. Anne Roux took notes on my medication list, checked for interactions and explained the changes simply. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Anne Roux, Psychiatry, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: I felt heard by Dr. Anne Roux during a very hard time, and nobody rushed me out of the room. Prescriptions from Dr. Anne Roux were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Anne Roux, Psychiatry, Lyon
+Rating: 9/10
+Clinic visited: Polyclinique de Gerland
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 8 for Dr. Anne Roux, Psychiatry, Lyon
+Rating: 9/10
+Clinic visited: Polyclinique de Gerland
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Overall rating for Dr. Anne Roux, Psychiatry, Lyon: 8.88/10 from 8 reviews

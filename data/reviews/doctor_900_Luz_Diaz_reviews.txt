@@ -1,0 +1,64 @@
+Doctor: Dr. Luz Díaz
+Doctor ID: 900
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 22
+City: Arequipa, Peru
+Clinics: Policlínica Bustamante (clinic ID 118)
+
+Review 1 for Dr. Luz Díaz, Gastroenterology, Arequipa
+Rating: 8/10
+Clinic visited: Policlínica Bustamante
+Description: Dr. Luz Díaz looked me in the eye, listened to the whole story and only then started typing. I was nervous about my screening, but the team at Policlínica Bustamante made me feel at ease, and I was home within hours.
+
+Review 2 for Dr. Luz Díaz, Gastroenterology, Arequipa
+Rating: 8/10
+Clinic visited: Policlínica Bustamante
+Description: Booking online at Policlínica Bustamante was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 3 for Dr. Luz Díaz, Gastroenterology, Arequipa
+Rating: 7/10
+Clinic visited: Policlínica Bustamante
+Description: Knowledgeable about my reflux, Dr. Luz Díaz still gave diet advice that felt generic and not tailored to my habits.
+
+Review 4 for Dr. Luz Díaz, Gastroenterology, Arequipa
+Rating: 7/10
+Clinic visited: Policlínica Bustamante
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Luz Díaz, Gastroenterology, Arequipa
+Rating: 6/10
+Clinic visited: Policlínica Bustamante
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Luz Díaz is thorough, but I waited nearly two months to get the first available slot. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Luz Díaz, Gastroenterology, Arequipa
+Rating: 10/10
+Clinic visited: Policlínica Bustamante
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Luz Díaz, Gastroenterology, Arequipa
+Rating: 7/10
+Clinic visited: Policlínica Bustamante
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 8 for Dr. Luz Díaz, Gastroenterology, Arequipa
+Rating: 6/10
+Clinic visited: Policlínica Bustamante
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Luz Díaz, Gastroenterology, Arequipa
+Rating: 8/10
+Clinic visited: Policlínica Bustamante
+Description: Getting to Policlínica Bustamante in Arequipa was simple, and the day-procedure unit was calm and efficient.
+
+Review 10 for Dr. Luz Díaz, Gastroenterology, Arequipa
+Rating: 8/10
+Clinic visited: Policlínica Bustamante
+Description: I received a full summary letter from Policlínica Bustamante after my endoscopy, which my regular doctor found very useful.
+
+Review 11 for Dr. Luz Díaz, Gastroenterology, Arequipa
+Rating: 9/10
+Clinic visited: Policlínica Bustamante
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Overall rating for Dr. Luz Díaz, Gastroenterology, Arequipa: 7.64/10 from 11 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Kevin Walsh
+Doctor ID: 2491
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 22
+City: Galway, Ireland
+Clinics: Eyre Square Health Practice (clinic ID 325); Salthill Family Clinic (clinic ID 326); Dominick Street Medical Centre (clinic ID 327)
+
+Review 1 for Dr. Kevin Walsh, Pediatrics, Galway
+Rating: 9/10
+Clinic visited: Dominick Street Medical Centre
+Description: The waiting room in Galway has a play corner and separate seating for sick children, which I really valued. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 2 for Dr. Kevin Walsh, Pediatrics, Galway
+Rating: 7/10
+Clinic visited: Dominick Street Medical Centre
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 3 for Dr. Kevin Walsh, Pediatrics, Galway
+Rating: 8/10
+Clinic visited: Salthill Family Clinic
+Description: Our newborn check-ups with Dr. Kevin Walsh were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Review 4 for Dr. Kevin Walsh, Pediatrics, Galway
+Rating: 10/10
+Clinic visited: Eyre Square Health Practice
+Description: My child's asthma action plan from Dr. Kevin Walsh was written out clearly so that school staff could follow it too. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Kevin Walsh, Pediatrics, Galway
+Rating: 7/10
+Clinic visited: Salthill Family Clinic
+Description: The treatment plan from Dr. Kevin Walsh made sense, but I wished it had been written down for me to take away. Dr. Kevin Walsh is thorough with exams, but the after-hours phone line at Salthill Family Clinic is hard to reach.
+
+Review 6 for Dr. Kevin Walsh, Pediatrics, Galway
+Rating: 7/10
+Clinic visited: Eyre Square Health Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Kevin Walsh, Pediatrics, Galway
+Rating: 7/10
+Clinic visited: Salthill Family Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 8 for Dr. Kevin Walsh, Pediatrics, Galway
+Rating: 8/10
+Clinic visited: Eyre Square Health Practice
+Description: Prescriptions from Dr. Kevin Walsh were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I phoned after hours about a fever and was called back within the hour with calm, sensible advice.
+
+Overall rating for Dr. Kevin Walsh, Pediatrics, Galway: 7.88/10 from 8 reviews

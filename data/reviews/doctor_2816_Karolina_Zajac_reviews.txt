@@ -1,0 +1,49 @@
+Doctor: Dr. Karolina Zając
+Doctor ID: 2816
+Specialization: General
+Gender: Female
+Years of experience: 23
+City: Warsaw, Poland
+Clinics: Gabinety Lekarskie Śródmieście (clinic ID 368)
+
+Review 1 for Dr. Karolina Zając, General, Warsaw
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Everything was explained in plain English by Dr. Karolina Zając, and nothing was left to guess. Best family doctor I have had; She treats the whole person and not just the symptom list.
+
+Review 2 for Dr. Karolina Zając, General, Warsaw
+Rating: 7/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Gabinety Lekarskie Śródmieście were inconsistent. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Karolina Zając, General, Warsaw
+Rating: 9/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Dr. Karolina Zając drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Karolina Zając, General, Warsaw
+Rating: 9/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Paperwork at Gabinety Lekarskie Śródmieście was kept to a minimum, and the staff helped me complete the insurance form. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Karolina Zając, General, Warsaw
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: I always hear back within a day when I leave a question with the nurse at Gabinety Lekarskie Śródmieście, and Dr. Karolina Zając follows up on lab results personally.
+
+Review 6 for Dr. Karolina Zając, General, Warsaw
+Rating: 10/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 7 for Dr. Karolina Zając, General, Warsaw
+Rating: 6/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Karolina Zając, General, Warsaw
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Getting to Gabinety Lekarskie Śródmieście from across Warsaw was easy, and the same-week appointment saved me an urgent care trip.
+
+Overall rating for Dr. Karolina Zając, General, Warsaw: 8.12/10 from 8 reviews

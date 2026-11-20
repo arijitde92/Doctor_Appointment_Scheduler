@@ -1,0 +1,69 @@
+Doctor: Dr. Jan Bakker
+Doctor ID: 2572
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 9
+City: Amsterdam, Netherlands
+Clinics: Medisch Centrum De Pijp (clinic ID 336)
+
+Review 1 for Dr. Jan Bakker, Psychiatry, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum De Pijp
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 2 for Dr. Jan Bakker, Psychiatry, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Dr. Jan Bakker took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 3 for Dr. Jan Bakker, Psychiatry, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. Dr. Jan Bakker drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Jan Bakker, Psychiatry, Amsterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum De Pijp
+Description: I can ring Medisch Centrum De Pijp with an urgent question and receive a thoughtful reply the same day.
+
+Review 5 for Dr. Jan Bakker, Psychiatry, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Telehealth follow-ups at Medisch Centrum De Pijp are punctual and calm, and refills are dealt with quickly. Prescriptions from Dr. Jan Bakker were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 6 for Dr. Jan Bakker, Psychiatry, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Appointments in Amsterdam are always on schedule, and the waiting area is peaceful and private. I was called in within five minutes of my appointment time at Medisch Centrum De Pijp, which is rare and much appreciated.
+
+Review 7 for Dr. Jan Bakker, Psychiatry, Amsterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum De Pijp
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 8 for Dr. Jan Bakker, Psychiatry, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. Sensitive questions were handled by Dr. Jan Bakker with discretion and without a hint of judgment.
+
+Review 9 for Dr. Jan Bakker, Psychiatry, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: My depression finally has a treatment plan from Dr. Jan Bakker that works, with regular check-ins and careful dose changes. I have no hesitation sending my own relatives here.
+
+Review 10 for Dr. Jan Bakker, Psychiatry, Amsterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum De Pijp
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 11 for Dr. Jan Bakker, Psychiatry, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum De Pijp
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. Never once did I feel rushed, even though the clinic was clearly busy that morning. I would happily recommend this doctor to friends and family.
+
+Review 12 for Dr. Jan Bakker, Psychiatry, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Never once did Dr. Jan Bakker make me feel weak for asking for help, and the stigma I carried really began to ease. I asked about the cost before the visit and received an honest estimate that matched the final bill. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Jan Bakker, Psychiatry, Amsterdam: 8.67/10 from 12 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Parveen Howlader
+Doctor ID: 5490
+Specialization: Pathology
+Gender: Female
+Years of experience: 13
+City: Sylhet, Bangladesh
+Clinics: Surma Valley Medical Centre (clinic ID 710); Shahjalal Road Care Clinic (clinic ID 714)
+
+Review 1 for Dr. Parveen Howlader, Pathology, Sylhet
+Rating: 9/10
+Clinic visited: Surma Valley Medical Centre
+Description: I came away understanding my condition better than I have in years of previous appointments. The lab at Surma Valley Medical Centre had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 2 for Dr. Parveen Howlader, Pathology, Sylhet
+Rating: 4/10
+Clinic visited: Shahjalal Road Care Clinic
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 3 for Dr. Parveen Howlader, Pathology, Sylhet
+Rating: 6/10
+Clinic visited: Surma Valley Medical Centre
+Description: Dr. Parveen Howlader answered my questions kindly, though the call back took three days. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 4 for Dr. Parveen Howlader, Pathology, Sylhet
+Rating: 7/10
+Clinic visited: Shahjalal Road Care Clinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Parveen Howlader, Pathology, Sylhet
+Rating: 3/10
+Clinic visited: Surma Valley Medical Centre
+Description: There was no translator available, and my parent was left unable to follow what was being said. The report was handed over by Dr. Parveen Howlader with no explanation, and I left frightened and confused about the terminology.
+
+Review 6 for Dr. Parveen Howlader, Pathology, Sylhet
+Rating: 8/10
+Clinic visited: Shahjalal Road Care Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 7 for Dr. Parveen Howlader, Pathology, Sylhet
+Rating: 7/10
+Clinic visited: Shahjalal Road Care Clinic
+Description: The treatment plan from Dr. Parveen Howlader made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Parveen Howlader, Pathology, Sylhet
+Rating: 7/10
+Clinic visited: Shahjalal Road Care Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I liked the advice I got from Dr. Parveen Howlader, but I would have liked more time to ask follow-up questions before the visit ended. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Parveen Howlader, Pathology, Sylhet
+Rating: 7/10
+Clinic visited: Surma Valley Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Parveen Howlader, Pathology, Sylhet
+Rating: 5/10
+Clinic visited: Surma Valley Medical Centre
+Description: The blood draw was painless, but the waiting area at Surma Valley Medical Centre was crowded in the early morning. Booking was easy online, but the confirmation email contained the wrong address for Surma Valley Medical Centre.
+
+Overall rating for Dr. Parveen Howlader, Pathology, Sylhet: 6.30/10 from 10 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Ricardo Ribeiro
+Doctor ID: 669
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 7
+City: Rio de Janeiro, Brazil
+Clinics: Centro de Saúde Tijuca Vida (clinic ID 89)
+
+Review 1 for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro
+Rating: 9/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: The ADHD assessment by Dr. Ricardo Ribeiro was careful and detailed, with clear written conclusions and realistic expectations. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro
+Rating: 5/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 5 for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Good listener, yet the refill process at Centro de Saúde Tijuca Vida is slow and requires several phone calls. Quick appointment and a fair price in Rio de Janeiro, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro
+Rating: 5/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Dr. Ricardo Ribeiro was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro
+Rating: 5/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The treatment plan from Dr. Ricardo Ribeiro made sense, but I wished it had been written down for me to take away.
+
+Review 9 for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro
+Rating: 5/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Dr. Ricardo Ribeiro is knowledgeable, though I waited several weeks for my first appointment. I got what I needed, but the next available appointment was three weeks away.
+
+Review 10 for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 11 for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Good bedside manner from Dr. Ricardo Ribeiro, but the parking near Centro de Saúde Tijuca Vida is limited and I had to circle for fifteen minutes.
+
+Review 12 for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro
+Rating: 2/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: The visit felt rushed, and Dr. Ricardo Ribeiro was already halfway out the door when I started to describe my second symptom. My concerns about how I felt on the dose were waved away rather than explored.
+
+Overall rating for Dr. Ricardo Ribeiro, Psychiatry, Rio de Janeiro: 5.83/10 from 12 reviews

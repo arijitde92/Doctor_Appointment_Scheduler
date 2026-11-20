@@ -1,0 +1,59 @@
+Doctor: Dr. Kwon Ha-eun
+Doctor ID: 4203
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 5
+City: Daegu, South Korea
+Clinics: Suseong Namu Family Clinic (clinic ID 541); Chilgok Sori Medical Clinic (clinic ID 544)
+
+Review 1 for Dr. Kwon Ha-eun, Gastroenterology, Daegu
+Rating: 8/10
+Clinic visited: Suseong Namu Family Clinic
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 2 for Dr. Kwon Ha-eun, Gastroenterology, Daegu
+Rating: 9/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: A gentle, respectful manner from Dr. Kwon Ha-eun made a very awkward exam bearable, with every step explained before it happened. Paperwork at Chilgok Sori Medical Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 3 for Dr. Kwon Ha-eun, Gastroenterology, Daegu
+Rating: 10/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Dr. Kwon Ha-eun drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Kwon Ha-eun, Gastroenterology, Daegu
+Rating: 7/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Kwon Ha-eun, Gastroenterology, Daegu
+Rating: 8/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: Dr. Kwon Ha-eun looked me in the eye, listened to the whole story and only then started typing. Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Review 6 for Dr. Kwon Ha-eun, Gastroenterology, Daegu
+Rating: 6/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: Dr. Kwon Ha-eun was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 7 for Dr. Kwon Ha-eun, Gastroenterology, Daegu
+Rating: 5/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Dr. Kwon Ha-eun is thorough, but I waited nearly two months to get the first available slot. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Kwon Ha-eun, Gastroenterology, Daegu
+Rating: 6/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Suseong Namu Family Clinic. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Kwon Ha-eun, Gastroenterology, Daegu
+Rating: 7/10
+Clinic visited: Suseong Namu Family Clinic
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 10 for Dr. Kwon Ha-eun, Gastroenterology, Daegu
+Rating: 7/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Overall rating for Dr. Kwon Ha-eun, Gastroenterology, Daegu: 7.30/10 from 10 reviews

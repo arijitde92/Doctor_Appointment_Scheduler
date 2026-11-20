@@ -1,0 +1,59 @@
+Doctor: Dr. Mattias Lindberg
+Doctor ID: 2194
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 10
+City: Stockholm, Sweden
+Clinics: Läkarhuset Götgatan (clinic ID 286)
+
+Review 1 for Dr. Mattias Lindberg, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 8/10
+Clinic visited: Läkarhuset Götgatan
+Description: He spoke calmly during a stressful labor, and I felt safe and informed at every point.
+
+Review 2 for Dr. Mattias Lindberg, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 7/10
+Clinic visited: Läkarhuset Götgatan
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit. The doctor was kind, though the clinic's evening hours are very limited for working people. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Mattias Lindberg, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 10/10
+Clinic visited: Läkarhuset Götgatan
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 4 for Dr. Mattias Lindberg, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 10/10
+Clinic visited: Läkarhuset Götgatan
+Description: Excellent care with my endometriosis, including a detailed discussion of treatment options and a clear referral when I needed surgery. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Mattias Lindberg, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 10/10
+Clinic visited: Läkarhuset Götgatan
+Description: Fertility questions were handled with honesty about timelines and realistic options, and I never felt rushed. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Mattias Lindberg, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 7/10
+Clinic visited: Läkarhuset Götgatan
+Description: Dr. Mattias Lindberg explained my options well, though the office was often running an hour behind. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Mattias Lindberg, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 7/10
+Clinic visited: Läkarhuset Götgatan
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Mattias Lindberg, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 9/10
+Clinic visited: Läkarhuset Götgatan
+Description: Everything was explained in plain English by Dr. Mattias Lindberg, and nothing was left to guess. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Mattias Lindberg, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 10/10
+Clinic visited: Läkarhuset Götgatan
+Description: The waiting room at Läkarhuset Götgatan was clean, quiet and comfortable, with enough seating and water available.
+
+Review 10 for Dr. Mattias Lindberg, Obstetrics and Gynecology (OB/GYN), Stockholm
+Rating: 9/10
+Clinic visited: Läkarhuset Götgatan
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Overall rating for Dr. Mattias Lindberg, Obstetrics and Gynecology (OB/GYN), Stockholm: 8.70/10 from 10 reviews

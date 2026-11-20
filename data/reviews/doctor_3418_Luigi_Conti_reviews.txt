@@ -1,0 +1,49 @@
+Doctor: Dr. Luigi Conti
+Doctor ID: 3418
+Specialization: Radiology
+Gender: Male
+Years of experience: 2
+City: Milan, Italy
+Clinics: Clinica Santa Giulia (clinic ID 443)
+
+Review 1 for Dr. Luigi Conti, Radiology, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: Reviewing my X-ray together with Dr. Luigi Conti on the screen made it much easier to understand my arthritis. Everything was explained in plain English by Dr. Luigi Conti, and nothing was left to guess.
+
+Review 2 for Dr. Luigi Conti, Radiology, Milan
+Rating: 6/10
+Clinic visited: Clinica Santa Giulia
+Description: The report from Dr. Luigi Conti was thorough, though full of technical terms that needed my regular doctor to translate. Dr. Luigi Conti was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Luigi Conti, Radiology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 4 for Dr. Luigi Conti, Radiology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Luigi Conti, Radiology, Milan
+Rating: 9/10
+Clinic visited: Clinica Santa Giulia
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Luigi Conti were respectful throughout.
+
+Review 6 for Dr. Luigi Conti, Radiology, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 7 for Dr. Luigi Conti, Radiology, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: Images from Clinica Santa Giulia were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Luigi Conti, Radiology, Milan
+Rating: 9/10
+Clinic visited: Clinica Santa Giulia
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Parking was simple, the waiting room was calm, and I never felt like a number. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Luigi Conti, Radiology, Milan: 7.75/10 from 8 reviews

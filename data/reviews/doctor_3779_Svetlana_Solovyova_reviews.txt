@@ -1,0 +1,54 @@
+Doctor: Dr. Svetlana Solovyova
+Doctor ID: 3779
+Specialization: Pathology
+Gender: Female
+Years of experience: 5
+City: Novosibirsk, Russia
+Clinics: Dimitrova Family Polyclinic (clinic ID 487)
+
+Review 1 for Dr. Svetlana Solovyova, Pathology, Novosibirsk
+Rating: 8/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: I was nervous about the biopsy result, and the call from Dr. Svetlana Solovyova was gentle, honest and unhurried. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 2 for Dr. Svetlana Solovyova, Pathology, Novosibirsk
+Rating: 7/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Svetlana Solovyova, Pathology, Novosibirsk
+Rating: 10/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: The lab at Dimitrova Family Polyclinic had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 4 for Dr. Svetlana Solovyova, Pathology, Novosibirsk
+Rating: 9/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Svetlana Solovyova felt well organized from start to finish.
+
+Review 5 for Dr. Svetlana Solovyova, Pathology, Novosibirsk
+Rating: 9/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Svetlana Solovyova, Pathology, Novosibirsk
+Rating: 10/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: Dr. Svetlana Solovyova took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 7 for Dr. Svetlana Solovyova, Pathology, Novosibirsk
+Rating: 9/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 8 for Dr. Svetlana Solovyova, Pathology, Novosibirsk
+Rating: 9/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: Fast turnaround at Dimitrova Family Polyclinic on my thyroid panel, with results in my online account by the next morning. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Svetlana Solovyova, Pathology, Novosibirsk
+Rating: 10/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: The lab under Dr. Svetlana Solovyova was clean, organized and never overbooked, and results arrived exactly when promised. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Overall rating for Dr. Svetlana Solovyova, Pathology, Novosibirsk: 9.00/10 from 9 reviews

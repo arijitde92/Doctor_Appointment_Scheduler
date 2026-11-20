@@ -1,0 +1,64 @@
+Doctor: Dr. Araya Charoenporn
+Doctor ID: 5222
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 2
+City: Bangkok, Thailand
+Clinics: Siam Family Clinic (clinic ID 675); Phra Nakhon Medical Clinic (clinic ID 677)
+
+Review 1 for Dr. Araya Charoenporn, Orthopedic, Bangkok
+Rating: 5/10
+Clinic visited: Siam Family Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Very skilled with my knee, but Dr. Araya Charoenporn's clinic runs behind and the wait was over an hour. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Araya Charoenporn, Orthopedic, Bangkok
+Rating: 8/10
+Clinic visited: Siam Family Clinic
+Description: A translator was arranged for my mother without us asking twice, and Dr. Araya Charoenporn spoke directly to her throughout. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Araya Charoenporn, Orthopedic, Bangkok
+Rating: 7/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 4 for Dr. Araya Charoenporn, Orthopedic, Bangkok
+Rating: 8/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Araya Charoenporn felt well organized from start to finish. Getting around Bangkok on crutches was hard, but the accessible entrance and short waiting time at Phra Nakhon Medical Clinic helped a lot.
+
+Review 5 for Dr. Araya Charoenporn, Orthopedic, Bangkok
+Rating: 4/10
+Clinic visited: Siam Family Clinic
+Description: There was no translator available, and my parent was left unable to follow what was being said. My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 6 for Dr. Araya Charoenporn, Orthopedic, Bangkok
+Rating: 5/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Dr. Araya Charoenporn explained surgery options clearly, though the physiotherapy referral took weeks to arrive. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Araya Charoenporn, Orthopedic, Bangkok
+Rating: 8/10
+Clinic visited: Siam Family Clinic
+Description: I was called in within five minutes of my appointment time at Siam Family Clinic, which is rare and much appreciated. The surgeon at Siam Family Clinic spent time on my goals as a runner and shaped the treatment around them.
+
+Review 8 for Dr. Araya Charoenporn, Orthopedic, Bangkok
+Rating: 7/10
+Clinic visited: Phra Nakhon Medical Clinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. Araya Charoenporn, Orthopedic, Bangkok
+Rating: 7/10
+Clinic visited: Siam Family Clinic
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 10 for Dr. Araya Charoenporn, Orthopedic, Bangkok
+Rating: 7/10
+Clinic visited: Siam Family Clinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 11 for Dr. Araya Charoenporn, Orthopedic, Bangkok
+Rating: 5/10
+Clinic visited: Siam Family Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Araya Charoenporn, Orthopedic, Bangkok: 6.45/10 from 11 reviews

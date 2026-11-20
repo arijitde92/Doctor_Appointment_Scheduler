@@ -1,0 +1,59 @@
+Doctor: Dr. Zanele Ndlovu
+Doctor ID: 5780
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: Johannesburg, South Africa
+Clinics: Rosebank Medical Rooms (clinic ID 746)
+
+Review 1 for Dr. Zanele Ndlovu, Cardiology, Johannesburg
+Rating: 8/10
+Clinic visited: Rosebank Medical Rooms
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 2 for Dr. Zanele Ndlovu, Cardiology, Johannesburg
+Rating: 7/10
+Clinic visited: Rosebank Medical Rooms
+Description: Booking was easy online, but the confirmation email contained the wrong address for Rosebank Medical Rooms. Helpful with my cholesterol, Dr. Zanele Ndlovu still gave dietary advice that was a little generic. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Zanele Ndlovu, Cardiology, Johannesburg
+Rating: 5/10
+Clinic visited: Rosebank Medical Rooms
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 4 for Dr. Zanele Ndlovu, Cardiology, Johannesburg
+Rating: 7/10
+Clinic visited: Rosebank Medical Rooms
+Description: Dr. Zanele Ndlovu adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 5 for Dr. Zanele Ndlovu, Cardiology, Johannesburg
+Rating: 8/10
+Clinic visited: Rosebank Medical Rooms
+Description: My stress test was supervised carefully, and Dr. Zanele Ndlovu reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 6 for Dr. Zanele Ndlovu, Cardiology, Johannesburg
+Rating: 8/10
+Clinic visited: Rosebank Medical Rooms
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices.
+
+Review 7 for Dr. Zanele Ndlovu, Cardiology, Johannesburg
+Rating: 8/10
+Clinic visited: Rosebank Medical Rooms
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 8 for Dr. Zanele Ndlovu, Cardiology, Johannesburg
+Rating: 5/10
+Clinic visited: Rosebank Medical Rooms
+Description: Dr. Zanele Ndlovu was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 9 for Dr. Zanele Ndlovu, Cardiology, Johannesburg
+Rating: 7/10
+Clinic visited: Rosebank Medical Rooms
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Zanele Ndlovu, Cardiology, Johannesburg
+Rating: 8/10
+Clinic visited: Rosebank Medical Rooms
+Description: Seeing Dr. Zanele Ndlovu in Johannesburg meant my whole family history was reviewed, and now my sister is being screened too.
+
+Overall rating for Dr. Zanele Ndlovu, Cardiology, Johannesburg: 7.10/10 from 10 reviews

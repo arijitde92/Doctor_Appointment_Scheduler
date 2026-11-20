@@ -1,0 +1,49 @@
+Doctor: Dr. Anna Mikhailova
+Doctor ID: 3806
+Specialization: Pathology
+Gender: Female
+Years of experience: 24
+City: Saint Petersburg, Russia
+Clinics: Klinika Belye Nochi (clinic ID 491)
+
+Review 1 for Dr. Anna Mikhailova, Pathology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Klinika Belye Nochi
+Description: The waiting room at Klinika Belye Nochi was clean, quiet and comfortable, with enough seating and water available. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Anna Mikhailova, Pathology, Saint Petersburg
+Rating: 5/10
+Clinic visited: Klinika Belye Nochi
+Description: Helpful in clarifying a borderline result, though Dr. Anna Mikhailova gave little guidance about whether to repeat it. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Anna Mikhailova, Pathology, Saint Petersburg
+Rating: 5/10
+Clinic visited: Klinika Belye Nochi
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 4 for Dr. Anna Mikhailova, Pathology, Saint Petersburg
+Rating: 6/10
+Clinic visited: Klinika Belye Nochi
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 5 for Dr. Anna Mikhailova, Pathology, Saint Petersburg
+Rating: 4/10
+Clinic visited: Klinika Belye Nochi
+Description: Dr. Anna Mikhailova was never available to talk about my result, and the front desk repeated that I should ask my referring physician.
+
+Review 6 for Dr. Anna Mikhailova, Pathology, Saint Petersburg
+Rating: 6/10
+Clinic visited: Klinika Belye Nochi
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 7 for Dr. Anna Mikhailova, Pathology, Saint Petersburg
+Rating: 5/10
+Clinic visited: Klinika Belye Nochi
+Description: Quick appointment and a fair price in Saint Petersburg, but the staff seemed overwhelmed and a bit curt on the phone. The blood draw was painless, but the waiting area at Klinika Belye Nochi was crowded in the early morning.
+
+Review 8 for Dr. Anna Mikhailova, Pathology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Belye Nochi
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Overall rating for Dr. Anna Mikhailova, Pathology, Saint Petersburg: 5.75/10 from 8 reviews

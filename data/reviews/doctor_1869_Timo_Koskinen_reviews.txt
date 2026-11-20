@@ -1,0 +1,69 @@
+Doctor: Dr. Timo Koskinen
+Doctor ID: 1869
+Specialization: General
+Gender: Male
+Years of experience: 17
+City: Helsinki, Finland
+Clinics: Lääkäriasema Itämeri (clinic ID 244)
+
+Review 1 for Dr. Timo Koskinen, General, Helsinki
+Rating: 7/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 2 for Dr. Timo Koskinen, General, Helsinki
+Rating: 6/10
+Clinic visited: Lääkäriasema Itämeri
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Timo Koskinen, General, Helsinki
+Rating: 7/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Dr. Timo Koskinen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 4 for Dr. Timo Koskinen, General, Helsinki
+Rating: 6/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Lääkäriasema Itämeri were inconsistent.
+
+Review 5 for Dr. Timo Koskinen, General, Helsinki
+Rating: 7/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Dr. Timo Koskinen is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 6 for Dr. Timo Koskinen, General, Helsinki
+Rating: 6/10
+Clinic visited: Lääkäriasema Itämeri
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Timo Koskinen, General, Helsinki
+Rating: 6/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Referrals from Dr. Timo Koskinen are handled well, but getting test results back took longer than I was told to expect. I liked the advice I got from Dr. Timo Koskinen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Timo Koskinen, General, Helsinki
+Rating: 5/10
+Clinic visited: Lääkäriasema Itämeri
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Timo Koskinen, General, Helsinki
+Rating: 4/10
+Clinic visited: Lääkäriasema Itämeri
+Description: My lab results from Lääkäriasema Itämeri were never called in, and I only found them by chasing the front desk three times.
+
+Review 10 for Dr. Timo Koskinen, General, Helsinki
+Rating: 4/10
+Clinic visited: Lääkäriasema Itämeri
+Description: The waiting room at Lääkäriasema Itämeri was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 11 for Dr. Timo Koskinen, General, Helsinki
+Rating: 6/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Dr. Timo Koskinen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 12 for Dr. Timo Koskinen, General, Helsinki
+Rating: 5/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Quick appointment and a fair price in Helsinki, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Timo Koskinen, General, Helsinki: 5.75/10 from 12 reviews

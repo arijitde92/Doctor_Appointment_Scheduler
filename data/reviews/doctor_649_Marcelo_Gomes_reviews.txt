@@ -1,0 +1,49 @@
+Doctor: Dr. Marcelo Gomes
+Doctor ID: 649
+Specialization: General
+Gender: Male
+Years of experience: 23
+City: Rio de Janeiro, Brazil
+Clinics: Centro Médico Ipanema Sul (clinic ID 86); Policlínica Barra Saúde (clinic ID 87)
+
+Review 1 for Dr. Marcelo Gomes, General, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Policlínica Barra Saúde
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Marcelo Gomes, General, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 3 for Dr. Marcelo Gomes, General, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Dr. Marcelo Gomes was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 4 for Dr. Marcelo Gomes, General, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Policlínica Barra Saúde
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 5 for Dr. Marcelo Gomes, General, Rio de Janeiro
+Rating: 5/10
+Clinic visited: Policlínica Barra Saúde
+Description: Dr. Marcelo Gomes is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Booking was easy online, but the confirmation email contained the wrong address for Policlínica Barra Saúde. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Marcelo Gomes, General, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Good bedside manner from Dr. Marcelo Gomes, but the parking near Centro Médico Ipanema Sul is limited and I had to circle for fifteen minutes. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Marcelo Gomes, General, Rio de Janeiro
+Rating: 9/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. Dr. Marcelo Gomes drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 8 for Dr. Marcelo Gomes, General, Rio de Janeiro
+Rating: 5/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Marcelo Gomes, General, Rio de Janeiro: 6.25/10 from 8 reviews

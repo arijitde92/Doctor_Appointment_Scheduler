@@ -1,0 +1,54 @@
+Doctor: Dr. Jean-François Thompson
+Doctor ID: 285
+Specialization: Radiology
+Gender: Male
+Years of experience: 25
+City: Calgary, Canada
+Clinics: Foothills Family Clinic (clinic ID 39)
+
+Review 1 for Dr. Jean-François Thompson, Radiology, Calgary
+Rating: 6/10
+Clinic visited: Foothills Family Clinic
+Description: Dr. Jean-François Thompson answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Booking was easy online, but the confirmation email contained the wrong address for Foothills Family Clinic.
+
+Review 2 for Dr. Jean-François Thompson, Radiology, Calgary
+Rating: 7/10
+Clinic visited: Foothills Family Clinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Dr. Jean-François Thompson was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Jean-François Thompson, Radiology, Calgary
+Rating: 7/10
+Clinic visited: Foothills Family Clinic
+Description: The report from Dr. Jean-François Thompson was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 4 for Dr. Jean-François Thompson, Radiology, Calgary
+Rating: 8/10
+Clinic visited: Foothills Family Clinic
+Description: Reviewing my X-ray together with Dr. Jean-François Thompson on the screen made it much easier to understand my arthritis. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 5 for Dr. Jean-François Thompson, Radiology, Calgary
+Rating: 6/10
+Clinic visited: Foothills Family Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 6 for Dr. Jean-François Thompson, Radiology, Calgary
+Rating: 7/10
+Clinic visited: Foothills Family Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Jean-François Thompson, Radiology, Calgary
+Rating: 9/10
+Clinic visited: Foothills Family Clinic
+Description: Prescriptions from Dr. Jean-François Thompson were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 8 for Dr. Jean-François Thompson, Radiology, Calgary
+Rating: 10/10
+Clinic visited: Foothills Family Clinic
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 9 for Dr. Jean-François Thompson, Radiology, Calgary
+Rating: 7/10
+Clinic visited: Foothills Family Clinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Good bedside manner from Dr. Jean-François Thompson, but the parking near Foothills Family Clinic is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Jean-François Thompson, Radiology, Calgary: 7.44/10 from 9 reviews

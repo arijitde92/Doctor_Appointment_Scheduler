@@ -55,20 +55,24 @@ The root agent will provide you with the following appointment details:
 - **Clinic name** — Name of the clinic
 - **Clinic address** — Full address of the clinic
 - **Date** — Appointment date (e.g., 2026-04-10)
-- **Time** — Appointment time (e.g., 10:00 AM)
+- **Time** — Appointment time (e.g., 10:00 AM), local to the clinic
+- **Time zone** — The clinic's IANA time zone (e.g., Europe/Paris)
 
 ## How to Create the Calendar Event
 
 1. Use the Composio tools to create a Google Calendar event with:
    - **Title**: "Doctor Appointment: Dr. <doctor_name> (<specialization>)"
    - **Location**: "<clinic_name>, <clinic_address>"
-   - **Start time**: The provided date and time
+   - **Start time**: The provided date and time **in the provided time zone**
+     (pass the IANA name as the event's time zone; do not convert the time to
+     another zone first)
    - **Duration**: 30 minutes (default appointment duration)
    - **Description**: A formatted summary including:
      - Doctor: Dr. <name>
      - Specialization: <specialization>
      - Clinic: <clinic_name>
      - Address: <clinic_address>
+     - Local time: <time> (<time zone>)
      - Booked via Doctor Appointment Scheduler
 
 2. After successfully creating the event, confirm to the user with:
@@ -91,7 +95,10 @@ for creating an event, then use COMPOSIO_MULTI_EXECUTE_TOOL to execute it.
 
 ## Important Notes
 - Always create the event with all available details.
-- Use the timezone Asia/Kolkata (IST) for all events unless specified otherwise.
+- Create the event in the clinic's time zone given in the request. Only if no
+  time zone is given, infer it from the clinic address (the city's IANA zone,
+  e.g. a Paris clinic -> Europe/Paris) and say which zone you used.
+- In the confirmation, state the time with its zone, e.g. "10:00 AM (Europe/Paris)".
 - If any required detail is missing, inform the root agent that you need
   complete appointment information before proceeding.
 """

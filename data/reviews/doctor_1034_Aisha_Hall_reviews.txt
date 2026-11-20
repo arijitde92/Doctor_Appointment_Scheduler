@@ -1,0 +1,49 @@
+Doctor: Dr. Aisha Hall
+Doctor ID: 1034
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 2
+City: Bristol, UK
+Clinics: Whiteladies Road Health Centre (clinic ID 135); Broad Street Polyclinic (clinic ID 138)
+
+Review 1 for Dr. Aisha Hall, Gastroenterology, Bristol
+Rating: 10/10
+Clinic visited: Whiteladies Road Health Centre
+Description: A gentle, respectful manner from Dr. Aisha Hall made a very awkward exam bearable, with every step explained before it happened.
+
+Review 2 for Dr. Aisha Hall, Gastroenterology, Bristol
+Rating: 10/10
+Clinic visited: Whiteladies Road Health Centre
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 3 for Dr. Aisha Hall, Gastroenterology, Bristol
+Rating: 7/10
+Clinic visited: Whiteladies Road Health Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 4 for Dr. Aisha Hall, Gastroenterology, Bristol
+Rating: 8/10
+Clinic visited: Whiteladies Road Health Centre
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Helpful dietitian referral from Dr. Aisha Hall and written guidance for living with ulcerative colitis.
+
+Review 5 for Dr. Aisha Hall, Gastroenterology, Bristol
+Rating: 10/10
+Clinic visited: Whiteladies Road Health Centre
+Description: After years of undiagnosed stomach pain, she identified celiac disease with the right blood tests and a careful plan.
+
+Review 6 for Dr. Aisha Hall, Gastroenterology, Bristol
+Rating: 8/10
+Clinic visited: Broad Street Polyclinic
+Description: Dr. Aisha Hall was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. A same-day slot was found for me at Broad Street Polyclinic when I called with a worrying symptom.
+
+Review 7 for Dr. Aisha Hall, Gastroenterology, Bristol
+Rating: 10/10
+Clinic visited: Broad Street Polyclinic
+Description: I was nervous about my screening, but the team at Broad Street Polyclinic made me feel at ease, and I was home within hours. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 8 for Dr. Aisha Hall, Gastroenterology, Bristol
+Rating: 7/10
+Clinic visited: Whiteladies Road Health Centre
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Overall rating for Dr. Aisha Hall, Gastroenterology, Bristol: 8.75/10 from 8 reviews

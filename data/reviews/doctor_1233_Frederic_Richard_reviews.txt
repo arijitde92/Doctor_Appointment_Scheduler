@@ -1,0 +1,49 @@
+Doctor: Dr. Frédéric Richard
+Doctor ID: 1233
+Specialization: Cardiology
+Gender: Male
+Years of experience: 11
+City: Marseille, France
+Clinics: Centre Médical du Vieux-Port (clinic ID 160); Cabinet Médical Castellane (clinic ID 161)
+
+Review 1 for Dr. Frédéric Richard, Cardiology, Marseille
+Rating: 7/10
+Clinic visited: Cabinet Médical Castellane
+Description: Helpful with my cholesterol, Dr. Frédéric Richard still gave dietary advice that was a little generic. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Frédéric Richard, Cardiology, Marseille
+Rating: 10/10
+Clinic visited: Cabinet Médical Castellane
+Description: My atrial fibrillation is well managed by Dr. Frédéric Richard, and I know exactly what symptoms mean I should call. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 3 for Dr. Frédéric Richard, Cardiology, Marseille
+Rating: 5/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Frédéric Richard, Cardiology, Marseille
+Rating: 8/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: After my palpitations began, Dr. Frédéric Richard arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 5 for Dr. Frédéric Richard, Cardiology, Marseille
+Rating: 6/10
+Clinic visited: Cabinet Médical Castellane
+Description: Dr. Frédéric Richard adjusted my blood pressure medication carefully, though I had to call twice for a refill. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Frédéric Richard, Cardiology, Marseille
+Rating: 9/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Dr. Frédéric Richard explained the difference between my statin options and let me weigh in on the choice. Dr. Frédéric Richard double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 7 for Dr. Frédéric Richard, Cardiology, Marseille
+Rating: 7/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 8 for Dr. Frédéric Richard, Cardiology, Marseille
+Rating: 8/10
+Clinic visited: Cabinet Médical Castellane
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Overall rating for Dr. Frédéric Richard, Cardiology, Marseille: 7.50/10 from 8 reviews

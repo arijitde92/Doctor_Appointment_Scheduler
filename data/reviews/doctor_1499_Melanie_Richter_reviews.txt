@@ -1,0 +1,59 @@
+Doctor: Dr. Melanie Richter
+Doctor ID: 1499
+Specialization: General
+Gender: Female
+Years of experience: 18
+City: Berlin, Germany
+Clinics: Medizinisches Zentrum Friedrichshain-Mitte (clinic ID 196)
+
+Review 1 for Dr. Melanie Richter, General, Berlin
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Medizinisches Zentrum Friedrichshain-Mitte were inconsistent. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Melanie Richter, General, Berlin
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 3 for Dr. Melanie Richter, General, Berlin
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 4 for Dr. Melanie Richter, General, Berlin
+Rating: 4/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: My visit with Dr. Melanie Richter lasted barely six minutes, and I left with more questions than I arrived with. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 5 for Dr. Melanie Richter, General, Berlin
+Rating: 3/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: My persistent fatigue was brushed aside as stress by Dr. Melanie Richter, and it took a second doctor to find the actual cause. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 6 for Dr. Melanie Richter, General, Berlin
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 7 for Dr. Melanie Richter, General, Berlin
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Dr. Melanie Richter is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Melanie Richter, General, Berlin
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Melanie Richter, General, Berlin
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Melanie Richter, General, Berlin
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Friedrichshain-Mitte
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Melanie Richter, General, Berlin: 5.20/10 from 10 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Martin Pichler
+Doctor ID: 2951
+Specialization: Radiology
+Gender: Male
+Years of experience: 7
+City: Salzburg, Austria
+Clinics: Ärztezentrum Linzer Gasse (clinic ID 385)
+
+Review 1 for Dr. Martin Pichler, Radiology, Salzburg
+Rating: 6/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: Dr. Martin Pichler answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Quick appointment and a fair price in Salzburg, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Martin Pichler, Radiology, Salzburg
+Rating: 6/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. I got what I needed, but the next available appointment was three weeks away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Martin Pichler, Radiology, Salzburg
+Rating: 7/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: The treatment plan from Dr. Martin Pichler made sense, but I wished it had been written down for me to take away. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 4 for Dr. Martin Pichler, Radiology, Salzburg
+Rating: 7/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: The report from Dr. Martin Pichler was thorough, though full of technical terms that needed my regular doctor to translate. Clear explanations, but the follow-up call took a week longer than I had been told. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Martin Pichler, Radiology, Salzburg
+Rating: 8/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: Images from Ärztezentrum Linzer Gasse were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 6 for Dr. Martin Pichler, Radiology, Salzburg
+Rating: 7/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Helpful visit overall, although I only found out about an extra charge after I had paid. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Martin Pichler, Radiology, Salzburg
+Rating: 5/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Martin Pichler, Radiology, Salzburg
+Rating: 10/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Overall rating for Dr. Martin Pichler, Radiology, Salzburg: 7.00/10 from 8 reviews

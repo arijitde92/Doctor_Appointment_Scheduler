@@ -1,0 +1,64 @@
+Doctor: Dr. Ahmed de Groot
+Doctor ID: 2625
+Specialization: General
+Gender: Male
+Years of experience: 15
+City: Rotterdam, Netherlands
+Clinics: Medisch Centrum Blaak (clinic ID 344)
+
+Review 1 for Dr. Ahmed de Groot, General, Rotterdam
+Rating: 4/10
+Clinic visited: Medisch Centrum Blaak
+Description: I came in about worsening headaches and was told to drink more water and relax, with no examination at all.
+
+Review 2 for Dr. Ahmed de Groot, General, Rotterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Blaak
+Description: Referrals from Dr. Ahmed de Groot are handled well, but getting test results back took longer than I was told to expect. Dr. Ahmed de Groot was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Ahmed de Groot, General, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Blaak
+Description: Cholesterol results were explained by Dr. Ahmed de Groot with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 4 for Dr. Ahmed de Groot, General, Rotterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum Blaak
+Description: My blood pressure had crept up and Dr. Ahmed de Groot walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 5 for Dr. Ahmed de Groot, General, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Blaak
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 6 for Dr. Ahmed de Groot, General, Rotterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Blaak
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Ahmed de Groot, General, Rotterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Blaak
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 8 for Dr. Ahmed de Groot, General, Rotterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Blaak
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. The treatment plan from Dr. Ahmed de Groot made sense, but I wished it had been written down for me to take away.
+
+Review 9 for Dr. Ahmed de Groot, General, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Blaak
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I always hear back within a day when I leave a question with the nurse at Medisch Centrum Blaak, and Dr. Ahmed de Groot follows up on lab results personally.
+
+Review 10 for Dr. Ahmed de Groot, General, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Blaak
+Description: Managing my type 2 diabetes with Dr. Ahmed de Groot has been steady and practical, with quarterly blood sugar reviews and no lectures. Prescriptions from Dr. Ahmed de Groot were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 11 for Dr. Ahmed de Groot, General, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Blaak
+Description: Vaccination advice from Dr. Ahmed de Groot for my travel plans was thorough and specific to the countries I was visiting. Booking online at Medisch Centrum Blaak was simple, and I got a confirmation text with clear directions and a reminder the day before. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Ahmed de Groot, General, Rotterdam: 7.64/10 from 11 reviews

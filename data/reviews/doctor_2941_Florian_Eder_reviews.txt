@@ -1,0 +1,49 @@
+Doctor: Dr. Florian Eder
+Doctor ID: 2941
+Specialization: Cardiology
+Gender: Male
+Years of experience: 13
+City: Innsbruck, Austria
+Clinics: Medizinisches Zentrum Amras (clinic ID 383); Ordination Wilten Innsbruck (clinic ID 384)
+
+Review 1 for Dr. Florian Eder, Cardiology, Innsbruck
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 2 for Dr. Florian Eder, Cardiology, Innsbruck
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: He was upfront about what could and could not be treated, and did not oversell any option. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Florian Eder, Cardiology, Innsbruck
+Rating: 8/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 4 for Dr. Florian Eder, Cardiology, Innsbruck
+Rating: 7/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Helpful with my cholesterol, Dr. Florian Eder still gave dietary advice that was a little generic.
+
+Review 5 for Dr. Florian Eder, Cardiology, Innsbruck
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: Dr. Florian Eder adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 6 for Dr. Florian Eder, Cardiology, Innsbruck
+Rating: 8/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: The cardiology unit at Ordination Wilten Innsbruck runs on time, and the technicians were professional during my echocardiogram.
+
+Review 7 for Dr. Florian Eder, Cardiology, Innsbruck
+Rating: 8/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: Managing my blood pressure with Dr. Florian Eder has been steady and practical, with home readings reviewed at every visit. Getting to Ordination Wilten Innsbruck by public transport in Innsbruck was easy, and there is a step-free entrance for wheelchairs.
+
+Review 8 for Dr. Florian Eder, Cardiology, Innsbruck
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. Everything was explained in plain English by Dr. Florian Eder, and nothing was left to guess.
+
+Overall rating for Dr. Florian Eder, Cardiology, Innsbruck: 8.12/10 from 8 reviews

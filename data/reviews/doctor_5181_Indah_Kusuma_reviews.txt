@@ -1,0 +1,54 @@
+Doctor: Dr. Indah Kusuma
+Doctor ID: 5181
+Specialization: General
+Gender: Female
+Years of experience: 14
+City: Surabaya, Indonesia
+Clinics: Klinik Sumber Waras Jaya (clinic ID 670); Klinik Kasih Ibu Medika (clinic ID 673)
+
+Review 1 for Dr. Indah Kusuma, General, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: Referrals from Dr. Indah Kusuma are handled well, but getting test results back took longer than I was told to expect. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Indah Kusuma, General, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The treatment plan from Dr. Indah Kusuma made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Indah Kusuma, General, Surabaya
+Rating: 5/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Indah Kusuma, General, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: Dr. Indah Kusuma is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 5 for Dr. Indah Kusuma, General, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Kasih Ibu Medika
+Description: Cholesterol results were explained by Dr. Indah Kusuma with a simple chart, and we agreed on a plan I could realistically follow. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 6 for Dr. Indah Kusuma, General, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Kasih Ibu Medika
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Klinik Kasih Ibu Medika were inconsistent. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Indah Kusuma, General, Surabaya
+Rating: 9/10
+Clinic visited: Klinik Kasih Ibu Medika
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 8 for Dr. Indah Kusuma, General, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 9 for Dr. Indah Kusuma, General, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Kasih Ibu Medika
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Indah Kusuma, General, Surabaya: 7.22/10 from 9 reviews

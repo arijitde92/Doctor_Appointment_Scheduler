@@ -1,0 +1,59 @@
+Doctor: Dr. Francesca Müller
+Doctor ID: 1772
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 29
+City: Zurich, Switzerland
+Clinics: Praxis Limmatblick (clinic ID 231)
+
+Review 1 for Dr. Francesca Müller, Pulmonology, Zurich
+Rating: 8/10
+Clinic visited: Praxis Limmatblick
+Description: Dr. Francesca Müller double-checked my allergy list before prescribing anything, and that careful habit earned my trust. She took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Francesca Müller, Pulmonology, Zurich
+Rating: 9/10
+Clinic visited: Praxis Limmatblick
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 3 for Dr. Francesca Müller, Pulmonology, Zurich
+Rating: 7/10
+Clinic visited: Praxis Limmatblick
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Francesca Müller, Pulmonology, Zurich
+Rating: 7/10
+Clinic visited: Praxis Limmatblick
+Description: Dr. Francesca Müller adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 5 for Dr. Francesca Müller, Pulmonology, Zurich
+Rating: 8/10
+Clinic visited: Praxis Limmatblick
+Description: The spirometry test was explained step by step, and Dr. Francesca Müller put the results in context with a clear picture of my lung function.
+
+Review 6 for Dr. Francesca Müller, Pulmonology, Zurich
+Rating: 8/10
+Clinic visited: Praxis Limmatblick
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 7 for Dr. Francesca Müller, Pulmonology, Zurich
+Rating: 8/10
+Clinic visited: Praxis Limmatblick
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 8 for Dr. Francesca Müller, Pulmonology, Zurich
+Rating: 7/10
+Clinic visited: Praxis Limmatblick
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Francesca Müller, Pulmonology, Zurich
+Rating: 10/10
+Clinic visited: Praxis Limmatblick
+Description: The practice in Zurich is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 10 for Dr. Francesca Müller, Pulmonology, Zurich
+Rating: 6/10
+Clinic visited: Praxis Limmatblick
+Description: Helpful and honest about my prognosis, Dr. Francesca Müller could still have given me more written material to take home. I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Francesca Müller, Pulmonology, Zurich: 7.80/10 from 10 reviews

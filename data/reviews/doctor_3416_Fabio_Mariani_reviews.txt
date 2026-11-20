@@ -1,0 +1,54 @@
+Doctor: Dr. Fabio Mariani
+Doctor ID: 3416
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 29
+City: Milan, Italy
+Clinics: Clinica Santa Giulia (clinic ID 443)
+
+Review 1 for Dr. Fabio Mariani, Pulmonology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Dr. Fabio Mariani adjusted my asthma medication well, but the breathing test appointment was a month away. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Fabio Mariani, Pulmonology, Milan
+Rating: 6/10
+Clinic visited: Clinica Santa Giulia
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Fabio Mariani, Pulmonology, Milan
+Rating: 5/10
+Clinic visited: Clinica Santa Giulia
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 4 for Dr. Fabio Mariani, Pulmonology, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Fabio Mariani, Pulmonology, Milan
+Rating: 4/10
+Clinic visited: Clinica Santa Giulia
+Description: I called twice about worsening symptoms and no one returned my message until the following week.
+
+Review 6 for Dr. Fabio Mariani, Pulmonology, Milan
+Rating: 6/10
+Clinic visited: Clinica Santa Giulia
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Fabio Mariani, Pulmonology, Milan
+Rating: 6/10
+Clinic visited: Clinica Santa Giulia
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Fabio Mariani, Pulmonology, Milan
+Rating: 10/10
+Clinic visited: Clinica Santa Giulia
+Description: Dr. Fabio Mariani explained my lung nodule follow-up schedule calmly, which took away weeks of worry. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 9 for Dr. Fabio Mariani, Pulmonology, Milan
+Rating: 6/10
+Clinic visited: Clinica Santa Giulia
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I got what I needed, but the next available appointment was three weeks away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Fabio Mariani, Pulmonology, Milan: 6.33/10 from 9 reviews

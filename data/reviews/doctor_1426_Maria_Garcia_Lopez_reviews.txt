@@ -1,0 +1,59 @@
+Doctor: Dr. María García López
+Doctor ID: 1426
+Specialization: Cardiology
+Gender: Female
+Years of experience: 24
+City: Seville, Spain
+Clinics: Centro Médico Nervión (clinic ID 186)
+
+Review 1 for Dr. María García López, Cardiology, Seville
+Rating: 6/10
+Clinic visited: Centro Médico Nervión
+Description: Good bedside manner from Dr. María García López, but the parking near Centro Médico Nervión is limited and I had to circle for fifteen minutes. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. María García López, Cardiology, Seville
+Rating: 4/10
+Clinic visited: Centro Médico Nervión
+Description: The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes. I will not be returning and have already started looking for another doctor.
+
+Review 3 for Dr. María García López, Cardiology, Seville
+Rating: 5/10
+Clinic visited: Centro Médico Nervión
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. María García López, Cardiology, Seville
+Rating: 5/10
+Clinic visited: Centro Médico Nervión
+Description: Helpful with my cholesterol, Dr. María García López still gave dietary advice that was a little generic.
+
+Review 5 for Dr. María García López, Cardiology, Seville
+Rating: 6/10
+Clinic visited: Centro Médico Nervión
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. María García López, Cardiology, Seville
+Rating: 5/10
+Clinic visited: Centro Médico Nervión
+Description: Quick appointment and a fair price in Seville, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. María García López, Cardiology, Seville
+Rating: 4/10
+Clinic visited: Centro Médico Nervión
+Description: I was billed separately for tests that I understood to be part of the original consultation. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 8 for Dr. María García López, Cardiology, Seville
+Rating: 6/10
+Clinic visited: Centro Médico Nervión
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. María García López, Cardiology, Seville
+Rating: 6/10
+Clinic visited: Centro Médico Nervión
+Description: Dr. María García López adjusted my blood pressure medication carefully, though I had to call twice for a refill. Booking was easy online, but the confirmation email contained the wrong address for Centro Médico Nervión.
+
+Review 10 for Dr. María García López, Cardiology, Seville
+Rating: 6/10
+Clinic visited: Centro Médico Nervión
+Description: Great care in the visit itself, but the billing for the tests at Centro Médico Nervión was confusing.
+
+Overall rating for Dr. María García López, Cardiology, Seville: 5.30/10 from 10 reviews

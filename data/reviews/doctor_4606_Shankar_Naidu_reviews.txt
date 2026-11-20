@@ -1,0 +1,69 @@
+Doctor: Dr. Shankar Naidu
+Doctor ID: 4606
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 18
+City: George Town, Malaysia
+Clinics: Klinik Harmoni (clinic ID 595); Bayu Medical Centre (clinic ID 598); Klinik Permata Hati (clinic ID 599)
+
+Review 1 for Dr. Shankar Naidu, Pediatrics, George Town
+Rating: 6/10
+Clinic visited: Klinik Harmoni
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 2 for Dr. Shankar Naidu, Pediatrics, George Town
+Rating: 8/10
+Clinic visited: Klinik Permata Hati
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 3 for Dr. Shankar Naidu, Pediatrics, George Town
+Rating: 9/10
+Clinic visited: Klinik Permata Hati
+Description: Our family has been coming for years, and he remembers each child's history and personality. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 4 for Dr. Shankar Naidu, Pediatrics, George Town
+Rating: 9/10
+Clinic visited: Klinik Permata Hati
+Description: My child's asthma action plan from Dr. Shankar Naidu was written out clearly so that school staff could follow it too.
+
+Review 5 for Dr. Shankar Naidu, Pediatrics, George Town
+Rating: 5/10
+Clinic visited: Klinik Harmoni
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 6 for Dr. Shankar Naidu, Pediatrics, George Town
+Rating: 7/10
+Clinic visited: Klinik Harmoni
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 7 for Dr. Shankar Naidu, Pediatrics, George Town
+Rating: 5/10
+Clinic visited: Klinik Harmoni
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 8 for Dr. Shankar Naidu, Pediatrics, George Town
+Rating: 7/10
+Clinic visited: Klinik Permata Hati
+Description: Dr. Shankar Naidu is thorough with exams, but the after-hours phone line at Klinik Permata Hati is hard to reach. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Shankar Naidu, Pediatrics, George Town
+Rating: 9/10
+Clinic visited: Klinik Harmoni
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 10 for Dr. Shankar Naidu, Pediatrics, George Town
+Rating: 7/10
+Clinic visited: Klinik Permata Hati
+Description: Dr. Shankar Naidu was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 11 for Dr. Shankar Naidu, Pediatrics, George Town
+Rating: 6/10
+Clinic visited: Bayu Medical Centre
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 12 for Dr. Shankar Naidu, Pediatrics, George Town
+Rating: 6/10
+Clinic visited: Bayu Medical Centre
+Description: The treatment plan from Dr. Shankar Naidu made sense, but I wished it had been written down for me to take away. Caring and gentle with my child, Dr. Shankar Naidu nonetheless ran forty minutes behind schedule at most appointments.
+
+Overall rating for Dr. Shankar Naidu, Pediatrics, George Town: 7.00/10 from 12 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Duong Tuan
+Doctor ID: 5024
+Specialization: Radiology
+Gender: Male
+Years of experience: 26
+City: Hanoi, Vietnam
+Clinics: Phong Kham An Khang Plus (clinic ID 649)
+
+Review 1 for Dr. Duong Tuan, Radiology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham An Khang Plus
+Description: The treatment plan from Dr. Duong Tuan made sense, but I wished it had been written down for me to take away. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 2 for Dr. Duong Tuan, Radiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Parking was simple, the waiting room was calm, and I never felt like a number.
+
+Review 3 for Dr. Duong Tuan, Radiology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 4 for Dr. Duong Tuan, Radiology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Dr. Duong Tuan answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Duong Tuan, Radiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Getting to Phong Kham An Khang Plus by public transport in Hanoi was easy, and there is a step-free entrance for wheelchairs. The staff at Phong Kham An Khang Plus in Hanoi explained the contrast dye and its side effects before I signed anything. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Duong Tuan, Radiology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham An Khang Plus
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Duong Tuan, Radiology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. My MRI was comfortable, but getting a copy of the images on disc took several requests. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Duong Tuan, Radiology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Duong Tuan, Radiology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham An Khang Plus
+Description: The report from Dr. Duong Tuan was thorough, though full of technical terms that needed my regular doctor to translate. Quick appointment and a fair price in Hanoi, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Duong Tuan, Radiology, Hanoi: 7.44/10 from 9 reviews

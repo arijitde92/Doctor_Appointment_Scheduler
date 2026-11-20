@@ -1,0 +1,49 @@
+Doctor: Dr. Ahmad bin Jaafar
+Doctor ID: 4709
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 14
+City: Johor Bahru, Malaysia
+Clinics: Anggerik Polyclinic (clinic ID 609)
+
+Review 1 for Dr. Ahmad bin Jaafar, Psychiatry, Johor Bahru
+Rating: 4/10
+Clinic visited: Anggerik Polyclinic
+Description: Dr. Ahmad bin Jaafar seemed to focus on the paperwork, and I did not feel I could share what was really going on. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 2 for Dr. Ahmad bin Jaafar, Psychiatry, Johor Bahru
+Rating: 7/10
+Clinic visited: Anggerik Polyclinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 3 for Dr. Ahmad bin Jaafar, Psychiatry, Johor Bahru
+Rating: 6/10
+Clinic visited: Anggerik Polyclinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 4 for Dr. Ahmad bin Jaafar, Psychiatry, Johor Bahru
+Rating: 7/10
+Clinic visited: Anggerik Polyclinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 5 for Dr. Ahmad bin Jaafar, Psychiatry, Johor Bahru
+Rating: 6/10
+Clinic visited: Anggerik Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Ahmad bin Jaafar, Psychiatry, Johor Bahru
+Rating: 9/10
+Clinic visited: Anggerik Polyclinic
+Description: I can ring Anggerik Polyclinic with an urgent question and receive a thoughtful reply the same day. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 7 for Dr. Ahmad bin Jaafar, Psychiatry, Johor Bahru
+Rating: 8/10
+Clinic visited: Anggerik Polyclinic
+Description: I was called in within five minutes of my appointment time at Anggerik Polyclinic, which is rare and much appreciated.
+
+Review 8 for Dr. Ahmad bin Jaafar, Psychiatry, Johor Bahru
+Rating: 8/10
+Clinic visited: Anggerik Polyclinic
+Description: I felt heard by Dr. Ahmad bin Jaafar during a very hard time, and nobody rushed me out of the room.
+
+Overall rating for Dr. Ahmad bin Jaafar, Psychiatry, Johor Bahru: 6.88/10 from 8 reviews

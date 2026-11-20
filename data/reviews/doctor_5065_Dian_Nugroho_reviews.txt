@@ -1,0 +1,59 @@
+Doctor: Dr. Dian Nugroho
+Doctor ID: 5065
+Specialization: Pathology
+Gender: Female
+Years of experience: 5
+City: Bandung, Indonesia
+Clinics: Klinik Rahayu Medika (clinic ID 655)
+
+Review 1 for Dr. Dian Nugroho, Pathology, Bandung
+Rating: 8/10
+Clinic visited: Klinik Rahayu Medika
+Description: Paperwork at Klinik Rahayu Medika was kept to a minimum, and the staff helped me complete the insurance form. The staff and Dr. Dian Nugroho patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Review 2 for Dr. Dian Nugroho, Pathology, Bandung
+Rating: 8/10
+Clinic visited: Klinik Rahayu Medika
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 3 for Dr. Dian Nugroho, Pathology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Rahayu Medika
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Dian Nugroho, Pathology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Rahayu Medika
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Dian Nugroho, Pathology, Bandung
+Rating: 5/10
+Clinic visited: Klinik Rahayu Medika
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Dian Nugroho, Pathology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Rahayu Medika
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Dian Nugroho, Pathology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Rahayu Medika
+Description: Dr. Dian Nugroho answered my questions kindly, though the call back took three days.
+
+Review 8 for Dr. Dian Nugroho, Pathology, Bandung
+Rating: 5/10
+Clinic visited: Klinik Rahayu Medika
+Description: Good bedside manner from Dr. Dian Nugroho, but the parking near Klinik Rahayu Medika is limited and I had to circle for fifteen minutes.
+
+Review 9 for Dr. Dian Nugroho, Pathology, Bandung
+Rating: 5/10
+Clinic visited: Klinik Rahayu Medika
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Dian Nugroho, Pathology, Bandung
+Rating: 5/10
+Clinic visited: Klinik Rahayu Medika
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Dian Nugroho, Pathology, Bandung: 6.20/10 from 10 reviews

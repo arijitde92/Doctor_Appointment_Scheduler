@@ -1,0 +1,49 @@
+Doctor: Dr. Anthony Clarke
+Doctor ID: 6494
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 16
+City: Melbourne, Australia
+Clinics: Banksia Medical Centre (clinic ID 841); Riverbend Health Centre (clinic ID 844)
+
+Review 1 for Dr. Anthony Clarke, Psychiatry, Melbourne
+Rating: 4/10
+Clinic visited: Riverbend Health Centre
+Description: My concerns about how I felt on the dose were waved away rather than explored. My questions were answered by Dr. Anthony Clarke with short, vague replies, and I left without a clear plan. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 2 for Dr. Anthony Clarke, Psychiatry, Melbourne
+Rating: 7/10
+Clinic visited: Riverbend Health Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Anthony Clarke, Psychiatry, Melbourne
+Rating: 5/10
+Clinic visited: Banksia Medical Centre
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Anthony Clarke, Psychiatry, Melbourne
+Rating: 5/10
+Clinic visited: Riverbend Health Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Anthony Clarke, Psychiatry, Melbourne
+Rating: 6/10
+Clinic visited: Banksia Medical Centre
+Description: Dr. Anthony Clarke is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 6 for Dr. Anthony Clarke, Psychiatry, Melbourne
+Rating: 7/10
+Clinic visited: Riverbend Health Centre
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 7 for Dr. Anthony Clarke, Psychiatry, Melbourne
+Rating: 5/10
+Clinic visited: Banksia Medical Centre
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 8 for Dr. Anthony Clarke, Psychiatry, Melbourne
+Rating: 6/10
+Clinic visited: Riverbend Health Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Anthony Clarke, Psychiatry, Melbourne: 5.62/10 from 8 reviews

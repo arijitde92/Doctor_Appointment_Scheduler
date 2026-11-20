@@ -1,0 +1,49 @@
+Doctor: Dr. Yana Popova
+Doctor ID: 3767
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 21
+City: Novosibirsk, Russia
+Clinics: Klinika Obskoe More (clinic ID 486); Frunze Health Practice (clinic ID 488)
+
+Review 1 for Dr. Yana Popova, Pediatrics, Novosibirsk
+Rating: 6/10
+Clinic visited: Klinika Obskoe More
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Yana Popova, Pediatrics, Novosibirsk
+Rating: 7/10
+Clinic visited: Frunze Health Practice
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Yana Popova, Pediatrics, Novosibirsk
+Rating: 7/10
+Clinic visited: Frunze Health Practice
+Description: Caring and gentle with my child, Dr. Yana Popova nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 4 for Dr. Yana Popova, Pediatrics, Novosibirsk
+Rating: 4/10
+Clinic visited: Klinika Obskoe More
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. Dr. Yana Popova spoke mostly to the computer, and my child clung to me throughout the whole appointment.
+
+Review 5 for Dr. Yana Popova, Pediatrics, Novosibirsk
+Rating: 10/10
+Clinic visited: Frunze Health Practice
+Description: Our family has been coming for years, and she remembers each child's history and personality. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Yana Popova, Pediatrics, Novosibirsk
+Rating: 8/10
+Clinic visited: Frunze Health Practice
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 7 for Dr. Yana Popova, Pediatrics, Novosibirsk
+Rating: 6/10
+Clinic visited: Frunze Health Practice
+Description: Quick appointment and a fair price in Novosibirsk, but the staff seemed overwhelmed and a bit curt on the phone. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Yana Popova, Pediatrics, Novosibirsk
+Rating: 7/10
+Clinic visited: Frunze Health Practice
+Description: Dr. Yana Popova was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Overall rating for Dr. Yana Popova, Pediatrics, Novosibirsk: 6.88/10 from 8 reviews

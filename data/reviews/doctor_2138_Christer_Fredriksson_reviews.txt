@@ -1,0 +1,54 @@
+Doctor: Dr. Christer Fredriksson
+Doctor ID: 2138
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 1
+City: Gothenburg, Sweden
+Clinics: Läkarmottagningen Långgatan (clinic ID 279)
+
+Review 1 for Dr. Christer Fredriksson, Pediatrics, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Good bedside manner from Dr. Christer Fredriksson, but the parking near Läkarmottagningen Långgatan is limited and I had to circle for fifteen minutes. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 2 for Dr. Christer Fredriksson, Pediatrics, Gothenburg
+Rating: 6/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 3 for Dr. Christer Fredriksson, Pediatrics, Gothenburg
+Rating: 5/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 4 for Dr. Christer Fredriksson, Pediatrics, Gothenburg
+Rating: 9/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 5 for Dr. Christer Fredriksson, Pediatrics, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Everything was explained in plain English by Dr. Christer Fredriksson, and nothing was left to guess.
+
+Review 6 for Dr. Christer Fredriksson, Pediatrics, Gothenburg
+Rating: 10/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: I was called in within five minutes of my appointment time at Läkarmottagningen Långgatan, which is rare and much appreciated.
+
+Review 7 for Dr. Christer Fredriksson, Pediatrics, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 8 for Dr. Christer Fredriksson, Pediatrics, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Christer Fredriksson, Pediatrics, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: The waiting room at Läkarmottagningen Långgatan was clean, quiet and comfortable, with enough seating and water available.
+
+Overall rating for Dr. Christer Fredriksson, Pediatrics, Gothenburg: 7.44/10 from 9 reviews

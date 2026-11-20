@@ -1,0 +1,49 @@
+Doctor: Dr. Rommel Castillo
+Doctor ID: 6165
+Specialization: Radiology
+Gender: Male
+Years of experience: 4
+City: Al Khor, Qatar
+Clinics: Al Khor Community Medical Centre (clinic ID 796)
+
+Review 1 for Dr. Rommel Castillo, Radiology, Al Khor
+Rating: 9/10
+Clinic visited: Al Khor Community Medical Centre
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Rommel Castillo were respectful throughout.
+
+Review 2 for Dr. Rommel Castillo, Radiology, Al Khor
+Rating: 8/10
+Clinic visited: Al Khor Community Medical Centre
+Description: The staff at Al Khor Community Medical Centre in Al Khor explained the contrast dye and its side effects before I signed anything.
+
+Review 3 for Dr. Rommel Castillo, Radiology, Al Khor
+Rating: 7/10
+Clinic visited: Al Khor Community Medical Centre
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 4 for Dr. Rommel Castillo, Radiology, Al Khor
+Rating: 7/10
+Clinic visited: Al Khor Community Medical Centre
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 5 for Dr. Rommel Castillo, Radiology, Al Khor
+Rating: 6/10
+Clinic visited: Al Khor Community Medical Centre
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The doctor was kind, though the clinic's evening hours are very limited for working people. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Rommel Castillo, Radiology, Al Khor
+Rating: 6/10
+Clinic visited: Al Khor Community Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Rommel Castillo, Radiology, Al Khor
+Rating: 7/10
+Clinic visited: Al Khor Community Medical Centre
+Description: Dr. Rommel Castillo answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Rommel Castillo, Radiology, Al Khor
+Rating: 6/10
+Clinic visited: Al Khor Community Medical Centre
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Good bedside manner from Dr. Rommel Castillo, but the parking near Al Khor Community Medical Centre is limited and I had to circle for fifteen minutes. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Rommel Castillo, Radiology, Al Khor: 7.00/10 from 8 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Colm O'Connor
+Doctor ID: 2482
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 20
+City: Dublin, Ireland
+Clinics: Smithfield Health Centre (clinic ID 324)
+
+Review 1 for Dr. Colm O'Connor, Orthopedic, Dublin
+Rating: 6/10
+Clinic visited: Smithfield Health Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Colm O'Connor, Orthopedic, Dublin
+Rating: 7/10
+Clinic visited: Smithfield Health Centre
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 3 for Dr. Colm O'Connor, Orthopedic, Dublin
+Rating: 7/10
+Clinic visited: Smithfield Health Centre
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Colm O'Connor, Orthopedic, Dublin
+Rating: 4/10
+Clinic visited: Smithfield Health Centre
+Description: There was no translator available, and my parent was left unable to follow what was being said. My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed.
+
+Review 5 for Dr. Colm O'Connor, Orthopedic, Dublin
+Rating: 6/10
+Clinic visited: Smithfield Health Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 6 for Dr. Colm O'Connor, Orthopedic, Dublin
+Rating: 6/10
+Clinic visited: Smithfield Health Centre
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Colm O'Connor, Orthopedic, Dublin
+Rating: 8/10
+Clinic visited: Smithfield Health Centre
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan.
+
+Review 8 for Dr. Colm O'Connor, Orthopedic, Dublin
+Rating: 6/10
+Clinic visited: Smithfield Health Centre
+Description: Good bedside manner from Dr. Colm O'Connor, but the parking near Smithfield Health Centre is limited and I had to circle for fifteen minutes. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 9 for Dr. Colm O'Connor, Orthopedic, Dublin
+Rating: 5/10
+Clinic visited: Smithfield Health Centre
+Description: Dr. Colm O'Connor explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 10 for Dr. Colm O'Connor, Orthopedic, Dublin
+Rating: 4/10
+Clinic visited: Smithfield Health Centre
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 11 for Dr. Colm O'Connor, Orthopedic, Dublin
+Rating: 6/10
+Clinic visited: Smithfield Health Centre
+Description: Very skilled with my knee, but Dr. Colm O'Connor's clinic runs behind and the wait was over an hour.
+
+Overall rating for Dr. Colm O'Connor, Orthopedic, Dublin: 5.91/10 from 11 reviews

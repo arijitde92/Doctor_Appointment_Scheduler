@@ -1,0 +1,59 @@
+Doctor: Dr. Sandra Krüger
+Doctor ID: 1601
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 4
+City: Hamburg, Germany
+Clinics: Praxiszentrum Bergedorfer Tor (clinic ID 209)
+
+Review 1 for Dr. Sandra Krüger, Orthopedic, Hamburg
+Rating: 7/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Sandra Krüger, Orthopedic, Hamburg
+Rating: 5/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 3 for Dr. Sandra Krüger, Orthopedic, Hamburg
+Rating: 7/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 4 for Dr. Sandra Krüger, Orthopedic, Hamburg
+Rating: 8/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Follow-up scans were compared with the earlier ones, and Dr. Sandra Krüger showed me how the bone had healed.
+
+Review 5 for Dr. Sandra Krüger, Orthopedic, Hamburg
+Rating: 8/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: I was given a printed summary of the visit, which I shared with my family at home. Plain, honest advice from Dr. Sandra Krüger for my arthritis, including which exercises to avoid and which would help.
+
+Review 6 for Dr. Sandra Krüger, Orthopedic, Hamburg
+Rating: 4/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed. The visit felt rushed, and Dr. Sandra Krüger was already halfway out the door when I started to describe my second symptom. Not a place I would choose again, and I hope others have a better experience.
+
+Review 7 for Dr. Sandra Krüger, Orthopedic, Hamburg
+Rating: 6/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Dr. Sandra Krüger explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Good bedside manner from Dr. Sandra Krüger, but the parking near Praxiszentrum Bergedorfer Tor is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Sandra Krüger, Orthopedic, Hamburg
+Rating: 6/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 9 for Dr. Sandra Krüger, Orthopedic, Hamburg
+Rating: 5/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Quick appointment and a fair price in Hamburg, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 10 for Dr. Sandra Krüger, Orthopedic, Hamburg
+Rating: 9/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Sandra Krüger, Orthopedic, Hamburg: 6.50/10 from 10 reviews

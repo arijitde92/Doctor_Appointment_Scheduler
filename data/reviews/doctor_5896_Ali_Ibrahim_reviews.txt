@@ -1,0 +1,54 @@
+Doctor: Dr. Ali Ibrahim
+Doctor ID: 5896
+Specialization: Cardiology
+Gender: Male
+Years of experience: 4
+City: Cairo, Egypt
+Clinics: Nasr City Shifa Medical Centre (clinic ID 761); Heliopolis Salama Polyclinic (clinic ID 762)
+
+Review 1 for Dr. Ali Ibrahim, Cardiology, Cairo
+Rating: 7/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Ali Ibrahim, Cardiology, Cairo
+Rating: 9/10
+Clinic visited: Nasr City Shifa Medical Centre
+Description: Everything was explained in plain English by Dr. Ali Ibrahim, and nothing was left to guess. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Ali Ibrahim, Cardiology, Cairo
+Rating: 8/10
+Clinic visited: Nasr City Shifa Medical Centre
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 4 for Dr. Ali Ibrahim, Cardiology, Cairo
+Rating: 8/10
+Clinic visited: Nasr City Shifa Medical Centre
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Ali Ibrahim, Cardiology, Cairo
+Rating: 10/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Managing my blood pressure with Dr. Ali Ibrahim has been steady and practical, with home readings reviewed at every visit.
+
+Review 6 for Dr. Ali Ibrahim, Cardiology, Cairo
+Rating: 10/10
+Clinic visited: Nasr City Shifa Medical Centre
+Description: My stress test was supervised carefully, and Dr. Ali Ibrahim reviewed the results in the same visit with a plan for my cholesterol. At my visit, Dr. Ali Ibrahim took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 7 for Dr. Ali Ibrahim, Cardiology, Cairo
+Rating: 8/10
+Clinic visited: Heliopolis Salama Polyclinic
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 8 for Dr. Ali Ibrahim, Cardiology, Cairo
+Rating: 8/10
+Clinic visited: Nasr City Shifa Medical Centre
+Description: Clear and calm advice at Nasr City Shifa Medical Centre about exercise after my stent, including a gradual written schedule.
+
+Review 9 for Dr. Ali Ibrahim, Cardiology, Cairo
+Rating: 9/10
+Clinic visited: Nasr City Shifa Medical Centre
+Description: Getting to Nasr City Shifa Medical Centre by public transport in Cairo was easy, and there is a step-free entrance for wheelchairs. Quick to coordinate with my regular doctor, so my medications were consistent across both offices. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Ali Ibrahim, Cardiology, Cairo: 8.56/10 from 9 reviews

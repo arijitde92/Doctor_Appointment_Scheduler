@@ -1,0 +1,64 @@
+Doctor: Dr. Iván Gómez Álvarez
+Doctor ID: 1429
+Specialization: Psychology
+Gender: Male
+Years of experience: 8
+City: Seville, Spain
+Clinics: Centro Médico Nervión (clinic ID 186)
+
+Review 1 for Dr. Iván Gómez Álvarez, Psychology, Seville
+Rating: 8/10
+Clinic visited: Centro Médico Nervión
+Description: Warm, patient and honest, Dr. Iván Gómez Álvarez told me what progress to expect and it matched reality.
+
+Review 2 for Dr. Iván Gómez Álvarez, Psychology, Seville
+Rating: 7/10
+Clinic visited: Centro Médico Nervión
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 3 for Dr. Iván Gómez Álvarez, Psychology, Seville
+Rating: 6/10
+Clinic visited: Centro Médico Nervión
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. Booking was easy online, but the confirmation email contained the wrong address for Centro Médico Nervión.
+
+Review 4 for Dr. Iván Gómez Álvarez, Psychology, Seville
+Rating: 9/10
+Clinic visited: Centro Médico Nervión
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months. Dr. Iván Gómez Álvarez double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 5 for Dr. Iván Gómez Álvarez, Psychology, Seville
+Rating: 6/10
+Clinic visited: Centro Médico Nervión
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. The treatment plan from Dr. Iván Gómez Álvarez made sense, but I wished it had been written down for me to take away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Iván Gómez Álvarez, Psychology, Seville
+Rating: 5/10
+Clinic visited: Centro Médico Nervión
+Description: Dr. Iván Gómez Álvarez listens well, though some sessions felt like a recap of the previous one without much new direction. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Iván Gómez Álvarez, Psychology, Seville
+Rating: 7/10
+Clinic visited: Centro Médico Nervión
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 8 for Dr. Iván Gómez Álvarez, Psychology, Seville
+Rating: 7/10
+Clinic visited: Centro Médico Nervión
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Iván Gómez Álvarez, Psychology, Seville
+Rating: 6/10
+Clinic visited: Centro Médico Nervión
+Description: Good bedside manner from Dr. Iván Gómez Álvarez, but the parking near Centro Médico Nervión is limited and I had to circle for fifteen minutes. My trauma work felt well paced, although the schedule changed several times at Centro Médico Nervión.
+
+Review 10 for Dr. Iván Gómez Álvarez, Psychology, Seville
+Rating: 8/10
+Clinic visited: Centro Médico Nervión
+Description: I was given a printed summary of the visit, which I shared with my family at home. Couples therapy at Centro Médico Nervión helped us stop repeating the same argument. We now have a way to pause and listen.
+
+Review 11 for Dr. Iván Gómez Álvarez, Psychology, Seville
+Rating: 7/10
+Clinic visited: Centro Médico Nervión
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Iván Gómez Álvarez, Psychology, Seville: 6.91/10 from 11 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Lucía Rojas
+Doctor ID: 848
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 10
+City: Rosario, Argentina
+Clinics: Centro Médico Pellegrini (clinic ID 111)
+
+Review 1 for Dr. Lucía Rojas, Psychiatry, Rosario
+Rating: 6/10
+Clinic visited: Centro Médico Pellegrini
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 2 for Dr. Lucía Rojas, Psychiatry, Rosario
+Rating: 10/10
+Clinic visited: Centro Médico Pellegrini
+Description: Dr. Lucía Rojas took a full history before suggesting any medication and explained the likely side effects honestly. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Lucía Rojas, Psychiatry, Rosario
+Rating: 7/10
+Clinic visited: Centro Médico Pellegrini
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Lucía Rojas, Psychiatry, Rosario
+Rating: 7/10
+Clinic visited: Centro Médico Pellegrini
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Lucía Rojas, Psychiatry, Rosario
+Rating: 6/10
+Clinic visited: Centro Médico Pellegrini
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Good bedside manner from Dr. Lucía Rojas, but the parking near Centro Médico Pellegrini is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Lucía Rojas, Psychiatry, Rosario
+Rating: 7/10
+Clinic visited: Centro Médico Pellegrini
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good listener, yet the refill process at Centro Médico Pellegrini is slow and requires several phone calls.
+
+Review 7 for Dr. Lucía Rojas, Psychiatry, Rosario
+Rating: 6/10
+Clinic visited: Centro Médico Pellegrini
+Description: Dr. Lucía Rojas is knowledgeable, though I waited several weeks for my first appointment. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Lucía Rojas, Psychiatry, Rosario
+Rating: 5/10
+Clinic visited: Centro Médico Pellegrini
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Lucía Rojas, Psychiatry, Rosario
+Rating: 8/10
+Clinic visited: Centro Médico Pellegrini
+Description: I appreciated that she offered more than one option and let me choose what suited my life. The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 10 for Dr. Lucía Rojas, Psychiatry, Rosario
+Rating: 6/10
+Clinic visited: Centro Médico Pellegrini
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 11 for Dr. Lucía Rojas, Psychiatry, Rosario
+Rating: 7/10
+Clinic visited: Centro Médico Pellegrini
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Lucía Rojas, Psychiatry, Rosario: 6.82/10 from 11 reviews

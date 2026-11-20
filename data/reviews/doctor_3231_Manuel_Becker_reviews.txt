@@ -1,0 +1,54 @@
+Doctor: Dr. Manuel Becker
+Doctor ID: 3231
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 15
+City: Differdange, Luxembourg
+Clinics: Centre de Santé Lasauvage (clinic ID 419)
+
+Review 1 for Dr. Manuel Becker, Orthopedic, Differdange
+Rating: 7/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Dr. Manuel Becker was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Manuel Becker, Orthopedic, Differdange
+Rating: 6/10
+Clinic visited: Centre de Santé Lasauvage
+Description: The treatment plan from Dr. Manuel Becker made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Manuel Becker, Orthopedic, Differdange
+Rating: 9/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. The surgeon at Centre de Santé Lasauvage spent time on my goals as a runner and shaped the treatment around them.
+
+Review 4 for Dr. Manuel Becker, Orthopedic, Differdange
+Rating: 9/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Plain, honest advice from Dr. Manuel Becker for my arthritis, including which exercises to avoid and which would help. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Manuel Becker, Orthopedic, Differdange
+Rating: 6/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 6 for Dr. Manuel Becker, Orthopedic, Differdange
+Rating: 8/10
+Clinic visited: Centre de Santé Lasauvage
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Manuel Becker, Orthopedic, Differdange
+Rating: 8/10
+Clinic visited: Centre de Santé Lasauvage
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan.
+
+Review 8 for Dr. Manuel Becker, Orthopedic, Differdange
+Rating: 7/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Very skilled with my knee, but Dr. Manuel Becker's clinic runs behind and the wait was over an hour.
+
+Review 9 for Dr. Manuel Becker, Orthopedic, Differdange
+Rating: 8/10
+Clinic visited: Centre de Santé Lasauvage
+Description: I appreciated Dr. Manuel Becker's honest comparison between injections, therapy and surgery for my hip pain. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Manuel Becker, Orthopedic, Differdange: 7.56/10 from 9 reviews

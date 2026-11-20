@@ -1,0 +1,49 @@
+Doctor: Dr. Thomas Taylor
+Doctor ID: 6505
+Specialization: Neurology
+Gender: Male
+Years of experience: 16
+City: Melbourne, Australia
+Clinics: Parkside Family Clinic (clinic ID 842)
+
+Review 1 for Dr. Thomas Taylor, Neurology, Melbourne
+Rating: 8/10
+Clinic visited: Parkside Family Clinic
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices. The receptionist at Parkside Family Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 2 for Dr. Thomas Taylor, Neurology, Melbourne
+Rating: 4/10
+Clinic visited: Parkside Family Clinic
+Description: Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 3 for Dr. Thomas Taylor, Neurology, Melbourne
+Rating: 7/10
+Clinic visited: Parkside Family Clinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Thomas Taylor, Neurology, Melbourne
+Rating: 6/10
+Clinic visited: Parkside Family Clinic
+Description: Dr. Thomas Taylor was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Thomas Taylor, Neurology, Melbourne
+Rating: 6/10
+Clinic visited: Parkside Family Clinic
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 6 for Dr. Thomas Taylor, Neurology, Melbourne
+Rating: 6/10
+Clinic visited: Parkside Family Clinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 7 for Dr. Thomas Taylor, Neurology, Melbourne
+Rating: 7/10
+Clinic visited: Parkside Family Clinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Thomas Taylor, Neurology, Melbourne
+Rating: 7/10
+Clinic visited: Parkside Family Clinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Thomas Taylor, Neurology, Melbourne: 6.38/10 from 8 reviews

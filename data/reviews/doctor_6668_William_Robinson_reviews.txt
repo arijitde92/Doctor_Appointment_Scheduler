@@ -1,0 +1,54 @@
+Doctor: Dr. William Robinson
+Doctor ID: 6668
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 4
+City: Hamilton, New Zealand
+Clinics: Awa Family Health (clinic ID 865)
+
+Review 1 for Dr. William Robinson, Pediatrics, Hamilton
+Rating: 8/10
+Clinic visited: Awa Family Health
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 2 for Dr. William Robinson, Pediatrics, Hamilton
+Rating: 8/10
+Clinic visited: Awa Family Health
+Description: He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 3 for Dr. William Robinson, Pediatrics, Hamilton
+Rating: 9/10
+Clinic visited: Awa Family Health
+Description: Vaccination visits with Dr. William Robinson are painless and well explained, and my questions about the schedule were answered without any pressure. Dr. William Robinson double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. William Robinson, Pediatrics, Hamilton
+Rating: 8/10
+Clinic visited: Awa Family Health
+Description: At my visit, Dr. William Robinson took notes on my medication list, checked for interactions and explained the changes simply. The school physical at Awa Family Health was quick, thorough and the forms were completed on the spot. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. William Robinson, Pediatrics, Hamilton
+Rating: 10/10
+Clinic visited: Awa Family Health
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. William Robinson, Pediatrics, Hamilton
+Rating: 8/10
+Clinic visited: Awa Family Health
+Description: The waiting room in Hamilton has a play corner and separate seating for sick children, which I really valued. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. William Robinson, Pediatrics, Hamilton
+Rating: 10/10
+Clinic visited: Awa Family Health
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. We got a same-day appointment for a high fever, and the care at Awa Family Health was kind and efficient. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. William Robinson, Pediatrics, Hamilton
+Rating: 7/10
+Clinic visited: Awa Family Health
+Description: Dr. William Robinson was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 9 for Dr. William Robinson, Pediatrics, Hamilton
+Rating: 7/10
+Clinic visited: Awa Family Health
+Description: Booking was easy online, but the confirmation email contained the wrong address for Awa Family Health. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Overall rating for Dr. William Robinson, Pediatrics, Hamilton: 8.33/10 from 9 reviews

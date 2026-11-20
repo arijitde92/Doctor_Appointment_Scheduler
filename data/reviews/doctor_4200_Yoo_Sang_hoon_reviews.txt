@@ -1,0 +1,69 @@
+Doctor: Dr. Yoo Sang-hoon
+Doctor ID: 4200
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 4
+City: Daegu, South Korea
+Clinics: Suseong Namu Family Clinic (clinic ID 541); Beomeo Hanmaru Health Clinic (clinic ID 542)
+
+Review 1 for Dr. Yoo Sang-hoon, Psychiatry, Daegu
+Rating: 7/10
+Clinic visited: Suseong Namu Family Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Yoo Sang-hoon, Psychiatry, Daegu
+Rating: 7/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: Dr. Yoo Sang-hoon is knowledgeable, though I waited several weeks for my first appointment. Booking was easy online, but the confirmation email contained the wrong address for Beomeo Hanmaru Health Clinic.
+
+Review 3 for Dr. Yoo Sang-hoon, Psychiatry, Daegu
+Rating: 4/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Requests for a refill went unanswered for days, and I ran out of my medication.
+
+Review 4 for Dr. Yoo Sang-hoon, Psychiatry, Daegu
+Rating: 8/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Excellent at explaining how therapy and medication work together, and Dr. Yoo Sang-hoon coordinated with my counselor. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 5 for Dr. Yoo Sang-hoon, Psychiatry, Daegu
+Rating: 5/10
+Clinic visited: Suseong Namu Family Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 6 for Dr. Yoo Sang-hoon, Psychiatry, Daegu
+Rating: 8/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Yoo Sang-hoon, Psychiatry, Daegu
+Rating: 5/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 8 for Dr. Yoo Sang-hoon, Psychiatry, Daegu
+Rating: 8/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: My depression finally has a treatment plan from Dr. Yoo Sang-hoon that works, with regular check-ins and careful dose changes. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. Yoo Sang-hoon, Psychiatry, Daegu
+Rating: 6/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Yoo Sang-hoon, Psychiatry, Daegu
+Rating: 8/10
+Clinic visited: Suseong Namu Family Clinic
+Description: The ADHD assessment by Dr. Yoo Sang-hoon was careful and detailed, with clear written conclusions and realistic expectations. I would happily recommend this doctor to friends and family.
+
+Review 11 for Dr. Yoo Sang-hoon, Psychiatry, Daegu
+Rating: 7/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 12 for Dr. Yoo Sang-hoon, Psychiatry, Daegu
+Rating: 6/10
+Clinic visited: Suseong Namu Family Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Quick appointment and a fair price in Daegu, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Yoo Sang-hoon, Psychiatry, Daegu: 6.58/10 from 12 reviews

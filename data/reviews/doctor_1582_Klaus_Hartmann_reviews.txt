@@ -1,0 +1,64 @@
+Doctor: Dr. Klaus Hartmann
+Doctor ID: 1582
+Specialization: Pathology
+Gender: Male
+Years of experience: 30
+City: Hamburg, Germany
+Clinics: Ärztehaus Eppendorfer Park (clinic ID 206)
+
+Review 1 for Dr. Klaus Hartmann, Pathology, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: The lab under Dr. Klaus Hartmann was clean, organized and never overbooked, and results arrived exactly when promised.
+
+Review 2 for Dr. Klaus Hartmann, Pathology, Hamburg
+Rating: 9/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Paperwork at Ärztehaus Eppendorfer Park was kept to a minimum, and the staff helped me complete the insurance form. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Klaus Hartmann, Pathology, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Hamburg. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 4 for Dr. Klaus Hartmann, Pathology, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Review 5 for Dr. Klaus Hartmann, Pathology, Hamburg
+Rating: 7/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: I got what I needed, but the next available appointment was three weeks away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Klaus Hartmann, Pathology, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: The biopsy report was returned in three days, and Dr. Klaus Hartmann took time on the phone to explain every term in it. Prescriptions from Dr. Klaus Hartmann were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 7 for Dr. Klaus Hartmann, Pathology, Hamburg
+Rating: 7/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Klaus Hartmann, Pathology, Hamburg
+Rating: 6/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 9 for Dr. Klaus Hartmann, Pathology, Hamburg
+Rating: 9/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: I was nervous about the biopsy result, and the call from Dr. Klaus Hartmann was gentle, honest and unhurried. At my visit, Dr. Klaus Hartmann took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 10 for Dr. Klaus Hartmann, Pathology, Hamburg
+Rating: 10/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Dr. Klaus Hartmann took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. I feel lucky to have found this practice in my area.
+
+Review 11 for Dr. Klaus Hartmann, Pathology, Hamburg
+Rating: 7/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Klaus Hartmann, Pathology, Hamburg: 7.91/10 from 11 reviews

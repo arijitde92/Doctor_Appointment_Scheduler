@@ -1,0 +1,54 @@
+Doctor: Dr. Rosario Navarro
+Doctor ID: 4839
+Specialization: Radiology
+Gender: Female
+Years of experience: 17
+City: Manila, Philippines
+Clinics: Klinika Santa Teresita (clinic ID 625); Bayanihan Medical Clinic (clinic ID 626); San Lorenzo Family Clinic (clinic ID 627)
+
+Review 1 for Dr. Rosario Navarro, Radiology, Manila
+Rating: 5/10
+Clinic visited: Klinika Santa Teresita
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 2 for Dr. Rosario Navarro, Radiology, Manila
+Rating: 4/10
+Clinic visited: Klinika Santa Teresita
+Description: The technologist gave almost no instructions before my MRI, and I had to repeat part of the scan because I moved. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 3 for Dr. Rosario Navarro, Radiology, Manila
+Rating: 5/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Rosario Navarro, Radiology, Manila
+Rating: 5/10
+Clinic visited: Klinika Santa Teresita
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 5 for Dr. Rosario Navarro, Radiology, Manila
+Rating: 3/10
+Clinic visited: San Lorenzo Family Clinic
+Description: I waited two weeks for a report from Dr. Rosario Navarro and had to call three times before anyone could tell me the result. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 6 for Dr. Rosario Navarro, Radiology, Manila
+Rating: 4/10
+Clinic visited: San Lorenzo Family Clinic
+Description: My images were not sent to my specialist as promised, so my consultation had to be postponed.
+
+Review 7 for Dr. Rosario Navarro, Radiology, Manila
+Rating: 5/10
+Clinic visited: Klinika Santa Teresita
+Description: Dr. Rosario Navarro was thoughtful and clear, though the front desk was disorganized and lost my first referral form. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 8 for Dr. Rosario Navarro, Radiology, Manila
+Rating: 5/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Dr. Rosario Navarro answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 9 for Dr. Rosario Navarro, Radiology, Manila
+Rating: 8/10
+Clinic visited: Klinika Santa Teresita
+Description: Dr. Rosario Navarro compared my new scan with last year's and pointed out exactly what had stayed the same. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Overall rating for Dr. Rosario Navarro, Radiology, Manila: 4.89/10 from 9 reviews

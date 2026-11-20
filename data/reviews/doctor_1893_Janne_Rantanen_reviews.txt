@@ -1,0 +1,59 @@
+Doctor: Dr. Janne Rantanen
+Doctor ID: 1893
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 2
+City: Tampere, Finland
+Clinics: Lääkärikeskus Hatanpää (clinic ID 247)
+
+Review 1 for Dr. Janne Rantanen, Pulmonology, Tampere
+Rating: 8/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: Dr. Janne Rantanen explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 2 for Dr. Janne Rantanen, Pulmonology, Tampere
+Rating: 8/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. At Lääkärikeskus Hatanpää, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 3 for Dr. Janne Rantanen, Pulmonology, Tampere
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: Dr. Janne Rantanen adjusted my asthma medication well, but the breathing test appointment was a month away. I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Janne Rantanen, Pulmonology, Tampere
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: I liked the advice I got from Dr. Janne Rantanen, but I would have liked more time to ask follow-up questions before the visit ended. Pleasant manner and careful lung exam, though the waiting time at Lääkärikeskus Hatanpää regularly exceeded forty minutes.
+
+Review 5 for Dr. Janne Rantanen, Pulmonology, Tampere
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: Helpful and honest about my prognosis, Dr. Janne Rantanen could still have given me more written material to take home.
+
+Review 6 for Dr. Janne Rantanen, Pulmonology, Tampere
+Rating: 6/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Janne Rantanen, Pulmonology, Tampere
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 8 for Dr. Janne Rantanen, Pulmonology, Tampere
+Rating: 9/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting. Worth every minute of travel, and I would go again without a second thought.
+
+Review 9 for Dr. Janne Rantanen, Pulmonology, Tampere
+Rating: 4/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: The bill for my pulmonary function tests was far higher than the estimate I had been given.
+
+Review 10 for Dr. Janne Rantanen, Pulmonology, Tampere
+Rating: 7/10
+Clinic visited: Lääkärikeskus Hatanpää
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Janne Rantanen, Pulmonology, Tampere: 7.00/10 from 10 reviews

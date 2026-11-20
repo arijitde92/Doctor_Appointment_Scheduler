@@ -1,0 +1,59 @@
+Doctor: Dr. Okada Yusuke
+Doctor ID: 4122
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 15
+City: Yokohama, Japan
+Clinics: Kannai Sumire Family Clinic (clinic ID 532)
+
+Review 1 for Dr. Okada Yusuke, Gastroenterology, Yokohama
+Rating: 6/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Okada Yusuke, Gastroenterology, Yokohama
+Rating: 7/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 3 for Dr. Okada Yusuke, Gastroenterology, Yokohama
+Rating: 3/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: My symptoms were dismissed by Dr. Okada Yusuke as a diet issue without any exam, and the problem continued for months. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 4 for Dr. Okada Yusuke, Gastroenterology, Yokohama
+Rating: 4/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: The bowel prep instructions from Dr. Okada Yusuke's office were contradictory, and I had to reschedule my colonoscopy because of the confusion.
+
+Review 5 for Dr. Okada Yusuke, Gastroenterology, Yokohama
+Rating: 7/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Dr. Okada Yusuke is thorough, but I waited nearly two months to get the first available slot.
+
+Review 6 for Dr. Okada Yusuke, Gastroenterology, Yokohama
+Rating: 6/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Okada Yusuke, Gastroenterology, Yokohama
+Rating: 8/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: A gentle, respectful manner from Dr. Okada Yusuke made a very awkward exam bearable, with every step explained before it happened. Paperwork at Kannai Sumire Family Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 8 for Dr. Okada Yusuke, Gastroenterology, Yokohama
+Rating: 4/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: The staff at Kannai Sumire Family Clinic were curt on the phone, and it took four attempts to book a simple follow-up. After my endoscopy, nobody called with results and I had to chase the office repeatedly. I left disappointed and will take my business to another clinic.
+
+Review 9 for Dr. Okada Yusuke, Gastroenterology, Yokohama
+Rating: 5/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 10 for Dr. Okada Yusuke, Gastroenterology, Yokohama
+Rating: 7/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Overall rating for Dr. Okada Yusuke, Gastroenterology, Yokohama: 5.70/10 from 10 reviews

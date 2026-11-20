@@ -1,0 +1,54 @@
+Doctor: Dr. Lena Lind
+Doctor ID: 2117
+Specialization: Pathology
+Gender: Female
+Years of experience: 21
+City: Gothenburg, Sweden
+Clinics: Läkarhuset Östra Hamngatan (clinic ID 276)
+
+Review 1 for Dr. Lena Lind, Pathology, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Lena Lind, Pathology, Gothenburg
+Rating: 10/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Allergy panel results were explained in detail by Dr. Lena Lind, with a note on which results mattered clinically and which did not. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Lena Lind, Pathology, Gothenburg
+Rating: 9/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: The biopsy report was returned in three days, and Dr. Lena Lind took time on the phone to explain every term in it.
+
+Review 4 for Dr. Lena Lind, Pathology, Gothenburg
+Rating: 6/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Dr. Lena Lind was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Lena Lind, Pathology, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 6 for Dr. Lena Lind, Pathology, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: The blood draw was painless, but the waiting area at Läkarhuset Östra Hamngatan was crowded in the early morning. I liked the advice I got from Dr. Lena Lind, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Lena Lind, Pathology, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Dr. Lena Lind answered my questions kindly, though the call back took three days. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Lena Lind, Pathology, Gothenburg
+Rating: 6/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Good bedside manner from Dr. Lena Lind, but the parking near Läkarhuset Östra Hamngatan is limited and I had to circle for fifteen minutes. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Lena Lind, Pathology, Gothenburg
+Rating: 6/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Overall rating for Dr. Lena Lind, Pathology, Gothenburg: 7.33/10 from 9 reviews

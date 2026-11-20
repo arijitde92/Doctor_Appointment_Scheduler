@@ -1,0 +1,64 @@
+Doctor: Dr. Sander Meijer
+Doctor ID: 2678
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 2
+City: Utrecht, Netherlands
+Clinics: Medisch Centrum Oudegracht (clinic ID 350)
+
+Review 1 for Dr. Sander Meijer, Gastroenterology, Utrecht
+Rating: 6/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 2 for Dr. Sander Meijer, Gastroenterology, Utrecht
+Rating: 8/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: My test results arrived in the portal within two days, together with a short note that made sense. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Sander Meijer, Gastroenterology, Utrecht
+Rating: 6/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Sander Meijer, Gastroenterology, Utrecht
+Rating: 5/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 5 for Dr. Sander Meijer, Gastroenterology, Utrecht
+Rating: 6/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Sander Meijer, Gastroenterology, Utrecht
+Rating: 5/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Sander Meijer is thorough, but I waited nearly two months to get the first available slot.
+
+Review 7 for Dr. Sander Meijer, Gastroenterology, Utrecht
+Rating: 6/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: Knowledgeable about my reflux, Dr. Sander Meijer still gave diet advice that felt generic and not tailored to my habits.
+
+Review 8 for Dr. Sander Meijer, Gastroenterology, Utrecht
+Rating: 6/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 9 for Dr. Sander Meijer, Gastroenterology, Utrecht
+Rating: 6/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 10 for Dr. Sander Meijer, Gastroenterology, Utrecht
+Rating: 6/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good care during my endoscopy, although the recovery area was crowded and noisy. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 11 for Dr. Sander Meijer, Gastroenterology, Utrecht
+Rating: 3/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Overall rating for Dr. Sander Meijer, Gastroenterology, Utrecht: 5.73/10 from 11 reviews

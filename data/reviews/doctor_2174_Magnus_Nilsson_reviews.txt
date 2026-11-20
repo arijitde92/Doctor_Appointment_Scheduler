@@ -1,0 +1,49 @@
+Doctor: Dr. Magnus Nilsson
+Doctor ID: 2174
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 1
+City: Malmo, Sweden
+Clinics: Läkarmottagningen Östra Förstan (clinic ID 284)
+
+Review 1 for Dr. Magnus Nilsson, Pediatrics, Malmo
+Rating: 8/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: We got a same-day appointment for a high fever, and the care at Läkarmottagningen Östra Förstan was kind and efficient. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Magnus Nilsson, Pediatrics, Malmo
+Rating: 6/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Dr. Magnus Nilsson is thorough with exams, but the after-hours phone line at Läkarmottagningen Östra Förstan is hard to reach.
+
+Review 3 for Dr. Magnus Nilsson, Pediatrics, Malmo
+Rating: 9/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 4 for Dr. Magnus Nilsson, Pediatrics, Malmo
+Rating: 8/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Everything was explained in plain English by Dr. Magnus Nilsson, and nothing was left to guess. He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 5 for Dr. Magnus Nilsson, Pediatrics, Malmo
+Rating: 5/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Caring and gentle with my child, Dr. Magnus Nilsson nonetheless ran forty minutes behind schedule at most appointments. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Magnus Nilsson, Pediatrics, Malmo
+Rating: 7/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Magnus Nilsson, Pediatrics, Malmo
+Rating: 7/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 8 for Dr. Magnus Nilsson, Pediatrics, Malmo
+Rating: 10/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Dr. Magnus Nilsson noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Overall rating for Dr. Magnus Nilsson, Pediatrics, Malmo: 7.50/10 from 8 reviews

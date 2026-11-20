@@ -1,0 +1,54 @@
+Doctor: Dr. Carlos White
+Doctor ID: 184
+Specialization: General
+Gender: Male
+Years of experience: 12
+City: New York, USA
+Clinics: Parkview Primary Care Associates (clinic ID 25)
+
+Review 1 for Dr. Carlos White, General, New York
+Rating: 7/10
+Clinic visited: Parkview Primary Care Associates
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Good bedside manner from Dr. Carlos White, but the parking near Parkview Primary Care Associates is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Carlos White, General, New York
+Rating: 8/10
+Clinic visited: Parkview Primary Care Associates
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Carlos White, General, New York
+Rating: 9/10
+Clinic visited: Parkview Primary Care Associates
+Description: I was called in within five minutes of my appointment time at Parkview Primary Care Associates, which is rare and much appreciated. By the time I left the room, Dr. Carlos White had sorted the sick note, referral letter and prescription refill.
+
+Review 4 for Dr. Carlos White, General, New York
+Rating: 7/10
+Clinic visited: Parkview Primary Care Associates
+Description: Dr. Carlos White is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Clear explanations, but the follow-up call took a week longer than I had been told. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Carlos White, General, New York
+Rating: 7/10
+Clinic visited: Parkview Primary Care Associates
+Description: Referrals from Dr. Carlos White are handled well, but getting test results back took longer than I was told to expect. Everything about the care was decent, but the cost was higher than I expected for a short appointment. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Carlos White, General, New York
+Rating: 5/10
+Clinic visited: Parkview Primary Care Associates
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The treatment plan from Dr. Carlos White made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Carlos White, General, New York
+Rating: 6/10
+Clinic visited: Parkview Primary Care Associates
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 8 for Dr. Carlos White, General, New York
+Rating: 7/10
+Clinic visited: Parkview Primary Care Associates
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Carlos White, General, New York
+Rating: 6/10
+Clinic visited: Parkview Primary Care Associates
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Overall rating for Dr. Carlos White, General, New York: 6.89/10 from 9 reviews

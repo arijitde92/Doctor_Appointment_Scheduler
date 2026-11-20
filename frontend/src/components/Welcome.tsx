@@ -9,8 +9,8 @@ const FEATURES = [
 
 const SUGGESTIONS = [
   "Find a cardiologist in Kolkata",
-  "I need a paediatrician for my child in Kolkata",
-  "Which neurologists in Kolkata are available on Saturday?",
+  "I need a paediatrician for my child in London",
+  "Which neurologists in Tokyo are available on Saturday?",
   "How does booking an appointment work?",
 ];
 

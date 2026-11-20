@@ -1,0 +1,49 @@
+Doctor: Dr. Tyler Gonzalez
+Doctor ID: 146
+Specialization: General
+Gender: Male
+Years of experience: 17
+City: Houston, USA
+Clinics: Galleria Medical Group (clinic ID 21)
+
+Review 1 for Dr. Tyler Gonzalez, General, Houston
+Rating: 6/10
+Clinic visited: Galleria Medical Group
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 2 for Dr. Tyler Gonzalez, General, Houston
+Rating: 4/10
+Clinic visited: Galleria Medical Group
+Description: I was sent for a battery of tests that had nothing to do with my complaint and received a surprise bill afterwards. The waiting room at Galleria Medical Group was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 3 for Dr. Tyler Gonzalez, General, Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 4 for Dr. Tyler Gonzalez, General, Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: Vaccination advice from Dr. Tyler Gonzalez for my travel plans was thorough and specific to the countries I was visiting. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 5 for Dr. Tyler Gonzalez, General, Houston
+Rating: 7/10
+Clinic visited: Galleria Medical Group
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Galleria Medical Group were inconsistent.
+
+Review 6 for Dr. Tyler Gonzalez, General, Houston
+Rating: 7/10
+Clinic visited: Galleria Medical Group
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Tyler Gonzalez, General, Houston
+Rating: 7/10
+Clinic visited: Galleria Medical Group
+Description: Referrals from Dr. Tyler Gonzalez are handled well, but getting test results back took longer than I was told to expect. I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Tyler Gonzalez, General, Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: I went in with months of tiredness, and Dr. Tyler Gonzalez ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Dr. Tyler Gonzalez looked me in the eye, listened to the whole story and only then started typing.
+
+Overall rating for Dr. Tyler Gonzalez, General, Houston: 6.88/10 from 8 reviews

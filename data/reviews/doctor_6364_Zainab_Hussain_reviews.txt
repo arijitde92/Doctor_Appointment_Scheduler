@@ -1,0 +1,69 @@
+Doctor: Dr. Zainab Hussain
+Doctor ID: 6364
+Specialization: Cardiology
+Gender: Female
+Years of experience: 2
+City: Lahore, Pakistan
+Clinics: Gulberg Shahi Family Clinic (clinic ID 825); Model Town Care Polyclinic (clinic ID 827)
+
+Review 1 for Dr. Zainab Hussain, Cardiology, Lahore
+Rating: 8/10
+Clinic visited: Gulberg Shahi Family Clinic
+Description: At my visit, Dr. Zainab Hussain took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 2 for Dr. Zainab Hussain, Cardiology, Lahore
+Rating: 8/10
+Clinic visited: Model Town Care Polyclinic
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 3 for Dr. Zainab Hussain, Cardiology, Lahore
+Rating: 7/10
+Clinic visited: Gulberg Shahi Family Clinic
+Description: Helpful with my cholesterol, Dr. Zainab Hussain still gave dietary advice that was a little generic. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 4 for Dr. Zainab Hussain, Cardiology, Lahore
+Rating: 5/10
+Clinic visited: Gulberg Shahi Family Clinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Zainab Hussain, Cardiology, Lahore
+Rating: 9/10
+Clinic visited: Gulberg Shahi Family Clinic
+Description: After my palpitations began, Dr. Zainab Hussain arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 6 for Dr. Zainab Hussain, Cardiology, Lahore
+Rating: 6/10
+Clinic visited: Gulberg Shahi Family Clinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. The treatment plan from Dr. Zainab Hussain made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Zainab Hussain, Cardiology, Lahore
+Rating: 9/10
+Clinic visited: Model Town Care Polyclinic
+Description: She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 8 for Dr. Zainab Hussain, Cardiology, Lahore
+Rating: 7/10
+Clinic visited: Gulberg Shahi Family Clinic
+Description: Good bedside manner from Dr. Zainab Hussain, but the parking near Gulberg Shahi Family Clinic is limited and I had to circle for fifteen minutes. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 9 for Dr. Zainab Hussain, Cardiology, Lahore
+Rating: 7/10
+Clinic visited: Gulberg Shahi Family Clinic
+Description: Dr. Zainab Hussain adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 10 for Dr. Zainab Hussain, Cardiology, Lahore
+Rating: 8/10
+Clinic visited: Model Town Care Polyclinic
+Description: Dr. Zainab Hussain explained the difference between my statin options and let me weigh in on the choice. I was called in within five minutes of my appointment time at Model Town Care Polyclinic, which is rare and much appreciated. My whole family is switching over after seeing how good the care was.
+
+Review 11 for Dr. Zainab Hussain, Cardiology, Lahore
+Rating: 7/10
+Clinic visited: Model Town Care Polyclinic
+Description: Great care in the visit itself, but the billing for the tests at Model Town Care Polyclinic was confusing.
+
+Review 12 for Dr. Zainab Hussain, Cardiology, Lahore
+Rating: 6/10
+Clinic visited: Model Town Care Polyclinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Overall rating for Dr. Zainab Hussain, Cardiology, Lahore: 7.25/10 from 12 reviews

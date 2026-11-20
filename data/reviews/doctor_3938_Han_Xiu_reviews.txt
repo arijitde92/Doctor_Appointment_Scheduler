@@ -1,0 +1,54 @@
+Doctor: Dr. Han Xiu
+Doctor ID: 3938
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 18
+City: Shanghai, China
+Clinics: Xianxia Hongkang Polyclinic (clinic ID 508)
+
+Review 1 for Dr. Han Xiu, Psychiatry, Shanghai
+Rating: 5/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 2 for Dr. Han Xiu, Psychiatry, Shanghai
+Rating: 9/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: I can ring Xianxia Hongkang Polyclinic with an urgent question and receive a thoughtful reply the same day. My test results arrived in the portal within two days, together with a short note that made sense. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Han Xiu, Psychiatry, Shanghai
+Rating: 8/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Sensitive questions were handled by Dr. Han Xiu with discretion and without a hint of judgment. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 4 for Dr. Han Xiu, Psychiatry, Shanghai
+Rating: 7/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Han Xiu, Psychiatry, Shanghai
+Rating: 6/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I like the measured approach, but sometimes I wanted more discussion of non-medication options. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Han Xiu, Psychiatry, Shanghai
+Rating: 9/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: I came away understanding my condition better than I have in years of previous appointments. Telehealth follow-ups at Xianxia Hongkang Polyclinic are punctual and calm, and refills are dealt with quickly. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Han Xiu, Psychiatry, Shanghai
+Rating: 7/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I liked the advice I got from Dr. Han Xiu, but I would have liked more time to ask follow-up questions before the visit ended. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Han Xiu, Psychiatry, Shanghai
+Rating: 8/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 9 for Dr. Han Xiu, Psychiatry, Shanghai
+Rating: 8/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Dr. Han Xiu looked me in the eye, listened to the whole story and only then started typing. Appointments in Shanghai are always on schedule, and the waiting area is peaceful and private.
+
+Overall rating for Dr. Han Xiu, Psychiatry, Shanghai: 7.44/10 from 9 reviews

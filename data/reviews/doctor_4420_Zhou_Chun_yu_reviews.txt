@@ -1,0 +1,49 @@
+Doctor: Dr. Zhou Chun-yu
+Doctor ID: 4420
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 1
+City: Taipei, Taiwan
+Clinics: Xinyi Anhe Family Clinic (clinic ID 570)
+
+Review 1 for Dr. Zhou Chun-yu, Psychiatry, Taipei
+Rating: 9/10
+Clinic visited: Xinyi Anhe Family Clinic
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. Sensitive questions were handled by Dr. Zhou Chun-yu with discretion and without a hint of judgment.
+
+Review 2 for Dr. Zhou Chun-yu, Psychiatry, Taipei
+Rating: 7/10
+Clinic visited: Xinyi Anhe Family Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 3 for Dr. Zhou Chun-yu, Psychiatry, Taipei
+Rating: 5/10
+Clinic visited: Xinyi Anhe Family Clinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 4 for Dr. Zhou Chun-yu, Psychiatry, Taipei
+Rating: 6/10
+Clinic visited: Xinyi Anhe Family Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 5 for Dr. Zhou Chun-yu, Psychiatry, Taipei
+Rating: 5/10
+Clinic visited: Xinyi Anhe Family Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 6 for Dr. Zhou Chun-yu, Psychiatry, Taipei
+Rating: 6/10
+Clinic visited: Xinyi Anhe Family Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Good listener, yet the refill process at Xinyi Anhe Family Clinic is slow and requires several phone calls. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Zhou Chun-yu, Psychiatry, Taipei
+Rating: 4/10
+Clinic visited: Xinyi Anhe Family Clinic
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible.
+
+Review 8 for Dr. Zhou Chun-yu, Psychiatry, Taipei
+Rating: 7/10
+Clinic visited: Xinyi Anhe Family Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Zhou Chun-yu, Psychiatry, Taipei: 6.12/10 from 8 reviews

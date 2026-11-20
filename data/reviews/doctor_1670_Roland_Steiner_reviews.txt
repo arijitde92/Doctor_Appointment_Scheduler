@@ -1,0 +1,54 @@
+Doctor: Dr. Roland Steiner
+Doctor ID: 1670
+Specialization: Radiology
+Gender: Male
+Years of experience: 2
+City: Basel, Switzerland
+Clinics: Medizinisches Zentrum Gundeli (clinic ID 218)
+
+Review 1 for Dr. Roland Steiner, Radiology, Basel
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. The staff at Medizinisches Zentrum Gundeli in Basel explained the contrast dye and its side effects before I signed anything.
+
+Review 2 for Dr. Roland Steiner, Radiology, Basel
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Roland Steiner, Radiology, Basel
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Roland Steiner, Radiology, Basel
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Roland Steiner, Radiology, Basel
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Roland Steiner sent a clear report within a day. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 6 for Dr. Roland Steiner, Radiology, Basel
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: I liked the advice I got from Dr. Roland Steiner, but I would have liked more time to ask follow-up questions before the visit ended. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 7 for Dr. Roland Steiner, Radiology, Basel
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: The treatment plan from Dr. Roland Steiner made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Roland Steiner, Radiology, Basel
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Roland Steiner felt well organized from start to finish. The report from Dr. Roland Steiner was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 9 for Dr. Roland Steiner, Radiology, Basel
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Gundeli
+Description: Reviewing my X-ray together with Dr. Roland Steiner on the screen made it much easier to understand my arthritis. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Roland Steiner, Radiology, Basel: 7.00/10 from 9 reviews

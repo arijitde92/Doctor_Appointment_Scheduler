@@ -1,0 +1,59 @@
+Doctor: Dr. Wong Kok Leong
+Doctor ID: 4514
+Specialization: General
+Gender: Male
+Years of experience: 20
+City: Singapore, Singapore
+Clinics: Bayfront Wellness Clinic (clinic ID 582); Queensway Health Centre (clinic ID 590)
+
+Review 1 for Dr. Wong Kok Leong, General, Singapore
+Rating: 8/10
+Clinic visited: Queensway Health Centre
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 2 for Dr. Wong Kok Leong, General, Singapore
+Rating: 7/10
+Clinic visited: Bayfront Wellness Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 3 for Dr. Wong Kok Leong, General, Singapore
+Rating: 10/10
+Clinic visited: Queensway Health Centre
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. As a new patient in Singapore, I felt welcomed at Queensway Health Centre, and my whole history was reviewed in one relaxed visit. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Wong Kok Leong, General, Singapore
+Rating: 9/10
+Clinic visited: Queensway Health Centre
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I always hear back within a day when I leave a question with the nurse at Queensway Health Centre, and Dr. Wong Kok Leong follows up on lab results personally.
+
+Review 5 for Dr. Wong Kok Leong, General, Singapore
+Rating: 9/10
+Clinic visited: Queensway Health Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. My blood pressure had crept up and Dr. Wong Kok Leong walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 6 for Dr. Wong Kok Leong, General, Singapore
+Rating: 9/10
+Clinic visited: Queensway Health Centre
+Description: I went in with months of tiredness, and Dr. Wong Kok Leong ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. My test results arrived in the portal within two days, together with a short note that made sense. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Wong Kok Leong, General, Singapore
+Rating: 9/10
+Clinic visited: Bayfront Wellness Clinic
+Description: Getting to Bayfront Wellness Clinic from across Singapore was easy, and the same-week appointment saved me an urgent care trip. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Wong Kok Leong, General, Singapore
+Rating: 9/10
+Clinic visited: Queensway Health Centre
+Description: My annual check-up with Dr. Wong Kok Leong took forty minutes, with every screening explained and nothing rushed. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Wong Kok Leong, General, Singapore
+Rating: 7/10
+Clinic visited: Queensway Health Centre
+Description: Referrals from Dr. Wong Kok Leong are handled well, but getting test results back took longer than I was told to expect. Good bedside manner from Dr. Wong Kok Leong, but the parking near Queensway Health Centre is limited and I had to circle for fifteen minutes.
+
+Review 10 for Dr. Wong Kok Leong, General, Singapore
+Rating: 10/10
+Clinic visited: Queensway Health Centre
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. Dr. Wong Kok Leong double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Wong Kok Leong, General, Singapore: 8.70/10 from 10 reviews

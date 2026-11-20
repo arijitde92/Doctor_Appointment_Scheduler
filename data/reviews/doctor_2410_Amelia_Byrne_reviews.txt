@@ -1,0 +1,49 @@
+Doctor: Dr. Amelia Byrne
+Doctor ID: 2410
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 15
+City: Cork, Ireland
+Clinics: Patrick Street Medical Practice (clinic ID 315); Blackpool Polyclinic (clinic ID 318)
+
+Review 1 for Dr. Amelia Byrne, Pediatrics, Cork
+Rating: 9/10
+Clinic visited: Blackpool Polyclinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. My child's asthma action plan from Dr. Amelia Byrne was written out clearly so that school staff could follow it too.
+
+Review 2 for Dr. Amelia Byrne, Pediatrics, Cork
+Rating: 9/10
+Clinic visited: Patrick Street Medical Practice
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 3 for Dr. Amelia Byrne, Pediatrics, Cork
+Rating: 9/10
+Clinic visited: Blackpool Polyclinic
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. A translator was arranged for my mother without us asking twice, and Dr. Amelia Byrne spoke directly to her throughout.
+
+Review 4 for Dr. Amelia Byrne, Pediatrics, Cork
+Rating: 8/10
+Clinic visited: Blackpool Polyclinic
+Description: Paperwork at Blackpool Polyclinic was kept to a minimum, and the staff helped me complete the insurance form. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Amelia Byrne, Pediatrics, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: My toddler was terrified of doctors, but Dr. Amelia Byrne sat on the floor, played with a stuffed toy and examined everything without a single tear.
+
+Review 6 for Dr. Amelia Byrne, Pediatrics, Cork
+Rating: 9/10
+Clinic visited: Blackpool Polyclinic
+Description: Kind to anxious parents, Dr. Amelia Byrne never showed a hint of impatience when I felt silly asking about a rash. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Amelia Byrne, Pediatrics, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: Our family has been coming for years, and she remembers each child's history and personality.
+
+Review 8 for Dr. Amelia Byrne, Pediatrics, Cork
+Rating: 9/10
+Clinic visited: Blackpool Polyclinic
+Description: Dr. Amelia Byrne noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Overall rating for Dr. Amelia Byrne, Pediatrics, Cork: 9.12/10 from 8 reviews

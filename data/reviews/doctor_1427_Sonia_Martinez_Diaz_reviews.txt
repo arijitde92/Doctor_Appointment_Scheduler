@@ -1,0 +1,54 @@
+Doctor: Dr. Sonia Martínez Díaz
+Doctor ID: 1427
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 10
+City: Seville, Spain
+Clinics: Centro Médico Nervión (clinic ID 186); Clínica Santa Justa (clinic ID 188)
+
+Review 1 for Dr. Sonia Martínez Díaz, Pulmonology, Seville
+Rating: 9/10
+Clinic visited: Clínica Santa Justa
+Description: The practice in Seville is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Sonia Martínez Díaz, Pulmonology, Seville
+Rating: 10/10
+Clinic visited: Centro Médico Nervión
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting. At my visit, Dr. Sonia Martínez Díaz took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 3 for Dr. Sonia Martínez Díaz, Pulmonology, Seville
+Rating: 9/10
+Clinic visited: Clínica Santa Justa
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 4 for Dr. Sonia Martínez Díaz, Pulmonology, Seville
+Rating: 7/10
+Clinic visited: Clínica Santa Justa
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Sonia Martínez Díaz, Pulmonology, Seville
+Rating: 7/10
+Clinic visited: Centro Médico Nervión
+Description: Good bedside manner from Dr. Sonia Martínez Díaz, but the parking near Centro Médico Nervión is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Sonia Martínez Díaz, Pulmonology, Seville
+Rating: 8/10
+Clinic visited: Centro Médico Nervión
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Seville. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 7 for Dr. Sonia Martínez Díaz, Pulmonology, Seville
+Rating: 8/10
+Clinic visited: Clínica Santa Justa
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Sonia Martínez Díaz, Pulmonology, Seville
+Rating: 7/10
+Clinic visited: Clínica Santa Justa
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 9 for Dr. Sonia Martínez Díaz, Pulmonology, Seville
+Rating: 7/10
+Clinic visited: Centro Médico Nervión
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Overall rating for Dr. Sonia Martínez Díaz, Pulmonology, Seville: 8.00/10 from 9 reviews

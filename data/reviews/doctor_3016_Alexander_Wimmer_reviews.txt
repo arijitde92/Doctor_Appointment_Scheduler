@@ -1,0 +1,54 @@
+Doctor: Dr. Alexander Wimmer
+Doctor ID: 3016
+Specialization: Radiology
+Gender: Male
+Years of experience: 7
+City: Vienna, Austria
+Clinics: Medizinisches Zentrum Landstraße (clinic ID 393)
+
+Review 1 for Dr. Alexander Wimmer, Radiology, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The treatment plan from Dr. Alexander Wimmer made sense, but I wished it had been written down for me to take away. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 2 for Dr. Alexander Wimmer, Radiology, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 3 for Dr. Alexander Wimmer, Radiology, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 4 for Dr. Alexander Wimmer, Radiology, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Professional technologist, though the changing room was cramped and the lockers did not work. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Alexander Wimmer, Radiology, Vienna
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Alexander Wimmer, Radiology, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Paperwork at Medizinisches Zentrum Landstraße was kept to a minimum, and the staff helped me complete the insurance form. He called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 7 for Dr. Alexander Wimmer, Radiology, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Alexander Wimmer answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 8 for Dr. Alexander Wimmer, Radiology, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 9 for Dr. Alexander Wimmer, Radiology, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The report from Dr. Alexander Wimmer was thorough, though full of technical terms that needed my regular doctor to translate. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Alexander Wimmer, Radiology, Vienna: 6.33/10 from 9 reviews

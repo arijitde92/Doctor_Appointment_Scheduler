@@ -1,0 +1,59 @@
+Doctor: Dr. Taras Tkachuk
+Doctor ID: 3610
+Specialization: Cardiology
+Gender: Male
+Years of experience: 14
+City: Lviv, Ukraine
+Clinics: Lion Gate Medical Centre (clinic ID 466)
+
+Review 1 for Dr. Taras Tkachuk, Cardiology, Lviv
+Rating: 8/10
+Clinic visited: Lion Gate Medical Centre
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 2 for Dr. Taras Tkachuk, Cardiology, Lviv
+Rating: 7/10
+Clinic visited: Lion Gate Medical Centre
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Taras Tkachuk, Cardiology, Lviv
+Rating: 7/10
+Clinic visited: Lion Gate Medical Centre
+Description: Booking was easy online, but the confirmation email contained the wrong address for Lion Gate Medical Centre. Dr. Taras Tkachuk adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 4 for Dr. Taras Tkachuk, Cardiology, Lviv
+Rating: 9/10
+Clinic visited: Lion Gate Medical Centre
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 5 for Dr. Taras Tkachuk, Cardiology, Lviv
+Rating: 6/10
+Clinic visited: Lion Gate Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away. Thorough exam and a good plan, yet the stress test appointment was almost a month away. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Taras Tkachuk, Cardiology, Lviv
+Rating: 10/10
+Clinic visited: Lion Gate Medical Centre
+Description: Booking online at Lion Gate Medical Centre was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 7 for Dr. Taras Tkachuk, Cardiology, Lviv
+Rating: 8/10
+Clinic visited: Lion Gate Medical Centre
+Description: At my visit, Dr. Taras Tkachuk took notes on my medication list, checked for interactions and explained the changes simply. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Taras Tkachuk, Cardiology, Lviv
+Rating: 7/10
+Clinic visited: Lion Gate Medical Centre
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 9 for Dr. Taras Tkachuk, Cardiology, Lviv
+Rating: 6/10
+Clinic visited: Lion Gate Medical Centre
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Taras Tkachuk, Cardiology, Lviv
+Rating: 8/10
+Clinic visited: Lion Gate Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Overall rating for Dr. Taras Tkachuk, Cardiology, Lviv: 7.60/10 from 10 reviews

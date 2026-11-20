@@ -1,0 +1,49 @@
+Doctor: Dr. Alfredo Flores
+Doctor ID: 4800
+Specialization: Neurology
+Gender: Male
+Years of experience: 4
+City: Davao City, Philippines
+Clinics: Tala Medical Clinic (clinic ID 620)
+
+Review 1 for Dr. Alfredo Flores, Neurology, Davao City
+Rating: 5/10
+Clinic visited: Tala Medical Clinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 2 for Dr. Alfredo Flores, Neurology, Davao City
+Rating: 8/10
+Clinic visited: Tala Medical Clinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Alfredo Flores, Neurology, Davao City
+Rating: 7/10
+Clinic visited: Tala Medical Clinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Alfredo Flores, Neurology, Davao City
+Rating: 9/10
+Clinic visited: Tala Medical Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Alfredo Flores, Neurology, Davao City
+Rating: 8/10
+Clinic visited: Tala Medical Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 6 for Dr. Alfredo Flores, Neurology, Davao City
+Rating: 6/10
+Clinic visited: Tala Medical Clinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Alfredo Flores, Neurology, Davao City
+Rating: 6/10
+Clinic visited: Tala Medical Clinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Alfredo Flores at Tala Medical Clinic are difficult to schedule. Dr. Alfredo Flores was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 8 for Dr. Alfredo Flores, Neurology, Davao City
+Rating: 6/10
+Clinic visited: Tala Medical Clinic
+Description: Dr. Alfredo Flores explained my results well, although the visit felt short for such a complex condition. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Alfredo Flores, Neurology, Davao City: 6.88/10 from 8 reviews

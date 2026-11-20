@@ -1,0 +1,59 @@
+Doctor: Dr. Kevin Quinn
+Doctor ID: 2424
+Specialization: Cardiology
+Gender: Male
+Years of experience: 29
+City: Cork, Ireland
+Clinics: South Mall Health Centre (clinic ID 317); Blackpool Polyclinic (clinic ID 318)
+
+Review 1 for Dr. Kevin Quinn, Cardiology, Cork
+Rating: 8/10
+Clinic visited: Blackpool Polyclinic
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. At my visit, Dr. Kevin Quinn took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 2 for Dr. Kevin Quinn, Cardiology, Cork
+Rating: 8/10
+Clinic visited: South Mall Health Centre
+Description: Honest about the risks and benefits of the procedure, Dr. Kevin Quinn never pressured me toward surgery. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Kevin Quinn, Cardiology, Cork
+Rating: 7/10
+Clinic visited: Blackpool Polyclinic
+Description: Dr. Kevin Quinn adjusted my blood pressure medication carefully, though I had to call twice for a refill. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Kevin Quinn, Cardiology, Cork
+Rating: 7/10
+Clinic visited: Blackpool Polyclinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Great care in the visit itself, but the billing for the tests at Blackpool Polyclinic was confusing. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Kevin Quinn, Cardiology, Cork
+Rating: 8/10
+Clinic visited: South Mall Health Centre
+Description: The cardiology unit at South Mall Health Centre runs on time, and the technicians were professional during my echocardiogram.
+
+Review 6 for Dr. Kevin Quinn, Cardiology, Cork
+Rating: 7/10
+Clinic visited: Blackpool Polyclinic
+Description: Dr. Kevin Quinn was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Kevin Quinn, Cardiology, Cork
+Rating: 8/10
+Clinic visited: South Mall Health Centre
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 8 for Dr. Kevin Quinn, Cardiology, Cork
+Rating: 7/10
+Clinic visited: South Mall Health Centre
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 9 for Dr. Kevin Quinn, Cardiology, Cork
+Rating: 8/10
+Clinic visited: South Mall Health Centre
+Description: The waiting room at South Mall Health Centre was clean, quiet and comfortable, with enough seating and water available. I have no hesitation sending my own relatives here.
+
+Review 10 for Dr. Kevin Quinn, Cardiology, Cork
+Rating: 6/10
+Clinic visited: Blackpool Polyclinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Kevin Quinn, Cardiology, Cork: 7.40/10 from 10 reviews

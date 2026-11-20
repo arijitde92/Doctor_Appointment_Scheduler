@@ -1,0 +1,59 @@
+Doctor: Dr. Inoue Megumi
+Doctor ID: 4098
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 10
+City: Tokyo, Japan
+Clinics: Setagaya Kotobuki Family Clinic (clinic ID 529)
+
+Review 1 for Dr. Inoue Megumi, Orthopedic, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Dr. Inoue Megumi explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Dr. Inoue Megumi was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Inoue Megumi, Orthopedic, Tokyo
+Rating: 4/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: The staff at Setagaya Kotobuki Family Clinic were curt on the phone, and it took four attempts to book a simple follow-up. After my fracture, nobody explained the cast care, and I ended up back in the clinic with skin irritation.
+
+Review 3 for Dr. Inoue Megumi, Orthopedic, Tokyo
+Rating: 5/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I liked the advice I got from Dr. Inoue Megumi, but I would have liked more time to ask follow-up questions before the visit ended. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Inoue Megumi, Orthopedic, Tokyo
+Rating: 5/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Inoue Megumi, Orthopedic, Tokyo
+Rating: 6/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Very skilled with my knee, but Dr. Inoue Megumi's clinic runs behind and the wait was over an hour. I got what I needed, but the next available appointment was three weeks away. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Inoue Megumi, Orthopedic, Tokyo
+Rating: 6/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Inoue Megumi, Orthopedic, Tokyo
+Rating: 6/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Inoue Megumi, Orthopedic, Tokyo
+Rating: 4/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Dr. Inoue Megumi seemed to dismiss my concerns about swelling after the operation, and I had to go elsewhere. There was no translator available, and my parent was left unable to follow what was being said. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 9 for Dr. Inoue Megumi, Orthopedic, Tokyo
+Rating: 4/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: The surgery fee ended up far higher than the quote, and billing staff could not explain the difference. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 10 for Dr. Inoue Megumi, Orthopedic, Tokyo
+Rating: 5/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Overall rating for Dr. Inoue Megumi, Orthopedic, Tokyo: 5.20/10 from 10 reviews

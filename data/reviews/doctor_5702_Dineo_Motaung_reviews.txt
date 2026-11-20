@@ -1,0 +1,49 @@
+Doctor: Dr. Dineo Motaung
+Doctor ID: 5702
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 19
+City: Cape Town, South Africa
+Clinics: Bellville Park Health Clinic (clinic ID 737)
+
+Review 1 for Dr. Dineo Motaung, Orthopedic, Cape Town
+Rating: 8/10
+Clinic visited: Bellville Park Health Clinic
+Description: Sensitive questions were handled by Dr. Dineo Motaung with discretion and without a hint of judgment.
+
+Review 2 for Dr. Dineo Motaung, Orthopedic, Cape Town
+Rating: 6/10
+Clinic visited: Bellville Park Health Clinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Dineo Motaung, Orthopedic, Cape Town
+Rating: 7/10
+Clinic visited: Bellville Park Health Clinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Dineo Motaung, Orthopedic, Cape Town
+Rating: 7/10
+Clinic visited: Bellville Park Health Clinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Dineo Motaung, Orthopedic, Cape Town
+Rating: 10/10
+Clinic visited: Bellville Park Health Clinic
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. Dr. Dineo Motaung looked me in the eye, listened to the whole story and only then started typing.
+
+Review 6 for Dr. Dineo Motaung, Orthopedic, Cape Town
+Rating: 9/10
+Clinic visited: Bellville Park Health Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 7 for Dr. Dineo Motaung, Orthopedic, Cape Town
+Rating: 8/10
+Clinic visited: Bellville Park Health Clinic
+Description: My torn rotator cuff was managed first by Dr. Dineo Motaung with physiotherapy, and surgery was only suggested when it truly was needed. The receptionist at Bellville Park Health Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 8 for Dr. Dineo Motaung, Orthopedic, Cape Town
+Rating: 7/10
+Clinic visited: Bellville Park Health Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Dineo Motaung, Orthopedic, Cape Town: 7.75/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Jan Claessens
+Doctor ID: 3091
+Specialization: Neurology
+Gender: Male
+Years of experience: 1
+City: Brussels, Belgium
+Clinics: Polyclinique Etterbeek (clinic ID 402); Medisch Centrum Schuman (clinic ID 403)
+
+Review 1 for Dr. Jan Claessens, Neurology, Brussels
+Rating: 7/10
+Clinic visited: Polyclinique Etterbeek
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Jan Claessens at Polyclinique Etterbeek are difficult to schedule.
+
+Review 2 for Dr. Jan Claessens, Neurology, Brussels
+Rating: 6/10
+Clinic visited: Polyclinique Etterbeek
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 3 for Dr. Jan Claessens, Neurology, Brussels
+Rating: 9/10
+Clinic visited: Medisch Centrum Schuman
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 4 for Dr. Jan Claessens, Neurology, Brussels
+Rating: 5/10
+Clinic visited: Polyclinique Etterbeek
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Jan Claessens, Neurology, Brussels
+Rating: 8/10
+Clinic visited: Medisch Centrum Schuman
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Medisch Centrum Schuman. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 6 for Dr. Jan Claessens, Neurology, Brussels
+Rating: 7/10
+Clinic visited: Medisch Centrum Schuman
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Jan Claessens, Neurology, Brussels
+Rating: 6/10
+Clinic visited: Polyclinique Etterbeek
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Jan Claessens, Neurology, Brussels
+Rating: 7/10
+Clinic visited: Medisch Centrum Schuman
+Description: Dr. Jan Claessens was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Jan Claessens, Neurology, Brussels
+Rating: 7/10
+Clinic visited: Polyclinique Etterbeek
+Description: Quick appointment and a fair price in Brussels, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 10 for Dr. Jan Claessens, Neurology, Brussels
+Rating: 6/10
+Clinic visited: Polyclinique Etterbeek
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Overall rating for Dr. Jan Claessens, Neurology, Brussels: 6.80/10 from 10 reviews

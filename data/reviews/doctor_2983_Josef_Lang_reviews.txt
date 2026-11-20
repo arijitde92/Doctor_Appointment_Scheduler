@@ -1,0 +1,54 @@
+Doctor: Dr. Josef Lang
+Doctor ID: 2983
+Specialization: Pathology
+Gender: Male
+Years of experience: 26
+City: Salzburg, Austria
+Clinics: Ordination Gnigl Salzburg (clinic ID 389)
+
+Review 1 for Dr. Josef Lang, Pathology, Salzburg
+Rating: 8/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: At my visit, Dr. Josef Lang took notes on my medication list, checked for interactions and explained the changes simply. He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Josef Lang, Pathology, Salzburg
+Rating: 7/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: The blood draw was painless, but the waiting area at Ordination Gnigl Salzburg was crowded in the early morning. I got what I needed, but the next available appointment was three weeks away.
+
+Review 3 for Dr. Josef Lang, Pathology, Salzburg
+Rating: 8/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Dr. Josef Lang double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Josef Lang, Pathology, Salzburg
+Rating: 5/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Dr. Josef Lang was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Josef Lang, Pathology, Salzburg
+Rating: 6/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Josef Lang, Pathology, Salzburg
+Rating: 7/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. The treatment plan from Dr. Josef Lang made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Josef Lang, Pathology, Salzburg
+Rating: 8/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 8 for Dr. Josef Lang, Pathology, Salzburg
+Rating: 8/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. The biopsy report was returned in three days, and Dr. Josef Lang took time on the phone to explain every term in it.
+
+Review 9 for Dr. Josef Lang, Pathology, Salzburg
+Rating: 6/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Dr. Josef Lang answered my questions kindly, though the call back took three days. Dr. Josef Lang was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Josef Lang, Pathology, Salzburg: 7.00/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Martijn de Boer
+Doctor ID: 2665
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 22
+City: The Hague, Netherlands
+Clinics: Medisch Centrum Hofkwartier (clinic ID 349)
+
+Review 1 for Dr. Martijn de Boer, Psychiatry, The Hague
+Rating: 4/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion. The prescription from Dr. Martijn de Boer was not the one we discussed, and I only noticed when I got home.
+
+Review 2 for Dr. Martijn de Boer, Psychiatry, The Hague
+Rating: 6/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 3 for Dr. Martijn de Boer, Psychiatry, The Hague
+Rating: 5/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Dr. Martijn de Boer is knowledgeable, though I waited several weeks for my first appointment. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Martijn de Boer, Psychiatry, The Hague
+Rating: 8/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Appointments in The Hague are always on schedule, and the waiting area is peaceful and private. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 5 for Dr. Martijn de Boer, Psychiatry, The Hague
+Rating: 6/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Good bedside manner from Dr. Martijn de Boer, but the parking near Medisch Centrum Hofkwartier is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Martijn de Boer, Psychiatry, The Hague
+Rating: 9/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: I felt heard by Dr. Martijn de Boer during a very hard time, and nobody rushed me out of the room. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Martijn de Boer, Psychiatry, The Hague
+Rating: 7/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. I liked the advice I got from Dr. Martijn de Boer, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Martijn de Boer, Psychiatry, The Hague
+Rating: 5/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Good listener, yet the refill process at Medisch Centrum Hofkwartier is slow and requires several phone calls. Booking was easy online, but the confirmation email contained the wrong address for Medisch Centrum Hofkwartier. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Martijn de Boer, Psychiatry, The Hague: 6.25/10 from 8 reviews

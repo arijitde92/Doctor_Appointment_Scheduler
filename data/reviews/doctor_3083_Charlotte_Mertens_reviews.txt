@@ -1,0 +1,49 @@
+Doctor: Dr. Charlotte Mertens
+Doctor ID: 3083
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 1
+City: Brussels, Belgium
+Clinics: Cabinet Médical Sablon (clinic ID 401)
+
+Review 1 for Dr. Charlotte Mertens, Pulmonology, Brussels
+Rating: 8/10
+Clinic visited: Cabinet Médical Sablon
+Description: The spirometry test was explained step by step, and Dr. Charlotte Mertens put the results in context with a clear picture of my lung function. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Charlotte Mertens, Pulmonology, Brussels
+Rating: 10/10
+Clinic visited: Cabinet Médical Sablon
+Description: Dr. Charlotte Mertens explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 3 for Dr. Charlotte Mertens, Pulmonology, Brussels
+Rating: 7/10
+Clinic visited: Cabinet Médical Sablon
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Charlotte Mertens, Pulmonology, Brussels
+Rating: 8/10
+Clinic visited: Cabinet Médical Sablon
+Description: At my visit, Dr. Charlotte Mertens took notes on my medication list, checked for interactions and explained the changes simply. My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 5 for Dr. Charlotte Mertens, Pulmonology, Brussels
+Rating: 5/10
+Clinic visited: Cabinet Médical Sablon
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Charlotte Mertens, Pulmonology, Brussels
+Rating: 7/10
+Clinic visited: Cabinet Médical Sablon
+Description: Helpful and honest about my prognosis, Dr. Charlotte Mertens could still have given me more written material to take home. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Charlotte Mertens, Pulmonology, Brussels
+Rating: 6/10
+Clinic visited: Cabinet Médical Sablon
+Description: Dr. Charlotte Mertens adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 8 for Dr. Charlotte Mertens, Pulmonology, Brussels
+Rating: 7/10
+Clinic visited: Cabinet Médical Sablon
+Description: Pleasant manner and careful lung exam, though the waiting time at Cabinet Médical Sablon regularly exceeded forty minutes.
+
+Overall rating for Dr. Charlotte Mertens, Pulmonology, Brussels: 7.25/10 from 8 reviews

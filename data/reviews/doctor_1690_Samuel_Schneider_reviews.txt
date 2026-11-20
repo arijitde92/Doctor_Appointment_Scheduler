@@ -1,0 +1,49 @@
+Doctor: Dr. Samuel Schneider
+Doctor ID: 1690
+Specialization: Neurology
+Gender: Male
+Years of experience: 14
+City: Bern, Switzerland
+Clinics: Praxis Spitalgasse Bern (clinic ID 220)
+
+Review 1 for Dr. Samuel Schneider, Neurology, Bern
+Rating: 3/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. The bill included tests that I had never been told about, and nobody could explain them. I left disappointed and will take my business to another clinic.
+
+Review 2 for Dr. Samuel Schneider, Neurology, Bern
+Rating: 3/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: After a long wait, my appointment with Dr. Samuel Schneider lasted a few minutes and ended with a new prescription and no discussion.
+
+Review 3 for Dr. Samuel Schneider, Neurology, Bern
+Rating: 7/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Dr. Samuel Schneider was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Samuel Schneider, Neurology, Bern
+Rating: 5/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: The treatment plan from Dr. Samuel Schneider made sense, but I wished it had been written down for me to take away. Careful assessment of my memory issues, though I would have liked more information on support services. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Samuel Schneider, Neurology, Bern
+Rating: 6/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 6 for Dr. Samuel Schneider, Neurology, Bern
+Rating: 4/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: My worsening headaches were put down to stress without a proper neurological exam or any imaging. Not a place I would choose again, and I hope others have a better experience.
+
+Review 7 for Dr. Samuel Schneider, Neurology, Bern
+Rating: 3/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: Dr. Samuel Schneider did not look up from the notes while I described my seizure, and I felt completely unheard.
+
+Review 8 for Dr. Samuel Schneider, Neurology, Bern
+Rating: 5/10
+Clinic visited: Praxis Spitalgasse Bern
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Overall rating for Dr. Samuel Schneider, Neurology, Bern: 4.50/10 from 8 reviews

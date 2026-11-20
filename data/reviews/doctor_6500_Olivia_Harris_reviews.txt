@@ -1,0 +1,59 @@
+Doctor: Dr. Olivia Harris
+Doctor ID: 6500
+Specialization: Neurology
+Gender: Female
+Years of experience: 5
+City: Melbourne, Australia
+Clinics: Banksia Medical Centre (clinic ID 841)
+
+Review 1 for Dr. Olivia Harris, Neurology, Melbourne
+Rating: 7/10
+Clinic visited: Banksia Medical Centre
+Description: Dr. Olivia Harris was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Olivia Harris, Neurology, Melbourne
+Rating: 9/10
+Clinic visited: Banksia Medical Centre
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 3 for Dr. Olivia Harris, Neurology, Melbourne
+Rating: 9/10
+Clinic visited: Banksia Medical Centre
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Olivia Harris, Neurology, Melbourne
+Rating: 9/10
+Clinic visited: Banksia Medical Centre
+Description: Clear and honest talk with Dr. Olivia Harris about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Olivia Harris, Neurology, Melbourne
+Rating: 10/10
+Clinic visited: Banksia Medical Centre
+Description: Dr. Olivia Harris took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. Dr. Olivia Harris used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 6 for Dr. Olivia Harris, Neurology, Melbourne
+Rating: 10/10
+Clinic visited: Banksia Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Olivia Harris, Neurology, Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: After years of migraines, Dr. Olivia Harris built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 8 for Dr. Olivia Harris, Neurology, Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: She patiently explained my MRI findings and calmed my worries about memory problems. Appointment reminders came by text and email, and rescheduling took two taps. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. Olivia Harris, Neurology, Melbourne
+Rating: 10/10
+Clinic visited: Banksia Medical Centre
+Description: Getting a same-month appointment in Melbourne for my sudden headaches was a real relief, and the work-up was prompt. The practice in Melbourne is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 10 for Dr. Olivia Harris, Neurology, Melbourne
+Rating: 9/10
+Clinic visited: Banksia Medical Centre
+Description: Paperwork at Banksia Medical Centre was kept to a minimum, and the staff helped me complete the insurance form. I always leave Dr. Olivia Harris's office with a short written summary of changes, which helps my family keep up. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Olivia Harris, Neurology, Melbourne: 8.90/10 from 10 reviews

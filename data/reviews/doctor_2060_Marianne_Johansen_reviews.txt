@@ -1,0 +1,69 @@
+Doctor: Dr. Marianne Johansen
+Doctor ID: 2060
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 14
+City: Stavanger, Norway
+Clinics: Legesenteret Pedersgata (clinic ID 269)
+
+Review 1 for Dr. Marianne Johansen, Orthopedic, Stavanger
+Rating: 7/10
+Clinic visited: Legesenteret Pedersgata
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 2 for Dr. Marianne Johansen, Orthopedic, Stavanger
+Rating: 8/10
+Clinic visited: Legesenteret Pedersgata
+Description: Paperwork at Legesenteret Pedersgata was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 3 for Dr. Marianne Johansen, Orthopedic, Stavanger
+Rating: 6/10
+Clinic visited: Legesenteret Pedersgata
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Marianne Johansen, Orthopedic, Stavanger
+Rating: 6/10
+Clinic visited: Legesenteret Pedersgata
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 5 for Dr. Marianne Johansen, Orthopedic, Stavanger
+Rating: 6/10
+Clinic visited: Legesenteret Pedersgata
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Marianne Johansen, Orthopedic, Stavanger
+Rating: 7/10
+Clinic visited: Legesenteret Pedersgata
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 7 for Dr. Marianne Johansen, Orthopedic, Stavanger
+Rating: 7/10
+Clinic visited: Legesenteret Pedersgata
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 8 for Dr. Marianne Johansen, Orthopedic, Stavanger
+Rating: 6/10
+Clinic visited: Legesenteret Pedersgata
+Description: Very skilled with my knee, but Dr. Marianne Johansen's clinic runs behind and the wait was over an hour. I liked the advice I got from Dr. Marianne Johansen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 9 for Dr. Marianne Johansen, Orthopedic, Stavanger
+Rating: 8/10
+Clinic visited: Legesenteret Pedersgata
+Description: Follow-up scans were compared with the earlier ones, and Dr. Marianne Johansen showed me how the bone had healed.
+
+Review 10 for Dr. Marianne Johansen, Orthopedic, Stavanger
+Rating: 5/10
+Clinic visited: Legesenteret Pedersgata
+Description: Dr. Marianne Johansen explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 11 for Dr. Marianne Johansen, Orthopedic, Stavanger
+Rating: 3/10
+Clinic visited: Legesenteret Pedersgata
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 12 for Dr. Marianne Johansen, Orthopedic, Stavanger
+Rating: 6/10
+Clinic visited: Legesenteret Pedersgata
+Description: Booking was easy online, but the confirmation email contained the wrong address for Legesenteret Pedersgata.
+
+Overall rating for Dr. Marianne Johansen, Orthopedic, Stavanger: 6.25/10 from 12 reviews

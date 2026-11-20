@@ -1,0 +1,54 @@
+Doctor: Dr. Stephanie Johnson
+Doctor ID: 6578
+Specialization: Radiology
+Gender: Female
+Years of experience: 8
+City: Sydney, Australia
+Clinics: Harbourside General Practice (clinic ID 852)
+
+Review 1 for Dr. Stephanie Johnson, Radiology, Sydney
+Rating: 8/10
+Clinic visited: Harbourside General Practice
+Description: Reviewing my X-ray together with Dr. Stephanie Johnson on the screen made it much easier to understand my arthritis. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Stephanie Johnson, Radiology, Sydney
+Rating: 9/10
+Clinic visited: Harbourside General Practice
+Description: Images from Harbourside General Practice were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 3 for Dr. Stephanie Johnson, Radiology, Sydney
+Rating: 8/10
+Clinic visited: Harbourside General Practice
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Stephanie Johnson, Radiology, Sydney
+Rating: 5/10
+Clinic visited: Harbourside General Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 5 for Dr. Stephanie Johnson, Radiology, Sydney
+Rating: 9/10
+Clinic visited: Harbourside General Practice
+Description: I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 6 for Dr. Stephanie Johnson, Radiology, Sydney
+Rating: 4/10
+Clinic visited: Harbourside General Practice
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. Dr. Stephanie Johnson was never available to discuss my findings, and the report left me more confused than before.
+
+Review 7 for Dr. Stephanie Johnson, Radiology, Sydney
+Rating: 9/10
+Clinic visited: Harbourside General Practice
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Stephanie Johnson, Radiology, Sydney
+Rating: 6/10
+Clinic visited: Harbourside General Practice
+Description: The report from Dr. Stephanie Johnson was thorough, though full of technical terms that needed my regular doctor to translate. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 9 for Dr. Stephanie Johnson, Radiology, Sydney
+Rating: 9/10
+Clinic visited: Harbourside General Practice
+Description: Dr. Stephanie Johnson compared my new scan with last year's and pointed out exactly what had stayed the same. I was given a printed summary of the visit, which I shared with my family at home.
+
+Overall rating for Dr. Stephanie Johnson, Radiology, Sydney: 7.44/10 from 9 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Max Pereira
+Doctor ID: 3328
+Specialization: Radiology
+Gender: Male
+Years of experience: 17
+City: Luxembourg City, Luxembourg
+Clinics: Polyclinique Limpertsberg (clinic ID 432); Clinique Bonnevoie (clinic ID 433)
+
+Review 1 for Dr. Max Pereira, Radiology, Luxembourg City
+Rating: 10/10
+Clinic visited: Clinique Bonnevoie
+Description: Dr. Max Pereira looked me in the eye, listened to the whole story and only then started typing. Fast, clean and professional; the bone density scan with Dr. Max Pereira was painless and the results were explained clearly. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Max Pereira, Radiology, Luxembourg City
+Rating: 8/10
+Clinic visited: Clinique Bonnevoie
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 3 for Dr. Max Pereira, Radiology, Luxembourg City
+Rating: 9/10
+Clinic visited: Clinique Bonnevoie
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. I was called in within five minutes of my appointment time at Clinique Bonnevoie, which is rare and much appreciated. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Max Pereira, Radiology, Luxembourg City
+Rating: 7/10
+Clinic visited: Clinique Bonnevoie
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Max Pereira, Radiology, Luxembourg City
+Rating: 8/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Booking a CT scan online at Polyclinique Limpertsberg took two minutes, and I was in and out within forty minutes. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 6 for Dr. Max Pereira, Radiology, Luxembourg City
+Rating: 10/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Parking was simple, the waiting room was calm, and I never felt like a number.
+
+Review 7 for Dr. Max Pereira, Radiology, Luxembourg City
+Rating: 8/10
+Clinic visited: Clinique Bonnevoie
+Description: When my scan showed something that needed a second look, Dr. Max Pereira arranged the follow-up the same day. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Max Pereira, Radiology, Luxembourg City
+Rating: 9/10
+Clinic visited: Clinique Bonnevoie
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 9 for Dr. Max Pereira, Radiology, Luxembourg City
+Rating: 7/10
+Clinic visited: Clinique Bonnevoie
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Max Pereira, Radiology, Luxembourg City
+Rating: 9/10
+Clinic visited: Clinique Bonnevoie
+Description: Appointment reminders came by text and email, and rescheduling took two taps. My ultrasound was unhurried, and Dr. Max Pereira took time to show me the images and explain what each measurement meant.
+
+Overall rating for Dr. Max Pereira, Radiology, Luxembourg City: 8.50/10 from 10 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Jacob Taylor
+Doctor ID: 346
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 27
+City: Toronto, Canada
+Clinics: Etobicoke Care Clinic (clinic ID 48)
+
+Review 1 for Dr. Jacob Taylor, Pediatrics, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: My teenager actually spoke up during the visit, and Dr. Jacob Taylor handled sensitive topics with respect. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 2 for Dr. Jacob Taylor, Pediatrics, Toronto
+Rating: 9/10
+Clinic visited: Etobicoke Care Clinic
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 3 for Dr. Jacob Taylor, Pediatrics, Toronto
+Rating: 6/10
+Clinic visited: Etobicoke Care Clinic
+Description: Dr. Jacob Taylor is thorough with exams, but the after-hours phone line at Etobicoke Care Clinic is hard to reach. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 4 for Dr. Jacob Taylor, Pediatrics, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: The practice in Toronto is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 5 for Dr. Jacob Taylor, Pediatrics, Toronto
+Rating: 9/10
+Clinic visited: Etobicoke Care Clinic
+Description: My toddler was terrified of doctors, but Dr. Jacob Taylor sat on the floor, played with a stuffed toy and examined everything without a single tear.
+
+Review 6 for Dr. Jacob Taylor, Pediatrics, Toronto
+Rating: 9/10
+Clinic visited: Etobicoke Care Clinic
+Description: Getting to Etobicoke Care Clinic by public transport in Toronto was easy, and there is a step-free entrance for wheelchairs.
+
+Review 7 for Dr. Jacob Taylor, Pediatrics, Toronto
+Rating: 10/10
+Clinic visited: Etobicoke Care Clinic
+Description: The growth chart review was detailed, and I appreciated that Dr. Jacob Taylor talked to my child as well as to me. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 8 for Dr. Jacob Taylor, Pediatrics, Toronto
+Rating: 9/10
+Clinic visited: Etobicoke Care Clinic
+Description: Kind to anxious parents, Dr. Jacob Taylor never showed a hint of impatience when I felt silly asking about a rash. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Jacob Taylor, Pediatrics, Toronto: 8.50/10 from 8 reviews

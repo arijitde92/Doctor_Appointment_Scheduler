@@ -1,0 +1,49 @@
+Doctor: Dr. Sandrine Durand
+Doctor ID: 1228
+Specialization: General
+Gender: Female
+Years of experience: 1
+City: Marseille, France
+Clinics: Centre Médical du Vieux-Port (clinic ID 160); Centre de Santé de la Joliette (clinic ID 163)
+
+Review 1 for Dr. Sandrine Durand, General, Marseille
+Rating: 6/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The treatment plan from Dr. Sandrine Durand made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Sandrine Durand, General, Marseille
+Rating: 8/10
+Clinic visited: Centre de Santé de la Joliette
+Description: At my visit, Dr. Sandrine Durand took notes on my medication list, checked for interactions and explained the changes simply. I went in with months of tiredness, and Dr. Sandrine Durand ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 3 for Dr. Sandrine Durand, General, Marseille
+Rating: 7/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Quick appointment and a fair price in Marseille, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Sandrine Durand, General, Marseille
+Rating: 8/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Sandrine Durand, General, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I liked the advice I got from Dr. Sandrine Durand, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Sandrine Durand, General, Marseille
+Rating: 7/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Referrals from Dr. Sandrine Durand are handled well, but getting test results back took longer than I was told to expect.
+
+Review 7 for Dr. Sandrine Durand, General, Marseille
+Rating: 4/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Dr. Sandrine Durand seemed distracted by the computer screen throughout and missed that I had mentioned chest tightness twice.
+
+Review 8 for Dr. Sandrine Durand, General, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: I got what I needed, but the next available appointment was three weeks away. I like that she listens to the full story, even if it means the appointment runs behind schedule. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Sandrine Durand, General, Marseille: 6.75/10 from 8 reviews

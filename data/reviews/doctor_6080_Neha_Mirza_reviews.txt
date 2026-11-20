@@ -1,0 +1,49 @@
+Doctor: Dr. Neha Mirza
+Doctor ID: 6080
+Specialization: Radiology
+Gender: Female
+Years of experience: 2
+City: Dubai, UAE
+Clinics: Palm Court Family Clinic (clinic ID 785); Business Bay Care Polyclinic (clinic ID 787)
+
+Review 1 for Dr. Neha Mirza, Radiology, Dubai
+Rating: 6/10
+Clinic visited: Business Bay Care Polyclinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Neha Mirza, Radiology, Dubai
+Rating: 5/10
+Clinic visited: Business Bay Care Polyclinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 3 for Dr. Neha Mirza, Radiology, Dubai
+Rating: 7/10
+Clinic visited: Business Bay Care Polyclinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Neha Mirza, Radiology, Dubai
+Rating: 7/10
+Clinic visited: Palm Court Family Clinic
+Description: The report from Dr. Neha Mirza was thorough, though full of technical terms that needed my regular doctor to translate. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Neha Mirza, Radiology, Dubai
+Rating: 4/10
+Clinic visited: Business Bay Care Polyclinic
+Description: There was no translator available, and my parent was left unable to follow what was being said. I was charged for a second scan that I was told was a free repeat after an image problem. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 6 for Dr. Neha Mirza, Radiology, Dubai
+Rating: 6/10
+Clinic visited: Palm Court Family Clinic
+Description: The treatment plan from Dr. Neha Mirza made sense, but I wished it had been written down for me to take away. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Neha Mirza, Radiology, Dubai
+Rating: 8/10
+Clinic visited: Business Bay Care Polyclinic
+Description: The staff at Business Bay Care Polyclinic in Dubai explained the contrast dye and its side effects before I signed anything. Getting to Business Bay Care Polyclinic by public transport in Dubai was easy, and there is a step-free entrance for wheelchairs.
+
+Review 8 for Dr. Neha Mirza, Radiology, Dubai
+Rating: 7/10
+Clinic visited: Business Bay Care Polyclinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Dr. Neha Mirza was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Neha Mirza, Radiology, Dubai: 6.25/10 from 8 reviews

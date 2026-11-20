@@ -1,0 +1,49 @@
+Doctor: Dr. Mei Brown
+Doctor ID: 326
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 22
+City: Toronto, Canada
+Clinics: Bloor Street Family Health (clinic ID 45); Willowdale Medical Centre (clinic ID 46)
+
+Review 1 for Dr. Mei Brown, Pediatrics, Toronto
+Rating: 9/10
+Clinic visited: Willowdale Medical Centre
+Description: Getting to Willowdale Medical Centre by public transport in Toronto was easy, and there is a step-free entrance for wheelchairs. I phoned after hours about a fever and was called back within the hour with calm, sensible advice.
+
+Review 2 for Dr. Mei Brown, Pediatrics, Toronto
+Rating: 9/10
+Clinic visited: Willowdale Medical Centre
+Description: Our family has been coming for years, and she remembers each child's history and personality.
+
+Review 3 for Dr. Mei Brown, Pediatrics, Toronto
+Rating: 10/10
+Clinic visited: Willowdale Medical Centre
+Description: A translator was arranged for my mother without us asking twice, and Dr. Mei Brown spoke directly to her throughout.
+
+Review 4 for Dr. Mei Brown, Pediatrics, Toronto
+Rating: 7/10
+Clinic visited: Bloor Street Family Health
+Description: The treatment plan from Dr. Mei Brown made sense, but I wished it had been written down for me to take away. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 5 for Dr. Mei Brown, Pediatrics, Toronto
+Rating: 9/10
+Clinic visited: Willowdale Medical Centre
+Description: The growth chart review was detailed, and I appreciated that Dr. Mei Brown talked to my child as well as to me.
+
+Review 6 for Dr. Mei Brown, Pediatrics, Toronto
+Rating: 8/10
+Clinic visited: Bloor Street Family Health
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 7 for Dr. Mei Brown, Pediatrics, Toronto
+Rating: 7/10
+Clinic visited: Willowdale Medical Centre
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 8 for Dr. Mei Brown, Pediatrics, Toronto
+Rating: 8/10
+Clinic visited: Bloor Street Family Health
+Description: The school physical at Bloor Street Family Health was quick, thorough and the forms were completed on the spot.
+
+Overall rating for Dr. Mei Brown, Pediatrics, Toronto: 8.38/10 from 8 reviews

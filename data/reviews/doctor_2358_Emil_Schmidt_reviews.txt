@@ -1,0 +1,54 @@
+Doctor: Dr. Emil Schmidt
+Doctor ID: 2358
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 1
+City: Copenhagen, Denmark
+Clinics: Lægehuset Østerbro Torv (clinic ID 308)
+
+Review 1 for Dr. Emil Schmidt, Gastroenterology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. At my visit, Dr. Emil Schmidt took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 2 for Dr. Emil Schmidt, Gastroenterology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: Knowledgeable about my reflux, Dr. Emil Schmidt still gave diet advice that felt generic and not tailored to my habits. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Emil Schmidt, Gastroenterology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. The treatment plan from Dr. Emil Schmidt made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Emil Schmidt, Gastroenterology, Copenhagen
+Rating: 5/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Emil Schmidt, Gastroenterology, Copenhagen
+Rating: 6/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Emil Schmidt, Gastroenterology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Emil Schmidt, Gastroenterology, Copenhagen
+Rating: 4/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: My symptoms were dismissed by Dr. Emil Schmidt as a diet issue without any exam, and the problem continued for months. I felt dismissed by Dr. Emil Schmidt when I brought up a second concern, and was told to book another appointment for it.
+
+Review 8 for Dr. Emil Schmidt, Gastroenterology, Copenhagen
+Rating: 4/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: The bowel prep instructions from Dr. Emil Schmidt's office were contradictory, and I had to reschedule my colonoscopy because of the confusion. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 9 for Dr. Emil Schmidt, Gastroenterology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Østerbro Torv
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Dr. Emil Schmidt was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Emil Schmidt, Gastroenterology, Copenhagen: 6.11/10 from 9 reviews

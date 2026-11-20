@@ -1,0 +1,59 @@
+Doctor: Dr. Cho Sun-hee
+Doctor ID: 4274
+Specialization: Radiology
+Gender: Female
+Years of experience: 16
+City: Seoul, South Korea
+Clinics: Gangnam Haneul Family Clinic (clinic ID 550)
+
+Review 1 for Dr. Cho Sun-hee, Radiology, Seoul
+Rating: 10/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Cho Sun-hee were respectful throughout.
+
+Review 2 for Dr. Cho Sun-hee, Radiology, Seoul
+Rating: 8/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: Images from Gangnam Haneul Family Clinic were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 3 for Dr. Cho Sun-hee, Radiology, Seoul
+Rating: 9/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: Fast, clean and professional; the bone density scan with Dr. Cho Sun-hee was painless and the results were explained clearly.
+
+Review 4 for Dr. Cho Sun-hee, Radiology, Seoul
+Rating: 8/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Parking was simple, the waiting room was calm, and I never felt like a number.
+
+Review 5 for Dr. Cho Sun-hee, Radiology, Seoul
+Rating: 8/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Cho Sun-hee sent a clear report within a day. I came away understanding my condition better than I have in years of previous appointments. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Cho Sun-hee, Radiology, Seoul
+Rating: 7/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 7 for Dr. Cho Sun-hee, Radiology, Seoul
+Rating: 6/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Booking was easy online, but the confirmation email contained the wrong address for Gangnam Haneul Family Clinic.
+
+Review 8 for Dr. Cho Sun-hee, Radiology, Seoul
+Rating: 9/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: Booking a CT scan online at Gangnam Haneul Family Clinic took two minutes, and I was in and out within forty minutes.
+
+Review 9 for Dr. Cho Sun-hee, Radiology, Seoul
+Rating: 8/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. She called me personally after my scan to explain the findings in plain language before I saw my own doctor. Worth every minute of travel, and I would go again without a second thought.
+
+Review 10 for Dr. Cho Sun-hee, Radiology, Seoul
+Rating: 8/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Overall rating for Dr. Cho Sun-hee, Radiology, Seoul: 8.10/10 from 10 reviews

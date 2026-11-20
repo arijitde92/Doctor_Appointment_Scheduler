@@ -1,0 +1,64 @@
+Doctor: Dr. Su Shu-ching
+Doctor ID: 4309
+Specialization: Pathology
+Gender: Female
+Years of experience: 17
+City: Kaohsiung, Taiwan
+Clinics: Sanduo Fuhe Medical Clinic (clinic ID 555)
+
+Review 1 for Dr. Su Shu-ching, Pathology, Kaohsiung
+Rating: 6/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 2 for Dr. Su Shu-ching, Pathology, Kaohsiung
+Rating: 7/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. The doctor was kind, though the clinic's evening hours are very limited for working people. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Su Shu-ching, Pathology, Kaohsiung
+Rating: 3/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 4 for Dr. Su Shu-ching, Pathology, Kaohsiung
+Rating: 8/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 5 for Dr. Su Shu-ching, Pathology, Kaohsiung
+Rating: 6/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Su Shu-ching, Pathology, Kaohsiung
+Rating: 6/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Dr. Su Shu-ching answered my questions kindly, though the call back took three days. I got what I needed, but the next available appointment was three weeks away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Su Shu-ching, Pathology, Kaohsiung
+Rating: 8/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: The lab at Sanduo Fuhe Medical Clinic had a quick, friendly blood draw and the phlebotomist found my vein on the first try. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 8 for Dr. Su Shu-ching, Pathology, Kaohsiung
+Rating: 8/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: I asked for a second look at my slides, and Dr. Su Shu-ching reviewed them without any fuss and confirmed the finding in writing. Booking online at Sanduo Fuhe Medical Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 9 for Dr. Su Shu-ching, Pathology, Kaohsiung
+Rating: 3/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive.
+
+Review 10 for Dr. Su Shu-ching, Pathology, Kaohsiung
+Rating: 7/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Sanduo Fuhe Medical Clinic. Helpful in clarifying a borderline result, though Dr. Su Shu-ching gave little guidance about whether to repeat it. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. Su Shu-ching, Pathology, Kaohsiung
+Rating: 6/10
+Clinic visited: Sanduo Fuhe Medical Clinic
+Description: Good bedside manner from Dr. Su Shu-ching, but the parking near Sanduo Fuhe Medical Clinic is limited and I had to circle for fifteen minutes. The blood draw was painless, but the waiting area at Sanduo Fuhe Medical Clinic was crowded in the early morning.
+
+Overall rating for Dr. Su Shu-ching, Pathology, Kaohsiung: 6.18/10 from 11 reviews

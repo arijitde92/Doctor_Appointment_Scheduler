@@ -1,0 +1,59 @@
+Doctor: Dr. Johannes Steyn
+Doctor ID: 5710
+Specialization: Radiology
+Gender: Male
+Years of experience: 4
+City: Cape Town, South Africa
+Clinics: Long Street Medical Rooms (clinic ID 738)
+
+Review 1 for Dr. Johannes Steyn, Radiology, Cape Town
+Rating: 9/10
+Clinic visited: Long Street Medical Rooms
+Description: Reviewing my X-ray together with Dr. Johannes Steyn on the screen made it much easier to understand my arthritis.
+
+Review 2 for Dr. Johannes Steyn, Radiology, Cape Town
+Rating: 7/10
+Clinic visited: Long Street Medical Rooms
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Johannes Steyn, Radiology, Cape Town
+Rating: 9/10
+Clinic visited: Long Street Medical Rooms
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. Sensitive questions were handled by Dr. Johannes Steyn with discretion and without a hint of judgment. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Johannes Steyn, Radiology, Cape Town
+Rating: 9/10
+Clinic visited: Long Street Medical Rooms
+Description: The report from Dr. Johannes Steyn was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 5 for Dr. Johannes Steyn, Radiology, Cape Town
+Rating: 10/10
+Clinic visited: Long Street Medical Rooms
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 6 for Dr. Johannes Steyn, Radiology, Cape Town
+Rating: 10/10
+Clinic visited: Long Street Medical Rooms
+Description: The waiting room at Long Street Medical Rooms was clean, quiet and comfortable, with enough seating and water available. My ultrasound was unhurried, and Dr. Johannes Steyn took time to show me the images and explain what each measurement meant.
+
+Review 7 for Dr. Johannes Steyn, Radiology, Cape Town
+Rating: 8/10
+Clinic visited: Long Street Medical Rooms
+Description: Images from Long Street Medical Rooms were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. Dr. Johannes Steyn double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Johannes Steyn, Radiology, Cape Town
+Rating: 9/10
+Clinic visited: Long Street Medical Rooms
+Description: I appreciated that he offered more than one option and let me choose what suited my life. My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 9 for Dr. Johannes Steyn, Radiology, Cape Town
+Rating: 10/10
+Clinic visited: Long Street Medical Rooms
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. The nurse was friendly and efficient, and the whole visit with Dr. Johannes Steyn felt well organized from start to finish.
+
+Review 10 for Dr. Johannes Steyn, Radiology, Cape Town
+Rating: 9/10
+Clinic visited: Long Street Medical Rooms
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Johannes Steyn sent a clear report within a day.
+
+Overall rating for Dr. Johannes Steyn, Radiology, Cape Town: 9.00/10 from 10 reviews

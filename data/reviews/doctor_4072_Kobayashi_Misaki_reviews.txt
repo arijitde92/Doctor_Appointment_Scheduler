@@ -1,0 +1,59 @@
+Doctor: Dr. Kobayashi Misaki
+Doctor ID: 4072
+Specialization: Pathology
+Gender: Female
+Years of experience: 9
+City: Tokyo, Japan
+Clinics: Sakura Family Clinic (clinic ID 525)
+
+Review 1 for Dr. Kobayashi Misaki, Pathology, Tokyo
+Rating: 5/10
+Clinic visited: Sakura Family Clinic
+Description: Good bedside manner from Dr. Kobayashi Misaki, but the parking near Sakura Family Clinic is limited and I had to circle for fifteen minutes. Dr. Kobayashi Misaki answered my questions kindly, though the call back took three days.
+
+Review 2 for Dr. Kobayashi Misaki, Pathology, Tokyo
+Rating: 5/10
+Clinic visited: Sakura Family Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Kobayashi Misaki, Pathology, Tokyo
+Rating: 5/10
+Clinic visited: Sakura Family Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Kobayashi Misaki gave little guidance about whether to repeat it. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Kobayashi Misaki, Pathology, Tokyo
+Rating: 3/10
+Clinic visited: Sakura Family Clinic
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw.
+
+Review 5 for Dr. Kobayashi Misaki, Pathology, Tokyo
+Rating: 5/10
+Clinic visited: Sakura Family Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 6 for Dr. Kobayashi Misaki, Pathology, Tokyo
+Rating: 4/10
+Clinic visited: Sakura Family Clinic
+Description: Dr. Kobayashi Misaki was never available to talk about my result, and the front desk repeated that I should ask my referring physician. The prescription from Dr. Kobayashi Misaki was not the one we discussed, and I only noticed when I got home.
+
+Review 7 for Dr. Kobayashi Misaki, Pathology, Tokyo
+Rating: 4/10
+Clinic visited: Sakura Family Clinic
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. I was billed twice for the same panel and it took a month to get a correction.
+
+Review 8 for Dr. Kobayashi Misaki, Pathology, Tokyo
+Rating: 5/10
+Clinic visited: Sakura Family Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The blood draw was painless, but the waiting area at Sakura Family Clinic was crowded in the early morning. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Kobayashi Misaki, Pathology, Tokyo
+Rating: 4/10
+Clinic visited: Sakura Family Clinic
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found. My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 10 for Dr. Kobayashi Misaki, Pathology, Tokyo
+Rating: 4/10
+Clinic visited: Sakura Family Clinic
+Description: My questions were answered by Dr. Kobayashi Misaki with short, vague replies, and I left without a clear plan. The report was handed over by Dr. Kobayashi Misaki with no explanation, and I left frightened and confused about the terminology.
+
+Overall rating for Dr. Kobayashi Misaki, Pathology, Tokyo: 4.40/10 from 10 reviews

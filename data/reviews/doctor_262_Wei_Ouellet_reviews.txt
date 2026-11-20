@@ -1,0 +1,59 @@
+Doctor: Dr. Wei Ouellet
+Doctor ID: 262
+Specialization: General
+Gender: Male
+Years of experience: 2
+City: Calgary, Canada
+Clinics: Beltline Family Health (clinic ID 36)
+
+Review 1 for Dr. Wei Ouellet, General, Calgary
+Rating: 10/10
+Clinic visited: Beltline Family Health
+Description: Dr. Wei Ouellet spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Wei Ouellet, General, Calgary
+Rating: 10/10
+Clinic visited: Beltline Family Health
+Description: Vaccination advice from Dr. Wei Ouellet for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 3 for Dr. Wei Ouellet, General, Calgary
+Rating: 7/10
+Clinic visited: Beltline Family Health
+Description: Dr. Wei Ouellet is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 4 for Dr. Wei Ouellet, General, Calgary
+Rating: 8/10
+Clinic visited: Beltline Family Health
+Description: As a new patient in Calgary, I felt welcomed at Beltline Family Health, and my whole history was reviewed in one relaxed visit.
+
+Review 5 for Dr. Wei Ouellet, General, Calgary
+Rating: 8/10
+Clinic visited: Beltline Family Health
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 6 for Dr. Wei Ouellet, General, Calgary
+Rating: 7/10
+Clinic visited: Beltline Family Health
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 7 for Dr. Wei Ouellet, General, Calgary
+Rating: 8/10
+Clinic visited: Beltline Family Health
+Description: By the time I left the room, Dr. Wei Ouellet had sorted the sick note, referral letter and prescription refill.
+
+Review 8 for Dr. Wei Ouellet, General, Calgary
+Rating: 9/10
+Clinic visited: Beltline Family Health
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 9 for Dr. Wei Ouellet, General, Calgary
+Rating: 10/10
+Clinic visited: Beltline Family Health
+Description: Getting to Beltline Family Health from across Calgary was easy, and the same-week appointment saved me an urgent care trip. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 10 for Dr. Wei Ouellet, General, Calgary
+Rating: 9/10
+Clinic visited: Beltline Family Health
+Description: I was called in within five minutes of my appointment time at Beltline Family Health, which is rare and much appreciated.
+
+Overall rating for Dr. Wei Ouellet, General, Calgary: 8.60/10 from 10 reviews

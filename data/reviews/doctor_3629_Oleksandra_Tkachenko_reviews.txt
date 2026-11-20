@@ -1,0 +1,54 @@
+Doctor: Dr. Oleksandra Tkachenko
+Doctor ID: 3629
+Specialization: Radiology
+Gender: Female
+Years of experience: 10
+City: Lviv, Ukraine
+Clinics: Klinika Dobryi Likar (clinic ID 469)
+
+Review 1 for Dr. Oleksandra Tkachenko, Radiology, Lviv
+Rating: 4/10
+Clinic visited: Klinika Dobryi Likar
+Description: The staff seemed rushed and impatient with an elderly patient who needed help changing. I felt dismissed by Dr. Oleksandra Tkachenko when I brought up a second concern, and was told to book another appointment for it. I will not be returning and have already started looking for another doctor.
+
+Review 2 for Dr. Oleksandra Tkachenko, Radiology, Lviv
+Rating: 5/10
+Clinic visited: Klinika Dobryi Likar
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Good bedside manner from Dr. Oleksandra Tkachenko, but the parking near Klinika Dobryi Likar is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Oleksandra Tkachenko, Radiology, Lviv
+Rating: 7/10
+Clinic visited: Klinika Dobryi Likar
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 4 for Dr. Oleksandra Tkachenko, Radiology, Lviv
+Rating: 8/10
+Clinic visited: Klinika Dobryi Likar
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Oleksandra Tkachenko were respectful throughout.
+
+Review 5 for Dr. Oleksandra Tkachenko, Radiology, Lviv
+Rating: 8/10
+Clinic visited: Klinika Dobryi Likar
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor. The nurse was friendly and efficient, and the whole visit with Dr. Oleksandra Tkachenko felt well organized from start to finish. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Oleksandra Tkachenko, Radiology, Lviv
+Rating: 5/10
+Clinic visited: Klinika Dobryi Likar
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Oleksandra Tkachenko, Radiology, Lviv
+Rating: 8/10
+Clinic visited: Klinika Dobryi Likar
+Description: Fast, clean and professional; the bone density scan with Dr. Oleksandra Tkachenko was painless and the results were explained clearly. The waiting room at Klinika Dobryi Likar was clean, quiet and comfortable, with enough seating and water available.
+
+Review 8 for Dr. Oleksandra Tkachenko, Radiology, Lviv
+Rating: 6/10
+Clinic visited: Klinika Dobryi Likar
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 9 for Dr. Oleksandra Tkachenko, Radiology, Lviv
+Rating: 7/10
+Clinic visited: Klinika Dobryi Likar
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Oleksandra Tkachenko, Radiology, Lviv: 6.44/10 from 9 reviews

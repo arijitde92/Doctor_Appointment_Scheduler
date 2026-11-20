@@ -1,0 +1,54 @@
+Doctor: Dr. Marco Wagner
+Doctor ID: 3282
+Specialization: Cardiology
+Gender: Male
+Years of experience: 28
+City: Esch-sur-Alzette, Luxembourg
+Clinics: Cabinet Médical Alzette (clinic ID 425)
+
+Review 1 for Dr. Marco Wagner, Cardiology, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Cabinet Médical Alzette
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Dr. Marco Wagner was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Marco Wagner, Cardiology, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Cabinet Médical Alzette
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 3 for Dr. Marco Wagner, Cardiology, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Cabinet Médical Alzette
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Marco Wagner, Cardiology, Esch-sur-Alzette
+Rating: 5/10
+Clinic visited: Cabinet Médical Alzette
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Marco Wagner, Cardiology, Esch-sur-Alzette
+Rating: 10/10
+Clinic visited: Cabinet Médical Alzette
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. After my palpitations began, Dr. Marco Wagner arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 6 for Dr. Marco Wagner, Cardiology, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Cabinet Médical Alzette
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Marco Wagner, Cardiology, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Cabinet Médical Alzette
+Description: Helpful with my cholesterol, Dr. Marco Wagner still gave dietary advice that was a little generic. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Marco Wagner, Cardiology, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Cabinet Médical Alzette
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 9 for Dr. Marco Wagner, Cardiology, Esch-sur-Alzette
+Rating: 5/10
+Clinic visited: Cabinet Médical Alzette
+Description: Great care in the visit itself, but the billing for the tests at Cabinet Médical Alzette was confusing. The treatment plan from Dr. Marco Wagner made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Marco Wagner, Cardiology, Esch-sur-Alzette: 6.33/10 from 9 reviews

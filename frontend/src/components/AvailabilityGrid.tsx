@@ -2,6 +2,7 @@ import clsx from "clsx";
 import { CalendarDays } from "lucide-react";
 
 import { SLOT_TIMES } from "../config/catalog";
+import { clinicTimeZone, zoneCity } from "../lib/timezones";
 import type { AvailabilityResult, Clinic, Doctor } from "../lib/types";
 import { Card } from "./ui";
 
@@ -19,6 +20,7 @@ export function AvailabilityGrid({
   onSelectSlot: (slotIndex: number) => void;
 }) {
   const open = availability.slots.filter((s) => s === "available").length;
+  const timeZone = clinicTimeZone(clinic);
   return (
     <Card className="p-4 animate-fade-in">
       <div className="flex items-start justify-between gap-3">
@@ -31,6 +33,7 @@ export function AvailabilityGrid({
             {doctor ? `Dr. ${doctor.name.replace(/^dr\.?\s+/i, "")}` : `Doctor #${availability.doctorId}`}
             {" · "}
             {clinic?.name ?? `Clinic #${availability.clinicId}`}
+            {timeZone && ` · ${zoneCity(timeZone)} time`}
           </p>
         </div>
         <span

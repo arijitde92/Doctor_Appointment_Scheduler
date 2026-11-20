@@ -1,0 +1,59 @@
+Doctor: Dr. Miguel Lopez
+Doctor ID: 4806
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 5
+City: Davao City, Philippines
+Clinics: Araw Family Clinic (clinic ID 621)
+
+Review 1 for Dr. Miguel Lopez, Gastroenterology, Davao City
+Rating: 8/10
+Clinic visited: Araw Family Clinic
+Description: After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 2 for Dr. Miguel Lopez, Gastroenterology, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 3 for Dr. Miguel Lopez, Gastroenterology, Davao City
+Rating: 9/10
+Clinic visited: Araw Family Clinic
+Description: A gentle, respectful manner from Dr. Miguel Lopez made a very awkward exam bearable, with every step explained before it happened. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 4 for Dr. Miguel Lopez, Gastroenterology, Davao City
+Rating: 8/10
+Clinic visited: Araw Family Clinic
+Description: He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned.
+
+Review 5 for Dr. Miguel Lopez, Gastroenterology, Davao City
+Rating: 7/10
+Clinic visited: Araw Family Clinic
+Description: I liked the advice I got from Dr. Miguel Lopez, but I would have liked more time to ask follow-up questions before the visit ended. Knowledgeable about my reflux, Dr. Miguel Lopez still gave diet advice that felt generic and not tailored to my habits. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Miguel Lopez, Gastroenterology, Davao City
+Rating: 8/10
+Clinic visited: Araw Family Clinic
+Description: Getting to Araw Family Clinic in Davao City was simple, and the day-procedure unit was calm and efficient.
+
+Review 7 for Dr. Miguel Lopez, Gastroenterology, Davao City
+Rating: 7/10
+Clinic visited: Araw Family Clinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Miguel Lopez, Gastroenterology, Davao City
+Rating: 7/10
+Clinic visited: Araw Family Clinic
+Description: Dr. Miguel Lopez is thorough, but I waited nearly two months to get the first available slot. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 9 for Dr. Miguel Lopez, Gastroenterology, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. The nurse was friendly and efficient, and the whole visit with Dr. Miguel Lopez felt well organized from start to finish.
+
+Review 10 for Dr. Miguel Lopez, Gastroenterology, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: I received a full summary letter from Araw Family Clinic after my endoscopy, which my regular doctor found very useful. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Overall rating for Dr. Miguel Lopez, Gastroenterology, Davao City: 8.40/10 from 10 reviews

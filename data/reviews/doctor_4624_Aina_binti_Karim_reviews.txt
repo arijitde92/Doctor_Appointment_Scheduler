@@ -1,0 +1,54 @@
+Doctor: Dr. Aina binti Karim
+Doctor ID: 4624
+Specialization: Cardiology
+Gender: Female
+Years of experience: 28
+City: George Town, Malaysia
+Clinics: Klinik Kasih Sayang (clinic ID 597); Klinik Permata Hati (clinic ID 599)
+
+Review 1 for Dr. Aina binti Karim, Cardiology, George Town
+Rating: 7/10
+Clinic visited: Klinik Kasih Sayang
+Description: Great care in the visit itself, but the billing for the tests at Klinik Kasih Sayang was confusing.
+
+Review 2 for Dr. Aina binti Karim, Cardiology, George Town
+Rating: 9/10
+Clinic visited: Klinik Permata Hati
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Seeing Dr. Aina binti Karim in George Town meant my whole family history was reviewed, and now my sister is being screened too.
+
+Review 3 for Dr. Aina binti Karim, Cardiology, George Town
+Rating: 8/10
+Clinic visited: Klinik Permata Hati
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Aina binti Karim, Cardiology, George Town
+Rating: 7/10
+Clinic visited: Klinik Kasih Sayang
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. The treatment plan from Dr. Aina binti Karim made sense, but I wished it had been written down for me to take away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Aina binti Karim, Cardiology, George Town
+Rating: 7/10
+Clinic visited: Klinik Permata Hati
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Thorough exam and a good plan, yet the stress test appointment was almost a month away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Aina binti Karim, Cardiology, George Town
+Rating: 8/10
+Clinic visited: Klinik Kasih Sayang
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. Prescriptions from Dr. Aina binti Karim were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Aina binti Karim, Cardiology, George Town
+Rating: 7/10
+Clinic visited: Klinik Kasih Sayang
+Description: Good bedside manner from Dr. Aina binti Karim, but the parking near Klinik Kasih Sayang is limited and I had to circle for fifteen minutes. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 8 for Dr. Aina binti Karim, Cardiology, George Town
+Rating: 5/10
+Clinic visited: Klinik Kasih Sayang
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Booking was easy online, but the confirmation email contained the wrong address for Klinik Kasih Sayang. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Aina binti Karim, Cardiology, George Town
+Rating: 10/10
+Clinic visited: Klinik Permata Hati
+Description: Dr. Aina binti Karim explained the difference between my statin options and let me weigh in on the choice.
+
+Overall rating for Dr. Aina binti Karim, Cardiology, George Town: 7.56/10 from 9 reviews

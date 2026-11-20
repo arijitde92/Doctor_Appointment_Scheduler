@@ -1,0 +1,54 @@
+Doctor: Dr. Deng Zhiwei
+Doctor ID: 3867
+Specialization: Cardiology
+Gender: Male
+Years of experience: 4
+City: Beijing, China
+Clinics: Dongdaqiao Jiahe Medical Clinic (clinic ID 499)
+
+Review 1 for Dr. Deng Zhiwei, Cardiology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Deng Zhiwei, Cardiology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Dr. Deng Zhiwei adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 3 for Dr. Deng Zhiwei, Cardiology, Beijing
+Rating: 9/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Honest about the risks and benefits of the procedure, Dr. Deng Zhiwei never pressured me toward surgery. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Deng Zhiwei, Cardiology, Beijing
+Rating: 6/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Dr. Deng Zhiwei was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Deng Zhiwei, Cardiology, Beijing
+Rating: 6/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 6 for Dr. Deng Zhiwei, Cardiology, Beijing
+Rating: 4/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: I reported chest tightness and was sent home with a leaflet and no ECG. Dr. Deng Zhiwei did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 7 for Dr. Deng Zhiwei, Cardiology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Deng Zhiwei, Cardiology, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. Prescriptions from Dr. Deng Zhiwei were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 9 for Dr. Deng Zhiwei, Cardiology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Deng Zhiwei, Cardiology, Beijing: 6.78/10 from 9 reviews

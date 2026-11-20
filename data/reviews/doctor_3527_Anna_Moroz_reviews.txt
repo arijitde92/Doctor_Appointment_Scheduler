@@ -1,0 +1,49 @@
+Doctor: Dr. Anna Moroz
+Doctor ID: 3527
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 4
+City: Dnipro, Ukraine
+Clinics: Nova Hora Clinic (clinic ID 456)
+
+Review 1 for Dr. Anna Moroz, Pediatrics, Dnipro
+Rating: 7/10
+Clinic visited: Nova Hora Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 2 for Dr. Anna Moroz, Pediatrics, Dnipro
+Rating: 9/10
+Clinic visited: Nova Hora Clinic
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. Booking online at Nova Hora Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Anna Moroz, Pediatrics, Dnipro
+Rating: 9/10
+Clinic visited: Nova Hora Clinic
+Description: Dr. Anna Moroz double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Anna Moroz, Pediatrics, Dnipro
+Rating: 5/10
+Clinic visited: Nova Hora Clinic
+Description: I liked the advice I got from Dr. Anna Moroz, but I would have liked more time to ask follow-up questions before the visit ended. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 5 for Dr. Anna Moroz, Pediatrics, Dnipro
+Rating: 7/10
+Clinic visited: Nova Hora Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 6 for Dr. Anna Moroz, Pediatrics, Dnipro
+Rating: 10/10
+Clinic visited: Nova Hora Clinic
+Description: Sensitive questions were handled by Dr. Anna Moroz with discretion and without a hint of judgment. Kind to anxious parents, Dr. Anna Moroz never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 7 for Dr. Anna Moroz, Pediatrics, Dnipro
+Rating: 6/10
+Clinic visited: Nova Hora Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 8 for Dr. Anna Moroz, Pediatrics, Dnipro
+Rating: 9/10
+Clinic visited: Nova Hora Clinic
+Description: The waiting room in Dnipro has a play corner and separate seating for sick children, which I really valued. A translator was arranged for my mother without us asking twice, and Dr. Anna Moroz spoke directly to her throughout. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Anna Moroz, Pediatrics, Dnipro: 7.75/10 from 8 reviews

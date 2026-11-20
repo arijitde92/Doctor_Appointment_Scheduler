@@ -1,0 +1,49 @@
+Doctor: Dr. Francisco Vieira
+Doctor ID: 623
+Specialization: Radiology
+Gender: Male
+Years of experience: 16
+City: Curitiba, Brazil
+Clinics: Clínica Portão Familiar (clinic ID 83)
+
+Review 1 for Dr. Francisco Vieira, Radiology, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Portão Familiar
+Description: Quick appointment and a fair price in Curitiba, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Francisco Vieira, Radiology, Curitiba
+Rating: 5/10
+Clinic visited: Clínica Portão Familiar
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Booking was easy online, but the confirmation email contained the wrong address for Clínica Portão Familiar.
+
+Review 3 for Dr. Francisco Vieira, Radiology, Curitiba
+Rating: 8/10
+Clinic visited: Clínica Portão Familiar
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Francisco Vieira, Radiology, Curitiba
+Rating: 10/10
+Clinic visited: Clínica Portão Familiar
+Description: Paperwork at Clínica Portão Familiar was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 5 for Dr. Francisco Vieira, Radiology, Curitiba
+Rating: 6/10
+Clinic visited: Clínica Portão Familiar
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Francisco Vieira, Radiology, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Portão Familiar
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Helpful visit overall, although I only found out about an extra charge after I had paid. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Francisco Vieira, Radiology, Curitiba
+Rating: 7/10
+Clinic visited: Clínica Portão Familiar
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Francisco Vieira, Radiology, Curitiba
+Rating: 8/10
+Clinic visited: Clínica Portão Familiar
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. The report from Dr. Francisco Vieira was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Overall rating for Dr. Francisco Vieira, Radiology, Curitiba: 7.25/10 from 8 reviews

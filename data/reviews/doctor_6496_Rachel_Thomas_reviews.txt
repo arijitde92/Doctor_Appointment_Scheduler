@@ -1,0 +1,49 @@
+Doctor: Dr. Rachel Thomas
+Doctor ID: 6496
+Specialization: General
+Gender: Female
+Years of experience: 26
+City: Melbourne, Australia
+Clinics: Banksia Medical Centre (clinic ID 841)
+
+Review 1 for Dr. Rachel Thomas, General, Melbourne
+Rating: 7/10
+Clinic visited: Banksia Medical Centre
+Description: Referrals from Dr. Rachel Thomas are handled well, but getting test results back took longer than I was told to expect. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Rachel Thomas, General, Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: Getting to Banksia Medical Centre from across Melbourne was easy, and the same-week appointment saved me an urgent care trip. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 3 for Dr. Rachel Thomas, General, Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: I came away understanding my condition better than I have in years of previous appointments. I always hear back within a day when I leave a question with the nurse at Banksia Medical Centre, and Dr. Rachel Thomas follows up on lab results personally.
+
+Review 4 for Dr. Rachel Thomas, General, Melbourne
+Rating: 9/10
+Clinic visited: Banksia Medical Centre
+Description: My annual check-up with Dr. Rachel Thomas took forty minutes, with every screening explained and nothing rushed. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 5 for Dr. Rachel Thomas, General, Melbourne
+Rating: 9/10
+Clinic visited: Banksia Medical Centre
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 6 for Dr. Rachel Thomas, General, Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: I went in with months of tiredness, and Dr. Rachel Thomas ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 7 for Dr. Rachel Thomas, General, Melbourne
+Rating: 10/10
+Clinic visited: Banksia Medical Centre
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Best family doctor I have had; She treats the whole person and not just the symptom list.
+
+Review 8 for Dr. Rachel Thomas, General, Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: Dr. Rachel Thomas spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Rachel Thomas, General, Melbourne: 8.38/10 from 8 reviews

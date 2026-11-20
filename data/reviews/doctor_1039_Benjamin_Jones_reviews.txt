@@ -1,0 +1,54 @@
+Doctor: Dr. Benjamin Jones
+Doctor ID: 1039
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 8
+City: Bristol, UK
+Clinics: Park Street Medical Practice (clinic ID 136); Broad Street Polyclinic (clinic ID 138)
+
+Review 1 for Dr. Benjamin Jones, Pulmonology, Bristol
+Rating: 10/10
+Clinic visited: Broad Street Polyclinic
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. My test results arrived in the portal within two days, together with a short note that made sense. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Benjamin Jones, Pulmonology, Bristol
+Rating: 8/10
+Clinic visited: Park Street Medical Practice
+Description: My oxygen levels are monitored carefully at Park Street Medical Practice, and the home equipment was arranged without any hassle. Dr. Benjamin Jones drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 3 for Dr. Benjamin Jones, Pulmonology, Bristol
+Rating: 10/10
+Clinic visited: Broad Street Polyclinic
+Description: Clear, honest answers from Dr. Benjamin Jones about my shortness of breath, and no unnecessary tests were ordered. Paperwork at Broad Street Polyclinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 4 for Dr. Benjamin Jones, Pulmonology, Bristol
+Rating: 8/10
+Clinic visited: Park Street Medical Practice
+Description: Dr. Benjamin Jones explained my lung nodule follow-up schedule calmly, which took away weeks of worry. A translator was arranged for my mother without us asking twice, and Dr. Benjamin Jones spoke directly to her throughout.
+
+Review 5 for Dr. Benjamin Jones, Pulmonology, Bristol
+Rating: 9/10
+Clinic visited: Park Street Medical Practice
+Description: After years of poorly controlled asthma, Dr. Benjamin Jones reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 6 for Dr. Benjamin Jones, Pulmonology, Bristol
+Rating: 7/10
+Clinic visited: Park Street Medical Practice
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 7 for Dr. Benjamin Jones, Pulmonology, Bristol
+Rating: 10/10
+Clinic visited: Park Street Medical Practice
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Benjamin Jones, Pulmonology, Bristol
+Rating: 7/10
+Clinic visited: Park Street Medical Practice
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Benjamin Jones, Pulmonology, Bristol
+Rating: 9/10
+Clinic visited: Broad Street Polyclinic
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Bristol. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Overall rating for Dr. Benjamin Jones, Pulmonology, Bristol: 8.67/10 from 9 reviews

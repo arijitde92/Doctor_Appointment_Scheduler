@@ -1,0 +1,49 @@
+Doctor: Dr. Anum Khan
+Doctor ID: 6419
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 29
+City: Peshawar, Pakistan
+Clinics: Hayatabad Shifa Centre (clinic ID 831); Saddar Peshawar Care Polyclinic (clinic ID 832)
+
+Review 1 for Dr. Anum Khan, Psychiatry, Peshawar
+Rating: 7/10
+Clinic visited: Hayatabad Shifa Centre
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 2 for Dr. Anum Khan, Psychiatry, Peshawar
+Rating: 7/10
+Clinic visited: Hayatabad Shifa Centre
+Description: Dr. Anum Khan is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 3 for Dr. Anum Khan, Psychiatry, Peshawar
+Rating: 10/10
+Clinic visited: Hayatabad Shifa Centre
+Description: Excellent at explaining how therapy and medication work together, and Dr. Anum Khan coordinated with my counselor. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Anum Khan, Psychiatry, Peshawar
+Rating: 8/10
+Clinic visited: Hayatabad Shifa Centre
+Description: Telehealth follow-ups at Hayatabad Shifa Centre are punctual and calm, and refills are dealt with quickly. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Anum Khan, Psychiatry, Peshawar
+Rating: 8/10
+Clinic visited: Saddar Peshawar Care Polyclinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. I can ring Saddar Peshawar Care Polyclinic with an urgent question and receive a thoughtful reply the same day.
+
+Review 6 for Dr. Anum Khan, Psychiatry, Peshawar
+Rating: 7/10
+Clinic visited: Saddar Peshawar Care Polyclinic
+Description: Good listener, yet the refill process at Saddar Peshawar Care Polyclinic is slow and requires several phone calls. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Anum Khan, Psychiatry, Peshawar
+Rating: 9/10
+Clinic visited: Saddar Peshawar Care Polyclinic
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 8 for Dr. Anum Khan, Psychiatry, Peshawar
+Rating: 9/10
+Clinic visited: Saddar Peshawar Care Polyclinic
+Description: My family was included in a session at my request, and Dr. Anum Khan handled it with great tact. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Overall rating for Dr. Anum Khan, Psychiatry, Peshawar: 8.12/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Tom Lambert
+Doctor ID: 3037
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 15
+City: Antwerp, Belgium
+Clinics: Medisch Centrum Meir (clinic ID 395)
+
+Review 1 for Dr. Tom Lambert, Obstetrics and Gynecology (OB/GYN), Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Meir
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit.
+
+Review 2 for Dr. Tom Lambert, Obstetrics and Gynecology (OB/GYN), Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Meir
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Tom Lambert, Obstetrics and Gynecology (OB/GYN), Antwerp
+Rating: 8/10
+Clinic visited: Medisch Centrum Meir
+Description: My postpartum check-up covered recovery, mood and feeding rather than just a quick exam.
+
+Review 4 for Dr. Tom Lambert, Obstetrics and Gynecology (OB/GYN), Antwerp
+Rating: 8/10
+Clinic visited: Medisch Centrum Meir
+Description: Everything was explained in plain English by Dr. Tom Lambert, and nothing was left to guess.
+
+Review 5 for Dr. Tom Lambert, Obstetrics and Gynecology (OB/GYN), Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Meir
+Description: Dr. Tom Lambert was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Tom Lambert, Obstetrics and Gynecology (OB/GYN), Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Meir
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Tom Lambert, Obstetrics and Gynecology (OB/GYN), Antwerp
+Rating: 5/10
+Clinic visited: Medisch Centrum Meir
+Description: Booking was easy online, but the confirmation email contained the wrong address for Medisch Centrum Meir. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Tom Lambert, Obstetrics and Gynecology (OB/GYN), Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Meir
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history. Dr. Tom Lambert was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 9 for Dr. Tom Lambert, Obstetrics and Gynecology (OB/GYN), Antwerp
+Rating: 9/10
+Clinic visited: Medisch Centrum Meir
+Description: The anomaly scan was thorough and the explanation of every measurement from Dr. Tom Lambert was reassuring. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 10 for Dr. Tom Lambert, Obstetrics and Gynecology (OB/GYN), Antwerp
+Rating: 8/10
+Clinic visited: Medisch Centrum Meir
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Throughout my pregnancy Dr. Tom Lambert answered every question patiently, including the many late-night worries I sent through the portal. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Tom Lambert, Obstetrics and Gynecology (OB/GYN), Antwerp: 7.20/10 from 10 reviews

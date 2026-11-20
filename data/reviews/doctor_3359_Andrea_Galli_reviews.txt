@@ -1,0 +1,54 @@
+Doctor: Dr. Andrea Galli
+Doctor ID: 3359
+Specialization: General
+Gender: Male
+Years of experience: 10
+City: Florence, Italy
+Clinics: Poliambulatorio Santa Maria Novella (clinic ID 435)
+
+Review 1 for Dr. Andrea Galli, General, Florence
+Rating: 10/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. My annual check-up with Dr. Andrea Galli took forty minutes, with every screening explained and nothing rushed.
+
+Review 2 for Dr. Andrea Galli, General, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Poliambulatorio Santa Maria Novella were inconsistent.
+
+Review 3 for Dr. Andrea Galli, General, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Dr. Andrea Galli is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 4 for Dr. Andrea Galli, General, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Everything was explained in plain English by Dr. Andrea Galli, and nothing was left to guess. I went in with months of tiredness, and Dr. Andrea Galli ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 5 for Dr. Andrea Galli, General, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: I was called in within five minutes of my appointment time at Poliambulatorio Santa Maria Novella, which is rare and much appreciated. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 6 for Dr. Andrea Galli, General, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. Dr. Andrea Galli double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 7 for Dr. Andrea Galli, General, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Dr. Andrea Galli spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 8 for Dr. Andrea Galli, General, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Andrea Galli, General, Florence
+Rating: 6/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Overall rating for Dr. Andrea Galli, General, Florence: 7.67/10 from 9 reviews

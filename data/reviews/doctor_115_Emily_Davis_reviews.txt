@@ -1,0 +1,49 @@
+Doctor: Dr. Emily Davis
+Doctor ID: 115
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 14
+City: Chicago, USA
+Clinics: Northside Care Partners (clinic ID 17)
+
+Review 1 for Dr. Emily Davis, Gastroenterology, Chicago
+Rating: 7/10
+Clinic visited: Northside Care Partners
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 2 for Dr. Emily Davis, Gastroenterology, Chicago
+Rating: 5/10
+Clinic visited: Northside Care Partners
+Description: Booking was easy online, but the confirmation email contained the wrong address for Northside Care Partners. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 3 for Dr. Emily Davis, Gastroenterology, Chicago
+Rating: 5/10
+Clinic visited: Northside Care Partners
+Description: I liked the advice I got from Dr. Emily Davis, but I would have liked more time to ask follow-up questions before the visit ended. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 4 for Dr. Emily Davis, Gastroenterology, Chicago
+Rating: 6/10
+Clinic visited: Northside Care Partners
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Clear explanations, but the follow-up call took a week longer than I had been told. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Emily Davis, Gastroenterology, Chicago
+Rating: 7/10
+Clinic visited: Northside Care Partners
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 6 for Dr. Emily Davis, Gastroenterology, Chicago
+Rating: 5/10
+Clinic visited: Northside Care Partners
+Description: Knowledgeable about my reflux, Dr. Emily Davis still gave diet advice that felt generic and not tailored to my habits. Quick appointment and a fair price in Chicago, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Emily Davis, Gastroenterology, Chicago
+Rating: 5/10
+Clinic visited: Northside Care Partners
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Dr. Emily Davis is thorough, but I waited nearly two months to get the first available slot.
+
+Review 8 for Dr. Emily Davis, Gastroenterology, Chicago
+Rating: 4/10
+Clinic visited: Northside Care Partners
+Description: After my endoscopy, nobody called with results and I had to chase the office repeatedly.
+
+Overall rating for Dr. Emily Davis, Gastroenterology, Chicago: 5.50/10 from 8 reviews

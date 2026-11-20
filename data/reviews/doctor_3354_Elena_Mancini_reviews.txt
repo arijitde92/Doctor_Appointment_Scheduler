@@ -1,0 +1,49 @@
+Doctor: Dr. Elena Mancini
+Doctor ID: 3354
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 6
+City: Florence, Italy
+Clinics: Poliambulatorio Santa Maria Novella (clinic ID 435)
+
+Review 1 for Dr. Elena Mancini, Pulmonology, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Pleasant manner and careful lung exam, though the waiting time at Poliambulatorio Santa Maria Novella regularly exceeded forty minutes. Dr. Elena Mancini was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Elena Mancini, Pulmonology, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: My oxygen levels are monitored carefully at Poliambulatorio Santa Maria Novella, and the home equipment was arranged without any hassle. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Elena Mancini, Pulmonology, Florence
+Rating: 9/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Dr. Elena Mancini explained my lung nodule follow-up schedule calmly, which took away weeks of worry. The waiting room at Poliambulatorio Santa Maria Novella was clean, quiet and comfortable, with enough seating and water available.
+
+Review 4 for Dr. Elena Mancini, Pulmonology, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 5 for Dr. Elena Mancini, Pulmonology, Florence
+Rating: 10/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Florence. The nurse was friendly and efficient, and the whole visit with Dr. Elena Mancini felt well organized from start to finish.
+
+Review 6 for Dr. Elena Mancini, Pulmonology, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Booking was easy online, but the confirmation email contained the wrong address for Poliambulatorio Santa Maria Novella. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 7 for Dr. Elena Mancini, Pulmonology, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Helpful and honest about my prognosis, Dr. Elena Mancini could still have given me more written material to take home. I liked the advice I got from Dr. Elena Mancini, but I would have liked more time to ask follow-up questions before the visit ended. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Elena Mancini, Pulmonology, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Dr. Elena Mancini adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Overall rating for Dr. Elena Mancini, Pulmonology, Florence: 7.75/10 from 8 reviews

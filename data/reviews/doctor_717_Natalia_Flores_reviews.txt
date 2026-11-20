@@ -1,0 +1,49 @@
+Doctor: Dr. Natalia Flores
+Doctor ID: 717
+Specialization: Radiology
+Gender: Female
+Years of experience: 18
+City: Buenos Aires, Argentina
+Clinics: Centro Médico Recoleta Norte (clinic ID 95)
+
+Review 1 for Dr. Natalia Flores, Radiology, Buenos Aires
+Rating: 10/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Natalia Flores were respectful throughout. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Natalia Flores, Radiology, Buenos Aires
+Rating: 8/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Natalia Flores, Radiology, Buenos Aires
+Rating: 9/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Dr. Natalia Flores drew a quick sketch to explain what was going on, which helped me remember it afterwards. She called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 4 for Dr. Natalia Flores, Radiology, Buenos Aires
+Rating: 10/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Natalia Flores, Radiology, Buenos Aires
+Rating: 9/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: The staff at Centro Médico Recoleta Norte in Buenos Aires explained the contrast dye and its side effects before I signed anything. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Natalia Flores, Radiology, Buenos Aires
+Rating: 10/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: Fast, clean and professional; the bone density scan with Dr. Natalia Flores was painless and the results were explained clearly. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Natalia Flores, Radiology, Buenos Aires
+Rating: 7/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: The report from Dr. Natalia Flores was thorough, though full of technical terms that needed my regular doctor to translate. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Natalia Flores, Radiology, Buenos Aires
+Rating: 10/10
+Clinic visited: Centro Médico Recoleta Norte
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Natalia Flores sent a clear report within a day.
+
+Overall rating for Dr. Natalia Flores, Radiology, Buenos Aires: 9.12/10 from 8 reviews

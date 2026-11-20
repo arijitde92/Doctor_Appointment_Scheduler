@@ -1,0 +1,49 @@
+Doctor: Dr. Eduardo Pérez
+Doctor ID: 737
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 17
+City: Buenos Aires, Argentina
+Clinics: Consultorios Médicos Caballito (clinic ID 97)
+
+Review 1 for Dr. Eduardo Pérez, Psychiatry, Buenos Aires
+Rating: 9/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Dr. Eduardo Pérez looked me in the eye, listened to the whole story and only then started typing. Appointments in Buenos Aires are always on schedule, and the waiting area is peaceful and private.
+
+Review 2 for Dr. Eduardo Pérez, Psychiatry, Buenos Aires
+Rating: 6/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Dr. Eduardo Pérez is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 3 for Dr. Eduardo Pérez, Psychiatry, Buenos Aires
+Rating: 10/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Paperwork at Consultorios Médicos Caballito was kept to a minimum, and the staff helped me complete the insurance form. Excellent at explaining how therapy and medication work together, and Dr. Eduardo Pérez coordinated with my counselor.
+
+Review 4 for Dr. Eduardo Pérez, Psychiatry, Buenos Aires
+Rating: 6/10
+Clinic visited: Consultorios Médicos Caballito
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Eduardo Pérez, Psychiatry, Buenos Aires
+Rating: 6/10
+Clinic visited: Consultorios Médicos Caballito
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. I liked the advice I got from Dr. Eduardo Pérez, but I would have liked more time to ask follow-up questions before the visit ended. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Eduardo Pérez, Psychiatry, Buenos Aires
+Rating: 8/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Dr. Eduardo Pérez double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Eduardo Pérez, Psychiatry, Buenos Aires
+Rating: 9/10
+Clinic visited: Consultorios Médicos Caballito
+Description: My depression finally has a treatment plan from Dr. Eduardo Pérez that works, with regular check-ins and careful dose changes.
+
+Review 8 for Dr. Eduardo Pérez, Psychiatry, Buenos Aires
+Rating: 10/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. I came away understanding my condition better than I have in years of previous appointments.
+
+Overall rating for Dr. Eduardo Pérez, Psychiatry, Buenos Aires: 8.00/10 from 8 reviews

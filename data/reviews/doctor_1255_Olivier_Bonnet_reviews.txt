@@ -1,0 +1,49 @@
+Doctor: Dr. Olivier Bonnet
+Doctor ID: 1255
+Specialization: Radiology
+Gender: Male
+Years of experience: 9
+City: Marseille, France
+Clinics: Centre de Santé de la Joliette (clinic ID 163)
+
+Review 1 for Dr. Olivier Bonnet, Radiology, Marseille
+Rating: 5/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Olivier Bonnet, Radiology, Marseille
+Rating: 4/10
+Clinic visited: Centre de Santé de la Joliette
+Description: My images were not sent to my specialist as promised, so my consultation had to be postponed. The clinic never returned my call about my test results, and I had to chase them for over a week. I left disappointed and will take my business to another clinic.
+
+Review 3 for Dr. Olivier Bonnet, Radiology, Marseille
+Rating: 8/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Fast, clean and professional; the bone density scan with Dr. Olivier Bonnet was painless and the results were explained clearly. A translator was arranged for my mother without us asking twice, and Dr. Olivier Bonnet spoke directly to her throughout.
+
+Review 4 for Dr. Olivier Bonnet, Radiology, Marseille
+Rating: 8/10
+Clinic visited: Centre de Santé de la Joliette
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 5 for Dr. Olivier Bonnet, Radiology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 6 for Dr. Olivier Bonnet, Radiology, Marseille
+Rating: 5/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The report from Dr. Olivier Bonnet was thorough, though full of technical terms that needed my regular doctor to translate. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Olivier Bonnet, Radiology, Marseille
+Rating: 8/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Booking a CT scan online at Centre de Santé de la Joliette took two minutes, and I was in and out within forty minutes. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Olivier Bonnet, Radiology, Marseille
+Rating: 6/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Olivier Bonnet, Radiology, Marseille: 6.38/10 from 8 reviews

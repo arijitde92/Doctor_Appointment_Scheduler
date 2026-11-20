@@ -1,0 +1,69 @@
+Doctor: Dr. Tan Shu Fen
+Doctor ID: 4466
+Specialization: Cardiology
+Gender: Female
+Years of experience: 10
+City: Singapore, Singapore
+Clinics: Sunrise Medical Centre (clinic ID 576); Orchid Care Medical (clinic ID 580); Paya Lebar Health Practice (clinic ID 586)
+
+Review 1 for Dr. Tan Shu Fen, Cardiology, Singapore
+Rating: 3/10
+Clinic visited: Orchid Care Medical
+Description: My test results sat on Dr. Tan Shu Fen's desk for two weeks, and I only learned about a medication change when I called the pharmacy. I felt dismissed by Dr. Tan Shu Fen when I brought up a second concern, and was told to book another appointment for it.
+
+Review 2 for Dr. Tan Shu Fen, Cardiology, Singapore
+Rating: 5/10
+Clinic visited: Paya Lebar Health Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Paya Lebar Health Practice.
+
+Review 3 for Dr. Tan Shu Fen, Cardiology, Singapore
+Rating: 3/10
+Clinic visited: Sunrise Medical Centre
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. I reported chest tightness and was sent home with a leaflet and no ECG. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 4 for Dr. Tan Shu Fen, Cardiology, Singapore
+Rating: 5/10
+Clinic visited: Paya Lebar Health Practice
+Description: Good bedside manner from Dr. Tan Shu Fen, but the parking near Paya Lebar Health Practice is limited and I had to circle for fifteen minutes. Great care in the visit itself, but the billing for the tests at Paya Lebar Health Practice was confusing.
+
+Review 5 for Dr. Tan Shu Fen, Cardiology, Singapore
+Rating: 3/10
+Clinic visited: Sunrise Medical Centre
+Description: The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 6 for Dr. Tan Shu Fen, Cardiology, Singapore
+Rating: 5/10
+Clinic visited: Orchid Care Medical
+Description: I got what I needed, but the next available appointment was three weeks away. Helpful with my cholesterol, Dr. Tan Shu Fen still gave dietary advice that was a little generic.
+
+Review 7 for Dr. Tan Shu Fen, Cardiology, Singapore
+Rating: 3/10
+Clinic visited: Sunrise Medical Centre
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. Dr. Tan Shu Fen spent most of the appointment looking at the screen and gave very brief answers to my questions. Not a place I would choose again, and I hope others have a better experience.
+
+Review 8 for Dr. Tan Shu Fen, Cardiology, Singapore
+Rating: 4/10
+Clinic visited: Orchid Care Medical
+Description: Dr. Tan Shu Fen did not seem to have read my notes and asked me to repeat my whole history from the beginning. I was billed separately for tests that I understood to be part of the original consultation.
+
+Review 9 for Dr. Tan Shu Fen, Cardiology, Singapore
+Rating: 5/10
+Clinic visited: Orchid Care Medical
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 10 for Dr. Tan Shu Fen, Cardiology, Singapore
+Rating: 4/10
+Clinic visited: Sunrise Medical Centre
+Description: My worries about side effects from my medication were waved off, and nobody offered an alternative. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 11 for Dr. Tan Shu Fen, Cardiology, Singapore
+Rating: 5/10
+Clinic visited: Orchid Care Medical
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 12 for Dr. Tan Shu Fen, Cardiology, Singapore
+Rating: 7/10
+Clinic visited: Sunrise Medical Centre
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Tan Shu Fen, Cardiology, Singapore: 4.33/10 from 12 reviews

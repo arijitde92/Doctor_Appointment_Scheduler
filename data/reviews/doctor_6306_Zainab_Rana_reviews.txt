@@ -1,0 +1,54 @@
+Doctor: Dr. Zainab Rana
+Doctor ID: 6306
+Specialization: Radiology
+Gender: Female
+Years of experience: 6
+City: Islamabad, Pakistan
+Clinics: Blue Area Medical Centre (clinic ID 816)
+
+Review 1 for Dr. Zainab Rana, Radiology, Islamabad
+Rating: 9/10
+Clinic visited: Blue Area Medical Centre
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Zainab Rana were respectful throughout.
+
+Review 2 for Dr. Zainab Rana, Radiology, Islamabad
+Rating: 7/10
+Clinic visited: Blue Area Medical Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Zainab Rana, Radiology, Islamabad
+Rating: 8/10
+Clinic visited: Blue Area Medical Centre
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Zainab Rana, Radiology, Islamabad
+Rating: 9/10
+Clinic visited: Blue Area Medical Centre
+Description: Prescriptions from Dr. Zainab Rana were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 5 for Dr. Zainab Rana, Radiology, Islamabad
+Rating: 6/10
+Clinic visited: Blue Area Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Zainab Rana, Radiology, Islamabad
+Rating: 8/10
+Clinic visited: Blue Area Medical Centre
+Description: Booking online at Blue Area Medical Centre was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 7 for Dr. Zainab Rana, Radiology, Islamabad
+Rating: 7/10
+Clinic visited: Blue Area Medical Centre
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 8 for Dr. Zainab Rana, Radiology, Islamabad
+Rating: 7/10
+Clinic visited: Blue Area Medical Centre
+Description: I liked the advice I got from Dr. Zainab Rana, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 9 for Dr. Zainab Rana, Radiology, Islamabad
+Rating: 7/10
+Clinic visited: Blue Area Medical Centre
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Overall rating for Dr. Zainab Rana, Radiology, Islamabad: 7.56/10 from 9 reviews

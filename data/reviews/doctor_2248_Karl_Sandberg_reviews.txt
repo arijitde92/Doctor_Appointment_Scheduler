@@ -1,0 +1,49 @@
+Doctor: Dr. Karl Sandberg
+Doctor ID: 2248
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 5
+City: Uppsala, Sweden
+Clinics: Hälsocentralen Dragarbrunn (clinic ID 293)
+
+Review 1 for Dr. Karl Sandberg, Orthopedic, Uppsala
+Rating: 6/10
+Clinic visited: Hälsocentralen Dragarbrunn
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. The treatment plan from Dr. Karl Sandberg made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Karl Sandberg, Orthopedic, Uppsala
+Rating: 6/10
+Clinic visited: Hälsocentralen Dragarbrunn
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Karl Sandberg, Orthopedic, Uppsala
+Rating: 8/10
+Clinic visited: Hälsocentralen Dragarbrunn
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 4 for Dr. Karl Sandberg, Orthopedic, Uppsala
+Rating: 7/10
+Clinic visited: Hälsocentralen Dragarbrunn
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 5 for Dr. Karl Sandberg, Orthopedic, Uppsala
+Rating: 8/10
+Clinic visited: Hälsocentralen Dragarbrunn
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 6 for Dr. Karl Sandberg, Orthopedic, Uppsala
+Rating: 6/10
+Clinic visited: Hälsocentralen Dragarbrunn
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Karl Sandberg, Orthopedic, Uppsala
+Rating: 5/10
+Clinic visited: Hälsocentralen Dragarbrunn
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Dr. Karl Sandberg was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Karl Sandberg, Orthopedic, Uppsala
+Rating: 5/10
+Clinic visited: Hälsocentralen Dragarbrunn
+Description: Dr. Karl Sandberg explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Karl Sandberg, Orthopedic, Uppsala: 6.38/10 from 8 reviews

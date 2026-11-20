@@ -1,0 +1,64 @@
+Doctor: Dr. Bruna Pereira
+Doctor ID: 670
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 27
+City: Rio de Janeiro, Brazil
+Clinics: Centro de Saúde Tijuca Vida (clinic ID 89)
+
+Review 1 for Dr. Bruna Pereira, Pediatrics, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Bruna Pereira, Pediatrics, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Caring and gentle with my child, Dr. Bruna Pereira nonetheless ran forty minutes behind schedule at most appointments. Good bedside manner from Dr. Bruna Pereira, but the parking near Centro de Saúde Tijuca Vida is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Bruna Pereira, Pediatrics, Rio de Janeiro
+Rating: 4/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: My questions were answered by Dr. Bruna Pereira with short, vague replies, and I left without a clear plan. I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why.
+
+Review 4 for Dr. Bruna Pereira, Pediatrics, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: We got a same-day appointment for a high fever, and the care at Centro de Saúde Tijuca Vida was kind and efficient. Getting to Centro de Saúde Tijuca Vida by public transport in Rio de Janeiro was easy, and there is a step-free entrance for wheelchairs. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. Bruna Pereira, Pediatrics, Rio de Janeiro
+Rating: 5/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Bruna Pereira, Pediatrics, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 7 for Dr. Bruna Pereira, Pediatrics, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Dr. Bruna Pereira is thorough with exams, but the after-hours phone line at Centro de Saúde Tijuca Vida is hard to reach. I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Bruna Pereira, Pediatrics, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. Bruna Pereira, Pediatrics, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: The treatment plan from Dr. Bruna Pereira made sense, but I wished it had been written down for me to take away. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 10 for Dr. Bruna Pereira, Pediatrics, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 11 for Dr. Bruna Pereira, Pediatrics, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Centro de Saúde Tijuca Vida
+Description: Our family has been coming for years, and she remembers each child's history and personality. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Overall rating for Dr. Bruna Pereira, Pediatrics, Rio de Janeiro: 6.27/10 from 11 reviews

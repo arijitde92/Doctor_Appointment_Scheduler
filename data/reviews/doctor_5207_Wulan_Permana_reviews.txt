@@ -1,0 +1,54 @@
+Doctor: Dr. Wulan Permana
+Doctor ID: 5207
+Specialization: Radiology
+Gender: Female
+Years of experience: 18
+City: Surabaya, Indonesia
+Clinics: Klinik Kasih Ibu Medika (clinic ID 673); Klinik Prima Husada (clinic ID 674)
+
+Review 1 for Dr. Wulan Permana, Radiology, Surabaya
+Rating: 10/10
+Clinic visited: Klinik Prima Husada
+Description: Parking was simple, the waiting room was calm, and I never felt like a number.
+
+Review 2 for Dr. Wulan Permana, Radiology, Surabaya
+Rating: 9/10
+Clinic visited: Klinik Kasih Ibu Medika
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 3 for Dr. Wulan Permana, Radiology, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Kasih Ibu Medika
+Description: My ultrasound was unhurried, and Dr. Wulan Permana took time to show me the images and explain what each measurement meant. Everything was explained in plain English by Dr. Wulan Permana, and nothing was left to guess.
+
+Review 4 for Dr. Wulan Permana, Radiology, Surabaya
+Rating: 5/10
+Clinic visited: Klinik Prima Husada
+Description: I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Wulan Permana, Radiology, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Kasih Ibu Medika
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 6 for Dr. Wulan Permana, Radiology, Surabaya
+Rating: 9/10
+Clinic visited: Klinik Prima Husada
+Description: When my scan showed something that needed a second look, Dr. Wulan Permana arranged the follow-up the same day. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 7 for Dr. Wulan Permana, Radiology, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Kasih Ibu Medika
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Wulan Permana, Radiology, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Prima Husada
+Description: I liked the advice I got from Dr. Wulan Permana, but I would have liked more time to ask follow-up questions before the visit ended. Great image quality and a fast report, but the booking system sent me to the wrong location first. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Wulan Permana, Radiology, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Kasih Ibu Medika
+Description: Booking online at Klinik Kasih Ibu Medika was simple, and I got a confirmation text with clear directions and a reminder the day before. Images from Klinik Kasih Ibu Medika were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Overall rating for Dr. Wulan Permana, Radiology, Surabaya: 7.67/10 from 9 reviews

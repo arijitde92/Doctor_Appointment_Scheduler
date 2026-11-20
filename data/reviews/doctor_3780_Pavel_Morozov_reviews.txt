@@ -1,0 +1,59 @@
+Doctor: Dr. Pavel Morozov
+Doctor ID: 3780
+Specialization: Neurology
+Gender: Male
+Years of experience: 6
+City: Novosibirsk, Russia
+Clinics: Frunze Health Practice (clinic ID 488); Klinika Akademgorodok Plus (clinic ID 489)
+
+Review 1 for Dr. Pavel Morozov, Neurology, Novosibirsk
+Rating: 9/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: The neurological exam by Dr. Pavel Morozov was thorough, with every reflex test and gait check explained as it happened. A same-day slot was found for me at Klinika Akademgorodok Plus when I called with a worrying symptom.
+
+Review 2 for Dr. Pavel Morozov, Neurology, Novosibirsk
+Rating: 5/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Pavel Morozov, Neurology, Novosibirsk
+Rating: 7/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Pavel Morozov, Neurology, Novosibirsk
+Rating: 8/10
+Clinic visited: Frunze Health Practice
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Frunze Health Practice. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Pavel Morozov, Neurology, Novosibirsk
+Rating: 10/10
+Clinic visited: Frunze Health Practice
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. He patiently explained my MRI findings and calmed my worries about memory problems.
+
+Review 6 for Dr. Pavel Morozov, Neurology, Novosibirsk
+Rating: 9/10
+Clinic visited: Frunze Health Practice
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 7 for Dr. Pavel Morozov, Neurology, Novosibirsk
+Rating: 9/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: The memory assessment for my father at Klinika Akademgorodok Plus was gentle and respectful, and the family received a clear written summary. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 8 for Dr. Pavel Morozov, Neurology, Novosibirsk
+Rating: 9/10
+Clinic visited: Frunze Health Practice
+Description: Everything was explained in plain English by Dr. Pavel Morozov, and nothing was left to guess. Clear and honest talk with Dr. Pavel Morozov about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Review 9 for Dr. Pavel Morozov, Neurology, Novosibirsk
+Rating: 9/10
+Clinic visited: Frunze Health Practice
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried.
+
+Review 10 for Dr. Pavel Morozov, Neurology, Novosibirsk
+Rating: 9/10
+Clinic visited: Klinika Akademgorodok Plus
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Overall rating for Dr. Pavel Morozov, Neurology, Novosibirsk: 8.40/10 from 10 reviews

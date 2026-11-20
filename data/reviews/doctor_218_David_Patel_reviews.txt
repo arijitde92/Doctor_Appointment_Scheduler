@@ -1,0 +1,54 @@
+Doctor: Dr. David Patel
+Doctor ID: 218
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 20
+City: San Francisco, USA
+Clinics: Golden Gate Family Practice (clinic ID 30); Cow Hollow Health Associates (clinic ID 32); Mission Bay Primary Care (clinic ID 34)
+
+Review 1 for Dr. David Patel, Orthopedic, San Francisco
+Rating: 6/10
+Clinic visited: Cow Hollow Health Associates
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 2 for Dr. David Patel, Orthopedic, San Francisco
+Rating: 7/10
+Clinic visited: Cow Hollow Health Associates
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I got what I needed, but the next available appointment was three weeks away. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. David Patel, Orthopedic, San Francisco
+Rating: 9/10
+Clinic visited: Mission Bay Primary Care
+Description: The surgeon at Mission Bay Primary Care spent time on my goals as a runner and shaped the treatment around them. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 4 for Dr. David Patel, Orthopedic, San Francisco
+Rating: 9/10
+Clinic visited: Golden Gate Family Practice
+Description: The nurse was friendly and efficient, and the whole visit with Dr. David Patel felt well organized from start to finish. The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 5 for Dr. David Patel, Orthopedic, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: Getting around San Francisco on crutches was hard, but the accessible entrance and short waiting time at Cow Hollow Health Associates helped a lot. Dr. David Patel double-checked my allergy list before prescribing anything, and that careful habit earned my trust. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. David Patel, Orthopedic, San Francisco
+Rating: 6/10
+Clinic visited: Mission Bay Primary Care
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. David Patel, Orthopedic, San Francisco
+Rating: 8/10
+Clinic visited: Mission Bay Primary Care
+Description: Plain, honest advice from Dr. David Patel for my arthritis, including which exercises to avoid and which would help. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. David Patel, Orthopedic, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. David Patel, Orthopedic, San Francisco
+Rating: 6/10
+Clinic visited: Mission Bay Primary Care
+Description: Booking was easy online, but the confirmation email contained the wrong address for Mission Bay Primary Care.
+
+Overall rating for Dr. David Patel, Orthopedic, San Francisco: 7.56/10 from 9 reviews

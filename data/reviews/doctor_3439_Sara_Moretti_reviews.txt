@@ -1,0 +1,54 @@
+Doctor: Dr. Sara Moretti
+Doctor ID: 3439
+Specialization: General
+Gender: Female
+Years of experience: 30
+City: Naples, Italy
+Clinics: Poliambulatorio Vomero (clinic ID 445)
+
+Review 1 for Dr. Sara Moretti, General, Naples
+Rating: 8/10
+Clinic visited: Poliambulatorio Vomero
+Description: Dr. Sara Moretti looked me in the eye, listened to the whole story and only then started typing. My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 2 for Dr. Sara Moretti, General, Naples
+Rating: 7/10
+Clinic visited: Poliambulatorio Vomero
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. The treatment plan from Dr. Sara Moretti made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Sara Moretti, General, Naples
+Rating: 7/10
+Clinic visited: Poliambulatorio Vomero
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 4 for Dr. Sara Moretti, General, Naples
+Rating: 8/10
+Clinic visited: Poliambulatorio Vomero
+Description: Managing my type 2 diabetes with Dr. Sara Moretti has been steady and practical, with quarterly blood sugar reviews and no lectures. Getting to Poliambulatorio Vomero by public transport in Naples was easy, and there is a step-free entrance for wheelchairs. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Sara Moretti, General, Naples
+Rating: 7/10
+Clinic visited: Poliambulatorio Vomero
+Description: Referrals from Dr. Sara Moretti are handled well, but getting test results back took longer than I was told to expect. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Sara Moretti, General, Naples
+Rating: 6/10
+Clinic visited: Poliambulatorio Vomero
+Description: Dr. Sara Moretti is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Good bedside manner from Dr. Sara Moretti, but the parking near Poliambulatorio Vomero is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Sara Moretti, General, Naples
+Rating: 3/10
+Clinic visited: Poliambulatorio Vomero
+Description: I was sent for a battery of tests that had nothing to do with my complaint and received a surprise bill afterwards. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 8 for Dr. Sara Moretti, General, Naples
+Rating: 6/10
+Clinic visited: Poliambulatorio Vomero
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Poliambulatorio Vomero were inconsistent. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Sara Moretti, General, Naples
+Rating: 7/10
+Clinic visited: Poliambulatorio Vomero
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Overall rating for Dr. Sara Moretti, General, Naples: 6.56/10 from 9 reviews

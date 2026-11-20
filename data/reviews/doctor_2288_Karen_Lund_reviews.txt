@@ -1,0 +1,69 @@
+Doctor: Dr. Karen Lund
+Doctor ID: 2288
+Specialization: Radiology
+Gender: Female
+Years of experience: 9
+City: Aalborg, Denmark
+Clinics: Klinik Sofiendal Aalborg (clinic ID 299)
+
+Review 1 for Dr. Karen Lund, Radiology, Aalborg
+Rating: 6/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: The treatment plan from Dr. Karen Lund made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Karen Lund, Radiology, Aalborg
+Rating: 8/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Everything was explained in plain English by Dr. Karen Lund, and nothing was left to guess.
+
+Review 3 for Dr. Karen Lund, Radiology, Aalborg
+Rating: 5/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Dr. Karen Lund was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Karen Lund, Radiology, Aalborg
+Rating: 8/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Karen Lund, Radiology, Aalborg
+Rating: 7/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 6 for Dr. Karen Lund, Radiology, Aalborg
+Rating: 6/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: I liked the advice I got from Dr. Karen Lund, but I would have liked more time to ask follow-up questions before the visit ended. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 7 for Dr. Karen Lund, Radiology, Aalborg
+Rating: 7/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: The report from Dr. Karen Lund was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 8 for Dr. Karen Lund, Radiology, Aalborg
+Rating: 7/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 9 for Dr. Karen Lund, Radiology, Aalborg
+Rating: 8/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor. Dr. Karen Lund used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 10 for Dr. Karen Lund, Radiology, Aalborg
+Rating: 8/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 11 for Dr. Karen Lund, Radiology, Aalborg
+Rating: 10/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. The practice in Aalborg is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 12 for Dr. Karen Lund, Radiology, Aalborg
+Rating: 10/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Images from Klinik Sofiendal Aalborg were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Karen Lund, Radiology, Aalborg: 7.50/10 from 12 reviews

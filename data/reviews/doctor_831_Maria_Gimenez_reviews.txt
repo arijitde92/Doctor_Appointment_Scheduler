@@ -1,0 +1,64 @@
+Doctor: Dr. María Giménez
+Doctor ID: 831
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 10
+City: Mendoza, Argentina
+Clinics: Instituto de Salud Belgrano (clinic ID 109)
+
+Review 1 for Dr. María Giménez, Psychiatry, Mendoza
+Rating: 5/10
+Clinic visited: Instituto de Salud Belgrano
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful diagnosis, though the billing for my first long assessment was confusing. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. María Giménez, Psychiatry, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Good bedside manner from Dr. María Giménez, but the parking near Instituto de Salud Belgrano is limited and I had to circle for fifteen minutes. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. María Giménez, Psychiatry, Mendoza
+Rating: 8/10
+Clinic visited: Instituto de Salud Belgrano
+Description: I felt heard by Dr. María Giménez during a very hard time, and nobody rushed me out of the room.
+
+Review 4 for Dr. María Giménez, Psychiatry, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. María Giménez, Psychiatry, Mendoza
+Rating: 5/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. María Giménez, Psychiatry, Mendoza
+Rating: 3/10
+Clinic visited: Instituto de Salud Belgrano
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion. Dr. María Giménez did not seem to have read my notes and asked me to repeat my whole history from the beginning. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 7 for Dr. María Giménez, Psychiatry, Mendoza
+Rating: 2/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Requests for a refill went unanswered for days, and I ran out of my medication. Not a place I would choose again, and I hope others have a better experience.
+
+Review 8 for Dr. María Giménez, Psychiatry, Mendoza
+Rating: 5/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Good listener, yet the refill process at Instituto de Salud Belgrano is slow and requires several phone calls.
+
+Review 9 for Dr. María Giménez, Psychiatry, Mendoza
+Rating: 8/10
+Clinic visited: Instituto de Salud Belgrano
+Description: The nurse was friendly and efficient, and the whole visit with Dr. María Giménez felt well organized from start to finish.
+
+Review 10 for Dr. María Giménez, Psychiatry, Mendoza
+Rating: 4/10
+Clinic visited: Instituto de Salud Belgrano
+Description: I was not told about common side effects by Dr. María Giménez, and I had a rough first two weeks that could have been avoided.
+
+Review 11 for Dr. María Giménez, Psychiatry, Mendoza
+Rating: 2/10
+Clinic visited: Instituto de Salud Belgrano
+Description: My concerns about how I felt on the dose were waved away rather than explored. The visit felt rushed, and Dr. María Giménez was already halfway out the door when I started to describe my second symptom.
+
+Overall rating for Dr. María Giménez, Psychiatry, Mendoza: 4.91/10 from 11 reviews

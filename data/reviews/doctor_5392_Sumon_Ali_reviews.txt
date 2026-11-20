@@ -1,0 +1,69 @@
+Doctor: Dr. Sumon Ali
+Doctor ID: 5392
+Specialization: Pathology
+Gender: Male
+Years of experience: 11
+City: Chittagong, Bangladesh
+Clinics: Bandar Nagar Polyclinic (clinic ID 697)
+
+Review 1 for Dr. Sumon Ali, Pathology, Chittagong
+Rating: 10/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Chittagong.
+
+Review 2 for Dr. Sumon Ali, Pathology, Chittagong
+Rating: 8/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 3 for Dr. Sumon Ali, Pathology, Chittagong
+Rating: 9/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: Dr. Sumon Ali drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Sumon Ali, Pathology, Chittagong
+Rating: 8/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Dr. Sumon Ali looked me in the eye, listened to the whole story and only then started typing.
+
+Review 5 for Dr. Sumon Ali, Pathology, Chittagong
+Rating: 6/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: Dr. Sumon Ali was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Sumon Ali, Pathology, Chittagong
+Rating: 8/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 7 for Dr. Sumon Ali, Pathology, Chittagong
+Rating: 9/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Sumon Ali felt well organized from start to finish.
+
+Review 8 for Dr. Sumon Ali, Pathology, Chittagong
+Rating: 7/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 9 for Dr. Sumon Ali, Pathology, Chittagong
+Rating: 10/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Allergy panel results were explained in detail by Dr. Sumon Ali, with a note on which results mattered clinically and which did not.
+
+Review 10 for Dr. Sumon Ali, Pathology, Chittagong
+Rating: 7/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: The blood draw was painless, but the waiting area at Bandar Nagar Polyclinic was crowded in the early morning. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 11 for Dr. Sumon Ali, Pathology, Chittagong
+Rating: 9/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: The biopsy report was returned in three days, and Dr. Sumon Ali took time on the phone to explain every term in it. Never once did I feel rushed, even though the clinic was clearly busy that morning. Five stars from me, and I would book again tomorrow.
+
+Review 12 for Dr. Sumon Ali, Pathology, Chittagong
+Rating: 9/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Overall rating for Dr. Sumon Ali, Pathology, Chittagong: 8.33/10 from 12 reviews

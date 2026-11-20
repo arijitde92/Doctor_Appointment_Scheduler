@@ -1,0 +1,54 @@
+Doctor: Dr. Laura Perez
+Doctor ID: 178
+Specialization: Pathology
+Gender: Female
+Years of experience: 7
+City: New York, USA
+Clinics: Parkview Primary Care Associates (clinic ID 25); Midtown Family Medical Group (clinic ID 26)
+
+Review 1 for Dr. Laura Perez, Pathology, New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: The blood draw was painless, but the waiting area at Midtown Family Medical Group was crowded in the early morning. Good bedside manner from Dr. Laura Perez, but the parking near Midtown Family Medical Group is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Laura Perez, Pathology, New York
+Rating: 8/10
+Clinic visited: Midtown Family Medical Group
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Laura Perez, Pathology, New York
+Rating: 9/10
+Clinic visited: Midtown Family Medical Group
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Dr. Laura Perez double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Laura Perez, Pathology, New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 5 for Dr. Laura Perez, Pathology, New York
+Rating: 7/10
+Clinic visited: Parkview Primary Care Associates
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 6 for Dr. Laura Perez, Pathology, New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: The treatment plan from Dr. Laura Perez made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Laura Perez, Pathology, New York
+Rating: 8/10
+Clinic visited: Midtown Family Medical Group
+Description: The biopsy report was returned in three days, and Dr. Laura Perez took time on the phone to explain every term in it. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Laura Perez, Pathology, New York
+Rating: 8/10
+Clinic visited: Midtown Family Medical Group
+Description: I asked for a second look at my slides, and Dr. Laura Perez reviewed them without any fuss and confirmed the finding in writing.
+
+Review 9 for Dr. Laura Perez, Pathology, New York
+Rating: 10/10
+Clinic visited: Midtown Family Medical Group
+Description: Fast turnaround at Midtown Family Medical Group on my thyroid panel, with results in my online account by the next morning. The receptionist at Midtown Family Medical Group remembered my name and had my forms ready, so check-in took less than a minute. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Laura Perez, Pathology, New York: 7.89/10 from 9 reviews

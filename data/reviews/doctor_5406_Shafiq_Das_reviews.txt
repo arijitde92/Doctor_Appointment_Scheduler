@@ -1,0 +1,59 @@
+Doctor: Dr. Shafiq Das
+Doctor ID: 5406
+Specialization: Neurology
+Gender: Male
+Years of experience: 9
+City: Chittagong, Bangladesh
+Clinics: Nirmal Shastho Clinic (clinic ID 699)
+
+Review 1 for Dr. Shafiq Das, Neurology, Chittagong
+Rating: 6/10
+Clinic visited: Nirmal Shastho Clinic
+Description: Dr. Shafiq Das explained my results well, although the visit felt short for such a complex condition.
+
+Review 2 for Dr. Shafiq Das, Neurology, Chittagong
+Rating: 4/10
+Clinic visited: Nirmal Shastho Clinic
+Description: The follow-up call about my test results never happened and I had to track them down myself. The visit felt rushed, and Dr. Shafiq Das was already halfway out the door when I started to describe my second symptom.
+
+Review 3 for Dr. Shafiq Das, Neurology, Chittagong
+Rating: 7/10
+Clinic visited: Nirmal Shastho Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Shafiq Das, Neurology, Chittagong
+Rating: 7/10
+Clinic visited: Nirmal Shastho Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 5 for Dr. Shafiq Das, Neurology, Chittagong
+Rating: 7/10
+Clinic visited: Nirmal Shastho Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Careful assessment of my memory issues, though I would have liked more information on support services. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Shafiq Das, Neurology, Chittagong
+Rating: 6/10
+Clinic visited: Nirmal Shastho Clinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. The treatment plan from Dr. Shafiq Das made sense, but I wished it had been written down for me to take away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Shafiq Das, Neurology, Chittagong
+Rating: 5/10
+Clinic visited: Nirmal Shastho Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 8 for Dr. Shafiq Das, Neurology, Chittagong
+Rating: 7/10
+Clinic visited: Nirmal Shastho Clinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Shafiq Das at Nirmal Shastho Clinic are difficult to schedule. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Shafiq Das, Neurology, Chittagong
+Rating: 7/10
+Clinic visited: Nirmal Shastho Clinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Shafiq Das, Neurology, Chittagong
+Rating: 5/10
+Clinic visited: Nirmal Shastho Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Shafiq Das, Neurology, Chittagong: 6.10/10 from 10 reviews

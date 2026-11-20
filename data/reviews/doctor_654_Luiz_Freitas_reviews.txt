@@ -1,0 +1,49 @@
+Doctor: Dr. Luiz Freitas
+Doctor ID: 654
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 14
+City: Rio de Janeiro, Brazil
+Clinics: Policlínica Barra Saúde (clinic ID 87)
+
+Review 1 for Dr. Luiz Freitas, Pulmonology, Rio de Janeiro
+Rating: 4/10
+Clinic visited: Policlínica Barra Saúde
+Description: The breathing test appointment was cancelled the day before, and the next slot was six weeks away.
+
+Review 2 for Dr. Luiz Freitas, Pulmonology, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Policlínica Barra Saúde
+Description: Clear, honest answers from Dr. Luiz Freitas about my shortness of breath, and no unnecessary tests were ordered. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 3 for Dr. Luiz Freitas, Pulmonology, Rio de Janeiro
+Rating: 9/10
+Clinic visited: Policlínica Barra Saúde
+Description: The receptionist at Policlínica Barra Saúde remembered my name and had my forms ready, so check-in took less than a minute. Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 4 for Dr. Luiz Freitas, Pulmonology, Rio de Janeiro
+Rating: 9/10
+Clinic visited: Policlínica Barra Saúde
+Description: At my visit, Dr. Luiz Freitas took notes on my medication list, checked for interactions and explained the changes simply. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 5 for Dr. Luiz Freitas, Pulmonology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Policlínica Barra Saúde
+Description: Booking was easy online, but the confirmation email contained the wrong address for Policlínica Barra Saúde. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 6 for Dr. Luiz Freitas, Pulmonology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Policlínica Barra Saúde
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. The treatment plan from Dr. Luiz Freitas made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Luiz Freitas, Pulmonology, Rio de Janeiro
+Rating: 10/10
+Clinic visited: Policlínica Barra Saúde
+Description: The waiting room at Policlínica Barra Saúde was clean, quiet and comfortable, with enough seating and water available. The allergy-related asthma triggers we identified have made a visible difference to my winters in Rio de Janeiro.
+
+Review 8 for Dr. Luiz Freitas, Pulmonology, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Policlínica Barra Saúde
+Description: My oxygen levels are monitored carefully at Policlínica Barra Saúde, and the home equipment was arranged without any hassle. Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Luiz Freitas, Pulmonology, Rio de Janeiro: 7.75/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Reinhard Hofer
+Doctor ID: 2936
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 18
+City: Innsbruck, Austria
+Clinics: Medizinisches Zentrum Amras (clinic ID 383)
+
+Review 1 for Dr. Reinhard Hofer, Gastroenterology, Innsbruck
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Reinhard Hofer, Gastroenterology, Innsbruck
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: Knowledgeable about my reflux, Dr. Reinhard Hofer still gave diet advice that felt generic and not tailored to my habits. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Reinhard Hofer, Gastroenterology, Innsbruck
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Reinhard Hofer felt well organized from start to finish.
+
+Review 4 for Dr. Reinhard Hofer, Gastroenterology, Innsbruck
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: I was nervous about my screening, but the team at Medizinisches Zentrum Amras made me feel at ease, and I was home within hours.
+
+Review 5 for Dr. Reinhard Hofer, Gastroenterology, Innsbruck
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Skilled with the scope, but communication about the fasting time before the procedure was unclear. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Reinhard Hofer, Gastroenterology, Innsbruck
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 7 for Dr. Reinhard Hofer, Gastroenterology, Innsbruck
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Reinhard Hofer is thorough, but I waited nearly two months to get the first available slot.
+
+Review 8 for Dr. Reinhard Hofer, Gastroenterology, Innsbruck
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: A same-day slot was found for me at Medizinisches Zentrum Amras when I called with a worrying symptom. Dr. Reinhard Hofer was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry.
+
+Overall rating for Dr. Reinhard Hofer, Gastroenterology, Innsbruck: 7.38/10 from 8 reviews

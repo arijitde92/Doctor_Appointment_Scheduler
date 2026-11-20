@@ -1,0 +1,59 @@
+Doctor: Dr. Ilse Bakker
+Doctor ID: 2579
+Specialization: General
+Gender: Female
+Years of experience: 5
+City: Amsterdam, Netherlands
+Clinics: Gezondheidscentrum Beethoven (clinic ID 337); Polikliniek Oost (clinic ID 338)
+
+Review 1 for Dr. Ilse Bakker, General, Amsterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Ilse Bakker, General, Amsterdam
+Rating: 5/10
+Clinic visited: Polikliniek Oost
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 3 for Dr. Ilse Bakker, General, Amsterdam
+Rating: 8/10
+Clinic visited: Polikliniek Oost
+Description: The receptionist at Polikliniek Oost remembered my name and had my forms ready, so check-in took less than a minute. By the time I left the room, Dr. Ilse Bakker had sorted the sick note, referral letter and prescription refill. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Ilse Bakker, General, Amsterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 5 for Dr. Ilse Bakker, General, Amsterdam
+Rating: 5/10
+Clinic visited: Polikliniek Oost
+Description: Dr. Ilse Bakker is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Ilse Bakker, General, Amsterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Referrals from Dr. Ilse Bakker are handled well, but getting test results back took longer than I was told to expect. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Ilse Bakker, General, Amsterdam
+Rating: 4/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: I came in about worsening headaches and was told to drink more water and relax, with no examination at all. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 8 for Dr. Ilse Bakker, General, Amsterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Ilse Bakker, General, Amsterdam
+Rating: 8/10
+Clinic visited: Polikliniek Oost
+Description: At my visit, Dr. Ilse Bakker took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 10 for Dr. Ilse Bakker, General, Amsterdam
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Overall rating for Dr. Ilse Bakker, General, Amsterdam: 6.40/10 from 10 reviews

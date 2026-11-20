@@ -1,0 +1,49 @@
+Doctor: Dr. Lasantha Herath
+Doctor ID: 5570
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 6
+City: Galle, Sri Lanka
+Clinics: Rumassala Family Clinic (clinic ID 720); Unawatuna Health Practice (clinic ID 722)
+
+Review 1 for Dr. Lasantha Herath, Pulmonology, Galle
+Rating: 4/10
+Clinic visited: Unawatuna Health Practice
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 2 for Dr. Lasantha Herath, Pulmonology, Galle
+Rating: 9/10
+Clinic visited: Rumassala Family Clinic
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Lasantha Herath was practical and never preachy.
+
+Review 3 for Dr. Lasantha Herath, Pulmonology, Galle
+Rating: 7/10
+Clinic visited: Unawatuna Health Practice
+Description: Dr. Lasantha Herath adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 4 for Dr. Lasantha Herath, Pulmonology, Galle
+Rating: 7/10
+Clinic visited: Rumassala Family Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Rumassala Family Clinic regularly exceeded forty minutes. Quick appointment and a fair price in Galle, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 5 for Dr. Lasantha Herath, Pulmonology, Galle
+Rating: 6/10
+Clinic visited: Rumassala Family Clinic
+Description: The treatment plan from Dr. Lasantha Herath made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Lasantha Herath, Pulmonology, Galle
+Rating: 7/10
+Clinic visited: Unawatuna Health Practice
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 7 for Dr. Lasantha Herath, Pulmonology, Galle
+Rating: 7/10
+Clinic visited: Unawatuna Health Practice
+Description: Good bedside manner from Dr. Lasantha Herath, but the parking near Unawatuna Health Practice is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Lasantha Herath, Pulmonology, Galle
+Rating: 7/10
+Clinic visited: Rumassala Family Clinic
+Description: Helpful and honest about my prognosis, Dr. Lasantha Herath could still have given me more written material to take home. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Lasantha Herath, Pulmonology, Galle: 6.75/10 from 8 reviews

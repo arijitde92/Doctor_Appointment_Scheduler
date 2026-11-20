@@ -1,0 +1,69 @@
+Doctor: Dr. Morag Hall
+Doctor ID: 1153
+Specialization: Pathology
+Gender: Female
+Years of experience: 2
+City: Manchester, UK
+Clinics: Portland Health Centre (clinic ID 151)
+
+Review 1 for Dr. Morag Hall, Pathology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: I asked for a second look at my slides, and Dr. Morag Hall reviewed them without any fuss and confirmed the finding in writing. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Morag Hall, Pathology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: Allergy panel results were explained in detail by Dr. Morag Hall, with a note on which results mattered clinically and which did not. I asked about the cost before the visit and received an honest estimate that matched the final bill. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Morag Hall, Pathology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: I was given a printed summary of the visit, which I shared with my family at home. The staff and Dr. Morag Hall patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Review 4 for Dr. Morag Hall, Pathology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: Dr. Morag Hall took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. Everything was explained in plain English by Dr. Morag Hall, and nothing was left to guess.
+
+Review 5 for Dr. Morag Hall, Pathology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: Prescriptions from Dr. Morag Hall were sent to my pharmacy before I even left the building, and the dosage instructions were written down. The biopsy report was returned in three days, and Dr. Morag Hall took time on the phone to explain every term in it.
+
+Review 6 for Dr. Morag Hall, Pathology, Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: Helpful in clarifying a borderline result, though Dr. Morag Hall gave little guidance about whether to repeat it. Dr. Morag Hall was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Morag Hall, Pathology, Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Morag Hall, Pathology, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 9 for Dr. Morag Hall, Pathology, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Morag Hall answered my questions kindly, though the call back took three days. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Morag Hall, Pathology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: The lab under Dr. Morag Hall was clean, organized and never overbooked, and results arrived exactly when promised. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I have no hesitation sending my own relatives here.
+
+Review 11 for Dr. Morag Hall, Pathology, Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 12 for Dr. Morag Hall, Pathology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Morag Hall, Pathology, Manchester: 7.33/10 from 12 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Thomas Strand
+Doctor ID: 2077
+Specialization: Neurology
+Gender: Male
+Years of experience: 30
+City: Trondheim, Norway
+Clinics: Legesenteret Kongens gate Plus (clinic ID 270); Helsehuset Nidelven (clinic ID 271)
+
+Review 1 for Dr. Thomas Strand, Neurology, Trondheim
+Rating: 9/10
+Clinic visited: Legesenteret Kongens gate Plus
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 2 for Dr. Thomas Strand, Neurology, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Kongens gate Plus
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Good bedside manner from Dr. Thomas Strand, but the parking near Legesenteret Kongens gate Plus is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Thomas Strand, Neurology, Trondheim
+Rating: 6/10
+Clinic visited: Legesenteret Kongens gate Plus
+Description: The treatment plan from Dr. Thomas Strand made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Thomas Strand, Neurology, Trondheim
+Rating: 5/10
+Clinic visited: Helsehuset Nidelven
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Thomas Strand, Neurology, Trondheim
+Rating: 7/10
+Clinic visited: Helsehuset Nidelven
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Thomas Strand, Neurology, Trondheim
+Rating: 7/10
+Clinic visited: Helsehuset Nidelven
+Description: Dr. Thomas Strand explained my results well, although the visit felt short for such a complex condition.
+
+Review 7 for Dr. Thomas Strand, Neurology, Trondheim
+Rating: 8/10
+Clinic visited: Helsehuset Nidelven
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Thomas Strand, Neurology, Trondheim
+Rating: 8/10
+Clinic visited: Helsehuset Nidelven
+Description: I came away understanding my condition better than I have in years of previous appointments. The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 9 for Dr. Thomas Strand, Neurology, Trondheim
+Rating: 9/10
+Clinic visited: Helsehuset Nidelven
+Description: Sensitive questions were handled by Dr. Thomas Strand with discretion and without a hint of judgment. Living with multiple sclerosis feels less frightening because Dr. Thomas Strand explains and discusses every change in my plan. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Thomas Strand, Neurology, Trondheim: 7.33/10 from 9 reviews

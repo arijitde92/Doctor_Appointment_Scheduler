@@ -1,0 +1,69 @@
+Doctor: Dr. Francisco Rocha
+Doctor ID: 647
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 4
+City: Rio de Janeiro, Brazil
+Clinics: Centro Médico Ipanema Sul (clinic ID 86)
+
+Review 1 for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro
+Rating: 9/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Everything was explained in plain English by Dr. Francisco Rocha, and nothing was left to guess. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 2 for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Good bedside manner from Dr. Francisco Rocha, but the parking near Centro Médico Ipanema Sul is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Good listener, yet the refill process at Centro Médico Ipanema Sul is slow and requires several phone calls.
+
+Review 4 for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Dr. Francisco Rocha is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 5 for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. I liked the advice I got from Dr. Francisco Rocha, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 8 for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: My depression finally has a treatment plan from Dr. Francisco Rocha that works, with regular check-ins and careful dose changes.
+
+Review 10 for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 11 for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 12 for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Francisco Rocha, Psychiatry, Rio de Janeiro: 7.00/10 from 12 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Giovanna Rinaldi
+Doctor ID: 3455
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 4
+City: Naples, Italy
+Clinics: Studio Medico Santa Lucia (clinic ID 447)
+
+Review 1 for Dr. Giovanna Rinaldi, Pediatrics, Naples
+Rating: 3/10
+Clinic visited: Studio Medico Santa Lucia
+Description: The referral to a specialist never arrived, and I had to chase it myself for weeks. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 2 for Dr. Giovanna Rinaldi, Pediatrics, Naples
+Rating: 5/10
+Clinic visited: Studio Medico Santa Lucia
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Giovanna Rinaldi, Pediatrics, Naples
+Rating: 5/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Giovanna Rinaldi, Pediatrics, Naples
+Rating: 6/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Dr. Giovanna Rinaldi is thorough with exams, but the after-hours phone line at Studio Medico Santa Lucia is hard to reach. Quick appointment and a fair price in Naples, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 5 for Dr. Giovanna Rinaldi, Pediatrics, Naples
+Rating: 5/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Booking was easy online, but the confirmation email contained the wrong address for Studio Medico Santa Lucia.
+
+Review 6 for Dr. Giovanna Rinaldi, Pediatrics, Naples
+Rating: 3/10
+Clinic visited: Studio Medico Santa Lucia
+Description: The visit felt rushed, and my worries about my toddler's feeding were waved away as normal. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 7 for Dr. Giovanna Rinaldi, Pediatrics, Naples
+Rating: 7/10
+Clinic visited: Studio Medico Santa Lucia
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Good bedside manner from Dr. Giovanna Rinaldi, but the parking near Studio Medico Santa Lucia is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Giovanna Rinaldi, Pediatrics, Naples
+Rating: 5/10
+Clinic visited: Studio Medico Santa Lucia
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Giovanna Rinaldi, Pediatrics, Naples: 4.88/10 from 8 reviews

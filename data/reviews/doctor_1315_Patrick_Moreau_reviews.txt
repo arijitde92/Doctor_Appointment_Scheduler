@@ -1,0 +1,59 @@
+Doctor: Dr. Patrick Moreau
+Doctor ID: 1315
+Specialization: Psychology
+Gender: Male
+Years of experience: 15
+City: Toulouse, France
+Clinics: Cabinet Médical Saint-Cyprien (clinic ID 171); Clinique des Minimes (clinic ID 172)
+
+Review 1 for Dr. Patrick Moreau, Psychology, Toulouse
+Rating: 10/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected. The waiting room at Cabinet Médical Saint-Cyprien was clean, quiet and comfortable, with enough seating and water available.
+
+Review 2 for Dr. Patrick Moreau, Psychology, Toulouse
+Rating: 10/10
+Clinic visited: Clinique des Minimes
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months.
+
+Review 3 for Dr. Patrick Moreau, Psychology, Toulouse
+Rating: 10/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 4 for Dr. Patrick Moreau, Psychology, Toulouse
+Rating: 10/10
+Clinic visited: Clinique des Minimes
+Description: He has a calm way of asking the difficult questions that makes it feel safe to answer honestly. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Patrick Moreau, Psychology, Toulouse
+Rating: 9/10
+Clinic visited: Cabinet Médical Saint-Cyprien
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Review 6 for Dr. Patrick Moreau, Psychology, Toulouse
+Rating: 9/10
+Clinic visited: Clinique des Minimes
+Description: Prescriptions from Dr. Patrick Moreau were sent to my pharmacy before I even left the building, and the dosage instructions were written down. The office in Toulouse is quiet and private, and the receptionist never mentions anything in front of other patients.
+
+Review 7 for Dr. Patrick Moreau, Psychology, Toulouse
+Rating: 9/10
+Clinic visited: Clinique des Minimes
+Description: Online sessions through Clinique des Minimes worked just as well as in-person ones, and the video link never once failed. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Patrick Moreau, Psychology, Toulouse
+Rating: 8/10
+Clinic visited: Clinique des Minimes
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Patrick Moreau, Psychology, Toulouse
+Rating: 9/10
+Clinic visited: Clinique des Minimes
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Patrick Moreau gave me practical tools I still use.
+
+Review 10 for Dr. Patrick Moreau, Psychology, Toulouse
+Rating: 7/10
+Clinic visited: Clinique des Minimes
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. My trauma work felt well paced, although the schedule changed several times at Clinique des Minimes. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Patrick Moreau, Psychology, Toulouse: 9.10/10 from 10 reviews

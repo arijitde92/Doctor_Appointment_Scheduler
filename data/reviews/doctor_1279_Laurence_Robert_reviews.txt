@@ -1,0 +1,49 @@
+Doctor: Dr. Laurence Robert
+Doctor ID: 1279
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 3
+City: Paris, France
+Clinics: Centre de Santé Oberkampf (clinic ID 166)
+
+Review 1 for Dr. Laurence Robert, Pediatrics, Paris
+Rating: 5/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Dr. Laurence Robert is thorough with exams, but the after-hours phone line at Centre de Santé Oberkampf is hard to reach.
+
+Review 2 for Dr. Laurence Robert, Pediatrics, Paris
+Rating: 6/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Laurence Robert, Pediatrics, Paris
+Rating: 7/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Laurence Robert, Pediatrics, Paris
+Rating: 6/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Caring and gentle with my child, Dr. Laurence Robert nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 5 for Dr. Laurence Robert, Pediatrics, Paris
+Rating: 4/10
+Clinic visited: Centre de Santé Oberkampf
+Description: I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why. My questions were answered by Dr. Laurence Robert with short, vague replies, and I left without a clear plan.
+
+Review 6 for Dr. Laurence Robert, Pediatrics, Paris
+Rating: 6/10
+Clinic visited: Centre de Santé Oberkampf
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Laurence Robert, Pediatrics, Paris
+Rating: 6/10
+Clinic visited: Centre de Santé Oberkampf
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Laurence Robert, Pediatrics, Paris
+Rating: 4/10
+Clinic visited: Centre de Santé Oberkampf
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. We were left waiting over an hour with a sick, crying baby and received no apology.
+
+Overall rating for Dr. Laurence Robert, Pediatrics, Paris: 5.50/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Yeo Hui Min
+Doctor ID: 4587
+Specialization: Radiology
+Gender: Female
+Years of experience: 25
+City: Singapore, Singapore
+Clinics: Starlight Family Clinic (clinic ID 593)
+
+Review 1 for Dr. Yeo Hui Min, Radiology, Singapore
+Rating: 7/10
+Clinic visited: Starlight Family Clinic
+Description: Dr. Yeo Hui Min answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Booking was easy online, but the confirmation email contained the wrong address for Starlight Family Clinic.
+
+Review 2 for Dr. Yeo Hui Min, Radiology, Singapore
+Rating: 8/10
+Clinic visited: Starlight Family Clinic
+Description: The report from Dr. Yeo Hui Min was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 3 for Dr. Yeo Hui Min, Radiology, Singapore
+Rating: 9/10
+Clinic visited: Starlight Family Clinic
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 4 for Dr. Yeo Hui Min, Radiology, Singapore
+Rating: 6/10
+Clinic visited: Starlight Family Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The report from Dr. Yeo Hui Min was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 5 for Dr. Yeo Hui Min, Radiology, Singapore
+Rating: 9/10
+Clinic visited: Starlight Family Clinic
+Description: Images from Starlight Family Clinic were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 6 for Dr. Yeo Hui Min, Radiology, Singapore
+Rating: 7/10
+Clinic visited: Starlight Family Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 7 for Dr. Yeo Hui Min, Radiology, Singapore
+Rating: 8/10
+Clinic visited: Starlight Family Clinic
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Yeo Hui Min sent a clear report within a day. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Yeo Hui Min, Radiology, Singapore
+Rating: 8/10
+Clinic visited: Starlight Family Clinic
+Description: Dr. Yeo Hui Min compared my new scan with last year's and pointed out exactly what had stayed the same. A translator was arranged for my mother without us asking twice, and Dr. Yeo Hui Min spoke directly to her throughout.
+
+Overall rating for Dr. Yeo Hui Min, Radiology, Singapore: 7.75/10 from 8 reviews

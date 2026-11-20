@@ -1,0 +1,49 @@
+Doctor: Dr. Liu Yanyan
+Doctor ID: 3876
+Specialization: Cardiology
+Gender: Female
+Years of experience: 5
+City: Guangzhou, China
+Clinics: Tianhe Kangle Medical Centre (clinic ID 500)
+
+Review 1 for Dr. Liu Yanyan, Cardiology, Guangzhou
+Rating: 6/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: Dr. Liu Yanyan adjusted my blood pressure medication carefully, though I had to call twice for a refill. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 2 for Dr. Liu Yanyan, Cardiology, Guangzhou
+Rating: 6/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: Helpful with my cholesterol, Dr. Liu Yanyan still gave dietary advice that was a little generic.
+
+Review 3 for Dr. Liu Yanyan, Cardiology, Guangzhou
+Rating: 6/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Dr. Liu Yanyan was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Liu Yanyan, Cardiology, Guangzhou
+Rating: 8/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: Booking online at Tianhe Kangle Medical Centre was simple, and I got a confirmation text with clear directions and a reminder the day before. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Liu Yanyan, Cardiology, Guangzhou
+Rating: 7/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: Great care in the visit itself, but the billing for the tests at Tianhe Kangle Medical Centre was confusing. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Liu Yanyan, Cardiology, Guangzhou
+Rating: 8/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: Dr. Liu Yanyan explained the difference between my statin options and let me weigh in on the choice. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 7 for Dr. Liu Yanyan, Cardiology, Guangzhou
+Rating: 8/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. The cardiology unit at Tianhe Kangle Medical Centre runs on time, and the technicians were professional during my echocardiogram.
+
+Review 8 for Dr. Liu Yanyan, Cardiology, Guangzhou
+Rating: 9/10
+Clinic visited: Tianhe Kangle Medical Centre
+Description: After my heart attack, Dr. Liu Yanyan explained the rehab plan and medication changes with great patience and kindness.
+
+Overall rating for Dr. Liu Yanyan, Cardiology, Guangzhou: 7.25/10 from 8 reviews

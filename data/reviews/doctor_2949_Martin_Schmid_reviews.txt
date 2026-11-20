@@ -1,0 +1,69 @@
+Doctor: Dr. Martin Schmid
+Doctor ID: 2949
+Specialization: General
+Gender: Male
+Years of experience: 13
+City: Salzburg, Austria
+Clinics: Ärztezentrum Linzer Gasse (clinic ID 385)
+
+Review 1 for Dr. Martin Schmid, General, Salzburg
+Rating: 8/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. As a new patient in Salzburg, I felt welcomed at Ärztezentrum Linzer Gasse, and my whole history was reviewed in one relaxed visit. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Martin Schmid, General, Salzburg
+Rating: 7/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 3 for Dr. Martin Schmid, General, Salzburg
+Rating: 6/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: Referrals from Dr. Martin Schmid are handled well, but getting test results back took longer than I was told to expect. I liked the advice I got from Dr. Martin Schmid, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Martin Schmid, General, Salzburg
+Rating: 8/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 5 for Dr. Martin Schmid, General, Salzburg
+Rating: 6/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 6 for Dr. Martin Schmid, General, Salzburg
+Rating: 6/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 7 for Dr. Martin Schmid, General, Salzburg
+Rating: 6/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: Dr. Martin Schmid is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Booking was easy online, but the confirmation email contained the wrong address for Ärztezentrum Linzer Gasse.
+
+Review 8 for Dr. Martin Schmid, General, Salzburg
+Rating: 5/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 9 for Dr. Martin Schmid, General, Salzburg
+Rating: 6/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Ärztezentrum Linzer Gasse were inconsistent.
+
+Review 10 for Dr. Martin Schmid, General, Salzburg
+Rating: 8/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: Dr. Martin Schmid spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 11 for Dr. Martin Schmid, General, Salzburg
+Rating: 4/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. My lab results from Ärztezentrum Linzer Gasse were never called in, and I only found them by chasing the front desk three times.
+
+Review 12 for Dr. Martin Schmid, General, Salzburg
+Rating: 6/10
+Clinic visited: Ärztezentrum Linzer Gasse
+Description: Dr. Martin Schmid was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Martin Schmid, General, Salzburg: 6.33/10 from 12 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Luke Roberts
+Doctor ID: 1098
+Specialization: Cardiology
+Gender: Male
+Years of experience: 7
+City: Edinburgh, UK
+Clinics: Raeburn Place Medical Practice (clinic ID 144)
+
+Review 1 for Dr. Luke Roberts, Cardiology, Edinburgh
+Rating: 4/10
+Clinic visited: Raeburn Place Medical Practice
+Description: The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes. My questions were answered by Dr. Luke Roberts with short, vague replies, and I left without a clear plan. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 2 for Dr. Luke Roberts, Cardiology, Edinburgh
+Rating: 5/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Great care in the visit itself, but the billing for the tests at Raeburn Place Medical Practice was confusing.
+
+Review 3 for Dr. Luke Roberts, Cardiology, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Luke Roberts, Cardiology, Edinburgh
+Rating: 6/10
+Clinic visited: Raeburn Place Medical Practice
+Description: I liked the advice I got from Dr. Luke Roberts, but I would have liked more time to ask follow-up questions before the visit ended. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 5 for Dr. Luke Roberts, Cardiology, Edinburgh
+Rating: 6/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Dr. Luke Roberts was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Luke Roberts, Cardiology, Edinburgh
+Rating: 6/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Luke Roberts, Cardiology, Edinburgh
+Rating: 6/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Helpful with my cholesterol, Dr. Luke Roberts still gave dietary advice that was a little generic.
+
+Review 8 for Dr. Luke Roberts, Cardiology, Edinburgh
+Rating: 6/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Good bedside manner from Dr. Luke Roberts, but the parking near Raeburn Place Medical Practice is limited and I had to circle for fifteen minutes. Dr. Luke Roberts adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 9 for Dr. Luke Roberts, Cardiology, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Dr. Luke Roberts was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 10 for Dr. Luke Roberts, Cardiology, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Luke Roberts, Cardiology, Edinburgh: 6.00/10 from 10 reviews

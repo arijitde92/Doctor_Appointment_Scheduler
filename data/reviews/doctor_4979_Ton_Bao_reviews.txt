@@ -1,0 +1,64 @@
+Doctor: Dr. Ton Bao
+Doctor ID: 4979
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 6
+City: Hai Phong, Vietnam
+Clinics: Phong Kham Cat Tuong (clinic ID 643)
+
+Review 1 for Dr. Ton Bao, Psychiatry, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Cat Tuong
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 2 for Dr. Ton Bao, Psychiatry, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Clear explanations, but the follow-up call took a week longer than I had been told. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Ton Bao, Psychiatry, Hai Phong
+Rating: 10/10
+Clinic visited: Phong Kham Cat Tuong
+Description: I felt heard by Dr. Ton Bao during a very hard time, and nobody rushed me out of the room.
+
+Review 4 for Dr. Ton Bao, Psychiatry, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Cat Tuong
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 5 for Dr. Ton Bao, Psychiatry, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Cat Tuong
+Description: He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. Sensitive questions were handled by Dr. Ton Bao with discretion and without a hint of judgment.
+
+Review 6 for Dr. Ton Bao, Psychiatry, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Booking was easy online, but the confirmation email contained the wrong address for Phong Kham Cat Tuong. Dr. Ton Bao is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 7 for Dr. Ton Bao, Psychiatry, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Dr. Ton Bao double-checked my allergy list before prescribing anything, and that careful habit earned my trust. My depression finally has a treatment plan from Dr. Ton Bao that works, with regular check-ins and careful dose changes. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Ton Bao, Psychiatry, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Ton Bao, Psychiatry, Hai Phong
+Rating: 9/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Telehealth follow-ups at Phong Kham Cat Tuong are punctual and calm, and refills are dealt with quickly. Everything was explained in plain English by Dr. Ton Bao, and nothing was left to guess.
+
+Review 10 for Dr. Ton Bao, Psychiatry, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Cat Tuong
+Description: The ADHD assessment by Dr. Ton Bao was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 11 for Dr. Ton Bao, Psychiatry, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Cat Tuong
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Ton Bao, Psychiatry, Hai Phong: 7.64/10 from 11 reviews

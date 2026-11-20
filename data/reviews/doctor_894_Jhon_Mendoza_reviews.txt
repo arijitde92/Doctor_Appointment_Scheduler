@@ -1,0 +1,54 @@
+Doctor: Dr. Jhon Mendoza
+Doctor ID: 894
+Specialization: General
+Gender: Male
+Years of experience: 5
+City: Arequipa, Peru
+Clinics: Consultorios Médicos Parra (clinic ID 117)
+
+Review 1 for Dr. Jhon Mendoza, General, Arequipa
+Rating: 9/10
+Clinic visited: Consultorios Médicos Parra
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Dr. Jhon Mendoza spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Jhon Mendoza, General, Arequipa
+Rating: 6/10
+Clinic visited: Consultorios Médicos Parra
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Jhon Mendoza, General, Arequipa
+Rating: 7/10
+Clinic visited: Consultorios Médicos Parra
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Consultorios Médicos Parra were inconsistent. Quick appointment and a fair price in Arequipa, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Jhon Mendoza, General, Arequipa
+Rating: 8/10
+Clinic visited: Consultorios Médicos Parra
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 5 for Dr. Jhon Mendoza, General, Arequipa
+Rating: 8/10
+Clinic visited: Consultorios Médicos Parra
+Description: Getting to Consultorios Médicos Parra from across Arequipa was easy, and the same-week appointment saved me an urgent care trip. The nurse was friendly and efficient, and the whole visit with Dr. Jhon Mendoza felt well organized from start to finish.
+
+Review 6 for Dr. Jhon Mendoza, General, Arequipa
+Rating: 8/10
+Clinic visited: Consultorios Médicos Parra
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Jhon Mendoza, General, Arequipa
+Rating: 6/10
+Clinic visited: Consultorios Médicos Parra
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Good bedside manner from Dr. Jhon Mendoza, but the parking near Consultorios Médicos Parra is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Jhon Mendoza, General, Arequipa
+Rating: 8/10
+Clinic visited: Consultorios Médicos Parra
+Description: By the time I left the room, Dr. Jhon Mendoza had sorted the sick note, referral letter and prescription refill. A translator was arranged for my mother without us asking twice, and Dr. Jhon Mendoza spoke directly to her throughout. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Jhon Mendoza, General, Arequipa
+Rating: 6/10
+Clinic visited: Consultorios Médicos Parra
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Jhon Mendoza, General, Arequipa: 7.33/10 from 9 reviews

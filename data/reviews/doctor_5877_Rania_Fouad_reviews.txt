@@ -1,0 +1,49 @@
+Doctor: Dr. Rania Fouad
+Doctor ID: 5877
+Specialization: Pathology
+Gender: Female
+Years of experience: 1
+City: Alexandria, Egypt
+Clinics: Miami Bahari Clinic (clinic ID 759)
+
+Review 1 for Dr. Rania Fouad, Pathology, Alexandria
+Rating: 8/10
+Clinic visited: Miami Bahari Clinic
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. The lab at Miami Bahari Clinic had a quick, friendly blood draw and the phlebotomist found my vein on the first try. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Rania Fouad, Pathology, Alexandria
+Rating: 9/10
+Clinic visited: Miami Bahari Clinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Rania Fouad, Pathology, Alexandria
+Rating: 7/10
+Clinic visited: Miami Bahari Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Rania Fouad gave little guidance about whether to repeat it.
+
+Review 4 for Dr. Rania Fouad, Pathology, Alexandria
+Rating: 9/10
+Clinic visited: Miami Bahari Clinic
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 5 for Dr. Rania Fouad, Pathology, Alexandria
+Rating: 10/10
+Clinic visited: Miami Bahari Clinic
+Description: The lab under Dr. Rania Fouad was clean, organized and never overbooked, and results arrived exactly when promised. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 6 for Dr. Rania Fouad, Pathology, Alexandria
+Rating: 9/10
+Clinic visited: Miami Bahari Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Rania Fouad, Pathology, Alexandria
+Rating: 7/10
+Clinic visited: Miami Bahari Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 8 for Dr. Rania Fouad, Pathology, Alexandria
+Rating: 6/10
+Clinic visited: Miami Bahari Clinic
+Description: The blood draw was painless, but the waiting area at Miami Bahari Clinic was crowded in the early morning.
+
+Overall rating for Dr. Rania Fouad, Pathology, Alexandria: 8.12/10 from 8 reviews

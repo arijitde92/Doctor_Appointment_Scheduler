@@ -1,0 +1,64 @@
+Doctor: Dr. James Smith
+Doctor ID: 6687
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 12
+City: Hamilton, New Zealand
+Clinics: Hauraki Health Clinic (clinic ID 867)
+
+Review 1 for Dr. James Smith, Gastroenterology, Hamilton
+Rating: 10/10
+Clinic visited: Hauraki Health Clinic
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. James Smith, Gastroenterology, Hamilton
+Rating: 8/10
+Clinic visited: Hauraki Health Clinic
+Description: A same-day slot was found for me at Hauraki Health Clinic when I called with a worrying symptom. A gentle, respectful manner from Dr. James Smith made a very awkward exam bearable, with every step explained before it happened.
+
+Review 3 for Dr. James Smith, Gastroenterology, Hamilton
+Rating: 6/10
+Clinic visited: Hauraki Health Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. James Smith, Gastroenterology, Hamilton
+Rating: 8/10
+Clinic visited: Hauraki Health Clinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner.
+
+Review 5 for Dr. James Smith, Gastroenterology, Hamilton
+Rating: 7/10
+Clinic visited: Hauraki Health Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Knowledgeable about my reflux, Dr. James Smith still gave diet advice that felt generic and not tailored to my habits.
+
+Review 6 for Dr. James Smith, Gastroenterology, Hamilton
+Rating: 10/10
+Clinic visited: Hauraki Health Clinic
+Description: Paperwork at Hauraki Health Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 7 for Dr. James Smith, Gastroenterology, Hamilton
+Rating: 7/10
+Clinic visited: Hauraki Health Clinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. James Smith, Gastroenterology, Hamilton
+Rating: 7/10
+Clinic visited: Hauraki Health Clinic
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. I liked the advice I got from Dr. James Smith, but I would have liked more time to ask follow-up questions before the visit ended. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. James Smith, Gastroenterology, Hamilton
+Rating: 8/10
+Clinic visited: Hauraki Health Clinic
+Description: After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 10 for Dr. James Smith, Gastroenterology, Hamilton
+Rating: 10/10
+Clinic visited: Hauraki Health Clinic
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. Worth every minute of travel, and I would go again without a second thought.
+
+Review 11 for Dr. James Smith, Gastroenterology, Hamilton
+Rating: 8/10
+Clinic visited: Hauraki Health Clinic
+Description: Dr. James Smith took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. James Smith, Gastroenterology, Hamilton: 8.09/10 from 11 reviews

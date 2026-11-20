@@ -1,0 +1,49 @@
+Doctor: Dr. Timo Laitinen
+Doctor ID: 1920
+Specialization: Radiology
+Gender: Male
+Years of experience: 27
+City: Turku, Finland
+Clinics: Lääkärikeskus Aurajoki Plus (clinic ID 250); Lääkärikeskus Kauppiaskatu (clinic ID 252); Lääkäriasema Aninkainen (clinic ID 253)
+
+Review 1 for Dr. Timo Laitinen, Radiology, Turku
+Rating: 9/10
+Clinic visited: Lääkärikeskus Kauppiaskatu
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Timo Laitinen, Radiology, Turku
+Rating: 9/10
+Clinic visited: Lääkäriasema Aninkainen
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 3 for Dr. Timo Laitinen, Radiology, Turku
+Rating: 6/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Great image quality and a fast report, but the booking system sent me to the wrong location first. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Timo Laitinen, Radiology, Turku
+Rating: 7/10
+Clinic visited: Lääkäriasema Aninkainen
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 5 for Dr. Timo Laitinen, Radiology, Turku
+Rating: 8/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: Images from Lääkärikeskus Aurajoki Plus were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. Dr. Timo Laitinen double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 6 for Dr. Timo Laitinen, Radiology, Turku
+Rating: 8/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: The staff at Lääkärikeskus Aurajoki Plus in Turku explained the contrast dye and its side effects before I signed anything. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Timo Laitinen, Radiology, Turku
+Rating: 7/10
+Clinic visited: Lääkäriasema Aninkainen
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Timo Laitinen, Radiology, Turku
+Rating: 5/10
+Clinic visited: Lääkärikeskus Kauppiaskatu
+Description: The report from Dr. Timo Laitinen was thorough, though full of technical terms that needed my regular doctor to translate. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Timo Laitinen, Radiology, Turku: 7.38/10 from 8 reviews

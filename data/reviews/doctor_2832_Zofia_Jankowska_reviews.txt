@@ -1,0 +1,54 @@
+Doctor: Dr. Zofia Jankowska
+Doctor ID: 2832
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 12
+City: Wroclaw, Poland
+Clinics: Centrum Medyczne Rynek Plus (clinic ID 370)
+
+Review 1 for Dr. Zofia Jankowska, Pediatrics, Wroclaw
+Rating: 8/10
+Clinic visited: Centrum Medyczne Rynek Plus
+Description: We got a same-day appointment for a high fever, and the care at Centrum Medyczne Rynek Plus was kind and efficient. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Zofia Jankowska, Pediatrics, Wroclaw
+Rating: 7/10
+Clinic visited: Centrum Medyczne Rynek Plus
+Description: Caring and gentle with my child, Dr. Zofia Jankowska nonetheless ran forty minutes behind schedule at most appointments. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Zofia Jankowska, Pediatrics, Wroclaw
+Rating: 9/10
+Clinic visited: Centrum Medyczne Rynek Plus
+Description: Prescriptions from Dr. Zofia Jankowska were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 4 for Dr. Zofia Jankowska, Pediatrics, Wroclaw
+Rating: 9/10
+Clinic visited: Centrum Medyczne Rynek Plus
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Kind to anxious parents, Dr. Zofia Jankowska never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 5 for Dr. Zofia Jankowska, Pediatrics, Wroclaw
+Rating: 8/10
+Clinic visited: Centrum Medyczne Rynek Plus
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 6 for Dr. Zofia Jankowska, Pediatrics, Wroclaw
+Rating: 7/10
+Clinic visited: Centrum Medyczne Rynek Plus
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 7 for Dr. Zofia Jankowska, Pediatrics, Wroclaw
+Rating: 8/10
+Clinic visited: Centrum Medyczne Rynek Plus
+Description: The school physical at Centrum Medyczne Rynek Plus was quick, thorough and the forms were completed on the spot.
+
+Review 8 for Dr. Zofia Jankowska, Pediatrics, Wroclaw
+Rating: 6/10
+Clinic visited: Centrum Medyczne Rynek Plus
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 9 for Dr. Zofia Jankowska, Pediatrics, Wroclaw
+Rating: 10/10
+Clinic visited: Centrum Medyczne Rynek Plus
+Description: Vaccination visits with Dr. Zofia Jankowska are painless and well explained, and my questions about the schedule were answered without any pressure. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Overall rating for Dr. Zofia Jankowska, Pediatrics, Wroclaw: 8.00/10 from 9 reviews

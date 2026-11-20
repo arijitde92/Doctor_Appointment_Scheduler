@@ -1,0 +1,59 @@
+Doctor: Dr. Baek Soo-jin
+Doctor ID: 4256
+Specialization: Radiology
+Gender: Female
+Years of experience: 14
+City: Incheon, South Korea
+Clinics: Juan Maeum Polyclinic (clinic ID 548)
+
+Review 1 for Dr. Baek Soo-jin, Radiology, Incheon
+Rating: 5/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Dr. Baek Soo-jin answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Good bedside manner from Dr. Baek Soo-jin, but the parking near Juan Maeum Polyclinic is limited and I had to circle for fifteen minutes. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Baek Soo-jin, Radiology, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Baek Soo-jin, Radiology, Incheon
+Rating: 4/10
+Clinic visited: Juan Maeum Polyclinic
+Description: The staff seemed rushed and impatient with an elderly patient who needed help changing. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 4 for Dr. Baek Soo-jin, Radiology, Incheon
+Rating: 5/10
+Clinic visited: Juan Maeum Polyclinic
+Description: The report from Dr. Baek Soo-jin was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 5 for Dr. Baek Soo-jin, Radiology, Incheon
+Rating: 8/10
+Clinic visited: Juan Maeum Polyclinic
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Baek Soo-jin, Radiology, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Baek Soo-jin, Radiology, Incheon
+Rating: 8/10
+Clinic visited: Juan Maeum Polyclinic
+Description: I was called in within five minutes of my appointment time at Juan Maeum Polyclinic, which is rare and much appreciated. My ultrasound was unhurried, and Dr. Baek Soo-jin took time to show me the images and explain what each measurement meant.
+
+Review 8 for Dr. Baek Soo-jin, Radiology, Incheon
+Rating: 6/10
+Clinic visited: Juan Maeum Polyclinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 9 for Dr. Baek Soo-jin, Radiology, Incheon
+Rating: 7/10
+Clinic visited: Juan Maeum Polyclinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Professional technologist, though the changing room was cramped and the lockers did not work. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Baek Soo-jin, Radiology, Incheon
+Rating: 8/10
+Clinic visited: Juan Maeum Polyclinic
+Description: Images from Juan Maeum Polyclinic were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Overall rating for Dr. Baek Soo-jin, Radiology, Incheon: 6.50/10 from 10 reviews

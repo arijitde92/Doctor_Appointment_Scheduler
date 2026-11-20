@@ -1,0 +1,69 @@
+Doctor: Dr. Farah Sharma
+Doctor ID: 6256
+Specialization: Cardiology
+Gender: Female
+Years of experience: 8
+City: Doha, Qatar
+Clinics: Souq Waqif Wellness Clinic (clinic ID 809)
+
+Review 1 for Dr. Farah Sharma, Cardiology, Doha
+Rating: 9/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Farah Sharma, Cardiology, Doha
+Rating: 7/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 3 for Dr. Farah Sharma, Cardiology, Doha
+Rating: 6/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Farah Sharma, Cardiology, Doha
+Rating: 6/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Great care in the visit itself, but the billing for the tests at Souq Waqif Wellness Clinic was confusing.
+
+Review 5 for Dr. Farah Sharma, Cardiology, Doha
+Rating: 9/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 6 for Dr. Farah Sharma, Cardiology, Doha
+Rating: 7/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: Dr. Farah Sharma adjusted my blood pressure medication carefully, though I had to call twice for a refill. Quick appointment and a fair price in Doha, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Farah Sharma, Cardiology, Doha
+Rating: 8/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 8 for Dr. Farah Sharma, Cardiology, Doha
+Rating: 5/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Farah Sharma, Cardiology, Doha
+Rating: 7/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: Helpful with my cholesterol, Dr. Farah Sharma still gave dietary advice that was a little generic. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Farah Sharma, Cardiology, Doha
+Rating: 8/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: She was upfront about what could and could not be treated, and did not oversell any option. I have no hesitation sending my own relatives here.
+
+Review 11 for Dr. Farah Sharma, Cardiology, Doha
+Rating: 8/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 12 for Dr. Farah Sharma, Cardiology, Doha
+Rating: 6/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Helpful visit overall, although I only found out about an extra charge after I had paid. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Farah Sharma, Cardiology, Doha: 7.17/10 from 12 reviews

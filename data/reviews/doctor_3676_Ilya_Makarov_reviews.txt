@@ -1,0 +1,64 @@
+Doctor: Dr. Ilya Makarov
+Doctor ID: 3676
+Specialization: General
+Gender: Male
+Years of experience: 24
+City: Kazan, Russia
+Clinics: Bulak Medical Centre (clinic ID 475); Klinika Zdorovye Kazani (clinic ID 476)
+
+Review 1 for Dr. Ilya Makarov, General, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Ilya Makarov felt well organized from start to finish.
+
+Review 2 for Dr. Ilya Makarov, General, Kazan
+Rating: 9/10
+Clinic visited: Bulak Medical Centre
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 3 for Dr. Ilya Makarov, General, Kazan
+Rating: 10/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: I always hear back within a day when I leave a question with the nurse at Klinika Zdorovye Kazani, and Dr. Ilya Makarov follows up on lab results personally. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Ilya Makarov, General, Kazan
+Rating: 9/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: As a new patient in Kazan, I felt welcomed at Klinika Zdorovye Kazani, and my whole history was reviewed in one relaxed visit. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 5 for Dr. Ilya Makarov, General, Kazan
+Rating: 9/10
+Clinic visited: Bulak Medical Centre
+Description: Booking online at Bulak Medical Centre was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 6 for Dr. Ilya Makarov, General, Kazan
+Rating: 7/10
+Clinic visited: Bulak Medical Centre
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 7 for Dr. Ilya Makarov, General, Kazan
+Rating: 6/10
+Clinic visited: Bulak Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Ilya Makarov is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 8 for Dr. Ilya Makarov, General, Kazan
+Rating: 7/10
+Clinic visited: Bulak Medical Centre
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 9 for Dr. Ilya Makarov, General, Kazan
+Rating: 8/10
+Clinic visited: Bulak Medical Centre
+Description: By the time I left the room, Dr. Ilya Makarov had sorted the sick note, referral letter and prescription refill. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 10 for Dr. Ilya Makarov, General, Kazan
+Rating: 8/10
+Clinic visited: Bulak Medical Centre
+Description: Getting to Bulak Medical Centre from across Kazan was easy, and the same-week appointment saved me an urgent care trip. Dr. Ilya Makarov double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I would happily recommend this doctor to friends and family.
+
+Review 11 for Dr. Ilya Makarov, General, Kazan
+Rating: 9/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: A same-day slot was found for me at Klinika Zdorovye Kazani when I called with a worrying symptom. Dr. Ilya Makarov spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Ilya Makarov, General, Kazan: 8.18/10 from 11 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Colm Quinn
+Doctor ID: 2472
+Specialization: Neurology
+Gender: Male
+Years of experience: 12
+City: Dublin, Ireland
+Clinics: Drumcondra Polyclinic (clinic ID 322)
+
+Review 1 for Dr. Colm Quinn, Neurology, Dublin
+Rating: 7/10
+Clinic visited: Drumcondra Polyclinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Colm Quinn at Drumcondra Polyclinic are difficult to schedule.
+
+Review 2 for Dr. Colm Quinn, Neurology, Dublin
+Rating: 8/10
+Clinic visited: Drumcondra Polyclinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. My tremor was assessed carefully and the explanation of the options was balanced and unhurried.
+
+Review 3 for Dr. Colm Quinn, Neurology, Dublin
+Rating: 7/10
+Clinic visited: Drumcondra Polyclinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 4 for Dr. Colm Quinn, Neurology, Dublin
+Rating: 8/10
+Clinic visited: Drumcondra Polyclinic
+Description: Dr. Colm Quinn looked me in the eye, listened to the whole story and only then started typing. Living with multiple sclerosis feels less frightening because Dr. Colm Quinn explains and discusses every change in my plan.
+
+Review 5 for Dr. Colm Quinn, Neurology, Dublin
+Rating: 7/10
+Clinic visited: Drumcondra Polyclinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Colm Quinn, Neurology, Dublin
+Rating: 10/10
+Clinic visited: Drumcondra Polyclinic
+Description: The EEG appointment ran on time, and Dr. Colm Quinn reviewed the tracing with me the same week.
+
+Review 7 for Dr. Colm Quinn, Neurology, Dublin
+Rating: 4/10
+Clinic visited: Drumcondra Polyclinic
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. Dr. Colm Quinn did not look up from the notes while I described my seizure, and I felt completely unheard. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 8 for Dr. Colm Quinn, Neurology, Dublin
+Rating: 7/10
+Clinic visited: Drumcondra Polyclinic
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Colm Quinn, Neurology, Dublin
+Rating: 8/10
+Clinic visited: Drumcondra Polyclinic
+Description: Dr. Colm Quinn used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 10 for Dr. Colm Quinn, Neurology, Dublin
+Rating: 5/10
+Clinic visited: Drumcondra Polyclinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Overall rating for Dr. Colm Quinn, Neurology, Dublin: 7.10/10 from 10 reviews

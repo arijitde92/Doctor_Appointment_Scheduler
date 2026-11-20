@@ -1,0 +1,59 @@
+Doctor: Dr. Sofía Medina
+Doctor ID: 786
+Specialization: General
+Gender: Female
+Years of experience: 16
+City: Cordoba, Argentina
+Clinics: Policlínica General Paz (clinic ID 103)
+
+Review 1 for Dr. Sofía Medina, General, Cordoba
+Rating: 8/10
+Clinic visited: Policlínica General Paz
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. Never once did I feel rushed, even though the clinic was clearly busy that morning. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Sofía Medina, General, Cordoba
+Rating: 6/10
+Clinic visited: Policlínica General Paz
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Sofía Medina, General, Cordoba
+Rating: 6/10
+Clinic visited: Policlínica General Paz
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 4 for Dr. Sofía Medina, General, Cordoba
+Rating: 6/10
+Clinic visited: Policlínica General Paz
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The treatment plan from Dr. Sofía Medina made sense, but I wished it had been written down for me to take away. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Sofía Medina, General, Cordoba
+Rating: 9/10
+Clinic visited: Policlínica General Paz
+Description: Vaccination advice from Dr. Sofía Medina for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 6 for Dr. Sofía Medina, General, Cordoba
+Rating: 8/10
+Clinic visited: Policlínica General Paz
+Description: I always hear back within a day when I leave a question with the nurse at Policlínica General Paz, and Dr. Sofía Medina follows up on lab results personally. Booking online at Policlínica General Paz was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 7 for Dr. Sofía Medina, General, Cordoba
+Rating: 8/10
+Clinic visited: Policlínica General Paz
+Description: Cholesterol results were explained by Dr. Sofía Medina with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 8 for Dr. Sofía Medina, General, Cordoba
+Rating: 8/10
+Clinic visited: Policlínica General Paz
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 9 for Dr. Sofía Medina, General, Cordoba
+Rating: 6/10
+Clinic visited: Policlínica General Paz
+Description: Dr. Sofía Medina is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 10 for Dr. Sofía Medina, General, Cordoba
+Rating: 8/10
+Clinic visited: Policlínica General Paz
+Description: My annual check-up with Dr. Sofía Medina took forty minutes, with every screening explained and nothing rushed.
+
+Overall rating for Dr. Sofía Medina, General, Cordoba: 7.30/10 from 10 reviews

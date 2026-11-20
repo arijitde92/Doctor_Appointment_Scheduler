@@ -1,0 +1,49 @@
+Doctor: Dr. Jorge Jiménez Romero
+Doctor ID: 466
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 5
+City: Mexico City, Mexico
+Clinics: Policlínica Reforma (clinic ID 64)
+
+Review 1 for Dr. Jorge Jiménez Romero, Psychiatry, Mexico City
+Rating: 7/10
+Clinic visited: Policlínica Reforma
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Dr. Jorge Jiménez Romero was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Jorge Jiménez Romero, Psychiatry, Mexico City
+Rating: 6/10
+Clinic visited: Policlínica Reforma
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Jorge Jiménez Romero, Psychiatry, Mexico City
+Rating: 8/10
+Clinic visited: Policlínica Reforma
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 4 for Dr. Jorge Jiménez Romero, Psychiatry, Mexico City
+Rating: 8/10
+Clinic visited: Policlínica Reforma
+Description: I was called in within five minutes of my appointment time at Policlínica Reforma, which is rare and much appreciated. I can ring Policlínica Reforma with an urgent question and receive a thoughtful reply the same day.
+
+Review 5 for Dr. Jorge Jiménez Romero, Psychiatry, Mexico City
+Rating: 7/10
+Clinic visited: Policlínica Reforma
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Jorge Jiménez Romero, Psychiatry, Mexico City
+Rating: 9/10
+Clinic visited: Policlínica Reforma
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. My family was included in a session at my request, and Dr. Jorge Jiménez Romero handled it with great tact.
+
+Review 7 for Dr. Jorge Jiménez Romero, Psychiatry, Mexico City
+Rating: 8/10
+Clinic visited: Policlínica Reforma
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 8 for Dr. Jorge Jiménez Romero, Psychiatry, Mexico City
+Rating: 7/10
+Clinic visited: Policlínica Reforma
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Jorge Jiménez Romero, Psychiatry, Mexico City: 7.50/10 from 8 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Ramon Santos
+Doctor ID: 4900
+Specialization: Neurology
+Gender: Male
+Years of experience: 12
+City: Quezon City, Philippines
+Clinics: Klinika Maginhawa (clinic ID 633)
+
+Review 1 for Dr. Ramon Santos, Neurology, Quezon City
+Rating: 9/10
+Clinic visited: Klinika Maginhawa
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried.
+
+Review 2 for Dr. Ramon Santos, Neurology, Quezon City
+Rating: 8/10
+Clinic visited: Klinika Maginhawa
+Description: Living with multiple sclerosis feels less frightening because Dr. Ramon Santos explains and discusses every change in my plan. The waiting room at Klinika Maginhawa was clean, quiet and comfortable, with enough seating and water available. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Ramon Santos, Neurology, Quezon City
+Rating: 8/10
+Clinic visited: Klinika Maginhawa
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 4 for Dr. Ramon Santos, Neurology, Quezon City
+Rating: 8/10
+Clinic visited: Klinika Maginhawa
+Description: Sensitive questions were handled by Dr. Ramon Santos with discretion and without a hint of judgment.
+
+Review 5 for Dr. Ramon Santos, Neurology, Quezon City
+Rating: 8/10
+Clinic visited: Klinika Maginhawa
+Description: Getting to Klinika Maginhawa by public transport in Quezon City was easy, and there is a step-free entrance for wheelchairs.
+
+Review 6 for Dr. Ramon Santos, Neurology, Quezon City
+Rating: 10/10
+Clinic visited: Klinika Maginhawa
+Description: The EEG appointment ran on time, and Dr. Ramon Santos reviewed the tracing with me the same week. Dr. Ramon Santos looked me in the eye, listened to the whole story and only then started typing.
+
+Review 7 for Dr. Ramon Santos, Neurology, Quezon City
+Rating: 7/10
+Clinic visited: Klinika Maginhawa
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Ramon Santos, Neurology, Quezon City
+Rating: 7/10
+Clinic visited: Klinika Maginhawa
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Ramon Santos at Klinika Maginhawa are difficult to schedule. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Ramon Santos, Neurology, Quezon City
+Rating: 6/10
+Clinic visited: Klinika Maginhawa
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 10 for Dr. Ramon Santos, Neurology, Quezon City
+Rating: 8/10
+Clinic visited: Klinika Maginhawa
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I would happily recommend this doctor to friends and family.
+
+Review 11 for Dr. Ramon Santos, Neurology, Quezon City
+Rating: 7/10
+Clinic visited: Klinika Maginhawa
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Ramon Santos, Neurology, Quezon City: 7.82/10 from 11 reviews

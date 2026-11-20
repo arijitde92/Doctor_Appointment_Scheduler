@@ -1,0 +1,64 @@
+Doctor: Dr. Rhys Smith
+Doctor ID: 1151
+Specialization: Radiology
+Gender: Male
+Years of experience: 2
+City: Manchester, UK
+Clinics: King Street Medical Practice (clinic ID 150); Portland Health Centre (clinic ID 151)
+
+Review 1 for Dr. Rhys Smith, Radiology, Manchester
+Rating: 9/10
+Clinic visited: King Street Medical Practice
+Description: Images from King Street Medical Practice were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. I was called in within five minutes of my appointment time at King Street Medical Practice, which is rare and much appreciated.
+
+Review 2 for Dr. Rhys Smith, Radiology, Manchester
+Rating: 10/10
+Clinic visited: Portland Health Centre
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Rhys Smith, Radiology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: Paperwork at Portland Health Centre was kept to a minimum, and the staff helped me complete the insurance form. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Rhys Smith, Radiology, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Rhys Smith, Radiology, Manchester
+Rating: 9/10
+Clinic visited: Portland Health Centre
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Rhys Smith felt well organized from start to finish. The report from Dr. Rhys Smith was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 6 for Dr. Rhys Smith, Radiology, Manchester
+Rating: 7/10
+Clinic visited: Portland Health Centre
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Rhys Smith, Radiology, Manchester
+Rating: 9/10
+Clinic visited: King Street Medical Practice
+Description: Dr. Rhys Smith compared my new scan with last year's and pointed out exactly what had stayed the same. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Rhys Smith, Radiology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 9 for Dr. Rhys Smith, Radiology, Manchester
+Rating: 8/10
+Clinic visited: King Street Medical Practice
+Description: Fast, clean and professional; the bone density scan with Dr. Rhys Smith was painless and the results were explained clearly. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 10 for Dr. Rhys Smith, Radiology, Manchester
+Rating: 8/10
+Clinic visited: Portland Health Centre
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. Everything was explained in plain English by Dr. Rhys Smith, and nothing was left to guess. I will be coming back for all my future check-ups.
+
+Review 11 for Dr. Rhys Smith, Radiology, Manchester
+Rating: 10/10
+Clinic visited: Portland Health Centre
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Rhys Smith, Radiology, Manchester: 8.45/10 from 11 reviews

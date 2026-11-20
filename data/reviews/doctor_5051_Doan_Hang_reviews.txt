@@ -1,0 +1,54 @@
+Doctor: Dr. Doan Hang
+Doctor ID: 5051
+Specialization: General
+Gender: Female
+Years of experience: 5
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Gia Dinh Hanh Phuc (clinic ID 653)
+
+Review 1 for Dr. Doan Hang, General, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: Dr. Doan Hang drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 2 for Dr. Doan Hang, General, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: Dr. Doan Hang spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 3 for Dr. Doan Hang, General, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: By the time I left the room, Dr. Doan Hang had sorted the sick note, referral letter and prescription refill. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 4 for Dr. Doan Hang, General, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: I appreciated that she offered more than one option and let me choose what suited my life. I always hear back within a day when I leave a question with the nurse at Phong Kham Gia Dinh Hanh Phuc, and Dr. Doan Hang follows up on lab results personally. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Doan Hang, General, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: My annual check-up with Dr. Doan Hang took forty minutes, with every screening explained and nothing rushed. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 6 for Dr. Doan Hang, General, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: Vaccination advice from Dr. Doan Hang for my travel plans was thorough and specific to the countries I was visiting. Prescriptions from Dr. Doan Hang were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 7 for Dr. Doan Hang, General, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: Everything was explained in plain English by Dr. Doan Hang, and nothing was left to guess. Getting to Phong Kham Gia Dinh Hanh Phuc from across Ho Chi Minh City was easy, and the same-week appointment saved me an urgent care trip. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Doan Hang, General, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. Cholesterol results were explained by Dr. Doan Hang with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 9 for Dr. Doan Hang, General, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Overall rating for Dr. Doan Hang, General, Ho Chi Minh City: 9.11/10 from 9 reviews

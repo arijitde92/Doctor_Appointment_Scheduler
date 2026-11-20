@@ -1,0 +1,64 @@
+Doctor: Dr. Angela Smith
+Doctor ID: 234
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 28
+City: San Francisco, USA
+Clinics: Sunset District Clinic (clinic ID 33)
+
+Review 1 for Dr. Angela Smith, Pulmonology, San Francisco
+Rating: 10/10
+Clinic visited: Sunset District Clinic
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Angela Smith, Pulmonology, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Angela Smith was practical and never preachy.
+
+Review 3 for Dr. Angela Smith, Pulmonology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 4 for Dr. Angela Smith, Pulmonology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Angela Smith, Pulmonology, San Francisco
+Rating: 6/10
+Clinic visited: Sunset District Clinic
+Description: Good bedside manner from Dr. Angela Smith, but the parking near Sunset District Clinic is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Angela Smith, Pulmonology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 7 for Dr. Angela Smith, Pulmonology, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: Dr. Angela Smith explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 8 for Dr. Angela Smith, Pulmonology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. My oxygen levels are monitored carefully at Sunset District Clinic, and the home equipment was arranged without any hassle.
+
+Review 9 for Dr. Angela Smith, Pulmonology, San Francisco
+Rating: 7/10
+Clinic visited: Sunset District Clinic
+Description: Dr. Angela Smith adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 10 for Dr. Angela Smith, Pulmonology, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Angela Smith.
+
+Review 11 for Dr. Angela Smith, Pulmonology, San Francisco
+Rating: 7/10
+Clinic visited: Sunset District Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Angela Smith, Pulmonology, San Francisco: 8.18/10 from 11 reviews

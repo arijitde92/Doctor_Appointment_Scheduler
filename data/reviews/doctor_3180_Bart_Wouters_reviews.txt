@@ -1,0 +1,54 @@
+Doctor: Dr. Bart Wouters
+Doctor ID: 3180
+Specialization: General
+Gender: Male
+Years of experience: 8
+City: Liege, Belgium
+Clinics: Clinique des Vennes (clinic ID 413)
+
+Review 1 for Dr. Bart Wouters, General, Liege
+Rating: 6/10
+Clinic visited: Clinique des Vennes
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clinique des Vennes. Referrals from Dr. Bart Wouters are handled well, but getting test results back took longer than I was told to expect.
+
+Review 2 for Dr. Bart Wouters, General, Liege
+Rating: 8/10
+Clinic visited: Clinique des Vennes
+Description: Dr. Bart Wouters spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 3 for Dr. Bart Wouters, General, Liege
+Rating: 7/10
+Clinic visited: Clinique des Vennes
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 4 for Dr. Bart Wouters, General, Liege
+Rating: 9/10
+Clinic visited: Clinique des Vennes
+Description: My annual check-up with Dr. Bart Wouters took forty minutes, with every screening explained and nothing rushed. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 5 for Dr. Bart Wouters, General, Liege
+Rating: 10/10
+Clinic visited: Clinique des Vennes
+Description: Vaccination advice from Dr. Bart Wouters for my travel plans was thorough and specific to the countries I was visiting. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 6 for Dr. Bart Wouters, General, Liege
+Rating: 9/10
+Clinic visited: Clinique des Vennes
+Description: Booking online at Clinique des Vennes was simple, and I got a confirmation text with clear directions and a reminder the day before. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 7 for Dr. Bart Wouters, General, Liege
+Rating: 8/10
+Clinic visited: Clinique des Vennes
+Description: Sensitive questions were handled by Dr. Bart Wouters with discretion and without a hint of judgment. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Bart Wouters, General, Liege
+Rating: 6/10
+Clinic visited: Clinique des Vennes
+Description: Quick appointment and a fair price in Liege, but the staff seemed overwhelmed and a bit curt on the phone. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Bart Wouters, General, Liege
+Rating: 7/10
+Clinic visited: Clinique des Vennes
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Clinique des Vennes were inconsistent.
+
+Overall rating for Dr. Bart Wouters, General, Liege: 7.78/10 from 9 reviews

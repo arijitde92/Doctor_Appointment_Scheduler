@@ -1,0 +1,49 @@
+Doctor: Dr. Esa Järvinen
+Doctor ID: 1918
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 4
+City: Turku, Finland
+Clinics: Lääkärikeskus Aurajoki Plus (clinic ID 250)
+
+Review 1 for Dr. Esa Järvinen, Pediatrics, Turku
+Rating: 8/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: Dr. Esa Järvinen used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 2 for Dr. Esa Järvinen, Pediatrics, Turku
+Rating: 9/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: The receptionist at Lääkärikeskus Aurajoki Plus remembered my name and had my forms ready, so check-in took less than a minute. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Esa Järvinen, Pediatrics, Turku
+Rating: 10/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: Our newborn check-ups with Dr. Esa Järvinen were reassuring; every question about feeding and sleep got a calm, practical answer. Everything was explained in plain English by Dr. Esa Järvinen, and nothing was left to guess. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Esa Järvinen, Pediatrics, Turku
+Rating: 7/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Esa Järvinen, Pediatrics, Turku
+Rating: 8/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: Booking online at Lääkärikeskus Aurajoki Plus was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 6 for Dr. Esa Järvinen, Pediatrics, Turku
+Rating: 8/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Kind to anxious parents, Dr. Esa Järvinen never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 7 for Dr. Esa Järvinen, Pediatrics, Turku
+Rating: 8/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: The waiting room at Lääkärikeskus Aurajoki Plus was clean, quiet and comfortable, with enough seating and water available.
+
+Review 8 for Dr. Esa Järvinen, Pediatrics, Turku
+Rating: 9/10
+Clinic visited: Lääkärikeskus Aurajoki Plus
+Description: We got a same-day appointment for a high fever, and the care at Lääkärikeskus Aurajoki Plus was kind and efficient. I was given a printed summary of the visit, which I shared with my family at home.
+
+Overall rating for Dr. Esa Järvinen, Pediatrics, Turku: 8.38/10 from 8 reviews

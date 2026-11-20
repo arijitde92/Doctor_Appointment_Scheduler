@@ -1,0 +1,49 @@
+Doctor: Dr. Dina Hassan
+Doctor ID: 5975
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 15
+City: Luxor, Egypt
+Clinics: Nile Corniche Medical Centre (clinic ID 771)
+
+Review 1 for Dr. Dina Hassan, Pulmonology, Luxor
+Rating: 6/10
+Clinic visited: Nile Corniche Medical Centre
+Description: I liked the advice I got from Dr. Dina Hassan, but I would have liked more time to ask follow-up questions before the visit ended. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 2 for Dr. Dina Hassan, Pulmonology, Luxor
+Rating: 6/10
+Clinic visited: Nile Corniche Medical Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Dina Hassan, Pulmonology, Luxor
+Rating: 8/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Appointment reminders came by text and email, and rescheduling took two taps. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Dina Hassan, Pulmonology, Luxor
+Rating: 4/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 5 for Dr. Dina Hassan, Pulmonology, Luxor
+Rating: 6/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Good bedside manner from Dr. Dina Hassan, but the parking near Nile Corniche Medical Centre is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Dina Hassan, Pulmonology, Luxor
+Rating: 8/10
+Clinic visited: Nile Corniche Medical Centre
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Dina Hassan. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 7 for Dr. Dina Hassan, Pulmonology, Luxor
+Rating: 7/10
+Clinic visited: Nile Corniche Medical Centre
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Dina Hassan, Pulmonology, Luxor
+Rating: 4/10
+Clinic visited: Nile Corniche Medical Centre
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Overall rating for Dr. Dina Hassan, Pulmonology, Luxor: 6.12/10 from 8 reviews

@@ -4,13 +4,16 @@
 
 Doctor Appointment Scheduler is an AI-powered, multi-agent doctor appointment booking solution built to simplify the complete patient journey in a single conversational experience. Instead of forcing users to search across clinic portals, compare doctors manually, read reviews from separate sources, calculate travel time, check availability, and then book on another platform, this system brings all of those steps together through coordinated AI agents and MCP-based tool integrations. It helps users discover suitable doctors by specialization and city, evaluate options using clinic location and patient feedback, choose convenient time slots, and finally schedule the appointment directly on Google Calendar, making the overall process faster, smarter, and more user-friendly.
 
+Patients sign in to a web app, describe what they need, and the agents search clinics in 170 cities across 44 countries. Every clinic has its own time zone. Slots are shown and booked in the clinic's local time, with the patient's own time alongside. Booked appointments, consultation transcripts and rebooking live on a personal dashboard.
+
 ## Live Demo
 
 The application is deployed on Google Cloud Run:
 [https://doctor-appointment-web-731638668879.asia-south2.run.app](https://doctor-appointment-web-731638668879.asia-south2.run.app)
 
 ## Demo Video
-Checkout the demo video [here](https://drive.google.com/file/d/1crVf8UKEkUTxU_4_jolV2aocKHAVfUUn/view?usp=drive_link)
+
+Check out the [demo video on Google Drive](https://drive.google.com/file/d/1crVf8UKEkUTxU_4_jolV2aocKHAVfUUn/view?usp=drive_link).
 
 ## Why This Project Matters
 
@@ -39,7 +42,8 @@ Unlike a typical healthcare chatbot or doctor directory, this solution is action
 
 ## Features
 
-- Doctor, clinic, and doctor availability search via Cloud SQL MCP
+- Doctor, clinic, and doctor availability search via Cloud SQL MCP, over 874 clinics in 170 cities across 44 countries and 12 specializations
+- Time-zone aware booking: each clinic has an IANA time zone, slots are in clinic local time, the patient's own time is shown next to them, and the Google Calendar event is created in the clinic's zone
 - Distance and travel time calculation from the user's location to the clinic via Google Maps MCP
 - Doctor review discovery through a Vertex AI RAG pipeline
 - Appointment scheduling through Google Calendar MCP
@@ -56,14 +60,14 @@ The patient-facing web app in [frontend/](frontend) is built with React, TypeScr
 
 - **Home, About and Contact pages.** A marketing home page explains the service, with **Log in** and **Register** on separate pages. The site footer links to About Us and Contact Us, and the contact address is a `mailto:` link that opens the default email app.
 - **Accounts.** Registration stores first and last name, phone, email, current address and date of birth. The password must have at least 8 characters with an uppercase letter, a lowercase letter, a number and a special character; a live checklist ticks off each rule and the confirm field shows whether the passwords match.
-- **Guided intake.** Pick a speciality and city, optionally share your location (pre-filled with your saved address, typed, or with "Use my current location"), and choose preferred days. The app turns this into the first message to the agents.
+- **Guided intake.** Pick a speciality and a city from a list grouped by country, which shows the city's time zone (the list starts on a city in your own time zone when there is one). Optionally share your location (pre-filled with your saved address, typed, or with "Use my current location"), and choose preferred days. The app turns this into the first message to the agents.
 - **Consultation chat.** Responses stream in as they are generated and render markdown tables. Each reply is labelled with the agent that wrote it (Care Coordinator, Doctor Matcher, Review Analyst, Appointment Scheduler). A collapsible **agent activity timeline** shows each step, such as "Searching Cardiology in Kolkata · Cloud SQL" or "Calculating distance & travel time · Google Maps".
 - **Live results panel**, built from the agents' tool results:
   - Doctor cards with experience and clinics, plus distance and travel time when a location was shared
   - A 7-slot availability grid per doctor, clinic and day
   - Appointment cards that move from *requested* to *confirmed*, with an "Open in Google Calendar" link
-- **Calendar booking.** "Book at this clinic" opens a month calendar (next 60 days). Choosing a date opens a time-slot pop-up that combines the doctor's weekly schedule (fetched by the agent) with slots already booked through the app on that date. Confirming reserves the slot, then asks the scheduler agent to create the Google Calendar event.
-- **Dashboard.** Appointments on a month calendar with the doctor's name, status colours, details, recent consultations with their full transcripts, and **Book again**, which opens a new consultation with that doctor already selected so you only choose the clinic, date and time.
+- **Calendar booking.** "Book at this clinic" opens a month calendar (next 60 days). Choosing a date opens a time-slot pop-up that combines the doctor's weekly schedule (fetched by the agent) with slots already booked through the app on that date. Dates and times are in the clinic's local time, and each slot also shows your own time when it differs. Confirming reserves the slot, then asks the scheduler agent to create the Google Calendar event in the clinic's time zone.
+- **Dashboard.** Appointments on a month calendar with the doctor's name, status colours, details (with the clinic's local time and yours), recent consultations with their full transcripts, and **Book again**, which opens a new consultation with that doctor already selected so you only choose the clinic, date and time.
 - **One-click actions.** "Patient reviews", availability checks and bookings all send ordinary chat messages to the root agent. The agents, tools and prompts are unchanged.
 - **Persistent consultations.** Sessions live in Cloud SQL, so reloading the page restores the full conversation and results. Every message, agent reply and tool call is also logged per user, per login session and per consultation.
 - **Secure logout.** Sessions are HttpOnly cookies revoked on the server at logout; signed-in pages and API responses are never cached, so the Back button can't show a signed-in page afterwards.
@@ -85,9 +89,10 @@ This project uses a modular Google Cloud and MCP-first architecture so each part
 - Google Cloud Storage for storing doctor review documents used by the RAG pipeline
 - Composio for Google Calendar MCP connectivity and OAuth-backed action execution
 - FastAPI (via ADK's `get_fast_api_app`) for the backend API layer
-- React + TypeScript + Vite + Tailwind CSS for the patient-facing UI, served by a small Express backend-for-frontend
-- Cloud Run for both services: a public frontend and a private backend, linked by service-to-service ID-token auth
-- Cloud SQL (MySQL) for persistent ADK chat sessions, and Secret Manager for API keys and the DB password
+- React 19 + TypeScript + Vite + Tailwind CSS + React Router for the patient-facing UI, served by a small Express 5 backend-for-frontend
+- SQLAlchemy (async) for patient accounts, consultation logs and appointments, with Argon2 password hashing
+- Cloud Run for three services: the public frontend, the private backend (linked by service-to-service ID-token auth) and the MCP Toolbox
+- Cloud SQL (MySQL 8) for the doctor data, persistent ADK chat sessions, and patient accounts and appointments; Secret Manager for API keys and the DB password
 - Cloud Trace (via ADK's OpenTelemetry spans) and Cloud Logging for tracing every agent step, LLM call, tool call and token count
 - Cloud Monitoring (ADK's GenAI metrics via the Telemetry API) for a dashboard of token usage, LLM latency per response, and agent, tool and turn latency
 
@@ -100,11 +105,76 @@ This project uses a modular Google Cloud and MCP-first architecture so each part
 
 ## Process Flow Diagram
 
-![Process Flow Diagram](assets/images/process_flow_diagram.png)
+```mermaid
+flowchart TD
+    A["Patient registers or logs in"] --> B["Intake form: speciality, city (grouped by country, with its time zone), optional location, preferred days"]
+    B --> C["Root agent delegates to the Doctor Matcher"]
+    C --> D{"Location shared?"}
+    D -- Yes --> E["Cloud SQL via MCP Toolbox + Google Maps MCP (distance and travel time)"]
+    D -- No --> F["Cloud SQL via MCP Toolbox"]
+    E --> G["Doctor and clinic cards, with each clinic's country and time zone"]
+    F --> G
+    G --> H{"What next?"}
+    H -- "Patient reviews" --> I["Doctor RAG agent summarises reviews from Vertex AI RAG"]
+    I --> H
+    H -- "Other doctors" --> C
+    H -- "Check availability" --> J["Doctor Matcher fetches the weekly slots (clinic local time)"]
+    J --> H
+    H -- "Book at this clinic" --> K["Pick a date (next 60 days, from the clinic's today)"]
+    K --> L["Pick a slot: clinic time plus your own time; slots already booked in the app are unavailable"]
+    L --> M["Slot reserved: appointment pending, with the clinic's time zone"]
+    M --> N["Scheduler agent creates the Google Calendar event in the clinic's time zone via Composio"]
+    N --> O{"Event created?"}
+    O -- Yes --> P["Appointment confirmed, with the calendar link"]
+    O -- No --> Q["Booking failed; the slot is released"]
+    P --> R["Dashboard: appointment calendar, consultation transcripts, Book again"]
+    R -- "Book again" --> C
+```
 
 ## Architecture Diagram
 
-![Architecture Diagram](assets/images/architecture_diagram.png)
+```mermaid
+flowchart LR
+    user(["Patient's browser"])
+
+    subgraph web["doctor-appointment-web (Cloud Run, public)"]
+        ui["React UI: intake, chat, booking calendar, dashboard"]
+        bff["Express BFF: login cookie, /api/*"]
+    end
+
+    subgraph api["doctor-appointment-api (Cloud Run, private)"]
+        fastapi["FastAPI: ADK API + /app-api"]
+        root["Root agent (Care Coordinator)"]
+        matcher["Doctor Matcher agent"]
+        reviews["Doctor RAG agent (Review Analyst)"]
+        scheduler["Scheduler agent"]
+    end
+
+    gemini["Gemini 3.5 Flash"]
+    toolbox["MCP Toolbox (Cloud Run)"]
+    doctordb[("Cloud SQL: doctor_data (doctors, clinics, time zones, availability)")]
+    maps["Google Maps Grounding Lite MCP"]
+    rag["Vertex AI RAG Engine (text-embedding-005)"]
+    gcs[("Cloud Storage: review files")]
+    composio["Composio MCP"]
+    gcal["Google Calendar"]
+    appdb[("Cloud SQL: careconnect_app + adk_sessions (accounts, consultations, appointments, chat sessions)")]
+    obs["Cloud Trace + Cloud Monitoring"]
+
+    user --> ui --> bff
+    bff -- "Google ID token (web-sa)" --> fastapi
+    fastapi --> root
+    root --> matcher
+    root --> reviews
+    root --> scheduler
+    matcher --> toolbox --> doctordb
+    matcher --> maps
+    reviews --> rag --> gcs
+    scheduler --> composio --> gcal
+    fastapi --> appdb
+    root -. "all agents" .-> gemini
+    fastapi -. "OpenTelemetry" .-> obs
+```
 
 ## Deployment
 
@@ -126,18 +196,35 @@ Browser ──▶ doctor-appointment-web  (Cloud Run, public)
                 └─ OpenTelemetry ─▶ Cloud Trace (spans) · Cloud Monitoring (metrics)
 ```
 
+Run the deploy scripts from the repo root, in this order. They read the repo's `.env` and need the [Google Cloud CLI](https://cloud.google.com/sdk/docs/install) signed in (`gcloud auth login`).
+
+**Windows PowerShell:**
+
+```powershell
+.\deploy\setup_gcp.ps1          # one-time: APIs, sessions + app DBs, secrets, web-sa, trace + metrics access
+.\deploy\deploy_backend.ps1     # private API service (root Dockerfile)
+.\deploy\deploy_frontend.ps1    # public web service (frontend/Dockerfile) + invoker binding
+.\deploy\setup_monitoring.ps1   # Cloud Monitoring dashboard + consultations metric
+```
+
+- Add `-DryRun` to any of them to print the commands that would change something, without running them.
+- If PowerShell says running scripts is disabled, run `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` first. It only applies to that PowerShell window.
+- Don't run `bash deploy/...` from PowerShell. On Windows, `bash` there usually starts WSL, which has neither your `gcloud` sign-in nor this checkout's path.
+
+**macOS, Linux, Cloud Shell or Git Bash:**
+
 ```bash
-bash deploy/setup_gcp.sh        # one-time: APIs, sessions + app DBs, secrets, web-sa, trace + metrics access
-bash deploy/deploy_backend.sh   # private API service (root Dockerfile)
-bash deploy/deploy_frontend.sh  # public web service (frontend/Dockerfile) + invoker binding
-bash deploy/setup_monitoring.sh # Cloud Monitoring dashboard + consultations metric
+bash deploy/setup_gcp.sh
+bash deploy/deploy_backend.sh
+bash deploy/deploy_frontend.sh
+bash deploy/setup_monitoring.sh
 ```
 
 See [Project_Steps.md, Phase 8](Project_Steps.md#phase-8----cloud-run-deployment) for details, and Phase 9 for local development.
 
 ### Observability
 
-- **Dashboard (Cloud Monitoring):** *Doctor Appointment Scheduler - Agents and LLM*, created by `deploy/setup_monitoring.sh`. It shows consultations, total tokens (by input/output and by agent), average tokens per consultation, LLM latency per response (average, p50/p95, by agent), chat turn latency, tool latency and the share of cached input tokens. It is built from ADK's OpenTelemetry metrics and a log-based count of new consultations.
+- **Dashboard (Cloud Monitoring):** *Doctor Appointment Scheduler - Agents and LLM*, created by `deploy/setup_monitoring.ps1` (or `.sh`). It shows consultations, total tokens (by input/output and by agent), average tokens per consultation, LLM latency per response (average, p50/p95, by agent), chat turn latency, tool latency and the share of cached input tokens. It is built from ADK's OpenTelemetry metrics and a log-based count of new consultations.
 - **Traces (Cloud Trace):** one trace per chat message in [Trace Explorer](https://console.cloud.google.com/traces/explorer), showing each agent handoff, Gemini call (with token counts) and tool call, with timings. Filter on `gen_ai.conversation.id` to see one conversation. Prompts and responses are left out of traces by default because conversations contain health details.
 
 See [Project_Steps.md, Phase 10](Project_Steps.md#phase-10----observability-cloud-trace-cloud-monitoring-and-logs) for how it's wired, settings, the metrics and PromQL queries behind the dashboard, logs, and per-conversation token usage.
@@ -146,20 +233,49 @@ See [Project_Steps.md, Phase 10](Project_Steps.md#phase-10----observability-clou
 
 The complete environment setup, Google Cloud configuration, database creation, MCP setup, RAG pipeline preparation, Maps integration, and Google Calendar integration steps are documented in [Project_Steps.md](Project_Steps.md).
 
+### Requirements
+
+- Python 3.12 (the backend image uses `python:3.12-slim`)
+- Node.js 22 or later (the frontend image uses `node:22-alpine`)
+- [Google Cloud CLI](https://cloud.google.com/sdk/docs/install), signed in with `gcloud auth login` and `gcloud auth application-default login`
+- A Google Cloud project with billing enabled
+- API keys and accounts: a Google AI Studio (Gemini API) key, a Google Maps API key, and a [Composio](https://composio.dev) account with Google Calendar connected
+- Git Bash on Windows, only for the bash-only data scripts (`populate_data.sh`, `upload_reviews.sh`)
+
+### Dependencies
+
+| Part | File | Main packages |
+| --- | --- | --- |
+| Agents | [agents/requirements.txt](agents/requirements.txt) | `google-adk`, `google-cloud-aiplatform` (Vertex AI RAG), `toolbox-adk`, `composio`, `composio_google_adk`, `python-dotenv` |
+| Backend API | [backend/requirements.txt](backend/requirements.txt) (includes the agents' file) | `google-adk[db,mcp]==2.14.1`, `uvicorn`, `aiomysql`, `aiosqlite`, `argon2-cffi`, `email-validator`, `tzdata`, OpenTelemetry exporters for Cloud Trace and Cloud Monitoring |
+| Backend tests | [backend/requirements-dev.txt](backend/requirements-dev.txt) | `pytest`, `pytest-asyncio`, `httpx` |
+| Frontend | [frontend/package.json](frontend/package.json) | React 19, React Router 7, Vite 8, Tailwind CSS 4, TypeScript 5.9, Vitest; the server uses Express 5, `google-auth-library`, `helmet`, `express-rate-limit` |
+
+The root [requirements.txt](requirements.txt) installs everything the backend and agents need.
+
 ### Setup Summary
 
 1. Create and configure a Google Cloud project.
 2. Enable the required Google Cloud APIs such as Vertex AI, Cloud SQL, Cloud Run, Cloud Storage, IAM, and Maps services.
 3. Create the required service account and assign the necessary IAM roles.
 4. Create the Cloud SQL instance and database.
-5. Generate and import the synthetic seed SQL data from the `data/seed_sql` flow.
-6. Configure the Cloud SQL MCP Toolbox using [`agents/tools/cloudsql_mcp/tools.yaml`](agents/tools/cloudsql_mcp/tools.yaml).
-7. Upload doctor review files to Google Cloud Storage and configure the Vertex AI RAG pipeline.
+5. Generate the synthetic dataset from [clinics_list.csv](data_creation_artifacts/clinics_list.csv) with `python data_creation_artifacts/generate_data.py` and `python data_creation_artifacts/generate_doctor_reviews.py`, then load it with [data/seed_sql/populate_data.sh](data/seed_sql/populate_data.sh). See [synthetic_data_creation_strategy.md](data_creation_artifacts/synthetic_data_creation_strategy.md).
+6. Deploy the Cloud SQL MCP Toolbox with [`agents/tools/cloudsql_mcp/tools.yaml`](agents/tools/cloudsql_mcp/tools.yaml).
+7. Upload the doctor review files to Google Cloud Storage and import them into the Vertex AI RAG corpus with [deploy/upload_reviews.sh](deploy/upload_reviews.sh) (see [gcs_upload_guide.md](gcs_upload_guide.md)).
 8. Configure Google Maps MCP for route and travel-time support.
 9. Configure Composio and connect Google Calendar for appointment scheduling.
-10. Install Python dependencies and run the backend locally (`uvicorn backend.main:app --port 8000`).
-11. Run the React UI locally (`cd frontend && npm install && npm run dev`).
-12. Deploy the backend and frontend to Cloud Run with the scripts in [deploy/](deploy).
+10. Create the `.env` file ([Project_Steps.md, Phase 4](Project_Steps.md#phase-4----setting-up-cloud-sql-mcp)), install the Python dependencies, and run the backend locally:
+
+    ```powershell
+    python -m venv venv
+    .\venv\Scripts\Activate.ps1          # bash: source venv/bin/activate
+    pip install -r requirements.txt
+    uvicorn backend.main:app --port 8000
+    ```
+
+11. Run the React UI locally (`cd frontend`, `npm install`, `npm run dev`), then open <http://localhost:5173>.
+12. Run the tests: `pip install -r backend/requirements-dev.txt` then `pytest backend`, and `npm test` in `frontend`.
+13. Deploy to Cloud Run with the scripts in [deploy/](deploy): `.ps1` for Windows PowerShell, `.sh` for bash (see [Deployment](#deployment)).
 
 ### Core Project References
 
@@ -168,7 +284,7 @@ The complete environment setup, Google Cloud configuration, database creation, M
 - Backend API entrypoint: [backend/main.py](backend/main.py)
 - React UI: [frontend/src/App.tsx](frontend/src/App.tsx)
 - Frontend server (BFF + ID-token proxy): [frontend/server/index.mjs](frontend/server/index.mjs)
-- Deployment scripts: [deploy/](deploy)
+- Deployment scripts: [deploy/](deploy) (PowerShell `.ps1` and bash `.sh` versions of each)
 - Root agent: [agents/root_agent/agent.py](agents/root_agent/agent.py)
 - Doctor matcher agent: [agents/doctor_matcher/agent.py](agents/doctor_matcher/agent.py)
 - Review agent: [agents/doctor_rag_agent/agent.py](agents/doctor_rag_agent/agent.py)
@@ -176,8 +292,8 @@ The complete environment setup, Google Cloud configuration, database creation, M
 
 ## Repository Highlights
 
-- Synthetic dataset with doctors, clinics, mappings, and availability slots
-- Review corpus files for RAG-based doctor feedback retrieval
+- Synthetic global dataset: 874 clinics at real addresses in 170 cities across 44 countries, each with its IANA time zone, plus 6,749 doctors with common local names, 12 specializations and about 62,000 weekly schedules (one per doctor, clinic and weekday, each with seven slots from 10 AM to 5 PM clinic time)
+- Review corpus with one review file per doctor (6,749 files) for RAG-based doctor feedback retrieval
 - Multi-agent orchestration using Google ADK
 - MCP integrations for Cloud SQL, Google Maps, and Google Calendar
 - Deployment-oriented Google Cloud architecture for scaling beyond the prototype stage

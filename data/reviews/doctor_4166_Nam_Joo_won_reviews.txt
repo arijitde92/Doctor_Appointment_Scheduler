@@ -1,0 +1,59 @@
+Doctor: Dr. Nam Joo-won
+Doctor ID: 4166
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 4
+City: Busan, South Korea
+Clinics: Nampo Hanbit Health Clinic (clinic ID 537)
+
+Review 1 for Dr. Nam Joo-won, Pulmonology, Busan
+Rating: 8/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Nam Joo-won, Pulmonology, Busan
+Rating: 10/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: At Nampo Hanbit Health Clinic, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 3 for Dr. Nam Joo-won, Pulmonology, Busan
+Rating: 5/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 4 for Dr. Nam Joo-won, Pulmonology, Busan
+Rating: 6/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Nampo Hanbit Health Clinic regularly exceeded forty minutes. I liked the advice I got from Dr. Nam Joo-won, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 5 for Dr. Nam Joo-won, Pulmonology, Busan
+Rating: 9/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 6 for Dr. Nam Joo-won, Pulmonology, Busan
+Rating: 6/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 7 for Dr. Nam Joo-won, Pulmonology, Busan
+Rating: 9/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 8 for Dr. Nam Joo-won, Pulmonology, Busan
+Rating: 5/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Nam Joo-won, Pulmonology, Busan
+Rating: 10/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 10 for Dr. Nam Joo-won, Pulmonology, Busan
+Rating: 10/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: I was called in within five minutes of my appointment time at Nampo Hanbit Health Clinic, which is rare and much appreciated.
+
+Overall rating for Dr. Nam Joo-won, Pulmonology, Busan: 7.80/10 from 10 reviews

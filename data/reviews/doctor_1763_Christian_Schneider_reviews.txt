@@ -1,0 +1,59 @@
+Doctor: Dr. Christian Schneider
+Doctor ID: 1763
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 6
+City: Zurich, Switzerland
+Clinics: Aerztezentrum Seefeld Plus (clinic ID 230); Medizinisches Zentrum Altstetten West (clinic ID 232)
+
+Review 1 for Dr. Christian Schneider, Psychiatry, Zurich
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Altstetten West
+Description: I felt heard by Dr. Christian Schneider during a very hard time, and nobody rushed me out of the room. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 2 for Dr. Christian Schneider, Psychiatry, Zurich
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Altstetten West
+Description: The ADHD assessment by Dr. Christian Schneider was careful and detailed, with clear written conclusions and realistic expectations. Everything was explained in plain English by Dr. Christian Schneider, and nothing was left to guess.
+
+Review 3 for Dr. Christian Schneider, Psychiatry, Zurich
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Altstetten West
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I can ring Medizinisches Zentrum Altstetten West with an urgent question and receive a thoughtful reply the same day.
+
+Review 4 for Dr. Christian Schneider, Psychiatry, Zurich
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Altstetten West
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Christian Schneider, Psychiatry, Zurich
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Altstetten West
+Description: Good listener, yet the refill process at Medizinisches Zentrum Altstetten West is slow and requires several phone calls. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Christian Schneider, Psychiatry, Zurich
+Rating: 10/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: Getting to Aerztezentrum Seefeld Plus by public transport in Zurich was easy, and there is a step-free entrance for wheelchairs. He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Christian Schneider, Psychiatry, Zurich
+Rating: 9/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: Excellent at explaining how therapy and medication work together, and Dr. Christian Schneider coordinated with my counselor.
+
+Review 8 for Dr. Christian Schneider, Psychiatry, Zurich
+Rating: 6/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Christian Schneider, Psychiatry, Zurich
+Rating: 7/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 10 for Dr. Christian Schneider, Psychiatry, Zurich
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Altstetten West
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Overall rating for Dr. Christian Schneider, Psychiatry, Zurich: 7.90/10 from 10 reviews

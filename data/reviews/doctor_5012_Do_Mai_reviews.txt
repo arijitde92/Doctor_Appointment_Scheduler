@@ -1,0 +1,69 @@
+Doctor: Dr. Do Mai
+Doctor ID: 5012
+Specialization: General
+Gender: Female
+Years of experience: 2
+City: Hanoi, Vietnam
+Clinics: Phong Kham Da Khoa Thien Phuc (clinic ID 648)
+
+Review 1 for Dr. Do Mai, General, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Dr. Do Mai is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Do Mai, General, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Do Mai, General, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Do Mai, General, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Do Mai, General, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The waiting room at Phong Kham Da Khoa Thien Phuc was clean, quiet and comfortable, with enough seating and water available. Getting to Phong Kham Da Khoa Thien Phuc from across Hanoi was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 6 for Dr. Do Mai, General, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 7 for Dr. Do Mai, General, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Phong Kham Da Khoa Thien Phuc were inconsistent.
+
+Review 8 for Dr. Do Mai, General, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 9 for Dr. Do Mai, General, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: My blood pressure had crept up and Dr. Do Mai walked me through diet changes before suggesting anything else. Three months later my readings were normal. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 10 for Dr. Do Mai, General, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Good bedside manner from Dr. Do Mai, but the parking near Phong Kham Da Khoa Thien Phuc is limited and I had to circle for fifteen minutes.
+
+Review 11 for Dr. Do Mai, General, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Referrals from Dr. Do Mai are handled well, but getting test results back took longer than I was told to expect. Dr. Do Mai was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Worth trying, but I would not call it the best option in the area.
+
+Review 12 for Dr. Do Mai, General, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Overall rating for Dr. Do Mai, General, Hanoi: 6.67/10 from 12 reviews

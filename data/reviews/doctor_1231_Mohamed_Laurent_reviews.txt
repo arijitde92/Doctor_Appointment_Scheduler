@@ -1,0 +1,49 @@
+Doctor: Dr. Mohamed Laurent
+Doctor ID: 1231
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 10
+City: Marseille, France
+Clinics: Centre Médical du Vieux-Port (clinic ID 160); Cabinet Médical Castellane (clinic ID 161)
+
+Review 1 for Dr. Mohamed Laurent, Pediatrics, Marseille
+Rating: 8/10
+Clinic visited: Cabinet Médical Castellane
+Description: He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 2 for Dr. Mohamed Laurent, Pediatrics, Marseille
+Rating: 8/10
+Clinic visited: Cabinet Médical Castellane
+Description: My child's asthma action plan from Dr. Mohamed Laurent was written out clearly so that school staff could follow it too.
+
+Review 3 for Dr. Mohamed Laurent, Pediatrics, Marseille
+Rating: 9/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Vaccination visits with Dr. Mohamed Laurent are painless and well explained, and my questions about the schedule were answered without any pressure. Dr. Mohamed Laurent drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Mohamed Laurent, Pediatrics, Marseille
+Rating: 7/10
+Clinic visited: Cabinet Médical Castellane
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. The treatment plan from Dr. Mohamed Laurent made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Mohamed Laurent, Pediatrics, Marseille
+Rating: 8/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Mohamed Laurent, Pediatrics, Marseille
+Rating: 4/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: My questions were answered by Dr. Mohamed Laurent with short, vague replies, and I left without a clear plan.
+
+Review 7 for Dr. Mohamed Laurent, Pediatrics, Marseille
+Rating: 6/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Mohamed Laurent, Pediatrics, Marseille
+Rating: 7/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Overall rating for Dr. Mohamed Laurent, Pediatrics, Marseille: 7.12/10 from 8 reviews

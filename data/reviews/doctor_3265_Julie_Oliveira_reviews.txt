@@ -1,0 +1,69 @@
+Doctor: Dr. Julie Oliveira
+Doctor ID: 3265
+Specialization: Radiology
+Gender: Female
+Years of experience: 10
+City: Dudelange, Luxembourg
+Clinics: Centre de Santé Schmelz (clinic ID 424)
+
+Review 1 for Dr. Julie Oliveira, Radiology, Dudelange
+Rating: 8/10
+Clinic visited: Centre de Santé Schmelz
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Julie Oliveira, Radiology, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Julie Oliveira, Radiology, Dudelange
+Rating: 6/10
+Clinic visited: Centre de Santé Schmelz
+Description: Dr. Julie Oliveira answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Julie Oliveira, Radiology, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: Dr. Julie Oliveira was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 5 for Dr. Julie Oliveira, Radiology, Dudelange
+Rating: 9/10
+Clinic visited: Centre de Santé Schmelz
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Julie Oliveira were respectful throughout. I appreciated that she offered more than one option and let me choose what suited my life. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Julie Oliveira, Radiology, Dudelange
+Rating: 8/10
+Clinic visited: Centre de Santé Schmelz
+Description: Fast, clean and professional; the bone density scan with Dr. Julie Oliveira was painless and the results were explained clearly.
+
+Review 7 for Dr. Julie Oliveira, Radiology, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Booking was easy online, but the confirmation email contained the wrong address for Centre de Santé Schmelz.
+
+Review 8 for Dr. Julie Oliveira, Radiology, Dudelange
+Rating: 9/10
+Clinic visited: Centre de Santé Schmelz
+Description: My ultrasound was unhurried, and Dr. Julie Oliveira took time to show me the images and explain what each measurement meant. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 9 for Dr. Julie Oliveira, Radiology, Dudelange
+Rating: 9/10
+Clinic visited: Centre de Santé Schmelz
+Description: When my scan showed something that needed a second look, Dr. Julie Oliveira arranged the follow-up the same day. Sensitive questions were handled by Dr. Julie Oliveira with discretion and without a hint of judgment.
+
+Review 10 for Dr. Julie Oliveira, Radiology, Dudelange
+Rating: 5/10
+Clinic visited: Centre de Santé Schmelz
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 11 for Dr. Julie Oliveira, Radiology, Dudelange
+Rating: 9/10
+Clinic visited: Centre de Santé Schmelz
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Review 12 for Dr. Julie Oliveira, Radiology, Dudelange
+Rating: 6/10
+Clinic visited: Centre de Santé Schmelz
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Julie Oliveira, Radiology, Dudelange: 7.50/10 from 12 reviews

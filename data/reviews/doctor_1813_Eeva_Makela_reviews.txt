@@ -1,0 +1,49 @@
+Doctor: Dr. Eeva Mäkelä
+Doctor ID: 1813
+Specialization: Neurology
+Gender: Female
+Years of experience: 15
+City: Espoo, Finland
+Clinics: Lääkärikeskus Matinkylä (clinic ID 237)
+
+Review 1 for Dr. Eeva Mäkelä, Neurology, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 2 for Dr. Eeva Mäkelä, Neurology, Espoo
+Rating: 4/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: The follow-up call about my test results never happened and I had to track them down myself.
+
+Review 3 for Dr. Eeva Mäkelä, Neurology, Espoo
+Rating: 5/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Eeva Mäkelä, Neurology, Espoo
+Rating: 6/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Eeva Mäkelä, Neurology, Espoo
+Rating: 6/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Dr. Eeva Mäkelä explained my results well, although the visit felt short for such a complex condition. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Eeva Mäkelä, Neurology, Espoo
+Rating: 6/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. The treatment plan from Dr. Eeva Mäkelä made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Eeva Mäkelä, Neurology, Espoo
+Rating: 5/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Eeva Mäkelä, Neurology, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Eeva Mäkelä at Lääkärikeskus Matinkylä are difficult to schedule.
+
+Overall rating for Dr. Eeva Mäkelä, Neurology, Espoo: 5.75/10 from 8 reviews

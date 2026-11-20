@@ -1,0 +1,59 @@
+Doctor: Dr. Surya Lubis
+Doctor ID: 5066
+Specialization: Cardiology
+Gender: Male
+Years of experience: 19
+City: Bandung, Indonesia
+Clinics: Klinik Rahayu Medika (clinic ID 655); Klinik Dharma Bakti (clinic ID 657)
+
+Review 1 for Dr. Surya Lubis, Cardiology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Rahayu Medika
+Description: Helpful with my cholesterol, Dr. Surya Lubis still gave dietary advice that was a little generic. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Surya Lubis, Cardiology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Dharma Bakti
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Surya Lubis, Cardiology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Dharma Bakti
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 4 for Dr. Surya Lubis, Cardiology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Rahayu Medika
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Great care in the visit itself, but the billing for the tests at Klinik Rahayu Medika was confusing. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Surya Lubis, Cardiology, Bandung
+Rating: 8/10
+Clinic visited: Klinik Rahayu Medika
+Description: After my heart attack, Dr. Surya Lubis explained the rehab plan and medication changes with great patience and kindness. The visit began with a short, friendly chat that put me at ease before any examination started. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Surya Lubis, Cardiology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Dharma Bakti
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 7 for Dr. Surya Lubis, Cardiology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Dharma Bakti
+Description: Dr. Surya Lubis adjusted my blood pressure medication carefully, though I had to call twice for a refill. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Surya Lubis, Cardiology, Bandung
+Rating: 5/10
+Clinic visited: Klinik Rahayu Medika
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Quick appointment and a fair price in Bandung, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 9 for Dr. Surya Lubis, Cardiology, Bandung
+Rating: 8/10
+Clinic visited: Klinik Rahayu Medika
+Description: After my palpitations began, Dr. Surya Lubis arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 10 for Dr. Surya Lubis, Cardiology, Bandung
+Rating: 5/10
+Clinic visited: Klinik Rahayu Medika
+Description: I liked the advice I got from Dr. Surya Lubis, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Surya Lubis, Cardiology, Bandung: 6.60/10 from 10 reviews

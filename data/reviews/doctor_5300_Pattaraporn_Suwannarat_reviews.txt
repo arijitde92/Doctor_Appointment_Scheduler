@@ -1,0 +1,54 @@
+Doctor: Dr. Pattaraporn Suwannarat
+Doctor ID: 5300
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 27
+City: Pattaya, Thailand
+Clinics: Wellness Point Clinic (clinic ID 685); Thai Charoen Polyclinic (clinic ID 688)
+
+Review 1 for Dr. Pattaraporn Suwannarat, Pediatrics, Pattaya
+Rating: 7/10
+Clinic visited: Wellness Point Clinic
+Description: Dr. Pattaraporn Suwannarat is thorough with exams, but the after-hours phone line at Wellness Point Clinic is hard to reach.
+
+Review 2 for Dr. Pattaraporn Suwannarat, Pediatrics, Pattaya
+Rating: 7/10
+Clinic visited: Thai Charoen Polyclinic
+Description: Quick appointment and a fair price in Pattaya, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Pattaraporn Suwannarat, Pediatrics, Pattaya
+Rating: 7/10
+Clinic visited: Wellness Point Clinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Pattaraporn Suwannarat, Pediatrics, Pattaya
+Rating: 7/10
+Clinic visited: Thai Charoen Polyclinic
+Description: Dr. Pattaraporn Suwannarat was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Pattaraporn Suwannarat, Pediatrics, Pattaya
+Rating: 6/10
+Clinic visited: Thai Charoen Polyclinic
+Description: I liked the advice I got from Dr. Pattaraporn Suwannarat, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Pattaraporn Suwannarat, Pediatrics, Pattaya
+Rating: 8/10
+Clinic visited: Thai Charoen Polyclinic
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 7 for Dr. Pattaraporn Suwannarat, Pediatrics, Pattaya
+Rating: 7/10
+Clinic visited: Wellness Point Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Pattaraporn Suwannarat, Pediatrics, Pattaya
+Rating: 7/10
+Clinic visited: Thai Charoen Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Thai Charoen Polyclinic.
+
+Review 9 for Dr. Pattaraporn Suwannarat, Pediatrics, Pattaya
+Rating: 5/10
+Clinic visited: Wellness Point Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Pattaraporn Suwannarat, Pediatrics, Pattaya: 6.78/10 from 9 reviews

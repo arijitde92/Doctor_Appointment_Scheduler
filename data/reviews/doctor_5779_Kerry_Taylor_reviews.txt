@@ -1,0 +1,64 @@
+Doctor: Dr. Kerry Taylor
+Doctor ID: 5779
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 18
+City: Johannesburg, South Africa
+Clinics: Rosebank Medical Rooms (clinic ID 746); Randburg Care Medical Centre (clinic ID 748)
+
+Review 1 for Dr. Kerry Taylor, Orthopedic, Johannesburg
+Rating: 6/10
+Clinic visited: Rosebank Medical Rooms
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Dr. Kerry Taylor was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Kerry Taylor, Orthopedic, Johannesburg
+Rating: 6/10
+Clinic visited: Rosebank Medical Rooms
+Description: Very skilled with my knee, but Dr. Kerry Taylor's clinic runs behind and the wait was over an hour. Good bedside manner from Dr. Kerry Taylor, but the parking near Rosebank Medical Rooms is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Kerry Taylor, Orthopedic, Johannesburg
+Rating: 7/10
+Clinic visited: Rosebank Medical Rooms
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Kerry Taylor, Orthopedic, Johannesburg
+Rating: 6/10
+Clinic visited: Randburg Care Medical Centre
+Description: Dr. Kerry Taylor was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 5 for Dr. Kerry Taylor, Orthopedic, Johannesburg
+Rating: 7/10
+Clinic visited: Randburg Care Medical Centre
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Kerry Taylor, Orthopedic, Johannesburg
+Rating: 5/10
+Clinic visited: Randburg Care Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Dr. Kerry Taylor explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 7 for Dr. Kerry Taylor, Orthopedic, Johannesburg
+Rating: 8/10
+Clinic visited: Rosebank Medical Rooms
+Description: I came away understanding my condition better than I have in years of previous appointments. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Kerry Taylor, Orthopedic, Johannesburg
+Rating: 6/10
+Clinic visited: Randburg Care Medical Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Kerry Taylor, Orthopedic, Johannesburg
+Rating: 4/10
+Clinic visited: Rosebank Medical Rooms
+Description: My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 10 for Dr. Kerry Taylor, Orthopedic, Johannesburg
+Rating: 8/10
+Clinic visited: Randburg Care Medical Centre
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. Paperwork at Randburg Care Medical Centre was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 11 for Dr. Kerry Taylor, Orthopedic, Johannesburg
+Rating: 7/10
+Clinic visited: Rosebank Medical Rooms
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Overall rating for Dr. Kerry Taylor, Orthopedic, Johannesburg: 6.36/10 from 11 reviews

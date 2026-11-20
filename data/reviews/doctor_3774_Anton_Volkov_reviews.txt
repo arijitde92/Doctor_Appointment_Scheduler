@@ -1,0 +1,69 @@
+Doctor: Dr. Anton Volkov
+Doctor ID: 3774
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 9
+City: Novosibirsk, Russia
+Clinics: Dimitrova Family Polyclinic (clinic ID 487)
+
+Review 1 for Dr. Anton Volkov, Gastroenterology, Novosibirsk
+Rating: 7/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 2 for Dr. Anton Volkov, Gastroenterology, Novosibirsk
+Rating: 5/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 3 for Dr. Anton Volkov, Gastroenterology, Novosibirsk
+Rating: 5/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Knowledgeable about my reflux, Dr. Anton Volkov still gave diet advice that felt generic and not tailored to my habits.
+
+Review 4 for Dr. Anton Volkov, Gastroenterology, Novosibirsk
+Rating: 7/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Quick appointment and a fair price in Novosibirsk, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 5 for Dr. Anton Volkov, Gastroenterology, Novosibirsk
+Rating: 8/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 6 for Dr. Anton Volkov, Gastroenterology, Novosibirsk
+Rating: 4/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: The prescription from Dr. Anton Volkov was not the one we discussed, and I only noticed when I got home.
+
+Review 7 for Dr. Anton Volkov, Gastroenterology, Novosibirsk
+Rating: 7/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: Dr. Anton Volkov is thorough, but I waited nearly two months to get the first available slot.
+
+Review 8 for Dr. Anton Volkov, Gastroenterology, Novosibirsk
+Rating: 8/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Review 9 for Dr. Anton Volkov, Gastroenterology, Novosibirsk
+Rating: 6/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 10 for Dr. Anton Volkov, Gastroenterology, Novosibirsk
+Rating: 9/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: Helpful dietitian referral from Dr. Anton Volkov and written guidance for living with ulcerative colitis. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 11 for Dr. Anton Volkov, Gastroenterology, Novosibirsk
+Rating: 4/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: The bowel prep instructions from Dr. Anton Volkov's office were contradictory, and I had to reschedule my colonoscopy because of the confusion. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 12 for Dr. Anton Volkov, Gastroenterology, Novosibirsk
+Rating: 7/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Dr. Anton Volkov was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Anton Volkov, Gastroenterology, Novosibirsk: 6.42/10 from 12 reviews

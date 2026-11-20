@@ -1,0 +1,54 @@
+Doctor: Dr. Claudio Barbieri
+Doctor ID: 3355
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 4
+City: Florence, Italy
+Clinics: Poliambulatorio Santa Maria Novella (clinic ID 435)
+
+Review 1 for Dr. Claudio Barbieri, Gastroenterology, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. The doctor was kind, though the clinic's evening hours are very limited for working people. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Claudio Barbieri, Gastroenterology, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. The treatment plan from Dr. Claudio Barbieri made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Claudio Barbieri, Gastroenterology, Florence
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 4 for Dr. Claudio Barbieri, Gastroenterology, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 5 for Dr. Claudio Barbieri, Gastroenterology, Florence
+Rating: 10/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: The waiting room at Poliambulatorio Santa Maria Novella was clean, quiet and comfortable, with enough seating and water available.
+
+Review 6 for Dr. Claudio Barbieri, Gastroenterology, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Appointment reminders came by text and email, and rescheduling took two taps. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Claudio Barbieri, Gastroenterology, Florence
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: Dr. Claudio Barbieri took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. Getting to Poliambulatorio Santa Maria Novella by public transport in Florence was easy, and there is a step-free entrance for wheelchairs.
+
+Review 8 for Dr. Claudio Barbieri, Gastroenterology, Florence
+Rating: 4/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: After my endoscopy, nobody called with results and I had to chase the office repeatedly. My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 9 for Dr. Claudio Barbieri, Gastroenterology, Florence
+Rating: 10/10
+Clinic visited: Poliambulatorio Santa Maria Novella
+Description: I was called in within five minutes of my appointment time at Poliambulatorio Santa Maria Novella, which is rare and much appreciated. I received a full summary letter from Poliambulatorio Santa Maria Novella after my endoscopy, which my regular doctor found very useful.
+
+Overall rating for Dr. Claudio Barbieri, Gastroenterology, Florence: 7.67/10 from 9 reviews

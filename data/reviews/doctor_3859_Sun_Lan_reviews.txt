@@ -1,0 +1,64 @@
+Doctor: Dr. Sun Lan
+Doctor ID: 3859
+Specialization: General
+Gender: Female
+Years of experience: 15
+City: Beijing, China
+Clinics: Dongdaqiao Jiahe Medical Clinic (clinic ID 499)
+
+Review 1 for Dr. Sun Lan, General, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Dr. Sun Lan double-checked my allergy list before prescribing anything, and that careful habit earned my trust. She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 2 for Dr. Sun Lan, General, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Sun Lan, General, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 4 for Dr. Sun Lan, General, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Dongdaqiao Jiahe Medical Clinic. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 5 for Dr. Sun Lan, General, Beijing
+Rating: 9/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. A translator was arranged for my mother without us asking twice, and Dr. Sun Lan spoke directly to her throughout.
+
+Review 6 for Dr. Sun Lan, General, Beijing
+Rating: 9/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Paperwork at Dongdaqiao Jiahe Medical Clinic was kept to a minimum, and the staff helped me complete the insurance form. Cholesterol results were explained by Dr. Sun Lan with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 7 for Dr. Sun Lan, General, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: I always hear back within a day when I leave a question with the nurse at Dongdaqiao Jiahe Medical Clinic, and Dr. Sun Lan follows up on lab results personally. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Sun Lan, General, Beijing
+Rating: 9/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. My annual check-up with Dr. Sun Lan took forty minutes, with every screening explained and nothing rushed.
+
+Review 9 for Dr. Sun Lan, General, Beijing
+Rating: 9/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Getting to Dongdaqiao Jiahe Medical Clinic from across Beijing was easy, and the same-week appointment saved me an urgent care trip. This is the first doctor I have trusted completely in years.
+
+Review 10 for Dr. Sun Lan, General, Beijing
+Rating: 6/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Dongdaqiao Jiahe Medical Clinic were inconsistent. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. Sun Lan, General, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Managing my type 2 diabetes with Dr. Sun Lan has been steady and practical, with quarterly blood sugar reviews and no lectures. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Sun Lan, General, Beijing: 8.09/10 from 11 reviews

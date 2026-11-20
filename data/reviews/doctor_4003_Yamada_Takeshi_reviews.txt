@@ -1,0 +1,54 @@
+Doctor: Dr. Yamada Takeshi
+Doctor ID: 4003
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 26
+City: Kyoto, Japan
+Clinics: Karasuma Matsu Family Clinic (clinic ID 516); Kyoto Station Aoi Clinic (clinic ID 517); Nijo Yume Medical Clinic (clinic ID 519)
+
+Review 1 for Dr. Yamada Takeshi, Obstetrics and Gynecology (OB/GYN), Kyoto
+Rating: 8/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: My routine pap smear with Dr. Yamada Takeshi was quick and respectful, with each step explained before it was done. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Yamada Takeshi, Obstetrics and Gynecology (OB/GYN), Kyoto
+Rating: 9/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: After my miscarriage, Dr. Yamada Takeshi was compassionate, clear about next steps and checked in a week later.
+
+Review 3 for Dr. Yamada Takeshi, Obstetrics and Gynecology (OB/GYN), Kyoto
+Rating: 9/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: He listened to my concerns about painful periods and ordered the right tests instead of suggesting I simply cope. A same-day slot was found for me at Kyoto Station Aoi Clinic when I called with a worrying symptom.
+
+Review 4 for Dr. Yamada Takeshi, Obstetrics and Gynecology (OB/GYN), Kyoto
+Rating: 8/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Dr. Yamada Takeshi double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 5 for Dr. Yamada Takeshi, Obstetrics and Gynecology (OB/GYN), Kyoto
+Rating: 8/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. The anomaly scan was thorough and the explanation of every measurement from Dr. Yamada Takeshi was reassuring. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Yamada Takeshi, Obstetrics and Gynecology (OB/GYN), Kyoto
+Rating: 10/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Throughout my pregnancy Dr. Yamada Takeshi answered every question patiently, including the many late-night worries I sent through the portal.
+
+Review 7 for Dr. Yamada Takeshi, Obstetrics and Gynecology (OB/GYN), Kyoto
+Rating: 10/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I appreciated being asked what I wanted from my birth experience before any decisions were made.
+
+Review 8 for Dr. Yamada Takeshi, Obstetrics and Gynecology (OB/GYN), Kyoto
+Rating: 7/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history.
+
+Review 9 for Dr. Yamada Takeshi, Obstetrics and Gynecology (OB/GYN), Kyoto
+Rating: 7/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Yamada Takeshi, Obstetrics and Gynecology (OB/GYN), Kyoto: 8.44/10 from 9 reviews

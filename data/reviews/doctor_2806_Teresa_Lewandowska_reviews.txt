@@ -1,0 +1,54 @@
+Doctor: Dr. Teresa Lewandowska
+Doctor ID: 2806
+Specialization: Radiology
+Gender: Female
+Years of experience: 1
+City: Warsaw, Poland
+Clinics: Poliklinika Jerozolimskie Centrum (clinic ID 367)
+
+Review 1 for Dr. Teresa Lewandowska, Radiology, Warsaw
+Rating: 7/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 2 for Dr. Teresa Lewandowska, Radiology, Warsaw
+Rating: 6/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Teresa Lewandowska, Radiology, Warsaw
+Rating: 5/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Teresa Lewandowska, Radiology, Warsaw
+Rating: 8/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: I came away understanding my condition better than I have in years of previous appointments. Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Review 5 for Dr. Teresa Lewandowska, Radiology, Warsaw
+Rating: 8/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: I was called in within five minutes of my appointment time at Poliklinika Jerozolimskie Centrum, which is rare and much appreciated. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Teresa Lewandowska, Radiology, Warsaw
+Rating: 8/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Teresa Lewandowska were respectful throughout. Paperwork at Poliklinika Jerozolimskie Centrum was kept to a minimum, and the staff helped me complete the insurance form. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Teresa Lewandowska, Radiology, Warsaw
+Rating: 6/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The treatment plan from Dr. Teresa Lewandowska made sense, but I wished it had been written down for me to take away. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 8 for Dr. Teresa Lewandowska, Radiology, Warsaw
+Rating: 7/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The report from Dr. Teresa Lewandowska was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 9 for Dr. Teresa Lewandowska, Radiology, Warsaw
+Rating: 7/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Overall rating for Dr. Teresa Lewandowska, Radiology, Warsaw: 6.89/10 from 9 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Michael Walker
+Doctor ID: 1078
+Specialization: Neurology
+Gender: Male
+Years of experience: 6
+City: Edinburgh, UK
+Clinics: Princes Street Health Practice (clinic ID 141)
+
+Review 1 for Dr. Michael Walker, Neurology, Edinburgh
+Rating: 7/10
+Clinic visited: Princes Street Health Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Supportive about my diagnosis, yet follow-up appointments with Dr. Michael Walker at Princes Street Health Practice are difficult to schedule.
+
+Review 2 for Dr. Michael Walker, Neurology, Edinburgh
+Rating: 9/10
+Clinic visited: Princes Street Health Practice
+Description: The neurological exam by Dr. Michael Walker was thorough, with every reflex test and gait check explained as it happened. Getting to Princes Street Health Practice by public transport in Edinburgh was easy, and there is a step-free entrance for wheelchairs. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Michael Walker, Neurology, Edinburgh
+Rating: 8/10
+Clinic visited: Princes Street Health Practice
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Princes Street Health Practice. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 4 for Dr. Michael Walker, Neurology, Edinburgh
+Rating: 8/10
+Clinic visited: Princes Street Health Practice
+Description: At my visit, Dr. Michael Walker took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 5 for Dr. Michael Walker, Neurology, Edinburgh
+Rating: 7/10
+Clinic visited: Princes Street Health Practice
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Michael Walker, Neurology, Edinburgh
+Rating: 6/10
+Clinic visited: Princes Street Health Practice
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Michael Walker, Neurology, Edinburgh
+Rating: 8/10
+Clinic visited: Princes Street Health Practice
+Description: Dr. Michael Walker looked me in the eye, listened to the whole story and only then started typing. He coordinated with my regular doctor so my medicine list was consistent in both offices. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Michael Walker, Neurology, Edinburgh
+Rating: 7/10
+Clinic visited: Princes Street Health Practice
+Description: Dr. Michael Walker explained my results well, although the visit felt short for such a complex condition.
+
+Review 9 for Dr. Michael Walker, Neurology, Edinburgh
+Rating: 6/10
+Clinic visited: Princes Street Health Practice
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 10 for Dr. Michael Walker, Neurology, Edinburgh
+Rating: 6/10
+Clinic visited: Princes Street Health Practice
+Description: I liked the advice I got from Dr. Michael Walker, but I would have liked more time to ask follow-up questions before the visit ended. Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 11 for Dr. Michael Walker, Neurology, Edinburgh
+Rating: 9/10
+Clinic visited: Princes Street Health Practice
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Clear and honest talk with Dr. Michael Walker about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Review 12 for Dr. Michael Walker, Neurology, Edinburgh
+Rating: 7/10
+Clinic visited: Princes Street Health Practice
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. The treatment plan from Dr. Michael Walker made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Michael Walker, Neurology, Edinburgh: 7.33/10 from 12 reviews

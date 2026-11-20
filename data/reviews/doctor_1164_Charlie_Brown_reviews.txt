@@ -1,0 +1,69 @@
+Doctor: Dr. Charlie Brown
+Doctor ID: 1164
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 1
+City: Manchester, UK
+Clinics: Wilmslow Road Family Clinic (clinic ID 152)
+
+Review 1 for Dr. Charlie Brown, Pulmonology, Manchester
+Rating: 10/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: My oxygen levels are monitored carefully at Wilmslow Road Family Clinic, and the home equipment was arranged without any hassle. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 2 for Dr. Charlie Brown, Pulmonology, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Quick appointment and a fair price in Manchester, but the staff seemed overwhelmed and a bit curt on the phone. Pleasant manner and careful lung exam, though the waiting time at Wilmslow Road Family Clinic regularly exceeded forty minutes.
+
+Review 3 for Dr. Charlie Brown, Pulmonology, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: He called personally with my scan results and walked me through what the findings did and did not mean. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Charlie Brown, Pulmonology, Manchester
+Rating: 10/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: At my visit, Dr. Charlie Brown took notes on my medication list, checked for interactions and explained the changes simply. At Wilmslow Road Family Clinic, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Charlie Brown, Pulmonology, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Manchester. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 6 for Dr. Charlie Brown, Pulmonology, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 7 for Dr. Charlie Brown, Pulmonology, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: The spirometry test was explained step by step, and Dr. Charlie Brown put the results in context with a clear picture of my lung function. The waiting room at Wilmslow Road Family Clinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 8 for Dr. Charlie Brown, Pulmonology, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Helpful and honest about my prognosis, Dr. Charlie Brown could still have given me more written material to take home.
+
+Review 9 for Dr. Charlie Brown, Pulmonology, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Good bedside manner from Dr. Charlie Brown, but the parking near Wilmslow Road Family Clinic is limited and I had to circle for fifteen minutes. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 10 for Dr. Charlie Brown, Pulmonology, Manchester
+Rating: 10/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Dr. Charlie Brown explained my lung nodule follow-up schedule calmly, which took away weeks of worry. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 11 for Dr. Charlie Brown, Pulmonology, Manchester
+Rating: 10/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: I always leave Dr. Charlie Brown's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 12 for Dr. Charlie Brown, Pulmonology, Manchester
+Rating: 10/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Clear, honest answers from Dr. Charlie Brown about my shortness of breath, and no unnecessary tests were ordered. The practice in Manchester is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Overall rating for Dr. Charlie Brown, Pulmonology, Manchester: 8.50/10 from 12 reviews

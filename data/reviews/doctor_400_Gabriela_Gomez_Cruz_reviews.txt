@@ -1,0 +1,49 @@
+Doctor: Dr. Gabriela Gómez Cruz
+Doctor ID: 400
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 16
+City: Guadalajara, Mexico
+Clinics: Clínica Providencia Occidente (clinic ID 55); Consultorios Médicos Chapalita (clinic ID 58)
+
+Review 1 for Dr. Gabriela Gómez Cruz, Orthopedic, Guadalajara
+Rating: 7/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Gabriela Gómez Cruz, Orthopedic, Guadalajara
+Rating: 6/10
+Clinic visited: Clínica Providencia Occidente
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 3 for Dr. Gabriela Gómez Cruz, Orthopedic, Guadalajara
+Rating: 3/10
+Clinic visited: Clínica Providencia Occidente
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed.
+
+Review 4 for Dr. Gabriela Gómez Cruz, Orthopedic, Guadalajara
+Rating: 4/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: The surgery fee ended up far higher than the quote, and billing staff could not explain the difference. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 5 for Dr. Gabriela Gómez Cruz, Orthopedic, Guadalajara
+Rating: 5/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Gabriela Gómez Cruz, Orthopedic, Guadalajara
+Rating: 2/10
+Clinic visited: Clínica Providencia Occidente
+Description: I was told by Dr. Gabriela Gómez Cruz that my knee pain was just age without any scan or exam, and the pain kept getting worse.
+
+Review 7 for Dr. Gabriela Gómez Cruz, Orthopedic, Guadalajara
+Rating: 3/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: The prescription from Dr. Gabriela Gómez Cruz was not the one we discussed, and I only noticed when I got home.
+
+Review 8 for Dr. Gabriela Gómez Cruz, Orthopedic, Guadalajara
+Rating: 5/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: Very skilled with my knee, but Dr. Gabriela Gómez Cruz's clinic runs behind and the wait was over an hour.
+
+Overall rating for Dr. Gabriela Gómez Cruz, Orthopedic, Guadalajara: 4.38/10 from 8 reviews

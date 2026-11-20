@@ -1,0 +1,59 @@
+Doctor: Dr. Yong Jia Hui
+Doctor ID: 4700
+Specialization: Pathology
+Gender: Female
+Years of experience: 5
+City: Johor Bahru, Malaysia
+Clinics: Klinik Sejahtera Bersama (clinic ID 608)
+
+Review 1 for Dr. Yong Jia Hui, Pathology, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Dr. Yong Jia Hui answered my questions kindly, though the call back took three days.
+
+Review 2 for Dr. Yong Jia Hui, Pathology, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Yong Jia Hui, Pathology, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Booking was easy online, but the confirmation email contained the wrong address for Klinik Sejahtera Bersama.
+
+Review 4 for Dr. Yong Jia Hui, Pathology, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 5 for Dr. Yong Jia Hui, Pathology, Johor Bahru
+Rating: 4/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found. Dr. Yong Jia Hui was never available to talk about my result, and the front desk repeated that I should ask my referring physician. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 6 for Dr. Yong Jia Hui, Pathology, Johor Bahru
+Rating: 6/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Yong Jia Hui, Pathology, Johor Bahru
+Rating: 7/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Dr. Yong Jia Hui was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Helpful in clarifying a borderline result, though Dr. Yong Jia Hui gave little guidance about whether to repeat it.
+
+Review 8 for Dr. Yong Jia Hui, Pathology, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 9 for Dr. Yong Jia Hui, Pathology, Johor Bahru
+Rating: 6/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 10 for Dr. Yong Jia Hui, Pathology, Johor Bahru
+Rating: 6/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Good bedside manner from Dr. Yong Jia Hui, but the parking near Klinik Sejahtera Bersama is limited and I had to circle for fifteen minutes. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Overall rating for Dr. Yong Jia Hui, Pathology, Johor Bahru: 5.40/10 from 10 reviews

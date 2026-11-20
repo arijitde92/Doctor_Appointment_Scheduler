@@ -1,0 +1,49 @@
+Doctor: Dr. Shim Ji-ho
+Doctor ID: 4147
+Specialization: Psychology
+Gender: Male
+Years of experience: 9
+City: Busan, South Korea
+Clinics: Seomyeon Bada Medical Clinic (clinic ID 535)
+
+Review 1 for Dr. Shim Ji-ho, Psychology, Busan
+Rating: 8/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer. Dr. Shim Ji-ho drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 2 for Dr. Shim Ji-ho, Psychology, Busan
+Rating: 4/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Sessions were frequently cut short, and I was still charged the full fee. The waiting room at Seomyeon Bada Medical Clinic was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 3 for Dr. Shim Ji-ho, Psychology, Busan
+Rating: 10/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 4 for Dr. Shim Ji-ho, Psychology, Busan
+Rating: 9/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Online sessions through Seomyeon Bada Medical Clinic worked just as well as in-person ones, and the video link never once failed. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Shim Ji-ho, Psychology, Busan
+Rating: 7/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Shim Ji-ho, Psychology, Busan
+Rating: 8/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown.
+
+Review 7 for Dr. Shim Ji-ho, Psychology, Busan
+Rating: 8/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Dr. Shim Ji-ho double-checked my allergy list before prescribing anything, and that careful habit earned my trust. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Shim Ji-ho, Psychology, Busan
+Rating: 6/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: My trauma work felt well paced, although the schedule changed several times at Seomyeon Bada Medical Clinic.
+
+Overall rating for Dr. Shim Ji-ho, Psychology, Busan: 7.50/10 from 8 reviews

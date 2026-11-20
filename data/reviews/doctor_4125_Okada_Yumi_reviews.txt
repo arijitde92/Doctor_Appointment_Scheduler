@@ -1,0 +1,49 @@
+Doctor: Dr. Okada Yumi
+Doctor ID: 4125
+Specialization: Neurology
+Gender: Female
+Years of experience: 16
+City: Yokohama, Japan
+Clinics: Kannai Sumire Family Clinic (clinic ID 532)
+
+Review 1 for Dr. Okada Yumi, Neurology, Yokohama
+Rating: 7/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Okada Yumi, Neurology, Yokohama
+Rating: 5/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Good bedside manner from Dr. Okada Yumi, but the parking near Kannai Sumire Family Clinic is limited and I had to circle for fifteen minutes. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Okada Yumi, Neurology, Yokohama
+Rating: 8/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: The EEG appointment ran on time, and Dr. Okada Yumi reviewed the tracing with me the same week. My test results arrived in the portal within two days, together with a short note that made sense. Five stars from me, and I would book again tomorrow.
+
+Review 4 for Dr. Okada Yumi, Neurology, Yokohama
+Rating: 8/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: I came away understanding my condition better than I have in years of previous appointments. I always leave Dr. Okada Yumi's office with a short written summary of changes, which helps my family keep up. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Okada Yumi, Neurology, Yokohama
+Rating: 8/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Living with multiple sclerosis feels less frightening because Dr. Okada Yumi explains and discusses every change in my plan.
+
+Review 6 for Dr. Okada Yumi, Neurology, Yokohama
+Rating: 8/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. The waiting room at Kannai Sumire Family Clinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 7 for Dr. Okada Yumi, Neurology, Yokohama
+Rating: 8/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 8 for Dr. Okada Yumi, Neurology, Yokohama
+Rating: 6/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Overall rating for Dr. Okada Yumi, Neurology, Yokohama: 7.25/10 from 8 reviews

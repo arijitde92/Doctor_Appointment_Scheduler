@@ -1,0 +1,49 @@
+Doctor: Dr. Paula Rodríguez
+Doctor ID: 754
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 16
+City: Buenos Aires, Argentina
+Clinics: Instituto Médico Corrientes (clinic ID 99)
+
+Review 1 for Dr. Paula Rodríguez, Pediatrics, Buenos Aires
+Rating: 9/10
+Clinic visited: Instituto Médico Corrientes
+Description: The waiting room in Buenos Aires has a play corner and separate seating for sick children, which I really valued. She was upfront about what could and could not be treated, and did not oversell any option. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Paula Rodríguez, Pediatrics, Buenos Aires
+Rating: 10/10
+Clinic visited: Instituto Médico Corrientes
+Description: Paperwork at Instituto Médico Corrientes was kept to a minimum, and the staff helped me complete the insurance form. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Paula Rodríguez, Pediatrics, Buenos Aires
+Rating: 9/10
+Clinic visited: Instituto Médico Corrientes
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Never once did I feel rushed, even though the clinic was clearly busy that morning. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Paula Rodríguez, Pediatrics, Buenos Aires
+Rating: 9/10
+Clinic visited: Instituto Médico Corrientes
+Description: Dr. Paula Rodríguez double-checked my allergy list before prescribing anything, and that careful habit earned my trust. We got a same-day appointment for a high fever, and the care at Instituto Médico Corrientes was kind and efficient. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Paula Rodríguez, Pediatrics, Buenos Aires
+Rating: 9/10
+Clinic visited: Instituto Médico Corrientes
+Description: Vaccination visits with Dr. Paula Rodríguez are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 6 for Dr. Paula Rodríguez, Pediatrics, Buenos Aires
+Rating: 8/10
+Clinic visited: Instituto Médico Corrientes
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice. Dr. Paula Rodríguez looked me in the eye, listened to the whole story and only then started typing.
+
+Review 7 for Dr. Paula Rodríguez, Pediatrics, Buenos Aires
+Rating: 6/10
+Clinic visited: Instituto Médico Corrientes
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Paula Rodríguez, Pediatrics, Buenos Aires
+Rating: 8/10
+Clinic visited: Instituto Médico Corrientes
+Description: My child's asthma action plan from Dr. Paula Rodríguez was written out clearly so that school staff could follow it too.
+
+Overall rating for Dr. Paula Rodríguez, Pediatrics, Buenos Aires: 8.50/10 from 8 reviews

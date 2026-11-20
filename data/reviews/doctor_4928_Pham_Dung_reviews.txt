@@ -1,0 +1,54 @@
+Doctor: Dr. Pham Dung
+Doctor ID: 4928
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 10
+City: Da Nang, Vietnam
+Clinics: Phong Kham Tam Giao (clinic ID 636); Phong Kham Bach Duong (clinic ID 637)
+
+Review 1 for Dr. Pham Dung, Pediatrics, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Bach Duong
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Pham Dung, Pediatrics, Da Nang
+Rating: 5/10
+Clinic visited: Phong Kham Tam Giao
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Good bedside manner from Dr. Pham Dung, but the parking near Phong Kham Tam Giao is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Pham Dung, Pediatrics, Da Nang
+Rating: 9/10
+Clinic visited: Phong Kham Tam Giao
+Description: Dr. Pham Dung used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 4 for Dr. Pham Dung, Pediatrics, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Tam Giao
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 5 for Dr. Pham Dung, Pediatrics, Da Nang
+Rating: 9/10
+Clinic visited: Phong Kham Tam Giao
+Description: My child's asthma action plan from Dr. Pham Dung was written out clearly so that school staff could follow it too.
+
+Review 6 for Dr. Pham Dung, Pediatrics, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Tam Giao
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 7 for Dr. Pham Dung, Pediatrics, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Tam Giao
+Description: The treatment plan from Dr. Pham Dung made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Pham Dung, Pediatrics, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Tam Giao
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Pham Dung is thorough with exams, but the after-hours phone line at Phong Kham Tam Giao is hard to reach. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Pham Dung, Pediatrics, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Bach Duong
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Pham Dung, Pediatrics, Da Nang: 7.00/10 from 9 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Hannah Patel
+Doctor ID: 6539
+Specialization: Cardiology
+Gender: Female
+Years of experience: 3
+City: Perth, Australia
+Clinics: Outback Road Medical (clinic ID 846); Seaview Medical Clinic (clinic ID 848)
+
+Review 1 for Dr. Hannah Patel, Cardiology, Perth
+Rating: 7/10
+Clinic visited: Outback Road Medical
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Hannah Patel, Cardiology, Perth
+Rating: 8/10
+Clinic visited: Outback Road Medical
+Description: A translator was arranged for my mother without us asking twice, and Dr. Hannah Patel spoke directly to her throughout. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 3 for Dr. Hannah Patel, Cardiology, Perth
+Rating: 8/10
+Clinic visited: Seaview Medical Clinic
+Description: Dr. Hannah Patel explained the difference between my statin options and let me weigh in on the choice. Five stars from me, and I would book again tomorrow.
+
+Review 4 for Dr. Hannah Patel, Cardiology, Perth
+Rating: 9/10
+Clinic visited: Outback Road Medical
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. Dr. Hannah Patel double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Hannah Patel, Cardiology, Perth
+Rating: 6/10
+Clinic visited: Outback Road Medical
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Hannah Patel, Cardiology, Perth
+Rating: 8/10
+Clinic visited: Outback Road Medical
+Description: Dr. Hannah Patel drew a quick sketch to explain what was going on, which helped me remember it afterwards. Quick to coordinate with my regular doctor, so my medications were consistent across both offices. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Hannah Patel, Cardiology, Perth
+Rating: 7/10
+Clinic visited: Outback Road Medical
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Hannah Patel, Cardiology, Perth
+Rating: 6/10
+Clinic visited: Seaview Medical Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Great care in the visit itself, but the billing for the tests at Seaview Medical Clinic was confusing.
+
+Review 9 for Dr. Hannah Patel, Cardiology, Perth
+Rating: 8/10
+Clinic visited: Outback Road Medical
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Honest about the risks and benefits of the procedure, Dr. Hannah Patel never pressured me toward surgery.
+
+Overall rating for Dr. Hannah Patel, Cardiology, Perth: 7.44/10 from 9 reviews

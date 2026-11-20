@@ -1,0 +1,49 @@
+Doctor: Dr. Ta Phuc
+Doctor ID: 4993
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 23
+City: Hanoi, Vietnam
+Clinics: Phong Kham Da Khoa Hoa Sen (clinic ID 645)
+
+Review 1 for Dr. Ta Phuc, Gastroenterology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Ta Phuc, Gastroenterology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Booking was easy online, but the confirmation email contained the wrong address for Phong Kham Da Khoa Hoa Sen.
+
+Review 3 for Dr. Ta Phuc, Gastroenterology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: Dr. Ta Phuc is thorough, but I waited nearly two months to get the first available slot.
+
+Review 4 for Dr. Ta Phuc, Gastroenterology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Ta Phuc, Gastroenterology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Ta Phuc, Gastroenterology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: Dr. Ta Phuc took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Ta Phuc, Gastroenterology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: Dr. Ta Phuc was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 8 for Dr. Ta Phuc, Gastroenterology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Overall rating for Dr. Ta Phuc, Gastroenterology, Hanoi: 6.62/10 from 8 reviews

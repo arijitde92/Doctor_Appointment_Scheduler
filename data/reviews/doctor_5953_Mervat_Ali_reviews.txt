@@ -1,0 +1,64 @@
+Doctor: Dr. Mervat Ali
+Doctor ID: 5953
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 28
+City: Giza, Egypt
+Clinics: Haram Health Practice (clinic ID 768)
+
+Review 1 for Dr. Mervat Ali, Pulmonology, Giza
+Rating: 7/10
+Clinic visited: Haram Health Practice
+Description: Dr. Mervat Ali adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 2 for Dr. Mervat Ali, Pulmonology, Giza
+Rating: 6/10
+Clinic visited: Haram Health Practice
+Description: I got what I needed, but the next available appointment was three weeks away. Pleasant manner and careful lung exam, though the waiting time at Haram Health Practice regularly exceeded forty minutes.
+
+Review 3 for Dr. Mervat Ali, Pulmonology, Giza
+Rating: 6/10
+Clinic visited: Haram Health Practice
+Description: Helpful and honest about my prognosis, Dr. Mervat Ali could still have given me more written material to take home. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Mervat Ali, Pulmonology, Giza
+Rating: 8/10
+Clinic visited: Haram Health Practice
+Description: The spirometry test was explained step by step, and Dr. Mervat Ali put the results in context with a clear picture of my lung function. Dr. Mervat Ali used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 5 for Dr. Mervat Ali, Pulmonology, Giza
+Rating: 5/10
+Clinic visited: Haram Health Practice
+Description: The treatment plan from Dr. Mervat Ali made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Mervat Ali, Pulmonology, Giza
+Rating: 6/10
+Clinic visited: Haram Health Practice
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 7 for Dr. Mervat Ali, Pulmonology, Giza
+Rating: 9/10
+Clinic visited: Haram Health Practice
+Description: My oxygen levels are monitored carefully at Haram Health Practice, and the home equipment was arranged without any hassle.
+
+Review 8 for Dr. Mervat Ali, Pulmonology, Giza
+Rating: 7/10
+Clinic visited: Haram Health Practice
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 9 for Dr. Mervat Ali, Pulmonology, Giza
+Rating: 6/10
+Clinic visited: Haram Health Practice
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Booking was easy online, but the confirmation email contained the wrong address for Haram Health Practice.
+
+Review 10 for Dr. Mervat Ali, Pulmonology, Giza
+Rating: 8/10
+Clinic visited: Haram Health Practice
+Description: Everything was explained in plain English by Dr. Mervat Ali, and nothing was left to guess. At Haram Health Practice, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 11 for Dr. Mervat Ali, Pulmonology, Giza
+Rating: 6/10
+Clinic visited: Haram Health Practice
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Mervat Ali, Pulmonology, Giza: 6.73/10 from 11 reviews

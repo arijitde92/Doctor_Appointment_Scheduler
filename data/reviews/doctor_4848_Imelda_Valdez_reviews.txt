@@ -1,0 +1,59 @@
+Doctor: Dr. Imelda Valdez
+Doctor ID: 4848
+Specialization: Cardiology
+Gender: Female
+Years of experience: 9
+City: Manila, Philippines
+Clinics: Bayanihan Medical Clinic (clinic ID 626); San Lorenzo Family Clinic (clinic ID 627)
+
+Review 1 for Dr. Imelda Valdez, Cardiology, Manila
+Rating: 5/10
+Clinic visited: San Lorenzo Family Clinic
+Description: I liked the advice I got from Dr. Imelda Valdez, but I would have liked more time to ask follow-up questions before the visit ended. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Imelda Valdez, Cardiology, Manila
+Rating: 7/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Imelda Valdez, Cardiology, Manila
+Rating: 6/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Great care in the visit itself, but the billing for the tests at San Lorenzo Family Clinic was confusing. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Imelda Valdez, Cardiology, Manila
+Rating: 8/10
+Clinic visited: Bayanihan Medical Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 5 for Dr. Imelda Valdez, Cardiology, Manila
+Rating: 7/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Dr. Imelda Valdez was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Imelda Valdez, Cardiology, Manila
+Rating: 7/10
+Clinic visited: San Lorenzo Family Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Imelda Valdez, Cardiology, Manila
+Rating: 7/10
+Clinic visited: Bayanihan Medical Clinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The treatment plan from Dr. Imelda Valdez made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Imelda Valdez, Cardiology, Manila
+Rating: 7/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Dr. Imelda Valdez adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 9 for Dr. Imelda Valdez, Cardiology, Manila
+Rating: 6/10
+Clinic visited: Bayanihan Medical Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Helpful with my cholesterol, Dr. Imelda Valdez still gave dietary advice that was a little generic.
+
+Review 10 for Dr. Imelda Valdez, Cardiology, Manila
+Rating: 8/10
+Clinic visited: Bayanihan Medical Clinic
+Description: She was upfront about what could and could not be treated, and did not oversell any option.
+
+Overall rating for Dr. Imelda Valdez, Cardiology, Manila: 6.80/10 from 10 reviews

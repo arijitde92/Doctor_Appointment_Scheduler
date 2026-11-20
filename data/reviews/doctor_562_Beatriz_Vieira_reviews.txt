@@ -1,0 +1,59 @@
+Doctor: Dr. Beatriz Vieira
+Doctor ID: 562
+Specialization: General
+Gender: Female
+Years of experience: 2
+City: Belo Horizonte, Brazil
+Clinics: Centro Médico Contorno (clinic ID 76); Policlínica Lourdes (clinic ID 77)
+
+Review 1 for Dr. Beatriz Vieira, General, Belo Horizonte
+Rating: 7/10
+Clinic visited: Policlínica Lourdes
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Policlínica Lourdes were inconsistent. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Beatriz Vieira, General, Belo Horizonte
+Rating: 7/10
+Clinic visited: Policlínica Lourdes
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Beatriz Vieira, General, Belo Horizonte
+Rating: 6/10
+Clinic visited: Policlínica Lourdes
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Referrals from Dr. Beatriz Vieira are handled well, but getting test results back took longer than I was told to expect.
+
+Review 4 for Dr. Beatriz Vieira, General, Belo Horizonte
+Rating: 7/10
+Clinic visited: Centro Médico Contorno
+Description: Booking was easy online, but the confirmation email contained the wrong address for Centro Médico Contorno.
+
+Review 5 for Dr. Beatriz Vieira, General, Belo Horizonte
+Rating: 6/10
+Clinic visited: Centro Médico Contorno
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Good bedside manner from Dr. Beatriz Vieira, but the parking near Centro Médico Contorno is limited and I had to circle for fifteen minutes. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Beatriz Vieira, General, Belo Horizonte
+Rating: 6/10
+Clinic visited: Policlínica Lourdes
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Beatriz Vieira, General, Belo Horizonte
+Rating: 5/10
+Clinic visited: Policlínica Lourdes
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 8 for Dr. Beatriz Vieira, General, Belo Horizonte
+Rating: 8/10
+Clinic visited: Policlínica Lourdes
+Description: Getting to Policlínica Lourdes from across Belo Horizonte was easy, and the same-week appointment saved me an urgent care trip. The practice in Belo Horizonte is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 9 for Dr. Beatriz Vieira, General, Belo Horizonte
+Rating: 5/10
+Clinic visited: Policlínica Lourdes
+Description: Dr. Beatriz Vieira is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 10 for Dr. Beatriz Vieira, General, Belo Horizonte
+Rating: 7/10
+Clinic visited: Centro Médico Contorno
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Beatriz Vieira, General, Belo Horizonte: 6.40/10 from 10 reviews

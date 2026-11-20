@@ -1,0 +1,59 @@
+Doctor: Dr. Fatima Jackson
+Doctor ID: 1146
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 28
+City: Manchester, UK
+Clinics: King Street Medical Practice (clinic ID 150); Hardman Square Polyclinic (clinic ID 153)
+
+Review 1 for Dr. Fatima Jackson, Psychiatry, Manchester
+Rating: 8/10
+Clinic visited: King Street Medical Practice
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Dr. Fatima Jackson took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 2 for Dr. Fatima Jackson, Psychiatry, Manchester
+Rating: 9/10
+Clinic visited: King Street Medical Practice
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. The ADHD assessment by Dr. Fatima Jackson was careful and detailed, with clear written conclusions and realistic expectations. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Fatima Jackson, Psychiatry, Manchester
+Rating: 10/10
+Clinic visited: Hardman Square Polyclinic
+Description: I felt heard by Dr. Fatima Jackson during a very hard time, and nobody rushed me out of the room. Dr. Fatima Jackson drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Fatima Jackson, Psychiatry, Manchester
+Rating: 7/10
+Clinic visited: King Street Medical Practice
+Description: Dr. Fatima Jackson is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 5 for Dr. Fatima Jackson, Psychiatry, Manchester
+Rating: 10/10
+Clinic visited: Hardman Square Polyclinic
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 6 for Dr. Fatima Jackson, Psychiatry, Manchester
+Rating: 9/10
+Clinic visited: King Street Medical Practice
+Description: My depression finally has a treatment plan from Dr. Fatima Jackson that works, with regular check-ins and careful dose changes. A translator was arranged for my mother without us asking twice, and Dr. Fatima Jackson spoke directly to her throughout.
+
+Review 7 for Dr. Fatima Jackson, Psychiatry, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: Telehealth follow-ups at Hardman Square Polyclinic are punctual and calm, and refills are dealt with quickly. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 8 for Dr. Fatima Jackson, Psychiatry, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: Good listener, yet the refill process at Hardman Square Polyclinic is slow and requires several phone calls. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Fatima Jackson, Psychiatry, Manchester
+Rating: 7/10
+Clinic visited: King Street Medical Practice
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 10 for Dr. Fatima Jackson, Psychiatry, Manchester
+Rating: 9/10
+Clinic visited: Hardman Square Polyclinic
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. Dr. Fatima Jackson used a calm, steady voice that settled my nerves before a stressful procedure. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Fatima Jackson, Psychiatry, Manchester: 8.40/10 from 10 reviews

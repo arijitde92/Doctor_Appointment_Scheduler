@@ -1,0 +1,69 @@
+Doctor: Dr. Rajesh Wood
+Doctor ID: 1077
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 11
+City: Edinburgh, UK
+Clinics: Princes Street Health Practice (clinic ID 141); Raeburn Place Medical Practice (clinic ID 144)
+
+Review 1 for Dr. Rajesh Wood, Gastroenterology, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 2 for Dr. Rajesh Wood, Gastroenterology, Edinburgh
+Rating: 9/10
+Clinic visited: Princes Street Health Practice
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Rajesh Wood, Gastroenterology, Edinburgh
+Rating: 9/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Helpful dietitian referral from Dr. Rajesh Wood and written guidance for living with ulcerative colitis. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 4 for Dr. Rajesh Wood, Gastroenterology, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Dr. Rajesh Wood took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. Getting to Raeburn Place Medical Practice by public transport in Edinburgh was easy, and there is a step-free entrance for wheelchairs.
+
+Review 5 for Dr. Rajesh Wood, Gastroenterology, Edinburgh
+Rating: 6/10
+Clinic visited: Princes Street Health Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 6 for Dr. Rajesh Wood, Gastroenterology, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: I came away understanding my condition better than I have in years of previous appointments. He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned.
+
+Review 7 for Dr. Rajesh Wood, Gastroenterology, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Dr. Rajesh Wood was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry.
+
+Review 8 for Dr. Rajesh Wood, Gastroenterology, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. A gentle, respectful manner from Dr. Rajesh Wood made a very awkward exam bearable, with every step explained before it happened.
+
+Review 9 for Dr. Rajesh Wood, Gastroenterology, Edinburgh
+Rating: 8/10
+Clinic visited: Princes Street Health Practice
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 10 for Dr. Rajesh Wood, Gastroenterology, Edinburgh
+Rating: 6/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Knowledgeable about my reflux, Dr. Rajesh Wood still gave diet advice that felt generic and not tailored to my habits. I would come back, but only if the waiting time improves.
+
+Review 11 for Dr. Rajesh Wood, Gastroenterology, Edinburgh
+Rating: 10/10
+Clinic visited: Princes Street Health Practice
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. I get regular check-ups for my Crohn's disease, and Dr. Rajesh Wood adjusts my treatment carefully and always explains why.
+
+Review 12 for Dr. Rajesh Wood, Gastroenterology, Edinburgh
+Rating: 10/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Dr. Rajesh Wood drew a quick sketch to explain what was going on, which helped me remember it afterwards. After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Rajesh Wood, Gastroenterology, Edinburgh: 8.08/10 from 12 reviews

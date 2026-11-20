@@ -1,0 +1,54 @@
+Doctor: Dr. Sana Memon
+Doctor ID: 6346
+Specialization: General
+Gender: Female
+Years of experience: 21
+City: Karachi, Pakistan
+Clinics: PECHS Care Polyclinic (clinic ID 822)
+
+Review 1 for Dr. Sana Memon, General, Karachi
+Rating: 6/10
+Clinic visited: PECHS Care Polyclinic
+Description: Dr. Sana Memon is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 2 for Dr. Sana Memon, General, Karachi
+Rating: 7/10
+Clinic visited: PECHS Care Polyclinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from PECHS Care Polyclinic were inconsistent.
+
+Review 3 for Dr. Sana Memon, General, Karachi
+Rating: 8/10
+Clinic visited: PECHS Care Polyclinic
+Description: She was upfront about what could and could not be treated, and did not oversell any option. Managing my type 2 diabetes with Dr. Sana Memon has been steady and practical, with quarterly blood sugar reviews and no lectures. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Sana Memon, General, Karachi
+Rating: 9/10
+Clinic visited: PECHS Care Polyclinic
+Description: My blood pressure had crept up and Dr. Sana Memon walked me through diet changes before suggesting anything else. Three months later my readings were normal. I felt like a person rather than a case number, and she asked about my life as well as my symptoms. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Sana Memon, General, Karachi
+Rating: 8/10
+Clinic visited: PECHS Care Polyclinic
+Description: By the time I left the room, Dr. Sana Memon had sorted the sick note, referral letter and prescription refill. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 6 for Dr. Sana Memon, General, Karachi
+Rating: 6/10
+Clinic visited: PECHS Care Polyclinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Sana Memon, General, Karachi
+Rating: 8/10
+Clinic visited: PECHS Care Polyclinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 8 for Dr. Sana Memon, General, Karachi
+Rating: 8/10
+Clinic visited: PECHS Care Polyclinic
+Description: Vaccination advice from Dr. Sana Memon for my travel plans was thorough and specific to the countries I was visiting. Paperwork at PECHS Care Polyclinic was kept to a minimum, and the staff helped me complete the insurance form. I have no hesitation sending my own relatives here.
+
+Review 9 for Dr. Sana Memon, General, Karachi
+Rating: 5/10
+Clinic visited: PECHS Care Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Referrals from Dr. Sana Memon are handled well, but getting test results back took longer than I was told to expect.
+
+Overall rating for Dr. Sana Memon, General, Karachi: 7.22/10 from 9 reviews

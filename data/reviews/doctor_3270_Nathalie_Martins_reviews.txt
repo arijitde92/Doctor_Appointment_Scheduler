@@ -1,0 +1,54 @@
+Doctor: Dr. Nathalie Martins
+Doctor ID: 3270
+Specialization: Cardiology
+Gender: Female
+Years of experience: 4
+City: Dudelange, Luxembourg
+Clinics: Centre de Santé Schmelz (clinic ID 424)
+
+Review 1 for Dr. Nathalie Martins, Cardiology, Dudelange
+Rating: 6/10
+Clinic visited: Centre de Santé Schmelz
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 2 for Dr. Nathalie Martins, Cardiology, Dudelange
+Rating: 5/10
+Clinic visited: Centre de Santé Schmelz
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Dr. Nathalie Martins was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Nathalie Martins, Cardiology, Dudelange
+Rating: 6/10
+Clinic visited: Centre de Santé Schmelz
+Description: Dr. Nathalie Martins adjusted my blood pressure medication carefully, though I had to call twice for a refill. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Nathalie Martins, Cardiology, Dudelange
+Rating: 4/10
+Clinic visited: Centre de Santé Schmelz
+Description: My questions were answered by Dr. Nathalie Martins with short, vague replies, and I left without a clear plan.
+
+Review 5 for Dr. Nathalie Martins, Cardiology, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Nathalie Martins, Cardiology, Dudelange
+Rating: 6/10
+Clinic visited: Centre de Santé Schmelz
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Helpful with my cholesterol, Dr. Nathalie Martins still gave dietary advice that was a little generic. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Nathalie Martins, Cardiology, Dudelange
+Rating: 8/10
+Clinic visited: Centre de Santé Schmelz
+Description: My stress test was supervised carefully, and Dr. Nathalie Martins reviewed the results in the same visit with a plan for my cholesterol. I asked about the cost before the visit and received an honest estimate that matched the final bill. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Nathalie Martins, Cardiology, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: Great care in the visit itself, but the billing for the tests at Centre de Santé Schmelz was confusing. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Nathalie Martins, Cardiology, Dudelange
+Rating: 7/10
+Clinic visited: Centre de Santé Schmelz
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Nathalie Martins, Cardiology, Dudelange: 6.22/10 from 9 reviews

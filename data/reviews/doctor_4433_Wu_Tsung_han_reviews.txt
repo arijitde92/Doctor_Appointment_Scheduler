@@ -1,0 +1,49 @@
+Doctor: Dr. Wu Tsung-han
+Doctor ID: 4433
+Specialization: General
+Gender: Male
+Years of experience: 2
+City: Taipei, Taiwan
+Clinics: Zhongshan Kangle Medical Clinic (clinic ID 571)
+
+Review 1 for Dr. Wu Tsung-han, General, Taipei
+Rating: 8/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 2 for Dr. Wu Tsung-han, General, Taipei
+Rating: 8/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: Everything was explained in plain English by Dr. Wu Tsung-han, and nothing was left to guess. My annual check-up with Dr. Wu Tsung-han took forty minutes, with every screening explained and nothing rushed.
+
+Review 3 for Dr. Wu Tsung-han, General, Taipei
+Rating: 10/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: By the time I left the room, Dr. Wu Tsung-han had sorted the sick note, referral letter and prescription refill.
+
+Review 4 for Dr. Wu Tsung-han, General, Taipei
+Rating: 8/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: Managing my type 2 diabetes with Dr. Wu Tsung-han has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 5 for Dr. Wu Tsung-han, General, Taipei
+Rating: 8/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 6 for Dr. Wu Tsung-han, General, Taipei
+Rating: 8/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 7 for Dr. Wu Tsung-han, General, Taipei
+Rating: 7/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 8 for Dr. Wu Tsung-han, General, Taipei
+Rating: 8/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. I always hear back within a day when I leave a question with the nurse at Zhongshan Kangle Medical Clinic, and Dr. Wu Tsung-han follows up on lab results personally. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Wu Tsung-han, General, Taipei: 8.12/10 from 8 reviews

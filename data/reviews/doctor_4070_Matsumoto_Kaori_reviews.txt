@@ -1,0 +1,69 @@
+Doctor: Dr. Matsumoto Kaori
+Doctor ID: 4070
+Specialization: Neurology
+Gender: Female
+Years of experience: 17
+City: Tokyo, Japan
+Clinics: Sakura Family Clinic (clinic ID 525); Shinjuku Midori Medical Clinic (clinic ID 526)
+
+Review 1 for Dr. Matsumoto Kaori, Neurology, Tokyo
+Rating: 10/10
+Clinic visited: Sakura Family Clinic
+Description: The neurological exam by Dr. Matsumoto Kaori was thorough, with every reflex test and gait check explained as it happened.
+
+Review 2 for Dr. Matsumoto Kaori, Neurology, Tokyo
+Rating: 8/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: Living with multiple sclerosis feels less frightening because Dr. Matsumoto Kaori explains and discusses every change in my plan. Dr. Matsumoto Kaori looked me in the eye, listened to the whole story and only then started typing.
+
+Review 3 for Dr. Matsumoto Kaori, Neurology, Tokyo
+Rating: 7/10
+Clinic visited: Sakura Family Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 4 for Dr. Matsumoto Kaori, Neurology, Tokyo
+Rating: 8/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: The EEG appointment ran on time, and Dr. Matsumoto Kaori reviewed the tracing with me the same week.
+
+Review 5 for Dr. Matsumoto Kaori, Neurology, Tokyo
+Rating: 10/10
+Clinic visited: Sakura Family Clinic
+Description: I came away understanding my condition better than I have in years of previous appointments. I felt listened to about my numb hands, and the nerve conduction test was done promptly at Sakura Family Clinic.
+
+Review 6 for Dr. Matsumoto Kaori, Neurology, Tokyo
+Rating: 9/10
+Clinic visited: Sakura Family Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I always leave Dr. Matsumoto Kaori's office with a short written summary of changes, which helps my family keep up.
+
+Review 7 for Dr. Matsumoto Kaori, Neurology, Tokyo
+Rating: 7/10
+Clinic visited: Sakura Family Clinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 8 for Dr. Matsumoto Kaori, Neurology, Tokyo
+Rating: 9/10
+Clinic visited: Sakura Family Clinic
+Description: Dr. Matsumoto Kaori took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. I was called in within five minutes of my appointment time at Sakura Family Clinic, which is rare and much appreciated.
+
+Review 9 for Dr. Matsumoto Kaori, Neurology, Tokyo
+Rating: 7/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: Dr. Matsumoto Kaori was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 10 for Dr. Matsumoto Kaori, Neurology, Tokyo
+Rating: 10/10
+Clinic visited: Sakura Family Clinic
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I feel lucky to have found this practice in my area.
+
+Review 11 for Dr. Matsumoto Kaori, Neurology, Tokyo
+Rating: 9/10
+Clinic visited: Sakura Family Clinic
+Description: The memory assessment for my father at Sakura Family Clinic was gentle and respectful, and the family received a clear written summary. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 12 for Dr. Matsumoto Kaori, Neurology, Tokyo
+Rating: 10/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: Everything was explained in plain English by Dr. Matsumoto Kaori, and nothing was left to guess.
+
+Overall rating for Dr. Matsumoto Kaori, Neurology, Tokyo: 8.67/10 from 12 reviews

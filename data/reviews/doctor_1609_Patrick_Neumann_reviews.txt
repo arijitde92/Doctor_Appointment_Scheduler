@@ -1,0 +1,69 @@
+Doctor: Dr. Patrick Neumann
+Doctor ID: 1609
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 1
+City: Hamburg, Germany
+Clinics: Praxiszentrum Bergedorfer Tor (clinic ID 209)
+
+Review 1 for Dr. Patrick Neumann, Pediatrics, Hamburg
+Rating: 7/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Dr. Patrick Neumann is thorough with exams, but the after-hours phone line at Praxiszentrum Bergedorfer Tor is hard to reach. Quick appointment and a fair price in Hamburg, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Patrick Neumann, Pediatrics, Hamburg
+Rating: 6/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Caring and gentle with my child, Dr. Patrick Neumann nonetheless ran forty minutes behind schedule at most appointments. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Patrick Neumann, Pediatrics, Hamburg
+Rating: 5/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 4 for Dr. Patrick Neumann, Pediatrics, Hamburg
+Rating: 7/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 5 for Dr. Patrick Neumann, Pediatrics, Hamburg
+Rating: 8/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Kind to anxious parents, Dr. Patrick Neumann never showed a hint of impatience when I felt silly asking about a rash. Sensitive questions were handled by Dr. Patrick Neumann with discretion and without a hint of judgment.
+
+Review 6 for Dr. Patrick Neumann, Pediatrics, Hamburg
+Rating: 5/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Booking was easy online, but the confirmation email contained the wrong address for Praxiszentrum Bergedorfer Tor. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 7 for Dr. Patrick Neumann, Pediatrics, Hamburg
+Rating: 5/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Dr. Patrick Neumann was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Patrick Neumann, Pediatrics, Hamburg
+Rating: 4/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: The staff at Praxiszentrum Bergedorfer Tor were curt on the phone, and it took four attempts to book a simple follow-up. The referral to a specialist never arrived, and I had to chase it myself for weeks. I left disappointed and will take my business to another clinic.
+
+Review 9 for Dr. Patrick Neumann, Pediatrics, Hamburg
+Rating: 6/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. The doctor was kind, though the clinic's evening hours are very limited for working people. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Patrick Neumann, Pediatrics, Hamburg
+Rating: 6/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 11 for Dr. Patrick Neumann, Pediatrics, Hamburg
+Rating: 5/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 12 for Dr. Patrick Neumann, Pediatrics, Hamburg
+Rating: 9/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Our newborn check-ups with Dr. Patrick Neumann were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Overall rating for Dr. Patrick Neumann, Pediatrics, Hamburg: 6.08/10 from 12 reviews

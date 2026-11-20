@@ -1,0 +1,64 @@
+Doctor: Dr. Hakim bin Jaafar
+Doctor ID: 4620
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 13
+City: George Town, Malaysia
+Clinics: Pusat Perubatan Cahaya (clinic ID 596); Klinik Kasih Sayang (clinic ID 597)
+
+Review 1 for Dr. Hakim bin Jaafar, Orthopedic, George Town
+Rating: 7/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: Booking was easy online, but the confirmation email contained the wrong address for Pusat Perubatan Cahaya. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 2 for Dr. Hakim bin Jaafar, Orthopedic, George Town
+Rating: 9/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: I came away understanding my condition better than I have in years of previous appointments. The surgeon at Pusat Perubatan Cahaya spent time on my goals as a runner and shaped the treatment around them. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Hakim bin Jaafar, Orthopedic, George Town
+Rating: 9/10
+Clinic visited: Klinik Kasih Sayang
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. At my visit, Dr. Hakim bin Jaafar took notes on my medication list, checked for interactions and explained the changes simply. Five stars from me, and I would book again tomorrow.
+
+Review 4 for Dr. Hakim bin Jaafar, Orthopedic, George Town
+Rating: 9/10
+Clinic visited: Klinik Kasih Sayang
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Getting around George Town on crutches was hard, but the accessible entrance and short waiting time at Klinik Kasih Sayang helped a lot. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Hakim bin Jaafar, Orthopedic, George Town
+Rating: 7/10
+Clinic visited: Klinik Kasih Sayang
+Description: Dr. Hakim bin Jaafar was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. Hakim bin Jaafar explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 6 for Dr. Hakim bin Jaafar, Orthopedic, George Town
+Rating: 5/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: Very skilled with my knee, but Dr. Hakim bin Jaafar's clinic runs behind and the wait was over an hour. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Hakim bin Jaafar, Orthopedic, George Town
+Rating: 7/10
+Clinic visited: Klinik Kasih Sayang
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 8 for Dr. Hakim bin Jaafar, Orthopedic, George Town
+Rating: 6/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Clear explanations, but the follow-up call took a week longer than I had been told. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Hakim bin Jaafar, Orthopedic, George Town
+Rating: 8/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule.
+
+Review 10 for Dr. Hakim bin Jaafar, Orthopedic, George Town
+Rating: 7/10
+Clinic visited: Klinik Kasih Sayang
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Quick appointment and a fair price in George Town, but the staff seemed overwhelmed and a bit curt on the phone. I would come back, but only if the waiting time improves.
+
+Review 11 for Dr. Hakim bin Jaafar, Orthopedic, George Town
+Rating: 8/10
+Clinic visited: Klinik Kasih Sayang
+Description: Plain, honest advice from Dr. Hakim bin Jaafar for my arthritis, including which exercises to avoid and which would help.
+
+Overall rating for Dr. Hakim bin Jaafar, Orthopedic, George Town: 7.45/10 from 11 reviews

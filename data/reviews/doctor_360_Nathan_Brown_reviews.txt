@@ -1,0 +1,54 @@
+Doctor: Dr. Nathan Brown
+Doctor ID: 360
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 28
+City: Vancouver, Canada
+Clinics: Georgia Street Medical Clinic (clinic ID 50); Broadway Family Practice (clinic ID 51); Yaletown Health Centre (clinic ID 52)
+
+Review 1 for Dr. Nathan Brown, Pulmonology, Vancouver
+Rating: 2/10
+Clinic visited: Georgia Street Medical Clinic
+Description: The breathing test appointment was cancelled the day before, and the next slot was six weeks away. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 2 for Dr. Nathan Brown, Pulmonology, Vancouver
+Rating: 4/10
+Clinic visited: Yaletown Health Centre
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. I called twice about worsening symptoms and no one returned my message until the following week.
+
+Review 3 for Dr. Nathan Brown, Pulmonology, Vancouver
+Rating: 2/10
+Clinic visited: Georgia Street Medical Clinic
+Description: Dr. Nathan Brown rushed through my scan results and I left the room unsure whether I needed treatment.
+
+Review 4 for Dr. Nathan Brown, Pulmonology, Vancouver
+Rating: 3/10
+Clinic visited: Yaletown Health Centre
+Description: I was told to just keep using my inhaler and nobody checked whether I was using it properly.
+
+Review 5 for Dr. Nathan Brown, Pulmonology, Vancouver
+Rating: 6/10
+Clinic visited: Yaletown Health Centre
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 6 for Dr. Nathan Brown, Pulmonology, Vancouver
+Rating: 4/10
+Clinic visited: Georgia Street Medical Clinic
+Description: The bill for my pulmonary function tests was far higher than the estimate I had been given. The prescription from Dr. Nathan Brown was not the one we discussed, and I only noticed when I got home. I left disappointed and will take my business to another clinic.
+
+Review 7 for Dr. Nathan Brown, Pulmonology, Vancouver
+Rating: 3/10
+Clinic visited: Georgia Street Medical Clinic
+Description: My persistent cough was labelled as allergies by Dr. Nathan Brown without any chest examination or breathing test. My referral was sent to the wrong specialist and I lost a month before the mistake was found. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 8 for Dr. Nathan Brown, Pulmonology, Vancouver
+Rating: 4/10
+Clinic visited: Broadway Family Practice
+Description: The visit felt rushed, and Dr. Nathan Brown was already halfway out the door when I started to describe my second symptom.
+
+Review 9 for Dr. Nathan Brown, Pulmonology, Vancouver
+Rating: 4/10
+Clinic visited: Broadway Family Practice
+Description: The staff at Broadway Family Practice were curt on the phone, and it took four attempts to book a simple follow-up.
+
+Overall rating for Dr. Nathan Brown, Pulmonology, Vancouver: 3.56/10 from 9 reviews

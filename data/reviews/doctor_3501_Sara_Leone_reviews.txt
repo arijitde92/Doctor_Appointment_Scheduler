@@ -1,0 +1,54 @@
+Doctor: Dr. Sara Leone
+Doctor ID: 3501
+Specialization: Pathology
+Gender: Female
+Years of experience: 20
+City: Rome, Italy
+Clinics: Poliambulatorio Trastevere (clinic ID 453)
+
+Review 1 for Dr. Sara Leone, Pathology, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Trastevere
+Description: The waiting room at Poliambulatorio Trastevere was clean, quiet and comfortable, with enough seating and water available.
+
+Review 2 for Dr. Sara Leone, Pathology, Rome
+Rating: 7/10
+Clinic visited: Poliambulatorio Trastevere
+Description: The blood draw was painless, but the waiting area at Poliambulatorio Trastevere was crowded in the early morning. Good bedside manner from Dr. Sara Leone, but the parking near Poliambulatorio Trastevere is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Sara Leone, Pathology, Rome
+Rating: 6/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Helpful in clarifying a borderline result, though Dr. Sara Leone gave little guidance about whether to repeat it.
+
+Review 4 for Dr. Sara Leone, Pathology, Rome
+Rating: 7/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 5 for Dr. Sara Leone, Pathology, Rome
+Rating: 9/10
+Clinic visited: Poliambulatorio Trastevere
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Dr. Sara Leone used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 6 for Dr. Sara Leone, Pathology, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Dr. Sara Leone looked me in the eye, listened to the whole story and only then started typing. I was nervous about the biopsy result, and the call from Dr. Sara Leone was gentle, honest and unhurried.
+
+Review 7 for Dr. Sara Leone, Pathology, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Trastevere
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 8 for Dr. Sara Leone, Pathology, Rome
+Rating: 9/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 9 for Dr. Sara Leone, Pathology, Rome
+Rating: 9/10
+Clinic visited: Poliambulatorio Trastevere
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Overall rating for Dr. Sara Leone, Pathology, Rome: 7.89/10 from 9 reviews

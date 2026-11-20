@@ -1,0 +1,49 @@
+Doctor: Dr. Bruno Fournier
+Doctor ID: 1223
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 1
+City: Lyon, France
+Clinics: Polyclinique de Gerland (clinic ID 159)
+
+Review 1 for Dr. Bruno Fournier, Pulmonology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 2 for Dr. Bruno Fournier, Pulmonology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Bruno Fournier, Pulmonology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Quitting smoking felt possible for the first time because the advice from Dr. Bruno Fournier was practical and never preachy.
+
+Review 4 for Dr. Bruno Fournier, Pulmonology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Bruno Fournier, Pulmonology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: Dr. Bruno Fournier explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 6 for Dr. Bruno Fournier, Pulmonology, Lyon
+Rating: 9/10
+Clinic visited: Polyclinique de Gerland
+Description: At Polyclinique de Gerland, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. Getting to Polyclinique de Gerland by public transport in Lyon was easy, and there is a step-free entrance for wheelchairs.
+
+Review 7 for Dr. Bruno Fournier, Pulmonology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: He called personally with my scan results and walked me through what the findings did and did not mean.
+
+Review 8 for Dr. Bruno Fournier, Pulmonology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: Clear, honest answers from Dr. Bruno Fournier about my shortness of breath, and no unnecessary tests were ordered.
+
+Overall rating for Dr. Bruno Fournier, Pulmonology, Lyon: 9.88/10 from 8 reviews

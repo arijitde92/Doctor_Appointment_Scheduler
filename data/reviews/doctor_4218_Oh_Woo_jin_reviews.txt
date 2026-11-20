@@ -1,0 +1,54 @@
+Doctor: Dr. Oh Woo-jin
+Doctor ID: 4218
+Specialization: Psychology
+Gender: Male
+Years of experience: 12
+City: Daegu, South Korea
+Clinics: Seongseo Haenim Polyclinic (clinic ID 543); Chilgok Sori Medical Clinic (clinic ID 544)
+
+Review 1 for Dr. Oh Woo-jin, Psychology, Daegu
+Rating: 5/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Oh Woo-jin, Psychology, Daegu
+Rating: 6/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: The treatment plan from Dr. Oh Woo-jin made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Oh Woo-jin, Psychology, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: I never felt judged by Dr. Oh Woo-jin when talking about my burnout, and the sessions gave me language for things I could not explain before. The practice in Daegu is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Oh Woo-jin, Psychology, Daegu
+Rating: 8/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: He has a calm way of asking the difficult questions that makes it feel safe to answer honestly. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 5 for Dr. Oh Woo-jin, Psychology, Daegu
+Rating: 8/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Review 6 for Dr. Oh Woo-jin, Psychology, Daegu
+Rating: 8/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: I was called in within five minutes of my appointment time at Chilgok Sori Medical Clinic, which is rare and much appreciated.
+
+Review 7 for Dr. Oh Woo-jin, Psychology, Daegu
+Rating: 9/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Oh Woo-jin, Psychology, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown.
+
+Review 9 for Dr. Oh Woo-jin, Psychology, Daegu
+Rating: 10/10
+Clinic visited: Chilgok Sori Medical Clinic
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Oh Woo-jin designed around my actual job.
+
+Overall rating for Dr. Oh Woo-jin, Psychology, Daegu: 8.00/10 from 9 reviews

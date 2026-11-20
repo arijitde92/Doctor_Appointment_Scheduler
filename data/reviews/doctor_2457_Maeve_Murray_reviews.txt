@@ -1,0 +1,69 @@
+Doctor: Dr. Maeve Murray
+Doctor ID: 2457
+Specialization: Cardiology
+Gender: Female
+Years of experience: 3
+City: Dublin, Ireland
+Clinics: Ranelagh Family Health Practice (clinic ID 321); Drumcondra Polyclinic (clinic ID 322); Rathmines Wellbeing Clinic (clinic ID 323)
+
+Review 1 for Dr. Maeve Murray, Cardiology, Dublin
+Rating: 6/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Maeve Murray, Cardiology, Dublin
+Rating: 4/10
+Clinic visited: Drumcondra Polyclinic
+Description: Dr. Maeve Murray spent most of the appointment looking at the screen and gave very brief answers to my questions. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 3 for Dr. Maeve Murray, Cardiology, Dublin
+Rating: 8/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: I appreciated that she offered more than one option and let me choose what suited my life. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Maeve Murray, Cardiology, Dublin
+Rating: 8/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. Dr. Maeve Murray drew a quick sketch to explain what was going on, which helped me remember it afterwards. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Maeve Murray, Cardiology, Dublin
+Rating: 5/10
+Clinic visited: Ranelagh Family Health Practice
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Maeve Murray, Cardiology, Dublin
+Rating: 5/10
+Clinic visited: Ranelagh Family Health Practice
+Description: Helpful with my cholesterol, Dr. Maeve Murray still gave dietary advice that was a little generic.
+
+Review 7 for Dr. Maeve Murray, Cardiology, Dublin
+Rating: 7/10
+Clinic visited: Drumcondra Polyclinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Dr. Maeve Murray adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 8 for Dr. Maeve Murray, Cardiology, Dublin
+Rating: 7/10
+Clinic visited: Ranelagh Family Health Practice
+Description: Great care in the visit itself, but the billing for the tests at Ranelagh Family Health Practice was confusing.
+
+Review 9 for Dr. Maeve Murray, Cardiology, Dublin
+Rating: 4/10
+Clinic visited: Drumcondra Polyclinic
+Description: I reported chest tightness and was sent home with a leaflet and no ECG.
+
+Review 10 for Dr. Maeve Murray, Cardiology, Dublin
+Rating: 8/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Clear and calm advice at Rathmines Wellbeing Clinic about exercise after my stent, including a gradual written schedule.
+
+Review 11 for Dr. Maeve Murray, Cardiology, Dublin
+Rating: 6/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 12 for Dr. Maeve Murray, Cardiology, Dublin
+Rating: 7/10
+Clinic visited: Ranelagh Family Health Practice
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Maeve Murray, Cardiology, Dublin: 6.25/10 from 12 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Tone Andersen
+Doctor ID: 2104
+Specialization: Pathology
+Gender: Female
+Years of experience: 2
+City: Trondheim, Norway
+Clinics: Legesenteret Klæbu Vei (clinic ID 274)
+
+Review 1 for Dr. Tone Andersen, Pathology, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 2 for Dr. Tone Andersen, Pathology, Trondheim
+Rating: 10/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 3 for Dr. Tone Andersen, Pathology, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Helpful in clarifying a borderline result, though Dr. Tone Andersen gave little guidance about whether to repeat it.
+
+Review 4 for Dr. Tone Andersen, Pathology, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Dr. Tone Andersen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 5 for Dr. Tone Andersen, Pathology, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Dr. Tone Andersen answered my questions kindly, though the call back took three days. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Tone Andersen, Pathology, Trondheim
+Rating: 9/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. Prescriptions from Dr. Tone Andersen were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 7 for Dr. Tone Andersen, Pathology, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The blood draw was painless, but the waiting area at Legesenteret Klæbu Vei was crowded in the early morning.
+
+Review 8 for Dr. Tone Andersen, Pathology, Trondheim
+Rating: 6/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Tone Andersen, Pathology, Trondheim: 7.50/10 from 8 reviews

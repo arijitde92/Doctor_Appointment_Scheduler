@@ -1,0 +1,49 @@
+Doctor: Dr. Sara Bruno
+Doctor ID: 3399
+Specialization: Radiology
+Gender: Female
+Years of experience: 12
+City: Milan, Italy
+Clinics: Centro Medico Porta Venezia (clinic ID 441)
+
+Review 1 for Dr. Sara Bruno, Radiology, Milan
+Rating: 3/10
+Clinic visited: Centro Medico Porta Venezia
+Description: My questions were answered by Dr. Sara Bruno with short, vague replies, and I left without a clear plan. My images were not sent to my specialist as promised, so my consultation had to be postponed.
+
+Review 2 for Dr. Sara Bruno, Radiology, Milan
+Rating: 5/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Dr. Sara Bruno answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 3 for Dr. Sara Bruno, Radiology, Milan
+Rating: 4/10
+Clinic visited: Centro Medico Porta Venezia
+Description: The staff seemed rushed and impatient with an elderly patient who needed help changing. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 4 for Dr. Sara Bruno, Radiology, Milan
+Rating: 8/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Sara Bruno, Radiology, Milan
+Rating: 7/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Sara Bruno, Radiology, Milan
+Rating: 4/10
+Clinic visited: Centro Medico Porta Venezia
+Description: The technologist gave almost no instructions before my MRI, and I had to repeat part of the scan because I moved.
+
+Review 7 for Dr. Sara Bruno, Radiology, Milan
+Rating: 6/10
+Clinic visited: Centro Medico Porta Venezia
+Description: The report from Dr. Sara Bruno was thorough, though full of technical terms that needed my regular doctor to translate. I liked the advice I got from Dr. Sara Bruno, but I would have liked more time to ask follow-up questions before the visit ended. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Sara Bruno, Radiology, Milan
+Rating: 6/10
+Clinic visited: Centro Medico Porta Venezia
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Sara Bruno, Radiology, Milan: 5.38/10 from 8 reviews

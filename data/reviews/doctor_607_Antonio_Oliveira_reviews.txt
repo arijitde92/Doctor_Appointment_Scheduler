@@ -1,0 +1,59 @@
+Doctor: Dr. Antônio Oliveira
+Doctor ID: 607
+Specialization: Pathology
+Gender: Male
+Years of experience: 28
+City: Curitiba, Brazil
+Clinics: Centro Médico Rua XV (clinic ID 81)
+
+Review 1 for Dr. Antônio Oliveira, Pathology, Curitiba
+Rating: 6/10
+Clinic visited: Centro Médico Rua XV
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Good bedside manner from Dr. Antônio Oliveira, but the parking near Centro Médico Rua XV is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Antônio Oliveira, Pathology, Curitiba
+Rating: 6/10
+Clinic visited: Centro Médico Rua XV
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Antônio Oliveira, Pathology, Curitiba
+Rating: 7/10
+Clinic visited: Centro Médico Rua XV
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Antônio Oliveira, Pathology, Curitiba
+Rating: 7/10
+Clinic visited: Centro Médico Rua XV
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Helpful in clarifying a borderline result, though Dr. Antônio Oliveira gave little guidance about whether to repeat it. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Antônio Oliveira, Pathology, Curitiba
+Rating: 5/10
+Clinic visited: Centro Médico Rua XV
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 6 for Dr. Antônio Oliveira, Pathology, Curitiba
+Rating: 8/10
+Clinic visited: Centro Médico Rua XV
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. Prescriptions from Dr. Antônio Oliveira were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 7 for Dr. Antônio Oliveira, Pathology, Curitiba
+Rating: 7/10
+Clinic visited: Centro Médico Rua XV
+Description: The blood draw was painless, but the waiting area at Centro Médico Rua XV was crowded in the early morning.
+
+Review 8 for Dr. Antônio Oliveira, Pathology, Curitiba
+Rating: 6/10
+Clinic visited: Centro Médico Rua XV
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Antônio Oliveira, Pathology, Curitiba
+Rating: 8/10
+Clinic visited: Centro Médico Rua XV
+Description: Dr. Antônio Oliveira took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 10 for Dr. Antônio Oliveira, Pathology, Curitiba
+Rating: 5/10
+Clinic visited: Centro Médico Rua XV
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Overall rating for Dr. Antônio Oliveira, Pathology, Curitiba: 6.50/10 from 10 reviews

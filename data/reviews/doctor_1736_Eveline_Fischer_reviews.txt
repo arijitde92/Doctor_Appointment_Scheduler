@@ -1,0 +1,54 @@
+Doctor: Dr. Eveline Fischer
+Doctor ID: 1736
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 8
+City: Geneva, Switzerland
+Clinics: Centre Médical du Lac Bleu (clinic ID 226)
+
+Review 1 for Dr. Eveline Fischer, Psychiatry, Geneva
+Rating: 6/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 2 for Dr. Eveline Fischer, Psychiatry, Geneva
+Rating: 8/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 3 for Dr. Eveline Fischer, Psychiatry, Geneva
+Rating: 7/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 4 for Dr. Eveline Fischer, Psychiatry, Geneva
+Rating: 5/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Dr. Eveline Fischer was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Eveline Fischer, Psychiatry, Geneva
+Rating: 6/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 6 for Dr. Eveline Fischer, Psychiatry, Geneva
+Rating: 8/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 7 for Dr. Eveline Fischer, Psychiatry, Geneva
+Rating: 5/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 8 for Dr. Eveline Fischer, Psychiatry, Geneva
+Rating: 6/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Dr. Eveline Fischer is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 9 for Dr. Eveline Fischer, Psychiatry, Geneva
+Rating: 7/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Eveline Fischer, Psychiatry, Geneva: 6.44/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Kristine Domingo
+Doctor ID: 4911
+Specialization: General
+Gender: Female
+Years of experience: 8
+City: Quezon City, Philippines
+Clinics: Sampaguita Medical Centre (clinic ID 634)
+
+Review 1 for Dr. Kristine Domingo, General, Quezon City
+Rating: 7/10
+Clinic visited: Sampaguita Medical Centre
+Description: Dr. Kristine Domingo was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Kristine Domingo, General, Quezon City
+Rating: 5/10
+Clinic visited: Sampaguita Medical Centre
+Description: Referrals from Dr. Kristine Domingo are handled well, but getting test results back took longer than I was told to expect.
+
+Review 3 for Dr. Kristine Domingo, General, Quezon City
+Rating: 7/10
+Clinic visited: Sampaguita Medical Centre
+Description: Quick appointment and a fair price in Quezon City, but the staff seemed overwhelmed and a bit curt on the phone. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 4 for Dr. Kristine Domingo, General, Quezon City
+Rating: 7/10
+Clinic visited: Sampaguita Medical Centre
+Description: Dr. Kristine Domingo is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 5 for Dr. Kristine Domingo, General, Quezon City
+Rating: 8/10
+Clinic visited: Sampaguita Medical Centre
+Description: I went in with months of tiredness, and Dr. Kristine Domingo ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 6 for Dr. Kristine Domingo, General, Quezon City
+Rating: 8/10
+Clinic visited: Sampaguita Medical Centre
+Description: Vaccination advice from Dr. Kristine Domingo for my travel plans was thorough and specific to the countries I was visiting. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Kristine Domingo, General, Quezon City
+Rating: 5/10
+Clinic visited: Sampaguita Medical Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Kristine Domingo, General, Quezon City
+Rating: 9/10
+Clinic visited: Sampaguita Medical Centre
+Description: Managing my type 2 diabetes with Dr. Kristine Domingo has been steady and practical, with quarterly blood sugar reviews and no lectures. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Overall rating for Dr. Kristine Domingo, General, Quezon City: 7.00/10 from 8 reviews

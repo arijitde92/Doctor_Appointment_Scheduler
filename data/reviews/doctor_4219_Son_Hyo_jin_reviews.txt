@@ -1,0 +1,69 @@
+Doctor: Dr. Son Hyo-jin
+Doctor ID: 4219
+Specialization: General
+Gender: Female
+Years of experience: 1
+City: Daegu, South Korea
+Clinics: Seongseo Haenim Polyclinic (clinic ID 543)
+
+Review 1 for Dr. Son Hyo-jin, General, Daegu
+Rating: 8/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Son Hyo-jin, General, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Dr. Son Hyo-jin spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. Dr. Son Hyo-jin drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 3 for Dr. Son Hyo-jin, General, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Paperwork at Seongseo Haenim Polyclinic was kept to a minimum, and the staff helped me complete the insurance form. I always hear back within a day when I leave a question with the nurse at Seongseo Haenim Polyclinic, and Dr. Son Hyo-jin follows up on lab results personally.
+
+Review 4 for Dr. Son Hyo-jin, General, Daegu
+Rating: 8/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: As a new patient in Daegu, I felt welcomed at Seongseo Haenim Polyclinic, and my whole history was reviewed in one relaxed visit.
+
+Review 5 for Dr. Son Hyo-jin, General, Daegu
+Rating: 10/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 6 for Dr. Son Hyo-jin, General, Daegu
+Rating: 8/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Getting to Seongseo Haenim Polyclinic from across Daegu was easy, and the same-week appointment saved me an urgent care trip. The nurse was friendly and efficient, and the whole visit with Dr. Son Hyo-jin felt well organized from start to finish.
+
+Review 7 for Dr. Son Hyo-jin, General, Daegu
+Rating: 10/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Dr. Son Hyo-jin double-checked my allergy list before prescribing anything, and that careful habit earned my trust. By the time I left the room, Dr. Son Hyo-jin had sorted the sick note, referral letter and prescription refill.
+
+Review 8 for Dr. Son Hyo-jin, General, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Son Hyo-jin, General, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. Sensitive questions were handled by Dr. Son Hyo-jin with discretion and without a hint of judgment.
+
+Review 10 for Dr. Son Hyo-jin, General, Daegu
+Rating: 10/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I would happily recommend this doctor to friends and family.
+
+Review 11 for Dr. Son Hyo-jin, General, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 12 for Dr. Son Hyo-jin, General, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I went in with months of tiredness, and Dr. Son Hyo-jin ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Overall rating for Dr. Son Hyo-jin, General, Daegu: 8.83/10 from 12 reviews

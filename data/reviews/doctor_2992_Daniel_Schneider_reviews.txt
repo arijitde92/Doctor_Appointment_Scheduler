@@ -1,0 +1,49 @@
+Doctor: Dr. Daniel Schneider
+Doctor ID: 2992
+Specialization: General
+Gender: Male
+Years of experience: 18
+City: Vienna, Austria
+Clinics: Ärztezentrum Mariahilf Plus (clinic ID 390); Gesundheitszentrum Favoriten Süd (clinic ID 392)
+
+Review 1 for Dr. Daniel Schneider, General, Vienna
+Rating: 7/10
+Clinic visited: Ärztezentrum Mariahilf Plus
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. Good bedside manner from Dr. Daniel Schneider, but the parking near Ärztezentrum Mariahilf Plus is limited and I had to circle for fifteen minutes. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Daniel Schneider, General, Vienna
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. Even the billing team was helpful, and a mistake on my statement was corrected within a day. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Daniel Schneider, General, Vienna
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: I went in with months of tiredness, and Dr. Daniel Schneider ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 4 for Dr. Daniel Schneider, General, Vienna
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 5 for Dr. Daniel Schneider, General, Vienna
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: Vaccination advice from Dr. Daniel Schneider for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 6 for Dr. Daniel Schneider, General, Vienna
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: I always hear back within a day when I leave a question with the nurse at Gesundheitszentrum Favoriten Süd, and Dr. Daniel Schneider follows up on lab results personally.
+
+Review 7 for Dr. Daniel Schneider, General, Vienna
+Rating: 10/10
+Clinic visited: Ärztezentrum Mariahilf Plus
+Description: I appreciated that he offered more than one option and let me choose what suited my life. By the time I left the room, Dr. Daniel Schneider had sorted the sick note, referral letter and prescription refill.
+
+Review 8 for Dr. Daniel Schneider, General, Vienna
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: At my visit, Dr. Daniel Schneider took notes on my medication list, checked for interactions and explained the changes simply. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Daniel Schneider, General, Vienna: 8.62/10 from 8 reviews

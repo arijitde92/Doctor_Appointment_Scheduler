@@ -1,0 +1,64 @@
+Doctor: Dr. Rustam Orlov
+Doctor ID: 3716
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 22
+City: Moscow, Russia
+Clinics: Tverskoy Medical Centre (clinic ID 480); Leninsky Family Polyclinic (clinic ID 482)
+
+Review 1 for Dr. Rustam Orlov, Pulmonology, Moscow
+Rating: 5/10
+Clinic visited: Tverskoy Medical Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Rustam Orlov, Pulmonology, Moscow
+Rating: 8/10
+Clinic visited: Leninsky Family Polyclinic
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 3 for Dr. Rustam Orlov, Pulmonology, Moscow
+Rating: 7/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Helpful and honest about my prognosis, Dr. Rustam Orlov could still have given me more written material to take home.
+
+Review 4 for Dr. Rustam Orlov, Pulmonology, Moscow
+Rating: 9/10
+Clinic visited: Tverskoy Medical Centre
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Rustam Orlov, Pulmonology, Moscow
+Rating: 9/10
+Clinic visited: Leninsky Family Polyclinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 6 for Dr. Rustam Orlov, Pulmonology, Moscow
+Rating: 8/10
+Clinic visited: Tverskoy Medical Centre
+Description: At Tverskoy Medical Centre, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 7 for Dr. Rustam Orlov, Pulmonology, Moscow
+Rating: 10/10
+Clinic visited: Leninsky Family Polyclinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I always leave Dr. Rustam Orlov's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 8 for Dr. Rustam Orlov, Pulmonology, Moscow
+Rating: 8/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Rustam Orlov was practical and never preachy.
+
+Review 9 for Dr. Rustam Orlov, Pulmonology, Moscow
+Rating: 8/10
+Clinic visited: Tverskoy Medical Centre
+Description: Dr. Rustam Orlov explained my lung nodule follow-up schedule calmly, which took away weeks of worry. I was given a printed summary of the visit, which I shared with my family at home. Worth every minute of travel, and I would go again without a second thought.
+
+Review 10 for Dr. Rustam Orlov, Pulmonology, Moscow
+Rating: 9/10
+Clinic visited: Tverskoy Medical Centre
+Description: Dr. Rustam Orlov used a calm, steady voice that settled my nerves before a stressful procedure. The spirometry test was explained step by step, and Dr. Rustam Orlov put the results in context with a clear picture of my lung function. Highly recommended, and I have already told two colleagues about it.
+
+Review 11 for Dr. Rustam Orlov, Pulmonology, Moscow
+Rating: 10/10
+Clinic visited: Tverskoy Medical Centre
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. After years of poorly controlled asthma, Dr. Rustam Orlov reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Rustam Orlov, Pulmonology, Moscow: 8.27/10 from 11 reviews

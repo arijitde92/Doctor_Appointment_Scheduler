@@ -1,0 +1,54 @@
+Doctor: Dr. Ho Dat
+Doctor ID: 5015
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 20
+City: Hanoi, Vietnam
+Clinics: Phong Kham Da Khoa Thien Phuc (clinic ID 648)
+
+Review 1 for Dr. Ho Dat, Orthopedic, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Dr. Ho Dat explained my back scan using a model of the spine, and I finally understood my sciatica. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 2 for Dr. Ho Dat, Orthopedic, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule.
+
+Review 3 for Dr. Ho Dat, Orthopedic, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The receptionist at Phong Kham Da Khoa Thien Phuc remembered my name and had my forms ready, so check-in took less than a minute. After my knee replacement, Dr. Ho Dat explained the entire recovery timeline, and I was walking with a cane by week three. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Ho Dat, Orthopedic, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan.
+
+Review 5 for Dr. Ho Dat, Orthopedic, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Seen the same day at Phong Kham Da Khoa Thien Phuc after a bad ankle sprain, with an X-ray done and a brace fitted before I left. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 6 for Dr. Ho Dat, Orthopedic, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The X-ray was reviewed with me on screen, and he pointed out exactly where the cartilage had worn down.
+
+Review 7 for Dr. Ho Dat, Orthopedic, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: My torn rotator cuff was managed first by Dr. Ho Dat with physiotherapy, and surgery was only suggested when it truly was needed.
+
+Review 8 for Dr. Ho Dat, Orthopedic, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Plain, honest advice from Dr. Ho Dat for my arthritis, including which exercises to avoid and which would help.
+
+Review 9 for Dr. Ho Dat, Orthopedic, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Follow-up scans were compared with the earlier ones, and Dr. Ho Dat showed me how the bone had healed. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Overall rating for Dr. Ho Dat, Orthopedic, Hanoi: 8.89/10 from 9 reviews

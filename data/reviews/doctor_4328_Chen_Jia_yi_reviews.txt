@@ -1,0 +1,54 @@
+Doctor: Dr. Chen Jia-yi
+Doctor ID: 4328
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 18
+City: Kaohsiung, Taiwan
+Clinics: Gushan Haibin Health Clinic (clinic ID 557)
+
+Review 1 for Dr. Chen Jia-yi, Pulmonology, Kaohsiung
+Rating: 10/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: After years of poorly controlled asthma, Dr. Chen Jia-yi reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 2 for Dr. Chen Jia-yi, Pulmonology, Kaohsiung
+Rating: 10/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 3 for Dr. Chen Jia-yi, Pulmonology, Kaohsiung
+Rating: 10/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: At Gushan Haibin Health Clinic, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 4 for Dr. Chen Jia-yi, Pulmonology, Kaohsiung
+Rating: 8/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: She took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. I was called in within five minutes of my appointment time at Gushan Haibin Health Clinic, which is rare and much appreciated.
+
+Review 5 for Dr. Chen Jia-yi, Pulmonology, Kaohsiung
+Rating: 7/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: I liked the advice I got from Dr. Chen Jia-yi, but I would have liked more time to ask follow-up questions before the visit ended. Dr. Chen Jia-yi adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 6 for Dr. Chen Jia-yi, Pulmonology, Kaohsiung
+Rating: 8/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Dr. Chen Jia-yi explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 7 for Dr. Chen Jia-yi, Pulmonology, Kaohsiung
+Rating: 9/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Chen Jia-yi. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 8 for Dr. Chen Jia-yi, Pulmonology, Kaohsiung
+Rating: 9/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 9 for Dr. Chen Jia-yi, Pulmonology, Kaohsiung
+Rating: 7/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Helpful and honest about my prognosis, Dr. Chen Jia-yi could still have given me more written material to take home.
+
+Overall rating for Dr. Chen Jia-yi, Pulmonology, Kaohsiung: 8.67/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Hanneke van der Linden
+Doctor ID: 2559
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 20
+City: Amsterdam, Netherlands
+Clinics: Huisartsenpraktijk Jordaan (clinic ID 335); Medisch Centrum De Pijp (clinic ID 336); Gezondheidscentrum Beethoven (clinic ID 337)
+
+Review 1 for Dr. Hanneke van der Linden, Pulmonology, Amsterdam
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Hanneke van der Linden. The waiting room at Gezondheidscentrum Beethoven was clean, quiet and comfortable, with enough seating and water available.
+
+Review 2 for Dr. Hanneke van der Linden, Pulmonology, Amsterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: At Gezondheidscentrum Beethoven, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Hanneke van der Linden, Pulmonology, Amsterdam
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Booking online at Huisartsenpraktijk Jordaan was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 4 for Dr. Hanneke van der Linden, Pulmonology, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Clear, honest answers from Dr. Hanneke van der Linden about my shortness of breath, and no unnecessary tests were ordered.
+
+Review 5 for Dr. Hanneke van der Linden, Pulmonology, Amsterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Amsterdam.
+
+Review 6 for Dr. Hanneke van der Linden, Pulmonology, Amsterdam
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Beethoven
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 7 for Dr. Hanneke van der Linden, Pulmonology, Amsterdam
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Jordaan
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 8 for Dr. Hanneke van der Linden, Pulmonology, Amsterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum De Pijp
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I always leave Dr. Hanneke van der Linden's office with a written summary of my breathing test results and what changed since the last visit. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Hanneke van der Linden, Pulmonology, Amsterdam: 8.12/10 from 8 reviews

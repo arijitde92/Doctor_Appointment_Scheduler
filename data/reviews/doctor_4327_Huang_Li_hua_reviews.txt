@@ -1,0 +1,69 @@
+Doctor: Dr. Huang Li-hua
+Doctor ID: 4327
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 4
+City: Kaohsiung, Taiwan
+Clinics: Gushan Haibin Health Clinic (clinic ID 557); Fengshan Kangtai Polyclinic (clinic ID 558)
+
+Review 1 for Dr. Huang Li-hua, Orthopedic, Kaohsiung
+Rating: 7/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Dr. Huang Li-hua explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 2 for Dr. Huang Li-hua, Orthopedic, Kaohsiung
+Rating: 7/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Good bedside manner from Dr. Huang Li-hua, but the parking near Gushan Haibin Health Clinic is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Huang Li-hua, Orthopedic, Kaohsiung
+Rating: 9/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: After my knee replacement, Dr. Huang Li-hua explained the entire recovery timeline, and I was walking with a cane by week three. I felt like a person rather than a case number, and she asked about my life as well as my symptoms. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Huang Li-hua, Orthopedic, Kaohsiung
+Rating: 6/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Huang Li-hua, Orthopedic, Kaohsiung
+Rating: 6/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Huang Li-hua, Orthopedic, Kaohsiung
+Rating: 7/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Huang Li-hua, Orthopedic, Kaohsiung
+Rating: 8/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 8 for Dr. Huang Li-hua, Orthopedic, Kaohsiung
+Rating: 8/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 9 for Dr. Huang Li-hua, Orthopedic, Kaohsiung
+Rating: 8/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Plain, honest advice from Dr. Huang Li-hua for my arthritis, including which exercises to avoid and which would help. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 10 for Dr. Huang Li-hua, Orthopedic, Kaohsiung
+Rating: 8/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule. This is the first doctor I have trusted completely in years.
+
+Review 11 for Dr. Huang Li-hua, Orthopedic, Kaohsiung
+Rating: 8/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: Paperwork at Fengshan Kangtai Polyclinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 12 for Dr. Huang Li-hua, Orthopedic, Kaohsiung
+Rating: 7/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Huang Li-hua, Orthopedic, Kaohsiung: 7.42/10 from 12 reviews

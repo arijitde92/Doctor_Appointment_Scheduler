@@ -1,0 +1,49 @@
+Doctor: Dr. Robert Górski
+Doctor ID: 2767
+Specialization: Neurology
+Gender: Male
+Years of experience: 10
+City: Krakow, Poland
+Clinics: Poliklinika Stare Miasto Kraków (clinic ID 362)
+
+Review 1 for Dr. Robert Górski, Neurology, Krakow
+Rating: 7/10
+Clinic visited: Poliklinika Stare Miasto Kraków
+Description: Dr. Robert Górski was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Robert Górski, Neurology, Krakow
+Rating: 7/10
+Clinic visited: Poliklinika Stare Miasto Kraków
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Robert Górski, Neurology, Krakow
+Rating: 5/10
+Clinic visited: Poliklinika Stare Miasto Kraków
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 4 for Dr. Robert Górski, Neurology, Krakow
+Rating: 6/10
+Clinic visited: Poliklinika Stare Miasto Kraków
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 5 for Dr. Robert Górski, Neurology, Krakow
+Rating: 9/10
+Clinic visited: Poliklinika Stare Miasto Kraków
+Description: Prescriptions from Dr. Robert Górski were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Robert Górski, Neurology, Krakow
+Rating: 6/10
+Clinic visited: Poliklinika Stare Miasto Kraków
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Robert Górski, Neurology, Krakow
+Rating: 5/10
+Clinic visited: Poliklinika Stare Miasto Kraków
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Booking was easy online, but the confirmation email contained the wrong address for Poliklinika Stare Miasto Kraków.
+
+Review 8 for Dr. Robert Górski, Neurology, Krakow
+Rating: 5/10
+Clinic visited: Poliklinika Stare Miasto Kraków
+Description: I got what I needed, but the next available appointment was three weeks away. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Overall rating for Dr. Robert Górski, Neurology, Krakow: 6.25/10 from 8 reviews

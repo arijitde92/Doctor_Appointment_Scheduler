@@ -1,0 +1,59 @@
+Doctor: Dr. Rodrigo Mendoza
+Doctor ID: 4843
+Specialization: Pathology
+Gender: Male
+Years of experience: 23
+City: Manila, Philippines
+Clinics: Klinika Santa Teresita (clinic ID 625)
+
+Review 1 for Dr. Rodrigo Mendoza, Pathology, Manila
+Rating: 8/10
+Clinic visited: Klinika Santa Teresita
+Description: Dr. Rodrigo Mendoza took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 2 for Dr. Rodrigo Mendoza, Pathology, Manila
+Rating: 6/10
+Clinic visited: Klinika Santa Teresita
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Rodrigo Mendoza, Pathology, Manila
+Rating: 8/10
+Clinic visited: Klinika Santa Teresita
+Description: A same-day slot was found for me at Klinika Santa Teresita when I called with a worrying symptom.
+
+Review 4 for Dr. Rodrigo Mendoza, Pathology, Manila
+Rating: 7/10
+Clinic visited: Klinika Santa Teresita
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Dr. Rodrigo Mendoza was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Rodrigo Mendoza, Pathology, Manila
+Rating: 7/10
+Clinic visited: Klinika Santa Teresita
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Quick appointment and a fair price in Manila, but the staff seemed overwhelmed and a bit curt on the phone. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Rodrigo Mendoza, Pathology, Manila
+Rating: 10/10
+Clinic visited: Klinika Santa Teresita
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Rodrigo Mendoza, Pathology, Manila
+Rating: 8/10
+Clinic visited: Klinika Santa Teresita
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Rodrigo Mendoza, Pathology, Manila
+Rating: 9/10
+Clinic visited: Klinika Santa Teresita
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Manila. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 9 for Dr. Rodrigo Mendoza, Pathology, Manila
+Rating: 8/10
+Clinic visited: Klinika Santa Teresita
+Description: Fast turnaround at Klinika Santa Teresita on my thyroid panel, with results in my online account by the next morning. Sensitive questions were handled by Dr. Rodrigo Mendoza with discretion and without a hint of judgment.
+
+Review 10 for Dr. Rodrigo Mendoza, Pathology, Manila
+Rating: 9/10
+Clinic visited: Klinika Santa Teresita
+Description: The lab under Dr. Rodrigo Mendoza was clean, organized and never overbooked, and results arrived exactly when promised. The receptionist at Klinika Santa Teresita remembered my name and had my forms ready, so check-in took less than a minute. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Rodrigo Mendoza, Pathology, Manila: 8.00/10 from 10 reviews

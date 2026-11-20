@@ -1,0 +1,69 @@
+Doctor: Dr. Ali Roberts
+Doctor ID: 1106
+Specialization: Radiology
+Gender: Male
+Years of experience: 9
+City: London, UK
+Clinics: Covent Garden Family Health Practice (clinic ID 145)
+
+Review 1 for Dr. Ali Roberts, Radiology, London
+Rating: 7/10
+Clinic visited: Covent Garden Family Health Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 2 for Dr. Ali Roberts, Radiology, London
+Rating: 6/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Good bedside manner from Dr. Ali Roberts, but the parking near Covent Garden Family Health Practice is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Ali Roberts, Radiology, London
+Rating: 10/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Appointment reminders came by text and email, and rescheduling took two taps. My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Ali Roberts, Radiology, London
+Rating: 7/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Ali Roberts, Radiology, London
+Rating: 10/10
+Clinic visited: Covent Garden Family Health Practice
+Description: When my scan showed something that needed a second look, Dr. Ali Roberts arranged the follow-up the same day. Getting to Covent Garden Family Health Practice by public transport in London was easy, and there is a step-free entrance for wheelchairs.
+
+Review 6 for Dr. Ali Roberts, Radiology, London
+Rating: 5/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Quick appointment and a fair price in London, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Ali Roberts, Radiology, London
+Rating: 5/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Dr. Ali Roberts was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Ali Roberts, Radiology, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Ali Roberts were respectful throughout.
+
+Review 9 for Dr. Ali Roberts, Radiology, London
+Rating: 5/10
+Clinic visited: Covent Garden Family Health Practice
+Description: The report from Dr. Ali Roberts was thorough, though full of technical terms that needed my regular doctor to translate. The treatment plan from Dr. Ali Roberts made sense, but I wished it had been written down for me to take away.
+
+Review 10 for Dr. Ali Roberts, Radiology, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: I was called in within five minutes of my appointment time at Covent Garden Family Health Practice, which is rare and much appreciated. Fast, clean and professional; the bone density scan with Dr. Ali Roberts was painless and the results were explained clearly.
+
+Review 11 for Dr. Ali Roberts, Radiology, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: He was upfront about what could and could not be treated, and did not oversell any option. My ultrasound was unhurried, and Dr. Ali Roberts took time to show me the images and explain what each measurement meant.
+
+Review 12 for Dr. Ali Roberts, Radiology, London
+Rating: 5/10
+Clinic visited: Covent Garden Family Health Practice
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Dr. Ali Roberts answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Overall rating for Dr. Ali Roberts, Radiology, London: 7.00/10 from 12 reviews

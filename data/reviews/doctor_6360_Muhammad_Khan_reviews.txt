@@ -1,0 +1,69 @@
+Doctor: Dr. Muhammad Khan
+Doctor ID: 6360
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 1
+City: Karachi, Pakistan
+Clinics: Defence Phase 5 Medical Point (clinic ID 824)
+
+Review 1 for Dr. Muhammad Khan, Gastroenterology, Karachi
+Rating: 6/10
+Clinic visited: Defence Phase 5 Medical Point
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Muhammad Khan, Gastroenterology, Karachi
+Rating: 9/10
+Clinic visited: Defence Phase 5 Medical Point
+Description: He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 3 for Dr. Muhammad Khan, Gastroenterology, Karachi
+Rating: 7/10
+Clinic visited: Defence Phase 5 Medical Point
+Description: I liked the advice I got from Dr. Muhammad Khan, but I would have liked more time to ask follow-up questions before the visit ended. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 4 for Dr. Muhammad Khan, Gastroenterology, Karachi
+Rating: 7/10
+Clinic visited: Defence Phase 5 Medical Point
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Muhammad Khan, Gastroenterology, Karachi
+Rating: 6/10
+Clinic visited: Defence Phase 5 Medical Point
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Dr. Muhammad Khan is thorough, but I waited nearly two months to get the first available slot.
+
+Review 6 for Dr. Muhammad Khan, Gastroenterology, Karachi
+Rating: 5/10
+Clinic visited: Defence Phase 5 Medical Point
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Quick appointment and a fair price in Karachi, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Muhammad Khan, Gastroenterology, Karachi
+Rating: 7/10
+Clinic visited: Defence Phase 5 Medical Point
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 8 for Dr. Muhammad Khan, Gastroenterology, Karachi
+Rating: 7/10
+Clinic visited: Defence Phase 5 Medical Point
+Description: Knowledgeable about my reflux, Dr. Muhammad Khan still gave diet advice that felt generic and not tailored to my habits. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 9 for Dr. Muhammad Khan, Gastroenterology, Karachi
+Rating: 6/10
+Clinic visited: Defence Phase 5 Medical Point
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Muhammad Khan, Gastroenterology, Karachi
+Rating: 6/10
+Clinic visited: Defence Phase 5 Medical Point
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 11 for Dr. Muhammad Khan, Gastroenterology, Karachi
+Rating: 8/10
+Clinic visited: Defence Phase 5 Medical Point
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 12 for Dr. Muhammad Khan, Gastroenterology, Karachi
+Rating: 7/10
+Clinic visited: Defence Phase 5 Medical Point
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Muhammad Khan, Gastroenterology, Karachi: 6.75/10 from 12 reviews

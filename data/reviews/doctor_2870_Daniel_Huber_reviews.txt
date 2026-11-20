@@ -1,0 +1,59 @@
+Doctor: Dr. Daniel Huber
+Doctor ID: 2870
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 4
+City: Graz, Austria
+Clinics: Ärztehaus Herrengasse Graz (clinic ID 375)
+
+Review 1 for Dr. Daniel Huber, Gastroenterology, Graz
+Rating: 8/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Daniel Huber, Gastroenterology, Graz
+Rating: 9/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 3 for Dr. Daniel Huber, Gastroenterology, Graz
+Rating: 7/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Quick appointment and a fair price in Graz, but the staff seemed overwhelmed and a bit curt on the phone. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 4 for Dr. Daniel Huber, Gastroenterology, Graz
+Rating: 8/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Dr. Daniel Huber took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. Daniel Huber, Gastroenterology, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 6 for Dr. Daniel Huber, Gastroenterology, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Daniel Huber, Gastroenterology, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Daniel Huber, Gastroenterology, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Knowledgeable about my reflux, Dr. Daniel Huber still gave diet advice that felt generic and not tailored to my habits. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. Daniel Huber, Gastroenterology, Graz
+Rating: 5/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Booking was easy online, but the confirmation email contained the wrong address for Ärztehaus Herrengasse Graz. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Daniel Huber, Gastroenterology, Graz
+Rating: 7/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Daniel Huber is thorough, but I waited nearly two months to get the first available slot. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Daniel Huber, Gastroenterology, Graz: 6.80/10 from 10 reviews

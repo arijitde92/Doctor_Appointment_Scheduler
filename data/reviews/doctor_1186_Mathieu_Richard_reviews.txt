@@ -1,0 +1,49 @@
+Doctor: Dr. Mathieu Richard
+Doctor ID: 1186
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 10
+City: Lyon, France
+Clinics: Centre Médical Bellecour (clinic ID 155)
+
+Review 1 for Dr. Mathieu Richard, Pediatrics, Lyon
+Rating: 7/10
+Clinic visited: Centre Médical Bellecour
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 2 for Dr. Mathieu Richard, Pediatrics, Lyon
+Rating: 8/10
+Clinic visited: Centre Médical Bellecour
+Description: I was given a printed summary of the visit, which I shared with my family at home. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Mathieu Richard, Pediatrics, Lyon
+Rating: 8/10
+Clinic visited: Centre Médical Bellecour
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 4 for Dr. Mathieu Richard, Pediatrics, Lyon
+Rating: 7/10
+Clinic visited: Centre Médical Bellecour
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 5 for Dr. Mathieu Richard, Pediatrics, Lyon
+Rating: 7/10
+Clinic visited: Centre Médical Bellecour
+Description: Quick appointment and a fair price in Lyon, but the staff seemed overwhelmed and a bit curt on the phone. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 6 for Dr. Mathieu Richard, Pediatrics, Lyon
+Rating: 8/10
+Clinic visited: Centre Médical Bellecour
+Description: He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Mathieu Richard, Pediatrics, Lyon
+Rating: 10/10
+Clinic visited: Centre Médical Bellecour
+Description: Kind to anxious parents, Dr. Mathieu Richard never showed a hint of impatience when I felt silly asking about a rash. Dr. Mathieu Richard double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 8 for Dr. Mathieu Richard, Pediatrics, Lyon
+Rating: 8/10
+Clinic visited: Centre Médical Bellecour
+Description: My teenager actually spoke up during the visit, and Dr. Mathieu Richard handled sensitive topics with respect. Dr. Mathieu Richard looked me in the eye, listened to the whole story and only then started typing.
+
+Overall rating for Dr. Mathieu Richard, Pediatrics, Lyon: 7.88/10 from 8 reviews

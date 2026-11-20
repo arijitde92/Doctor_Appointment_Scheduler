@@ -1,0 +1,54 @@
+Doctor: Dr. Héctor Condori
+Doctor ID: 1020
+Specialization: Radiology
+Gender: Male
+Years of experience: 2
+City: Trujillo, Peru
+Clinics: Policlínica América Sur (clinic ID 133)
+
+Review 1 for Dr. Héctor Condori, Radiology, Trujillo
+Rating: 8/10
+Clinic visited: Policlínica América Sur
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Héctor Condori sent a clear report within a day.
+
+Review 2 for Dr. Héctor Condori, Radiology, Trujillo
+Rating: 8/10
+Clinic visited: Policlínica América Sur
+Description: My ultrasound was unhurried, and Dr. Héctor Condori took time to show me the images and explain what each measurement meant.
+
+Review 3 for Dr. Héctor Condori, Radiology, Trujillo
+Rating: 8/10
+Clinic visited: Policlínica América Sur
+Description: The staff at Policlínica América Sur in Trujillo explained the contrast dye and its side effects before I signed anything. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Héctor Condori, Radiology, Trujillo
+Rating: 7/10
+Clinic visited: Policlínica América Sur
+Description: The report from Dr. Héctor Condori was thorough, though full of technical terms that needed my regular doctor to translate. Dr. Héctor Condori was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Héctor Condori, Radiology, Trujillo
+Rating: 9/10
+Clinic visited: Policlínica América Sur
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 6 for Dr. Héctor Condori, Radiology, Trujillo
+Rating: 6/10
+Clinic visited: Policlínica América Sur
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Héctor Condori, Radiology, Trujillo
+Rating: 8/10
+Clinic visited: Policlínica América Sur
+Description: Reviewing my X-ray together with Dr. Héctor Condori on the screen made it much easier to understand my arthritis. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Héctor Condori, Radiology, Trujillo
+Rating: 8/10
+Clinic visited: Policlínica América Sur
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 9 for Dr. Héctor Condori, Radiology, Trujillo
+Rating: 8/10
+Clinic visited: Policlínica América Sur
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Overall rating for Dr. Héctor Condori, Radiology, Trujillo: 7.78/10 from 9 reviews

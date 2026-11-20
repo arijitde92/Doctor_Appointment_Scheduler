@@ -1,0 +1,59 @@
+Doctor: Dr. Alexandre Morel
+Doctor ID: 1251
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 4
+City: Marseille, France
+Clinics: Centre de Santé de la Joliette (clinic ID 163)
+
+Review 1 for Dr. Alexandre Morel, Pediatrics, Marseille
+Rating: 6/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Alexandre Morel, Pediatrics, Marseille
+Rating: 9/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Our family has been coming for years, and he remembers each child's history and personality. Everything was explained in plain English by Dr. Alexandre Morel, and nothing was left to guess. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Alexandre Morel, Pediatrics, Marseille
+Rating: 10/10
+Clinic visited: Centre de Santé de la Joliette
+Description: We got a same-day appointment for a high fever, and the care at Centre de Santé de la Joliette was kind and efficient. Dr. Alexandre Morel double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Alexandre Morel, Pediatrics, Marseille
+Rating: 10/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The school physical at Centre de Santé de la Joliette was quick, thorough and the forms were completed on the spot. I appreciated that he offered more than one option and let me choose what suited my life. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Alexandre Morel, Pediatrics, Marseille
+Rating: 8/10
+Clinic visited: Centre de Santé de la Joliette
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Alexandre Morel, Pediatrics, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 7 for Dr. Alexandre Morel, Pediatrics, Marseille
+Rating: 9/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Kind to anxious parents, Dr. Alexandre Morel never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 8 for Dr. Alexandre Morel, Pediatrics, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Caring and gentle with my child, Dr. Alexandre Morel nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 9 for Dr. Alexandre Morel, Pediatrics, Marseille
+Rating: 9/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Our newborn check-ups with Dr. Alexandre Morel were reassuring; every question about feeding and sleep got a calm, practical answer. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 10 for Dr. Alexandre Morel, Pediatrics, Marseille
+Rating: 8/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. My child left with a sticker and a smile, which tells me everything about how the visit went. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Alexandre Morel, Pediatrics, Marseille: 8.30/10 from 10 reviews

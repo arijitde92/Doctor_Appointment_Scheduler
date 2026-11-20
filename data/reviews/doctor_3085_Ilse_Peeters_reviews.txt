@@ -1,0 +1,49 @@
+Doctor: Dr. Ilse Peeters
+Doctor ID: 3085
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 19
+City: Brussels, Belgium
+Clinics: Cabinet Médical Sablon (clinic ID 401)
+
+Review 1 for Dr. Ilse Peeters, Orthopedic, Brussels
+Rating: 7/10
+Clinic visited: Cabinet Médical Sablon
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Ilse Peeters, Orthopedic, Brussels
+Rating: 6/10
+Clinic visited: Cabinet Médical Sablon
+Description: I liked the advice I got from Dr. Ilse Peeters, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Ilse Peeters, Orthopedic, Brussels
+Rating: 7/10
+Clinic visited: Cabinet Médical Sablon
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 4 for Dr. Ilse Peeters, Orthopedic, Brussels
+Rating: 8/10
+Clinic visited: Cabinet Médical Sablon
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I appreciated Dr. Ilse Peeters's honest comparison between injections, therapy and surgery for my hip pain.
+
+Review 5 for Dr. Ilse Peeters, Orthopedic, Brussels
+Rating: 8/10
+Clinic visited: Cabinet Médical Sablon
+Description: Sensitive questions were handled by Dr. Ilse Peeters with discretion and without a hint of judgment. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Ilse Peeters, Orthopedic, Brussels
+Rating: 6/10
+Clinic visited: Cabinet Médical Sablon
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 7 for Dr. Ilse Peeters, Orthopedic, Brussels
+Rating: 6/10
+Clinic visited: Cabinet Médical Sablon
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 8 for Dr. Ilse Peeters, Orthopedic, Brussels
+Rating: 7/10
+Clinic visited: Cabinet Médical Sablon
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Ilse Peeters, Orthopedic, Brussels: 6.88/10 from 8 reviews

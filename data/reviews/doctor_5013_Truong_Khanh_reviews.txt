@@ -1,0 +1,59 @@
+Doctor: Dr. Truong Khanh
+Doctor ID: 5013
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 5
+City: Hanoi, Vietnam
+Clinics: Phong Kham Da Khoa Thien Phuc (clinic ID 648)
+
+Review 1 for Dr. Truong Khanh, Pediatrics, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The school physical at Phong Kham Da Khoa Thien Phuc was quick, thorough and the forms were completed on the spot.
+
+Review 2 for Dr. Truong Khanh, Pediatrics, Hanoi
+Rating: 4/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Dr. Truong Khanh spoke mostly to the computer, and my child clung to me throughout the whole appointment. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 3 for Dr. Truong Khanh, Pediatrics, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Our family has been coming for years, and he remembers each child's history and personality. Dr. Truong Khanh double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Truong Khanh, Pediatrics, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Dr. Truong Khanh noticed a speech delay early and referred us to a therapist, which has made a real difference. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 5 for Dr. Truong Khanh, Pediatrics, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 6 for Dr. Truong Khanh, Pediatrics, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Dr. Truong Khanh looked me in the eye, listened to the whole story and only then started typing. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Truong Khanh, Pediatrics, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 8 for Dr. Truong Khanh, Pediatrics, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 9 for Dr. Truong Khanh, Pediatrics, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The growth chart review was detailed, and I appreciated that Dr. Truong Khanh talked to my child as well as to me. I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Five stars from me, and I would book again tomorrow.
+
+Review 10 for Dr. Truong Khanh, Pediatrics, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Overall rating for Dr. Truong Khanh, Pediatrics, Hanoi: 7.30/10 from 10 reviews

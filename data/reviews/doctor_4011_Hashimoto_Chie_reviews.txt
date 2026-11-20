@@ -1,0 +1,54 @@
+Doctor: Dr. Hashimoto Chie
+Doctor ID: 4011
+Specialization: General
+Gender: Female
+Years of experience: 12
+City: Kyoto, Japan
+Clinics: Kyoto Station Aoi Clinic (clinic ID 517)
+
+Review 1 for Dr. Hashimoto Chie, General, Kyoto
+Rating: 6/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: Dr. Hashimoto Chie is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Hashimoto Chie, General, Kyoto
+Rating: 5/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: Referrals from Dr. Hashimoto Chie are handled well, but getting test results back took longer than I was told to expect.
+
+Review 3 for Dr. Hashimoto Chie, General, Kyoto
+Rating: 6/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 4 for Dr. Hashimoto Chie, General, Kyoto
+Rating: 5/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 5 for Dr. Hashimoto Chie, General, Kyoto
+Rating: 3/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: Dr. Hashimoto Chie seemed distracted by the computer screen throughout and missed that I had mentioned chest tightness twice. The waiting room at Kyoto Station Aoi Clinic was overcrowded and there was nowhere to sit, even for elderly patients. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 6 for Dr. Hashimoto Chie, General, Kyoto
+Rating: 7/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Hashimoto Chie, General, Kyoto
+Rating: 8/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. I always hear back within a day when I leave a question with the nurse at Kyoto Station Aoi Clinic, and Dr. Hashimoto Chie follows up on lab results personally. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Hashimoto Chie, General, Kyoto
+Rating: 8/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 9 for Dr. Hashimoto Chie, General, Kyoto
+Rating: 7/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Kyoto Station Aoi Clinic were inconsistent.
+
+Overall rating for Dr. Hashimoto Chie, General, Kyoto: 6.11/10 from 9 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Magdy Mohamed
+Doctor ID: 5967
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 18
+City: Luxor, Egypt
+Clinics: Karnak Family Clinic (clinic ID 770); Nile Corniche Medical Centre (clinic ID 771); Television Street Health Practice (clinic ID 773)
+
+Review 1 for Dr. Magdy Mohamed, Psychiatry, Luxor
+Rating: 10/10
+Clinic visited: Karnak Family Clinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. My whole family is switching over after seeing how good the care was.
+
+Review 2 for Dr. Magdy Mohamed, Psychiatry, Luxor
+Rating: 5/10
+Clinic visited: Television Street Health Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 3 for Dr. Magdy Mohamed, Psychiatry, Luxor
+Rating: 9/10
+Clinic visited: Karnak Family Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Dr. Magdy Mohamed took a full history before suggesting any medication and explained the likely side effects honestly. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Magdy Mohamed, Psychiatry, Luxor
+Rating: 10/10
+Clinic visited: Nile Corniche Medical Centre
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 5 for Dr. Magdy Mohamed, Psychiatry, Luxor
+Rating: 8/10
+Clinic visited: Karnak Family Clinic
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 6 for Dr. Magdy Mohamed, Psychiatry, Luxor
+Rating: 8/10
+Clinic visited: Karnak Family Clinic
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 7 for Dr. Magdy Mohamed, Psychiatry, Luxor
+Rating: 9/10
+Clinic visited: Nile Corniche Medical Centre
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Appointments in Luxor are always on schedule, and the waiting area is peaceful and private.
+
+Review 8 for Dr. Magdy Mohamed, Psychiatry, Luxor
+Rating: 7/10
+Clinic visited: Television Street Health Practice
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. Magdy Mohamed, Psychiatry, Luxor
+Rating: 9/10
+Clinic visited: Nile Corniche Medical Centre
+Description: He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 10 for Dr. Magdy Mohamed, Psychiatry, Luxor
+Rating: 9/10
+Clinic visited: Television Street Health Practice
+Description: Never once did Dr. Magdy Mohamed make me feel weak for asking for help, and the stigma I carried really began to ease. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Magdy Mohamed, Psychiatry, Luxor: 8.40/10 from 10 reviews

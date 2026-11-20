@@ -1,0 +1,64 @@
+Doctor: Dr. Ahmed Ismail
+Doctor ID: 5992
+Specialization: Pathology
+Gender: Male
+Years of experience: 6
+City: Luxor, Egypt
+Clinics: Television Street Health Practice (clinic ID 773)
+
+Review 1 for Dr. Ahmed Ismail, Pathology, Luxor
+Rating: 9/10
+Clinic visited: Television Street Health Practice
+Description: I was given a printed summary of the visit, which I shared with my family at home. Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 2 for Dr. Ahmed Ismail, Pathology, Luxor
+Rating: 9/10
+Clinic visited: Television Street Health Practice
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Ahmed Ismail, Pathology, Luxor
+Rating: 7/10
+Clinic visited: Television Street Health Practice
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Ahmed Ismail, Pathology, Luxor
+Rating: 8/10
+Clinic visited: Television Street Health Practice
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Ahmed Ismail, Pathology, Luxor
+Rating: 8/10
+Clinic visited: Television Street Health Practice
+Description: I asked for a second look at my slides, and Dr. Ahmed Ismail reviewed them without any fuss and confirmed the finding in writing. At my visit, Dr. Ahmed Ismail took notes on my medication list, checked for interactions and explained the changes simply. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Ahmed Ismail, Pathology, Luxor
+Rating: 9/10
+Clinic visited: Television Street Health Practice
+Description: Fast turnaround at Television Street Health Practice on my thyroid panel, with results in my online account by the next morning. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 7 for Dr. Ahmed Ismail, Pathology, Luxor
+Rating: 8/10
+Clinic visited: Television Street Health Practice
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Ahmed Ismail felt well organized from start to finish.
+
+Review 8 for Dr. Ahmed Ismail, Pathology, Luxor
+Rating: 8/10
+Clinic visited: Television Street Health Practice
+Description: The staff and Dr. Ahmed Ismail patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Review 9 for Dr. Ahmed Ismail, Pathology, Luxor
+Rating: 7/10
+Clinic visited: Television Street Health Practice
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The treatment plan from Dr. Ahmed Ismail made sense, but I wished it had been written down for me to take away. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Ahmed Ismail, Pathology, Luxor
+Rating: 8/10
+Clinic visited: Television Street Health Practice
+Description: Dr. Ahmed Ismail took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. I felt like a person rather than a case number, and he asked about my life as well as my symptoms. I have no hesitation sending my own relatives here.
+
+Review 11 for Dr. Ahmed Ismail, Pathology, Luxor
+Rating: 9/10
+Clinic visited: Television Street Health Practice
+Description: The biopsy report was returned in three days, and Dr. Ahmed Ismail took time on the phone to explain every term in it. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Overall rating for Dr. Ahmed Ismail, Pathology, Luxor: 8.18/10 from 11 reviews

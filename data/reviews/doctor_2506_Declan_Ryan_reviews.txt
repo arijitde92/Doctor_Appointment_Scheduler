@@ -1,0 +1,49 @@
+Doctor: Dr. Declan Ryan
+Doctor ID: 2506
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 2
+City: Galway, Ireland
+Clinics: Dominick Street Medical Centre (clinic ID 327)
+
+Review 1 for Dr. Declan Ryan, Pulmonology, Galway
+Rating: 8/10
+Clinic visited: Dominick Street Medical Centre
+Description: Clear, honest answers from Dr. Declan Ryan about my shortness of breath, and no unnecessary tests were ordered.
+
+Review 2 for Dr. Declan Ryan, Pulmonology, Galway
+Rating: 6/10
+Clinic visited: Dominick Street Medical Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Pleasant manner and careful lung exam, though the waiting time at Dominick Street Medical Centre regularly exceeded forty minutes.
+
+Review 3 for Dr. Declan Ryan, Pulmonology, Galway
+Rating: 7/10
+Clinic visited: Dominick Street Medical Centre
+Description: Dr. Declan Ryan was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good advice about triggers, but the clinic's phone line is difficult to get through to. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Declan Ryan, Pulmonology, Galway
+Rating: 9/10
+Clinic visited: Dominick Street Medical Centre
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. Everything was explained in plain English by Dr. Declan Ryan, and nothing was left to guess. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Declan Ryan, Pulmonology, Galway
+Rating: 8/10
+Clinic visited: Dominick Street Medical Centre
+Description: My test results arrived in the portal within two days, together with a short note that made sense. After years of poorly controlled asthma, Dr. Declan Ryan reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Declan Ryan, Pulmonology, Galway
+Rating: 8/10
+Clinic visited: Dominick Street Medical Centre
+Description: Dr. Declan Ryan explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 7 for Dr. Declan Ryan, Pulmonology, Galway
+Rating: 7/10
+Clinic visited: Dominick Street Medical Centre
+Description: The treatment plan from Dr. Declan Ryan made sense, but I wished it had been written down for me to take away. Helpful and honest about my prognosis, Dr. Declan Ryan could still have given me more written material to take home.
+
+Review 8 for Dr. Declan Ryan, Pulmonology, Galway
+Rating: 9/10
+Clinic visited: Dominick Street Medical Centre
+Description: The spirometry test was explained step by step, and Dr. Declan Ryan put the results in context with a clear picture of my lung function.
+
+Overall rating for Dr. Declan Ryan, Pulmonology, Galway: 7.75/10 from 8 reviews

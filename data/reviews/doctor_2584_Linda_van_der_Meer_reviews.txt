@@ -1,0 +1,59 @@
+Doctor: Dr. Linda van der Meer
+Doctor ID: 2584
+Specialization: Neurology
+Gender: Female
+Years of experience: 27
+City: Amsterdam, Netherlands
+Clinics: Polikliniek Oost (clinic ID 338)
+
+Review 1 for Dr. Linda van der Meer, Neurology, Amsterdam
+Rating: 9/10
+Clinic visited: Polikliniek Oost
+Description: Dr. Linda van der Meer used a calm, steady voice that settled my nerves before a stressful procedure. My tremor was assessed carefully and the explanation of the options was balanced and unhurried. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Linda van der Meer, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Polikliniek Oost
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Polikliniek Oost. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Linda van der Meer, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Polikliniek Oost
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 4 for Dr. Linda van der Meer, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Polikliniek Oost
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. Everything was explained in plain English by Dr. Linda van der Meer, and nothing was left to guess.
+
+Review 5 for Dr. Linda van der Meer, Neurology, Amsterdam
+Rating: 9/10
+Clinic visited: Polikliniek Oost
+Description: Dr. Linda van der Meer looked me in the eye, listened to the whole story and only then started typing. Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 6 for Dr. Linda van der Meer, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Polikliniek Oost
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Linda van der Meer, Neurology, Amsterdam
+Rating: 8/10
+Clinic visited: Polikliniek Oost
+Description: The memory assessment for my father at Polikliniek Oost was gentle and respectful, and the family received a clear written summary.
+
+Review 8 for Dr. Linda van der Meer, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Polikliniek Oost
+Description: The practice in Amsterdam is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Linda van der Meer, Neurology, Amsterdam
+Rating: 7/10
+Clinic visited: Polikliniek Oost
+Description: Dr. Linda van der Meer explained my results well, although the visit felt short for such a complex condition. Dr. Linda van der Meer was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 10 for Dr. Linda van der Meer, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Polikliniek Oost
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Overall rating for Dr. Linda van der Meer, Neurology, Amsterdam: 9.30/10 from 10 reviews

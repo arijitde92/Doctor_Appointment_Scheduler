@@ -1,0 +1,59 @@
+Doctor: Dr. Arun Naidu
+Doctor ID: 4715
+Specialization: Cardiology
+Gender: Male
+Years of experience: 2
+City: Johor Bahru, Malaysia
+Clinics: Anggerik Polyclinic (clinic ID 609)
+
+Review 1 for Dr. Arun Naidu, Cardiology, Johor Bahru
+Rating: 6/10
+Clinic visited: Anggerik Polyclinic
+Description: Dr. Arun Naidu was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Arun Naidu, Cardiology, Johor Bahru
+Rating: 9/10
+Clinic visited: Anggerik Polyclinic
+Description: My atrial fibrillation is well managed by Dr. Arun Naidu, and I know exactly what symptoms mean I should call.
+
+Review 3 for Dr. Arun Naidu, Cardiology, Johor Bahru
+Rating: 9/10
+Clinic visited: Anggerik Polyclinic
+Description: Managing my blood pressure with Dr. Arun Naidu has been steady and practical, with home readings reviewed at every visit.
+
+Review 4 for Dr. Arun Naidu, Cardiology, Johor Bahru
+Rating: 6/10
+Clinic visited: Anggerik Polyclinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 5 for Dr. Arun Naidu, Cardiology, Johor Bahru
+Rating: 7/10
+Clinic visited: Anggerik Polyclinic
+Description: Dr. Arun Naidu adjusted my blood pressure medication carefully, though I had to call twice for a refill. I liked the advice I got from Dr. Arun Naidu, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Arun Naidu, Cardiology, Johor Bahru
+Rating: 10/10
+Clinic visited: Anggerik Polyclinic
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. Prescriptions from Dr. Arun Naidu were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Arun Naidu, Cardiology, Johor Bahru
+Rating: 7/10
+Clinic visited: Anggerik Polyclinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 8 for Dr. Arun Naidu, Cardiology, Johor Bahru
+Rating: 6/10
+Clinic visited: Anggerik Polyclinic
+Description: I got what I needed, but the next available appointment was three weeks away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Arun Naidu, Cardiology, Johor Bahru
+Rating: 9/10
+Clinic visited: Anggerik Polyclinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Honest about the risks and benefits of the procedure, Dr. Arun Naidu never pressured me toward surgery.
+
+Review 10 for Dr. Arun Naidu, Cardiology, Johor Bahru
+Rating: 8/10
+Clinic visited: Anggerik Polyclinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Clear and calm advice at Anggerik Polyclinic about exercise after my stent, including a gradual written schedule.
+
+Overall rating for Dr. Arun Naidu, Cardiology, Johor Bahru: 7.70/10 from 10 reviews

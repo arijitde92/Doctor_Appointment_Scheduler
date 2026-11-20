@@ -1,0 +1,54 @@
+Doctor: Dr. Henrik Pedersen
+Doctor ID: 2021
+Specialization: General
+Gender: Male
+Years of experience: 14
+City: Oslo, Norway
+Clinics: Legesenteret Bogstad Park (clinic ID 264)
+
+Review 1 for Dr. Henrik Pedersen, General, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Dr. Henrik Pedersen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Henrik Pedersen, General, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Henrik Pedersen, General, Oslo
+Rating: 9/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Sensitive questions were handled by Dr. Henrik Pedersen with discretion and without a hint of judgment. As a new patient in Oslo, I felt welcomed at Legesenteret Bogstad Park, and my whole history was reviewed in one relaxed visit.
+
+Review 4 for Dr. Henrik Pedersen, General, Oslo
+Rating: 10/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Managing my type 2 diabetes with Dr. Henrik Pedersen has been steady and practical, with quarterly blood sugar reviews and no lectures. A translator was arranged for my mother without us asking twice, and Dr. Henrik Pedersen spoke directly to her throughout. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Henrik Pedersen, General, Oslo
+Rating: 5/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 6 for Dr. Henrik Pedersen, General, Oslo
+Rating: 10/10
+Clinic visited: Legesenteret Bogstad Park
+Description: The waiting room at Legesenteret Bogstad Park was clean, quiet and comfortable, with enough seating and water available.
+
+Review 7 for Dr. Henrik Pedersen, General, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Bogstad Park
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Henrik Pedersen, General, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Referrals from Dr. Henrik Pedersen are handled well, but getting test results back took longer than I was told to expect. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 9 for Dr. Henrik Pedersen, General, Oslo
+Rating: 8/10
+Clinic visited: Legesenteret Bogstad Park
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Overall rating for Dr. Henrik Pedersen, General, Oslo: 7.33/10 from 9 reviews

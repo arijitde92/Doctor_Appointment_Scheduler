@@ -1,0 +1,59 @@
+Doctor: Dr. Ingrid Lindberg
+Doctor ID: 2129
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 5
+City: Gothenburg, Sweden
+Clinics: Medicinskt Centrum Linné (clinic ID 277)
+
+Review 1 for Dr. Ingrid Lindberg, Pediatrics, Gothenburg
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Linné
+Description: Good bedside manner from Dr. Ingrid Lindberg, but the parking near Medicinskt Centrum Linné is limited and I had to circle for fifteen minutes. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Ingrid Lindberg, Pediatrics, Gothenburg
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Linné
+Description: My child's asthma action plan from Dr. Ingrid Lindberg was written out clearly so that school staff could follow it too.
+
+Review 3 for Dr. Ingrid Lindberg, Pediatrics, Gothenburg
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Linné
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Ingrid Lindberg, Pediatrics, Gothenburg
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Linné
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 5 for Dr. Ingrid Lindberg, Pediatrics, Gothenburg
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Linné
+Description: Booking online at Medicinskt Centrum Linné was simple, and I got a confirmation text with clear directions and a reminder the day before. My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 6 for Dr. Ingrid Lindberg, Pediatrics, Gothenburg
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Linné
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Ingrid Lindberg, Pediatrics, Gothenburg
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Linné
+Description: Caring and gentle with my child, Dr. Ingrid Lindberg nonetheless ran forty minutes behind schedule at most appointments. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Ingrid Lindberg, Pediatrics, Gothenburg
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Linné
+Description: I appreciated that she offered more than one option and let me choose what suited my life. The waiting room in Gothenburg has a play corner and separate seating for sick children, which I really valued. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Ingrid Lindberg, Pediatrics, Gothenburg
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Linné
+Description: Dr. Ingrid Lindberg is thorough with exams, but the after-hours phone line at Medicinskt Centrum Linné is hard to reach. I got what I needed, but the next available appointment was three weeks away.
+
+Review 10 for Dr. Ingrid Lindberg, Pediatrics, Gothenburg
+Rating: 5/10
+Clinic visited: Medicinskt Centrum Linné
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Ingrid Lindberg, Pediatrics, Gothenburg: 6.90/10 from 10 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Charlotte Johansson
+Doctor ID: 2123
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 2
+City: Gothenburg, Sweden
+Clinics: Läkarhuset Östra Hamngatan (clinic ID 276); Medicinskt Centrum Linné (clinic ID 277)
+
+Review 1 for Dr. Charlotte Johansson, Gastroenterology, Gothenburg
+Rating: 10/10
+Clinic visited: Medicinskt Centrum Linné
+Description: Getting to Medicinskt Centrum Linné by public transport in Gothenburg was easy, and there is a step-free entrance for wheelchairs. I was nervous about my screening, but the team at Medicinskt Centrum Linné made me feel at ease, and I was home within hours.
+
+Review 2 for Dr. Charlotte Johansson, Gastroenterology, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 3 for Dr. Charlotte Johansson, Gastroenterology, Gothenburg
+Rating: 9/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Dr. Charlotte Johansson double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Helpful dietitian referral from Dr. Charlotte Johansson and written guidance for living with ulcerative colitis.
+
+Review 4 for Dr. Charlotte Johansson, Gastroenterology, Gothenburg
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Linné
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Charlotte Johansson, Gastroenterology, Gothenburg
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Linné
+Description: After years of undiagnosed stomach pain, she identified celiac disease with the right blood tests and a careful plan.
+
+Review 6 for Dr. Charlotte Johansson, Gastroenterology, Gothenburg
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Linné
+Description: Getting to Medicinskt Centrum Linné in Gothenburg was simple, and the day-procedure unit was calm and efficient. A translator was arranged for my mother without us asking twice, and Dr. Charlotte Johansson spoke directly to her throughout.
+
+Review 7 for Dr. Charlotte Johansson, Gastroenterology, Gothenburg
+Rating: 6/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Good bedside manner from Dr. Charlotte Johansson, but the parking near Läkarhuset Östra Hamngatan is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Charlotte Johansson, Gastroenterology, Gothenburg
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Linné
+Description: She never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. She was upfront about what could and could not be treated, and did not oversell any option. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Charlotte Johansson, Gastroenterology, Gothenburg: 8.00/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Verena Mayer
+Doctor ID: 2995
+Specialization: Pathology
+Gender: Female
+Years of experience: 10
+City: Vienna, Austria
+Clinics: Ärztezentrum Mariahilf Plus (clinic ID 390)
+
+Review 1 for Dr. Verena Mayer, Pathology, Vienna
+Rating: 10/10
+Clinic visited: Ärztezentrum Mariahilf Plus
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. The lab at Ärztezentrum Mariahilf Plus had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 2 for Dr. Verena Mayer, Pathology, Vienna
+Rating: 9/10
+Clinic visited: Ärztezentrum Mariahilf Plus
+Description: The staff and Dr. Verena Mayer patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Review 3 for Dr. Verena Mayer, Pathology, Vienna
+Rating: 10/10
+Clinic visited: Ärztezentrum Mariahilf Plus
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Verena Mayer, Pathology, Vienna
+Rating: 9/10
+Clinic visited: Ärztezentrum Mariahilf Plus
+Description: I was given a printed summary of the visit, which I shared with my family at home. I was nervous about the biopsy result, and the call from Dr. Verena Mayer was gentle, honest and unhurried.
+
+Review 5 for Dr. Verena Mayer, Pathology, Vienna
+Rating: 10/10
+Clinic visited: Ärztezentrum Mariahilf Plus
+Description: The biopsy report was returned in three days, and Dr. Verena Mayer took time on the phone to explain every term in it. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 6 for Dr. Verena Mayer, Pathology, Vienna
+Rating: 9/10
+Clinic visited: Ärztezentrum Mariahilf Plus
+Description: The lab under Dr. Verena Mayer was clean, organized and never overbooked, and results arrived exactly when promised. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Verena Mayer, Pathology, Vienna
+Rating: 10/10
+Clinic visited: Ärztezentrum Mariahilf Plus
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Blood test results were clearly laid out with reference ranges and short notes in plain language. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Verena Mayer, Pathology, Vienna
+Rating: 7/10
+Clinic visited: Ärztezentrum Mariahilf Plus
+Description: Helpful in clarifying a borderline result, though Dr. Verena Mayer gave little guidance about whether to repeat it. Dr. Verena Mayer was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 9 for Dr. Verena Mayer, Pathology, Vienna
+Rating: 7/10
+Clinic visited: Ärztezentrum Mariahilf Plus
+Description: Dr. Verena Mayer answered my questions kindly, though the call back took three days.
+
+Overall rating for Dr. Verena Mayer, Pathology, Vienna: 9.00/10 from 9 reviews

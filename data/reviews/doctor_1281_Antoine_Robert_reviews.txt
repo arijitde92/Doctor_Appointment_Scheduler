@@ -1,0 +1,59 @@
+Doctor: Dr. Antoine Robert
+Doctor ID: 1281
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 2
+City: Paris, France
+Clinics: Clinique du Parc Monceau (clinic ID 167); Centre Médical Place d'Italie (clinic ID 168)
+
+Review 1 for Dr. Antoine Robert, Psychiatry, Paris
+Rating: 9/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Antoine Robert, Psychiatry, Paris
+Rating: 9/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Excellent at explaining how therapy and medication work together, and Dr. Antoine Robert coordinated with my counselor.
+
+Review 3 for Dr. Antoine Robert, Psychiatry, Paris
+Rating: 8/10
+Clinic visited: Centre Médical Place d'Italie
+Description: My family was included in a session at my request, and Dr. Antoine Robert handled it with great tact. Dr. Antoine Robert used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 4 for Dr. Antoine Robert, Psychiatry, Paris
+Rating: 9/10
+Clinic visited: Clinique du Parc Monceau
+Description: My depression finally has a treatment plan from Dr. Antoine Robert that works, with regular check-ins and careful dose changes. The nurse was friendly and efficient, and the whole visit with Dr. Antoine Robert felt well organized from start to finish.
+
+Review 5 for Dr. Antoine Robert, Psychiatry, Paris
+Rating: 9/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Dr. Antoine Robert took a full history before suggesting any medication and explained the likely side effects honestly. I appreciated that he offered more than one option and let me choose what suited my life. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Antoine Robert, Psychiatry, Paris
+Rating: 7/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Booking was easy online, but the confirmation email contained the wrong address for Centre Médical Place d'Italie. Dr. Antoine Robert is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 7 for Dr. Antoine Robert, Psychiatry, Paris
+Rating: 7/10
+Clinic visited: Clinique du Parc Monceau
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 8 for Dr. Antoine Robert, Psychiatry, Paris
+Rating: 7/10
+Clinic visited: Centre Médical Place d'Italie
+Description: I got what I needed, but the next available appointment was three weeks away. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 9 for Dr. Antoine Robert, Psychiatry, Paris
+Rating: 6/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Antoine Robert, Psychiatry, Paris
+Rating: 8/10
+Clinic visited: Centre Médical Place d'Italie
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I was called in within five minutes of my appointment time at Centre Médical Place d'Italie, which is rare and much appreciated. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Antoine Robert, Psychiatry, Paris: 7.90/10 from 10 reviews

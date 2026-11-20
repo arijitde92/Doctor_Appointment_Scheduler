@@ -1,0 +1,49 @@
+Doctor: Dr. Magnus Jacobsen
+Doctor ID: 2051
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 1
+City: Stavanger, Norway
+Clinics: Legekontoret Madla (clinic ID 268)
+
+Review 1 for Dr. Magnus Jacobsen, Psychiatry, Stavanger
+Rating: 6/10
+Clinic visited: Legekontoret Madla
+Description: Good listener, yet the refill process at Legekontoret Madla is slow and requires several phone calls. Booking was easy online, but the confirmation email contained the wrong address for Legekontoret Madla. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Magnus Jacobsen, Psychiatry, Stavanger
+Rating: 6/10
+Clinic visited: Legekontoret Madla
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 3 for Dr. Magnus Jacobsen, Psychiatry, Stavanger
+Rating: 6/10
+Clinic visited: Legekontoret Madla
+Description: Dr. Magnus Jacobsen is knowledgeable, though I waited several weeks for my first appointment. Good bedside manner from Dr. Magnus Jacobsen, but the parking near Legekontoret Madla is limited and I had to circle for fifteen minutes.
+
+Review 4 for Dr. Magnus Jacobsen, Psychiatry, Stavanger
+Rating: 4/10
+Clinic visited: Legekontoret Madla
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion. The clinic never returned my call about my test results, and I had to chase them for over a week. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 5 for Dr. Magnus Jacobsen, Psychiatry, Stavanger
+Rating: 5/10
+Clinic visited: Legekontoret Madla
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Magnus Jacobsen, Psychiatry, Stavanger
+Rating: 7/10
+Clinic visited: Legekontoret Madla
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Magnus Jacobsen, Psychiatry, Stavanger
+Rating: 7/10
+Clinic visited: Legekontoret Madla
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Quick appointment and a fair price in Stavanger, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 8 for Dr. Magnus Jacobsen, Psychiatry, Stavanger
+Rating: 7/10
+Clinic visited: Legekontoret Madla
+Description: Dr. Magnus Jacobsen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Magnus Jacobsen, Psychiatry, Stavanger: 6.00/10 from 8 reviews

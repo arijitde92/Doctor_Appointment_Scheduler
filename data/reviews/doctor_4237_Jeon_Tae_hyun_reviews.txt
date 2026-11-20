@@ -1,0 +1,59 @@
+Doctor: Dr. Jeon Tae-hyun
+Doctor ID: 4237
+Specialization: Pathology
+Gender: Male
+Years of experience: 4
+City: Incheon, South Korea
+Clinics: Songdo Bitna Medical Clinic (clinic ID 545)
+
+Review 1 for Dr. Jeon Tae-hyun, Pathology, Incheon
+Rating: 6/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 2 for Dr. Jeon Tae-hyun, Pathology, Incheon
+Rating: 8/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Sensitive questions were handled by Dr. Jeon Tae-hyun with discretion and without a hint of judgment. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Jeon Tae-hyun, Pathology, Incheon
+Rating: 6/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Jeon Tae-hyun gave little guidance about whether to repeat it. I liked the advice I got from Dr. Jeon Tae-hyun, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Jeon Tae-hyun, Pathology, Incheon
+Rating: 7/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Jeon Tae-hyun, Pathology, Incheon
+Rating: 6/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Jeon Tae-hyun, Pathology, Incheon
+Rating: 5/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Dr. Jeon Tae-hyun answered my questions kindly, though the call back took three days.
+
+Review 7 for Dr. Jeon Tae-hyun, Pathology, Incheon
+Rating: 7/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The blood draw was painless, but the waiting area at Songdo Bitna Medical Clinic was crowded in the early morning.
+
+Review 8 for Dr. Jeon Tae-hyun, Pathology, Incheon
+Rating: 8/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: A translator was arranged for my mother without us asking twice, and Dr. Jeon Tae-hyun spoke directly to her throughout.
+
+Review 9 for Dr. Jeon Tae-hyun, Pathology, Incheon
+Rating: 5/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: The treatment plan from Dr. Jeon Tae-hyun made sense, but I wished it had been written down for me to take away. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Jeon Tae-hyun, Pathology, Incheon
+Rating: 5/10
+Clinic visited: Songdo Bitna Medical Clinic
+Description: Dr. Jeon Tae-hyun was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Jeon Tae-hyun, Pathology, Incheon: 6.30/10 from 10 reviews

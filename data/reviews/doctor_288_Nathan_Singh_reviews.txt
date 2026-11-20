@@ -1,0 +1,54 @@
+Doctor: Dr. Nathan Singh
+Doctor ID: 288
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 13
+City: Montreal, Canada
+Clinics: Clinique Médicale du Plateau (clinic ID 40); Centre Médical René-Lévesque (clinic ID 41)
+
+Review 1 for Dr. Nathan Singh, Orthopedic, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale du Plateau
+Description: The X-ray was reviewed with me on screen, and he pointed out exactly where the cartilage had worn down.
+
+Review 2 for Dr. Nathan Singh, Orthopedic, Montreal
+Rating: 10/10
+Clinic visited: Clinique Médicale du Plateau
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 3 for Dr. Nathan Singh, Orthopedic, Montreal
+Rating: 7/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Nathan Singh, Orthopedic, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale du Plateau
+Description: The surgeon at Clinique Médicale du Plateau spent time on my goals as a runner and shaped the treatment around them. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 5 for Dr. Nathan Singh, Orthopedic, Montreal
+Rating: 6/10
+Clinic visited: Clinique Médicale du Plateau
+Description: Dr. Nathan Singh was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Nathan Singh, Orthopedic, Montreal
+Rating: 10/10
+Clinic visited: Centre Médical René-Lévesque
+Description: I was called in within five minutes of my appointment time at Centre Médical René-Lévesque, which is rare and much appreciated. Dr. Nathan Singh explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 7 for Dr. Nathan Singh, Orthopedic, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale du Plateau
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 8 for Dr. Nathan Singh, Orthopedic, Montreal
+Rating: 8/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 9 for Dr. Nathan Singh, Orthopedic, Montreal
+Rating: 10/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Sensitive questions were handled by Dr. Nathan Singh with discretion and without a hint of judgment.
+
+Overall rating for Dr. Nathan Singh, Orthopedic, Montreal: 8.22/10 from 9 reviews

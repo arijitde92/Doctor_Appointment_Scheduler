@@ -1,0 +1,59 @@
+Doctor: Dr. Günther Mayr
+Doctor ID: 2874
+Specialization: Neurology
+Gender: Male
+Years of experience: 15
+City: Graz, Austria
+Clinics: Ärztehaus Herrengasse Graz (clinic ID 375)
+
+Review 1 for Dr. Günther Mayr, Neurology, Graz
+Rating: 7/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 2 for Dr. Günther Mayr, Neurology, Graz
+Rating: 9/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: I always leave Dr. Günther Mayr's office with a short written summary of changes, which helps my family keep up.
+
+Review 3 for Dr. Günther Mayr, Neurology, Graz
+Rating: 7/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Günther Mayr at Ärztehaus Herrengasse Graz are difficult to schedule.
+
+Review 4 for Dr. Günther Mayr, Neurology, Graz
+Rating: 7/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 5 for Dr. Günther Mayr, Neurology, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Dr. Günther Mayr explained my results well, although the visit felt short for such a complex condition.
+
+Review 6 for Dr. Günther Mayr, Neurology, Graz
+Rating: 9/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Everything was explained in plain English by Dr. Günther Mayr, and nothing was left to guess. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Günther Mayr, Neurology, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Booking was easy online, but the confirmation email contained the wrong address for Ärztehaus Herrengasse Graz. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 8 for Dr. Günther Mayr, Neurology, Graz
+Rating: 8/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 9 for Dr. Günther Mayr, Neurology, Graz
+Rating: 5/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 10 for Dr. Günther Mayr, Neurology, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Günther Mayr, Neurology, Graz: 7.00/10 from 10 reviews

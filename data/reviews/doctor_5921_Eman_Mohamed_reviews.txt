@@ -1,0 +1,69 @@
+Doctor: Dr. Eman Mohamed
+Doctor ID: 5921
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 4
+City: Giza, Egypt
+Clinics: Mohandessin Noor Medical Centre (clinic ID 765)
+
+Review 1 for Dr. Eman Mohamed, Pediatrics, Giza
+Rating: 6/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Caring and gentle with my child, Dr. Eman Mohamed nonetheless ran forty minutes behind schedule at most appointments. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 2 for Dr. Eman Mohamed, Pediatrics, Giza
+Rating: 7/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Dr. Eman Mohamed was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Eman Mohamed, Pediatrics, Giza
+Rating: 7/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Eman Mohamed, Pediatrics, Giza
+Rating: 8/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: The waiting room in Giza has a play corner and separate seating for sick children, which I really valued. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 5 for Dr. Eman Mohamed, Pediatrics, Giza
+Rating: 7/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Dr. Eman Mohamed is thorough with exams, but the after-hours phone line at Mohandessin Noor Medical Centre is hard to reach. I liked the advice I got from Dr. Eman Mohamed, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Eman Mohamed, Pediatrics, Giza
+Rating: 7/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 7 for Dr. Eman Mohamed, Pediatrics, Giza
+Rating: 9/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Kind to anxious parents, Dr. Eman Mohamed never showed a hint of impatience when I felt silly asking about a rash. Dr. Eman Mohamed used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 8 for Dr. Eman Mohamed, Pediatrics, Giza
+Rating: 7/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. The treatment plan from Dr. Eman Mohamed made sense, but I wished it had been written down for me to take away. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Eman Mohamed, Pediatrics, Giza
+Rating: 6/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Eman Mohamed, Pediatrics, Giza
+Rating: 6/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 11 for Dr. Eman Mohamed, Pediatrics, Giza
+Rating: 9/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Dr. Eman Mohamed looked me in the eye, listened to the whole story and only then started typing. Dr. Eman Mohamed noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 12 for Dr. Eman Mohamed, Pediatrics, Giza
+Rating: 8/10
+Clinic visited: Mohandessin Noor Medical Centre
+Description: Dr. Eman Mohamed drew a quick sketch to explain what was going on, which helped me remember it afterwards. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Eman Mohamed, Pediatrics, Giza: 7.25/10 from 12 reviews

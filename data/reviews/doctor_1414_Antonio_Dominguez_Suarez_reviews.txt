@@ -1,0 +1,49 @@
+Doctor: Dr. Antonio Domínguez Suárez
+Doctor ID: 1414
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 14
+City: Seville, Spain
+Clinics: Clínica Giralda (clinic ID 185); Clínica Santa Justa (clinic ID 188)
+
+Review 1 for Dr. Antonio Domínguez Suárez, Pediatrics, Seville
+Rating: 7/10
+Clinic visited: Clínica Giralda
+Description: Caring and gentle with my child, Dr. Antonio Domínguez Suárez nonetheless ran forty minutes behind schedule at most appointments. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Antonio Domínguez Suárez, Pediatrics, Seville
+Rating: 9/10
+Clinic visited: Clínica Santa Justa
+Description: The growth chart review was detailed, and I appreciated that Dr. Antonio Domínguez Suárez talked to my child as well as to me.
+
+Review 3 for Dr. Antonio Domínguez Suárez, Pediatrics, Seville
+Rating: 9/10
+Clinic visited: Clínica Santa Justa
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 4 for Dr. Antonio Domínguez Suárez, Pediatrics, Seville
+Rating: 6/10
+Clinic visited: Clínica Santa Justa
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 5 for Dr. Antonio Domínguez Suárez, Pediatrics, Seville
+Rating: 8/10
+Clinic visited: Clínica Giralda
+Description: A same-day slot was found for me at Clínica Giralda when I called with a worrying symptom. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Antonio Domínguez Suárez, Pediatrics, Seville
+Rating: 9/10
+Clinic visited: Clínica Santa Justa
+Description: Dr. Antonio Domínguez Suárez noticed a speech delay early and referred us to a therapist, which has made a real difference. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Antonio Domínguez Suárez, Pediatrics, Seville
+Rating: 10/10
+Clinic visited: Clínica Santa Justa
+Description: The school physical at Clínica Santa Justa was quick, thorough and the forms were completed on the spot. I was given a printed summary of the visit, which I shared with my family at home. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Antonio Domínguez Suárez, Pediatrics, Seville
+Rating: 5/10
+Clinic visited: Clínica Santa Justa
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Antonio Domínguez Suárez, Pediatrics, Seville: 7.88/10 from 8 reviews

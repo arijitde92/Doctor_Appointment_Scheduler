@@ -1,0 +1,69 @@
+Doctor: Dr. Mona Mansour
+Doctor ID: 5981
+Specialization: General
+Gender: Female
+Years of experience: 30
+City: Luxor, Egypt
+Clinics: Khaled Ibn El Walid Polyclinic (clinic ID 772); Television Street Health Practice (clinic ID 773)
+
+Review 1 for Dr. Mona Mansour, General, Luxor
+Rating: 9/10
+Clinic visited: Television Street Health Practice
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 2 for Dr. Mona Mansour, General, Luxor
+Rating: 9/10
+Clinic visited: Khaled Ibn El Walid Polyclinic
+Description: I went in with months of tiredness, and Dr. Mona Mansour ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. The practice in Luxor is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 3 for Dr. Mona Mansour, General, Luxor
+Rating: 10/10
+Clinic visited: Khaled Ibn El Walid Polyclinic
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. The receptionist at Khaled Ibn El Walid Polyclinic remembered my name and had my forms ready, so check-in took less than a minute. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Mona Mansour, General, Luxor
+Rating: 9/10
+Clinic visited: Television Street Health Practice
+Description: Dr. Mona Mansour spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 5 for Dr. Mona Mansour, General, Luxor
+Rating: 9/10
+Clinic visited: Television Street Health Practice
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Mona Mansour felt well organized from start to finish.
+
+Review 6 for Dr. Mona Mansour, General, Luxor
+Rating: 10/10
+Clinic visited: Khaled Ibn El Walid Polyclinic
+Description: She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 7 for Dr. Mona Mansour, General, Luxor
+Rating: 7/10
+Clinic visited: Khaled Ibn El Walid Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Khaled Ibn El Walid Polyclinic. Referrals from Dr. Mona Mansour are handled well, but getting test results back took longer than I was told to expect.
+
+Review 8 for Dr. Mona Mansour, General, Luxor
+Rating: 8/10
+Clinic visited: Television Street Health Practice
+Description: I was called in within five minutes of my appointment time at Television Street Health Practice, which is rare and much appreciated. Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 9 for Dr. Mona Mansour, General, Luxor
+Rating: 9/10
+Clinic visited: Khaled Ibn El Walid Polyclinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Getting to Khaled Ibn El Walid Polyclinic from across Luxor was easy, and the same-week appointment saved me an urgent care trip. Worth every minute of travel, and I would go again without a second thought.
+
+Review 10 for Dr. Mona Mansour, General, Luxor
+Rating: 7/10
+Clinic visited: Television Street Health Practice
+Description: The treatment plan from Dr. Mona Mansour made sense, but I wished it had been written down for me to take away. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 11 for Dr. Mona Mansour, General, Luxor
+Rating: 6/10
+Clinic visited: Television Street Health Practice
+Description: Dr. Mona Mansour is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 12 for Dr. Mona Mansour, General, Luxor
+Rating: 6/10
+Clinic visited: Television Street Health Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Overall rating for Dr. Mona Mansour, General, Luxor: 8.25/10 from 12 reviews

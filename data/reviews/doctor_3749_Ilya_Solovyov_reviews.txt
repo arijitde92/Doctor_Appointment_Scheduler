@@ -1,0 +1,54 @@
+Doctor: Dr. Ilya Solovyov
+Doctor ID: 3749
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 5
+City: Moscow, Russia
+Clinics: Klinika Beryozka (clinic ID 484)
+
+Review 1 for Dr. Ilya Solovyov, Psychiatry, Moscow
+Rating: 10/10
+Clinic visited: Klinika Beryozka
+Description: Prescriptions from Dr. Ilya Solovyov were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I can ring Klinika Beryozka with an urgent question and receive a thoughtful reply the same day.
+
+Review 2 for Dr. Ilya Solovyov, Psychiatry, Moscow
+Rating: 7/10
+Clinic visited: Klinika Beryozka
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Ilya Solovyov, Psychiatry, Moscow
+Rating: 10/10
+Clinic visited: Klinika Beryozka
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 4 for Dr. Ilya Solovyov, Psychiatry, Moscow
+Rating: 7/10
+Clinic visited: Klinika Beryozka
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 5 for Dr. Ilya Solovyov, Psychiatry, Moscow
+Rating: 7/10
+Clinic visited: Klinika Beryozka
+Description: Dr. Ilya Solovyov is knowledgeable, though I waited several weeks for my first appointment. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Ilya Solovyov, Psychiatry, Moscow
+Rating: 9/10
+Clinic visited: Klinika Beryozka
+Description: Excellent at explaining how therapy and medication work together, and Dr. Ilya Solovyov coordinated with my counselor.
+
+Review 7 for Dr. Ilya Solovyov, Psychiatry, Moscow
+Rating: 9/10
+Clinic visited: Klinika Beryozka
+Description: The ADHD assessment by Dr. Ilya Solovyov was careful and detailed, with clear written conclusions and realistic expectations. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 8 for Dr. Ilya Solovyov, Psychiatry, Moscow
+Rating: 7/10
+Clinic visited: Klinika Beryozka
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 9 for Dr. Ilya Solovyov, Psychiatry, Moscow
+Rating: 8/10
+Clinic visited: Klinika Beryozka
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Ilya Solovyov, Psychiatry, Moscow: 8.22/10 from 9 reviews

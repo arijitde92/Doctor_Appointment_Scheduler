@@ -1,0 +1,49 @@
+Doctor: Dr. Vu Thao
+Doctor ID: 4988
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 13
+City: Hanoi, Vietnam
+Clinics: Phong Kham Da Khoa Hoa Sen (clinic ID 645); Phong Kham Binh An (clinic ID 646)
+
+Review 1 for Dr. Vu Thao, Pulmonology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. The nurse was friendly and efficient, and the whole visit with Dr. Vu Thao felt well organized from start to finish.
+
+Review 2 for Dr. Vu Thao, Pulmonology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Binh An
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Vu Thao, Pulmonology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: Quick appointment and a fair price in Hanoi, but the staff seemed overwhelmed and a bit curt on the phone. Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 4 for Dr. Vu Thao, Pulmonology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Vu Thao, Pulmonology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: Dr. Vu Thao explained my lung nodule follow-up schedule calmly, which took away weeks of worry. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 6 for Dr. Vu Thao, Pulmonology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Binh An
+Description: Pleasant manner and careful lung exam, though the waiting time at Phong Kham Binh An regularly exceeded forty minutes. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Vu Thao, Pulmonology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Binh An
+Description: Paperwork at Phong Kham Binh An was kept to a minimum, and the staff helped me complete the insurance form. I always leave Dr. Vu Thao's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 8 for Dr. Vu Thao, Pulmonology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Vu Thao, Pulmonology, Hanoi: 7.25/10 from 8 reviews

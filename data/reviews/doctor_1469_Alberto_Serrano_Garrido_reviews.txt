@@ -1,0 +1,49 @@
+Doctor: Dr. Alberto Serrano Garrido
+Doctor ID: 1469
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 25
+City: Valencia, Spain
+Clinics: Policlínica del Turia (clinic ID 192)
+
+Review 1 for Dr. Alberto Serrano Garrido, Gastroenterology, Valencia
+Rating: 5/10
+Clinic visited: Policlínica del Turia
+Description: The treatment plan from Dr. Alberto Serrano Garrido made sense, but I wished it had been written down for me to take away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Alberto Serrano Garrido, Gastroenterology, Valencia
+Rating: 5/10
+Clinic visited: Policlínica del Turia
+Description: Dr. Alberto Serrano Garrido is thorough, but I waited nearly two months to get the first available slot. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Alberto Serrano Garrido, Gastroenterology, Valencia
+Rating: 9/10
+Clinic visited: Policlínica del Turia
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan.
+
+Review 4 for Dr. Alberto Serrano Garrido, Gastroenterology, Valencia
+Rating: 4/10
+Clinic visited: Policlínica del Turia
+Description: The bowel prep instructions from Dr. Alberto Serrano Garrido's office were contradictory, and I had to reschedule my colonoscopy because of the confusion. The waiting room at Policlínica del Turia was overcrowded and there was nowhere to sit, even for elderly patients. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 5 for Dr. Alberto Serrano Garrido, Gastroenterology, Valencia
+Rating: 6/10
+Clinic visited: Policlínica del Turia
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 6 for Dr. Alberto Serrano Garrido, Gastroenterology, Valencia
+Rating: 8/10
+Clinic visited: Policlínica del Turia
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Alberto Serrano Garrido, Gastroenterology, Valencia
+Rating: 7/10
+Clinic visited: Policlínica del Turia
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Alberto Serrano Garrido, Gastroenterology, Valencia
+Rating: 6/10
+Clinic visited: Policlínica del Turia
+Description: Dr. Alberto Serrano Garrido was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Overall rating for Dr. Alberto Serrano Garrido, Gastroenterology, Valencia: 6.25/10 from 8 reviews

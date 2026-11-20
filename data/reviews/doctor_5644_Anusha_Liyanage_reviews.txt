@@ -1,0 +1,59 @@
+Doctor: Dr. Anusha Liyanage
+Doctor ID: 5644
+Specialization: Radiology
+Gender: Female
+Years of experience: 12
+City: Kandy, Sri Lanka
+Clinics: Hanthana Family Clinic (clinic ID 730); Mahaweli Medical Centre (clinic ID 731)
+
+Review 1 for Dr. Anusha Liyanage, Radiology, Kandy
+Rating: 5/10
+Clinic visited: Hanthana Family Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 2 for Dr. Anusha Liyanage, Radiology, Kandy
+Rating: 9/10
+Clinic visited: Mahaweli Medical Centre
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 3 for Dr. Anusha Liyanage, Radiology, Kandy
+Rating: 7/10
+Clinic visited: Mahaweli Medical Centre
+Description: The treatment plan from Dr. Anusha Liyanage made sense, but I wished it had been written down for me to take away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Anusha Liyanage, Radiology, Kandy
+Rating: 7/10
+Clinic visited: Mahaweli Medical Centre
+Description: The report from Dr. Anusha Liyanage was thorough, though full of technical terms that needed my regular doctor to translate. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Anusha Liyanage, Radiology, Kandy
+Rating: 5/10
+Clinic visited: Mahaweli Medical Centre
+Description: Dr. Anusha Liyanage answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Anusha Liyanage, Radiology, Kandy
+Rating: 8/10
+Clinic visited: Mahaweli Medical Centre
+Description: Dr. Anusha Liyanage drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 7 for Dr. Anusha Liyanage, Radiology, Kandy
+Rating: 8/10
+Clinic visited: Hanthana Family Clinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. The report from Dr. Anusha Liyanage was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 8 for Dr. Anusha Liyanage, Radiology, Kandy
+Rating: 8/10
+Clinic visited: Mahaweli Medical Centre
+Description: A translator was arranged for my mother without us asking twice, and Dr. Anusha Liyanage spoke directly to her throughout.
+
+Review 9 for Dr. Anusha Liyanage, Radiology, Kandy
+Rating: 6/10
+Clinic visited: Mahaweli Medical Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 10 for Dr. Anusha Liyanage, Radiology, Kandy
+Rating: 10/10
+Clinic visited: Mahaweli Medical Centre
+Description: Dr. Anusha Liyanage compared my new scan with last year's and pointed out exactly what had stayed the same. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Anusha Liyanage, Radiology, Kandy: 7.30/10 from 10 reviews

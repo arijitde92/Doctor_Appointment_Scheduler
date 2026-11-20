@@ -1,0 +1,54 @@
+Doctor: Dr. Vyacheslav Vorobyov
+Doctor ID: 3808
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 18
+City: Saint Petersburg, Russia
+Clinics: Klinika Belye Nochi (clinic ID 491)
+
+Review 1 for Dr. Vyacheslav Vorobyov, Psychiatry, Saint Petersburg
+Rating: 9/10
+Clinic visited: Klinika Belye Nochi
+Description: I felt heard by Dr. Vyacheslav Vorobyov during a very hard time, and nobody rushed me out of the room. I was called in within five minutes of my appointment time at Klinika Belye Nochi, which is rare and much appreciated. I feel lucky to have found this practice in my area.
+
+Review 2 for Dr. Vyacheslav Vorobyov, Psychiatry, Saint Petersburg
+Rating: 8/10
+Clinic visited: Klinika Belye Nochi
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. My depression finally has a treatment plan from Dr. Vyacheslav Vorobyov that works, with regular check-ins and careful dose changes.
+
+Review 3 for Dr. Vyacheslav Vorobyov, Psychiatry, Saint Petersburg
+Rating: 9/10
+Clinic visited: Klinika Belye Nochi
+Description: I can ring Klinika Belye Nochi with an urgent question and receive a thoughtful reply the same day.
+
+Review 4 for Dr. Vyacheslav Vorobyov, Psychiatry, Saint Petersburg
+Rating: 6/10
+Clinic visited: Klinika Belye Nochi
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 5 for Dr. Vyacheslav Vorobyov, Psychiatry, Saint Petersburg
+Rating: 8/10
+Clinic visited: Klinika Belye Nochi
+Description: My family was included in a session at my request, and Dr. Vyacheslav Vorobyov handled it with great tact. Prescriptions from Dr. Vyacheslav Vorobyov were sent to my pharmacy before I even left the building, and the dosage instructions were written down. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Vyacheslav Vorobyov, Psychiatry, Saint Petersburg
+Rating: 6/10
+Clinic visited: Klinika Belye Nochi
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Vyacheslav Vorobyov, Psychiatry, Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Belye Nochi
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 8 for Dr. Vyacheslav Vorobyov, Psychiatry, Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Belye Nochi
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 9 for Dr. Vyacheslav Vorobyov, Psychiatry, Saint Petersburg
+Rating: 9/10
+Clinic visited: Klinika Belye Nochi
+Description: Dr. Vyacheslav Vorobyov double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Overall rating for Dr. Vyacheslav Vorobyov, Psychiatry, Saint Petersburg: 7.67/10 from 9 reviews

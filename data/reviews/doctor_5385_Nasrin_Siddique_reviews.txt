@@ -1,0 +1,49 @@
+Doctor: Dr. Nasrin Siddique
+Doctor ID: 5385
+Specialization: Radiology
+Gender: Female
+Years of experience: 9
+City: Chittagong, Bangladesh
+Clinics: Khulshi Care Medical Centre (clinic ID 696)
+
+Review 1 for Dr. Nasrin Siddique, Radiology, Chittagong
+Rating: 7/10
+Clinic visited: Khulshi Care Medical Centre
+Description: Dr. Nasrin Siddique was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 2 for Dr. Nasrin Siddique, Radiology, Chittagong
+Rating: 7/10
+Clinic visited: Khulshi Care Medical Centre
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 3 for Dr. Nasrin Siddique, Radiology, Chittagong
+Rating: 7/10
+Clinic visited: Khulshi Care Medical Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The report from Dr. Nasrin Siddique was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 4 for Dr. Nasrin Siddique, Radiology, Chittagong
+Rating: 5/10
+Clinic visited: Khulshi Care Medical Centre
+Description: Booking was easy online, but the confirmation email contained the wrong address for Khulshi Care Medical Centre.
+
+Review 5 for Dr. Nasrin Siddique, Radiology, Chittagong
+Rating: 6/10
+Clinic visited: Khulshi Care Medical Centre
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Quick appointment and a fair price in Chittagong, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Nasrin Siddique, Radiology, Chittagong
+Rating: 7/10
+Clinic visited: Khulshi Care Medical Centre
+Description: Dr. Nasrin Siddique answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Nasrin Siddique, Radiology, Chittagong
+Rating: 8/10
+Clinic visited: Khulshi Care Medical Centre
+Description: My ultrasound was unhurried, and Dr. Nasrin Siddique took time to show me the images and explain what each measurement meant. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 8 for Dr. Nasrin Siddique, Radiology, Chittagong
+Rating: 6/10
+Clinic visited: Khulshi Care Medical Centre
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Overall rating for Dr. Nasrin Siddique, Radiology, Chittagong: 6.62/10 from 8 reviews

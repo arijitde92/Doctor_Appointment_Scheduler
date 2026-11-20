@@ -1,0 +1,49 @@
+Doctor: Dr. Kate Brown
+Doctor ID: 6538
+Specialization: Neurology
+Gender: Female
+Years of experience: 13
+City: Perth, Australia
+Clinics: Outback Road Medical (clinic ID 846); Seaview Medical Clinic (clinic ID 848)
+
+Review 1 for Dr. Kate Brown, Neurology, Perth
+Rating: 8/10
+Clinic visited: Outback Road Medical
+Description: She coordinated with my regular doctor so my medicine list was consistent in both offices. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Kate Brown, Neurology, Perth
+Rating: 8/10
+Clinic visited: Outback Road Medical
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. My referral letter was written on the spot, and the specialist's office had my details before I called. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Kate Brown, Neurology, Perth
+Rating: 7/10
+Clinic visited: Seaview Medical Clinic
+Description: Dr. Kate Brown was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Kate Brown, Neurology, Perth
+Rating: 9/10
+Clinic visited: Seaview Medical Clinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. I felt listened to about my numb hands, and the nerve conduction test was done promptly at Seaview Medical Clinic.
+
+Review 5 for Dr. Kate Brown, Neurology, Perth
+Rating: 7/10
+Clinic visited: Outback Road Medical
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Kate Brown, Neurology, Perth
+Rating: 7/10
+Clinic visited: Seaview Medical Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Dr. Kate Brown explained my results well, although the visit felt short for such a complex condition.
+
+Review 7 for Dr. Kate Brown, Neurology, Perth
+Rating: 8/10
+Clinic visited: Outback Road Medical
+Description: Prescriptions from Dr. Kate Brown were sent to my pharmacy before I even left the building, and the dosage instructions were written down. The memory assessment for my father at Outback Road Medical was gentle and respectful, and the family received a clear written summary.
+
+Review 8 for Dr. Kate Brown, Neurology, Perth
+Rating: 7/10
+Clinic visited: Outback Road Medical
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Kate Brown at Outback Road Medical are difficult to schedule. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Kate Brown, Neurology, Perth: 7.62/10 from 8 reviews

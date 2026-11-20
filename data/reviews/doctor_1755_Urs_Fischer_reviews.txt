@@ -1,0 +1,49 @@
+Doctor: Dr. Urs Fischer
+Doctor ID: 1755
+Specialization: Radiology
+Gender: Male
+Years of experience: 13
+City: Geneva, Switzerland
+Clinics: Centre de Santé Champel Parc (clinic ID 229)
+
+Review 1 for Dr. Urs Fischer, Radiology, Geneva
+Rating: 8/10
+Clinic visited: Centre de Santé Champel Parc
+Description: Dr. Urs Fischer looked me in the eye, listened to the whole story and only then started typing.
+
+Review 2 for Dr. Urs Fischer, Radiology, Geneva
+Rating: 10/10
+Clinic visited: Centre de Santé Champel Parc
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 3 for Dr. Urs Fischer, Radiology, Geneva
+Rating: 8/10
+Clinic visited: Centre de Santé Champel Parc
+Description: Fast, clean and professional; the bone density scan with Dr. Urs Fischer was painless and the results were explained clearly. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Urs Fischer, Radiology, Geneva
+Rating: 8/10
+Clinic visited: Centre de Santé Champel Parc
+Description: Reviewing my X-ray together with Dr. Urs Fischer on the screen made it much easier to understand my arthritis. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Urs Fischer, Radiology, Geneva
+Rating: 6/10
+Clinic visited: Centre de Santé Champel Parc
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 6 for Dr. Urs Fischer, Radiology, Geneva
+Rating: 10/10
+Clinic visited: Centre de Santé Champel Parc
+Description: When my scan showed something that needed a second look, Dr. Urs Fischer arranged the follow-up the same day.
+
+Review 7 for Dr. Urs Fischer, Radiology, Geneva
+Rating: 8/10
+Clinic visited: Centre de Santé Champel Parc
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 8 for Dr. Urs Fischer, Radiology, Geneva
+Rating: 10/10
+Clinic visited: Centre de Santé Champel Parc
+Description: My ultrasound was unhurried, and Dr. Urs Fischer took time to show me the images and explain what each measurement meant. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Urs Fischer, Radiology, Geneva: 8.50/10 from 8 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Ricardo Ccori
+Doctor ID: 946
+Specialization: General
+Gender: Male
+Years of experience: 5
+City: Cusco, Peru
+Clinics: Instituto de Salud Garcilaso (clinic ID 124)
+
+Review 1 for Dr. Ricardo Ccori, General, Cusco
+Rating: 9/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 2 for Dr. Ricardo Ccori, General, Cusco
+Rating: 7/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 3 for Dr. Ricardo Ccori, General, Cusco
+Rating: 7/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 4 for Dr. Ricardo Ccori, General, Cusco
+Rating: 8/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: Paperwork at Instituto de Salud Garcilaso was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 5 for Dr. Ricardo Ccori, General, Cusco
+Rating: 9/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. My annual check-up with Dr. Ricardo Ccori took forty minutes, with every screening explained and nothing rushed.
+
+Review 6 for Dr. Ricardo Ccori, General, Cusco
+Rating: 7/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 7 for Dr. Ricardo Ccori, General, Cusco
+Rating: 8/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: My blood pressure had crept up and Dr. Ricardo Ccori walked me through diet changes before suggesting anything else. Three months later my readings were normal. I was given a printed summary of the visit, which I shared with my family at home. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Ricardo Ccori, General, Cusco
+Rating: 9/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: Dr. Ricardo Ccori drew a quick sketch to explain what was going on, which helped me remember it afterwards. Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 9 for Dr. Ricardo Ccori, General, Cusco
+Rating: 9/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: Dr. Ricardo Ccori spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 10 for Dr. Ricardo Ccori, General, Cusco
+Rating: 8/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: Cholesterol results were explained by Dr. Ricardo Ccori with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 11 for Dr. Ricardo Ccori, General, Cusco
+Rating: 9/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: By the time I left the room, Dr. Ricardo Ccori had sorted the sick note, referral letter and prescription refill. Sensitive questions were handled by Dr. Ricardo Ccori with discretion and without a hint of judgment.
+
+Review 12 for Dr. Ricardo Ccori, General, Cusco
+Rating: 8/10
+Clinic visited: Instituto de Salud Garcilaso
+Description: I went in with months of tiredness, and Dr. Ricardo Ccori ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. At my visit, Dr. Ricardo Ccori took notes on my medication list, checked for interactions and explained the changes simply.
+
+Overall rating for Dr. Ricardo Ccori, General, Cusco: 8.17/10 from 12 reviews

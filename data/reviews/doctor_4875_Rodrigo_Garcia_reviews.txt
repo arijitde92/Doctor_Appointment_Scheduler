@@ -1,0 +1,54 @@
+Doctor: Dr. Rodrigo Garcia
+Doctor ID: 4875
+Specialization: Neurology
+Gender: Male
+Years of experience: 12
+City: Manila, Philippines
+Clinics: Klinika Luntian (clinic ID 629)
+
+Review 1 for Dr. Rodrigo Garcia, Neurology, Manila
+Rating: 9/10
+Clinic visited: Klinika Luntian
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 2 for Dr. Rodrigo Garcia, Neurology, Manila
+Rating: 8/10
+Clinic visited: Klinika Luntian
+Description: The memory assessment for my father at Klinika Luntian was gentle and respectful, and the family received a clear written summary. Paperwork at Klinika Luntian was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 3 for Dr. Rodrigo Garcia, Neurology, Manila
+Rating: 7/10
+Clinic visited: Klinika Luntian
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Rodrigo Garcia, Neurology, Manila
+Rating: 7/10
+Clinic visited: Klinika Luntian
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. The treatment plan from Dr. Rodrigo Garcia made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Rodrigo Garcia, Neurology, Manila
+Rating: 6/10
+Clinic visited: Klinika Luntian
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Rodrigo Garcia, Neurology, Manila
+Rating: 7/10
+Clinic visited: Klinika Luntian
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Rodrigo Garcia at Klinika Luntian are difficult to schedule. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Rodrigo Garcia, Neurology, Manila
+Rating: 9/10
+Clinic visited: Klinika Luntian
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Clear and honest talk with Dr. Rodrigo Garcia about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Review 8 for Dr. Rodrigo Garcia, Neurology, Manila
+Rating: 10/10
+Clinic visited: Klinika Luntian
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. I was called in within five minutes of my appointment time at Klinika Luntian, which is rare and much appreciated.
+
+Review 9 for Dr. Rodrigo Garcia, Neurology, Manila
+Rating: 6/10
+Clinic visited: Klinika Luntian
+Description: Dr. Rodrigo Garcia explained my results well, although the visit felt short for such a complex condition. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Rodrigo Garcia, Neurology, Manila: 7.67/10 from 9 reviews

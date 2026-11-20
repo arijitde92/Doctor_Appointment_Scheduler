@@ -1,0 +1,69 @@
+Doctor: Dr. Kimura Risa
+Doctor ID: 4056
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 25
+City: Osaka, Japan
+Clinics: Honmachi Kaede Health Clinic (clinic ID 523)
+
+Review 1 for Dr. Kimura Risa, Psychiatry, Osaka
+Rating: 6/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Kimura Risa, Psychiatry, Osaka
+Rating: 7/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Honmachi Kaede Health Clinic. Good listener, yet the refill process at Honmachi Kaede Health Clinic is slow and requires several phone calls.
+
+Review 3 for Dr. Kimura Risa, Psychiatry, Osaka
+Rating: 7/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Kimura Risa, Psychiatry, Osaka
+Rating: 8/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Kimura Risa, Psychiatry, Osaka
+Rating: 6/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Kimura Risa, Psychiatry, Osaka
+Rating: 7/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 7 for Dr. Kimura Risa, Psychiatry, Osaka
+Rating: 7/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Kimura Risa, Psychiatry, Osaka
+Rating: 8/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 9 for Dr. Kimura Risa, Psychiatry, Osaka
+Rating: 6/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 10 for Dr. Kimura Risa, Psychiatry, Osaka
+Rating: 7/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 11 for Dr. Kimura Risa, Psychiatry, Osaka
+Rating: 6/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Dr. Kimura Risa was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. Kimura Risa is knowledgeable, though I waited several weeks for my first appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Review 12 for Dr. Kimura Risa, Psychiatry, Osaka
+Rating: 8/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Telehealth follow-ups at Honmachi Kaede Health Clinic are punctual and calm, and refills are dealt with quickly. Prescriptions from Dr. Kimura Risa were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Kimura Risa, Psychiatry, Osaka: 6.92/10 from 12 reviews

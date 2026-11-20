@@ -1,0 +1,49 @@
+Doctor: Dr. Karin van Dijk
+Doctor ID: 2569
+Specialization: Pathology
+Gender: Female
+Years of experience: 27
+City: Amsterdam, Netherlands
+Clinics: Medisch Centrum De Pijp (clinic ID 336)
+
+Review 1 for Dr. Karin van Dijk, Pathology, Amsterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum De Pijp
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 2 for Dr. Karin van Dijk, Pathology, Amsterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Karin van Dijk, Pathology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 4 for Dr. Karin van Dijk, Pathology, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: The lab under Dr. Karin van Dijk was clean, organized and never overbooked, and results arrived exactly when promised.
+
+Review 5 for Dr. Karin van Dijk, Pathology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum De Pijp
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful in clarifying a borderline result, though Dr. Karin van Dijk gave little guidance about whether to repeat it.
+
+Review 6 for Dr. Karin van Dijk, Pathology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum De Pijp
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Karin van Dijk answered my questions kindly, though the call back took three days.
+
+Review 7 for Dr. Karin van Dijk, Pathology, Amsterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 8 for Dr. Karin van Dijk, Pathology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum De Pijp
+Description: The treatment plan from Dr. Karin van Dijk made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Karin van Dijk, Pathology, Amsterdam: 7.12/10 from 8 reviews

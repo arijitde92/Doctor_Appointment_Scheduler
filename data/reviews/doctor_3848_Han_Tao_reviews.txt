@@ -1,0 +1,54 @@
+Doctor: Dr. Han Tao
+Doctor ID: 3848
+Specialization: Radiology
+Gender: Male
+Years of experience: 6
+City: Beijing, China
+Clinics: Dongsanhuan Family Health Practice (clinic ID 497)
+
+Review 1 for Dr. Han Tao, Radiology, Beijing
+Rating: 7/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 2 for Dr. Han Tao, Radiology, Beijing
+Rating: 8/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: My ultrasound was unhurried, and Dr. Han Tao took time to show me the images and explain what each measurement meant. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Han Tao, Radiology, Beijing
+Rating: 5/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Dr. Han Tao was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Han Tao, Radiology, Beijing
+Rating: 8/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Han Tao sent a clear report within a day. I was called in within five minutes of my appointment time at Dongsanhuan Family Health Practice, which is rare and much appreciated. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Han Tao, Radiology, Beijing
+Rating: 8/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: Dr. Han Tao looked me in the eye, listened to the whole story and only then started typing. Images from Dongsanhuan Family Health Practice were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 6 for Dr. Han Tao, Radiology, Beijing
+Rating: 7/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 7 for Dr. Han Tao, Radiology, Beijing
+Rating: 5/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: The report from Dr. Han Tao was thorough, though full of technical terms that needed my regular doctor to translate. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Han Tao, Radiology, Beijing
+Rating: 6/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The treatment plan from Dr. Han Tao made sense, but I wished it had been written down for me to take away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Han Tao, Radiology, Beijing
+Rating: 6/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Dr. Han Tao answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Overall rating for Dr. Han Tao, Radiology, Beijing: 6.67/10 from 9 reviews

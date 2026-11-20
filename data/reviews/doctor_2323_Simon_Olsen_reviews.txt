@@ -1,0 +1,54 @@
+Doctor: Dr. Simon Olsen
+Doctor ID: 2323
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 20
+City: Aarhus, Denmark
+Clinics: Klinik Åboulevarden Aarhus (clinic ID 304)
+
+Review 1 for Dr. Simon Olsen, Pediatrics, Aarhus
+Rating: 6/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Simon Olsen, Pediatrics, Aarhus
+Rating: 9/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 3 for Dr. Simon Olsen, Pediatrics, Aarhus
+Rating: 5/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Dr. Simon Olsen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Simon Olsen, Pediatrics, Aarhus
+Rating: 5/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 5 for Dr. Simon Olsen, Pediatrics, Aarhus
+Rating: 7/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: I got what I needed, but the next available appointment was three weeks away. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 6 for Dr. Simon Olsen, Pediatrics, Aarhus
+Rating: 9/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: The practice in Aarhus is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 7 for Dr. Simon Olsen, Pediatrics, Aarhus
+Rating: 7/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 8 for Dr. Simon Olsen, Pediatrics, Aarhus
+Rating: 7/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Simon Olsen is thorough with exams, but the after-hours phone line at Klinik Åboulevarden Aarhus is hard to reach.
+
+Review 9 for Dr. Simon Olsen, Pediatrics, Aarhus
+Rating: 5/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: I liked the advice I got from Dr. Simon Olsen, but I would have liked more time to ask follow-up questions before the visit ended. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Simon Olsen, Pediatrics, Aarhus: 6.67/10 from 9 reviews

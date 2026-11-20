@@ -1,0 +1,49 @@
+Doctor: Dr. Oliver Krüger
+Doctor ID: 1583
+Specialization: Radiology
+Gender: Male
+Years of experience: 12
+City: Hamburg, Germany
+Clinics: Ärztehaus Eppendorfer Park (clinic ID 206)
+
+Review 1 for Dr. Oliver Krüger, Radiology, Hamburg
+Rating: 7/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 2 for Dr. Oliver Krüger, Radiology, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 3 for Dr. Oliver Krüger, Radiology, Hamburg
+Rating: 7/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Oliver Krüger, Radiology, Hamburg
+Rating: 8/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Prescriptions from Dr. Oliver Krüger were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 5 for Dr. Oliver Krüger, Radiology, Hamburg
+Rating: 9/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Parking was simple, the waiting room was calm, and I never felt like a number.
+
+Review 6 for Dr. Oliver Krüger, Radiology, Hamburg
+Rating: 6/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Oliver Krüger, Radiology, Hamburg
+Rating: 10/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: A same-day slot was found for me at Ärztehaus Eppendorfer Park when I called with a worrying symptom.
+
+Review 8 for Dr. Oliver Krüger, Radiology, Hamburg
+Rating: 10/10
+Clinic visited: Ärztehaus Eppendorfer Park
+Description: Booking a CT scan online at Ärztehaus Eppendorfer Park took two minutes, and I was in and out within forty minutes. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Overall rating for Dr. Oliver Krüger, Radiology, Hamburg: 8.12/10 from 8 reviews

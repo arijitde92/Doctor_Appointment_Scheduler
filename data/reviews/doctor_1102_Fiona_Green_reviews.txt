@@ -1,0 +1,59 @@
+Doctor: Dr. Fiona Green
+Doctor ID: 1102
+Specialization: Radiology
+Gender: Female
+Years of experience: 21
+City: Edinburgh, UK
+Clinics: Raeburn Place Medical Practice (clinic ID 144)
+
+Review 1 for Dr. Fiona Green, Radiology, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: I got what I needed, but the next available appointment was three weeks away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Fiona Green, Radiology, Edinburgh
+Rating: 10/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Fast, clean and professional; the bone density scan with Dr. Fiona Green was painless and the results were explained clearly.
+
+Review 3 for Dr. Fiona Green, Radiology, Edinburgh
+Rating: 10/10
+Clinic visited: Raeburn Place Medical Practice
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor. Dr. Fiona Green used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 4 for Dr. Fiona Green, Radiology, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The report from Dr. Fiona Green was thorough, though full of technical terms that needed my regular doctor to translate. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Fiona Green, Radiology, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 6 for Dr. Fiona Green, Radiology, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Booking a CT scan online at Raeburn Place Medical Practice took two minutes, and I was in and out within forty minutes.
+
+Review 7 for Dr. Fiona Green, Radiology, Edinburgh
+Rating: 9/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Reviewing my X-ray together with Dr. Fiona Green on the screen made it much easier to understand my arthritis. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 8 for Dr. Fiona Green, Radiology, Edinburgh
+Rating: 10/10
+Clinic visited: Raeburn Place Medical Practice
+Description: When my scan showed something that needed a second look, Dr. Fiona Green arranged the follow-up the same day. At my visit, Dr. Fiona Green took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 9 for Dr. Fiona Green, Radiology, Edinburgh
+Rating: 10/10
+Clinic visited: Raeburn Place Medical Practice
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Fiona Green were respectful throughout. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 10 for Dr. Fiona Green, Radiology, Edinburgh
+Rating: 9/10
+Clinic visited: Raeburn Place Medical Practice
+Description: The report from Dr. Fiona Green was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Overall rating for Dr. Fiona Green, Radiology, Edinburgh: 8.80/10 from 10 reviews

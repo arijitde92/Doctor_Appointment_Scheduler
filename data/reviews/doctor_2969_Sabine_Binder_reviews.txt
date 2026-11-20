@@ -1,0 +1,49 @@
+Doctor: Dr. Sabine Binder
+Doctor ID: 2969
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 15
+City: Salzburg, Austria
+Clinics: Gesundheitszentrum Lehen (clinic ID 387)
+
+Review 1 for Dr. Sabine Binder, Psychiatry, Salzburg
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 2 for Dr. Sabine Binder, Psychiatry, Salzburg
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 3 for Dr. Sabine Binder, Psychiatry, Salzburg
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. My family was included in a session at my request, and Dr. Sabine Binder handled it with great tact. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Sabine Binder, Psychiatry, Salzburg
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good listener, yet the refill process at Gesundheitszentrum Lehen is slow and requires several phone calls.
+
+Review 5 for Dr. Sabine Binder, Psychiatry, Salzburg
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Sabine Binder, Psychiatry, Salzburg
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 7 for Dr. Sabine Binder, Psychiatry, Salzburg
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: The prescription from Dr. Sabine Binder was not the one we discussed, and I only noticed when I got home. Dr. Sabine Binder seemed to focus on the paperwork, and I did not feel I could share what was really going on.
+
+Review 8 for Dr. Sabine Binder, Psychiatry, Salzburg
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Lehen
+Description: The treatment plan from Dr. Sabine Binder made sense, but I wished it had been written down for me to take away. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Overall rating for Dr. Sabine Binder, Psychiatry, Salzburg: 6.12/10 from 8 reviews

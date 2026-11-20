@@ -1,0 +1,64 @@
+Doctor: Dr. Zoe Wood
+Doctor ID: 1137
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 2
+City: London, UK
+Clinics: Upper Street Wellbeing Clinic (clinic ID 149)
+
+Review 1 for Dr. Zoe Wood, Pediatrics, London
+Rating: 6/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Zoe Wood, Pediatrics, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Zoe Wood, Pediatrics, London
+Rating: 6/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Caring and gentle with my child, Dr. Zoe Wood nonetheless ran forty minutes behind schedule at most appointments. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Zoe Wood, Pediatrics, London
+Rating: 4/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: The referral to a specialist never arrived, and I had to chase it myself for weeks.
+
+Review 5 for Dr. Zoe Wood, Pediatrics, London
+Rating: 5/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 6 for Dr. Zoe Wood, Pediatrics, London
+Rating: 5/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 7 for Dr. Zoe Wood, Pediatrics, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Zoe Wood, Pediatrics, London
+Rating: 5/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 9 for Dr. Zoe Wood, Pediatrics, London
+Rating: 5/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Dr. Zoe Wood is thorough with exams, but the after-hours phone line at Upper Street Wellbeing Clinic is hard to reach. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Zoe Wood, Pediatrics, London
+Rating: 6/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 11 for Dr. Zoe Wood, Pediatrics, London
+Rating: 6/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Zoe Wood, Pediatrics, London: 5.64/10 from 11 reviews

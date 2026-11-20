@@ -1,0 +1,59 @@
+Doctor: Dr. Simon Mikkelsen
+Doctor ID: 2271
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 18
+City: Aalborg, Denmark
+Clinics: Lægecentret Nørregade Aalborg (clinic ID 296); Sundhedscenter Vesterbro Aalborg (clinic ID 297); Lægehuset Algade Plus (clinic ID 298)
+
+Review 1 for Dr. Simon Mikkelsen, Pulmonology, Aalborg
+Rating: 2/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: I called twice about worsening symptoms and no one returned my message until the following week.
+
+Review 2 for Dr. Simon Mikkelsen, Pulmonology, Aalborg
+Rating: 4/10
+Clinic visited: Lægehuset Algade Plus
+Description: The breathing test appointment was cancelled the day before, and the next slot was six weeks away.
+
+Review 3 for Dr. Simon Mikkelsen, Pulmonology, Aalborg
+Rating: 5/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Dr. Simon Mikkelsen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Simon Mikkelsen, Pulmonology, Aalborg
+Rating: 6/10
+Clinic visited: Lægecentret Nørregade Aalborg
+Description: Dr. Simon Mikkelsen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Simon Mikkelsen, Pulmonology, Aalborg
+Rating: 5/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Simon Mikkelsen, Pulmonology, Aalborg
+Rating: 5/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: I liked the advice I got from Dr. Simon Mikkelsen, but I would have liked more time to ask follow-up questions before the visit ended. Dr. Simon Mikkelsen adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 7 for Dr. Simon Mikkelsen, Pulmonology, Aalborg
+Rating: 3/10
+Clinic visited: Lægehuset Algade Plus
+Description: I was told to just keep using my inhaler and nobody checked whether I was using it properly. Not a place I would choose again, and I hope others have a better experience.
+
+Review 8 for Dr. Simon Mikkelsen, Pulmonology, Aalborg
+Rating: 4/10
+Clinic visited: Lægecentret Nørregade Aalborg
+Description: Dr. Simon Mikkelsen rushed through my scan results and I left the room unsure whether I needed treatment. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. I will not be returning and have already started looking for another doctor.
+
+Review 9 for Dr. Simon Mikkelsen, Pulmonology, Aalborg
+Rating: 6/10
+Clinic visited: Sundhedscenter Vesterbro Aalborg
+Description: Helpful and honest about my prognosis, Dr. Simon Mikkelsen could still have given me more written material to take home.
+
+Review 10 for Dr. Simon Mikkelsen, Pulmonology, Aalborg
+Rating: 5/10
+Clinic visited: Lægehuset Algade Plus
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Overall rating for Dr. Simon Mikkelsen, Pulmonology, Aalborg: 4.50/10 from 10 reviews

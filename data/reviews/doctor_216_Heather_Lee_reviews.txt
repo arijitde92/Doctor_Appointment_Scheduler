@@ -1,0 +1,59 @@
+Doctor: Dr. Heather Lee
+Doctor ID: 216
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 29
+City: San Francisco, USA
+Clinics: Golden Gate Family Practice (clinic ID 30); Van Ness Medical Group (clinic ID 31); Cow Hollow Health Associates (clinic ID 32)
+
+Review 1 for Dr. Heather Lee, Pediatrics, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: The waiting room in San Francisco has a play corner and separate seating for sick children, which I really valued. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Heather Lee, Pediatrics, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: Sensitive questions were handled by Dr. Heather Lee with discretion and without a hint of judgment.
+
+Review 3 for Dr. Heather Lee, Pediatrics, San Francisco
+Rating: 9/10
+Clinic visited: Van Ness Medical Group
+Description: We got a same-day appointment for a high fever, and the care at Van Ness Medical Group was kind and efficient. A same-day slot was found for me at Van Ness Medical Group when I called with a worrying symptom. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Heather Lee, Pediatrics, San Francisco
+Rating: 7/10
+Clinic visited: Van Ness Medical Group
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Heather Lee, Pediatrics, San Francisco
+Rating: 5/10
+Clinic visited: Cow Hollow Health Associates
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Caring and gentle with my child, Dr. Heather Lee nonetheless ran forty minutes behind schedule at most appointments. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Heather Lee, Pediatrics, San Francisco
+Rating: 7/10
+Clinic visited: Van Ness Medical Group
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 7 for Dr. Heather Lee, Pediatrics, San Francisco
+Rating: 7/10
+Clinic visited: Cow Hollow Health Associates
+Description: Dr. Heather Lee was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Heather Lee is thorough with exams, but the after-hours phone line at Cow Hollow Health Associates is hard to reach.
+
+Review 8 for Dr. Heather Lee, Pediatrics, San Francisco
+Rating: 5/10
+Clinic visited: Van Ness Medical Group
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Heather Lee, Pediatrics, San Francisco
+Rating: 6/10
+Clinic visited: Golden Gate Family Practice
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Good bedside manner from Dr. Heather Lee, but the parking near Golden Gate Family Practice is limited and I had to circle for fifteen minutes.
+
+Review 10 for Dr. Heather Lee, Pediatrics, San Francisco
+Rating: 5/10
+Clinic visited: Golden Gate Family Practice
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Heather Lee, Pediatrics, San Francisco: 6.80/10 from 10 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Jan Hermans
+Doctor ID: 3067
+Specialization: Radiology
+Gender: Male
+Years of experience: 11
+City: Antwerp, Belgium
+Clinics: Medisch Centrum Eilandje (clinic ID 399)
+
+Review 1 for Dr. Jan Hermans, Radiology, Antwerp
+Rating: 5/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Jan Hermans, Radiology, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Eilandje
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Jan Hermans, Radiology, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Dr. Jan Hermans answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Booking was easy online, but the confirmation email contained the wrong address for Medisch Centrum Eilandje.
+
+Review 4 for Dr. Jan Hermans, Radiology, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: The report from Dr. Jan Hermans was thorough, though full of technical terms that needed my regular doctor to translate. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Jan Hermans, Radiology, Antwerp
+Rating: 9/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Images from Medisch Centrum Eilandje were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 6 for Dr. Jan Hermans, Radiology, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Quick appointment and a fair price in Antwerp, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Jan Hermans, Radiology, Antwerp
+Rating: 5/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Good bedside manner from Dr. Jan Hermans, but the parking near Medisch Centrum Eilandje is limited and I had to circle for fifteen minutes. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 8 for Dr. Jan Hermans, Radiology, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 9 for Dr. Jan Hermans, Radiology, Antwerp
+Rating: 8/10
+Clinic visited: Medisch Centrum Eilandje
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 10 for Dr. Jan Hermans, Radiology, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 11 for Dr. Jan Hermans, Radiology, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Jan Hermans, Radiology, Antwerp: 6.73/10 from 11 reviews

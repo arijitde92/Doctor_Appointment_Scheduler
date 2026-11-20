@@ -1,0 +1,69 @@
+Doctor: Dr. Harri Miettinen
+Doctor ID: 1848
+Specialization: Pathology
+Gender: Male
+Years of experience: 28
+City: Helsinki, Finland
+Clinics: Terveysasema Kluuvi (clinic ID 241)
+
+Review 1 for Dr. Harri Miettinen, Pathology, Helsinki
+Rating: 10/10
+Clinic visited: Terveysasema Kluuvi
+Description: Allergy panel results were explained in detail by Dr. Harri Miettinen, with a note on which results mattered clinically and which did not.
+
+Review 2 for Dr. Harri Miettinen, Pathology, Helsinki
+Rating: 9/10
+Clinic visited: Terveysasema Kluuvi
+Description: The receptionist at Terveysasema Kluuvi remembered my name and had my forms ready, so check-in took less than a minute. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Harri Miettinen, Pathology, Helsinki
+Rating: 10/10
+Clinic visited: Terveysasema Kluuvi
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 4 for Dr. Harri Miettinen, Pathology, Helsinki
+Rating: 10/10
+Clinic visited: Terveysasema Kluuvi
+Description: Fast turnaround at Terveysasema Kluuvi on my thyroid panel, with results in my online account by the next morning. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Harri Miettinen, Pathology, Helsinki
+Rating: 10/10
+Clinic visited: Terveysasema Kluuvi
+Description: Dr. Harri Miettinen took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 6 for Dr. Harri Miettinen, Pathology, Helsinki
+Rating: 10/10
+Clinic visited: Terveysasema Kluuvi
+Description: The biopsy report was returned in three days, and Dr. Harri Miettinen took time on the phone to explain every term in it.
+
+Review 7 for Dr. Harri Miettinen, Pathology, Helsinki
+Rating: 9/10
+Clinic visited: Terveysasema Kluuvi
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Review 8 for Dr. Harri Miettinen, Pathology, Helsinki
+Rating: 6/10
+Clinic visited: Terveysasema Kluuvi
+Description: The blood draw was painless, but the waiting area at Terveysasema Kluuvi was crowded in the early morning.
+
+Review 9 for Dr. Harri Miettinen, Pathology, Helsinki
+Rating: 8/10
+Clinic visited: Terveysasema Kluuvi
+Description: The lab at Terveysasema Kluuvi had a quick, friendly blood draw and the phlebotomist found my vein on the first try. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 10 for Dr. Harri Miettinen, Pathology, Helsinki
+Rating: 9/10
+Clinic visited: Terveysasema Kluuvi
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 11 for Dr. Harri Miettinen, Pathology, Helsinki
+Rating: 10/10
+Clinic visited: Terveysasema Kluuvi
+Description: I asked for a second look at my slides, and Dr. Harri Miettinen reviewed them without any fuss and confirmed the finding in writing. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 12 for Dr. Harri Miettinen, Pathology, Helsinki
+Rating: 8/10
+Clinic visited: Terveysasema Kluuvi
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Harri Miettinen, Pathology, Helsinki: 9.08/10 from 12 reviews

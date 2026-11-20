@@ -1,0 +1,69 @@
+Doctor: Dr. Robert Gruber
+Doctor ID: 3024
+Specialization: Radiology
+Gender: Male
+Years of experience: 2
+City: Vienna, Austria
+Clinics: Ordination Währinger Park (clinic ID 394)
+
+Review 1 for Dr. Robert Gruber, Radiology, Vienna
+Rating: 6/10
+Clinic visited: Ordination Währinger Park
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 2 for Dr. Robert Gruber, Radiology, Vienna
+Rating: 7/10
+Clinic visited: Ordination Währinger Park
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Robert Gruber, Radiology, Vienna
+Rating: 7/10
+Clinic visited: Ordination Währinger Park
+Description: I liked the advice I got from Dr. Robert Gruber, but I would have liked more time to ask follow-up questions before the visit ended. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Robert Gruber, Radiology, Vienna
+Rating: 6/10
+Clinic visited: Ordination Währinger Park
+Description: The treatment plan from Dr. Robert Gruber made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Robert Gruber, Radiology, Vienna
+Rating: 5/10
+Clinic visited: Ordination Währinger Park
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 6 for Dr. Robert Gruber, Radiology, Vienna
+Rating: 4/10
+Clinic visited: Ordination Währinger Park
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 7 for Dr. Robert Gruber, Radiology, Vienna
+Rating: 5/10
+Clinic visited: Ordination Währinger Park
+Description: Dr. Robert Gruber answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Robert Gruber, Radiology, Vienna
+Rating: 5/10
+Clinic visited: Ordination Währinger Park
+Description: The report from Dr. Robert Gruber was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 9 for Dr. Robert Gruber, Radiology, Vienna
+Rating: 5/10
+Clinic visited: Ordination Währinger Park
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 10 for Dr. Robert Gruber, Radiology, Vienna
+Rating: 8/10
+Clinic visited: Ordination Währinger Park
+Description: My ultrasound was unhurried, and Dr. Robert Gruber took time to show me the images and explain what each measurement meant.
+
+Review 11 for Dr. Robert Gruber, Radiology, Vienna
+Rating: 5/10
+Clinic visited: Ordination Währinger Park
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 12 for Dr. Robert Gruber, Radiology, Vienna
+Rating: 8/10
+Clinic visited: Ordination Währinger Park
+Description: The report from Dr. Robert Gruber was detailed but written so a non-medical person could follow it, with a short summary at the top. Dr. Robert Gruber looked me in the eye, listened to the whole story and only then started typing.
+
+Overall rating for Dr. Robert Gruber, Radiology, Vienna: 5.92/10 from 12 reviews

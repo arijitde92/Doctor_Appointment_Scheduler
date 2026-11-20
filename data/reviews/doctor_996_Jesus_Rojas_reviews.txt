@@ -1,0 +1,49 @@
+Doctor: Dr. Jesús Rojas
+Doctor ID: 996
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 3
+City: Trujillo, Peru
+Clinics: Clínica Primavera Norte (clinic ID 130)
+
+Review 1 for Dr. Jesús Rojas, Psychiatry, Trujillo
+Rating: 7/10
+Clinic visited: Clínica Primavera Norte
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Dr. Jesús Rojas was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Jesús Rojas, Psychiatry, Trujillo
+Rating: 3/10
+Clinic visited: Clínica Primavera Norte
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion. There was no translator available, and my parent was left unable to follow what was being said. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 3 for Dr. Jesús Rojas, Psychiatry, Trujillo
+Rating: 4/10
+Clinic visited: Clínica Primavera Norte
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found. Dr. Jesús Rojas seemed to focus on the paperwork, and I did not feel I could share what was really going on.
+
+Review 4 for Dr. Jesús Rojas, Psychiatry, Trujillo
+Rating: 4/10
+Clinic visited: Clínica Primavera Norte
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 5 for Dr. Jesús Rojas, Psychiatry, Trujillo
+Rating: 2/10
+Clinic visited: Clínica Primavera Norte
+Description: Requests for a refill went unanswered for days, and I ran out of my medication. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. Not a place I would choose again, and I hope others have a better experience.
+
+Review 6 for Dr. Jesús Rojas, Psychiatry, Trujillo
+Rating: 4/10
+Clinic visited: Clínica Primavera Norte
+Description: The visit felt rushed, and Dr. Jesús Rojas was already halfway out the door when I started to describe my second symptom. I was not told about common side effects by Dr. Jesús Rojas, and I had a rough first two weeks that could have been avoided.
+
+Review 7 for Dr. Jesús Rojas, Psychiatry, Trujillo
+Rating: 5/10
+Clinic visited: Clínica Primavera Norte
+Description: Good listener, yet the refill process at Clínica Primavera Norte is slow and requires several phone calls.
+
+Review 8 for Dr. Jesús Rojas, Psychiatry, Trujillo
+Rating: 6/10
+Clinic visited: Clínica Primavera Norte
+Description: Dr. Jesús Rojas is knowledgeable, though I waited several weeks for my first appointment.
+
+Overall rating for Dr. Jesús Rojas, Psychiatry, Trujillo: 4.38/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Huang Gang
+Doctor ID: 3935
+Specialization: Pathology
+Gender: Male
+Years of experience: 13
+City: Shanghai, China
+Clinics: Xianxia Hongkang Polyclinic (clinic ID 508)
+
+Review 1 for Dr. Huang Gang, Pathology, Shanghai
+Rating: 7/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Dr. Huang Gang answered my questions kindly, though the call back took three days.
+
+Review 2 for Dr. Huang Gang, Pathology, Shanghai
+Rating: 6/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 3 for Dr. Huang Gang, Pathology, Shanghai
+Rating: 8/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Huang Gang, Pathology, Shanghai
+Rating: 9/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Huang Gang, Pathology, Shanghai
+Rating: 8/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. Appointment reminders came by text and email, and rescheduling took two taps. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Huang Gang, Pathology, Shanghai
+Rating: 10/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: The biopsy report was returned in three days, and Dr. Huang Gang took time on the phone to explain every term in it. At my visit, Dr. Huang Gang took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 7 for Dr. Huang Gang, Pathology, Shanghai
+Rating: 8/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: The waiting room at Xianxia Hongkang Polyclinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 8 for Dr. Huang Gang, Pathology, Shanghai
+Rating: 9/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Getting to Xianxia Hongkang Polyclinic by public transport in Shanghai was easy, and there is a step-free entrance for wheelchairs. Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Shanghai. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. Huang Gang, Pathology, Shanghai
+Rating: 7/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful in clarifying a borderline result, though Dr. Huang Gang gave little guidance about whether to repeat it. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Huang Gang, Pathology, Shanghai
+Rating: 5/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I liked the advice I got from Dr. Huang Gang, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Huang Gang, Pathology, Shanghai: 7.70/10 from 10 reviews

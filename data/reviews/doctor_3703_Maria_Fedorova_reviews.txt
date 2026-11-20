@@ -1,0 +1,49 @@
+Doctor: Dr. Maria Fedorova
+Doctor ID: 3703
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 4
+City: Kazan, Russia
+Clinics: Idel Health Practice (clinic ID 478)
+
+Review 1 for Dr. Maria Fedorova, Gastroenterology, Kazan
+Rating: 8/10
+Clinic visited: Idel Health Practice
+Description: Dr. Maria Fedorova was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Maria Fedorova, Gastroenterology, Kazan
+Rating: 8/10
+Clinic visited: Idel Health Practice
+Description: Clear explanation from Dr. Maria Fedorova of fatty liver and exactly which lifestyle changes would make a measurable difference.
+
+Review 3 for Dr. Maria Fedorova, Gastroenterology, Kazan
+Rating: 10/10
+Clinic visited: Idel Health Practice
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. I was called in within five minutes of my appointment time at Idel Health Practice, which is rare and much appreciated. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Maria Fedorova, Gastroenterology, Kazan
+Rating: 10/10
+Clinic visited: Idel Health Practice
+Description: Paperwork at Idel Health Practice was kept to a minimum, and the staff helped me complete the insurance form. My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 5 for Dr. Maria Fedorova, Gastroenterology, Kazan
+Rating: 8/10
+Clinic visited: Idel Health Practice
+Description: She was upfront about what could and could not be treated, and did not oversell any option. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Maria Fedorova, Gastroenterology, Kazan
+Rating: 10/10
+Clinic visited: Idel Health Practice
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. Dr. Maria Fedorova drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 7 for Dr. Maria Fedorova, Gastroenterology, Kazan
+Rating: 7/10
+Clinic visited: Idel Health Practice
+Description: Knowledgeable about my reflux, Dr. Maria Fedorova still gave diet advice that felt generic and not tailored to my habits. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Maria Fedorova, Gastroenterology, Kazan
+Rating: 9/10
+Clinic visited: Idel Health Practice
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Overall rating for Dr. Maria Fedorova, Gastroenterology, Kazan: 8.75/10 from 8 reviews

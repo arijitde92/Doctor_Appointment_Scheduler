@@ -1,0 +1,59 @@
+Doctor: Dr. Hoang Hoang
+Doctor ID: 4956
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 25
+City: Hai Phong, Vietnam
+Clinics: Phong Kham Gia Dinh Viet Y (clinic ID 640); Phong Kham Cat Tuong (clinic ID 643)
+
+Review 1 for Dr. Hoang Hoang, Pulmonology, Hai Phong
+Rating: 10/10
+Clinic visited: Phong Kham Gia Dinh Viet Y
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Hoang Hoang, Pulmonology, Hai Phong
+Rating: 10/10
+Clinic visited: Phong Kham Cat Tuong
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 3 for Dr. Hoang Hoang, Pulmonology, Hai Phong
+Rating: 9/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 4 for Dr. Hoang Hoang, Pulmonology, Hai Phong
+Rating: 10/10
+Clinic visited: Phong Kham Gia Dinh Viet Y
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Hoang Hoang.
+
+Review 5 for Dr. Hoang Hoang, Pulmonology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Cat Tuong
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Hai Phong.
+
+Review 6 for Dr. Hoang Hoang, Pulmonology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Viet Y
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. The spirometry test was explained step by step, and Dr. Hoang Hoang put the results in context with a clear picture of my lung function.
+
+Review 7 for Dr. Hoang Hoang, Pulmonology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Viet Y
+Description: He was upfront about what could and could not be treated, and did not oversell any option. After years of poorly controlled asthma, Dr. Hoang Hoang reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 8 for Dr. Hoang Hoang, Pulmonology, Hai Phong
+Rating: 10/10
+Clinic visited: Phong Kham Cat Tuong
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Hoang Hoang was practical and never preachy. At my visit, Dr. Hoang Hoang took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 9 for Dr. Hoang Hoang, Pulmonology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Cat Tuong
+Description: A same-day slot was found for me at Phong Kham Cat Tuong when I called with a worrying symptom. He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks.
+
+Review 10 for Dr. Hoang Hoang, Pulmonology, Hai Phong
+Rating: 10/10
+Clinic visited: Phong Kham Gia Dinh Viet Y
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. He called personally with my scan results and walked me through what the findings did and did not mean.
+
+Overall rating for Dr. Hoang Hoang, Pulmonology, Hai Phong: 9.10/10 from 10 reviews

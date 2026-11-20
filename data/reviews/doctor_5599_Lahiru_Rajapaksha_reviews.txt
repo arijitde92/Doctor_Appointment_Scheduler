@@ -1,0 +1,54 @@
+Doctor: Dr. Lahiru Rajapaksha
+Doctor ID: 5599
+Specialization: Neurology
+Gender: Male
+Years of experience: 3
+City: Galle, Sri Lanka
+Clinics: Southern Coast Polyclinic (clinic ID 723)
+
+Review 1 for Dr. Lahiru Rajapaksha, Neurology, Galle
+Rating: 5/10
+Clinic visited: Southern Coast Polyclinic
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Lahiru Rajapaksha, Neurology, Galle
+Rating: 6/10
+Clinic visited: Southern Coast Polyclinic
+Description: Good bedside manner from Dr. Lahiru Rajapaksha, but the parking near Southern Coast Polyclinic is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Lahiru Rajapaksha, Neurology, Galle
+Rating: 6/10
+Clinic visited: Southern Coast Polyclinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 4 for Dr. Lahiru Rajapaksha, Neurology, Galle
+Rating: 4/10
+Clinic visited: Southern Coast Polyclinic
+Description: Dr. Lahiru Rajapaksha did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 5 for Dr. Lahiru Rajapaksha, Neurology, Galle
+Rating: 8/10
+Clinic visited: Southern Coast Polyclinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 6 for Dr. Lahiru Rajapaksha, Neurology, Galle
+Rating: 7/10
+Clinic visited: Southern Coast Polyclinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 7 for Dr. Lahiru Rajapaksha, Neurology, Galle
+Rating: 8/10
+Clinic visited: Southern Coast Polyclinic
+Description: Booking online at Southern Coast Polyclinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 8 for Dr. Lahiru Rajapaksha, Neurology, Galle
+Rating: 6/10
+Clinic visited: Southern Coast Polyclinic
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Lahiru Rajapaksha explained my results well, although the visit felt short for such a complex condition.
+
+Review 9 for Dr. Lahiru Rajapaksha, Neurology, Galle
+Rating: 8/10
+Clinic visited: Southern Coast Polyclinic
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Overall rating for Dr. Lahiru Rajapaksha, Neurology, Galle: 6.44/10 from 9 reviews

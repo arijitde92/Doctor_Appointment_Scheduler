@@ -1,0 +1,49 @@
+Doctor: Dr. Roberto Torres Vázquez
+Doctor ID: 515
+Specialization: Radiology
+Gender: Male
+Years of experience: 6
+City: Puebla, Mexico
+Clinics: Clínica Angelópolis (clinic ID 70)
+
+Review 1 for Dr. Roberto Torres Vázquez, Radiology, Puebla
+Rating: 9/10
+Clinic visited: Clínica Angelópolis
+Description: Reviewing my X-ray together with Dr. Roberto Torres Vázquez on the screen made it much easier to understand my arthritis. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 2 for Dr. Roberto Torres Vázquez, Radiology, Puebla
+Rating: 7/10
+Clinic visited: Clínica Angelópolis
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Roberto Torres Vázquez, Radiology, Puebla
+Rating: 6/10
+Clinic visited: Clínica Angelópolis
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The report from Dr. Roberto Torres Vázquez was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 4 for Dr. Roberto Torres Vázquez, Radiology, Puebla
+Rating: 9/10
+Clinic visited: Clínica Angelópolis
+Description: Dr. Roberto Torres Vázquez used a calm, steady voice that settled my nerves before a stressful procedure. Booking a CT scan online at Clínica Angelópolis took two minutes, and I was in and out within forty minutes.
+
+Review 5 for Dr. Roberto Torres Vázquez, Radiology, Puebla
+Rating: 8/10
+Clinic visited: Clínica Angelópolis
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Roberto Torres Vázquez, Radiology, Puebla
+Rating: 8/10
+Clinic visited: Clínica Angelópolis
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Roberto Torres Vázquez, Radiology, Puebla
+Rating: 7/10
+Clinic visited: Clínica Angelópolis
+Description: Dr. Roberto Torres Vázquez was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. Roberto Torres Vázquez answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 8 for Dr. Roberto Torres Vázquez, Radiology, Puebla
+Rating: 7/10
+Clinic visited: Clínica Angelópolis
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Overall rating for Dr. Roberto Torres Vázquez, Radiology, Puebla: 7.62/10 from 8 reviews

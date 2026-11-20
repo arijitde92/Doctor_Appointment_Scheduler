@@ -1,0 +1,64 @@
+Doctor: Dr. Nicole Davis
+Doctor ID: 208
+Specialization: Psychology
+Gender: Female
+Years of experience: 19
+City: New York, USA
+Clinics: Forest Hills Medical Arts (clinic ID 29)
+
+Review 1 for Dr. Nicole Davis, Psychology, New York
+Rating: 8/10
+Clinic visited: Forest Hills Medical Arts
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. Booking online at Forest Hills Medical Arts was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 2 for Dr. Nicole Davis, Psychology, New York
+Rating: 5/10
+Clinic visited: Forest Hills Medical Arts
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 3 for Dr. Nicole Davis, Psychology, New York
+Rating: 6/10
+Clinic visited: Forest Hills Medical Arts
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 4 for Dr. Nicole Davis, Psychology, New York
+Rating: 6/10
+Clinic visited: Forest Hills Medical Arts
+Description: My trauma work felt well paced, although the schedule changed several times at Forest Hills Medical Arts. Helpful visit overall, although I only found out about an extra charge after I had paid. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Nicole Davis, Psychology, New York
+Rating: 5/10
+Clinic visited: Forest Hills Medical Arts
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Nicole Davis, Psychology, New York
+Rating: 6/10
+Clinic visited: Forest Hills Medical Arts
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. The first assessment was thorough, but I waited almost three weeks for a follow-up slot. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Nicole Davis, Psychology, New York
+Rating: 6/10
+Clinic visited: Forest Hills Medical Arts
+Description: I got what I needed, but the next available appointment was three weeks away. Insightful and kind, though progress with Dr. Nicole Davis felt slow, and I wished for more structured homework between sessions.
+
+Review 8 for Dr. Nicole Davis, Psychology, New York
+Rating: 6/10
+Clinic visited: Forest Hills Medical Arts
+Description: Dr. Nicole Davis listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 9 for Dr. Nicole Davis, Psychology, New York
+Rating: 6/10
+Clinic visited: Forest Hills Medical Arts
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 10 for Dr. Nicole Davis, Psychology, New York
+Rating: 6/10
+Clinic visited: Forest Hills Medical Arts
+Description: Good bedside manner from Dr. Nicole Davis, but the parking near Forest Hills Medical Arts is limited and I had to circle for fifteen minutes.
+
+Review 11 for Dr. Nicole Davis, Psychology, New York
+Rating: 7/10
+Clinic visited: Forest Hills Medical Arts
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Nicole Davis, Psychology, New York: 6.09/10 from 11 reviews

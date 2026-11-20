@@ -1,0 +1,49 @@
+Doctor: Dr. Magnus Lindgren
+Doctor ID: 2109
+Specialization: General
+Gender: Male
+Years of experience: 26
+City: Gothenburg, Sweden
+Clinics: Vårdcentralen Avenyn Plus (clinic ID 275)
+
+Review 1 for Dr. Magnus Lindgren, General, Gothenburg
+Rating: 8/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 2 for Dr. Magnus Lindgren, General, Gothenburg
+Rating: 9/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: By the time I left the room, Dr. Magnus Lindgren had sorted the sick note, referral letter and prescription refill. I appreciated that he offered more than one option and let me choose what suited my life. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Magnus Lindgren, General, Gothenburg
+Rating: 6/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Booking was easy online, but the confirmation email contained the wrong address for Vårdcentralen Avenyn Plus. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Magnus Lindgren, General, Gothenburg
+Rating: 6/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Vårdcentralen Avenyn Plus were inconsistent.
+
+Review 5 for Dr. Magnus Lindgren, General, Gothenburg
+Rating: 7/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Magnus Lindgren, General, Gothenburg
+Rating: 8/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list.
+
+Review 7 for Dr. Magnus Lindgren, General, Gothenburg
+Rating: 8/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Cholesterol results were explained by Dr. Magnus Lindgren with a simple chart, and we agreed on a plan I could realistically follow. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Magnus Lindgren, General, Gothenburg
+Rating: 7/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Magnus Lindgren, General, Gothenburg: 7.38/10 from 8 reviews

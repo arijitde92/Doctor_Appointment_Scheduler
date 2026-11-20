@@ -1,0 +1,49 @@
+Doctor: Dr. Robert Winkler
+Doctor ID: 3002
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 23
+City: Vienna, Austria
+Clinics: Praxiszentrum Stephansblick (clinic ID 391); Gesundheitszentrum Favoriten Süd (clinic ID 392); Ordination Währinger Park (clinic ID 394)
+
+Review 1 for Dr. Robert Winkler, Orthopedic, Vienna
+Rating: 4/10
+Clinic visited: Ordination Währinger Park
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 2 for Dr. Robert Winkler, Orthopedic, Vienna
+Rating: 9/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Robert Winkler felt well organized from start to finish.
+
+Review 3 for Dr. Robert Winkler, Orthopedic, Vienna
+Rating: 6/10
+Clinic visited: Ordination Währinger Park
+Description: Dr. Robert Winkler was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Recovery has gone well, yet the pain control in the first week was not discussed in advance. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Robert Winkler, Orthopedic, Vienna
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Robert Winkler, Orthopedic, Vienna
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: The X-ray was reviewed with me on screen, and he pointed out exactly where the cartilage had worn down.
+
+Review 6 for Dr. Robert Winkler, Orthopedic, Vienna
+Rating: 8/10
+Clinic visited: Ordination Währinger Park
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up.
+
+Review 7 for Dr. Robert Winkler, Orthopedic, Vienna
+Rating: 7/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Very skilled with my knee, but Dr. Robert Winkler's clinic runs behind and the wait was over an hour. Dr. Robert Winkler was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Robert Winkler, Orthopedic, Vienna
+Rating: 10/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Getting around Vienna on crutches was hard, but the accessible entrance and short waiting time at Praxiszentrum Stephansblick helped a lot. Dr. Robert Winkler used a calm, steady voice that settled my nerves before a stressful procedure. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Robert Winkler, Orthopedic, Vienna: 7.50/10 from 8 reviews

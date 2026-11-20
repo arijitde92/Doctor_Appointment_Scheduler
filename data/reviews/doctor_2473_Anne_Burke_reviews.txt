@@ -1,0 +1,64 @@
+Doctor: Dr. Anne Burke
+Doctor ID: 2473
+Specialization: General
+Gender: Female
+Years of experience: 5
+City: Dublin, Ireland
+Clinics: Rathmines Wellbeing Clinic (clinic ID 323)
+
+Review 1 for Dr. Anne Burke, General, Dublin
+Rating: 7/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Dr. Anne Burke is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Anne Burke, General, Dublin
+Rating: 7/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Anne Burke, General, Dublin
+Rating: 7/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Referrals from Dr. Anne Burke are handled well, but getting test results back took longer than I was told to expect. I got what I needed, but the next available appointment was three weeks away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Anne Burke, General, Dublin
+Rating: 6/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 5 for Dr. Anne Burke, General, Dublin
+Rating: 6/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Rathmines Wellbeing Clinic were inconsistent.
+
+Review 6 for Dr. Anne Burke, General, Dublin
+Rating: 6/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Anne Burke, General, Dublin
+Rating: 5/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Anne Burke, General, Dublin
+Rating: 7/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 9 for Dr. Anne Burke, General, Dublin
+Rating: 6/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Anne Burke, General, Dublin
+Rating: 10/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Highly recommended, and I have already told two colleagues about it.
+
+Review 11 for Dr. Anne Burke, General, Dublin
+Rating: 6/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Good bedside manner from Dr. Anne Burke, but the parking near Rathmines Wellbeing Clinic is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Anne Burke, General, Dublin: 6.64/10 from 11 reviews

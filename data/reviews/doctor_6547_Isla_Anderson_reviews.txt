@@ -1,0 +1,69 @@
+Doctor: Dr. Isla Anderson
+Doctor ID: 6547
+Specialization: Cardiology
+Gender: Female
+Years of experience: 3
+City: Perth, Australia
+Clinics: Boronia Health Centre (clinic ID 847)
+
+Review 1 for Dr. Isla Anderson, Cardiology, Perth
+Rating: 7/10
+Clinic visited: Boronia Health Centre
+Description: Great care in the visit itself, but the billing for the tests at Boronia Health Centre was confusing. Booking was easy online, but the confirmation email contained the wrong address for Boronia Health Centre.
+
+Review 2 for Dr. Isla Anderson, Cardiology, Perth
+Rating: 7/10
+Clinic visited: Boronia Health Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Helpful with my cholesterol, Dr. Isla Anderson still gave dietary advice that was a little generic.
+
+Review 3 for Dr. Isla Anderson, Cardiology, Perth
+Rating: 5/10
+Clinic visited: Boronia Health Centre
+Description: I got what I needed, but the next available appointment was three weeks away. The echocardiogram staff were kind, but the results took over a week to be explained to me. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Isla Anderson, Cardiology, Perth
+Rating: 7/10
+Clinic visited: Boronia Health Centre
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Isla Anderson, Cardiology, Perth
+Rating: 8/10
+Clinic visited: Boronia Health Centre
+Description: A same-day slot was found for me at Boronia Health Centre when I called with a worrying symptom. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Isla Anderson, Cardiology, Perth
+Rating: 8/10
+Clinic visited: Boronia Health Centre
+Description: Seeing Dr. Isla Anderson in Perth meant my whole family history was reviewed, and now my sister is being screened too. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 7 for Dr. Isla Anderson, Cardiology, Perth
+Rating: 9/10
+Clinic visited: Boronia Health Centre
+Description: Dr. Isla Anderson explained the difference between my statin options and let me weigh in on the choice.
+
+Review 8 for Dr. Isla Anderson, Cardiology, Perth
+Rating: 8/10
+Clinic visited: Boronia Health Centre
+Description: The cardiology unit at Boronia Health Centre runs on time, and the technicians were professional during my echocardiogram. At my visit, Dr. Isla Anderson took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 9 for Dr. Isla Anderson, Cardiology, Perth
+Rating: 8/10
+Clinic visited: Boronia Health Centre
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 10 for Dr. Isla Anderson, Cardiology, Perth
+Rating: 9/10
+Clinic visited: Boronia Health Centre
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. Five stars from me, and I would book again tomorrow.
+
+Review 11 for Dr. Isla Anderson, Cardiology, Perth
+Rating: 7/10
+Clinic visited: Boronia Health Centre
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 12 for Dr. Isla Anderson, Cardiology, Perth
+Rating: 5/10
+Clinic visited: Boronia Health Centre
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Overall rating for Dr. Isla Anderson, Cardiology, Perth: 7.33/10 from 12 reviews

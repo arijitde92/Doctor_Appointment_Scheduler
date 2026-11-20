@@ -1,0 +1,59 @@
+Doctor: Dr. Aline Pereira
+Doctor ID: 625
+Specialization: Radiology
+Gender: Female
+Years of experience: 3
+City: Curitiba, Brazil
+Clinics: Instituto de Saúde Marechal (clinic ID 84)
+
+Review 1 for Dr. Aline Pereira, Radiology, Curitiba
+Rating: 9/10
+Clinic visited: Instituto de Saúde Marechal
+Description: Dr. Aline Pereira drew a quick sketch to explain what was going on, which helped me remember it afterwards. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Aline Pereira, Radiology, Curitiba
+Rating: 10/10
+Clinic visited: Instituto de Saúde Marechal
+Description: Dr. Aline Pereira compared my new scan with last year's and pointed out exactly what had stayed the same. The nurse was friendly and efficient, and the whole visit with Dr. Aline Pereira felt well organized from start to finish.
+
+Review 3 for Dr. Aline Pereira, Radiology, Curitiba
+Rating: 9/10
+Clinic visited: Instituto de Saúde Marechal
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. When my scan showed something that needed a second look, Dr. Aline Pereira arranged the follow-up the same day.
+
+Review 4 for Dr. Aline Pereira, Radiology, Curitiba
+Rating: 8/10
+Clinic visited: Instituto de Saúde Marechal
+Description: Images from Instituto de Saúde Marechal were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 5 for Dr. Aline Pereira, Radiology, Curitiba
+Rating: 8/10
+Clinic visited: Instituto de Saúde Marechal
+Description: Reviewing my X-ray together with Dr. Aline Pereira on the screen made it much easier to understand my arthritis. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Aline Pereira, Radiology, Curitiba
+Rating: 9/10
+Clinic visited: Instituto de Saúde Marechal
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Aline Pereira sent a clear report within a day.
+
+Review 7 for Dr. Aline Pereira, Radiology, Curitiba
+Rating: 8/10
+Clinic visited: Instituto de Saúde Marechal
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 8 for Dr. Aline Pereira, Radiology, Curitiba
+Rating: 10/10
+Clinic visited: Instituto de Saúde Marechal
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. Everything was explained in plain English by Dr. Aline Pereira, and nothing was left to guess.
+
+Review 9 for Dr. Aline Pereira, Radiology, Curitiba
+Rating: 8/10
+Clinic visited: Instituto de Saúde Marechal
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Review 10 for Dr. Aline Pereira, Radiology, Curitiba
+Rating: 8/10
+Clinic visited: Instituto de Saúde Marechal
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Overall rating for Dr. Aline Pereira, Radiology, Curitiba: 8.70/10 from 10 reviews

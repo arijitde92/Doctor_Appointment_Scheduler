@@ -1,0 +1,54 @@
+Doctor: Dr. Damian Mazur
+Doctor ID: 2751
+Specialization: Radiology
+Gender: Male
+Years of experience: 29
+City: Krakow, Poland
+Clinics: Centrum Medyczne Floriańska Plus (clinic ID 360)
+
+Review 1 for Dr. Damian Mazur, Radiology, Krakow
+Rating: 5/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 2 for Dr. Damian Mazur, Radiology, Krakow
+Rating: 5/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Damian Mazur, Radiology, Krakow
+Rating: 5/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Damian Mazur, Radiology, Krakow
+Rating: 5/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The report from Dr. Damian Mazur was thorough, though full of technical terms that needed my regular doctor to translate. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Damian Mazur, Radiology, Krakow
+Rating: 4/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: My images were not sent to my specialist as promised, so my consultation had to be postponed. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 6 for Dr. Damian Mazur, Radiology, Krakow
+Rating: 5/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Damian Mazur, Radiology, Krakow
+Rating: 1/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: The waiting room at Centrum Medyczne Floriańska Plus was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 8 for Dr. Damian Mazur, Radiology, Krakow
+Rating: 6/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Damian Mazur answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 9 for Dr. Damian Mazur, Radiology, Krakow
+Rating: 2/10
+Clinic visited: Centrum Medyczne Floriańska Plus
+Description: I was charged for a second scan that I was told was a free repeat after an image problem.
+
+Overall rating for Dr. Damian Mazur, Radiology, Krakow: 4.22/10 from 9 reviews

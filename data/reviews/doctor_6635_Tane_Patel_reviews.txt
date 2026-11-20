@@ -1,0 +1,49 @@
+Doctor: Dr. Tane Patel
+Doctor ID: 6635
+Specialization: Cardiology
+Gender: Male
+Years of experience: 3
+City: Christchurch, New Zealand
+Clinics: Rimu Family Clinic (clinic ID 860); Kiwi Care Medical Centre (clinic ID 861); Puriri Medical Practice (clinic ID 864)
+
+Review 1 for Dr. Tane Patel, Cardiology, Christchurch
+Rating: 7/10
+Clinic visited: Puriri Medical Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Tane Patel, Cardiology, Christchurch
+Rating: 6/10
+Clinic visited: Puriri Medical Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Puriri Medical Practice. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Tane Patel, Cardiology, Christchurch
+Rating: 7/10
+Clinic visited: Rimu Family Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The echocardiogram staff were kind, but the results took over a week to be explained to me. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Tane Patel, Cardiology, Christchurch
+Rating: 6/10
+Clinic visited: Rimu Family Clinic
+Description: Great care in the visit itself, but the billing for the tests at Rimu Family Clinic was confusing. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Tane Patel, Cardiology, Christchurch
+Rating: 6/10
+Clinic visited: Puriri Medical Practice
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 6 for Dr. Tane Patel, Cardiology, Christchurch
+Rating: 8/10
+Clinic visited: Kiwi Care Medical Centre
+Description: Paperwork at Kiwi Care Medical Centre was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 7 for Dr. Tane Patel, Cardiology, Christchurch
+Rating: 6/10
+Clinic visited: Kiwi Care Medical Centre
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Tane Patel, Cardiology, Christchurch
+Rating: 7/10
+Clinic visited: Kiwi Care Medical Centre
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Tane Patel, Cardiology, Christchurch: 6.62/10 from 8 reviews

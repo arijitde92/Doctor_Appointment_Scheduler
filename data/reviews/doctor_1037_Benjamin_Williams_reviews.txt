@@ -1,0 +1,54 @@
+Doctor: Dr. Benjamin Williams
+Doctor ID: 1037
+Specialization: General
+Gender: Male
+Years of experience: 22
+City: Bristol, UK
+Clinics: Park Street Medical Practice (clinic ID 136); Gloucester Road Family Clinic (clinic ID 137); Broad Street Polyclinic (clinic ID 138)
+
+Review 1 for Dr. Benjamin Williams, General, Bristol
+Rating: 6/10
+Clinic visited: Gloucester Road Family Clinic
+Description: I liked the advice I got from Dr. Benjamin Williams, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Benjamin Williams, General, Bristol
+Rating: 10/10
+Clinic visited: Park Street Medical Practice
+Description: As a new patient in Bristol, I felt welcomed at Park Street Medical Practice, and my whole history was reviewed in one relaxed visit. At my visit, Dr. Benjamin Williams took notes on my medication list, checked for interactions and explained the changes simply. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Benjamin Williams, General, Bristol
+Rating: 9/10
+Clinic visited: Broad Street Polyclinic
+Description: I always hear back within a day when I leave a question with the nurse at Broad Street Polyclinic, and Dr. Benjamin Williams follows up on lab results personally.
+
+Review 4 for Dr. Benjamin Williams, General, Bristol
+Rating: 9/10
+Clinic visited: Gloucester Road Family Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. My annual check-up with Dr. Benjamin Williams took forty minutes, with every screening explained and nothing rushed. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Benjamin Williams, General, Bristol
+Rating: 8/10
+Clinic visited: Park Street Medical Practice
+Description: Getting to Park Street Medical Practice from across Bristol was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 6 for Dr. Benjamin Williams, General, Bristol
+Rating: 9/10
+Clinic visited: Broad Street Polyclinic
+Description: Vaccination advice from Dr. Benjamin Williams for my travel plans was thorough and specific to the countries I was visiting. Dr. Benjamin Williams double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 7 for Dr. Benjamin Williams, General, Bristol
+Rating: 7/10
+Clinic visited: Gloucester Road Family Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Booking was easy online, but the confirmation email contained the wrong address for Gloucester Road Family Clinic.
+
+Review 8 for Dr. Benjamin Williams, General, Bristol
+Rating: 8/10
+Clinic visited: Broad Street Polyclinic
+Description: Prescriptions from Dr. Benjamin Williams were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 9 for Dr. Benjamin Williams, General, Bristol
+Rating: 10/10
+Clinic visited: Park Street Medical Practice
+Description: A translator was arranged for my mother without us asking twice, and Dr. Benjamin Williams spoke directly to her throughout. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Benjamin Williams, General, Bristol: 8.44/10 from 9 reviews

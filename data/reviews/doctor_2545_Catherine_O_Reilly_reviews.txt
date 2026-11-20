@@ -1,0 +1,59 @@
+Doctor: Dr. Catherine O'Reilly
+Doctor ID: 2545
+Specialization: Cardiology
+Gender: Female
+Years of experience: 8
+City: Limerick, Ireland
+Clinics: Dooradoyle Polyclinic (clinic ID 333)
+
+Review 1 for Dr. Catherine O'Reilly, Cardiology, Limerick
+Rating: 7/10
+Clinic visited: Dooradoyle Polyclinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Catherine O'Reilly, Cardiology, Limerick
+Rating: 8/10
+Clinic visited: Dooradoyle Polyclinic
+Description: A same-day slot was found for me at Dooradoyle Polyclinic when I called with a worrying symptom.
+
+Review 3 for Dr. Catherine O'Reilly, Cardiology, Limerick
+Rating: 8/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Everything was explained in plain English by Dr. Catherine O'Reilly, and nothing was left to guess. Seeing Dr. Catherine O'Reilly in Limerick meant my whole family history was reviewed, and now my sister is being screened too.
+
+Review 4 for Dr. Catherine O'Reilly, Cardiology, Limerick
+Rating: 8/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Catherine O'Reilly, Cardiology, Limerick
+Rating: 6/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Catherine O'Reilly, Cardiology, Limerick
+Rating: 8/10
+Clinic visited: Dooradoyle Polyclinic
+Description: The cardiology unit at Dooradoyle Polyclinic runs on time, and the technicians were professional during my echocardiogram. The waiting room at Dooradoyle Polyclinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 7 for Dr. Catherine O'Reilly, Cardiology, Limerick
+Rating: 7/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Dr. Catherine O'Reilly was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Catherine O'Reilly, Cardiology, Limerick
+Rating: 3/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Dr. Catherine O'Reilly spent most of the appointment looking at the screen and gave very brief answers to my questions.
+
+Review 9 for Dr. Catherine O'Reilly, Cardiology, Limerick
+Rating: 7/10
+Clinic visited: Dooradoyle Polyclinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 10 for Dr. Catherine O'Reilly, Cardiology, Limerick
+Rating: 8/10
+Clinic visited: Dooradoyle Polyclinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Overall rating for Dr. Catherine O'Reilly, Cardiology, Limerick: 7.00/10 from 10 reviews

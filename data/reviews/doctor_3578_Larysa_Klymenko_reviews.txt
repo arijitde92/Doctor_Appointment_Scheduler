@@ -1,0 +1,49 @@
+Doctor: Dr. Larysa Klymenko
+Doctor ID: 3578
+Specialization: Psychology
+Gender: Female
+Years of experience: 12
+City: Kyiv, Ukraine
+Clinics: Lybid Medical Practice (clinic ID 463)
+
+Review 1 for Dr. Larysa Klymenko, Psychology, Kyiv
+Rating: 5/10
+Clinic visited: Lybid Medical Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Larysa Klymenko, Psychology, Kyiv
+Rating: 6/10
+Clinic visited: Lybid Medical Practice
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good tools for managing worry, but cancellations with short notice were handled inflexibly. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Larysa Klymenko, Psychology, Kyiv
+Rating: 4/10
+Clinic visited: Lybid Medical Practice
+Description: I felt dismissed by Dr. Larysa Klymenko when I brought up a second concern, and was told to book another appointment for it.
+
+Review 4 for Dr. Larysa Klymenko, Psychology, Kyiv
+Rating: 10/10
+Clinic visited: Lybid Medical Practice
+Description: Dr. Larysa Klymenko adapted the approach when the first method did not suit me, and that flexibility made all the difference. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 5 for Dr. Larysa Klymenko, Psychology, Kyiv
+Rating: 7/10
+Clinic visited: Lybid Medical Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Insightful and kind, though progress with Dr. Larysa Klymenko felt slow, and I wished for more structured homework between sessions.
+
+Review 6 for Dr. Larysa Klymenko, Psychology, Kyiv
+Rating: 7/10
+Clinic visited: Lybid Medical Practice
+Description: My trauma work felt well paced, although the schedule changed several times at Lybid Medical Practice. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Larysa Klymenko, Psychology, Kyiv
+Rating: 7/10
+Clinic visited: Lybid Medical Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The first assessment was thorough, but I waited almost three weeks for a follow-up slot. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Larysa Klymenko, Psychology, Kyiv
+Rating: 6/10
+Clinic visited: Lybid Medical Practice
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Overall rating for Dr. Larysa Klymenko, Psychology, Kyiv: 6.50/10 from 8 reviews

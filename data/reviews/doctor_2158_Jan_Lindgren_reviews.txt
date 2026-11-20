@@ -1,0 +1,54 @@
+Doctor: Dr. Jan Lindgren
+Doctor ID: 2158
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 25
+City: Malmo, Sweden
+Clinics: Läkarhuset Amiralsgatan (clinic ID 281); Läkarmottagningen Östra Förstan (clinic ID 284)
+
+Review 1 for Dr. Jan Lindgren, Orthopedic, Malmo
+Rating: 7/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Jan Lindgren, Orthopedic, Malmo
+Rating: 8/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: I came away understanding my condition better than I have in years of previous appointments. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Jan Lindgren, Orthopedic, Malmo
+Rating: 10/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. The X-ray was reviewed with me on screen, and he pointed out exactly where the cartilage had worn down.
+
+Review 4 for Dr. Jan Lindgren, Orthopedic, Malmo
+Rating: 10/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Jan Lindgren, Orthopedic, Malmo
+Rating: 8/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. The surgeon at Läkarhuset Amiralsgatan spent time on my goals as a runner and shaped the treatment around them.
+
+Review 6 for Dr. Jan Lindgren, Orthopedic, Malmo
+Rating: 6/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Jan Lindgren, Orthopedic, Malmo
+Rating: 9/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: Plain, honest advice from Dr. Jan Lindgren for my arthritis, including which exercises to avoid and which would help.
+
+Review 8 for Dr. Jan Lindgren, Orthopedic, Malmo
+Rating: 9/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The waiting room at Läkarmottagningen Östra Förstan was clean, quiet and comfortable, with enough seating and water available.
+
+Review 9 for Dr. Jan Lindgren, Orthopedic, Malmo
+Rating: 8/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: After my knee replacement, Dr. Jan Lindgren explained the entire recovery timeline, and I was walking with a cane by week three.
+
+Overall rating for Dr. Jan Lindgren, Orthopedic, Malmo: 8.33/10 from 9 reviews

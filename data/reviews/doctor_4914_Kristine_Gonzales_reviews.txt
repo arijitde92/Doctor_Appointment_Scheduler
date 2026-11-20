@@ -1,0 +1,54 @@
+Doctor: Dr. Kristine Gonzales
+Doctor ID: 4914
+Specialization: Pathology
+Gender: Female
+Years of experience: 3
+City: Quezon City, Philippines
+Clinics: Sampaguita Medical Centre (clinic ID 634)
+
+Review 1 for Dr. Kristine Gonzales, Pathology, Quezon City
+Rating: 6/10
+Clinic visited: Sampaguita Medical Centre
+Description: Dr. Kristine Gonzales answered my questions kindly, though the call back took three days.
+
+Review 2 for Dr. Kristine Gonzales, Pathology, Quezon City
+Rating: 7/10
+Clinic visited: Sampaguita Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 3 for Dr. Kristine Gonzales, Pathology, Quezon City
+Rating: 7/10
+Clinic visited: Sampaguita Medical Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. The blood draw was painless, but the waiting area at Sampaguita Medical Centre was crowded in the early morning.
+
+Review 4 for Dr. Kristine Gonzales, Pathology, Quezon City
+Rating: 7/10
+Clinic visited: Sampaguita Medical Centre
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Kristine Gonzales, Pathology, Quezon City
+Rating: 5/10
+Clinic visited: Sampaguita Medical Centre
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 6 for Dr. Kristine Gonzales, Pathology, Quezon City
+Rating: 6/10
+Clinic visited: Sampaguita Medical Centre
+Description: Helpful in clarifying a borderline result, though Dr. Kristine Gonzales gave little guidance about whether to repeat it.
+
+Review 7 for Dr. Kristine Gonzales, Pathology, Quezon City
+Rating: 6/10
+Clinic visited: Sampaguita Medical Centre
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Dr. Kristine Gonzales was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Kristine Gonzales, Pathology, Quezon City
+Rating: 8/10
+Clinic visited: Sampaguita Medical Centre
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I asked for a second look at my slides, and Dr. Kristine Gonzales reviewed them without any fuss and confirmed the finding in writing. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Kristine Gonzales, Pathology, Quezon City
+Rating: 5/10
+Clinic visited: Sampaguita Medical Centre
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Kristine Gonzales, Pathology, Quezon City: 6.33/10 from 9 reviews

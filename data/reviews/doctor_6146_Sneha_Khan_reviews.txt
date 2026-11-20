@@ -1,0 +1,49 @@
+Doctor: Dr. Sneha Khan
+Doctor ID: 6146
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 4
+City: Sharjah, UAE
+Clinics: Al Khan Seaview Clinic (clinic ID 794)
+
+Review 1 for Dr. Sneha Khan, Gastroenterology, Sharjah
+Rating: 9/10
+Clinic visited: Al Khan Seaview Clinic
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 2 for Dr. Sneha Khan, Gastroenterology, Sharjah
+Rating: 7/10
+Clinic visited: Al Khan Seaview Clinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Sneha Khan, Gastroenterology, Sharjah
+Rating: 5/10
+Clinic visited: Al Khan Seaview Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 4 for Dr. Sneha Khan, Gastroenterology, Sharjah
+Rating: 6/10
+Clinic visited: Al Khan Seaview Clinic
+Description: Dr. Sneha Khan is thorough, but I waited nearly two months to get the first available slot. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Sneha Khan, Gastroenterology, Sharjah
+Rating: 7/10
+Clinic visited: Al Khan Seaview Clinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 6 for Dr. Sneha Khan, Gastroenterology, Sharjah
+Rating: 7/10
+Clinic visited: Al Khan Seaview Clinic
+Description: Knowledgeable about my reflux, Dr. Sneha Khan still gave diet advice that felt generic and not tailored to my habits. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Sneha Khan, Gastroenterology, Sharjah
+Rating: 7/10
+Clinic visited: Al Khan Seaview Clinic
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Sneha Khan, Gastroenterology, Sharjah
+Rating: 8/10
+Clinic visited: Al Khan Seaview Clinic
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Overall rating for Dr. Sneha Khan, Gastroenterology, Sharjah: 7.00/10 from 8 reviews

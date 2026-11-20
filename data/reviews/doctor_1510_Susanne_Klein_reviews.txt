@@ -1,0 +1,64 @@
+Doctor: Dr. Susanne Klein
+Doctor ID: 1510
+Specialization: Neurology
+Gender: Female
+Years of experience: 11
+City: Berlin, Germany
+Clinics: Gesundheitspraxis Prenzlauer Tor (clinic ID 197)
+
+Review 1 for Dr. Susanne Klein, Neurology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Susanne Klein, Neurology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 3 for Dr. Susanne Klein, Neurology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: I got what I needed, but the next available appointment was three weeks away. Careful assessment of my memory issues, though I would have liked more information on support services. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Susanne Klein, Neurology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Susanne Klein at Gesundheitspraxis Prenzlauer Tor are difficult to schedule. The treatment plan from Dr. Susanne Klein made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Susanne Klein, Neurology, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The EEG appointment ran on time, and Dr. Susanne Klein reviewed the tracing with me the same week. Dr. Susanne Klein used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 6 for Dr. Susanne Klein, Neurology, Berlin
+Rating: 5/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. I liked the advice I got from Dr. Susanne Klein, but I would have liked more time to ask follow-up questions before the visit ended. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Susanne Klein, Neurology, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Dr. Susanne Klein took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Susanne Klein, Neurology, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: She patiently explained my MRI findings and calmed my worries about memory problems. Dr. Susanne Klein drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 9 for Dr. Susanne Klein, Neurology, Berlin
+Rating: 5/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Dr. Susanne Klein explained my results well, although the visit felt short for such a complex condition.
+
+Review 10 for Dr. Susanne Klein, Neurology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The migraine plan has helped, though the first medication caused side effects that were not fully explained. I would come back, but only if the waiting time improves.
+
+Review 11 for Dr. Susanne Klein, Neurology, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Susanne Klein, Neurology, Berlin: 6.91/10 from 11 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Stefan Widmer
+Doctor ID: 1788
+Specialization: Radiology
+Gender: Male
+Years of experience: 26
+City: Zurich, Switzerland
+Clinics: Hausarztpraxis Wiedikon Platz (clinic ID 234)
+
+Review 1 for Dr. Stefan Widmer, Radiology, Zurich
+Rating: 10/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. Dr. Stefan Widmer drew a quick sketch to explain what was going on, which helped me remember it afterwards. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Stefan Widmer, Radiology, Zurich
+Rating: 10/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: The staff at Hausarztpraxis Wiedikon Platz in Zurich explained the contrast dye and its side effects before I signed anything. My test results arrived in the portal within two days, together with a short note that made sense. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Stefan Widmer, Radiology, Zurich
+Rating: 8/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 4 for Dr. Stefan Widmer, Radiology, Zurich
+Rating: 9/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: When my scan showed something that needed a second look, Dr. Stefan Widmer arranged the follow-up the same day. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 5 for Dr. Stefan Widmer, Radiology, Zurich
+Rating: 10/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Stefan Widmer sent a clear report within a day. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Stefan Widmer, Radiology, Zurich
+Rating: 10/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. A translator was arranged for my mother without us asking twice, and Dr. Stefan Widmer spoke directly to her throughout.
+
+Review 7 for Dr. Stefan Widmer, Radiology, Zurich
+Rating: 10/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: Dr. Stefan Widmer compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 8 for Dr. Stefan Widmer, Radiology, Zurich
+Rating: 8/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Stefan Widmer were respectful throughout.
+
+Review 9 for Dr. Stefan Widmer, Radiology, Zurich
+Rating: 7/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: The report from Dr. Stefan Widmer was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 10 for Dr. Stefan Widmer, Radiology, Zurich
+Rating: 10/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 11 for Dr. Stefan Widmer, Radiology, Zurich
+Rating: 10/10
+Clinic visited: Hausarztpraxis Wiedikon Platz
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Overall rating for Dr. Stefan Widmer, Radiology, Zurich: 9.27/10 from 11 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Jessica Jones
+Doctor ID: 5826
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 13
+City: Pretoria, South Africa
+Clinics: Hatfield Plaza Health Clinic (clinic ID 752)
+
+Review 1 for Dr. Jessica Jones, Orthopedic, Pretoria
+Rating: 6/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 2 for Dr. Jessica Jones, Orthopedic, Pretoria
+Rating: 6/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Helpful visit overall, although I only found out about an extra charge after I had paid. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Jessica Jones, Orthopedic, Pretoria
+Rating: 8/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: Getting around Pretoria on crutches was hard, but the accessible entrance and short waiting time at Hatfield Plaza Health Clinic helped a lot. Even the billing team was helpful, and a mistake on my statement was corrected within a day. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Jessica Jones, Orthopedic, Pretoria
+Rating: 6/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: Very skilled with my knee, but Dr. Jessica Jones's clinic runs behind and the wait was over an hour.
+
+Review 5 for Dr. Jessica Jones, Orthopedic, Pretoria
+Rating: 4/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. Not a place I would choose again, and I hope others have a better experience.
+
+Review 6 for Dr. Jessica Jones, Orthopedic, Pretoria
+Rating: 7/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: Dr. Jessica Jones was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Jessica Jones, Orthopedic, Pretoria
+Rating: 4/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: Dr. Jessica Jones seemed to dismiss my concerns about swelling after the operation, and I had to go elsewhere.
+
+Review 8 for Dr. Jessica Jones, Orthopedic, Pretoria
+Rating: 7/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Jessica Jones, Orthopedic, Pretoria
+Rating: 6/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: Dr. Jessica Jones explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 10 for Dr. Jessica Jones, Orthopedic, Pretoria
+Rating: 8/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 11 for Dr. Jessica Jones, Orthopedic, Pretoria
+Rating: 7/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 12 for Dr. Jessica Jones, Orthopedic, Pretoria
+Rating: 6/10
+Clinic visited: Hatfield Plaza Health Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Overall rating for Dr. Jessica Jones, Orthopedic, Pretoria: 6.25/10 from 12 reviews

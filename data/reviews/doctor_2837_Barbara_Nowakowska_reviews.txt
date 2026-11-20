@@ -1,0 +1,69 @@
+Doctor: Dr. Barbara Nowakowska
+Doctor ID: 2837
+Specialization: Pathology
+Gender: Female
+Years of experience: 5
+City: Wroclaw, Poland
+Clinics: Przychodnia Krzyki Park (clinic ID 371)
+
+Review 1 for Dr. Barbara Nowakowska, Pathology, Wroclaw
+Rating: 7/10
+Clinic visited: Przychodnia Krzyki Park
+Description: Quick appointment and a fair price in Wroclaw, but the staff seemed overwhelmed and a bit curt on the phone. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 2 for Dr. Barbara Nowakowska, Pathology, Wroclaw
+Rating: 6/10
+Clinic visited: Przychodnia Krzyki Park
+Description: The blood draw was painless, but the waiting area at Przychodnia Krzyki Park was crowded in the early morning.
+
+Review 3 for Dr. Barbara Nowakowska, Pathology, Wroclaw
+Rating: 7/10
+Clinic visited: Przychodnia Krzyki Park
+Description: Helpful in clarifying a borderline result, though Dr. Barbara Nowakowska gave little guidance about whether to repeat it. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Barbara Nowakowska, Pathology, Wroclaw
+Rating: 8/10
+Clinic visited: Przychodnia Krzyki Park
+Description: I was nervous about the biopsy result, and the call from Dr. Barbara Nowakowska was gentle, honest and unhurried. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Barbara Nowakowska, Pathology, Wroclaw
+Rating: 7/10
+Clinic visited: Przychodnia Krzyki Park
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The treatment plan from Dr. Barbara Nowakowska made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Barbara Nowakowska, Pathology, Wroclaw
+Rating: 8/10
+Clinic visited: Przychodnia Krzyki Park
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 7 for Dr. Barbara Nowakowska, Pathology, Wroclaw
+Rating: 10/10
+Clinic visited: Przychodnia Krzyki Park
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 8 for Dr. Barbara Nowakowska, Pathology, Wroclaw
+Rating: 7/10
+Clinic visited: Przychodnia Krzyki Park
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Barbara Nowakowska, Pathology, Wroclaw
+Rating: 9/10
+Clinic visited: Przychodnia Krzyki Park
+Description: The biopsy report was returned in three days, and Dr. Barbara Nowakowska took time on the phone to explain every term in it. I was called in within five minutes of my appointment time at Przychodnia Krzyki Park, which is rare and much appreciated.
+
+Review 10 for Dr. Barbara Nowakowska, Pathology, Wroclaw
+Rating: 8/10
+Clinic visited: Przychodnia Krzyki Park
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 11 for Dr. Barbara Nowakowska, Pathology, Wroclaw
+Rating: 7/10
+Clinic visited: Przychodnia Krzyki Park
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 12 for Dr. Barbara Nowakowska, Pathology, Wroclaw
+Rating: 8/10
+Clinic visited: Przychodnia Krzyki Park
+Description: The staff and Dr. Barbara Nowakowska patiently went through my cholesterol and glucose numbers and explained what each meant for me. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Barbara Nowakowska, Pathology, Wroclaw: 7.67/10 from 12 reviews

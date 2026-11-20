@@ -1,0 +1,59 @@
+Doctor: Dr. Evgeny Sergeev
+Doctor ID: 3825
+Specialization: Neurology
+Gender: Male
+Years of experience: 2
+City: Saint Petersburg, Russia
+Clinics: Klinika Ligovskaya (clinic ID 494)
+
+Review 1 for Dr. Evgeny Sergeev, Neurology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Klinika Ligovskaya
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. After years of migraines, Dr. Evgeny Sergeev built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Evgeny Sergeev, Neurology, Saint Petersburg
+Rating: 10/10
+Clinic visited: Klinika Ligovskaya
+Description: Paperwork at Klinika Ligovskaya was kept to a minimum, and the staff helped me complete the insurance form. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Evgeny Sergeev, Neurology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Ligovskaya
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 4 for Dr. Evgeny Sergeev, Neurology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Ligovskaya
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Evgeny Sergeev, Neurology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Ligovskaya
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. The treatment plan from Dr. Evgeny Sergeev made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Evgeny Sergeev, Neurology, Saint Petersburg
+Rating: 5/10
+Clinic visited: Klinika Ligovskaya
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Evgeny Sergeev at Klinika Ligovskaya are difficult to schedule.
+
+Review 7 for Dr. Evgeny Sergeev, Neurology, Saint Petersburg
+Rating: 10/10
+Clinic visited: Klinika Ligovskaya
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Evgeny Sergeev, Neurology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Klinika Ligovskaya
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices. Booking online at Klinika Ligovskaya was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 9 for Dr. Evgeny Sergeev, Neurology, Saint Petersburg
+Rating: 10/10
+Clinic visited: Klinika Ligovskaya
+Description: Getting a same-month appointment in Saint Petersburg for my sudden headaches was a real relief, and the work-up was prompt. Prescriptions from Dr. Evgeny Sergeev were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 10 for Dr. Evgeny Sergeev, Neurology, Saint Petersburg
+Rating: 6/10
+Clinic visited: Klinika Ligovskaya
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Evgeny Sergeev, Neurology, Saint Petersburg: 7.80/10 from 10 reviews

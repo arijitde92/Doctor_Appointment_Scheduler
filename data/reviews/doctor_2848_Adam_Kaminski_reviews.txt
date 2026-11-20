@@ -1,0 +1,54 @@
+Doctor: Dr. Adam Kamiński
+Doctor ID: 2848
+Specialization: General
+Gender: Male
+Years of experience: 11
+City: Wroclaw, Poland
+Clinics: Poliklinika Odra Wrocław (clinic ID 372); Centrum Zdrowia Śródmieście Wrocław (clinic ID 373)
+
+Review 1 for Dr. Adam Kamiński, General, Wroclaw
+Rating: 9/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: As a new patient in Wroclaw, I felt welcomed at Poliklinika Odra Wrocław, and my whole history was reviewed in one relaxed visit.
+
+Review 2 for Dr. Adam Kamiński, General, Wroclaw
+Rating: 10/10
+Clinic visited: Centrum Zdrowia Śródmieście Wrocław
+Description: Dr. Adam Kamiński drew a quick sketch to explain what was going on, which helped me remember it afterwards. My blood pressure had crept up and Dr. Adam Kamiński walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 3 for Dr. Adam Kamiński, General, Wroclaw
+Rating: 4/10
+Clinic visited: Centrum Zdrowia Śródmieście Wrocław
+Description: My persistent fatigue was brushed aside as stress by Dr. Adam Kamiński, and it took a second doctor to find the actual cause. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 4 for Dr. Adam Kamiński, General, Wroclaw
+Rating: 8/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: My annual check-up with Dr. Adam Kamiński took forty minutes, with every screening explained and nothing rushed. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Adam Kamiński, General, Wroclaw
+Rating: 7/10
+Clinic visited: Centrum Zdrowia Śródmieście Wrocław
+Description: Referrals from Dr. Adam Kamiński are handled well, but getting test results back took longer than I was told to expect. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Adam Kamiński, General, Wroclaw
+Rating: 9/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: I appreciated that he offered more than one option and let me choose what suited my life. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 7 for Dr. Adam Kamiński, General, Wroclaw
+Rating: 6/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Adam Kamiński, General, Wroclaw
+Rating: 7/10
+Clinic visited: Centrum Zdrowia Śródmieście Wrocław
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Adam Kamiński, General, Wroclaw
+Rating: 9/10
+Clinic visited: Poliklinika Odra Wrocław
+Description: Vaccination advice from Dr. Adam Kamiński for my travel plans was thorough and specific to the countries I was visiting. Getting to Poliklinika Odra Wrocław by public transport in Wroclaw was easy, and there is a step-free entrance for wheelchairs. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Adam Kamiński, General, Wroclaw: 7.67/10 from 9 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Ikeda Aya
+Doctor ID: 4005
+Specialization: Cardiology
+Gender: Female
+Years of experience: 12
+City: Kyoto, Japan
+Clinics: Karasuma Matsu Family Clinic (clinic ID 516)
+
+Review 1 for Dr. Ikeda Aya, Cardiology, Kyoto
+Rating: 7/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Ikeda Aya, Cardiology, Kyoto
+Rating: 7/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Dr. Ikeda Aya was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Ikeda Aya adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 3 for Dr. Ikeda Aya, Cardiology, Kyoto
+Rating: 8/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Honest about the risks and benefits of the procedure, Dr. Ikeda Aya never pressured me toward surgery.
+
+Review 4 for Dr. Ikeda Aya, Cardiology, Kyoto
+Rating: 10/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: The cardiology unit at Karasuma Matsu Family Clinic runs on time, and the technicians were professional during my echocardiogram. I came away understanding my condition better than I have in years of previous appointments. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Ikeda Aya, Cardiology, Kyoto
+Rating: 6/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Ikeda Aya, Cardiology, Kyoto
+Rating: 8/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 7 for Dr. Ikeda Aya, Cardiology, Kyoto
+Rating: 10/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: My stress test was supervised carefully, and Dr. Ikeda Aya reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 8 for Dr. Ikeda Aya, Cardiology, Kyoto
+Rating: 7/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Great care in the visit itself, but the billing for the tests at Karasuma Matsu Family Clinic was confusing. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 9 for Dr. Ikeda Aya, Cardiology, Kyoto
+Rating: 9/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Overall rating for Dr. Ikeda Aya, Cardiology, Kyoto: 8.00/10 from 9 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Lisa Williams
+Doctor ID: 224
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 10
+City: San Francisco, USA
+Clinics: Van Ness Medical Group (clinic ID 31)
+
+Review 1 for Dr. Lisa Williams, Psychiatry, San Francisco
+Rating: 7/10
+Clinic visited: Van Ness Medical Group
+Description: Dr. Lisa Williams is knowledgeable, though I waited several weeks for my first appointment. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Lisa Williams, Psychiatry, San Francisco
+Rating: 8/10
+Clinic visited: Van Ness Medical Group
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 3 for Dr. Lisa Williams, Psychiatry, San Francisco
+Rating: 7/10
+Clinic visited: Van Ness Medical Group
+Description: Supportive in crisis, but follow-up between visits could have been more regular. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Lisa Williams, Psychiatry, San Francisco
+Rating: 3/10
+Clinic visited: Van Ness Medical Group
+Description: My concerns about how I felt on the dose were waved away rather than explored. The prescription from Dr. Lisa Williams was not the one we discussed, and I only noticed when I got home.
+
+Review 5 for Dr. Lisa Williams, Psychiatry, San Francisco
+Rating: 8/10
+Clinic visited: Van Ness Medical Group
+Description: I was called in within five minutes of my appointment time at Van Ness Medical Group, which is rare and much appreciated. I felt heard by Dr. Lisa Williams during a very hard time, and nobody rushed me out of the room.
+
+Review 6 for Dr. Lisa Williams, Psychiatry, San Francisco
+Rating: 6/10
+Clinic visited: Van Ness Medical Group
+Description: Good listener, yet the refill process at Van Ness Medical Group is slow and requires several phone calls. Quick appointment and a fair price in San Francisco, but the staff seemed overwhelmed and a bit curt on the phone. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Lisa Williams, Psychiatry, San Francisco
+Rating: 8/10
+Clinic visited: Van Ness Medical Group
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 8 for Dr. Lisa Williams, Psychiatry, San Francisco
+Rating: 9/10
+Clinic visited: Van Ness Medical Group
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. Everything was explained in plain English by Dr. Lisa Williams, and nothing was left to guess.
+
+Review 9 for Dr. Lisa Williams, Psychiatry, San Francisco
+Rating: 7/10
+Clinic visited: Van Ness Medical Group
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 10 for Dr. Lisa Williams, Psychiatry, San Francisco
+Rating: 7/10
+Clinic visited: Van Ness Medical Group
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Dr. Lisa Williams was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 11 for Dr. Lisa Williams, Psychiatry, San Francisco
+Rating: 8/10
+Clinic visited: Van Ness Medical Group
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. Booking online at Van Ness Medical Group was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Overall rating for Dr. Lisa Williams, Psychiatry, San Francisco: 7.09/10 from 11 reviews

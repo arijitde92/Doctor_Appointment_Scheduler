@@ -1,0 +1,49 @@
+Doctor: Dr. Emily Patel
+Doctor ID: 303
+Specialization: Cardiology
+Gender: Female
+Years of experience: 2
+City: Montreal, Canada
+Clinics: Centre Médical René-Lévesque (clinic ID 41)
+
+Review 1 for Dr. Emily Patel, Cardiology, Montreal
+Rating: 9/10
+Clinic visited: Centre Médical René-Lévesque
+Description: I appreciated that she offered more than one option and let me choose what suited my life. My atrial fibrillation is well managed by Dr. Emily Patel, and I know exactly what symptoms mean I should call. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Emily Patel, Cardiology, Montreal
+Rating: 8/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 3 for Dr. Emily Patel, Cardiology, Montreal
+Rating: 8/10
+Clinic visited: Centre Médical René-Lévesque
+Description: After my palpitations began, Dr. Emily Patel arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Emily Patel, Cardiology, Montreal
+Rating: 8/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Booking online at Centre Médical René-Lévesque was simple, and I got a confirmation text with clear directions and a reminder the day before. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Emily Patel, Cardiology, Montreal
+Rating: 8/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Everything was explained in plain English by Dr. Emily Patel, and nothing was left to guess. Honest about the risks and benefits of the procedure, Dr. Emily Patel never pressured me toward surgery. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Emily Patel, Cardiology, Montreal
+Rating: 10/10
+Clinic visited: Centre Médical René-Lévesque
+Description: The cardiology unit at Centre Médical René-Lévesque runs on time, and the technicians were professional during my echocardiogram. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 7 for Dr. Emily Patel, Cardiology, Montreal
+Rating: 10/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Dr. Emily Patel explained the difference between my statin options and let me weigh in on the choice. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Emily Patel, Cardiology, Montreal
+Rating: 10/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Emily Patel, Cardiology, Montreal: 8.88/10 from 8 reviews

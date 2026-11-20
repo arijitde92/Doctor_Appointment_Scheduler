@@ -1,0 +1,49 @@
+Doctor: Dr. Willem Janssen
+Doctor ID: 2571
+Specialization: Radiology
+Gender: Male
+Years of experience: 8
+City: Amsterdam, Netherlands
+Clinics: Medisch Centrum De Pijp (clinic ID 336)
+
+Review 1 for Dr. Willem Janssen, Radiology, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Reviewing my X-ray together with Dr. Willem Janssen on the screen made it much easier to understand my arthritis.
+
+Review 2 for Dr. Willem Janssen, Radiology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Willem Janssen, Radiology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum De Pijp
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Quick appointment and a fair price in Amsterdam, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Willem Janssen, Radiology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum De Pijp
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Willem Janssen felt well organized from start to finish. When my scan showed something that needed a second look, Dr. Willem Janssen arranged the follow-up the same day. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Willem Janssen, Radiology, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Paperwork at Medisch Centrum De Pijp was kept to a minimum, and the staff helped me complete the insurance form. Booking a CT scan online at Medisch Centrum De Pijp took two minutes, and I was in and out within forty minutes. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Willem Janssen, Radiology, Amsterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum De Pijp
+Description: I appreciated that he offered more than one option and let me choose what suited my life. The staff at Medisch Centrum De Pijp in Amsterdam explained the contrast dye and its side effects before I signed anything.
+
+Review 7 for Dr. Willem Janssen, Radiology, Amsterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum De Pijp
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Willem Janssen sent a clear report within a day.
+
+Review 8 for Dr. Willem Janssen, Radiology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Appointment reminders came by text and email, and rescheduling took two taps. The report from Dr. Willem Janssen was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Overall rating for Dr. Willem Janssen, Radiology, Amsterdam: 8.88/10 from 8 reviews

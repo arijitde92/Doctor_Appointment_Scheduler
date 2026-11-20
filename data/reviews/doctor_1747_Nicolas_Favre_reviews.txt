@@ -1,0 +1,59 @@
+Doctor: Dr. Nicolas Favre
+Doctor ID: 1747
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 5
+City: Geneva, Switzerland
+Clinics: Clinique Santé Châtelaine (clinic ID 227)
+
+Review 1 for Dr. Nicolas Favre, Psychiatry, Geneva
+Rating: 6/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Nicolas Favre, Psychiatry, Geneva
+Rating: 6/10
+Clinic visited: Clinique Santé Châtelaine
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 3 for Dr. Nicolas Favre, Psychiatry, Geneva
+Rating: 6/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Good bedside manner from Dr. Nicolas Favre, but the parking near Clinique Santé Châtelaine is limited and I had to circle for fifteen minutes. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Nicolas Favre, Psychiatry, Geneva
+Rating: 6/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Quick appointment and a fair price in Geneva, but the staff seemed overwhelmed and a bit curt on the phone. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Nicolas Favre, Psychiatry, Geneva
+Rating: 7/10
+Clinic visited: Clinique Santé Châtelaine
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Nicolas Favre, Psychiatry, Geneva
+Rating: 5/10
+Clinic visited: Clinique Santé Châtelaine
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Nicolas Favre, Psychiatry, Geneva
+Rating: 5/10
+Clinic visited: Clinique Santé Châtelaine
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Nicolas Favre, Psychiatry, Geneva
+Rating: 4/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Dr. Nicolas Favre seemed to focus on the paperwork, and I did not feel I could share what was really going on. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 9 for Dr. Nicolas Favre, Psychiatry, Geneva
+Rating: 5/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Good listener, yet the refill process at Clinique Santé Châtelaine is slow and requires several phone calls. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 10 for Dr. Nicolas Favre, Psychiatry, Geneva
+Rating: 8/10
+Clinic visited: Clinique Santé Châtelaine
+Description: I felt heard by Dr. Nicolas Favre during a very hard time, and nobody rushed me out of the room.
+
+Overall rating for Dr. Nicolas Favre, Psychiatry, Geneva: 5.80/10 from 10 reviews

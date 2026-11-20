@@ -1,0 +1,64 @@
+Doctor: Dr. Mohamed Smits
+Doctor ID: 2681
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 23
+City: Utrecht, Netherlands
+Clinics: Huisartsenpraktijk Lombok (clinic ID 351); Gezondheidscentrum Leidsche Rijn (clinic ID 352); Polikliniek Wittevrouwen (clinic ID 353)
+
+Review 1 for Dr. Mohamed Smits, Orthopedic, Utrecht
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Mohamed Smits, Orthopedic, Utrecht
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Mohamed Smits, Orthopedic, Utrecht
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: Dr. Mohamed Smits was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Mohamed Smits, Orthopedic, Utrecht
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: Seen the same day at Gezondheidscentrum Leidsche Rijn after a bad ankle sprain, with an X-ray done and a brace fitted before I left. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Mohamed Smits, Orthopedic, Utrecht
+Rating: 10/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Mohamed Smits, Orthopedic, Utrecht
+Rating: 7/10
+Clinic visited: Polikliniek Wittevrouwen
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 7 for Dr. Mohamed Smits, Orthopedic, Utrecht
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: The X-ray was reviewed with me on screen, and he pointed out exactly where the cartilage had worn down. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 8 for Dr. Mohamed Smits, Orthopedic, Utrecht
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: Dr. Mohamed Smits explained surgery options clearly, though the physiotherapy referral took weeks to arrive. I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Mohamed Smits, Orthopedic, Utrecht
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 10 for Dr. Mohamed Smits, Orthopedic, Utrecht
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Very skilled with my knee, but Dr. Mohamed Smits's clinic runs behind and the wait was over an hour.
+
+Review 11 for Dr. Mohamed Smits, Orthopedic, Utrecht
+Rating: 10/10
+Clinic visited: Gezondheidscentrum Leidsche Rijn
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Mohamed Smits, Orthopedic, Utrecht: 7.64/10 from 11 reviews

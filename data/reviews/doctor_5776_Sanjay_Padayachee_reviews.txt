@@ -1,0 +1,49 @@
+Doctor: Dr. Sanjay Padayachee
+Doctor ID: 5776
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 20
+City: Johannesburg, South Africa
+Clinics: Rosebank Medical Rooms (clinic ID 746)
+
+Review 1 for Dr. Sanjay Padayachee, Psychiatry, Johannesburg
+Rating: 10/10
+Clinic visited: Rosebank Medical Rooms
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 2 for Dr. Sanjay Padayachee, Psychiatry, Johannesburg
+Rating: 7/10
+Clinic visited: Rosebank Medical Rooms
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Sanjay Padayachee, Psychiatry, Johannesburg
+Rating: 9/10
+Clinic visited: Rosebank Medical Rooms
+Description: At my visit, Dr. Sanjay Padayachee took notes on my medication list, checked for interactions and explained the changes simply. Dr. Sanjay Padayachee took a full history before suggesting any medication and explained the likely side effects honestly. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Sanjay Padayachee, Psychiatry, Johannesburg
+Rating: 8/10
+Clinic visited: Rosebank Medical Rooms
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Sanjay Padayachee, Psychiatry, Johannesburg
+Rating: 8/10
+Clinic visited: Rosebank Medical Rooms
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Booking online at Rosebank Medical Rooms was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 6 for Dr. Sanjay Padayachee, Psychiatry, Johannesburg
+Rating: 7/10
+Clinic visited: Rosebank Medical Rooms
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Sanjay Padayachee, Psychiatry, Johannesburg
+Rating: 7/10
+Clinic visited: Rosebank Medical Rooms
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Sanjay Padayachee, Psychiatry, Johannesburg
+Rating: 6/10
+Clinic visited: Rosebank Medical Rooms
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Overall rating for Dr. Sanjay Padayachee, Psychiatry, Johannesburg: 7.75/10 from 8 reviews

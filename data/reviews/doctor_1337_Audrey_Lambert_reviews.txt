@@ -1,0 +1,59 @@
+Doctor: Dr. Audrey Lambert
+Doctor ID: 1337
+Specialization: General
+Gender: Female
+Years of experience: 30
+City: Toulouse, France
+Clinics: Polyclinique de Rangueil (clinic ID 174)
+
+Review 1 for Dr. Audrey Lambert, General, Toulouse
+Rating: 6/10
+Clinic visited: Polyclinique de Rangueil
+Description: Quick appointment and a fair price in Toulouse, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Audrey Lambert, General, Toulouse
+Rating: 8/10
+Clinic visited: Polyclinique de Rangueil
+Description: She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 3 for Dr. Audrey Lambert, General, Toulouse
+Rating: 8/10
+Clinic visited: Polyclinique de Rangueil
+Description: By the time I left the room, Dr. Audrey Lambert had sorted the sick note, referral letter and prescription refill. The nurse was friendly and efficient, and the whole visit with Dr. Audrey Lambert felt well organized from start to finish.
+
+Review 4 for Dr. Audrey Lambert, General, Toulouse
+Rating: 8/10
+Clinic visited: Polyclinique de Rangueil
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. As a new patient in Toulouse, I felt welcomed at Polyclinique de Rangueil, and my whole history was reviewed in one relaxed visit. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Audrey Lambert, General, Toulouse
+Rating: 10/10
+Clinic visited: Polyclinique de Rangueil
+Description: Vaccination advice from Dr. Audrey Lambert for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 6 for Dr. Audrey Lambert, General, Toulouse
+Rating: 9/10
+Clinic visited: Polyclinique de Rangueil
+Description: Cholesterol results were explained by Dr. Audrey Lambert with a simple chart, and we agreed on a plan I could realistically follow. At my visit, Dr. Audrey Lambert took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 7 for Dr. Audrey Lambert, General, Toulouse
+Rating: 7/10
+Clinic visited: Polyclinique de Rangueil
+Description: Referrals from Dr. Audrey Lambert are handled well, but getting test results back took longer than I was told to expect. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Audrey Lambert, General, Toulouse
+Rating: 8/10
+Clinic visited: Polyclinique de Rangueil
+Description: I went in with months of tiredness, and Dr. Audrey Lambert ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 9 for Dr. Audrey Lambert, General, Toulouse
+Rating: 4/10
+Clinic visited: Polyclinique de Rangueil
+Description: My visit with Dr. Audrey Lambert lasted barely six minutes, and I left with more questions than I arrived with. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 10 for Dr. Audrey Lambert, General, Toulouse
+Rating: 8/10
+Clinic visited: Polyclinique de Rangueil
+Description: The receptionist at Polyclinique de Rangueil remembered my name and had my forms ready, so check-in took less than a minute.
+
+Overall rating for Dr. Audrey Lambert, General, Toulouse: 7.60/10 from 10 reviews

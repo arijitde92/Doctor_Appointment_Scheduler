@@ -1,0 +1,69 @@
+Doctor: Dr. Luca De Luca
+Doctor ID: 3360
+Specialization: General
+Gender: Male
+Years of experience: 4
+City: Florence, Italy
+Clinics: Centro Medico Campo di Marte (clinic ID 436); Clinica del Giglio (clinic ID 438)
+
+Review 1 for Dr. Luca De Luca, General, Florence
+Rating: 6/10
+Clinic visited: Clinica del Giglio
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 2 for Dr. Luca De Luca, General, Florence
+Rating: 7/10
+Clinic visited: Clinica del Giglio
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Luca De Luca, General, Florence
+Rating: 8/10
+Clinic visited: Clinica del Giglio
+Description: I was called in within five minutes of my appointment time at Clinica del Giglio, which is rare and much appreciated. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Luca De Luca, General, Florence
+Rating: 7/10
+Clinic visited: Centro Medico Campo di Marte
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Luca De Luca is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Luca De Luca, General, Florence
+Rating: 8/10
+Clinic visited: Centro Medico Campo di Marte
+Description: Managing my type 2 diabetes with Dr. Luca De Luca has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 6 for Dr. Luca De Luca, General, Florence
+Rating: 7/10
+Clinic visited: Centro Medico Campo di Marte
+Description: The treatment plan from Dr. Luca De Luca made sense, but I wished it had been written down for me to take away. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Luca De Luca, General, Florence
+Rating: 8/10
+Clinic visited: Centro Medico Campo di Marte
+Description: Cholesterol results were explained by Dr. Luca De Luca with a simple chart, and we agreed on a plan I could realistically follow. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 8 for Dr. Luca De Luca, General, Florence
+Rating: 7/10
+Clinic visited: Clinica del Giglio
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. Dr. Luca De Luca was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 9 for Dr. Luca De Luca, General, Florence
+Rating: 9/10
+Clinic visited: Clinica del Giglio
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 10 for Dr. Luca De Luca, General, Florence
+Rating: 6/10
+Clinic visited: Centro Medico Campo di Marte
+Description: Referrals from Dr. Luca De Luca are handled well, but getting test results back took longer than I was told to expect. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. Luca De Luca, General, Florence
+Rating: 5/10
+Clinic visited: Centro Medico Campo di Marte
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I would come back, but only if the waiting time improves.
+
+Review 12 for Dr. Luca De Luca, General, Florence
+Rating: 7/10
+Clinic visited: Centro Medico Campo di Marte
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Centro Medico Campo di Marte were inconsistent. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Luca De Luca, General, Florence: 7.08/10 from 12 reviews

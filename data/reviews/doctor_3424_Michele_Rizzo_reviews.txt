@@ -1,0 +1,59 @@
+Doctor: Dr. Michele Rizzo
+Doctor ID: 3424
+Specialization: Radiology
+Gender: Male
+Years of experience: 15
+City: Milan, Italy
+Clinics: Poliambulatorio Isola (clinic ID 444)
+
+Review 1 for Dr. Michele Rizzo, Radiology, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Isola
+Description: Dr. Michele Rizzo answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 2 for Dr. Michele Rizzo, Radiology, Milan
+Rating: 7/10
+Clinic visited: Poliambulatorio Isola
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Michele Rizzo, Radiology, Milan
+Rating: 5/10
+Clinic visited: Poliambulatorio Isola
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The treatment plan from Dr. Michele Rizzo made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Michele Rizzo, Radiology, Milan
+Rating: 7/10
+Clinic visited: Poliambulatorio Isola
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Michele Rizzo, Radiology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Isola
+Description: Reviewing my X-ray together with Dr. Michele Rizzo on the screen made it much easier to understand my arthritis. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 6 for Dr. Michele Rizzo, Radiology, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Isola
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 7 for Dr. Michele Rizzo, Radiology, Milan
+Rating: 7/10
+Clinic visited: Poliambulatorio Isola
+Description: Good bedside manner from Dr. Michele Rizzo, but the parking near Poliambulatorio Isola is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Michele Rizzo, Radiology, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Isola
+Description: Booking was easy online, but the confirmation email contained the wrong address for Poliambulatorio Isola. The report from Dr. Michele Rizzo was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 9 for Dr. Michele Rizzo, Radiology, Milan
+Rating: 4/10
+Clinic visited: Poliambulatorio Isola
+Description: Dr. Michele Rizzo did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 10 for Dr. Michele Rizzo, Radiology, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Isola
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Overall rating for Dr. Michele Rizzo, Radiology, Milan: 6.20/10 from 10 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Han Hyo-jin
+Doctor ID: 4152
+Specialization: Radiology
+Gender: Female
+Years of experience: 27
+City: Busan, South Korea
+Clinics: Seomyeon Bada Medical Clinic (clinic ID 535); Nampo Hanbit Health Clinic (clinic ID 537)
+
+Review 1 for Dr. Han Hyo-jin, Radiology, Busan
+Rating: 5/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 2 for Dr. Han Hyo-jin, Radiology, Busan
+Rating: 6/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Good bedside manner from Dr. Han Hyo-jin, but the parking near Nampo Hanbit Health Clinic is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Han Hyo-jin, Radiology, Busan
+Rating: 4/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: The prescription from Dr. Han Hyo-jin was not the one we discussed, and I only noticed when I got home.
+
+Review 4 for Dr. Han Hyo-jin, Radiology, Busan
+Rating: 5/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Han Hyo-jin answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 5 for Dr. Han Hyo-jin, Radiology, Busan
+Rating: 5/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 6 for Dr. Han Hyo-jin, Radiology, Busan
+Rating: 5/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 7 for Dr. Han Hyo-jin, Radiology, Busan
+Rating: 6/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Seomyeon Bada Medical Clinic.
+
+Review 8 for Dr. Han Hyo-jin, Radiology, Busan
+Rating: 8/10
+Clinic visited: Nampo Hanbit Health Clinic
+Description: Getting to Nampo Hanbit Health Clinic by public transport in Busan was easy, and there is a step-free entrance for wheelchairs. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Han Hyo-jin, Radiology, Busan: 5.50/10 from 8 reviews

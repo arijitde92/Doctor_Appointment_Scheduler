@@ -1,0 +1,69 @@
+Doctor: Dr. David White
+Doctor ID: 244
+Specialization: Radiology
+Gender: Male
+Years of experience: 5
+City: San Francisco, USA
+Clinics: Mission Bay Primary Care (clinic ID 34)
+
+Review 1 for Dr. David White, Radiology, San Francisco
+Rating: 6/10
+Clinic visited: Mission Bay Primary Care
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. David White, Radiology, San Francisco
+Rating: 6/10
+Clinic visited: Mission Bay Primary Care
+Description: Dr. David White was thoughtful and clear, though the front desk was disorganized and lost my first referral form. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 3 for Dr. David White, Radiology, San Francisco
+Rating: 7/10
+Clinic visited: Mission Bay Primary Care
+Description: Dr. David White answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Quick appointment and a fair price in San Francisco, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. David White, Radiology, San Francisco
+Rating: 8/10
+Clinic visited: Mission Bay Primary Care
+Description: My ultrasound was unhurried, and Dr. David White took time to show me the images and explain what each measurement meant. I was called in within five minutes of my appointment time at Mission Bay Primary Care, which is rare and much appreciated.
+
+Review 5 for Dr. David White, Radiology, San Francisco
+Rating: 10/10
+Clinic visited: Mission Bay Primary Care
+Description: At my visit, Dr. David White took notes on my medication list, checked for interactions and explained the changes simply. Reviewing my X-ray together with Dr. David White on the screen made it much easier to understand my arthritis.
+
+Review 6 for Dr. David White, Radiology, San Francisco
+Rating: 7/10
+Clinic visited: Mission Bay Primary Care
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. David White, Radiology, San Francisco
+Rating: 6/10
+Clinic visited: Mission Bay Primary Care
+Description: Dr. David White was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. David White, Radiology, San Francisco
+Rating: 10/10
+Clinic visited: Mission Bay Primary Care
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. David White sent a clear report within a day. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 9 for Dr. David White, Radiology, San Francisco
+Rating: 6/10
+Clinic visited: Mission Bay Primary Care
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 10 for Dr. David White, Radiology, San Francisco
+Rating: 6/10
+Clinic visited: Mission Bay Primary Care
+Description: Booking was easy online, but the confirmation email contained the wrong address for Mission Bay Primary Care. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 11 for Dr. David White, Radiology, San Francisco
+Rating: 8/10
+Clinic visited: Mission Bay Primary Care
+Description: When my scan showed something that needed a second look, Dr. David White arranged the follow-up the same day. The practice in San Francisco is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Highly recommended, and I have already told two colleagues about it.
+
+Review 12 for Dr. David White, Radiology, San Francisco
+Rating: 5/10
+Clinic visited: Mission Bay Primary Care
+Description: The report from Dr. David White was thorough, though full of technical terms that needed my regular doctor to translate. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. David White, Radiology, San Francisco: 7.08/10 from 12 reviews

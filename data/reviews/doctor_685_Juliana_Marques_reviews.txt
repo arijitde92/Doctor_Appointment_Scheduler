@@ -1,0 +1,49 @@
+Doctor: Dr. Juliana Marques
+Doctor ID: 685
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 7
+City: Sao Paulo, Brazil
+Clinics: Centro Médico Faria Lima (clinic ID 91)
+
+Review 1 for Dr. Juliana Marques, Psychiatry, Sao Paulo
+Rating: 7/10
+Clinic visited: Centro Médico Faria Lima
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 2 for Dr. Juliana Marques, Psychiatry, Sao Paulo
+Rating: 7/10
+Clinic visited: Centro Médico Faria Lima
+Description: Good listener, yet the refill process at Centro Médico Faria Lima is slow and requires several phone calls. The treatment plan from Dr. Juliana Marques made sense, but I wished it had been written down for me to take away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Juliana Marques, Psychiatry, Sao Paulo
+Rating: 6/10
+Clinic visited: Centro Médico Faria Lima
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 4 for Dr. Juliana Marques, Psychiatry, Sao Paulo
+Rating: 8/10
+Clinic visited: Centro Médico Faria Lima
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Juliana Marques, Psychiatry, Sao Paulo
+Rating: 6/10
+Clinic visited: Centro Médico Faria Lima
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Supportive in crisis, but follow-up between visits could have been more regular. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Juliana Marques, Psychiatry, Sao Paulo
+Rating: 9/10
+Clinic visited: Centro Médico Faria Lima
+Description: Getting to Centro Médico Faria Lima by public transport in Sao Paulo was easy, and there is a step-free entrance for wheelchairs.
+
+Review 7 for Dr. Juliana Marques, Psychiatry, Sao Paulo
+Rating: 10/10
+Clinic visited: Centro Médico Faria Lima
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. The visit began with a short, friendly chat that put me at ease before any examination started. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Juliana Marques, Psychiatry, Sao Paulo
+Rating: 8/10
+Clinic visited: Centro Médico Faria Lima
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. My family was included in a session at my request, and Dr. Juliana Marques handled it with great tact. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Juliana Marques, Psychiatry, Sao Paulo: 7.62/10 from 8 reviews

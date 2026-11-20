@@ -1,0 +1,49 @@
+Doctor: Dr. Helmut Steiner
+Doctor ID: 2985
+Specialization: Neurology
+Gender: Male
+Years of experience: 20
+City: Salzburg, Austria
+Clinics: Ordination Gnigl Salzburg (clinic ID 389)
+
+Review 1 for Dr. Helmut Steiner, Neurology, Salzburg
+Rating: 6/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Helmut Steiner, Neurology, Salzburg
+Rating: 6/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 3 for Dr. Helmut Steiner, Neurology, Salzburg
+Rating: 6/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 4 for Dr. Helmut Steiner, Neurology, Salzburg
+Rating: 7/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Helmut Steiner, Neurology, Salzburg
+Rating: 8/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Helmut Steiner, Neurology, Salzburg
+Rating: 6/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Helmut Steiner at Ordination Gnigl Salzburg are difficult to schedule. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Helmut Steiner, Neurology, Salzburg
+Rating: 5/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: The treatment plan from Dr. Helmut Steiner made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Helmut Steiner, Neurology, Salzburg
+Rating: 6/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Good bedside manner from Dr. Helmut Steiner, but the parking near Ordination Gnigl Salzburg is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Helmut Steiner, Neurology, Salzburg: 6.25/10 from 8 reviews

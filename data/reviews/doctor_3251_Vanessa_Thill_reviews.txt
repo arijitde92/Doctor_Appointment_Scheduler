@@ -1,0 +1,64 @@
+Doctor: Dr. Vanessa Thill
+Doctor ID: 3251
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 20
+City: Dudelange, Luxembourg
+Clinics: Centre Médical Gare-Usines (clinic ID 421); Polyclinique Italiens (clinic ID 422)
+
+Review 1 for Dr. Vanessa Thill, Psychiatry, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 2 for Dr. Vanessa Thill, Psychiatry, Dudelange
+Rating: 6/10
+Clinic visited: Polyclinique Italiens
+Description: The treatment plan from Dr. Vanessa Thill made sense, but I wished it had been written down for me to take away. Helpful diagnosis, though the billing for my first long assessment was confusing. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Vanessa Thill, Psychiatry, Dudelange
+Rating: 6/10
+Clinic visited: Polyclinique Italiens
+Description: Good listener, yet the refill process at Polyclinique Italiens is slow and requires several phone calls. Dr. Vanessa Thill was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Vanessa Thill, Psychiatry, Dudelange
+Rating: 6/10
+Clinic visited: Polyclinique Italiens
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Vanessa Thill, Psychiatry, Dudelange
+Rating: 6/10
+Clinic visited: Centre Médical Gare-Usines
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 6 for Dr. Vanessa Thill, Psychiatry, Dudelange
+Rating: 7/10
+Clinic visited: Centre Médical Gare-Usines
+Description: Dr. Vanessa Thill is knowledgeable, though I waited several weeks for my first appointment. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Vanessa Thill, Psychiatry, Dudelange
+Rating: 10/10
+Clinic visited: Polyclinique Italiens
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 8 for Dr. Vanessa Thill, Psychiatry, Dudelange
+Rating: 8/10
+Clinic visited: Polyclinique Italiens
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Vanessa Thill, Psychiatry, Dudelange
+Rating: 6/10
+Clinic visited: Polyclinique Italiens
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 10 for Dr. Vanessa Thill, Psychiatry, Dudelange
+Rating: 6/10
+Clinic visited: Polyclinique Italiens
+Description: I liked the advice I got from Dr. Vanessa Thill, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 11 for Dr. Vanessa Thill, Psychiatry, Dudelange
+Rating: 9/10
+Clinic visited: Polyclinique Italiens
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. My depression finally has a treatment plan from Dr. Vanessa Thill that works, with regular check-ins and careful dose changes. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Vanessa Thill, Psychiatry, Dudelange: 7.00/10 from 11 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Víctor Ramírez
+Doctor ID: 1021
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 10
+City: Trujillo, Peru
+Clinics: Instituto de Salud Víctor Larco (clinic ID 134)
+
+Review 1 for Dr. Víctor Ramírez, Pediatrics, Trujillo
+Rating: 8/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Dr. Víctor Ramírez noticed a speech delay early and referred us to a therapist, which has made a real difference. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Víctor Ramírez, Pediatrics, Trujillo
+Rating: 6/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Víctor Ramírez, Pediatrics, Trujillo
+Rating: 10/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: I was called in within five minutes of my appointment time at Instituto de Salud Víctor Larco, which is rare and much appreciated.
+
+Review 4 for Dr. Víctor Ramírez, Pediatrics, Trujillo
+Rating: 9/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The school physical at Instituto de Salud Víctor Larco was quick, thorough and the forms were completed on the spot. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. Víctor Ramírez, Pediatrics, Trujillo
+Rating: 8/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Dr. Víctor Ramírez double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Víctor Ramírez, Pediatrics, Trujillo
+Rating: 8/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: We got a same-day appointment for a high fever, and the care at Instituto de Salud Víctor Larco was kind and efficient. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Víctor Ramírez, Pediatrics, Trujillo
+Rating: 9/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 8 for Dr. Víctor Ramírez, Pediatrics, Trujillo
+Rating: 10/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice. The receptionist at Instituto de Salud Víctor Larco remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 9 for Dr. Víctor Ramírez, Pediatrics, Trujillo
+Rating: 10/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: My teenager actually spoke up during the visit, and Dr. Víctor Ramírez handled sensitive topics with respect. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 10 for Dr. Víctor Ramírez, Pediatrics, Trujillo
+Rating: 8/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Getting to Instituto de Salud Víctor Larco by public transport in Trujillo was easy, and there is a step-free entrance for wheelchairs. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Víctor Ramírez, Pediatrics, Trujillo: 8.60/10 from 10 reviews

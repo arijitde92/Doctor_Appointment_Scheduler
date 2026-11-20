@@ -1,0 +1,59 @@
+Doctor: Dr. Ana Pérez Ramírez
+Doctor ID: 493
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 1
+City: Monterrey, Mexico
+Clinics: Consultorios Médicos Contry (clinic ID 67)
+
+Review 1 for Dr. Ana Pérez Ramírez, Psychiatry, Monterrey
+Rating: 9/10
+Clinic visited: Consultorios Médicos Contry
+Description: I can ring Consultorios Médicos Contry with an urgent question and receive a thoughtful reply the same day.
+
+Review 2 for Dr. Ana Pérez Ramírez, Psychiatry, Monterrey
+Rating: 9/10
+Clinic visited: Consultorios Médicos Contry
+Description: Dr. Ana Pérez Ramírez looked me in the eye, listened to the whole story and only then started typing.
+
+Review 3 for Dr. Ana Pérez Ramírez, Psychiatry, Monterrey
+Rating: 10/10
+Clinic visited: Consultorios Médicos Contry
+Description: Never once did Dr. Ana Pérez Ramírez make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 4 for Dr. Ana Pérez Ramírez, Psychiatry, Monterrey
+Rating: 7/10
+Clinic visited: Consultorios Médicos Contry
+Description: Good listener, yet the refill process at Consultorios Médicos Contry is slow and requires several phone calls.
+
+Review 5 for Dr. Ana Pérez Ramírez, Psychiatry, Monterrey
+Rating: 7/10
+Clinic visited: Consultorios Médicos Contry
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Booking was easy online, but the confirmation email contained the wrong address for Consultorios Médicos Contry.
+
+Review 6 for Dr. Ana Pérez Ramírez, Psychiatry, Monterrey
+Rating: 8/10
+Clinic visited: Consultorios Médicos Contry
+Description: I appreciated that she offered more than one option and let me choose what suited my life. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Ana Pérez Ramírez, Psychiatry, Monterrey
+Rating: 7/10
+Clinic visited: Consultorios Médicos Contry
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Ana Pérez Ramírez, Psychiatry, Monterrey
+Rating: 8/10
+Clinic visited: Consultorios Médicos Contry
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I have no hesitation sending my own relatives here.
+
+Review 9 for Dr. Ana Pérez Ramírez, Psychiatry, Monterrey
+Rating: 7/10
+Clinic visited: Consultorios Médicos Contry
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 10 for Dr. Ana Pérez Ramírez, Psychiatry, Monterrey
+Rating: 7/10
+Clinic visited: Consultorios Médicos Contry
+Description: Good bedside manner from Dr. Ana Pérez Ramírez, but the parking near Consultorios Médicos Contry is limited and I had to circle for fifteen minutes. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Ana Pérez Ramírez, Psychiatry, Monterrey: 7.90/10 from 10 reviews

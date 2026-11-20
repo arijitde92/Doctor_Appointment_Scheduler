@@ -1,0 +1,64 @@
+Doctor: Dr. Susanne Lehmann
+Doctor ID: 1535
+Specialization: Neurology
+Gender: Female
+Years of experience: 5
+City: Frankfurt, Germany
+Clinics: Praxiszentrum Zeilblick (clinic ID 200)
+
+Review 1 for Dr. Susanne Lehmann, Neurology, Frankfurt
+Rating: 9/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: The neurological exam by Dr. Susanne Lehmann was thorough, with every reflex test and gait check explained as it happened.
+
+Review 2 for Dr. Susanne Lehmann, Neurology, Frankfurt
+Rating: 6/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Susanne Lehmann at Praxiszentrum Zeilblick are difficult to schedule. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Susanne Lehmann, Neurology, Frankfurt
+Rating: 8/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 4 for Dr. Susanne Lehmann, Neurology, Frankfurt
+Rating: 10/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Susanne Lehmann felt well organized from start to finish.
+
+Review 5 for Dr. Susanne Lehmann, Neurology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The migraine plan has helped, though the first medication caused side effects that were not fully explained. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Susanne Lehmann, Neurology, Frankfurt
+Rating: 9/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Living with multiple sclerosis feels less frightening because Dr. Susanne Lehmann explains and discusses every change in my plan. I was called in within five minutes of my appointment time at Praxiszentrum Zeilblick, which is rare and much appreciated.
+
+Review 7 for Dr. Susanne Lehmann, Neurology, Frankfurt
+Rating: 10/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: She coordinated with my regular doctor so my medicine list was consistent in both offices. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 8 for Dr. Susanne Lehmann, Neurology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Susanne Lehmann, Neurology, Frankfurt
+Rating: 8/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 10 for Dr. Susanne Lehmann, Neurology, Frankfurt
+Rating: 8/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 11 for Dr. Susanne Lehmann, Neurology, Frankfurt
+Rating: 8/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Getting to Praxiszentrum Zeilblick by public transport in Frankfurt was easy, and there is a step-free entrance for wheelchairs.
+
+Overall rating for Dr. Susanne Lehmann, Neurology, Frankfurt: 8.18/10 from 11 reviews

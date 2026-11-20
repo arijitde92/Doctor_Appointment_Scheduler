@@ -1,0 +1,49 @@
+Doctor: Dr. Rolando Gonzales
+Doctor ID: 4872
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 2
+City: Manila, Philippines
+Clinics: Klinika Luntian (clinic ID 629)
+
+Review 1 for Dr. Rolando Gonzales, Psychiatry, Manila
+Rating: 6/10
+Clinic visited: Klinika Luntian
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Rolando Gonzales, Psychiatry, Manila
+Rating: 6/10
+Clinic visited: Klinika Luntian
+Description: Quick appointment and a fair price in Manila, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Rolando Gonzales, Psychiatry, Manila
+Rating: 6/10
+Clinic visited: Klinika Luntian
+Description: Dr. Rolando Gonzales is knowledgeable, though I waited several weeks for my first appointment. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Rolando Gonzales, Psychiatry, Manila
+Rating: 7/10
+Clinic visited: Klinika Luntian
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Dr. Rolando Gonzales was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Rolando Gonzales, Psychiatry, Manila
+Rating: 8/10
+Clinic visited: Klinika Luntian
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. I came away understanding my condition better than I have in years of previous appointments. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Rolando Gonzales, Psychiatry, Manila
+Rating: 10/10
+Clinic visited: Klinika Luntian
+Description: I appreciated that he offered more than one option and let me choose what suited my life. He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Rolando Gonzales, Psychiatry, Manila
+Rating: 7/10
+Clinic visited: Klinika Luntian
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Clear explanations, but the follow-up call took a week longer than I had been told. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Rolando Gonzales, Psychiatry, Manila
+Rating: 5/10
+Clinic visited: Klinika Luntian
+Description: Booking was easy online, but the confirmation email contained the wrong address for Klinika Luntian.
+
+Overall rating for Dr. Rolando Gonzales, Psychiatry, Manila: 6.88/10 from 8 reviews

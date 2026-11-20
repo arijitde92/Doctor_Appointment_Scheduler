@@ -1,0 +1,59 @@
+Doctor: Dr. Niels van den Berg
+Doctor ID: 2646
+Specialization: General
+Gender: Male
+Years of experience: 2
+City: The Hague, Netherlands
+Clinics: Huisartsenpraktijk Statenkwartier (clinic ID 346); Polikliniek Laan van Meerdervoort (clinic ID 348); Medisch Centrum Hofkwartier (clinic ID 349)
+
+Review 1 for Dr. Niels van den Berg, General, The Hague
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Statenkwartier
+Description: My annual check-up with Dr. Niels van den Berg took forty minutes, with every screening explained and nothing rushed. Booking online at Huisartsenpraktijk Statenkwartier was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 2 for Dr. Niels van den Berg, General, The Hague
+Rating: 7/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: Dr. Niels van den Berg is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 3 for Dr. Niels van den Berg, General, The Hague
+Rating: 9/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 4 for Dr. Niels van den Berg, General, The Hague
+Rating: 10/10
+Clinic visited: Huisartsenpraktijk Statenkwartier
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Niels van den Berg, General, The Hague
+Rating: 8/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: As a new patient in The Hague, I felt welcomed at Polikliniek Laan van Meerdervoort, and my whole history was reviewed in one relaxed visit. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 6 for Dr. Niels van den Berg, General, The Hague
+Rating: 6/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 7 for Dr. Niels van den Berg, General, The Hague
+Rating: 9/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Dr. Niels van den Berg spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 8 for Dr. Niels van den Berg, General, The Hague
+Rating: 9/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: By the time I left the room, Dr. Niels van den Berg had sorted the sick note, referral letter and prescription refill. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 9 for Dr. Niels van den Berg, General, The Hague
+Rating: 9/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Vaccination advice from Dr. Niels van den Berg for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 10 for Dr. Niels van den Berg, General, The Hague
+Rating: 9/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Overall rating for Dr. Niels van den Berg, General, The Hague: 8.40/10 from 10 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Paul Green
+Doctor ID: 1173
+Specialization: Pathology
+Gender: Male
+Years of experience: 22
+City: Manchester, UK
+Clinics: Hardman Square Polyclinic (clinic ID 153)
+
+Review 1 for Dr. Paul Green, Pathology, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: Dr. Paul Green double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 2 for Dr. Paul Green, Pathology, Manchester
+Rating: 6/10
+Clinic visited: Hardman Square Polyclinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Paul Green, Pathology, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: Helpful in clarifying a borderline result, though Dr. Paul Green gave little guidance about whether to repeat it.
+
+Review 4 for Dr. Paul Green, Pathology, Manchester
+Rating: 6/10
+Clinic visited: Hardman Square Polyclinic
+Description: Dr. Paul Green answered my questions kindly, though the call back took three days.
+
+Review 5 for Dr. Paul Green, Pathology, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. The lab under Dr. Paul Green was clean, organized and never overbooked, and results arrived exactly when promised.
+
+Review 6 for Dr. Paul Green, Pathology, Manchester
+Rating: 9/10
+Clinic visited: Hardman Square Polyclinic
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Paul Green, Pathology, Manchester
+Rating: 9/10
+Clinic visited: Hardman Square Polyclinic
+Description: The lab at Hardman Square Polyclinic had a quick, friendly blood draw and the phlebotomist found my vein on the first try. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 8 for Dr. Paul Green, Pathology, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Manchester. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 9 for Dr. Paul Green, Pathology, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Worth trying, but I would not call it the best option in the area.
+
+Review 10 for Dr. Paul Green, Pathology, Manchester
+Rating: 9/10
+Clinic visited: Hardman Square Polyclinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. The biopsy report was returned in three days, and Dr. Paul Green took time on the phone to explain every term in it.
+
+Review 11 for Dr. Paul Green, Pathology, Manchester
+Rating: 10/10
+Clinic visited: Hardman Square Polyclinic
+Description: Dr. Paul Green used a calm, steady voice that settled my nerves before a stressful procedure. He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Paul Green, Pathology, Manchester: 7.91/10 from 11 reviews

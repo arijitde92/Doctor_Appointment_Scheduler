@@ -1,0 +1,54 @@
+Doctor: Dr. Joost van der Linden
+Doctor ID: 2660
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 8
+City: The Hague, Netherlands
+Clinics: Polikliniek Laan van Meerdervoort (clinic ID 348)
+
+Review 1 for Dr. Joost van der Linden, Psychiatry, The Hague
+Rating: 6/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 2 for Dr. Joost van der Linden, Psychiatry, The Hague
+Rating: 8/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: Getting to Polikliniek Laan van Meerdervoort by public transport in The Hague was easy, and there is a step-free entrance for wheelchairs.
+
+Review 3 for Dr. Joost van der Linden, Psychiatry, The Hague
+Rating: 8/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: The ADHD assessment by Dr. Joost van der Linden was careful and detailed, with clear written conclusions and realistic expectations. Dr. Joost van der Linden looked me in the eye, listened to the whole story and only then started typing. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Joost van der Linden, Psychiatry, The Hague
+Rating: 9/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: I was given a printed summary of the visit, which I shared with my family at home. Never once did Dr. Joost van der Linden make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 5 for Dr. Joost van der Linden, Psychiatry, The Hague
+Rating: 9/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: Dr. Joost van der Linden double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Clear and non-judgmental about my sleep medication, with a plan for stopping it safely.
+
+Review 6 for Dr. Joost van der Linden, Psychiatry, The Hague
+Rating: 10/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: My depression finally has a treatment plan from Dr. Joost van der Linden that works, with regular check-ins and careful dose changes. A translator was arranged for my mother without us asking twice, and Dr. Joost van der Linden spoke directly to her throughout.
+
+Review 7 for Dr. Joost van der Linden, Psychiatry, The Hague
+Rating: 9/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: Excellent at explaining how therapy and medication work together, and Dr. Joost van der Linden coordinated with my counselor.
+
+Review 8 for Dr. Joost van der Linden, Psychiatry, The Hague
+Rating: 8/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Appointments in The Hague are always on schedule, and the waiting area is peaceful and private.
+
+Review 9 for Dr. Joost van der Linden, Psychiatry, The Hague
+Rating: 10/10
+Clinic visited: Polikliniek Laan van Meerdervoort
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. Dr. Joost van der Linden used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Overall rating for Dr. Joost van der Linden, Psychiatry, The Hague: 8.56/10 from 9 reviews

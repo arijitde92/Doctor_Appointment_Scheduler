@@ -1,0 +1,64 @@
+Doctor: Dr. Regula Schmid
+Doctor ID: 1742
+Specialization: Radiology
+Gender: Female
+Years of experience: 7
+City: Geneva, Switzerland
+Clinics: Centre Médical du Lac Bleu (clinic ID 226); Clinique Santé Châtelaine (clinic ID 227)
+
+Review 1 for Dr. Regula Schmid, Radiology, Geneva
+Rating: 9/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Reviewing my X-ray together with Dr. Regula Schmid on the screen made it much easier to understand my arthritis. I appreciated that she offered more than one option and let me choose what suited my life. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Regula Schmid, Radiology, Geneva
+Rating: 5/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 3 for Dr. Regula Schmid, Radiology, Geneva
+Rating: 6/10
+Clinic visited: Clinique Santé Châtelaine
+Description: The report from Dr. Regula Schmid was thorough, though full of technical terms that needed my regular doctor to translate. The treatment plan from Dr. Regula Schmid made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Regula Schmid, Radiology, Geneva
+Rating: 8/10
+Clinic visited: Clinique Santé Châtelaine
+Description: A translator was arranged for my mother without us asking twice, and Dr. Regula Schmid spoke directly to her throughout.
+
+Review 5 for Dr. Regula Schmid, Radiology, Geneva
+Rating: 7/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Regula Schmid, Radiology, Geneva
+Rating: 10/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. Dr. Regula Schmid drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 7 for Dr. Regula Schmid, Radiology, Geneva
+Rating: 10/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Sensitive questions were handled by Dr. Regula Schmid with discretion and without a hint of judgment. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Regula Schmid, Radiology, Geneva
+Rating: 8/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Images from Clinique Santé Châtelaine were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Regula Schmid, Radiology, Geneva
+Rating: 9/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I would happily recommend this doctor to friends and family.
+
+Review 10 for Dr. Regula Schmid, Radiology, Geneva
+Rating: 8/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Highly recommended, and I have already told two colleagues about it.
+
+Review 11 for Dr. Regula Schmid, Radiology, Geneva
+Rating: 10/10
+Clinic visited: Clinique Santé Châtelaine
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Dr. Regula Schmid compared my new scan with last year's and pointed out exactly what had stayed the same. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Regula Schmid, Radiology, Geneva: 8.18/10 from 11 reviews

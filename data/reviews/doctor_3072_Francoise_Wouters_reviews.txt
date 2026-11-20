@@ -1,0 +1,49 @@
+Doctor: Dr. Françoise Wouters
+Doctor ID: 3072
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 7
+City: Brussels, Belgium
+Clinics: Centre Médical Louise (clinic ID 400)
+
+Review 1 for Dr. Françoise Wouters, Pulmonology, Brussels
+Rating: 6/10
+Clinic visited: Centre Médical Louise
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 2 for Dr. Françoise Wouters, Pulmonology, Brussels
+Rating: 6/10
+Clinic visited: Centre Médical Louise
+Description: Pleasant manner and careful lung exam, though the waiting time at Centre Médical Louise regularly exceeded forty minutes.
+
+Review 3 for Dr. Françoise Wouters, Pulmonology, Brussels
+Rating: 4/10
+Clinic visited: Centre Médical Louise
+Description: I was told to just keep using my inhaler and nobody checked whether I was using it properly.
+
+Review 4 for Dr. Françoise Wouters, Pulmonology, Brussels
+Rating: 6/10
+Clinic visited: Centre Médical Louise
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Dr. Françoise Wouters was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 5 for Dr. Françoise Wouters, Pulmonology, Brussels
+Rating: 9/10
+Clinic visited: Centre Médical Louise
+Description: My oxygen levels are monitored carefully at Centre Médical Louise, and the home equipment was arranged without any hassle. I was called in within five minutes of my appointment time at Centre Médical Louise, which is rare and much appreciated.
+
+Review 6 for Dr. Françoise Wouters, Pulmonology, Brussels
+Rating: 5/10
+Clinic visited: Centre Médical Louise
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Françoise Wouters, Pulmonology, Brussels
+Rating: 6/10
+Clinic visited: Centre Médical Louise
+Description: Dr. Françoise Wouters was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Françoise Wouters, Pulmonology, Brussels
+Rating: 4/10
+Clinic visited: Centre Médical Louise
+Description: The prescription from Dr. Françoise Wouters was not the one we discussed, and I only noticed when I got home. I called twice about worsening symptoms and no one returned my message until the following week. This visit has left me searching for a second opinion, and I will not book here again.
+
+Overall rating for Dr. Françoise Wouters, Pulmonology, Brussels: 5.75/10 from 8 reviews

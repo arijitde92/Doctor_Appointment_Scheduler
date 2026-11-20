@@ -1,0 +1,49 @@
+Doctor: Dr. Griet Renard
+Doctor ID: 3140
+Specialization: Radiology
+Gender: Female
+Years of experience: 7
+City: Ghent, Belgium
+Clinics: Gezondheidscentrum Ledeberg (clinic ID 408)
+
+Review 1 for Dr. Griet Renard, Radiology, Ghent
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Griet Renard, Radiology, Ghent
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Reviewing my X-ray together with Dr. Griet Renard on the screen made it much easier to understand my arthritis.
+
+Review 3 for Dr. Griet Renard, Radiology, Ghent
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Griet Renard, Radiology, Ghent
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Dr. Griet Renard answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Griet Renard, Radiology, Ghent
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 6 for Dr. Griet Renard, Radiology, Ghent
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 7 for Dr. Griet Renard, Radiology, Ghent
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 8 for Dr. Griet Renard, Radiology, Ghent
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Ledeberg
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Griet Renard, Radiology, Ghent: 6.75/10 from 8 reviews

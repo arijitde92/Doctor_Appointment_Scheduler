@@ -1,0 +1,49 @@
+Doctor: Dr. Daniel Lavoie
+Doctor ID: 341
+Specialization: Neurology
+Gender: Male
+Years of experience: 20
+City: Toronto, Canada
+Clinics: Midtown Toronto Health Practice (clinic ID 47); Etobicoke Care Clinic (clinic ID 48)
+
+Review 1 for Dr. Daniel Lavoie, Neurology, Toronto
+Rating: 8/10
+Clinic visited: Midtown Toronto Health Practice
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 2 for Dr. Daniel Lavoie, Neurology, Toronto
+Rating: 9/10
+Clinic visited: Etobicoke Care Clinic
+Description: The EEG appointment ran on time, and Dr. Daniel Lavoie reviewed the tracing with me the same week. A same-day slot was found for me at Etobicoke Care Clinic when I called with a worrying symptom. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Daniel Lavoie, Neurology, Toronto
+Rating: 6/10
+Clinic visited: Etobicoke Care Clinic
+Description: I liked the advice I got from Dr. Daniel Lavoie, but I would have liked more time to ask follow-up questions before the visit ended. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Daniel Lavoie, Neurology, Toronto
+Rating: 8/10
+Clinic visited: Midtown Toronto Health Practice
+Description: I always leave Dr. Daniel Lavoie's office with a short written summary of changes, which helps my family keep up. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Daniel Lavoie, Neurology, Toronto
+Rating: 8/10
+Clinic visited: Midtown Toronto Health Practice
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 6 for Dr. Daniel Lavoie, Neurology, Toronto
+Rating: 7/10
+Clinic visited: Etobicoke Care Clinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 7 for Dr. Daniel Lavoie, Neurology, Toronto
+Rating: 6/10
+Clinic visited: Midtown Toronto Health Practice
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 8 for Dr. Daniel Lavoie, Neurology, Toronto
+Rating: 7/10
+Clinic visited: Midtown Toronto Health Practice
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Daniel Lavoie at Midtown Toronto Health Practice are difficult to schedule. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Daniel Lavoie, Neurology, Toronto: 7.38/10 from 8 reviews

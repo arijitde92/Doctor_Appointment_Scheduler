@@ -1,0 +1,49 @@
+Doctor: Dr. Hayashi Yoko
+Doctor ID: 4108
+Specialization: Neurology
+Gender: Female
+Years of experience: 15
+City: Yokohama, Japan
+Clinics: Minato Mirai Nami Clinic (clinic ID 530)
+
+Review 1 for Dr. Hayashi Yoko, Neurology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: She patiently explained my MRI findings and calmed my worries about memory problems.
+
+Review 2 for Dr. Hayashi Yoko, Neurology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: I always leave Dr. Hayashi Yoko's office with a short written summary of changes, which helps my family keep up.
+
+Review 3 for Dr. Hayashi Yoko, Neurology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Dr. Hayashi Yoko double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Hayashi Yoko, Neurology, Yokohama
+Rating: 7/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Hayashi Yoko, Neurology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. My referral letter was written on the spot, and the specialist's office had my details before I called. I feel lucky to have found this practice in my area.
+
+Review 6 for Dr. Hayashi Yoko, Neurology, Yokohama
+Rating: 9/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Dr. Hayashi Yoko used a calm, steady voice that settled my nerves before a stressful procedure. The neurological exam by Dr. Hayashi Yoko was thorough, with every reflex test and gait check explained as it happened.
+
+Review 7 for Dr. Hayashi Yoko, Neurology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Hayashi Yoko felt well organized from start to finish. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Hayashi Yoko, Neurology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: The receptionist at Minato Mirai Nami Clinic remembered my name and had my forms ready, so check-in took less than a minute. Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Hayashi Yoko, Neurology, Yokohama: 9.50/10 from 8 reviews

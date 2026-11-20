@@ -1,0 +1,59 @@
+Doctor: Dr. Katherine Flores
+Doctor ID: 4886
+Specialization: Psychology
+Gender: Female
+Years of experience: 4
+City: Quezon City, Philippines
+Clinics: Santo Nino Polyclinic (clinic ID 631)
+
+Review 1 for Dr. Katherine Flores, Psychology, Quezon City
+Rating: 7/10
+Clinic visited: Santo Nino Polyclinic
+Description: Dr. Katherine Flores listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 2 for Dr. Katherine Flores, Psychology, Quezon City
+Rating: 9/10
+Clinic visited: Santo Nino Polyclinic
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 3 for Dr. Katherine Flores, Psychology, Quezon City
+Rating: 9/10
+Clinic visited: Santo Nino Polyclinic
+Description: I never felt judged by Dr. Katherine Flores when talking about my burnout, and the sessions gave me language for things I could not explain before.
+
+Review 4 for Dr. Katherine Flores, Psychology, Quezon City
+Rating: 8/10
+Clinic visited: Santo Nino Polyclinic
+Description: She has a calm way of asking the difficult questions that makes it feel safe to answer honestly.
+
+Review 5 for Dr. Katherine Flores, Psychology, Quezon City
+Rating: 9/10
+Clinic visited: Santo Nino Polyclinic
+Description: Dr. Katherine Flores used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 6 for Dr. Katherine Flores, Psychology, Quezon City
+Rating: 9/10
+Clinic visited: Santo Nino Polyclinic
+Description: I came away understanding my condition better than I have in years of previous appointments. Online sessions through Santo Nino Polyclinic worked just as well as in-person ones, and the video link never once failed. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Katherine Flores, Psychology, Quezon City
+Rating: 8/10
+Clinic visited: Santo Nino Polyclinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 8 for Dr. Katherine Flores, Psychology, Quezon City
+Rating: 8/10
+Clinic visited: Santo Nino Polyclinic
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. At my visit, Dr. Katherine Flores took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 9 for Dr. Katherine Flores, Psychology, Quezon City
+Rating: 8/10
+Clinic visited: Santo Nino Polyclinic
+Description: Dr. Katherine Flores adapted the approach when the first method did not suit me, and that flexibility made all the difference. I felt like a person rather than a case number, and she asked about my life as well as my symptoms. I feel lucky to have found this practice in my area.
+
+Review 10 for Dr. Katherine Flores, Psychology, Quezon City
+Rating: 6/10
+Clinic visited: Santo Nino Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Katherine Flores, Psychology, Quezon City: 8.10/10 from 10 reviews

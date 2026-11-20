@@ -1,0 +1,64 @@
+Doctor: Dr. Luc Muller
+Doctor ID: 3230
+Specialization: Radiology
+Gender: Male
+Years of experience: 14
+City: Differdange, Luxembourg
+Clinics: Centre de Santé Lasauvage (clinic ID 419)
+
+Review 1 for Dr. Luc Muller, Radiology, Differdange
+Rating: 6/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 2 for Dr. Luc Muller, Radiology, Differdange
+Rating: 6/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Dr. Luc Muller answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Luc Muller, Radiology, Differdange
+Rating: 8/10
+Clinic visited: Centre de Santé Lasauvage
+Description: The staff at Centre de Santé Lasauvage in Differdange explained the contrast dye and its side effects before I signed anything.
+
+Review 4 for Dr. Luc Muller, Radiology, Differdange
+Rating: 6/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Booking was easy online, but the confirmation email contained the wrong address for Centre de Santé Lasauvage.
+
+Review 5 for Dr. Luc Muller, Radiology, Differdange
+Rating: 8/10
+Clinic visited: Centre de Santé Lasauvage
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Luc Muller, Radiology, Differdange
+Rating: 6/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Quick appointment and a fair price in Differdange, but the staff seemed overwhelmed and a bit curt on the phone. The report from Dr. Luc Muller was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 7 for Dr. Luc Muller, Radiology, Differdange
+Rating: 7/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 8 for Dr. Luc Muller, Radiology, Differdange
+Rating: 7/10
+Clinic visited: Centre de Santé Lasauvage
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 9 for Dr. Luc Muller, Radiology, Differdange
+Rating: 9/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Fast, clean and professional; the bone density scan with Dr. Luc Muller was painless and the results were explained clearly. Dr. Luc Muller double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I will be coming back for all my future check-ups.
+
+Review 10 for Dr. Luc Muller, Radiology, Differdange
+Rating: 6/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 11 for Dr. Luc Muller, Radiology, Differdange
+Rating: 7/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Overall rating for Dr. Luc Muller, Radiology, Differdange: 6.91/10 from 11 reviews

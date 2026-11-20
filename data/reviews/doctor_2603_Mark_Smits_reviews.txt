@@ -1,0 +1,54 @@
+Doctor: Dr. Mark Smits
+Doctor ID: 2603
+Specialization: Pathology
+Gender: Male
+Years of experience: 9
+City: Rotterdam, Netherlands
+Clinics: Medisch Centrum Coolsingel (clinic ID 340)
+
+Review 1 for Dr. Mark Smits, Pathology, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 2 for Dr. Mark Smits, Pathology, Rotterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 3 for Dr. Mark Smits, Pathology, Rotterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Dr. Mark Smits double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Mark Smits, Pathology, Rotterdam
+Rating: 8/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: I was nervous about the biopsy result, and the call from Dr. Mark Smits was gentle, honest and unhurried. The nurse was friendly and efficient, and the whole visit with Dr. Mark Smits felt well organized from start to finish. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Mark Smits, Pathology, Rotterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Everything was explained in plain English by Dr. Mark Smits, and nothing was left to guess. I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Review 6 for Dr. Mark Smits, Pathology, Rotterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: Fast turnaround at Medisch Centrum Coolsingel on my thyroid panel, with results in my online account by the next morning. Booking online at Medisch Centrum Coolsingel was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 7 for Dr. Mark Smits, Pathology, Rotterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: The staff and Dr. Mark Smits patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Review 8 for Dr. Mark Smits, Pathology, Rotterdam
+Rating: 6/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 9 for Dr. Mark Smits, Pathology, Rotterdam
+Rating: 5/10
+Clinic visited: Medisch Centrum Coolsingel
+Description: The treatment plan from Dr. Mark Smits made sense, but I wished it had been written down for me to take away. Helpful in clarifying a borderline result, though Dr. Mark Smits gave little guidance about whether to repeat it. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Mark Smits, Pathology, Rotterdam: 8.33/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Amira Nasser
+Doctor ID: 6164
+Specialization: Neurology
+Gender: Female
+Years of experience: 7
+City: Al Khor, Qatar
+Clinics: Al Khor Community Medical Centre (clinic ID 796); Al Thakhira Care Polyclinic (clinic ID 797)
+
+Review 1 for Dr. Amira Nasser, Neurology, Al Khor
+Rating: 7/10
+Clinic visited: Al Khor Community Medical Centre
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 2 for Dr. Amira Nasser, Neurology, Al Khor
+Rating: 8/10
+Clinic visited: Al Khor Community Medical Centre
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 3 for Dr. Amira Nasser, Neurology, Al Khor
+Rating: 6/10
+Clinic visited: Al Thakhira Care Polyclinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Amira Nasser, Neurology, Al Khor
+Rating: 10/10
+Clinic visited: Al Thakhira Care Polyclinic
+Description: Dr. Amira Nasser took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy.
+
+Review 5 for Dr. Amira Nasser, Neurology, Al Khor
+Rating: 6/10
+Clinic visited: Al Thakhira Care Polyclinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Amira Nasser at Al Thakhira Care Polyclinic are difficult to schedule.
+
+Review 6 for Dr. Amira Nasser, Neurology, Al Khor
+Rating: 7/10
+Clinic visited: Al Khor Community Medical Centre
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Good bedside manner from Dr. Amira Nasser, but the parking near Al Khor Community Medical Centre is limited and I had to circle for fifteen minutes. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Amira Nasser, Neurology, Al Khor
+Rating: 7/10
+Clinic visited: Al Thakhira Care Polyclinic
+Description: Dr. Amira Nasser was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 8 for Dr. Amira Nasser, Neurology, Al Khor
+Rating: 8/10
+Clinic visited: Al Khor Community Medical Centre
+Description: The memory assessment for my father at Al Khor Community Medical Centre was gentle and respectful, and the family received a clear written summary.
+
+Overall rating for Dr. Amira Nasser, Neurology, Al Khor: 7.38/10 from 8 reviews

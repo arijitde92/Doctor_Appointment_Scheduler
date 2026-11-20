@@ -1,0 +1,49 @@
+Doctor: Dr. Federica Marino
+Doctor ID: 3367
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 17
+City: Florence, Italy
+Clinics: Studio Medico Oltrarno (clinic ID 437)
+
+Review 1 for Dr. Federica Marino, Pulmonology, Florence
+Rating: 10/10
+Clinic visited: Studio Medico Oltrarno
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 2 for Dr. Federica Marino, Pulmonology, Florence
+Rating: 9/10
+Clinic visited: Studio Medico Oltrarno
+Description: Prescriptions from Dr. Federica Marino were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Federica Marino, Pulmonology, Florence
+Rating: 9/10
+Clinic visited: Studio Medico Oltrarno
+Description: She took my chronic cough seriously, ordered a chest scan and found the cause within two weeks.
+
+Review 4 for Dr. Federica Marino, Pulmonology, Florence
+Rating: 10/10
+Clinic visited: Studio Medico Oltrarno
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Federica Marino, Pulmonology, Florence
+Rating: 9/10
+Clinic visited: Studio Medico Oltrarno
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 6 for Dr. Federica Marino, Pulmonology, Florence
+Rating: 10/10
+Clinic visited: Studio Medico Oltrarno
+Description: Dr. Federica Marino explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 7 for Dr. Federica Marino, Pulmonology, Florence
+Rating: 6/10
+Clinic visited: Studio Medico Oltrarno
+Description: Helpful and honest about my prognosis, Dr. Federica Marino could still have given me more written material to take home. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Federica Marino, Pulmonology, Florence
+Rating: 9/10
+Clinic visited: Studio Medico Oltrarno
+Description: Booking online at Studio Medico Oltrarno was simple, and I got a confirmation text with clear directions and a reminder the day before. At Studio Medico Oltrarno, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Federica Marino, Pulmonology, Florence: 9.00/10 from 8 reviews

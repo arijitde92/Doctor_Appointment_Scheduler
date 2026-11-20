@@ -1,0 +1,54 @@
+Doctor: Dr. Lisa Roberts
+Doctor ID: 6499
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Female
+Years of experience: 2
+City: Melbourne, Australia
+Clinics: Banksia Medical Centre (clinic ID 841)
+
+Review 1 for Dr. Lisa Roberts, Obstetrics and Gynecology (OB/GYN), Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: At Banksia Medical Centre in Melbourne, the prenatal visits were scheduled well and rarely ran late. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Lisa Roberts, Obstetrics and Gynecology (OB/GYN), Melbourne
+Rating: 6/10
+Clinic visited: Banksia Medical Centre
+Description: Good bedside manner from Dr. Lisa Roberts, but the parking near Banksia Medical Centre is limited and I had to circle for fifteen minutes. Dr. Lisa Roberts explained my options well, though the office was often running an hour behind. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Lisa Roberts, Obstetrics and Gynecology (OB/GYN), Melbourne
+Rating: 6/10
+Clinic visited: Banksia Medical Centre
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Lisa Roberts, Obstetrics and Gynecology (OB/GYN), Melbourne
+Rating: 9/10
+Clinic visited: Banksia Medical Centre
+Description: At my visit, Dr. Lisa Roberts took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 5 for Dr. Lisa Roberts, Obstetrics and Gynecology (OB/GYN), Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: Fertility questions were handled with honesty about timelines and realistic options, and I never felt rushed. Everything was explained in plain English by Dr. Lisa Roberts, and nothing was left to guess. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Lisa Roberts, Obstetrics and Gynecology (OB/GYN), Melbourne
+Rating: 8/10
+Clinic visited: Banksia Medical Centre
+Description: Excellent care with my endometriosis, including a detailed discussion of treatment options and a clear referral when I needed surgery. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Lisa Roberts, Obstetrics and Gynecology (OB/GYN), Melbourne
+Rating: 7/10
+Clinic visited: Banksia Medical Centre
+Description: The ultrasound images from Dr. Lisa Roberts were great, but I had to call twice to get the written report.
+
+Review 8 for Dr. Lisa Roberts, Obstetrics and Gynecology (OB/GYN), Melbourne
+Rating: 6/10
+Clinic visited: Banksia Medical Centre
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Lisa Roberts, Obstetrics and Gynecology (OB/GYN), Melbourne
+Rating: 7/10
+Clinic visited: Banksia Medical Centre
+Description: Dr. Lisa Roberts was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Lisa Roberts, Obstetrics and Gynecology (OB/GYN), Melbourne: 7.22/10 from 9 reviews

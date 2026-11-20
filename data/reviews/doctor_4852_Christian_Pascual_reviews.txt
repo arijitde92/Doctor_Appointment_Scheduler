@@ -1,0 +1,59 @@
+Doctor: Dr. Christian Pascual
+Doctor ID: 4852
+Specialization: Pathology
+Gender: Male
+Years of experience: 6
+City: Manila, Philippines
+Clinics: Bayanihan Medical Clinic (clinic ID 626)
+
+Review 1 for Dr. Christian Pascual, Pathology, Manila
+Rating: 7/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 2 for Dr. Christian Pascual, Pathology, Manila
+Rating: 6/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 3 for Dr. Christian Pascual, Pathology, Manila
+Rating: 6/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Christian Pascual, Pathology, Manila
+Rating: 7/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Dr. Christian Pascual answered my questions kindly, though the call back took three days. The treatment plan from Dr. Christian Pascual made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Christian Pascual, Pathology, Manila
+Rating: 8/10
+Clinic visited: Bayanihan Medical Clinic
+Description: The lab at Bayanihan Medical Clinic had a quick, friendly blood draw and the phlebotomist found my vein on the first try. The waiting room at Bayanihan Medical Clinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 6 for Dr. Christian Pascual, Pathology, Manila
+Rating: 8/10
+Clinic visited: Bayanihan Medical Clinic
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. Sensitive questions were handled by Dr. Christian Pascual with discretion and without a hint of judgment.
+
+Review 7 for Dr. Christian Pascual, Pathology, Manila
+Rating: 10/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Dr. Christian Pascual took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 8 for Dr. Christian Pascual, Pathology, Manila
+Rating: 6/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 9 for Dr. Christian Pascual, Pathology, Manila
+Rating: 9/10
+Clinic visited: Bayanihan Medical Clinic
+Description: The staff and Dr. Christian Pascual patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Review 10 for Dr. Christian Pascual, Pathology, Manila
+Rating: 9/10
+Clinic visited: Bayanihan Medical Clinic
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. Everything was explained in plain English by Dr. Christian Pascual, and nothing was left to guess.
+
+Overall rating for Dr. Christian Pascual, Pathology, Manila: 7.60/10 from 10 reviews

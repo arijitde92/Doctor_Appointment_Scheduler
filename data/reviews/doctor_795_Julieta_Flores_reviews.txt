@@ -1,0 +1,54 @@
+Doctor: Dr. Julieta Flores
+Doctor ID: 795
+Specialization: Cardiology
+Gender: Female
+Years of experience: 4
+City: Mendoza, Argentina
+Clinics: Clínica Cuyo Salud (clinic ID 105)
+
+Review 1 for Dr. Julieta Flores, Cardiology, Mendoza
+Rating: 5/10
+Clinic visited: Clínica Cuyo Salud
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Julieta Flores, Cardiology, Mendoza
+Rating: 6/10
+Clinic visited: Clínica Cuyo Salud
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Julieta Flores, Cardiology, Mendoza
+Rating: 6/10
+Clinic visited: Clínica Cuyo Salud
+Description: Helpful with my cholesterol, Dr. Julieta Flores still gave dietary advice that was a little generic. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Julieta Flores, Cardiology, Mendoza
+Rating: 6/10
+Clinic visited: Clínica Cuyo Salud
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Julieta Flores, Cardiology, Mendoza
+Rating: 7/10
+Clinic visited: Clínica Cuyo Salud
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Julieta Flores, Cardiology, Mendoza
+Rating: 6/10
+Clinic visited: Clínica Cuyo Salud
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 7 for Dr. Julieta Flores, Cardiology, Mendoza
+Rating: 4/10
+Clinic visited: Clínica Cuyo Salud
+Description: There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 8 for Dr. Julieta Flores, Cardiology, Mendoza
+Rating: 5/10
+Clinic visited: Clínica Cuyo Salud
+Description: Dr. Julieta Flores adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 9 for Dr. Julieta Flores, Cardiology, Mendoza
+Rating: 4/10
+Clinic visited: Clínica Cuyo Salud
+Description: My worries about side effects from my medication were waved off, and nobody offered an alternative. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Overall rating for Dr. Julieta Flores, Cardiology, Mendoza: 5.44/10 from 9 reviews

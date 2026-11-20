@@ -1,0 +1,64 @@
+Doctor: Dr. Moon Young-jae
+Doctor ID: 4300
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 9
+City: Seoul, South Korea
+Clinics: Yeongdeungpo Miso Medical Clinic (clinic ID 554)
+
+Review 1 for Dr. Moon Young-jae, Orthopedic, Seoul
+Rating: 5/10
+Clinic visited: Yeongdeungpo Miso Medical Clinic
+Description: The treatment plan from Dr. Moon Young-jae made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Moon Young-jae, Orthopedic, Seoul
+Rating: 6/10
+Clinic visited: Yeongdeungpo Miso Medical Clinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Moon Young-jae, Orthopedic, Seoul
+Rating: 6/10
+Clinic visited: Yeongdeungpo Miso Medical Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Booking was easy online, but the confirmation email contained the wrong address for Yeongdeungpo Miso Medical Clinic.
+
+Review 4 for Dr. Moon Young-jae, Orthopedic, Seoul
+Rating: 7/10
+Clinic visited: Yeongdeungpo Miso Medical Clinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 5 for Dr. Moon Young-jae, Orthopedic, Seoul
+Rating: 6/10
+Clinic visited: Yeongdeungpo Miso Medical Clinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 6 for Dr. Moon Young-jae, Orthopedic, Seoul
+Rating: 8/10
+Clinic visited: Yeongdeungpo Miso Medical Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Seen the same day at Yeongdeungpo Miso Medical Clinic after a bad ankle sprain, with an X-ray done and a brace fitted before I left.
+
+Review 7 for Dr. Moon Young-jae, Orthopedic, Seoul
+Rating: 6/10
+Clinic visited: Yeongdeungpo Miso Medical Clinic
+Description: Dr. Moon Young-jae explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 8 for Dr. Moon Young-jae, Orthopedic, Seoul
+Rating: 9/10
+Clinic visited: Yeongdeungpo Miso Medical Clinic
+Description: The X-ray was reviewed with me on screen, and he pointed out exactly where the cartilage had worn down.
+
+Review 9 for Dr. Moon Young-jae, Orthopedic, Seoul
+Rating: 8/10
+Clinic visited: Yeongdeungpo Miso Medical Clinic
+Description: Everything was explained in plain English by Dr. Moon Young-jae, and nothing was left to guess. My son's fracture was handled gently, and the explanation was pitched at his level as well as mine.
+
+Review 10 for Dr. Moon Young-jae, Orthopedic, Seoul
+Rating: 4/10
+Clinic visited: Yeongdeungpo Miso Medical Clinic
+Description: The surgery fee ended up far higher than the quote, and billing staff could not explain the difference.
+
+Review 11 for Dr. Moon Young-jae, Orthopedic, Seoul
+Rating: 6/10
+Clinic visited: Yeongdeungpo Miso Medical Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Moon Young-jae, Orthopedic, Seoul: 6.45/10 from 11 reviews

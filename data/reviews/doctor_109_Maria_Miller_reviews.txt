@@ -1,0 +1,54 @@
+Doctor: Dr. Maria Miller
+Doctor ID: 109
+Specialization: General
+Gender: Female
+Years of experience: 7
+City: Chicago, USA
+Clinics: Lincoln Park Family Clinic (clinic ID 16)
+
+Review 1 for Dr. Maria Miller, General, Chicago
+Rating: 6/10
+Clinic visited: Lincoln Park Family Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Maria Miller, General, Chicago
+Rating: 6/10
+Clinic visited: Lincoln Park Family Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Maria Miller, General, Chicago
+Rating: 7/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Dr. Maria Miller is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 4 for Dr. Maria Miller, General, Chicago
+Rating: 5/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Dr. Maria Miller was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 5 for Dr. Maria Miller, General, Chicago
+Rating: 5/10
+Clinic visited: Lincoln Park Family Clinic
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 6 for Dr. Maria Miller, General, Chicago
+Rating: 4/10
+Clinic visited: Lincoln Park Family Clinic
+Description: My questions were answered by Dr. Maria Miller with short, vague replies, and I left without a clear plan. I came in about worsening headaches and was told to drink more water and relax, with no examination at all. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 7 for Dr. Maria Miller, General, Chicago
+Rating: 6/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Maria Miller, General, Chicago
+Rating: 7/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Quick appointment and a fair price in Chicago, but the staff seemed overwhelmed and a bit curt on the phone. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Lincoln Park Family Clinic were inconsistent. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Maria Miller, General, Chicago
+Rating: 7/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Referrals from Dr. Maria Miller are handled well, but getting test results back took longer than I was told to expect. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Maria Miller, General, Chicago: 5.89/10 from 9 reviews

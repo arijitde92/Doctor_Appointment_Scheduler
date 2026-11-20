@@ -1,0 +1,49 @@
+Doctor: Dr. Stephanie Johnson
+Doctor ID: 113
+Specialization: General
+Gender: Female
+Years of experience: 20
+City: Chicago, USA
+Clinics: Northside Care Partners (clinic ID 17)
+
+Review 1 for Dr. Stephanie Johnson, General, Chicago
+Rating: 5/10
+Clinic visited: Northside Care Partners
+Description: The treatment plan from Dr. Stephanie Johnson made sense, but I wished it had been written down for me to take away. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 2 for Dr. Stephanie Johnson, General, Chicago
+Rating: 7/10
+Clinic visited: Northside Care Partners
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 3 for Dr. Stephanie Johnson, General, Chicago
+Rating: 9/10
+Clinic visited: Northside Care Partners
+Description: I went in with months of tiredness, and Dr. Stephanie Johnson ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. I was given a printed summary of the visit, which I shared with my family at home. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Stephanie Johnson, General, Chicago
+Rating: 9/10
+Clinic visited: Northside Care Partners
+Description: My annual check-up with Dr. Stephanie Johnson took forty minutes, with every screening explained and nothing rushed. Sensitive questions were handled by Dr. Stephanie Johnson with discretion and without a hint of judgment. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Stephanie Johnson, General, Chicago
+Rating: 10/10
+Clinic visited: Northside Care Partners
+Description: By the time I left the room, Dr. Stephanie Johnson had sorted the sick note, referral letter and prescription refill. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Stephanie Johnson, General, Chicago
+Rating: 9/10
+Clinic visited: Northside Care Partners
+Description: Dr. Stephanie Johnson double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Best family doctor I have had; She treats the whole person and not just the symptom list.
+
+Review 7 for Dr. Stephanie Johnson, General, Chicago
+Rating: 9/10
+Clinic visited: Northside Care Partners
+Description: As a new patient in Chicago, I felt welcomed at Northside Care Partners, and my whole history was reviewed in one relaxed visit. Prescriptions from Dr. Stephanie Johnson were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 8 for Dr. Stephanie Johnson, General, Chicago
+Rating: 8/10
+Clinic visited: Northside Care Partners
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. The nurse was friendly and efficient, and the whole visit with Dr. Stephanie Johnson felt well organized from start to finish.
+
+Overall rating for Dr. Stephanie Johnson, General, Chicago: 8.25/10 from 8 reviews

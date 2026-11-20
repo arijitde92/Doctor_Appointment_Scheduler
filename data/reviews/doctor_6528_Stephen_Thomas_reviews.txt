@@ -1,0 +1,59 @@
+Doctor: Dr. Stephen Thomas
+Doctor ID: 6528
+Specialization: Cardiology
+Gender: Male
+Years of experience: 3
+City: Perth, Australia
+Clinics: Jacaranda Family Practice (clinic ID 845)
+
+Review 1 for Dr. Stephen Thomas, Cardiology, Perth
+Rating: 6/10
+Clinic visited: Jacaranda Family Practice
+Description: Dr. Stephen Thomas adjusted my blood pressure medication carefully, though I had to call twice for a refill. Booking was easy online, but the confirmation email contained the wrong address for Jacaranda Family Practice. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Stephen Thomas, Cardiology, Perth
+Rating: 8/10
+Clinic visited: Jacaranda Family Practice
+Description: My stress test was supervised carefully, and Dr. Stephen Thomas reviewed the results in the same visit with a plan for my cholesterol. Getting to Jacaranda Family Practice by public transport in Perth was easy, and there is a step-free entrance for wheelchairs.
+
+Review 3 for Dr. Stephen Thomas, Cardiology, Perth
+Rating: 3/10
+Clinic visited: Jacaranda Family Practice
+Description: I was billed separately for tests that I understood to be part of the original consultation. The waiting room at Jacaranda Family Practice was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 4 for Dr. Stephen Thomas, Cardiology, Perth
+Rating: 6/10
+Clinic visited: Jacaranda Family Practice
+Description: Dr. Stephen Thomas was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 5 for Dr. Stephen Thomas, Cardiology, Perth
+Rating: 8/10
+Clinic visited: Jacaranda Family Practice
+Description: At my visit, Dr. Stephen Thomas took notes on my medication list, checked for interactions and explained the changes simply. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 6 for Dr. Stephen Thomas, Cardiology, Perth
+Rating: 7/10
+Clinic visited: Jacaranda Family Practice
+Description: Helpful with my cholesterol, Dr. Stephen Thomas still gave dietary advice that was a little generic. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Stephen Thomas, Cardiology, Perth
+Rating: 7/10
+Clinic visited: Jacaranda Family Practice
+Description: Great care in the visit itself, but the billing for the tests at Jacaranda Family Practice was confusing.
+
+Review 8 for Dr. Stephen Thomas, Cardiology, Perth
+Rating: 7/10
+Clinic visited: Jacaranda Family Practice
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Stephen Thomas, Cardiology, Perth
+Rating: 8/10
+Clinic visited: Jacaranda Family Practice
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 10 for Dr. Stephen Thomas, Cardiology, Perth
+Rating: 7/10
+Clinic visited: Jacaranda Family Practice
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Overall rating for Dr. Stephen Thomas, Cardiology, Perth: 6.70/10 from 10 reviews

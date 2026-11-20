@@ -1,0 +1,59 @@
+Doctor: Dr. Grace Campbell
+Doctor ID: 1071
+Specialization: Radiology
+Gender: Female
+Years of experience: 23
+City: Edinburgh, UK
+Clinics: Queen Street Medical Centre (clinic ID 140); Princes Street Health Practice (clinic ID 141)
+
+Review 1 for Dr. Grace Campbell, Radiology, Edinburgh
+Rating: 8/10
+Clinic visited: Princes Street Health Practice
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Grace Campbell were respectful throughout.
+
+Review 2 for Dr. Grace Campbell, Radiology, Edinburgh
+Rating: 10/10
+Clinic visited: Princes Street Health Practice
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 3 for Dr. Grace Campbell, Radiology, Edinburgh
+Rating: 10/10
+Clinic visited: Princes Street Health Practice
+Description: When my scan showed something that needed a second look, Dr. Grace Campbell arranged the follow-up the same day. A same-day slot was found for me at Princes Street Health Practice when I called with a worrying symptom.
+
+Review 4 for Dr. Grace Campbell, Radiology, Edinburgh
+Rating: 10/10
+Clinic visited: Queen Street Medical Centre
+Description: Images from Queen Street Medical Centre were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 5 for Dr. Grace Campbell, Radiology, Edinburgh
+Rating: 10/10
+Clinic visited: Princes Street Health Practice
+Description: Dr. Grace Campbell looked me in the eye, listened to the whole story and only then started typing. The report from Dr. Grace Campbell was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 6 for Dr. Grace Campbell, Radiology, Edinburgh
+Rating: 10/10
+Clinic visited: Queen Street Medical Centre
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. My ultrasound was unhurried, and Dr. Grace Campbell took time to show me the images and explain what each measurement meant. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Grace Campbell, Radiology, Edinburgh
+Rating: 9/10
+Clinic visited: Princes Street Health Practice
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 8 for Dr. Grace Campbell, Radiology, Edinburgh
+Rating: 9/10
+Clinic visited: Princes Street Health Practice
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. The receptionist at Princes Street Health Practice remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 9 for Dr. Grace Campbell, Radiology, Edinburgh
+Rating: 9/10
+Clinic visited: Queen Street Medical Centre
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor. I feel lucky to have found this practice in my area.
+
+Review 10 for Dr. Grace Campbell, Radiology, Edinburgh
+Rating: 9/10
+Clinic visited: Princes Street Health Practice
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. The staff at Princes Street Health Practice in Edinburgh explained the contrast dye and its side effects before I signed anything.
+
+Overall rating for Dr. Grace Campbell, Radiology, Edinburgh: 9.40/10 from 10 reviews

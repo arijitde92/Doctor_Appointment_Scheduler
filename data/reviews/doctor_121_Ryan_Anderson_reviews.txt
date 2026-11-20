@@ -1,0 +1,49 @@
+Doctor: Dr. Ryan Anderson
+Doctor ID: 121
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 4
+City: Chicago, USA
+Clinics: Hyde Park Medical Associates (clinic ID 18)
+
+Review 1 for Dr. Ryan Anderson, Pulmonology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Ryan Anderson, Pulmonology, Chicago
+Rating: 9/10
+Clinic visited: Hyde Park Medical Associates
+Description: My oxygen levels are monitored carefully at Hyde Park Medical Associates, and the home equipment was arranged without any hassle. The nurse was friendly and efficient, and the whole visit with Dr. Ryan Anderson felt well organized from start to finish.
+
+Review 3 for Dr. Ryan Anderson, Pulmonology, Chicago
+Rating: 9/10
+Clinic visited: Hyde Park Medical Associates
+Description: A same-day slot was found for me at Hyde Park Medical Associates when I called with a worrying symptom. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Ryan Anderson, Pulmonology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Quick appointment and a fair price in Chicago, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 5 for Dr. Ryan Anderson, Pulmonology, Chicago
+Rating: 8/10
+Clinic visited: Hyde Park Medical Associates
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Ryan Anderson was practical and never preachy. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 6 for Dr. Ryan Anderson, Pulmonology, Chicago
+Rating: 10/10
+Clinic visited: Hyde Park Medical Associates
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Ryan Anderson, Pulmonology, Chicago
+Rating: 9/10
+Clinic visited: Hyde Park Medical Associates
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Ryan Anderson, Pulmonology, Chicago
+Rating: 8/10
+Clinic visited: Hyde Park Medical Associates
+Description: Clear, honest answers from Dr. Ryan Anderson about my shortness of breath, and no unnecessary tests were ordered.
+
+Overall rating for Dr. Ryan Anderson, Pulmonology, Chicago: 8.38/10 from 8 reviews

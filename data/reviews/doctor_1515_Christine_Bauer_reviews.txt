@@ -1,0 +1,54 @@
+Doctor: Dr. Christine Bauer
+Doctor ID: 1515
+Specialization: General
+Gender: Female
+Years of experience: 29
+City: Berlin, Germany
+Clinics: Ärztehaus Neukölln-Süd (clinic ID 198)
+
+Review 1 for Dr. Christine Bauer, General, Berlin
+Rating: 6/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 2 for Dr. Christine Bauer, General, Berlin
+Rating: 7/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Dr. Christine Bauer was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Christine Bauer, General, Berlin
+Rating: 4/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: I came in about worsening headaches and was told to drink more water and relax, with no examination at all.
+
+Review 4 for Dr. Christine Bauer, General, Berlin
+Rating: 8/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Vaccination advice from Dr. Christine Bauer for my travel plans was thorough and specific to the countries I was visiting.
+
+Review 5 for Dr. Christine Bauer, General, Berlin
+Rating: 5/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Dr. Christine Bauer is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 6 for Dr. Christine Bauer, General, Berlin
+Rating: 7/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Dr. Christine Bauer was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Ärztehaus Neukölln-Süd were inconsistent.
+
+Review 7 for Dr. Christine Bauer, General, Berlin
+Rating: 4/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: I was sent for a battery of tests that had nothing to do with my complaint and received a surprise bill afterwards.
+
+Review 8 for Dr. Christine Bauer, General, Berlin
+Rating: 5/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 9 for Dr. Christine Bauer, General, Berlin
+Rating: 5/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Quick appointment and a fair price in Berlin, but the staff seemed overwhelmed and a bit curt on the phone. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Overall rating for Dr. Christine Bauer, General, Berlin: 5.67/10 from 9 reviews

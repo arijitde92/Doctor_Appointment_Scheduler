@@ -1,0 +1,49 @@
+Doctor: Dr. Michelle Ryan
+Doctor ID: 6459
+Specialization: Cardiology
+Gender: Female
+Years of experience: 11
+City: Brisbane, Australia
+Clinics: Bluegum Medical Group (clinic ID 836)
+
+Review 1 for Dr. Michelle Ryan, Cardiology, Brisbane
+Rating: 7/10
+Clinic visited: Bluegum Medical Group
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 2 for Dr. Michelle Ryan, Cardiology, Brisbane
+Rating: 8/10
+Clinic visited: Bluegum Medical Group
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. Dr. Michelle Ryan double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 3 for Dr. Michelle Ryan, Cardiology, Brisbane
+Rating: 6/10
+Clinic visited: Bluegum Medical Group
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Michelle Ryan, Cardiology, Brisbane
+Rating: 6/10
+Clinic visited: Bluegum Medical Group
+Description: Dr. Michelle Ryan adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 5 for Dr. Michelle Ryan, Cardiology, Brisbane
+Rating: 8/10
+Clinic visited: Bluegum Medical Group
+Description: Dr. Michelle Ryan drew a quick sketch to explain what was going on, which helped me remember it afterwards. The cardiology unit at Bluegum Medical Group runs on time, and the technicians were professional during my echocardiogram.
+
+Review 6 for Dr. Michelle Ryan, Cardiology, Brisbane
+Rating: 9/10
+Clinic visited: Bluegum Medical Group
+Description: I came away understanding my condition better than I have in years of previous appointments. My stress test was supervised carefully, and Dr. Michelle Ryan reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 7 for Dr. Michelle Ryan, Cardiology, Brisbane
+Rating: 6/10
+Clinic visited: Bluegum Medical Group
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Michelle Ryan, Cardiology, Brisbane
+Rating: 6/10
+Clinic visited: Bluegum Medical Group
+Description: Dr. Michelle Ryan was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Michelle Ryan, Cardiology, Brisbane: 7.00/10 from 8 reviews

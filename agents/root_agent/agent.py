@@ -86,6 +86,8 @@ You coordinate three specialist agents. Delegate tasks to them as needed:
    - Clinic address (full address)
    - Appointment date (specific calendar date, e.g., 2026-04-10)
    - Appointment time (specific time, e.g., 10:00 AM)
+   - Time zone of the clinic (IANA name from the clinic's `time_zone`,
+     e.g., Europe/Paris)
 
 ## Conversation Flow
 
@@ -152,7 +154,10 @@ Follow this general flow, but be flexible based on what the user needs:
   3. Clinic name
   4. Clinic address (full address from doctor_matcher results)
   5. Appointment date (e.g., 2026-04-10)
-  6. Appointment time (e.g., 10:00 AM)
+  6. Appointment time (e.g., 10:00 AM). Slot times are local to the clinic.
+  7. Time zone: the clinic's IANA `time_zone` (from doctor_matcher results;
+     ask doctor_matcher for the clinic location if you don't have it). If the
+     user's message already gives a time zone, use that.
 - Delegate to **scheduler_agent** with a clear message containing ALL details.
   Format your delegation message like this:
   "Please create a Google Calendar event for the following appointment:
@@ -161,7 +166,8 @@ Follow this general flow, but be flexible based on what the user needs:
    - Clinic: <clinic_name>
    - Address: <full_clinic_address>
    - Date: <YYYY-MM-DD>
-   - Time: <HH:MM AM/PM>"
+   - Time: <HH:MM AM/PM>
+   - Time zone: <IANA time zone, e.g. Europe/Paris>"
 - After scheduler_agent confirms the booking, relay the confirmation to the user.
 
 ## Communication Style

@@ -1,0 +1,69 @@
+Doctor: Dr. Sarah Bouchard
+Doctor ID: 331
+Specialization: Psychology
+Gender: Female
+Years of experience: 14
+City: Toronto, Canada
+Clinics: Bloor Street Family Health (clinic ID 45); Willowdale Medical Centre (clinic ID 46); Midtown Toronto Health Practice (clinic ID 47)
+
+Review 1 for Dr. Sarah Bouchard, Psychology, Toronto
+Rating: 10/10
+Clinic visited: Bloor Street Family Health
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 2 for Dr. Sarah Bouchard, Psychology, Toronto
+Rating: 8/10
+Clinic visited: Willowdale Medical Centre
+Description: I appreciated that she offered more than one option and let me choose what suited my life. The office in Toronto is quiet and private, and the receptionist never mentions anything in front of other patients.
+
+Review 3 for Dr. Sarah Bouchard, Psychology, Toronto
+Rating: 7/10
+Clinic visited: Willowdale Medical Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 4 for Dr. Sarah Bouchard, Psychology, Toronto
+Rating: 8/10
+Clinic visited: Willowdale Medical Centre
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months. Appointment reminders came by text and email, and rescheduling took two taps. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Sarah Bouchard, Psychology, Toronto
+Rating: 8/10
+Clinic visited: Midtown Toronto Health Practice
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Sarah Bouchard designed around my actual job.
+
+Review 6 for Dr. Sarah Bouchard, Psychology, Toronto
+Rating: 10/10
+Clinic visited: Midtown Toronto Health Practice
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. Getting to Midtown Toronto Health Practice by public transport in Toronto was easy, and there is a step-free entrance for wheelchairs.
+
+Review 7 for Dr. Sarah Bouchard, Psychology, Toronto
+Rating: 8/10
+Clinic visited: Willowdale Medical Centre
+Description: Dr. Sarah Bouchard adapted the approach when the first method did not suit me, and that flexibility made all the difference. At my visit, Dr. Sarah Bouchard took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 8 for Dr. Sarah Bouchard, Psychology, Toronto
+Rating: 7/10
+Clinic visited: Willowdale Medical Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 9 for Dr. Sarah Bouchard, Psychology, Toronto
+Rating: 7/10
+Clinic visited: Willowdale Medical Centre
+Description: Dr. Sarah Bouchard listens well, though some sessions felt like a recap of the previous one without much new direction. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Sarah Bouchard, Psychology, Toronto
+Rating: 9/10
+Clinic visited: Bloor Street Family Health
+Description: She has a calm way of asking the difficult questions that makes it feel safe to answer honestly. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 11 for Dr. Sarah Bouchard, Psychology, Toronto
+Rating: 7/10
+Clinic visited: Midtown Toronto Health Practice
+Description: Insightful and kind, though progress with Dr. Sarah Bouchard felt slow, and I wished for more structured homework between sessions. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 12 for Dr. Sarah Bouchard, Psychology, Toronto
+Rating: 8/10
+Clinic visited: Bloor Street Family Health
+Description: Warm, patient and honest, Dr. Sarah Bouchard told me what progress to expect and it matched reality. Everything was explained in plain English by Dr. Sarah Bouchard, and nothing was left to guess. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Sarah Bouchard, Psychology, Toronto: 8.08/10 from 12 reviews

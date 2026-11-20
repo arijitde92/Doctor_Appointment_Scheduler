@@ -1,0 +1,49 @@
+Doctor: Dr. Oliver Robinson
+Doctor ID: 6610
+Specialization: Radiology
+Gender: Male
+Years of experience: 8
+City: Auckland, New Zealand
+Clinics: Harbour View Health Practice (clinic ID 857); Rata Street Medical (clinic ID 858)
+
+Review 1 for Dr. Oliver Robinson, Radiology, Auckland
+Rating: 4/10
+Clinic visited: Rata Street Medical
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Review 2 for Dr. Oliver Robinson, Radiology, Auckland
+Rating: 4/10
+Clinic visited: Harbour View Health Practice
+Description: I waited two weeks for a report from Dr. Oliver Robinson and had to call three times before anyone could tell me the result.
+
+Review 3 for Dr. Oliver Robinson, Radiology, Auckland
+Rating: 6/10
+Clinic visited: Harbour View Health Practice
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Dr. Oliver Robinson was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Oliver Robinson, Radiology, Auckland
+Rating: 6/10
+Clinic visited: Rata Street Medical
+Description: Dr. Oliver Robinson answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Dr. Oliver Robinson was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Oliver Robinson, Radiology, Auckland
+Rating: 5/10
+Clinic visited: Harbour View Health Practice
+Description: I liked the advice I got from Dr. Oliver Robinson, but I would have liked more time to ask follow-up questions before the visit ended. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 6 for Dr. Oliver Robinson, Radiology, Auckland
+Rating: 5/10
+Clinic visited: Rata Street Medical
+Description: The report from Dr. Oliver Robinson was thorough, though full of technical terms that needed my regular doctor to translate. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Oliver Robinson, Radiology, Auckland
+Rating: 6/10
+Clinic visited: Rata Street Medical
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Oliver Robinson, Radiology, Auckland
+Rating: 7/10
+Clinic visited: Rata Street Medical
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Clear explanations, but the follow-up call took a week longer than I had been told. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Oliver Robinson, Radiology, Auckland: 5.38/10 from 8 reviews

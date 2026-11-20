@@ -1,0 +1,54 @@
+Doctor: Dr. Rajesh Jackson
+Doctor ID: 1129
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 25
+City: London, UK
+Clinics: Brixton Road Health Practice (clinic ID 148)
+
+Review 1 for Dr. Rajesh Jackson, Psychiatry, London
+Rating: 7/10
+Clinic visited: Brixton Road Health Practice
+Description: I liked the advice I got from Dr. Rajesh Jackson, but I would have liked more time to ask follow-up questions before the visit ended. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 2 for Dr. Rajesh Jackson, Psychiatry, London
+Rating: 7/10
+Clinic visited: Brixton Road Health Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Supportive in crisis, but follow-up between visits could have been more regular. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Rajesh Jackson, Psychiatry, London
+Rating: 8/10
+Clinic visited: Brixton Road Health Practice
+Description: The waiting room at Brixton Road Health Practice was clean, quiet and comfortable, with enough seating and water available. He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Rajesh Jackson, Psychiatry, London
+Rating: 7/10
+Clinic visited: Brixton Road Health Practice
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Rajesh Jackson, Psychiatry, London
+Rating: 5/10
+Clinic visited: Brixton Road Health Practice
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 6 for Dr. Rajesh Jackson, Psychiatry, London
+Rating: 5/10
+Clinic visited: Brixton Road Health Practice
+Description: Dr. Rajesh Jackson is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 7 for Dr. Rajesh Jackson, Psychiatry, London
+Rating: 7/10
+Clinic visited: Brixton Road Health Practice
+Description: Good listener, yet the refill process at Brixton Road Health Practice is slow and requires several phone calls.
+
+Review 8 for Dr. Rajesh Jackson, Psychiatry, London
+Rating: 9/10
+Clinic visited: Brixton Road Health Practice
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Rajesh Jackson, Psychiatry, London
+Rating: 8/10
+Clinic visited: Brixton Road Health Practice
+Description: Dr. Rajesh Jackson took a full history before suggesting any medication and explained the likely side effects honestly. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Rajesh Jackson, Psychiatry, London: 7.00/10 from 9 reviews

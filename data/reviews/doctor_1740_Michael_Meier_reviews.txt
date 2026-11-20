@@ -1,0 +1,59 @@
+Doctor: Dr. Michael Meier
+Doctor ID: 1740
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 24
+City: Geneva, Switzerland
+Clinics: Centre Médical du Lac Bleu (clinic ID 226); Centre de Santé Champel Parc (clinic ID 229)
+
+Review 1 for Dr. Michael Meier, Obstetrics and Gynecology (OB/GYN), Geneva
+Rating: 9/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: He listened to my concerns about painful periods and ordered the right tests instead of suggesting I simply cope.
+
+Review 2 for Dr. Michael Meier, Obstetrics and Gynecology (OB/GYN), Geneva
+Rating: 7/10
+Clinic visited: Centre de Santé Champel Parc
+Description: Dr. Michael Meier explained my options well, though the office was often running an hour behind.
+
+Review 3 for Dr. Michael Meier, Obstetrics and Gynecology (OB/GYN), Geneva
+Rating: 10/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. At Centre Médical du Lac Bleu in Geneva, the prenatal visits were scheduled well and rarely ran late.
+
+Review 4 for Dr. Michael Meier, Obstetrics and Gynecology (OB/GYN), Geneva
+Rating: 8/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: Dr. Michael Meier used a calm, steady voice that settled my nerves before a stressful procedure. Birth control options at Centre Médical du Lac Bleu were laid out clearly, with pros and cons for each and no pressure to choose any one.
+
+Review 5 for Dr. Michael Meier, Obstetrics and Gynecology (OB/GYN), Geneva
+Rating: 10/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: The receptionist at Centre Médical du Lac Bleu remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 6 for Dr. Michael Meier, Obstetrics and Gynecology (OB/GYN), Geneva
+Rating: 8/10
+Clinic visited: Centre de Santé Champel Parc
+Description: I was called in within five minutes of my appointment time at Centre de Santé Champel Parc, which is rare and much appreciated. Excellent care with my endometriosis, including a detailed discussion of treatment options and a clear referral when I needed surgery.
+
+Review 7 for Dr. Michael Meier, Obstetrics and Gynecology (OB/GYN), Geneva
+Rating: 7/10
+Clinic visited: Centre de Santé Champel Parc
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history.
+
+Review 8 for Dr. Michael Meier, Obstetrics and Gynecology (OB/GYN), Geneva
+Rating: 8/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: He spoke calmly during a stressful labor, and I felt safe and informed at every point. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 9 for Dr. Michael Meier, Obstetrics and Gynecology (OB/GYN), Geneva
+Rating: 7/10
+Clinic visited: Centre de Santé Champel Parc
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Michael Meier, Obstetrics and Gynecology (OB/GYN), Geneva
+Rating: 9/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Overall rating for Dr. Michael Meier, Obstetrics and Gynecology (OB/GYN), Geneva: 8.30/10 from 10 reviews

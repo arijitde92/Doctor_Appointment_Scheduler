@@ -1,0 +1,64 @@
+Doctor: Dr. Ryan Stewart
+Doctor ID: 1052
+Specialization: Cardiology
+Gender: Male
+Years of experience: 14
+City: Bristol, UK
+Clinics: Broad Street Polyclinic (clinic ID 138)
+
+Review 1 for Dr. Ryan Stewart, Cardiology, Bristol
+Rating: 7/10
+Clinic visited: Broad Street Polyclinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Dr. Ryan Stewart was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Ryan Stewart, Cardiology, Bristol
+Rating: 6/10
+Clinic visited: Broad Street Polyclinic
+Description: Great care in the visit itself, but the billing for the tests at Broad Street Polyclinic was confusing. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Ryan Stewart, Cardiology, Bristol
+Rating: 7/10
+Clinic visited: Broad Street Polyclinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Ryan Stewart, Cardiology, Bristol
+Rating: 9/10
+Clinic visited: Broad Street Polyclinic
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 5 for Dr. Ryan Stewart, Cardiology, Bristol
+Rating: 8/10
+Clinic visited: Broad Street Polyclinic
+Description: Dr. Ryan Stewart explained the difference between my statin options and let me weigh in on the choice.
+
+Review 6 for Dr. Ryan Stewart, Cardiology, Bristol
+Rating: 9/10
+Clinic visited: Broad Street Polyclinic
+Description: After my palpitations began, Dr. Ryan Stewart arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Ryan Stewart, Cardiology, Bristol
+Rating: 10/10
+Clinic visited: Broad Street Polyclinic
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Ryan Stewart, Cardiology, Bristol
+Rating: 8/10
+Clinic visited: Broad Street Polyclinic
+Description: The practice in Bristol is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 9 for Dr. Ryan Stewart, Cardiology, Bristol
+Rating: 8/10
+Clinic visited: Broad Street Polyclinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option. I would happily recommend this doctor to friends and family.
+
+Review 10 for Dr. Ryan Stewart, Cardiology, Bristol
+Rating: 8/10
+Clinic visited: Broad Street Polyclinic
+Description: My stress test was supervised carefully, and Dr. Ryan Stewart reviewed the results in the same visit with a plan for my cholesterol. I feel lucky to have found this practice in my area.
+
+Review 11 for Dr. Ryan Stewart, Cardiology, Bristol
+Rating: 10/10
+Clinic visited: Broad Street Polyclinic
+Description: Seeing Dr. Ryan Stewart in Bristol meant my whole family history was reviewed, and now my sister is being screened too.
+
+Overall rating for Dr. Ryan Stewart, Cardiology, Bristol: 8.18/10 from 11 reviews

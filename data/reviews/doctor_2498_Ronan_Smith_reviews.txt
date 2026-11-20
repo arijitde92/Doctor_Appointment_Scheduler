@@ -1,0 +1,69 @@
+Doctor: Dr. Ronan Smith
+Doctor ID: 2498
+Specialization: Radiology
+Gender: Male
+Years of experience: 10
+City: Galway, Ireland
+Clinics: Salthill Family Clinic (clinic ID 326)
+
+Review 1 for Dr. Ronan Smith, Radiology, Galway
+Rating: 9/10
+Clinic visited: Salthill Family Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 2 for Dr. Ronan Smith, Radiology, Galway
+Rating: 8/10
+Clinic visited: Salthill Family Clinic
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. Booking online at Salthill Family Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 3 for Dr. Ronan Smith, Radiology, Galway
+Rating: 9/10
+Clinic visited: Salthill Family Clinic
+Description: Getting to Salthill Family Clinic by public transport in Galway was easy, and there is a step-free entrance for wheelchairs.
+
+Review 4 for Dr. Ronan Smith, Radiology, Galway
+Rating: 4/10
+Clinic visited: Salthill Family Clinic
+Description: The technologist gave almost no instructions before my MRI, and I had to repeat part of the scan because I moved. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 5 for Dr. Ronan Smith, Radiology, Galway
+Rating: 7/10
+Clinic visited: Salthill Family Clinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Ronan Smith, Radiology, Galway
+Rating: 7/10
+Clinic visited: Salthill Family Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 7 for Dr. Ronan Smith, Radiology, Galway
+Rating: 10/10
+Clinic visited: Salthill Family Clinic
+Description: A translator was arranged for my mother without us asking twice, and Dr. Ronan Smith spoke directly to her throughout.
+
+Review 8 for Dr. Ronan Smith, Radiology, Galway
+Rating: 7/10
+Clinic visited: Salthill Family Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 9 for Dr. Ronan Smith, Radiology, Galway
+Rating: 9/10
+Clinic visited: Salthill Family Clinic
+Description: Dr. Ronan Smith compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 10 for Dr. Ronan Smith, Radiology, Galway
+Rating: 6/10
+Clinic visited: Salthill Family Clinic
+Description: The report from Dr. Ronan Smith was thorough, though full of technical terms that needed my regular doctor to translate. Booking was easy online, but the confirmation email contained the wrong address for Salthill Family Clinic.
+
+Review 11 for Dr. Ronan Smith, Radiology, Galway
+Rating: 9/10
+Clinic visited: Salthill Family Clinic
+Description: The staff at Salthill Family Clinic in Galway explained the contrast dye and its side effects before I signed anything. Prescriptions from Dr. Ronan Smith were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Five stars from me, and I would book again tomorrow.
+
+Review 12 for Dr. Ronan Smith, Radiology, Galway
+Rating: 8/10
+Clinic visited: Salthill Family Clinic
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Overall rating for Dr. Ronan Smith, Radiology, Galway: 7.75/10 from 12 reviews

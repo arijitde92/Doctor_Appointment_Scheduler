@@ -1,0 +1,49 @@
+Doctor: Dr. Hans Lind
+Doctor ID: 2236
+Specialization: Pathology
+Gender: Male
+Years of experience: 17
+City: Uppsala, Sweden
+Clinics: Medicinskt Centrum Olofsgatan (clinic ID 292); Läkarmottagningen Vaksala Plus (clinic ID 294)
+
+Review 1 for Dr. Hans Lind, Pathology, Uppsala
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Olofsgatan
+Description: Everything was explained in plain English by Dr. Hans Lind, and nothing was left to guess. The lab under Dr. Hans Lind was clean, organized and never overbooked, and results arrived exactly when promised.
+
+Review 2 for Dr. Hans Lind, Pathology, Uppsala
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Olofsgatan
+Description: The blood draw was painless, but the waiting area at Medicinskt Centrum Olofsgatan was crowded in the early morning. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Hans Lind, Pathology, Uppsala
+Rating: 10/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: Dr. Hans Lind took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 4 for Dr. Hans Lind, Pathology, Uppsala
+Rating: 9/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: I asked for a second look at my slides, and Dr. Hans Lind reviewed them without any fuss and confirmed the finding in writing. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Hans Lind, Pathology, Uppsala
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Olofsgatan
+Description: Dr. Hans Lind answered my questions kindly, though the call back took three days.
+
+Review 6 for Dr. Hans Lind, Pathology, Uppsala
+Rating: 8/10
+Clinic visited: Läkarmottagningen Vaksala Plus
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Hans Lind, Pathology, Uppsala
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Olofsgatan
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. The nurse was friendly and efficient, and the whole visit with Dr. Hans Lind felt well organized from start to finish.
+
+Review 8 for Dr. Hans Lind, Pathology, Uppsala
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Olofsgatan
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Overall rating for Dr. Hans Lind, Pathology, Uppsala: 8.12/10 from 8 reviews

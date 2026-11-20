@@ -1,0 +1,69 @@
+Doctor: Dr. Cho Min-jun
+Doctor ID: 4213
+Specialization: Cardiology
+Gender: Male
+Years of experience: 9
+City: Daegu, South Korea
+Clinics: Seongseo Haenim Polyclinic (clinic ID 543)
+
+Review 1 for Dr. Cho Min-jun, Cardiology, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The echocardiogram staff were kind, but the results took over a week to be explained to me. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Cho Min-jun, Cardiology, Daegu
+Rating: 6/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Great care in the visit itself, but the billing for the tests at Seongseo Haenim Polyclinic was confusing.
+
+Review 3 for Dr. Cho Min-jun, Cardiology, Daegu
+Rating: 6/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Cho Min-jun, Cardiology, Daegu
+Rating: 5/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 5 for Dr. Cho Min-jun, Cardiology, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: My stress test was supervised carefully, and Dr. Cho Min-jun reviewed the results in the same visit with a plan for my cholesterol. Dr. Cho Min-jun double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 6 for Dr. Cho Min-jun, Cardiology, Daegu
+Rating: 10/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning.
+
+Review 7 for Dr. Cho Min-jun, Cardiology, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Honest about the risks and benefits of the procedure, Dr. Cho Min-jun never pressured me toward surgery. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Cho Min-jun, Cardiology, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Helpful with my cholesterol, Dr. Cho Min-jun still gave dietary advice that was a little generic. Dr. Cho Min-jun was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 9 for Dr. Cho Min-jun, Cardiology, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Cho Min-jun adjusted my blood pressure medication carefully, though I had to call twice for a refill. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Cho Min-jun, Cardiology, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 11 for Dr. Cho Min-jun, Cardiology, Daegu
+Rating: 6/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Good bedside manner from Dr. Cho Min-jun, but the parking near Seongseo Haenim Polyclinic is limited and I had to circle for fifteen minutes.
+
+Review 12 for Dr. Cho Min-jun, Cardiology, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: I liked the advice I got from Dr. Cho Min-jun, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Cho Min-jun, Cardiology, Daegu: 7.17/10 from 12 reviews

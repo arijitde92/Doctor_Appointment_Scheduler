@@ -1,0 +1,64 @@
+Doctor: Dr. Katharina Kaiser
+Doctor ID: 1538
+Specialization: Cardiology
+Gender: Female
+Years of experience: 18
+City: Frankfurt, Germany
+Clinics: Praxiszentrum Zeilblick (clinic ID 200)
+
+Review 1 for Dr. Katharina Kaiser, Cardiology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Good bedside manner from Dr. Katharina Kaiser, but the parking near Praxiszentrum Zeilblick is limited and I had to circle for fifteen minutes. Helpful with my cholesterol, Dr. Katharina Kaiser still gave dietary advice that was a little generic.
+
+Review 2 for Dr. Katharina Kaiser, Cardiology, Frankfurt
+Rating: 6/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Great care in the visit itself, but the billing for the tests at Praxiszentrum Zeilblick was confusing. The doctor was kind, though the clinic's evening hours are very limited for working people. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Katharina Kaiser, Cardiology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: The treatment plan from Dr. Katharina Kaiser made sense, but I wished it had been written down for me to take away. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 4 for Dr. Katharina Kaiser, Cardiology, Frankfurt
+Rating: 5/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 5 for Dr. Katharina Kaiser, Cardiology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Dr. Katharina Kaiser adjusted my blood pressure medication carefully, though I had to call twice for a refill. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Katharina Kaiser, Cardiology, Frankfurt
+Rating: 6/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: I liked the advice I got from Dr. Katharina Kaiser, but I would have liked more time to ask follow-up questions before the visit ended. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 7 for Dr. Katharina Kaiser, Cardiology, Frankfurt
+Rating: 5/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Katharina Kaiser, Cardiology, Frankfurt
+Rating: 6/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 9 for Dr. Katharina Kaiser, Cardiology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 10 for Dr. Katharina Kaiser, Cardiology, Frankfurt
+Rating: 8/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. I was given a printed summary of the visit, which I shared with my family at home. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 11 for Dr. Katharina Kaiser, Cardiology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Katharina Kaiser, Cardiology, Frankfurt: 6.45/10 from 11 reviews

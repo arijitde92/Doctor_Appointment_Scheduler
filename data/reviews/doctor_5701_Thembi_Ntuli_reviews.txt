@@ -1,0 +1,49 @@
+Doctor: Dr. Thembi Ntuli
+Doctor ID: 5701
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 3
+City: Cape Town, South Africa
+Clinics: Claremont Oaks Medical Centre (clinic ID 736); Century Bay Care Practice (clinic ID 739)
+
+Review 1 for Dr. Thembi Ntuli, Pediatrics, Cape Town
+Rating: 8/10
+Clinic visited: Claremont Oaks Medical Centre
+Description: Kind to anxious parents, Dr. Thembi Ntuli never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 2 for Dr. Thembi Ntuli, Pediatrics, Cape Town
+Rating: 8/10
+Clinic visited: Claremont Oaks Medical Centre
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. I asked about the cost before the visit and received an honest estimate that matched the final bill. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Thembi Ntuli, Pediatrics, Cape Town
+Rating: 6/10
+Clinic visited: Century Bay Care Practice
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The treatment plan from Dr. Thembi Ntuli made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Thembi Ntuli, Pediatrics, Cape Town
+Rating: 8/10
+Clinic visited: Claremont Oaks Medical Centre
+Description: The waiting room in Cape Town has a play corner and separate seating for sick children, which I really valued.
+
+Review 5 for Dr. Thembi Ntuli, Pediatrics, Cape Town
+Rating: 5/10
+Clinic visited: Century Bay Care Practice
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 6 for Dr. Thembi Ntuli, Pediatrics, Cape Town
+Rating: 6/10
+Clinic visited: Claremont Oaks Medical Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Caring and gentle with my child, Dr. Thembi Ntuli nonetheless ran forty minutes behind schedule at most appointments. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Thembi Ntuli, Pediatrics, Cape Town
+Rating: 6/10
+Clinic visited: Claremont Oaks Medical Centre
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 8 for Dr. Thembi Ntuli, Pediatrics, Cape Town
+Rating: 7/10
+Clinic visited: Century Bay Care Practice
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Overall rating for Dr. Thembi Ntuli, Pediatrics, Cape Town: 6.75/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Ta Anh
+Doctor ID: 5014
+Specialization: Radiology
+Gender: Female
+Years of experience: 18
+City: Hanoi, Vietnam
+Clinics: Phong Kham Da Khoa Thien Phuc (clinic ID 648)
+
+Review 1 for Dr. Ta Anh, Radiology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Good bedside manner from Dr. Ta Anh, but the parking near Phong Kham Da Khoa Thien Phuc is limited and I had to circle for fifteen minutes. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Ta Anh, Radiology, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: The report from Dr. Ta Anh was thorough, though full of technical terms that needed my regular doctor to translate. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Ta Anh, Radiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. I was called in within five minutes of my appointment time at Phong Kham Da Khoa Thien Phuc, which is rare and much appreciated. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Ta Anh, Radiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: At my visit, Dr. Ta Anh took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 5 for Dr. Ta Anh, Radiology, Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I feel lucky to have found this practice in my area.
+
+Review 6 for Dr. Ta Anh, Radiology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 7 for Dr. Ta Anh, Radiology, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Dr. Ta Anh answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Ta Anh, Radiology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Dr. Ta Anh used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Overall rating for Dr. Ta Anh, Radiology, Hanoi: 7.25/10 from 8 reviews

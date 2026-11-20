@@ -1,0 +1,54 @@
+Doctor: Dr. Rangi Lee
+Doctor ID: 6715
+Specialization: General
+Gender: Female
+Years of experience: 17
+City: Wellington, New Zealand
+Clinics: Tui Medical Centre (clinic ID 870)
+
+Review 1 for Dr. Rangi Lee, General, Wellington
+Rating: 7/10
+Clinic visited: Tui Medical Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Referrals from Dr. Rangi Lee are handled well, but getting test results back took longer than I was told to expect. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Rangi Lee, General, Wellington
+Rating: 6/10
+Clinic visited: Tui Medical Centre
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Tui Medical Centre were inconsistent. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Rangi Lee, General, Wellington
+Rating: 3/10
+Clinic visited: Tui Medical Centre
+Description: There was no translator available, and my parent was left unable to follow what was being said. My lab results from Tui Medical Centre were never called in, and I only found them by chasing the front desk three times. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 4 for Dr. Rangi Lee, General, Wellington
+Rating: 4/10
+Clinic visited: Tui Medical Centre
+Description: My persistent fatigue was brushed aside as stress by Dr. Rangi Lee, and it took a second doctor to find the actual cause.
+
+Review 5 for Dr. Rangi Lee, General, Wellington
+Rating: 7/10
+Clinic visited: Tui Medical Centre
+Description: The treatment plan from Dr. Rangi Lee made sense, but I wished it had been written down for me to take away. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 6 for Dr. Rangi Lee, General, Wellington
+Rating: 6/10
+Clinic visited: Tui Medical Centre
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Helpful visit overall, although I only found out about an extra charge after I had paid. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Rangi Lee, General, Wellington
+Rating: 7/10
+Clinic visited: Tui Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 8 for Dr. Rangi Lee, General, Wellington
+Rating: 5/10
+Clinic visited: Tui Medical Centre
+Description: Dr. Rangi Lee is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Rangi Lee, General, Wellington
+Rating: 9/10
+Clinic visited: Tui Medical Centre
+Description: Dr. Rangi Lee double-checked my allergy list before prescribing anything, and that careful habit earned my trust. By the time I left the room, Dr. Rangi Lee had sorted the sick note, referral letter and prescription refill.
+
+Overall rating for Dr. Rangi Lee, General, Wellington: 6.00/10 from 9 reviews

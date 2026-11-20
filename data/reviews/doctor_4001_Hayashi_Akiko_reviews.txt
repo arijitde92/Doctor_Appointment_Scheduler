@@ -1,0 +1,59 @@
+Doctor: Dr. Hayashi Akiko
+Doctor ID: 4001
+Specialization: Neurology
+Gender: Female
+Years of experience: 26
+City: Kyoto, Japan
+Clinics: Karasuma Matsu Family Clinic (clinic ID 516)
+
+Review 1 for Dr. Hayashi Akiko, Neurology, Kyoto
+Rating: 10/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I always leave Dr. Hayashi Akiko's office with a short written summary of changes, which helps my family keep up.
+
+Review 2 for Dr. Hayashi Akiko, Neurology, Kyoto
+Rating: 9/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Getting a same-month appointment in Kyoto for my sudden headaches was a real relief, and the work-up was prompt. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 3 for Dr. Hayashi Akiko, Neurology, Kyoto
+Rating: 10/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: The EEG appointment ran on time, and Dr. Hayashi Akiko reviewed the tracing with me the same week. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 4 for Dr. Hayashi Akiko, Neurology, Kyoto
+Rating: 9/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 5 for Dr. Hayashi Akiko, Neurology, Kyoto
+Rating: 8/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. The memory assessment for my father at Karasuma Matsu Family Clinic was gentle and respectful, and the family received a clear written summary.
+
+Review 6 for Dr. Hayashi Akiko, Neurology, Kyoto
+Rating: 5/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Dr. Hayashi Akiko explained my results well, although the visit felt short for such a complex condition. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Hayashi Akiko, Neurology, Kyoto
+Rating: 8/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Clear and honest talk with Dr. Hayashi Akiko about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist. At my visit, Dr. Hayashi Akiko took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 8 for Dr. Hayashi Akiko, Neurology, Kyoto
+Rating: 8/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Hayashi Akiko, Neurology, Kyoto
+Rating: 8/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Dr. Hayashi Akiko used a calm, steady voice that settled my nerves before a stressful procedure. The neurological exam by Dr. Hayashi Akiko was thorough, with every reflex test and gait check explained as it happened.
+
+Review 10 for Dr. Hayashi Akiko, Neurology, Kyoto
+Rating: 9/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Overall rating for Dr. Hayashi Akiko, Neurology, Kyoto: 8.40/10 from 10 reviews

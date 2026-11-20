@@ -1,0 +1,64 @@
+Doctor: Dr. Elvira Yakovleva
+Doctor ID: 3674
+Specialization: Pathology
+Gender: Female
+Years of experience: 13
+City: Kazan, Russia
+Clinics: Bulak Medical Centre (clinic ID 475)
+
+Review 1 for Dr. Elvira Yakovleva, Pathology, Kazan
+Rating: 8/10
+Clinic visited: Bulak Medical Centre
+Description: The lab at Bulak Medical Centre had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 2 for Dr. Elvira Yakovleva, Pathology, Kazan
+Rating: 6/10
+Clinic visited: Bulak Medical Centre
+Description: Helpful in clarifying a borderline result, though Dr. Elvira Yakovleva gave little guidance about whether to repeat it.
+
+Review 3 for Dr. Elvira Yakovleva, Pathology, Kazan
+Rating: 5/10
+Clinic visited: Bulak Medical Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. The blood draw was painless, but the waiting area at Bulak Medical Centre was crowded in the early morning.
+
+Review 4 for Dr. Elvira Yakovleva, Pathology, Kazan
+Rating: 5/10
+Clinic visited: Bulak Medical Centre
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 5 for Dr. Elvira Yakovleva, Pathology, Kazan
+Rating: 7/10
+Clinic visited: Bulak Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Elvira Yakovleva, Pathology, Kazan
+Rating: 6/10
+Clinic visited: Bulak Medical Centre
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Quick appointment and a fair price in Kazan, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Elvira Yakovleva, Pathology, Kazan
+Rating: 5/10
+Clinic visited: Bulak Medical Centre
+Description: Dr. Elvira Yakovleva was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 8 for Dr. Elvira Yakovleva, Pathology, Kazan
+Rating: 8/10
+Clinic visited: Bulak Medical Centre
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Kazan. Dr. Elvira Yakovleva double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 9 for Dr. Elvira Yakovleva, Pathology, Kazan
+Rating: 7/10
+Clinic visited: Bulak Medical Centre
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Elvira Yakovleva, Pathology, Kazan
+Rating: 6/10
+Clinic visited: Bulak Medical Centre
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 11 for Dr. Elvira Yakovleva, Pathology, Kazan
+Rating: 6/10
+Clinic visited: Bulak Medical Centre
+Description: Dr. Elvira Yakovleva answered my questions kindly, though the call back took three days. Good bedside manner from Dr. Elvira Yakovleva, but the parking near Bulak Medical Centre is limited and I had to circle for fifteen minutes. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Elvira Yakovleva, Pathology, Kazan: 6.27/10 from 11 reviews

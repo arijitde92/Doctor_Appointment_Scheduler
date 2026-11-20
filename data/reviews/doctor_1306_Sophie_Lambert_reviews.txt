@@ -1,0 +1,49 @@
+Doctor: Dr. Sophie Lambert
+Doctor ID: 1306
+Specialization: Cardiology
+Gender: Female
+Years of experience: 3
+City: Toulouse, France
+Clinics: Centre Médical du Capitole (clinic ID 170); Clinique des Minimes (clinic ID 172)
+
+Review 1 for Dr. Sophie Lambert, Cardiology, Toulouse
+Rating: 8/10
+Clinic visited: Clinique des Minimes
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning. Everything was explained in plain English by Dr. Sophie Lambert, and nothing was left to guess.
+
+Review 2 for Dr. Sophie Lambert, Cardiology, Toulouse
+Rating: 10/10
+Clinic visited: Clinique des Minimes
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 3 for Dr. Sophie Lambert, Cardiology, Toulouse
+Rating: 8/10
+Clinic visited: Centre Médical du Capitole
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Sophie Lambert, Cardiology, Toulouse
+Rating: 10/10
+Clinic visited: Centre Médical du Capitole
+Description: After my heart attack, Dr. Sophie Lambert explained the rehab plan and medication changes with great patience and kindness. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Sophie Lambert, Cardiology, Toulouse
+Rating: 8/10
+Clinic visited: Clinique des Minimes
+Description: At my visit, Dr. Sophie Lambert took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 6 for Dr. Sophie Lambert, Cardiology, Toulouse
+Rating: 10/10
+Clinic visited: Clinique des Minimes
+Description: She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 7 for Dr. Sophie Lambert, Cardiology, Toulouse
+Rating: 10/10
+Clinic visited: Centre Médical du Capitole
+Description: Clear and calm advice at Centre Médical du Capitole about exercise after my stent, including a gradual written schedule. Dr. Sophie Lambert drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 8 for Dr. Sophie Lambert, Cardiology, Toulouse
+Rating: 10/10
+Clinic visited: Clinique des Minimes
+Description: Managing my blood pressure with Dr. Sophie Lambert has been steady and practical, with home readings reviewed at every visit. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Sophie Lambert, Cardiology, Toulouse: 9.25/10 from 8 reviews

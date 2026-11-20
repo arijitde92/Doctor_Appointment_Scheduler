@@ -1,0 +1,64 @@
+Doctor: Dr. Flor Pérez
+Doctor ID: 982
+Specialization: Radiology
+Gender: Female
+Years of experience: 27
+City: Lima, Peru
+Clinics: Clínica La Marina Salud (clinic ID 129)
+
+Review 1 for Dr. Flor Pérez, Radiology, Lima
+Rating: 8/10
+Clinic visited: Clínica La Marina Salud
+Description: Reviewing my X-ray together with Dr. Flor Pérez on the screen made it much easier to understand my arthritis. Everything was explained in plain English by Dr. Flor Pérez, and nothing was left to guess.
+
+Review 2 for Dr. Flor Pérez, Radiology, Lima
+Rating: 8/10
+Clinic visited: Clínica La Marina Salud
+Description: When my scan showed something that needed a second look, Dr. Flor Pérez arranged the follow-up the same day. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 3 for Dr. Flor Pérez, Radiology, Lima
+Rating: 6/10
+Clinic visited: Clínica La Marina Salud
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Flor Pérez, Radiology, Lima
+Rating: 6/10
+Clinic visited: Clínica La Marina Salud
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Flor Pérez, Radiology, Lima
+Rating: 8/10
+Clinic visited: Clínica La Marina Salud
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. A translator was arranged for my mother without us asking twice, and Dr. Flor Pérez spoke directly to her throughout.
+
+Review 6 for Dr. Flor Pérez, Radiology, Lima
+Rating: 9/10
+Clinic visited: Clínica La Marina Salud
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 7 for Dr. Flor Pérez, Radiology, Lima
+Rating: 7/10
+Clinic visited: Clínica La Marina Salud
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clínica La Marina Salud. The report from Dr. Flor Pérez was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 8 for Dr. Flor Pérez, Radiology, Lima
+Rating: 7/10
+Clinic visited: Clínica La Marina Salud
+Description: Dr. Flor Pérez answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Good bedside manner from Dr. Flor Pérez, but the parking near Clínica La Marina Salud is limited and I had to circle for fifteen minutes.
+
+Review 9 for Dr. Flor Pérez, Radiology, Lima
+Rating: 5/10
+Clinic visited: Clínica La Marina Salud
+Description: Dr. Flor Pérez was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 10 for Dr. Flor Pérez, Radiology, Lima
+Rating: 7/10
+Clinic visited: Clínica La Marina Salud
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 11 for Dr. Flor Pérez, Radiology, Lima
+Rating: 8/10
+Clinic visited: Clínica La Marina Salud
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Flor Pérez sent a clear report within a day. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Flor Pérez, Radiology, Lima: 7.18/10 from 11 reviews

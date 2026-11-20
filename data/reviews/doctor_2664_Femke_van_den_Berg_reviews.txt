@@ -1,0 +1,59 @@
+Doctor: Dr. Femke van den Berg
+Doctor ID: 2664
+Specialization: Radiology
+Gender: Female
+Years of experience: 4
+City: The Hague, Netherlands
+Clinics: Medisch Centrum Hofkwartier (clinic ID 349)
+
+Review 1 for Dr. Femke van den Berg, Radiology, The Hague
+Rating: 7/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Femke van den Berg, Radiology, The Hague
+Rating: 8/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Dr. Femke van den Berg compared my new scan with last year's and pointed out exactly what had stayed the same. Paperwork at Medisch Centrum Hofkwartier was kept to a minimum, and the staff helped me complete the insurance form. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Femke van den Berg, Radiology, The Hague
+Rating: 7/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Dr. Femke van den Berg answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 4 for Dr. Femke van den Berg, Radiology, The Hague
+Rating: 7/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Femke van den Berg, Radiology, The Hague
+Rating: 8/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Femke van den Berg, Radiology, The Hague
+Rating: 5/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Femke van den Berg, Radiology, The Hague
+Rating: 8/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Femke van den Berg sent a clear report within a day. A translator was arranged for my mother without us asking twice, and Dr. Femke van den Berg spoke directly to her throughout.
+
+Review 8 for Dr. Femke van den Berg, Radiology, The Hague
+Rating: 6/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Dr. Femke van den Berg was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The report from Dr. Femke van den Berg was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 9 for Dr. Femke van den Berg, Radiology, The Hague
+Rating: 8/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Fast, clean and professional; the bone density scan with Dr. Femke van den Berg was painless and the results were explained clearly.
+
+Review 10 for Dr. Femke van den Berg, Radiology, The Hague
+Rating: 6/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Booking was easy online, but the confirmation email contained the wrong address for Medisch Centrum Hofkwartier.
+
+Overall rating for Dr. Femke van den Berg, Radiology, The Hague: 7.00/10 from 10 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Emma Taylor
+Doctor ID: 1116
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 7
+City: London, UK
+Clinics: Cabot Square Medical Centre (clinic ID 146)
+
+Review 1 for Dr. Emma Taylor, Psychiatry, London
+Rating: 6/10
+Clinic visited: Cabot Square Medical Centre
+Description: Dr. Emma Taylor was thoughtful and clear, though the front desk was disorganized and lost my first referral form. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Emma Taylor, Psychiatry, London
+Rating: 9/10
+Clinic visited: Cabot Square Medical Centre
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 3 for Dr. Emma Taylor, Psychiatry, London
+Rating: 7/10
+Clinic visited: Cabot Square Medical Centre
+Description: Good listener, yet the refill process at Cabot Square Medical Centre is slow and requires several phone calls. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Emma Taylor, Psychiatry, London
+Rating: 8/10
+Clinic visited: Cabot Square Medical Centre
+Description: Prescriptions from Dr. Emma Taylor were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Emma Taylor, Psychiatry, London
+Rating: 9/10
+Clinic visited: Cabot Square Medical Centre
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 6 for Dr. Emma Taylor, Psychiatry, London
+Rating: 8/10
+Clinic visited: Cabot Square Medical Centre
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Emma Taylor felt well organized from start to finish. Dr. Emma Taylor took a full history before suggesting any medication and explained the likely side effects honestly. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Emma Taylor, Psychiatry, London
+Rating: 9/10
+Clinic visited: Cabot Square Medical Centre
+Description: The ADHD assessment by Dr. Emma Taylor was careful and detailed, with clear written conclusions and realistic expectations. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 8 for Dr. Emma Taylor, Psychiatry, London
+Rating: 7/10
+Clinic visited: Cabot Square Medical Centre
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 9 for Dr. Emma Taylor, Psychiatry, London
+Rating: 7/10
+Clinic visited: Cabot Square Medical Centre
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Emma Taylor, Psychiatry, London
+Rating: 6/10
+Clinic visited: Cabot Square Medical Centre
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 11 for Dr. Emma Taylor, Psychiatry, London
+Rating: 7/10
+Clinic visited: Cabot Square Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 12 for Dr. Emma Taylor, Psychiatry, London
+Rating: 8/10
+Clinic visited: Cabot Square Medical Centre
+Description: I was called in within five minutes of my appointment time at Cabot Square Medical Centre, which is rare and much appreciated.
+
+Overall rating for Dr. Emma Taylor, Psychiatry, London: 7.58/10 from 12 reviews

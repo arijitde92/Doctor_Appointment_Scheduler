@@ -1,0 +1,54 @@
+Doctor: Dr. Maria Kremer
+Doctor ID: 3324
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 1
+City: Luxembourg City, Luxembourg
+Clinics: Centre Médical Kirchberg (clinic ID 431)
+
+Review 1 for Dr. Maria Kremer, Gastroenterology, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre Médical Kirchberg
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Dr. Maria Kremer was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Maria Kremer, Gastroenterology, Luxembourg City
+Rating: 7/10
+Clinic visited: Centre Médical Kirchberg
+Description: Knowledgeable about my reflux, Dr. Maria Kremer still gave diet advice that felt generic and not tailored to my habits.
+
+Review 3 for Dr. Maria Kremer, Gastroenterology, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre Médical Kirchberg
+Description: Good bedside manner from Dr. Maria Kremer, but the parking near Centre Médical Kirchberg is limited and I had to circle for fifteen minutes. Good care during my endoscopy, although the recovery area was crowded and noisy. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Maria Kremer, Gastroenterology, Luxembourg City
+Rating: 4/10
+Clinic visited: Centre Médical Kirchberg
+Description: Dr. Maria Kremer spent very little time explaining the biopsy findings and I left worried and confused. My questions were answered by Dr. Maria Kremer with short, vague replies, and I left without a clear plan.
+
+Review 5 for Dr. Maria Kremer, Gastroenterology, Luxembourg City
+Rating: 7/10
+Clinic visited: Centre Médical Kirchberg
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Skilled with the scope, but communication about the fasting time before the procedure was unclear. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Maria Kremer, Gastroenterology, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre Médical Kirchberg
+Description: Dr. Maria Kremer is thorough, but I waited nearly two months to get the first available slot.
+
+Review 7 for Dr. Maria Kremer, Gastroenterology, Luxembourg City
+Rating: 9/10
+Clinic visited: Centre Médical Kirchberg
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Maria Kremer, Gastroenterology, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre Médical Kirchberg
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Maria Kremer, Gastroenterology, Luxembourg City
+Rating: 7/10
+Clinic visited: Centre Médical Kirchberg
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Maria Kremer, Gastroenterology, Luxembourg City: 6.44/10 from 9 reviews

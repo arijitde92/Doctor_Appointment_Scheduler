@@ -1,0 +1,49 @@
+Doctor: Dr. Javier Cruz
+Doctor ID: 1024
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 21
+City: Trujillo, Peru
+Clinics: Instituto de Salud Víctor Larco (clinic ID 134)
+
+Review 1 for Dr. Javier Cruz, Obstetrics and Gynecology (OB/GYN), Trujillo
+Rating: 7/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Javier Cruz, Obstetrics and Gynecology (OB/GYN), Trujillo
+Rating: 10/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Menopause symptoms are finally manageable thanks to Dr. Javier Cruz's careful discussion of choices and a gradual plan.
+
+Review 3 for Dr. Javier Cruz, Obstetrics and Gynecology (OB/GYN), Trujillo
+Rating: 6/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues.
+
+Review 4 for Dr. Javier Cruz, Obstetrics and Gynecology (OB/GYN), Trujillo
+Rating: 6/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history.
+
+Review 5 for Dr. Javier Cruz, Obstetrics and Gynecology (OB/GYN), Trujillo
+Rating: 4/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The visit felt rushed, and Dr. Javier Cruz was already halfway out the door when I started to describe my second symptom. Dr. Javier Cruz seemed to speak over me during a sensitive exam and did not explain what was happening.
+
+Review 6 for Dr. Javier Cruz, Obstetrics and Gynecology (OB/GYN), Trujillo
+Rating: 6/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Javier Cruz, Obstetrics and Gynecology (OB/GYN), Trujillo
+Rating: 7/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Javier Cruz, Obstetrics and Gynecology (OB/GYN), Trujillo
+Rating: 8/10
+Clinic visited: Instituto de Salud Víctor Larco
+Description: The staff made a sensitive appointment feel comfortable, and Dr. Javier Cruz respected my questions about my body.
+
+Overall rating for Dr. Javier Cruz, Obstetrics and Gynecology (OB/GYN), Trujillo: 6.75/10 from 8 reviews

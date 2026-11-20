@@ -1,0 +1,64 @@
+Doctor: Dr. Rajesh a/l Ganesan
+Doctor ID: 4668
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 7
+City: Ipoh, Malaysia
+Clinics: Cempaka Family Clinic (clinic ID 603)
+
+Review 1 for Dr. Rajesh a/l Ganesan, Psychiatry, Ipoh
+Rating: 7/10
+Clinic visited: Cempaka Family Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Good bedside manner from Dr. Rajesh a/l Ganesan, but the parking near Cempaka Family Clinic is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Rajesh a/l Ganesan, Psychiatry, Ipoh
+Rating: 6/10
+Clinic visited: Cempaka Family Clinic
+Description: Dr. Rajesh a/l Ganesan was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Rajesh a/l Ganesan is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 3 for Dr. Rajesh a/l Ganesan, Psychiatry, Ipoh
+Rating: 4/10
+Clinic visited: Cempaka Family Clinic
+Description: Requests for a refill went unanswered for days, and I ran out of my medication. Dr. Rajesh a/l Ganesan did not seem to have read my notes and asked me to repeat my whole history from the beginning. Not a place I would choose again, and I hope others have a better experience.
+
+Review 4 for Dr. Rajesh a/l Ganesan, Psychiatry, Ipoh
+Rating: 4/10
+Clinic visited: Cempaka Family Clinic
+Description: The visit felt rushed, and Dr. Rajesh a/l Ganesan was already halfway out the door when I started to describe my second symptom. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 5 for Dr. Rajesh a/l Ganesan, Psychiatry, Ipoh
+Rating: 6/10
+Clinic visited: Cempaka Family Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Rajesh a/l Ganesan, Psychiatry, Ipoh
+Rating: 6/10
+Clinic visited: Cempaka Family Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 7 for Dr. Rajesh a/l Ganesan, Psychiatry, Ipoh
+Rating: 7/10
+Clinic visited: Cempaka Family Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Rajesh a/l Ganesan, Psychiatry, Ipoh
+Rating: 6/10
+Clinic visited: Cempaka Family Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Quick appointment and a fair price in Ipoh, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 9 for Dr. Rajesh a/l Ganesan, Psychiatry, Ipoh
+Rating: 4/10
+Clinic visited: Cempaka Family Clinic
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible. The prescription from Dr. Rajesh a/l Ganesan was not the one we discussed, and I only noticed when I got home.
+
+Review 10 for Dr. Rajesh a/l Ganesan, Psychiatry, Ipoh
+Rating: 7/10
+Clinic visited: Cempaka Family Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good listener, yet the refill process at Cempaka Family Clinic is slow and requires several phone calls.
+
+Review 11 for Dr. Rajesh a/l Ganesan, Psychiatry, Ipoh
+Rating: 4/10
+Clinic visited: Cempaka Family Clinic
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion. I felt dismissed by Dr. Rajesh a/l Ganesan when I brought up a second concern, and was told to book another appointment for it.
+
+Overall rating for Dr. Rajesh a/l Ganesan, Psychiatry, Ipoh: 5.55/10 from 11 reviews

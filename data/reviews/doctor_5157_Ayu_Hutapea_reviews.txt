@@ -1,0 +1,64 @@
+Doctor: Dr. Ayu Hutapea
+Doctor ID: 5157
+Specialization: Radiology
+Gender: Female
+Years of experience: 28
+City: Jakarta, Indonesia
+Clinics: Klinik Cahaya Medika (clinic ID 666); Klinik Medika Nusantara (clinic ID 669)
+
+Review 1 for Dr. Ayu Hutapea, Radiology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Cahaya Medika
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Ayu Hutapea answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 2 for Dr. Ayu Hutapea, Radiology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Medika Nusantara
+Description: The treatment plan from Dr. Ayu Hutapea made sense, but I wished it had been written down for me to take away. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 3 for Dr. Ayu Hutapea, Radiology, Jakarta
+Rating: 10/10
+Clinic visited: Klinik Cahaya Medika
+Description: The receptionist at Klinik Cahaya Medika remembered my name and had my forms ready, so check-in took less than a minute. Fast, clean and professional; the bone density scan with Dr. Ayu Hutapea was painless and the results were explained clearly.
+
+Review 4 for Dr. Ayu Hutapea, Radiology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Medika Nusantara
+Description: The practice in Jakarta is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. She called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 5 for Dr. Ayu Hutapea, Radiology, Jakarta
+Rating: 10/10
+Clinic visited: Klinik Medika Nusantara
+Description: The staff at Klinik Medika Nusantara in Jakarta explained the contrast dye and its side effects before I signed anything. Dr. Ayu Hutapea drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 6 for Dr. Ayu Hutapea, Radiology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Medika Nusantara
+Description: When my scan showed something that needed a second look, Dr. Ayu Hutapea arranged the follow-up the same day.
+
+Review 7 for Dr. Ayu Hutapea, Radiology, Jakarta
+Rating: 9/10
+Clinic visited: Klinik Cahaya Medika
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 8 for Dr. Ayu Hutapea, Radiology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Cahaya Medika
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Ayu Hutapea sent a clear report within a day.
+
+Review 9 for Dr. Ayu Hutapea, Radiology, Jakarta
+Rating: 9/10
+Clinic visited: Klinik Medika Nusantara
+Description: Dr. Ayu Hutapea compared my new scan with last year's and pointed out exactly what had stayed the same. Sensitive questions were handled by Dr. Ayu Hutapea with discretion and without a hint of judgment. Highly recommended, and I have already told two colleagues about it.
+
+Review 10 for Dr. Ayu Hutapea, Radiology, Jakarta
+Rating: 10/10
+Clinic visited: Klinik Medika Nusantara
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. My whole family is switching over after seeing how good the care was.
+
+Review 11 for Dr. Ayu Hutapea, Radiology, Jakarta
+Rating: 9/10
+Clinic visited: Klinik Cahaya Medika
+Description: Reviewing my X-ray together with Dr. Ayu Hutapea on the screen made it much easier to understand my arthritis. Everything was explained in plain English by Dr. Ayu Hutapea, and nothing was left to guess.
+
+Overall rating for Dr. Ayu Hutapea, Radiology, Jakarta: 8.64/10 from 11 reviews

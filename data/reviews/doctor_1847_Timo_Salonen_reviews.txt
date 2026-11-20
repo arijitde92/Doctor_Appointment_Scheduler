@@ -1,0 +1,69 @@
+Doctor: Dr. Timo Salonen
+Doctor ID: 1847
+Specialization: Neurology
+Gender: Male
+Years of experience: 12
+City: Helsinki, Finland
+Clinics: Terveysasema Kluuvi (clinic ID 241)
+
+Review 1 for Dr. Timo Salonen, Neurology, Helsinki
+Rating: 7/10
+Clinic visited: Terveysasema Kluuvi
+Description: Dr. Timo Salonen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Timo Salonen explained my results well, although the visit felt short for such a complex condition.
+
+Review 2 for Dr. Timo Salonen, Neurology, Helsinki
+Rating: 6/10
+Clinic visited: Terveysasema Kluuvi
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Timo Salonen, Neurology, Helsinki
+Rating: 6/10
+Clinic visited: Terveysasema Kluuvi
+Description: Quick appointment and a fair price in Helsinki, but the staff seemed overwhelmed and a bit curt on the phone. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 4 for Dr. Timo Salonen, Neurology, Helsinki
+Rating: 5/10
+Clinic visited: Terveysasema Kluuvi
+Description: The treatment plan from Dr. Timo Salonen made sense, but I wished it had been written down for me to take away. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 5 for Dr. Timo Salonen, Neurology, Helsinki
+Rating: 7/10
+Clinic visited: Terveysasema Kluuvi
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Timo Salonen, Neurology, Helsinki
+Rating: 7/10
+Clinic visited: Terveysasema Kluuvi
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Timo Salonen, Neurology, Helsinki
+Rating: 6/10
+Clinic visited: Terveysasema Kluuvi
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Timo Salonen, Neurology, Helsinki
+Rating: 5/10
+Clinic visited: Terveysasema Kluuvi
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Timo Salonen, Neurology, Helsinki
+Rating: 7/10
+Clinic visited: Terveysasema Kluuvi
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Timo Salonen, Neurology, Helsinki
+Rating: 6/10
+Clinic visited: Terveysasema Kluuvi
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 11 for Dr. Timo Salonen, Neurology, Helsinki
+Rating: 6/10
+Clinic visited: Terveysasema Kluuvi
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Timo Salonen at Terveysasema Kluuvi are difficult to schedule. Worth trying, but I would not call it the best option in the area.
+
+Review 12 for Dr. Timo Salonen, Neurology, Helsinki
+Rating: 5/10
+Clinic visited: Terveysasema Kluuvi
+Description: I liked the advice I got from Dr. Timo Salonen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Timo Salonen, Neurology, Helsinki: 6.08/10 from 12 reviews

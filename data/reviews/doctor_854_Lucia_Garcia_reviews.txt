@@ -1,0 +1,54 @@
+Doctor: Dr. Lucía García
+Doctor ID: 854
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 23
+City: Rosario, Argentina
+Clinics: Consultorios Médicos Córdoba (clinic ID 112)
+
+Review 1 for Dr. Lucía García, Psychiatry, Rosario
+Rating: 5/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I liked the advice I got from Dr. Lucía García, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Lucía García, Psychiatry, Rosario
+Rating: 4/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. Appointments were rescheduled at short notice three times, which made continuity of care almost impossible.
+
+Review 3 for Dr. Lucía García, Psychiatry, Rosario
+Rating: 5/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I like the measured approach, but sometimes I wanted more discussion of non-medication options. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Lucía García, Psychiatry, Rosario
+Rating: 6/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Lucía García, Psychiatry, Rosario
+Rating: 6/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 6 for Dr. Lucía García, Psychiatry, Rosario
+Rating: 6/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Lucía García, Psychiatry, Rosario
+Rating: 8/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: She was upfront about what could and could not be treated, and did not oversell any option. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Lucía García, Psychiatry, Rosario
+Rating: 8/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: Dr. Lucía García took a full history before suggesting any medication and explained the likely side effects honestly. The practice in Rosario is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Lucía García, Psychiatry, Rosario
+Rating: 7/10
+Clinic visited: Consultorios Médicos Córdoba
+Description: Good listener, yet the refill process at Consultorios Médicos Córdoba is slow and requires several phone calls. Booking was easy online, but the confirmation email contained the wrong address for Consultorios Médicos Córdoba.
+
+Overall rating for Dr. Lucía García, Psychiatry, Rosario: 6.11/10 from 9 reviews

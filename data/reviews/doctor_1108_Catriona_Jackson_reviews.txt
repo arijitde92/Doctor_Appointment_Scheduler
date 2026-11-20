@@ -1,0 +1,59 @@
+Doctor: Dr. Catriona Jackson
+Doctor ID: 1108
+Specialization: Psychology
+Gender: Female
+Years of experience: 26
+City: London, UK
+Clinics: Covent Garden Family Health Practice (clinic ID 145); Cabot Square Medical Centre (clinic ID 146); Aldersgate Street Polyclinic (clinic ID 147)
+
+Review 1 for Dr. Catriona Jackson, Psychology, London
+Rating: 8/10
+Clinic visited: Cabot Square Medical Centre
+Description: Couples therapy at Cabot Square Medical Centre helped us stop repeating the same argument. We now have a way to pause and listen.
+
+Review 2 for Dr. Catriona Jackson, Psychology, London
+Rating: 8/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Helped me set boundaries with my family without any blame, and I have kept using those scripts for months.
+
+Review 3 for Dr. Catriona Jackson, Psychology, London
+Rating: 8/10
+Clinic visited: Cabot Square Medical Centre
+Description: Working through my grief felt guided but never forced, and we always ended each session with something concrete to try. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Catriona Jackson, Psychology, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Warm, patient and honest, Dr. Catriona Jackson told me what progress to expect and it matched reality. Dr. Catriona Jackson double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 5 for Dr. Catriona Jackson, Psychology, London
+Rating: 8/10
+Clinic visited: Cabot Square Medical Centre
+Description: I came away understanding my condition better than I have in years of previous appointments. The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Catriona Jackson, Psychology, London
+Rating: 8/10
+Clinic visited: Cabot Square Medical Centre
+Description: Dr. Catriona Jackson used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 7 for Dr. Catriona Jackson, Psychology, London
+Rating: 10/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: I never felt judged by Dr. Catriona Jackson when talking about my burnout, and the sessions gave me language for things I could not explain before. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Catriona Jackson, Psychology, London
+Rating: 8/10
+Clinic visited: Covent Garden Family Health Practice
+Description: Sessions with Dr. Catriona Jackson start on time and end on time, which is a small thing that made me feel respected.
+
+Review 9 for Dr. Catriona Jackson, Psychology, London
+Rating: 9/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: I appreciated the written summary Dr. Catriona Jackson sent after each session and the short worksheets between visits. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 10 for Dr. Catriona Jackson, Psychology, London
+Rating: 7/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Catriona Jackson, Psychology, London: 8.20/10 from 10 reviews

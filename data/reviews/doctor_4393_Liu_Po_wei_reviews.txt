@@ -1,0 +1,54 @@
+Doctor: Dr. Liu Po-wei
+Doctor ID: 4393
+Specialization: Cardiology
+Gender: Male
+Years of experience: 29
+City: Tainan, Taiwan
+Clinics: East District Jiaxin Family Clinic (clinic ID 566); Yongkang Hongren Polyclinic (clinic ID 568)
+
+Review 1 for Dr. Liu Po-wei, Cardiology, Tainan
+Rating: 8/10
+Clinic visited: East District Jiaxin Family Clinic
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 2 for Dr. Liu Po-wei, Cardiology, Tainan
+Rating: 7/10
+Clinic visited: Yongkang Hongren Polyclinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 3 for Dr. Liu Po-wei, Cardiology, Tainan
+Rating: 8/10
+Clinic visited: Yongkang Hongren Polyclinic
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 4 for Dr. Liu Po-wei, Cardiology, Tainan
+Rating: 7/10
+Clinic visited: Yongkang Hongren Polyclinic
+Description: Dr. Liu Po-wei was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Liu Po-wei, Cardiology, Tainan
+Rating: 7/10
+Clinic visited: Yongkang Hongren Polyclinic
+Description: Good bedside manner from Dr. Liu Po-wei, but the parking near Yongkang Hongren Polyclinic is limited and I had to circle for fifteen minutes. Great care in the visit itself, but the billing for the tests at Yongkang Hongren Polyclinic was confusing.
+
+Review 6 for Dr. Liu Po-wei, Cardiology, Tainan
+Rating: 9/10
+Clinic visited: Yongkang Hongren Polyclinic
+Description: My atrial fibrillation is well managed by Dr. Liu Po-wei, and I know exactly what symptoms mean I should call. At my visit, Dr. Liu Po-wei took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 7 for Dr. Liu Po-wei, Cardiology, Tainan
+Rating: 10/10
+Clinic visited: Yongkang Hongren Polyclinic
+Description: Booking online at Yongkang Hongren Polyclinic was simple, and I got a confirmation text with clear directions and a reminder the day before. He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 8 for Dr. Liu Po-wei, Cardiology, Tainan
+Rating: 6/10
+Clinic visited: Yongkang Hongren Polyclinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 9 for Dr. Liu Po-wei, Cardiology, Tainan
+Rating: 7/10
+Clinic visited: Yongkang Hongren Polyclinic
+Description: Helpful with my cholesterol, Dr. Liu Po-wei still gave dietary advice that was a little generic.
+
+Overall rating for Dr. Liu Po-wei, Cardiology, Tainan: 7.67/10 from 9 reviews

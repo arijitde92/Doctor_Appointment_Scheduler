@@ -1,0 +1,54 @@
+Doctor: Dr. Rey Cruz
+Doctor ID: 4805
+Specialization: Cardiology
+Gender: Male
+Years of experience: 3
+City: Davao City, Philippines
+Clinics: Araw Family Clinic (clinic ID 621)
+
+Review 1 for Dr. Rey Cruz, Cardiology, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: The receptionist at Araw Family Clinic remembered my name and had my forms ready, so check-in took less than a minute. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Rey Cruz, Cardiology, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 3 for Dr. Rey Cruz, Cardiology, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: Managing my blood pressure with Dr. Rey Cruz has been steady and practical, with home readings reviewed at every visit. Prescriptions from Dr. Rey Cruz were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 4 for Dr. Rey Cruz, Cardiology, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 5 for Dr. Rey Cruz, Cardiology, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: After my heart attack, Dr. Rey Cruz explained the rehab plan and medication changes with great patience and kindness. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Rey Cruz, Cardiology, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: Clear and calm advice at Araw Family Clinic about exercise after my stent, including a gradual written schedule. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 7 for Dr. Rey Cruz, Cardiology, Davao City
+Rating: 8/10
+Clinic visited: Araw Family Clinic
+Description: Everything was explained in plain English by Dr. Rey Cruz, and nothing was left to guess.
+
+Review 8 for Dr. Rey Cruz, Cardiology, Davao City
+Rating: 7/10
+Clinic visited: Araw Family Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Great care in the visit itself, but the billing for the tests at Araw Family Clinic was confusing.
+
+Review 9 for Dr. Rey Cruz, Cardiology, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: Paperwork at Araw Family Clinic was kept to a minimum, and the staff helped me complete the insurance form. Honest about the risks and benefits of the procedure, Dr. Rey Cruz never pressured me toward surgery.
+
+Overall rating for Dr. Rey Cruz, Cardiology, Davao City: 9.44/10 from 9 reviews

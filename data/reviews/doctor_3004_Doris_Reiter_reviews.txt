@@ -1,0 +1,64 @@
+Doctor: Dr. Doris Reiter
+Doctor ID: 3004
+Specialization: Psychology
+Gender: Female
+Years of experience: 13
+City: Vienna, Austria
+Clinics: Praxiszentrum Stephansblick (clinic ID 391); Gesundheitszentrum Favoriten Süd (clinic ID 392)
+
+Review 1 for Dr. Doris Reiter, Psychology, Vienna
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Review 2 for Dr. Doris Reiter, Psychology, Vienna
+Rating: 8/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months.
+
+Review 3 for Dr. Doris Reiter, Psychology, Vienna
+Rating: 8/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 4 for Dr. Doris Reiter, Psychology, Vienna
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Online sessions through Gesundheitszentrum Favoriten Süd worked just as well as in-person ones, and the video link never once failed.
+
+Review 5 for Dr. Doris Reiter, Psychology, Vienna
+Rating: 9/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: At my visit, Dr. Doris Reiter took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 6 for Dr. Doris Reiter, Psychology, Vienna
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: Getting to Gesundheitszentrum Favoriten Süd by public transport in Vienna was easy, and there is a step-free entrance for wheelchairs.
+
+Review 7 for Dr. Doris Reiter, Psychology, Vienna
+Rating: 8/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 8 for Dr. Doris Reiter, Psychology, Vienna
+Rating: 10/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Working through my grief felt guided but never forced, and we always ended each session with something concrete to try.
+
+Review 9 for Dr. Doris Reiter, Psychology, Vienna
+Rating: 8/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Couples therapy at Praxiszentrum Stephansblick helped us stop repeating the same argument. We now have a way to pause and listen. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 10 for Dr. Doris Reiter, Psychology, Vienna
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: Sessions with Dr. Doris Reiter start on time and end on time, which is a small thing that made me feel respected.
+
+Review 11 for Dr. Doris Reiter, Psychology, Vienna
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Favoriten Süd
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Doris Reiter gave me practical tools I still use. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Overall rating for Dr. Doris Reiter, Psychology, Vienna: 8.73/10 from 11 reviews

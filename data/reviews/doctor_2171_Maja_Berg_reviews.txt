@@ -1,0 +1,54 @@
+Doctor: Dr. Maja Berg
+Doctor ID: 2171
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 8
+City: Malmo, Sweden
+Clinics: Hälsocentralen Kungsgatan Malmö (clinic ID 283)
+
+Review 1 for Dr. Maja Berg, Psychiatry, Malmo
+Rating: 4/10
+Clinic visited: Hälsocentralen Kungsgatan Malmö
+Description: Requests for a refill went unanswered for days, and I ran out of my medication. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 2 for Dr. Maja Berg, Psychiatry, Malmo
+Rating: 6/10
+Clinic visited: Hälsocentralen Kungsgatan Malmö
+Description: Good listener, yet the refill process at Hälsocentralen Kungsgatan Malmö is slow and requires several phone calls. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Maja Berg, Psychiatry, Malmo
+Rating: 6/10
+Clinic visited: Hälsocentralen Kungsgatan Malmö
+Description: I liked the advice I got from Dr. Maja Berg, but I would have liked more time to ask follow-up questions before the visit ended. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 4 for Dr. Maja Berg, Psychiatry, Malmo
+Rating: 5/10
+Clinic visited: Hälsocentralen Kungsgatan Malmö
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 5 for Dr. Maja Berg, Psychiatry, Malmo
+Rating: 3/10
+Clinic visited: Hälsocentralen Kungsgatan Malmö
+Description: There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 6 for Dr. Maja Berg, Psychiatry, Malmo
+Rating: 6/10
+Clinic visited: Hälsocentralen Kungsgatan Malmö
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Clear explanations, but the follow-up call took a week longer than I had been told. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Maja Berg, Psychiatry, Malmo
+Rating: 5/10
+Clinic visited: Hälsocentralen Kungsgatan Malmö
+Description: Dr. Maja Berg is knowledgeable, though I waited several weeks for my first appointment. I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Maja Berg, Psychiatry, Malmo
+Rating: 6/10
+Clinic visited: Hälsocentralen Kungsgatan Malmö
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 9 for Dr. Maja Berg, Psychiatry, Malmo
+Rating: 6/10
+Clinic visited: Hälsocentralen Kungsgatan Malmö
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Maja Berg, Psychiatry, Malmo: 5.22/10 from 9 reviews

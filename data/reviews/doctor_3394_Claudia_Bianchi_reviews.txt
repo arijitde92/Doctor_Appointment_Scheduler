@@ -1,0 +1,49 @@
+Doctor: Dr. Claudia Bianchi
+Doctor ID: 3394
+Specialization: Radiology
+Gender: Female
+Years of experience: 28
+City: Milan, Italy
+Clinics: Poliambulatorio Navigli (clinic ID 440)
+
+Review 1 for Dr. Claudia Bianchi, Radiology, Milan
+Rating: 10/10
+Clinic visited: Poliambulatorio Navigli
+Description: Reviewing my X-ray together with Dr. Claudia Bianchi on the screen made it much easier to understand my arthritis. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Claudia Bianchi, Radiology, Milan
+Rating: 9/10
+Clinic visited: Poliambulatorio Navigli
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 3 for Dr. Claudia Bianchi, Radiology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Navigli
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Claudia Bianchi, Radiology, Milan
+Rating: 9/10
+Clinic visited: Poliambulatorio Navigli
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 5 for Dr. Claudia Bianchi, Radiology, Milan
+Rating: 9/10
+Clinic visited: Poliambulatorio Navigli
+Description: Booking a CT scan online at Poliambulatorio Navigli took two minutes, and I was in and out within forty minutes. Dr. Claudia Bianchi looked me in the eye, listened to the whole story and only then started typing.
+
+Review 6 for Dr. Claudia Bianchi, Radiology, Milan
+Rating: 10/10
+Clinic visited: Poliambulatorio Navigli
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Claudia Bianchi sent a clear report within a day. Dr. Claudia Bianchi double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 7 for Dr. Claudia Bianchi, Radiology, Milan
+Rating: 10/10
+Clinic visited: Poliambulatorio Navigli
+Description: Getting to Poliambulatorio Navigli by public transport in Milan was easy, and there is a step-free entrance for wheelchairs. Dr. Claudia Bianchi compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 8 for Dr. Claudia Bianchi, Radiology, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Navigli
+Description: The report from Dr. Claudia Bianchi was thorough, though full of technical terms that needed my regular doctor to translate. The treatment plan from Dr. Claudia Bianchi made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Claudia Bianchi, Radiology, Milan: 8.88/10 from 8 reviews

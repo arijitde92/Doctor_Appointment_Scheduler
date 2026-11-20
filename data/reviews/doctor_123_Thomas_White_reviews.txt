@@ -1,0 +1,69 @@
+Doctor: Dr. Thomas White
+Doctor ID: 123
+Specialization: Pathology
+Gender: Male
+Years of experience: 17
+City: Chicago, USA
+Clinics: Hyde Park Medical Associates (clinic ID 18)
+
+Review 1 for Dr. Thomas White, Pathology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: The blood draw was painless, but the waiting area at Hyde Park Medical Associates was crowded in the early morning.
+
+Review 2 for Dr. Thomas White, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Hyde Park Medical Associates
+Description: The lab under Dr. Thomas White was clean, organized and never overbooked, and results arrived exactly when promised.
+
+Review 3 for Dr. Thomas White, Pathology, Chicago
+Rating: 6/10
+Clinic visited: Hyde Park Medical Associates
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 4 for Dr. Thomas White, Pathology, Chicago
+Rating: 5/10
+Clinic visited: Hyde Park Medical Associates
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 5 for Dr. Thomas White, Pathology, Chicago
+Rating: 6/10
+Clinic visited: Hyde Park Medical Associates
+Description: Helpful in clarifying a borderline result, though Dr. Thomas White gave little guidance about whether to repeat it. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Thomas White, Pathology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 7 for Dr. Thomas White, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Hyde Park Medical Associates
+Description: I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 8 for Dr. Thomas White, Pathology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. The treatment plan from Dr. Thomas White made sense, but I wished it had been written down for me to take away. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Thomas White, Pathology, Chicago
+Rating: 4/10
+Clinic visited: Hyde Park Medical Associates
+Description: The report was handed over by Dr. Thomas White with no explanation, and I left frightened and confused about the terminology.
+
+Review 10 for Dr. Thomas White, Pathology, Chicago
+Rating: 3/10
+Clinic visited: Hyde Park Medical Associates
+Description: The waiting room at Hyde Park Medical Associates was overcrowded and there was nowhere to sit, even for elderly patients. My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 11 for Dr. Thomas White, Pathology, Chicago
+Rating: 5/10
+Clinic visited: Hyde Park Medical Associates
+Description: Dr. Thomas White answered my questions kindly, though the call back took three days.
+
+Review 12 for Dr. Thomas White, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Hyde Park Medical Associates
+Description: I was called in within five minutes of my appointment time at Hyde Park Medical Associates, which is rare and much appreciated. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Thomas White, Pathology, Chicago: 6.17/10 from 12 reviews

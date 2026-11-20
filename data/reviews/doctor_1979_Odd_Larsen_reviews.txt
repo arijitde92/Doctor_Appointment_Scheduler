@@ -1,0 +1,49 @@
+Doctor: Dr. Odd Larsen
+Doctor ID: 1979
+Specialization: Psychology
+Gender: Male
+Years of experience: 11
+City: Bergen, Norway
+Clinics: Legekontoret Kalfaret (clinic ID 258)
+
+Review 1 for Dr. Odd Larsen, Psychology, Bergen
+Rating: 7/10
+Clinic visited: Legekontoret Kalfaret
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Odd Larsen, Psychology, Bergen
+Rating: 6/10
+Clinic visited: Legekontoret Kalfaret
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 3 for Dr. Odd Larsen, Psychology, Bergen
+Rating: 9/10
+Clinic visited: Legekontoret Kalfaret
+Description: I was called in within five minutes of my appointment time at Legekontoret Kalfaret, which is rare and much appreciated. I never felt judged by Dr. Odd Larsen when talking about my burnout, and the sessions gave me language for things I could not explain before.
+
+Review 4 for Dr. Odd Larsen, Psychology, Bergen
+Rating: 9/10
+Clinic visited: Legekontoret Kalfaret
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. The receptionist at Legekontoret Kalfaret remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 5 for Dr. Odd Larsen, Psychology, Bergen
+Rating: 7/10
+Clinic visited: Legekontoret Kalfaret
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Odd Larsen, Psychology, Bergen
+Rating: 10/10
+Clinic visited: Legekontoret Kalfaret
+Description: I appreciated the written summary Dr. Odd Larsen sent after each session and the short worksheets between visits. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Odd Larsen, Psychology, Bergen
+Rating: 8/10
+Clinic visited: Legekontoret Kalfaret
+Description: Booking online at Legekontoret Kalfaret was simple, and I got a confirmation text with clear directions and a reminder the day before. He has a calm way of asking the difficult questions that makes it feel safe to answer honestly.
+
+Review 8 for Dr. Odd Larsen, Psychology, Bergen
+Rating: 7/10
+Clinic visited: Legekontoret Kalfaret
+Description: My trauma work felt well paced, although the schedule changed several times at Legekontoret Kalfaret. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Odd Larsen, Psychology, Bergen: 7.88/10 from 8 reviews

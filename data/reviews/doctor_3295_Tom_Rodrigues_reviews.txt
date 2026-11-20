@@ -1,0 +1,64 @@
+Doctor: Dr. Tom Rodrigues
+Doctor ID: 3295
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 29
+City: Esch-sur-Alzette, Luxembourg
+Clinics: Polyclinique Raemerich (clinic ID 427); Clinique du Brill (clinic ID 428)
+
+Review 1 for Dr. Tom Rodrigues, Pediatrics, Esch-sur-Alzette
+Rating: 10/10
+Clinic visited: Clinique du Brill
+Description: My toddler was terrified of doctors, but Dr. Tom Rodrigues sat on the floor, played with a stuffed toy and examined everything without a single tear. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 2 for Dr. Tom Rodrigues, Pediatrics, Esch-sur-Alzette
+Rating: 10/10
+Clinic visited: Polyclinique Raemerich
+Description: I was called in within five minutes of my appointment time at Polyclinique Raemerich, which is rare and much appreciated. I phoned after hours about a fever and was called back within the hour with calm, sensible advice.
+
+Review 3 for Dr. Tom Rodrigues, Pediatrics, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Clinique du Brill
+Description: Vaccination visits with Dr. Tom Rodrigues are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 4 for Dr. Tom Rodrigues, Pediatrics, Esch-sur-Alzette
+Rating: 10/10
+Clinic visited: Clinique du Brill
+Description: The waiting room at Clinique du Brill was clean, quiet and comfortable, with enough seating and water available.
+
+Review 5 for Dr. Tom Rodrigues, Pediatrics, Esch-sur-Alzette
+Rating: 9/10
+Clinic visited: Polyclinique Raemerich
+Description: Dr. Tom Rodrigues looked me in the eye, listened to the whole story and only then started typing.
+
+Review 6 for Dr. Tom Rodrigues, Pediatrics, Esch-sur-Alzette
+Rating: 10/10
+Clinic visited: Polyclinique Raemerich
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 7 for Dr. Tom Rodrigues, Pediatrics, Esch-sur-Alzette
+Rating: 10/10
+Clinic visited: Polyclinique Raemerich
+Description: Dr. Tom Rodrigues noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 8 for Dr. Tom Rodrigues, Pediatrics, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Polyclinique Raemerich
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. Tom Rodrigues, Pediatrics, Esch-sur-Alzette
+Rating: 10/10
+Clinic visited: Polyclinique Raemerich
+Description: Our family has been coming for years, and he remembers each child's history and personality. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 10 for Dr. Tom Rodrigues, Pediatrics, Esch-sur-Alzette
+Rating: 9/10
+Clinic visited: Polyclinique Raemerich
+Description: Our newborn check-ups with Dr. Tom Rodrigues were reassuring; every question about feeding and sleep got a calm, practical answer. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 11 for Dr. Tom Rodrigues, Pediatrics, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Polyclinique Raemerich
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Overall rating for Dr. Tom Rodrigues, Pediatrics, Esch-sur-Alzette: 9.09/10 from 11 reviews

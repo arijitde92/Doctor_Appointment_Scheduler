@@ -1,0 +1,69 @@
+Doctor: Dr. Wang Hui-chun
+Doctor ID: 4345
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 8
+City: Taichung, Taiwan
+Clinics: Xitun Guangming Medical Clinic (clinic ID 560); Central District Fengle Polyclinic (clinic ID 563)
+
+Review 1 for Dr. Wang Hui-chun, Pulmonology, Taichung
+Rating: 10/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. The spirometry test was explained step by step, and Dr. Wang Hui-chun put the results in context with a clear picture of my lung function.
+
+Review 2 for Dr. Wang Hui-chun, Pulmonology, Taichung
+Rating: 9/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 3 for Dr. Wang Hui-chun, Pulmonology, Taichung
+Rating: 8/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: At Xitun Guangming Medical Clinic, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 4 for Dr. Wang Hui-chun, Pulmonology, Taichung
+Rating: 9/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Wang Hui-chun, Pulmonology, Taichung
+Rating: 7/10
+Clinic visited: Central District Fengle Polyclinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Central District Fengle Polyclinic regularly exceeded forty minutes.
+
+Review 6 for Dr. Wang Hui-chun, Pulmonology, Taichung
+Rating: 8/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Dr. Wang Hui-chun explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 7 for Dr. Wang Hui-chun, Pulmonology, Taichung
+Rating: 9/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: Dr. Wang Hui-chun drew a quick sketch to explain what was going on, which helped me remember it afterwards. After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan.
+
+Review 8 for Dr. Wang Hui-chun, Pulmonology, Taichung
+Rating: 7/10
+Clinic visited: Central District Fengle Polyclinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Wang Hui-chun, Pulmonology, Taichung
+Rating: 7/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Wang Hui-chun, Pulmonology, Taichung
+Rating: 8/10
+Clinic visited: Central District Fengle Polyclinic
+Description: She called personally with my scan results and walked me through what the findings did and did not mean. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 11 for Dr. Wang Hui-chun, Pulmonology, Taichung
+Rating: 8/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: I always leave Dr. Wang Hui-chun's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 12 for Dr. Wang Hui-chun, Pulmonology, Taichung
+Rating: 8/10
+Clinic visited: Central District Fengle Polyclinic
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Taichung.
+
+Overall rating for Dr. Wang Hui-chun, Pulmonology, Taichung: 8.17/10 from 12 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Ricardo Garcia
+Doctor ID: 4902
+Specialization: Pathology
+Gender: Male
+Years of experience: 13
+City: Quezon City, Philippines
+Clinics: Klinika Maginhawa (clinic ID 633)
+
+Review 1 for Dr. Ricardo Garcia, Pathology, Quezon City
+Rating: 6/10
+Clinic visited: Klinika Maginhawa
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 2 for Dr. Ricardo Garcia, Pathology, Quezon City
+Rating: 7/10
+Clinic visited: Klinika Maginhawa
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 3 for Dr. Ricardo Garcia, Pathology, Quezon City
+Rating: 8/10
+Clinic visited: Klinika Maginhawa
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 4 for Dr. Ricardo Garcia, Pathology, Quezon City
+Rating: 2/10
+Clinic visited: Klinika Maginhawa
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. The report was handed over by Dr. Ricardo Garcia with no explanation, and I left frightened and confused about the terminology.
+
+Review 5 for Dr. Ricardo Garcia, Pathology, Quezon City
+Rating: 6/10
+Clinic visited: Klinika Maginhawa
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Ricardo Garcia, Pathology, Quezon City
+Rating: 6/10
+Clinic visited: Klinika Maginhawa
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 7 for Dr. Ricardo Garcia, Pathology, Quezon City
+Rating: 6/10
+Clinic visited: Klinika Maginhawa
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Dr. Ricardo Garcia answered my questions kindly, though the call back took three days.
+
+Review 8 for Dr. Ricardo Garcia, Pathology, Quezon City
+Rating: 5/10
+Clinic visited: Klinika Maginhawa
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Helpful in clarifying a borderline result, though Dr. Ricardo Garcia gave little guidance about whether to repeat it. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Ricardo Garcia, Pathology, Quezon City: 5.75/10 from 8 reviews

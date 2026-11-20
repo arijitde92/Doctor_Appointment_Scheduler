@@ -1,0 +1,59 @@
+Doctor: Dr. Krzysztof Jankowski
+Doctor ID: 2804
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 21
+City: Warsaw, Poland
+Clinics: Przychodnia Mokotów Park (clinic ID 366); Poliklinika Jerozolimskie Centrum (clinic ID 367)
+
+Review 1 for Dr. Krzysztof Jankowski, Pulmonology, Warsaw
+Rating: 4/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The bill for my pulmonary function tests was far higher than the estimate I had been given. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 2 for Dr. Krzysztof Jankowski, Pulmonology, Warsaw
+Rating: 6/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Krzysztof Jankowski, Pulmonology, Warsaw
+Rating: 6/10
+Clinic visited: Przychodnia Mokotów Park
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Pleasant manner and careful lung exam, though the waiting time at Przychodnia Mokotów Park regularly exceeded forty minutes. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Krzysztof Jankowski, Pulmonology, Warsaw
+Rating: 7/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Helpful and honest about my prognosis, Dr. Krzysztof Jankowski could still have given me more written material to take home.
+
+Review 5 for Dr. Krzysztof Jankowski, Pulmonology, Warsaw
+Rating: 7/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Dr. Krzysztof Jankowski adjusted my asthma medication well, but the breathing test appointment was a month away. I got what I needed, but the next available appointment was three weeks away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Krzysztof Jankowski, Pulmonology, Warsaw
+Rating: 7/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The treatment plan from Dr. Krzysztof Jankowski made sense, but I wished it had been written down for me to take away. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Krzysztof Jankowski, Pulmonology, Warsaw
+Rating: 6/10
+Clinic visited: Przychodnia Mokotów Park
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 8 for Dr. Krzysztof Jankowski, Pulmonology, Warsaw
+Rating: 8/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Krzysztof Jankowski was practical and never preachy. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 9 for Dr. Krzysztof Jankowski, Pulmonology, Warsaw
+Rating: 6/10
+Clinic visited: Przychodnia Mokotów Park
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 10 for Dr. Krzysztof Jankowski, Pulmonology, Warsaw
+Rating: 6/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Krzysztof Jankowski, Pulmonology, Warsaw: 6.30/10 from 10 reviews

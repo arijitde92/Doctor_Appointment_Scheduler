@@ -1,0 +1,64 @@
+Doctor: Dr. Alexander Wagner
+Doctor ID: 1623
+Specialization: Radiology
+Gender: Male
+Years of experience: 5
+City: Munich, Germany
+Clinics: Medicum Sendlinger Tor (clinic ID 211); Gesundheitszentrum Haidhausen Ost (clinic ID 213)
+
+Review 1 for Dr. Alexander Wagner, Radiology, Munich
+Rating: 8/10
+Clinic visited: Medicum Sendlinger Tor
+Description: My ultrasound was unhurried, and Dr. Alexander Wagner took time to show me the images and explain what each measurement meant. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 2 for Dr. Alexander Wagner, Radiology, Munich
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: The report from Dr. Alexander Wagner was thorough, though full of technical terms that needed my regular doctor to translate. I liked the advice I got from Dr. Alexander Wagner, but I would have liked more time to ask follow-up questions before the visit ended. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Alexander Wagner, Radiology, Munich
+Rating: 7/10
+Clinic visited: Medicum Sendlinger Tor
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 4 for Dr. Alexander Wagner, Radiology, Munich
+Rating: 7/10
+Clinic visited: Medicum Sendlinger Tor
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Alexander Wagner, Radiology, Munich
+Rating: 6/10
+Clinic visited: Medicum Sendlinger Tor
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Alexander Wagner, Radiology, Munich
+Rating: 8/10
+Clinic visited: Medicum Sendlinger Tor
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Alexander Wagner were respectful throughout.
+
+Review 7 for Dr. Alexander Wagner, Radiology, Munich
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Alexander Wagner answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Alexander Wagner, Radiology, Munich
+Rating: 9/10
+Clinic visited: Medicum Sendlinger Tor
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 9 for Dr. Alexander Wagner, Radiology, Munich
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Fast, clean and professional; the bone density scan with Dr. Alexander Wagner was painless and the results were explained clearly. I will be coming back for all my future check-ups.
+
+Review 10 for Dr. Alexander Wagner, Radiology, Munich
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Dr. Alexander Wagner was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 11 for Dr. Alexander Wagner, Radiology, Munich
+Rating: 6/10
+Clinic visited: Medicum Sendlinger Tor
+Description: Dr. Alexander Wagner was thoughtful and clear, though the front desk was disorganized and lost my first referral form. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Overall rating for Dr. Alexander Wagner, Radiology, Munich: 7.18/10 from 11 reviews

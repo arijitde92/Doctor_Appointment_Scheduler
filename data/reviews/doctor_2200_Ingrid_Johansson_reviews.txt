@@ -1,0 +1,54 @@
+Doctor: Dr. Ingrid Johansson
+Doctor ID: 2200
+Specialization: Psychology
+Gender: Female
+Years of experience: 7
+City: Stockholm, Sweden
+Clinics: Medicinskt Centrum Sveavägen (clinic ID 287)
+
+Review 1 for Dr. Ingrid Johansson, Psychology, Stockholm
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Ingrid Johansson, Psychology, Stockholm
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: The office in Stockholm is quiet and private, and the receptionist never mentions anything in front of other patients.
+
+Review 3 for Dr. Ingrid Johansson, Psychology, Stockholm
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Prescriptions from Dr. Ingrid Johansson were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Sessions with Dr. Ingrid Johansson start on time and end on time, which is a small thing that made me feel respected.
+
+Review 4 for Dr. Ingrid Johansson, Psychology, Stockholm
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Booking online at Medicinskt Centrum Sveavägen was simple, and I got a confirmation text with clear directions and a reminder the day before. I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown.
+
+Review 5 for Dr. Ingrid Johansson, Psychology, Stockholm
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Working through my grief felt guided but never forced, and we always ended each session with something concrete to try. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 6 for Dr. Ingrid Johansson, Psychology, Stockholm
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Couples therapy at Medicinskt Centrum Sveavägen helped us stop repeating the same argument. We now have a way to pause and listen. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 7 for Dr. Ingrid Johansson, Psychology, Stockholm
+Rating: 10/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Helped me set boundaries with my family without any blame, and I have kept using those scripts for months.
+
+Review 8 for Dr. Ingrid Johansson, Psychology, Stockholm
+Rating: 10/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: I never felt judged by Dr. Ingrid Johansson when talking about my burnout, and the sessions gave me language for things I could not explain before. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 9 for Dr. Ingrid Johansson, Psychology, Stockholm
+Rating: 9/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Overall rating for Dr. Ingrid Johansson, Psychology, Stockholm: 8.78/10 from 9 reviews

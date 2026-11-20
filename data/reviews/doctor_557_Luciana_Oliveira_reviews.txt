@@ -1,0 +1,64 @@
+Doctor: Dr. Luciana Oliveira
+Doctor ID: 557
+Specialization: Pathology
+Gender: Female
+Years of experience: 26
+City: Belo Horizonte, Brazil
+Clinics: Clínica Savassi Saúde (clinic ID 75)
+
+Review 1 for Dr. Luciana Oliveira, Pathology, Belo Horizonte
+Rating: 5/10
+Clinic visited: Clínica Savassi Saúde
+Description: The treatment plan from Dr. Luciana Oliveira made sense, but I wished it had been written down for me to take away. The blood draw was painless, but the waiting area at Clínica Savassi Saúde was crowded in the early morning.
+
+Review 2 for Dr. Luciana Oliveira, Pathology, Belo Horizonte
+Rating: 5/10
+Clinic visited: Clínica Savassi Saúde
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 3 for Dr. Luciana Oliveira, Pathology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Savassi Saúde
+Description: Helpful in clarifying a borderline result, though Dr. Luciana Oliveira gave little guidance about whether to repeat it. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Luciana Oliveira, Pathology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Savassi Saúde
+Description: Dr. Luciana Oliveira answered my questions kindly, though the call back took three days. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Luciana Oliveira, Pathology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Savassi Saúde
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I asked for a second look at my slides, and Dr. Luciana Oliveira reviewed them without any fuss and confirmed the finding in writing.
+
+Review 6 for Dr. Luciana Oliveira, Pathology, Belo Horizonte
+Rating: 6/10
+Clinic visited: Clínica Savassi Saúde
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 7 for Dr. Luciana Oliveira, Pathology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Savassi Saúde
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Luciana Oliveira, Pathology, Belo Horizonte
+Rating: 6/10
+Clinic visited: Clínica Savassi Saúde
+Description: Quick appointment and a fair price in Belo Horizonte, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 9 for Dr. Luciana Oliveira, Pathology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Savassi Saúde
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Fast turnaround at Clínica Savassi Saúde on my thyroid panel, with results in my online account by the next morning.
+
+Review 10 for Dr. Luciana Oliveira, Pathology, Belo Horizonte
+Rating: 6/10
+Clinic visited: Clínica Savassi Saúde
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Good bedside manner from Dr. Luciana Oliveira, but the parking near Clínica Savassi Saúde is limited and I had to circle for fifteen minutes.
+
+Review 11 for Dr. Luciana Oliveira, Pathology, Belo Horizonte
+Rating: 6/10
+Clinic visited: Clínica Savassi Saúde
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Luciana Oliveira, Pathology, Belo Horizonte: 6.45/10 from 11 reviews

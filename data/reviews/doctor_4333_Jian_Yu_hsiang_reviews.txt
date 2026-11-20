@@ -1,0 +1,69 @@
+Doctor: Dr. Jian Yu-hsiang
+Doctor ID: 4333
+Specialization: Pathology
+Gender: Male
+Years of experience: 11
+City: Kaohsiung, Taiwan
+Clinics: Gushan Haibin Health Clinic (clinic ID 557)
+
+Review 1 for Dr. Jian Yu-hsiang, Pathology, Kaohsiung
+Rating: 4/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Dr. Jian Yu-hsiang was never available to talk about my result, and the front desk repeated that I should ask my referring physician. The visit felt rushed, and Dr. Jian Yu-hsiang was already halfway out the door when I started to describe my second symptom. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 2 for Dr. Jian Yu-hsiang, Pathology, Kaohsiung
+Rating: 1/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 3 for Dr. Jian Yu-hsiang, Pathology, Kaohsiung
+Rating: 4/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: The waiting room at Gushan Haibin Health Clinic was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 4 for Dr. Jian Yu-hsiang, Pathology, Kaohsiung
+Rating: 6/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Jian Yu-hsiang gave little guidance about whether to repeat it. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Jian Yu-hsiang, Pathology, Kaohsiung
+Rating: 4/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 6 for Dr. Jian Yu-hsiang, Pathology, Kaohsiung
+Rating: 4/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: I was billed twice for the same panel and it took a month to get a correction.
+
+Review 7 for Dr. Jian Yu-hsiang, Pathology, Kaohsiung
+Rating: 2/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: The report was handed over by Dr. Jian Yu-hsiang with no explanation, and I left frightened and confused about the terminology. My questions were answered by Dr. Jian Yu-hsiang with short, vague replies, and I left without a clear plan.
+
+Review 8 for Dr. Jian Yu-hsiang, Pathology, Kaohsiung
+Rating: 6/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 9 for Dr. Jian Yu-hsiang, Pathology, Kaohsiung
+Rating: 4/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 10 for Dr. Jian Yu-hsiang, Pathology, Kaohsiung
+Rating: 5/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 11 for Dr. Jian Yu-hsiang, Pathology, Kaohsiung
+Rating: 3/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 12 for Dr. Jian Yu-hsiang, Pathology, Kaohsiung
+Rating: 6/10
+Clinic visited: Gushan Haibin Health Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Overall rating for Dr. Jian Yu-hsiang, Pathology, Kaohsiung: 4.08/10 from 12 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Dao Thanh
+Doctor ID: 4991
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 2
+City: Hanoi, Vietnam
+Clinics: Phong Kham Da Khoa Hoa Sen (clinic ID 645); Phong Kham Da Khoa Thien Phuc (clinic ID 648); Phong Kham An Khang Plus (clinic ID 649)
+
+Review 1 for Dr. Dao Thanh, Obstetrics and Gynecology (OB/GYN), Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Dao Thanh, Obstetrics and Gynecology (OB/GYN), Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history. I liked the advice I got from Dr. Dao Thanh, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Dao Thanh, Obstetrics and Gynecology (OB/GYN), Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: He spoke calmly during a stressful labor, and I felt safe and informed at every point.
+
+Review 4 for Dr. Dao Thanh, Obstetrics and Gynecology (OB/GYN), Hanoi
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 5 for Dr. Dao Thanh, Obstetrics and Gynecology (OB/GYN), Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Dr. Dao Thanh explained my options well, though the office was often running an hour behind. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 6 for Dr. Dao Thanh, Obstetrics and Gynecology (OB/GYN), Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Thien Phuc
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 7 for Dr. Dao Thanh, Obstetrics and Gynecology (OB/GYN), Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Hoa Sen
+Description: My postpartum check-up covered recovery, mood and feeding rather than just a quick exam. Everything was explained in plain English by Dr. Dao Thanh, and nothing was left to guess. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Dao Thanh, Obstetrics and Gynecology (OB/GYN), Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham An Khang Plus
+Description: The anomaly scan was thorough and the explanation of every measurement from Dr. Dao Thanh was reassuring. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Overall rating for Dr. Dao Thanh, Obstetrics and Gynecology (OB/GYN), Hanoi: 8.25/10 from 8 reviews

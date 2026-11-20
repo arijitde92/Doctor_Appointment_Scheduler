@@ -1,0 +1,59 @@
+Doctor: Dr. Maxim Pavlov
+Doctor ID: 3706
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 12
+City: Kazan, Russia
+Clinics: Idel Health Practice (clinic ID 478)
+
+Review 1 for Dr. Maxim Pavlov, Pediatrics, Kazan
+Rating: 8/10
+Clinic visited: Idel Health Practice
+Description: We got a same-day appointment for a high fever, and the care at Idel Health Practice was kind and efficient.
+
+Review 2 for Dr. Maxim Pavlov, Pediatrics, Kazan
+Rating: 8/10
+Clinic visited: Idel Health Practice
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 3 for Dr. Maxim Pavlov, Pediatrics, Kazan
+Rating: 8/10
+Clinic visited: Idel Health Practice
+Description: The school physical at Idel Health Practice was quick, thorough and the forms were completed on the spot. A translator was arranged for my mother without us asking twice, and Dr. Maxim Pavlov spoke directly to her throughout. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Maxim Pavlov, Pediatrics, Kazan
+Rating: 7/10
+Clinic visited: Idel Health Practice
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Maxim Pavlov is thorough with exams, but the after-hours phone line at Idel Health Practice is hard to reach.
+
+Review 5 for Dr. Maxim Pavlov, Pediatrics, Kazan
+Rating: 3/10
+Clinic visited: Idel Health Practice
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. The referral to a specialist never arrived, and I had to chase it myself for weeks.
+
+Review 6 for Dr. Maxim Pavlov, Pediatrics, Kazan
+Rating: 8/10
+Clinic visited: Idel Health Practice
+Description: Vaccination visits with Dr. Maxim Pavlov are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 7 for Dr. Maxim Pavlov, Pediatrics, Kazan
+Rating: 7/10
+Clinic visited: Idel Health Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Idel Health Practice. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Maxim Pavlov, Pediatrics, Kazan
+Rating: 6/10
+Clinic visited: Idel Health Practice
+Description: I liked the advice I got from Dr. Maxim Pavlov, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 9 for Dr. Maxim Pavlov, Pediatrics, Kazan
+Rating: 5/10
+Clinic visited: Idel Health Practice
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Dr. Maxim Pavlov was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 10 for Dr. Maxim Pavlov, Pediatrics, Kazan
+Rating: 8/10
+Clinic visited: Idel Health Practice
+Description: My teenager actually spoke up during the visit, and Dr. Maxim Pavlov handled sensitive topics with respect. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Maxim Pavlov, Pediatrics, Kazan: 6.80/10 from 10 reviews

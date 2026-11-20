@@ -1,0 +1,49 @@
+Doctor: Dr. Cecilia Álvarez
+Doctor ID: 772
+Specialization: Pathology
+Gender: Female
+Years of experience: 5
+City: Cordoba, Argentina
+Clinics: Centro Médico Cerro de las Rosas (clinic ID 101); Instituto de Salud Vélez Sarsfield (clinic ID 104)
+
+Review 1 for Dr. Cecilia Álvarez, Pathology, Cordoba
+Rating: 7/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Cecilia Álvarez, Pathology, Cordoba
+Rating: 7/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Cecilia Álvarez, Pathology, Cordoba
+Rating: 9/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Dr. Cecilia Álvarez double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Cecilia Álvarez, Pathology, Cordoba
+Rating: 10/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Cecilia Álvarez, Pathology, Cordoba
+Rating: 10/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Cecilia Álvarez, Pathology, Cordoba
+Rating: 9/10
+Clinic visited: Centro Médico Cerro de las Rosas
+Description: Dr. Cecilia Álvarez drew a quick sketch to explain what was going on, which helped me remember it afterwards. She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 7 for Dr. Cecilia Álvarez, Pathology, Cordoba
+Rating: 8/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. A translator was arranged for my mother without us asking twice, and Dr. Cecilia Álvarez spoke directly to her throughout.
+
+Review 8 for Dr. Cecilia Álvarez, Pathology, Cordoba
+Rating: 7/10
+Clinic visited: Instituto de Salud Vélez Sarsfield
+Description: The blood draw was painless, but the waiting area at Instituto de Salud Vélez Sarsfield was crowded in the early morning. Dr. Cecilia Álvarez was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Cecilia Álvarez, Pathology, Cordoba: 8.38/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Saima Khan
+Doctor ID: 6378
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Female
+Years of experience: 22
+City: Lahore, Pakistan
+Clinics: Johar Town Sehat Centre (clinic ID 826)
+
+Review 1 for Dr. Saima Khan, Obstetrics and Gynecology (OB/GYN), Lahore
+Rating: 5/10
+Clinic visited: Johar Town Sehat Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Saima Khan, Obstetrics and Gynecology (OB/GYN), Lahore
+Rating: 7/10
+Clinic visited: Johar Town Sehat Centre
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history.
+
+Review 3 for Dr. Saima Khan, Obstetrics and Gynecology (OB/GYN), Lahore
+Rating: 5/10
+Clinic visited: Johar Town Sehat Centre
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit.
+
+Review 4 for Dr. Saima Khan, Obstetrics and Gynecology (OB/GYN), Lahore
+Rating: 6/10
+Clinic visited: Johar Town Sehat Centre
+Description: Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Saima Khan, Obstetrics and Gynecology (OB/GYN), Lahore
+Rating: 5/10
+Clinic visited: Johar Town Sehat Centre
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues.
+
+Review 6 for Dr. Saima Khan, Obstetrics and Gynecology (OB/GYN), Lahore
+Rating: 7/10
+Clinic visited: Johar Town Sehat Centre
+Description: Good bedside manner from Dr. Saima Khan, but the parking near Johar Town Sehat Centre is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Saima Khan, Obstetrics and Gynecology (OB/GYN), Lahore
+Rating: 6/10
+Clinic visited: Johar Town Sehat Centre
+Description: Dr. Saima Khan explained my options well, though the office was often running an hour behind. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Saima Khan, Obstetrics and Gynecology (OB/GYN), Lahore
+Rating: 9/10
+Clinic visited: Johar Town Sehat Centre
+Description: The anomaly scan was thorough and the explanation of every measurement from Dr. Saima Khan was reassuring. I was given a printed summary of the visit, which I shared with my family at home. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Saima Khan, Obstetrics and Gynecology (OB/GYN), Lahore: 6.25/10 from 8 reviews

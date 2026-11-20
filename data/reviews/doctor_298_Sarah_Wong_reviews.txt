@@ -1,0 +1,49 @@
+Doctor: Dr. Sarah Wong
+Doctor ID: 298
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Female
+Years of experience: 16
+City: Montreal, Canada
+Clinics: Centre Médical René-Lévesque (clinic ID 41); Polyclinique du Parc (clinic ID 43)
+
+Review 1 for Dr. Sarah Wong, Obstetrics and Gynecology (OB/GYN), Montreal
+Rating: 7/10
+Clinic visited: Centre Médical René-Lévesque
+Description: The ultrasound images from Dr. Sarah Wong were great, but I had to call twice to get the written report. Dr. Sarah Wong was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Sarah Wong, Obstetrics and Gynecology (OB/GYN), Montreal
+Rating: 5/10
+Clinic visited: Centre Médical René-Lévesque
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Sarah Wong, Obstetrics and Gynecology (OB/GYN), Montreal
+Rating: 4/10
+Clinic visited: Centre Médical René-Lévesque
+Description: I felt dismissed by Dr. Sarah Wong when I brought up a second concern, and was told to book another appointment for it.
+
+Review 4 for Dr. Sarah Wong, Obstetrics and Gynecology (OB/GYN), Montreal
+Rating: 5/10
+Clinic visited: Polyclinique du Parc
+Description: Dr. Sarah Wong was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Sarah Wong, Obstetrics and Gynecology (OB/GYN), Montreal
+Rating: 7/10
+Clinic visited: Centre Médical René-Lévesque
+Description: I liked the advice I got from Dr. Sarah Wong, but I would have liked more time to ask follow-up questions before the visit ended. Compassionate during my fertility consultation, though the cost estimate was vague until after the visit.
+
+Review 6 for Dr. Sarah Wong, Obstetrics and Gynecology (OB/GYN), Montreal
+Rating: 6/10
+Clinic visited: Centre Médical René-Lévesque
+Description: A respectful exam, but I wished for more discussion on pain management before my procedure.
+
+Review 7 for Dr. Sarah Wong, Obstetrics and Gynecology (OB/GYN), Montreal
+Rating: 8/10
+Clinic visited: Centre Médical René-Lévesque
+Description: The staff made a sensitive appointment feel comfortable, and Dr. Sarah Wong respected my questions about my body.
+
+Review 8 for Dr. Sarah Wong, Obstetrics and Gynecology (OB/GYN), Montreal
+Rating: 7/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues.
+
+Overall rating for Dr. Sarah Wong, Obstetrics and Gynecology (OB/GYN), Montreal: 6.12/10 from 8 reviews

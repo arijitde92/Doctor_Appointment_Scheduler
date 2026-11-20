@@ -1,0 +1,49 @@
+Doctor: Dr. Florian Schulz
+Doctor ID: 1600
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 30
+City: Hamburg, Germany
+Clinics: Praxiszentrum Bergedorfer Tor (clinic ID 209)
+
+Review 1 for Dr. Florian Schulz, Pulmonology, Hamburg
+Rating: 9/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Florian Schulz felt well organized from start to finish. I always leave Dr. Florian Schulz's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 2 for Dr. Florian Schulz, Pulmonology, Hamburg
+Rating: 6/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Dr. Florian Schulz adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 3 for Dr. Florian Schulz, Pulmonology, Hamburg
+Rating: 8/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: He called personally with my scan results and walked me through what the findings did and did not mean. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Florian Schulz, Pulmonology, Hamburg
+Rating: 9/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 5 for Dr. Florian Schulz, Pulmonology, Hamburg
+Rating: 7/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Good bedside manner from Dr. Florian Schulz, but the parking near Praxiszentrum Bergedorfer Tor is limited and I had to circle for fifteen minutes. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Florian Schulz, Pulmonology, Hamburg
+Rating: 7/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Pleasant manner and careful lung exam, though the waiting time at Praxiszentrum Bergedorfer Tor regularly exceeded forty minutes.
+
+Review 7 for Dr. Florian Schulz, Pulmonology, Hamburg
+Rating: 7/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Florian Schulz, Pulmonology, Hamburg
+Rating: 10/10
+Clinic visited: Praxiszentrum Bergedorfer Tor
+Description: My oxygen levels are monitored carefully at Praxiszentrum Bergedorfer Tor, and the home equipment was arranged without any hassle. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Florian Schulz, Pulmonology, Hamburg: 7.88/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Angela Russo
+Doctor ID: 3431
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 6
+City: Naples, Italy
+Clinics: Poliambulatorio Vomero (clinic ID 445); Centro Medico Chiaia (clinic ID 446); Studio Medico Santa Lucia (clinic ID 447)
+
+Review 1 for Dr. Angela Russo, Psychiatry, Naples
+Rating: 9/10
+Clinic visited: Poliambulatorio Vomero
+Description: Appointments in Naples are always on schedule, and the waiting area is peaceful and private. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Angela Russo, Psychiatry, Naples
+Rating: 7/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 3 for Dr. Angela Russo, Psychiatry, Naples
+Rating: 4/10
+Clinic visited: Centro Medico Chiaia
+Description: Dr. Angela Russo seemed to focus on the paperwork, and I did not feel I could share what was really going on. The visit felt rushed, and Dr. Angela Russo was already halfway out the door when I started to describe my second symptom.
+
+Review 4 for Dr. Angela Russo, Psychiatry, Naples
+Rating: 8/10
+Clinic visited: Centro Medico Chiaia
+Description: A same-day slot was found for me at Centro Medico Chiaia when I called with a worrying symptom. Dr. Angela Russo took a full history before suggesting any medication and explained the likely side effects honestly. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Angela Russo, Psychiatry, Naples
+Rating: 7/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Booking was easy online, but the confirmation email contained the wrong address for Studio Medico Santa Lucia. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 6 for Dr. Angela Russo, Psychiatry, Naples
+Rating: 9/10
+Clinic visited: Studio Medico Santa Lucia
+Description: My test results arrived in the portal within two days, together with a short note that made sense. My family was included in a session at my request, and Dr. Angela Russo handled it with great tact. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Angela Russo, Psychiatry, Naples
+Rating: 8/10
+Clinic visited: Centro Medico Chiaia
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. The waiting room at Centro Medico Chiaia was clean, quiet and comfortable, with enough seating and water available. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Angela Russo, Psychiatry, Naples
+Rating: 10/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Dr. Angela Russo double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Overall rating for Dr. Angela Russo, Psychiatry, Naples: 7.75/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Sherif Girgis
+Doctor ID: 5991
+Specialization: Radiology
+Gender: Male
+Years of experience: 11
+City: Luxor, Egypt
+Clinics: Television Street Health Practice (clinic ID 773)
+
+Review 1 for Dr. Sherif Girgis, Radiology, Luxor
+Rating: 7/10
+Clinic visited: Television Street Health Practice
+Description: Dr. Sherif Girgis was thoughtful and clear, though the front desk was disorganized and lost my first referral form. My MRI was comfortable, but getting a copy of the images on disc took several requests. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Sherif Girgis, Radiology, Luxor
+Rating: 8/10
+Clinic visited: Television Street Health Practice
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 3 for Dr. Sherif Girgis, Radiology, Luxor
+Rating: 7/10
+Clinic visited: Television Street Health Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The telehealth visit was convenient, though the connection dropped twice and we had to restart. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Sherif Girgis, Radiology, Luxor
+Rating: 8/10
+Clinic visited: Television Street Health Practice
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. Dr. Sherif Girgis double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 5 for Dr. Sherif Girgis, Radiology, Luxor
+Rating: 8/10
+Clinic visited: Television Street Health Practice
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. The report from Dr. Sherif Girgis was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 6 for Dr. Sherif Girgis, Radiology, Luxor
+Rating: 8/10
+Clinic visited: Television Street Health Practice
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. He called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 7 for Dr. Sherif Girgis, Radiology, Luxor
+Rating: 10/10
+Clinic visited: Television Street Health Practice
+Description: My ultrasound was unhurried, and Dr. Sherif Girgis took time to show me the images and explain what each measurement meant.
+
+Review 8 for Dr. Sherif Girgis, Radiology, Luxor
+Rating: 6/10
+Clinic visited: Television Street Health Practice
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Sherif Girgis, Radiology, Luxor: 7.75/10 from 8 reviews

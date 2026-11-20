@@ -1,0 +1,49 @@
+Doctor: Dr. Martina Binder
+Doctor ID: 2873
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 11
+City: Graz, Austria
+Clinics: Ärztehaus Herrengasse Graz (clinic ID 375); Medizinisches Zentrum Leonhard (clinic ID 378); Ordinationszentrum Gries (clinic ID 379)
+
+Review 1 for Dr. Martina Binder, Psychiatry, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Good listener, yet the refill process at Ärztehaus Herrengasse Graz is slow and requires several phone calls. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Martina Binder, Psychiatry, Graz
+Rating: 7/10
+Clinic visited: Ordinationszentrum Gries
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 3 for Dr. Martina Binder, Psychiatry, Graz
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I liked the advice I got from Dr. Martina Binder, but I would have liked more time to ask follow-up questions before the visit ended. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Martina Binder, Psychiatry, Graz
+Rating: 9/10
+Clinic visited: Ordinationszentrum Gries
+Description: Dr. Martina Binder drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 5 for Dr. Martina Binder, Psychiatry, Graz
+Rating: 8/10
+Clinic visited: Ordinationszentrum Gries
+Description: My depression finally has a treatment plan from Dr. Martina Binder that works, with regular check-ins and careful dose changes. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Martina Binder, Psychiatry, Graz
+Rating: 6/10
+Clinic visited: Ordinationszentrum Gries
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 7 for Dr. Martina Binder, Psychiatry, Graz
+Rating: 6/10
+Clinic visited: Ordinationszentrum Gries
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 8 for Dr. Martina Binder, Psychiatry, Graz
+Rating: 9/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Overall rating for Dr. Martina Binder, Psychiatry, Graz: 7.25/10 from 8 reviews

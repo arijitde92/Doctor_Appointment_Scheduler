@@ -1,0 +1,59 @@
+Doctor: Dr. Le Khanh
+Doctor ID: 4942
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 25
+City: Da Nang, Vietnam
+Clinics: Phong Kham Da Khoa Sao Mai (clinic ID 638)
+
+Review 1 for Dr. Le Khanh, Orthopedic, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: Dr. Le Khanh was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Very skilled with my knee, but Dr. Le Khanh's clinic runs behind and the wait was over an hour. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Le Khanh, Orthopedic, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Le Khanh, Orthopedic, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Le Khanh, Orthopedic, Da Nang
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 5 for Dr. Le Khanh, Orthopedic, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Dr. Le Khanh explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 6 for Dr. Le Khanh, Orthopedic, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Le Khanh, Orthopedic, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. The treatment plan from Dr. Le Khanh made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Le Khanh, Orthopedic, Da Nang
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: My torn rotator cuff was managed first by Dr. Le Khanh with physiotherapy, and surgery was only suggested when it truly was needed.
+
+Review 9 for Dr. Le Khanh, Orthopedic, Da Nang
+Rating: 6/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Dr. Le Khanh was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 10 for Dr. Le Khanh, Orthopedic, Da Nang
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Sao Mai
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Le Khanh, Orthopedic, Da Nang: 6.60/10 from 10 reviews

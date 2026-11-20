@@ -1,0 +1,54 @@
+Doctor: Dr. Rustam Romanov
+Doctor ID: 3744
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 16
+City: Moscow, Russia
+Clinics: Prospekt Mira Health Practice (clinic ID 483)
+
+Review 1 for Dr. Rustam Romanov, Pediatrics, Moscow
+Rating: 8/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Dr. Rustam Romanov noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 2 for Dr. Rustam Romanov, Pediatrics, Moscow
+Rating: 5/10
+Clinic visited: Prospekt Mira Health Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Rustam Romanov, Pediatrics, Moscow
+Rating: 8/10
+Clinic visited: Prospekt Mira Health Practice
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. My child's asthma action plan from Dr. Rustam Romanov was written out clearly so that school staff could follow it too. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Rustam Romanov, Pediatrics, Moscow
+Rating: 9/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Vaccination visits with Dr. Rustam Romanov are painless and well explained, and my questions about the schedule were answered without any pressure. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Rustam Romanov, Pediatrics, Moscow
+Rating: 6/10
+Clinic visited: Prospekt Mira Health Practice
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Rustam Romanov is thorough with exams, but the after-hours phone line at Prospekt Mira Health Practice is hard to reach. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Rustam Romanov, Pediatrics, Moscow
+Rating: 6/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 7 for Dr. Rustam Romanov, Pediatrics, Moscow
+Rating: 6/10
+Clinic visited: Prospekt Mira Health Practice
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 8 for Dr. Rustam Romanov, Pediatrics, Moscow
+Rating: 7/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Dr. Rustam Romanov was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 9 for Dr. Rustam Romanov, Pediatrics, Moscow
+Rating: 7/10
+Clinic visited: Prospekt Mira Health Practice
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Rustam Romanov, Pediatrics, Moscow: 6.89/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Ciara O'Neill
+Doctor ID: 2416
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 1
+City: Cork, Ireland
+Clinics: Douglas Family Clinic (clinic ID 316)
+
+Review 1 for Dr. Ciara O'Neill, Orthopedic, Cork
+Rating: 7/10
+Clinic visited: Douglas Family Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Douglas Family Clinic. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 2 for Dr. Ciara O'Neill, Orthopedic, Cork
+Rating: 6/10
+Clinic visited: Douglas Family Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 3 for Dr. Ciara O'Neill, Orthopedic, Cork
+Rating: 4/10
+Clinic visited: Douglas Family Clinic
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 4 for Dr. Ciara O'Neill, Orthopedic, Cork
+Rating: 7/10
+Clinic visited: Douglas Family Clinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Ciara O'Neill, Orthopedic, Cork
+Rating: 6/10
+Clinic visited: Douglas Family Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Ciara O'Neill explained surgery options clearly, though the physiotherapy referral took weeks to arrive. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Ciara O'Neill, Orthopedic, Cork
+Rating: 5/10
+Clinic visited: Douglas Family Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Ciara O'Neill, Orthopedic, Cork
+Rating: 6/10
+Clinic visited: Douglas Family Clinic
+Description: Dr. Ciara O'Neill was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 8 for Dr. Ciara O'Neill, Orthopedic, Cork
+Rating: 6/10
+Clinic visited: Douglas Family Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Ciara O'Neill, Orthopedic, Cork: 5.88/10 from 8 reviews

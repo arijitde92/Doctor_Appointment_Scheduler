@@ -1,0 +1,69 @@
+Doctor: Dr. Chen Yuting
+Doctor ID: 3886
+Specialization: Cardiology
+Gender: Female
+Years of experience: 2
+City: Guangzhou, China
+Clinics: Huaxia Anhe Clinic (clinic ID 501)
+
+Review 1 for Dr. Chen Yuting, Cardiology, Guangzhou
+Rating: 10/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Seeing Dr. Chen Yuting in Guangzhou meant my whole family history was reviewed, and now my sister is being screened too. Prescriptions from Dr. Chen Yuting were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Chen Yuting, Cardiology, Guangzhou
+Rating: 10/10
+Clinic visited: Huaxia Anhe Clinic
+Description: The cardiology unit at Huaxia Anhe Clinic runs on time, and the technicians were professional during my echocardiogram. Dr. Chen Yuting looked me in the eye, listened to the whole story and only then started typing.
+
+Review 3 for Dr. Chen Yuting, Cardiology, Guangzhou
+Rating: 10/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 4 for Dr. Chen Yuting, Cardiology, Guangzhou
+Rating: 9/10
+Clinic visited: Huaxia Anhe Clinic
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. My atrial fibrillation is well managed by Dr. Chen Yuting, and I know exactly what symptoms mean I should call.
+
+Review 5 for Dr. Chen Yuting, Cardiology, Guangzhou
+Rating: 9/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 6 for Dr. Chen Yuting, Cardiology, Guangzhou
+Rating: 7/10
+Clinic visited: Huaxia Anhe Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 7 for Dr. Chen Yuting, Cardiology, Guangzhou
+Rating: 8/10
+Clinic visited: Huaxia Anhe Clinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Chen Yuting, Cardiology, Guangzhou
+Rating: 8/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. After my heart attack, Dr. Chen Yuting explained the rehab plan and medication changes with great patience and kindness. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Chen Yuting, Cardiology, Guangzhou
+Rating: 7/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Good bedside manner from Dr. Chen Yuting, but the parking near Huaxia Anhe Clinic is limited and I had to circle for fifteen minutes.
+
+Review 10 for Dr. Chen Yuting, Cardiology, Guangzhou
+Rating: 7/10
+Clinic visited: Huaxia Anhe Clinic
+Description: The treatment plan from Dr. Chen Yuting made sense, but I wished it had been written down for me to take away. Helpful with my cholesterol, Dr. Chen Yuting still gave dietary advice that was a little generic.
+
+Review 11 for Dr. Chen Yuting, Cardiology, Guangzhou
+Rating: 8/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Dr. Chen Yuting explained the difference between my statin options and let me weigh in on the choice. Everything was explained in plain English by Dr. Chen Yuting, and nothing was left to guess.
+
+Review 12 for Dr. Chen Yuting, Cardiology, Guangzhou
+Rating: 9/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Managing my blood pressure with Dr. Chen Yuting has been steady and practical, with home readings reviewed at every visit.
+
+Overall rating for Dr. Chen Yuting, Cardiology, Guangzhou: 8.50/10 from 12 reviews

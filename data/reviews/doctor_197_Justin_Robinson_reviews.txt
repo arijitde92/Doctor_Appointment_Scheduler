@@ -1,0 +1,49 @@
+Doctor: Dr. Justin Robinson
+Doctor ID: 197
+Specialization: Cardiology
+Gender: Male
+Years of experience: 20
+City: New York, USA
+Clinics: Union Square Health Practice (clinic ID 27); Brooklyn Heights Wellness Clinic (clinic ID 28)
+
+Review 1 for Dr. Justin Robinson, Cardiology, New York
+Rating: 10/10
+Clinic visited: Union Square Health Practice
+Description: Clear and calm advice at Union Square Health Practice about exercise after my stent, including a gradual written schedule. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Justin Robinson, Cardiology, New York
+Rating: 7/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Justin Robinson, Cardiology, New York
+Rating: 10/10
+Clinic visited: Union Square Health Practice
+Description: My stress test was supervised carefully, and Dr. Justin Robinson reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 4 for Dr. Justin Robinson, Cardiology, New York
+Rating: 8/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 5 for Dr. Justin Robinson, Cardiology, New York
+Rating: 8/10
+Clinic visited: Union Square Health Practice
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Justin Robinson, Cardiology, New York
+Rating: 10/10
+Clinic visited: Union Square Health Practice
+Description: The cardiology unit at Union Square Health Practice runs on time, and the technicians were professional during my echocardiogram.
+
+Review 7 for Dr. Justin Robinson, Cardiology, New York
+Rating: 9/10
+Clinic visited: Union Square Health Practice
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. The nurse was friendly and efficient, and the whole visit with Dr. Justin Robinson felt well organized from start to finish.
+
+Review 8 for Dr. Justin Robinson, Cardiology, New York
+Rating: 9/10
+Clinic visited: Union Square Health Practice
+Description: Managing my blood pressure with Dr. Justin Robinson has been steady and practical, with home readings reviewed at every visit.
+
+Overall rating for Dr. Justin Robinson, Cardiology, New York: 8.88/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Mathieu Dupont
+Doctor ID: 1246
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 2
+City: Marseille, France
+Clinics: Clinique du Prado (clinic ID 162)
+
+Review 1 for Dr. Mathieu Dupont, Pediatrics, Marseille
+Rating: 6/10
+Clinic visited: Clinique du Prado
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Mathieu Dupont, Pediatrics, Marseille
+Rating: 8/10
+Clinic visited: Clinique du Prado
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 3 for Dr. Mathieu Dupont, Pediatrics, Marseille
+Rating: 10/10
+Clinic visited: Clinique du Prado
+Description: Our newborn check-ups with Dr. Mathieu Dupont were reassuring; every question about feeding and sleep got a calm, practical answer. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Mathieu Dupont, Pediatrics, Marseille
+Rating: 10/10
+Clinic visited: Clinique du Prado
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Our family has been coming for years, and he remembers each child's history and personality.
+
+Review 5 for Dr. Mathieu Dupont, Pediatrics, Marseille
+Rating: 8/10
+Clinic visited: Clinique du Prado
+Description: Dr. Mathieu Dupont noticed a speech delay early and referred us to a therapist, which has made a real difference. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Mathieu Dupont, Pediatrics, Marseille
+Rating: 10/10
+Clinic visited: Clinique du Prado
+Description: The waiting room in Marseille has a play corner and separate seating for sick children, which I really valued.
+
+Review 7 for Dr. Mathieu Dupont, Pediatrics, Marseille
+Rating: 6/10
+Clinic visited: Clinique du Prado
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 8 for Dr. Mathieu Dupont, Pediatrics, Marseille
+Rating: 8/10
+Clinic visited: Clinique du Prado
+Description: My toddler was terrified of doctors, but Dr. Mathieu Dupont sat on the floor, played with a stuffed toy and examined everything without a single tear. Booking online at Clinique du Prado was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Overall rating for Dr. Mathieu Dupont, Pediatrics, Marseille: 8.25/10 from 8 reviews

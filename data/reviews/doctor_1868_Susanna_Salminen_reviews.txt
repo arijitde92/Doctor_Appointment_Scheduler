@@ -1,0 +1,69 @@
+Doctor: Dr. Susanna Salminen
+Doctor ID: 1868
+Specialization: Radiology
+Gender: Female
+Years of experience: 18
+City: Helsinki, Finland
+Clinics: Terveyskeskus Kaivopuisto Plus (clinic ID 243)
+
+Review 1 for Dr. Susanna Salminen, Radiology, Helsinki
+Rating: 4/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: The technologist gave almost no instructions before my MRI, and I had to repeat part of the scan because I moved. The staff at Terveyskeskus Kaivopuisto Plus were curt on the phone, and it took four attempts to book a simple follow-up.
+
+Review 2 for Dr. Susanna Salminen, Radiology, Helsinki
+Rating: 7/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Susanna Salminen, Radiology, Helsinki
+Rating: 4/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: My images were not sent to my specialist as promised, so my consultation had to be postponed. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. I will not be returning and have already started looking for another doctor.
+
+Review 4 for Dr. Susanna Salminen, Radiology, Helsinki
+Rating: 6/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Susanna Salminen, Radiology, Helsinki
+Rating: 6/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Booking was easy online, but the confirmation email contained the wrong address for Terveyskeskus Kaivopuisto Plus.
+
+Review 6 for Dr. Susanna Salminen, Radiology, Helsinki
+Rating: 5/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Susanna Salminen, Radiology, Helsinki
+Rating: 7/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 8 for Dr. Susanna Salminen, Radiology, Helsinki
+Rating: 6/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Susanna Salminen, Radiology, Helsinki
+Rating: 8/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. The nurse was friendly and efficient, and the whole visit with Dr. Susanna Salminen felt well organized from start to finish.
+
+Review 10 for Dr. Susanna Salminen, Radiology, Helsinki
+Rating: 7/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: The report from Dr. Susanna Salminen was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 11 for Dr. Susanna Salminen, Radiology, Helsinki
+Rating: 8/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Images from Terveyskeskus Kaivopuisto Plus were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 12 for Dr. Susanna Salminen, Radiology, Helsinki
+Rating: 4/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: There was no translator available, and my parent was left unable to follow what was being said.
+
+Overall rating for Dr. Susanna Salminen, Radiology, Helsinki: 6.00/10 from 12 reviews

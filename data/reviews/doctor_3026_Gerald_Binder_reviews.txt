@@ -1,0 +1,64 @@
+Doctor: Dr. Gerald Binder
+Doctor ID: 3026
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 15
+City: Vienna, Austria
+Clinics: Ordination Währinger Park (clinic ID 394)
+
+Review 1 for Dr. Gerald Binder, Pulmonology, Vienna
+Rating: 5/10
+Clinic visited: Ordination Währinger Park
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 2 for Dr. Gerald Binder, Pulmonology, Vienna
+Rating: 8/10
+Clinic visited: Ordination Währinger Park
+Description: The receptionist at Ordination Währinger Park remembered my name and had my forms ready, so check-in took less than a minute. He called personally with my scan results and walked me through what the findings did and did not mean.
+
+Review 3 for Dr. Gerald Binder, Pulmonology, Vienna
+Rating: 5/10
+Clinic visited: Ordination Währinger Park
+Description: Helpful and honest about my prognosis, Dr. Gerald Binder could still have given me more written material to take home. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Gerald Binder, Pulmonology, Vienna
+Rating: 7/10
+Clinic visited: Ordination Währinger Park
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 5 for Dr. Gerald Binder, Pulmonology, Vienna
+Rating: 5/10
+Clinic visited: Ordination Währinger Park
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 6 for Dr. Gerald Binder, Pulmonology, Vienna
+Rating: 6/10
+Clinic visited: Ordination Währinger Park
+Description: Pleasant manner and careful lung exam, though the waiting time at Ordination Währinger Park regularly exceeded forty minutes.
+
+Review 7 for Dr. Gerald Binder, Pulmonology, Vienna
+Rating: 5/10
+Clinic visited: Ordination Währinger Park
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 8 for Dr. Gerald Binder, Pulmonology, Vienna
+Rating: 4/10
+Clinic visited: Ordination Währinger Park
+Description: The prescription from Dr. Gerald Binder was not the one we discussed, and I only noticed when I got home.
+
+Review 9 for Dr. Gerald Binder, Pulmonology, Vienna
+Rating: 7/10
+Clinic visited: Ordination Währinger Park
+Description: Dr. Gerald Binder adjusted my asthma medication well, but the breathing test appointment was a month away. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Gerald Binder, Pulmonology, Vienna
+Rating: 8/10
+Clinic visited: Ordination Währinger Park
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. At Ordination Währinger Park, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 11 for Dr. Gerald Binder, Pulmonology, Vienna
+Rating: 6/10
+Clinic visited: Ordination Währinger Park
+Description: I liked the advice I got from Dr. Gerald Binder, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Gerald Binder, Pulmonology, Vienna: 6.00/10 from 11 reviews

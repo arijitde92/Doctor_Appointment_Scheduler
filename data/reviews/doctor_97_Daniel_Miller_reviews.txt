@@ -1,0 +1,54 @@
+Doctor: Dr. Daniel Miller
+Doctor ID: 97
+Specialization: Neurology
+Gender: Male
+Years of experience: 6
+City: Chicago, USA
+Clinics: Lakeshore Internal Medicine (clinic ID 15); Northside Care Partners (clinic ID 17)
+
+Review 1 for Dr. Daniel Miller, Neurology, Chicago
+Rating: 10/10
+Clinic visited: Northside Care Partners
+Description: The EEG appointment ran on time, and Dr. Daniel Miller reviewed the tracing with me the same week. Everything was explained in plain English by Dr. Daniel Miller, and nothing was left to guess.
+
+Review 2 for Dr. Daniel Miller, Neurology, Chicago
+Rating: 9/10
+Clinic visited: Northside Care Partners
+Description: The practice in Chicago is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 3 for Dr. Daniel Miller, Neurology, Chicago
+Rating: 10/10
+Clinic visited: Lakeshore Internal Medicine
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Lakeshore Internal Medicine.
+
+Review 4 for Dr. Daniel Miller, Neurology, Chicago
+Rating: 9/10
+Clinic visited: Northside Care Partners
+Description: A same-day slot was found for me at Northside Care Partners when I called with a worrying symptom. Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 5 for Dr. Daniel Miller, Neurology, Chicago
+Rating: 8/10
+Clinic visited: Northside Care Partners
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Daniel Miller, Neurology, Chicago
+Rating: 10/10
+Clinic visited: Northside Care Partners
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 7 for Dr. Daniel Miller, Neurology, Chicago
+Rating: 7/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Dr. Daniel Miller explained my results well, although the visit felt short for such a complex condition. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Daniel Miller, Neurology, Chicago
+Rating: 9/10
+Clinic visited: Lakeshore Internal Medicine
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Daniel Miller, Neurology, Chicago
+Rating: 10/10
+Clinic visited: Northside Care Partners
+Description: I was called in within five minutes of my appointment time at Northside Care Partners, which is rare and much appreciated.
+
+Overall rating for Dr. Daniel Miller, Neurology, Chicago: 9.11/10 from 9 reviews

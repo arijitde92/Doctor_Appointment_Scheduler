@@ -1,0 +1,49 @@
+Doctor: Dr. Rajesh Reddy
+Doctor ID: 6099
+Specialization: Radiology
+Gender: Male
+Years of experience: 3
+City: Dubai, UAE
+Clinics: Deira Creekside Health Practice (clinic ID 788)
+
+Review 1 for Dr. Rajesh Reddy, Radiology, Dubai
+Rating: 7/10
+Clinic visited: Deira Creekside Health Practice
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 2 for Dr. Rajesh Reddy, Radiology, Dubai
+Rating: 8/10
+Clinic visited: Deira Creekside Health Practice
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. Everything was explained in plain English by Dr. Rajesh Reddy, and nothing was left to guess.
+
+Review 3 for Dr. Rajesh Reddy, Radiology, Dubai
+Rating: 8/10
+Clinic visited: Deira Creekside Health Practice
+Description: When my scan showed something that needed a second look, Dr. Rajesh Reddy arranged the follow-up the same day.
+
+Review 4 for Dr. Rajesh Reddy, Radiology, Dubai
+Rating: 10/10
+Clinic visited: Deira Creekside Health Practice
+Description: The waiting room at Deira Creekside Health Practice was clean, quiet and comfortable, with enough seating and water available. The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Rajesh Reddy sent a clear report within a day.
+
+Review 5 for Dr. Rajesh Reddy, Radiology, Dubai
+Rating: 6/10
+Clinic visited: Deira Creekside Health Practice
+Description: I liked the advice I got from Dr. Rajesh Reddy, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Rajesh Reddy, Radiology, Dubai
+Rating: 8/10
+Clinic visited: Deira Creekside Health Practice
+Description: Reviewing my X-ray together with Dr. Rajesh Reddy on the screen made it much easier to understand my arthritis. The nurse was friendly and efficient, and the whole visit with Dr. Rajesh Reddy felt well organized from start to finish. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Rajesh Reddy, Radiology, Dubai
+Rating: 7/10
+Clinic visited: Deira Creekside Health Practice
+Description: The report from Dr. Rajesh Reddy was thorough, though full of technical terms that needed my regular doctor to translate. Booking was easy online, but the confirmation email contained the wrong address for Deira Creekside Health Practice.
+
+Review 8 for Dr. Rajesh Reddy, Radiology, Dubai
+Rating: 8/10
+Clinic visited: Deira Creekside Health Practice
+Description: The staff at Deira Creekside Health Practice in Dubai explained the contrast dye and its side effects before I signed anything. The practice in Dubai is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Rajesh Reddy, Radiology, Dubai: 7.75/10 from 8 reviews

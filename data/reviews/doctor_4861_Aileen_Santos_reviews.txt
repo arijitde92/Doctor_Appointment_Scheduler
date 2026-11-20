@@ -1,0 +1,49 @@
+Doctor: Dr. Aileen Santos
+Doctor ID: 4861
+Specialization: Pathology
+Gender: Female
+Years of experience: 26
+City: Manila, Philippines
+Clinics: Mabuhay Health Centre (clinic ID 628)
+
+Review 1 for Dr. Aileen Santos, Pathology, Manila
+Rating: 7/10
+Clinic visited: Mabuhay Health Centre
+Description: Dr. Aileen Santos answered my questions kindly, though the call back took three days.
+
+Review 2 for Dr. Aileen Santos, Pathology, Manila
+Rating: 9/10
+Clinic visited: Mabuhay Health Centre
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 3 for Dr. Aileen Santos, Pathology, Manila
+Rating: 7/10
+Clinic visited: Mabuhay Health Centre
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Aileen Santos, Pathology, Manila
+Rating: 9/10
+Clinic visited: Mabuhay Health Centre
+Description: Dr. Aileen Santos took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. Prescriptions from Dr. Aileen Santos were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 5 for Dr. Aileen Santos, Pathology, Manila
+Rating: 8/10
+Clinic visited: Mabuhay Health Centre
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. Getting to Mabuhay Health Centre by public transport in Manila was easy, and there is a step-free entrance for wheelchairs.
+
+Review 6 for Dr. Aileen Santos, Pathology, Manila
+Rating: 10/10
+Clinic visited: Mabuhay Health Centre
+Description: I came away understanding my condition better than I have in years of previous appointments. My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Aileen Santos, Pathology, Manila
+Rating: 9/10
+Clinic visited: Mabuhay Health Centre
+Description: The lab under Dr. Aileen Santos was clean, organized and never overbooked, and results arrived exactly when promised. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 8 for Dr. Aileen Santos, Pathology, Manila
+Rating: 8/10
+Clinic visited: Mabuhay Health Centre
+Description: Sensitive questions were handled by Dr. Aileen Santos with discretion and without a hint of judgment.
+
+Overall rating for Dr. Aileen Santos, Pathology, Manila: 8.38/10 from 8 reviews

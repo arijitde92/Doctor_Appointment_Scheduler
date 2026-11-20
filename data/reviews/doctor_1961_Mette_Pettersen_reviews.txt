@@ -1,0 +1,59 @@
+Doctor: Dr. Mette Pettersen
+Doctor ID: 1961
+Specialization: Radiology
+Gender: Female
+Years of experience: 2
+City: Bergen, Norway
+Clinics: Helsehuset Strandgaten (clinic ID 256)
+
+Review 1 for Dr. Mette Pettersen, Radiology, Bergen
+Rating: 6/10
+Clinic visited: Helsehuset Strandgaten
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Mette Pettersen, Radiology, Bergen
+Rating: 6/10
+Clinic visited: Helsehuset Strandgaten
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Dr. Mette Pettersen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Mette Pettersen, Radiology, Bergen
+Rating: 4/10
+Clinic visited: Helsehuset Strandgaten
+Description: The staff seemed rushed and impatient with an elderly patient who needed help changing. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 4 for Dr. Mette Pettersen, Radiology, Bergen
+Rating: 8/10
+Clinic visited: Helsehuset Strandgaten
+Description: The waiting room at Helsehuset Strandgaten was clean, quiet and comfortable, with enough seating and water available.
+
+Review 5 for Dr. Mette Pettersen, Radiology, Bergen
+Rating: 9/10
+Clinic visited: Helsehuset Strandgaten
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Mette Pettersen, Radiology, Bergen
+Rating: 9/10
+Clinic visited: Helsehuset Strandgaten
+Description: Sensitive questions were handled by Dr. Mette Pettersen with discretion and without a hint of judgment. The staff at Helsehuset Strandgaten in Bergen explained the contrast dye and its side effects before I signed anything.
+
+Review 7 for Dr. Mette Pettersen, Radiology, Bergen
+Rating: 8/10
+Clinic visited: Helsehuset Strandgaten
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Mette Pettersen were respectful throughout. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 8 for Dr. Mette Pettersen, Radiology, Bergen
+Rating: 8/10
+Clinic visited: Helsehuset Strandgaten
+Description: Reviewing my X-ray together with Dr. Mette Pettersen on the screen made it much easier to understand my arthritis. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 9 for Dr. Mette Pettersen, Radiology, Bergen
+Rating: 5/10
+Clinic visited: Helsehuset Strandgaten
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 10 for Dr. Mette Pettersen, Radiology, Bergen
+Rating: 6/10
+Clinic visited: Helsehuset Strandgaten
+Description: Dr. Mette Pettersen answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Mette Pettersen, Radiology, Bergen: 6.90/10 from 10 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Sandra Gutiérrez
+Doctor ID: 742
+Specialization: General
+Gender: Female
+Years of experience: 17
+City: Buenos Aires, Argentina
+Clinics: Policlínica Palermo Integral (clinic ID 98)
+
+Review 1 for Dr. Sandra Gutiérrez, General, Buenos Aires
+Rating: 6/10
+Clinic visited: Policlínica Palermo Integral
+Description: Good bedside manner from Dr. Sandra Gutiérrez, but the parking near Policlínica Palermo Integral is limited and I had to circle for fifteen minutes. Dr. Sandra Gutiérrez is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 2 for Dr. Sandra Gutiérrez, General, Buenos Aires
+Rating: 9/10
+Clinic visited: Policlínica Palermo Integral
+Description: A same-day slot was found for me at Policlínica Palermo Integral when I called with a worrying symptom.
+
+Review 3 for Dr. Sandra Gutiérrez, General, Buenos Aires
+Rating: 5/10
+Clinic visited: Policlínica Palermo Integral
+Description: Referrals from Dr. Sandra Gutiérrez are handled well, but getting test results back took longer than I was told to expect. Dr. Sandra Gutiérrez was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Sandra Gutiérrez, General, Buenos Aires
+Rating: 6/10
+Clinic visited: Policlínica Palermo Integral
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 5 for Dr. Sandra Gutiérrez, General, Buenos Aires
+Rating: 8/10
+Clinic visited: Policlínica Palermo Integral
+Description: Dr. Sandra Gutiérrez spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 6 for Dr. Sandra Gutiérrez, General, Buenos Aires
+Rating: 8/10
+Clinic visited: Policlínica Palermo Integral
+Description: Dr. Sandra Gutiérrez used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 7 for Dr. Sandra Gutiérrez, General, Buenos Aires
+Rating: 7/10
+Clinic visited: Policlínica Palermo Integral
+Description: Dr. Sandra Gutiérrez was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I like that she listens to the full story, even if it means the appointment runs behind schedule. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Sandra Gutiérrez, General, Buenos Aires
+Rating: 5/10
+Clinic visited: Policlínica Palermo Integral
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Policlínica Palermo Integral were inconsistent. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 9 for Dr. Sandra Gutiérrez, General, Buenos Aires
+Rating: 6/10
+Clinic visited: Policlínica Palermo Integral
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Sandra Gutiérrez, General, Buenos Aires
+Rating: 5/10
+Clinic visited: Policlínica Palermo Integral
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Overall rating for Dr. Sandra Gutiérrez, General, Buenos Aires: 6.50/10 from 10 reviews

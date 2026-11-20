@@ -1,0 +1,54 @@
+Doctor: Dr. Artem Alekseev
+Doctor ID: 3819
+Specialization: Psychology
+Gender: Male
+Years of experience: 14
+City: Saint Petersburg, Russia
+Clinics: Neva Health Practice (clinic ID 493); Klinika Ligovskaya (clinic ID 494)
+
+Review 1 for Dr. Artem Alekseev, Psychology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Ligovskaya
+Description: Dr. Artem Alekseev listens well, though some sessions felt like a recap of the previous one without much new direction. The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Artem Alekseev, Psychology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Neva Health Practice
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 3 for Dr. Artem Alekseev, Psychology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Neva Health Practice
+Description: Dr. Artem Alekseev was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Artem Alekseev, Psychology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Klinika Ligovskaya
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. Getting to Klinika Ligovskaya by public transport in Saint Petersburg was easy, and there is a step-free entrance for wheelchairs. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. Artem Alekseev, Psychology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Klinika Ligovskaya
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 6 for Dr. Artem Alekseev, Psychology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Klinika Ligovskaya
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 7 for Dr. Artem Alekseev, Psychology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Klinika Ligovskaya
+Description: My test results arrived in the portal within two days, together with a short note that made sense. I appreciated the written summary Dr. Artem Alekseev sent after each session and the short worksheets between visits. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Artem Alekseev, Psychology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Neva Health Practice
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Artem Alekseev, Psychology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Neva Health Practice
+Description: Dr. Artem Alekseev adapted the approach when the first method did not suit me, and that flexibility made all the difference. I was given a printed summary of the visit, which I shared with my family at home. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Artem Alekseev, Psychology, Saint Petersburg: 7.67/10 from 9 reviews

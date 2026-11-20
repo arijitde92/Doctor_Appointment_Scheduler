@@ -1,0 +1,64 @@
+Doctor: Dr. Bernd Hartmann
+Doctor ID: 1543
+Specialization: Cardiology
+Gender: Male
+Years of experience: 11
+City: Frankfurt, Germany
+Clinics: Ärztehaus Bornheim Mitte (clinic ID 201); Medizinisches Zentrum Bahnhofsviertel (clinic ID 202)
+
+Review 1 for Dr. Bernd Hartmann, Cardiology, Frankfurt
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 2 for Dr. Bernd Hartmann, Cardiology, Frankfurt
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Bernd Hartmann adjusted my blood pressure medication carefully, though I had to call twice for a refill. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Bernd Hartmann, Cardiology, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Bernd Hartmann, Cardiology, Frankfurt
+Rating: 3/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: My questions were answered by Dr. Bernd Hartmann with short, vague replies, and I left without a clear plan. My worries about side effects from my medication were waved off, and nobody offered an alternative.
+
+Review 5 for Dr. Bernd Hartmann, Cardiology, Frankfurt
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning.
+
+Review 6 for Dr. Bernd Hartmann, Cardiology, Frankfurt
+Rating: 3/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 7 for Dr. Bernd Hartmann, Cardiology, Frankfurt
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Great care in the visit itself, but the billing for the tests at Medizinisches Zentrum Bahnhofsviertel was confusing.
+
+Review 8 for Dr. Bernd Hartmann, Cardiology, Frankfurt
+Rating: 6/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: I liked the advice I got from Dr. Bernd Hartmann, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 9 for Dr. Bernd Hartmann, Cardiology, Frankfurt
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 10 for Dr. Bernd Hartmann, Cardiology, Frankfurt
+Rating: 7/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. Bernd Hartmann, Cardiology, Frankfurt
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Dr. Bernd Hartmann was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Bernd Hartmann, Cardiology, Frankfurt: 5.55/10 from 11 reviews

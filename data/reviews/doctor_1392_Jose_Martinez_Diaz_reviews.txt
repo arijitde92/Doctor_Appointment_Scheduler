@@ -1,0 +1,69 @@
+Doctor: Dr. José Martínez Díaz
+Doctor ID: 1392
+Specialization: Pathology
+Gender: Male
+Years of experience: 14
+City: Madrid, Spain
+Clinics: Centro Médico Chamberí (clinic ID 181)
+
+Review 1 for Dr. José Martínez Díaz, Pathology, Madrid
+Rating: 5/10
+Clinic visited: Centro Médico Chamberí
+Description: The blood draw was painless, but the waiting area at Centro Médico Chamberí was crowded in the early morning. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. José Martínez Díaz, Pathology, Madrid
+Rating: 7/10
+Clinic visited: Centro Médico Chamberí
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 3 for Dr. José Martínez Díaz, Pathology, Madrid
+Rating: 7/10
+Clinic visited: Centro Médico Chamberí
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 4 for Dr. José Martínez Díaz, Pathology, Madrid
+Rating: 4/10
+Clinic visited: Centro Médico Chamberí
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw.
+
+Review 5 for Dr. José Martínez Díaz, Pathology, Madrid
+Rating: 4/10
+Clinic visited: Centro Médico Chamberí
+Description: My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive.
+
+Review 6 for Dr. José Martínez Díaz, Pathology, Madrid
+Rating: 3/10
+Clinic visited: Centro Médico Chamberí
+Description: The prescription from Dr. José Martínez Díaz was not the one we discussed, and I only noticed when I got home. Dr. José Martínez Díaz was never available to talk about my result, and the front desk repeated that I should ask my referring physician.
+
+Review 7 for Dr. José Martínez Díaz, Pathology, Madrid
+Rating: 5/10
+Clinic visited: Centro Médico Chamberí
+Description: Dr. José Martínez Díaz answered my questions kindly, though the call back took three days. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. José Martínez Díaz, Pathology, Madrid
+Rating: 5/10
+Clinic visited: Centro Médico Chamberí
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 9 for Dr. José Martínez Díaz, Pathology, Madrid
+Rating: 5/10
+Clinic visited: Centro Médico Chamberí
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Good bedside manner from Dr. José Martínez Díaz, but the parking near Centro Médico Chamberí is limited and I had to circle for fifteen minutes.
+
+Review 10 for Dr. José Martínez Díaz, Pathology, Madrid
+Rating: 6/10
+Clinic visited: Centro Médico Chamberí
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Helpful in clarifying a borderline result, though Dr. José Martínez Díaz gave little guidance about whether to repeat it.
+
+Review 11 for Dr. José Martínez Díaz, Pathology, Madrid
+Rating: 5/10
+Clinic visited: Centro Médico Chamberí
+Description: Dr. José Martínez Díaz was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 12 for Dr. José Martínez Díaz, Pathology, Madrid
+Rating: 4/10
+Clinic visited: Centro Médico Chamberí
+Description: The report was handed over by Dr. José Martínez Díaz with no explanation, and I left frightened and confused about the terminology. The visit felt rushed, and Dr. José Martínez Díaz was already halfway out the door when I started to describe my second symptom.
+
+Overall rating for Dr. José Martínez Díaz, Pathology, Madrid: 5.00/10 from 12 reviews

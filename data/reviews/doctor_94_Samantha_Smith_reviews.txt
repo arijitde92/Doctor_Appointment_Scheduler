@@ -1,0 +1,59 @@
+Doctor: Dr. Samantha Smith
+Doctor ID: 94
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 30
+City: Chicago, USA
+Clinics: Lakeshore Internal Medicine (clinic ID 15)
+
+Review 1 for Dr. Samantha Smith, Pulmonology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 2 for Dr. Samantha Smith, Pulmonology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: I always leave Dr. Samantha Smith's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 3 for Dr. Samantha Smith, Pulmonology, Chicago
+Rating: 9/10
+Clinic visited: Lakeshore Internal Medicine
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. The spirometry test was explained step by step, and Dr. Samantha Smith put the results in context with a clear picture of my lung function.
+
+Review 4 for Dr. Samantha Smith, Pulmonology, Chicago
+Rating: 7/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Helpful and honest about my prognosis, Dr. Samantha Smith could still have given me more written material to take home. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Samantha Smith, Pulmonology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Clear, honest answers from Dr. Samantha Smith about my shortness of breath, and no unnecessary tests were ordered.
+
+Review 6 for Dr. Samantha Smith, Pulmonology, Chicago
+Rating: 5/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 7 for Dr. Samantha Smith, Pulmonology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Chicago. A translator was arranged for my mother without us asking twice, and Dr. Samantha Smith spoke directly to her throughout. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Samantha Smith, Pulmonology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 9 for Dr. Samantha Smith, Pulmonology, Chicago
+Rating: 6/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Booking was easy online, but the confirmation email contained the wrong address for Lakeshore Internal Medicine. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Samantha Smith, Pulmonology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan.
+
+Overall rating for Dr. Samantha Smith, Pulmonology, Chicago: 7.50/10 from 10 reviews

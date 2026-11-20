@@ -1,0 +1,59 @@
+Doctor: Dr. Priska Perret
+Doctor ID: 1666
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 22
+City: Basel, Switzerland
+Clinics: Gesundheitszentrum Clara (clinic ID 217)
+
+Review 1 for Dr. Priska Perret, Orthopedic, Basel
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Priska Perret, Orthopedic, Basel
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 3 for Dr. Priska Perret, Orthopedic, Basel
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Clara
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 4 for Dr. Priska Perret, Orthopedic, Basel
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Clara
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 5 for Dr. Priska Perret, Orthopedic, Basel
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Clara
+Description: I liked the advice I got from Dr. Priska Perret, but I would have liked more time to ask follow-up questions before the visit ended. Dr. Priska Perret explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 6 for Dr. Priska Perret, Orthopedic, Basel
+Rating: 6/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Good bedside manner from Dr. Priska Perret, but the parking near Gesundheitszentrum Clara is limited and I had to circle for fifteen minutes. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 7 for Dr. Priska Perret, Orthopedic, Basel
+Rating: 5/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Priska Perret, Orthopedic, Basel
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 9 for Dr. Priska Perret, Orthopedic, Basel
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Clear aftercare instructions from Dr. Priska Perret and a direct number to call if something felt wrong after my surgery. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I will be coming back for all my future check-ups.
+
+Review 10 for Dr. Priska Perret, Orthopedic, Basel
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Clara
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Priska Perret, Orthopedic, Basel: 7.30/10 from 10 reviews

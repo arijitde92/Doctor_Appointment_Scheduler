@@ -1,0 +1,64 @@
+Doctor: Dr. Zubair Khan
+Doctor ID: 6247
+Specialization: General
+Gender: Male
+Years of experience: 4
+City: Doha, Qatar
+Clinics: Muaither Health Practice (clinic ID 808); Souq Waqif Wellness Clinic (clinic ID 809)
+
+Review 1 for Dr. Zubair Khan, General, Doha
+Rating: 7/10
+Clinic visited: Muaither Health Practice
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Zubair Khan, General, Doha
+Rating: 6/10
+Clinic visited: Muaither Health Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Zubair Khan, General, Doha
+Rating: 9/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Zubair Khan, General, Doha
+Rating: 8/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: As a new patient in Doha, I felt welcomed at Souq Waqif Wellness Clinic, and my whole history was reviewed in one relaxed visit. Even the billing team was helpful, and a mistake on my statement was corrected within a day. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Zubair Khan, General, Doha
+Rating: 8/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Managing my type 2 diabetes with Dr. Zubair Khan has been steady and practical, with quarterly blood sugar reviews and no lectures. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Zubair Khan, General, Doha
+Rating: 8/10
+Clinic visited: Muaither Health Practice
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 7 for Dr. Zubair Khan, General, Doha
+Rating: 5/10
+Clinic visited: Muaither Health Practice
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 8 for Dr. Zubair Khan, General, Doha
+Rating: 6/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Souq Waqif Wellness Clinic were inconsistent. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Zubair Khan, General, Doha
+Rating: 9/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: Getting to Souq Waqif Wellness Clinic from across Doha was easy, and the same-week appointment saved me an urgent care trip. Dr. Zubair Khan used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 10 for Dr. Zubair Khan, General, Doha
+Rating: 10/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: Cholesterol results were explained by Dr. Zubair Khan with a simple chart, and we agreed on a plan I could realistically follow. I appreciated that he offered more than one option and let me choose what suited my life. I feel lucky to have found this practice in my area.
+
+Review 11 for Dr. Zubair Khan, General, Doha
+Rating: 5/10
+Clinic visited: Souq Waqif Wellness Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Overall rating for Dr. Zubair Khan, General, Doha: 7.36/10 from 11 reviews

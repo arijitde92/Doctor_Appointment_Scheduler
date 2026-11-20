@@ -1,0 +1,54 @@
+Doctor: Dr. Chin Jia Hui
+Doctor ID: 4619
+Specialization: General
+Gender: Female
+Years of experience: 14
+City: George Town, Malaysia
+Clinics: Pusat Perubatan Cahaya (clinic ID 596)
+
+Review 1 for Dr. Chin Jia Hui, General, George Town
+Rating: 6/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: Dr. Chin Jia Hui is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Chin Jia Hui, General, George Town
+Rating: 9/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Chin Jia Hui, General, George Town
+Rating: 8/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: I went in with months of tiredness, and Dr. Chin Jia Hui ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 4 for Dr. Chin Jia Hui, General, George Town
+Rating: 7/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Chin Jia Hui, General, George Town
+Rating: 5/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 6 for Dr. Chin Jia Hui, General, George Town
+Rating: 5/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: Dr. Chin Jia Hui was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Pusat Perubatan Cahaya were inconsistent. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Chin Jia Hui, General, George Town
+Rating: 6/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Chin Jia Hui, General, George Town
+Rating: 4/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 9 for Dr. Chin Jia Hui, General, George Town
+Rating: 2/10
+Clinic visited: Pusat Perubatan Cahaya
+Description: Dr. Chin Jia Hui seemed distracted by the computer screen throughout and missed that I had mentioned chest tightness twice. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them.
+
+Overall rating for Dr. Chin Jia Hui, General, George Town: 5.78/10 from 9 reviews

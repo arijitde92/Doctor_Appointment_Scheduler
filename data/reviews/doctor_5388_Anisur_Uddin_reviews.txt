@@ -1,0 +1,69 @@
+Doctor: Dr. Anisur Uddin
+Doctor ID: 5388
+Specialization: Psychology
+Gender: Male
+Years of experience: 2
+City: Chittagong, Bangladesh
+Clinics: Khulshi Care Medical Centre (clinic ID 696); Bandar Nagar Polyclinic (clinic ID 697); Panchlaish Health Point (clinic ID 698)
+
+Review 1 for Dr. Anisur Uddin, Psychology, Chittagong
+Rating: 7/10
+Clinic visited: Khulshi Care Medical Centre
+Description: Dr. Anisur Uddin listens well, though some sessions felt like a recap of the previous one without much new direction. The treatment plan from Dr. Anisur Uddin made sense, but I wished it had been written down for me to take away. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Anisur Uddin, Psychology, Chittagong
+Rating: 6/10
+Clinic visited: Bandar Nagar Polyclinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 3 for Dr. Anisur Uddin, Psychology, Chittagong
+Rating: 7/10
+Clinic visited: Panchlaish Health Point
+Description: Dr. Anisur Uddin was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Anisur Uddin, Psychology, Chittagong
+Rating: 8/10
+Clinic visited: Khulshi Care Medical Centre
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 5 for Dr. Anisur Uddin, Psychology, Chittagong
+Rating: 5/10
+Clinic visited: Panchlaish Health Point
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. The first assessment was thorough, but I waited almost three weeks for a follow-up slot. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Anisur Uddin, Psychology, Chittagong
+Rating: 4/10
+Clinic visited: Khulshi Care Medical Centre
+Description: I felt interrupted by Dr. Anisur Uddin several times while describing my situation and left without feeling heard.
+
+Review 7 for Dr. Anisur Uddin, Psychology, Chittagong
+Rating: 7/10
+Clinic visited: Khulshi Care Medical Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Anisur Uddin, Psychology, Chittagong
+Rating: 5/10
+Clinic visited: Panchlaish Health Point
+Description: Dr. Anisur Uddin was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 9 for Dr. Anisur Uddin, Psychology, Chittagong
+Rating: 7/10
+Clinic visited: Khulshi Care Medical Centre
+Description: My trauma work felt well paced, although the schedule changed several times at Khulshi Care Medical Centre.
+
+Review 10 for Dr. Anisur Uddin, Psychology, Chittagong
+Rating: 7/10
+Clinic visited: Panchlaish Health Point
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 11 for Dr. Anisur Uddin, Psychology, Chittagong
+Rating: 6/10
+Clinic visited: Khulshi Care Medical Centre
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 12 for Dr. Anisur Uddin, Psychology, Chittagong
+Rating: 7/10
+Clinic visited: Khulshi Care Medical Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Insightful and kind, though progress with Dr. Anisur Uddin felt slow, and I wished for more structured homework between sessions.
+
+Overall rating for Dr. Anisur Uddin, Psychology, Chittagong: 6.33/10 from 12 reviews

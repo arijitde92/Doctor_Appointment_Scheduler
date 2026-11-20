@@ -1,0 +1,54 @@
+Doctor: Dr. Manuel Rojas
+Doctor ID: 944
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 13
+City: Cusco, Peru
+Clinics: Policlínica Collasuyo (clinic ID 123)
+
+Review 1 for Dr. Manuel Rojas, Gastroenterology, Cusco
+Rating: 8/10
+Clinic visited: Policlínica Collasuyo
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 2 for Dr. Manuel Rojas, Gastroenterology, Cusco
+Rating: 10/10
+Clinic visited: Policlínica Collasuyo
+Description: I get regular check-ups for my Crohn's disease, and Dr. Manuel Rojas adjusts my treatment carefully and always explains why.
+
+Review 3 for Dr. Manuel Rojas, Gastroenterology, Cusco
+Rating: 10/10
+Clinic visited: Policlínica Collasuyo
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 4 for Dr. Manuel Rojas, Gastroenterology, Cusco
+Rating: 10/10
+Clinic visited: Policlínica Collasuyo
+Description: The waiting room at Policlínica Collasuyo was clean, quiet and comfortable, with enough seating and water available. Results of the biopsy were shared within a week, with a phone call to walk me through them. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Manuel Rojas, Gastroenterology, Cusco
+Rating: 9/10
+Clinic visited: Policlínica Collasuyo
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I was nervous about my screening, but the team at Policlínica Collasuyo made me feel at ease, and I was home within hours.
+
+Review 6 for Dr. Manuel Rojas, Gastroenterology, Cusco
+Rating: 10/10
+Clinic visited: Policlínica Collasuyo
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 7 for Dr. Manuel Rojas, Gastroenterology, Cusco
+Rating: 9/10
+Clinic visited: Policlínica Collasuyo
+Description: The receptionist at Policlínica Collasuyo remembered my name and had my forms ready, so check-in took less than a minute. Getting to Policlínica Collasuyo in Cusco was simple, and the day-procedure unit was calm and efficient.
+
+Review 8 for Dr. Manuel Rojas, Gastroenterology, Cusco
+Rating: 9/10
+Clinic visited: Policlínica Collasuyo
+Description: Clear explanation from Dr. Manuel Rojas of fatty liver and exactly which lifestyle changes would make a measurable difference. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. My whole family is switching over after seeing how good the care was.
+
+Review 9 for Dr. Manuel Rojas, Gastroenterology, Cusco
+Rating: 10/10
+Clinic visited: Policlínica Collasuyo
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Manuel Rojas, Gastroenterology, Cusco: 9.44/10 from 9 reviews

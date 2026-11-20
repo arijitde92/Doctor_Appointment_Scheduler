@@ -1,0 +1,69 @@
+Doctor: Dr. Jesper Andersen
+Doctor ID: 2393
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 18
+City: Odense, Denmark
+Clinics: Lægehuset Vesterbro Odense (clinic ID 313); Klinik Overgade Plus (clinic ID 314)
+
+Review 1 for Dr. Jesper Andersen, Psychiatry, Odense
+Rating: 7/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: The treatment plan from Dr. Jesper Andersen made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Jesper Andersen, Psychiatry, Odense
+Rating: 5/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: Dr. Jesper Andersen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Jesper Andersen, Psychiatry, Odense
+Rating: 7/10
+Clinic visited: Klinik Overgade Plus
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Jesper Andersen, Psychiatry, Odense
+Rating: 5/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Jesper Andersen, Psychiatry, Odense
+Rating: 5/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Booking was easy online, but the confirmation email contained the wrong address for Lægehuset Vesterbro Odense.
+
+Review 6 for Dr. Jesper Andersen, Psychiatry, Odense
+Rating: 6/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Helpful diagnosis, though the billing for my first long assessment was confusing. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Jesper Andersen, Psychiatry, Odense
+Rating: 8/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: Dr. Jesper Andersen looked me in the eye, listened to the whole story and only then started typing. Telehealth follow-ups at Lægehuset Vesterbro Odense are punctual and calm, and refills are dealt with quickly.
+
+Review 8 for Dr. Jesper Andersen, Psychiatry, Odense
+Rating: 6/10
+Clinic visited: Klinik Overgade Plus
+Description: Quick appointment and a fair price in Odense, but the staff seemed overwhelmed and a bit curt on the phone. Good listener, yet the refill process at Klinik Overgade Plus is slow and requires several phone calls.
+
+Review 9 for Dr. Jesper Andersen, Psychiatry, Odense
+Rating: 6/10
+Clinic visited: Klinik Overgade Plus
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 10 for Dr. Jesper Andersen, Psychiatry, Odense
+Rating: 7/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: Dr. Jesper Andersen is knowledgeable, though I waited several weeks for my first appointment. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 11 for Dr. Jesper Andersen, Psychiatry, Odense
+Rating: 7/10
+Clinic visited: Klinik Overgade Plus
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 12 for Dr. Jesper Andersen, Psychiatry, Odense
+Rating: 7/10
+Clinic visited: Klinik Overgade Plus
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Jesper Andersen, Psychiatry, Odense: 6.33/10 from 12 reviews

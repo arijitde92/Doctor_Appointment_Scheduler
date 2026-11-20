@@ -1,0 +1,49 @@
+Doctor: Dr. Ahmad Sudirman
+Doctor ID: 5152
+Specialization: Radiology
+Gender: Male
+Years of experience: 3
+City: Jakarta, Indonesia
+Clinics: Klinik Pratama Sehat Sentosa (clinic ID 665)
+
+Review 1 for Dr. Ahmad Sudirman, Radiology, Jakarta
+Rating: 4/10
+Clinic visited: Klinik Pratama Sehat Sentosa
+Description: Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. Dr. Ahmad Sudirman was never available to discuss my findings, and the report left me more confused than before.
+
+Review 2 for Dr. Ahmad Sudirman, Radiology, Jakarta
+Rating: 8/10
+Clinic visited: Klinik Pratama Sehat Sentosa
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Ahmad Sudirman, Radiology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Pratama Sehat Sentosa
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Ahmad Sudirman, Radiology, Jakarta
+Rating: 5/10
+Clinic visited: Klinik Pratama Sehat Sentosa
+Description: The report from Dr. Ahmad Sudirman was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 5 for Dr. Ahmad Sudirman, Radiology, Jakarta
+Rating: 6/10
+Clinic visited: Klinik Pratama Sehat Sentosa
+Description: Dr. Ahmad Sudirman answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 6 for Dr. Ahmad Sudirman, Radiology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Pratama Sehat Sentosa
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Ahmad Sudirman, Radiology, Jakarta
+Rating: 5/10
+Clinic visited: Klinik Pratama Sehat Sentosa
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 8 for Dr. Ahmad Sudirman, Radiology, Jakarta
+Rating: 7/10
+Clinic visited: Klinik Pratama Sehat Sentosa
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Dr. Ahmad Sudirman was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Ahmad Sudirman, Radiology, Jakarta: 6.12/10 from 8 reviews

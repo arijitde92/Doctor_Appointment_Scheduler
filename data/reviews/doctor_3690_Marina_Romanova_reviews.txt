@@ -1,0 +1,69 @@
+Doctor: Dr. Marina Romanova
+Doctor ID: 3690
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 24
+City: Kazan, Russia
+Clinics: Klinika Zdorovye Kazani (clinic ID 476)
+
+Review 1 for Dr. Marina Romanova, Pediatrics, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: The growth chart review was detailed, and I appreciated that Dr. Marina Romanova talked to my child as well as to me.
+
+Review 2 for Dr. Marina Romanova, Pediatrics, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Paperwork at Klinika Zdorovye Kazani was kept to a minimum, and the staff helped me complete the insurance form. Vaccination visits with Dr. Marina Romanova are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 3 for Dr. Marina Romanova, Pediatrics, Kazan
+Rating: 7/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 4 for Dr. Marina Romanova, Pediatrics, Kazan
+Rating: 5/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 5 for Dr. Marina Romanova, Pediatrics, Kazan
+Rating: 7/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Marina Romanova, Pediatrics, Kazan
+Rating: 7/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 7 for Dr. Marina Romanova, Pediatrics, Kazan
+Rating: 5/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Marina Romanova, Pediatrics, Kazan
+Rating: 6/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: The treatment plan from Dr. Marina Romanova made sense, but I wished it had been written down for me to take away. Dr. Marina Romanova is thorough with exams, but the after-hours phone line at Klinika Zdorovye Kazani is hard to reach.
+
+Review 9 for Dr. Marina Romanova, Pediatrics, Kazan
+Rating: 7/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Clear explanations, but the follow-up call took a week longer than I had been told. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Marina Romanova, Pediatrics, Kazan
+Rating: 7/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: Caring and gentle with my child, Dr. Marina Romanova nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 11 for Dr. Marina Romanova, Pediatrics, Kazan
+Rating: 8/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: I was given a printed summary of the visit, which I shared with my family at home. My toddler was terrified of doctors, but Dr. Marina Romanova sat on the floor, played with a stuffed toy and examined everything without a single tear.
+
+Review 12 for Dr. Marina Romanova, Pediatrics, Kazan
+Rating: 5/10
+Clinic visited: Klinika Zdorovye Kazani
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Marina Romanova, Pediatrics, Kazan: 6.67/10 from 12 reviews

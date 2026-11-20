@@ -1,0 +1,69 @@
+Doctor: Dr. Jordi Navarro Ramos
+Doctor ID: 1398
+Specialization: Cardiology
+Gender: Male
+Years of experience: 16
+City: Madrid, Spain
+Clinics: Policlínica del Retiro (clinic ID 182); Centro de Salud Argüelles (clinic ID 184)
+
+Review 1 for Dr. Jordi Navarro Ramos, Cardiology, Madrid
+Rating: 6/10
+Clinic visited: Policlínica del Retiro
+Description: Helpful with my cholesterol, Dr. Jordi Navarro Ramos still gave dietary advice that was a little generic. Quick appointment and a fair price in Madrid, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Jordi Navarro Ramos, Cardiology, Madrid
+Rating: 6/10
+Clinic visited: Policlínica del Retiro
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Jordi Navarro Ramos, Cardiology, Madrid
+Rating: 8/10
+Clinic visited: Policlínica del Retiro
+Description: My atrial fibrillation is well managed by Dr. Jordi Navarro Ramos, and I know exactly what symptoms mean I should call.
+
+Review 4 for Dr. Jordi Navarro Ramos, Cardiology, Madrid
+Rating: 8/10
+Clinic visited: Centro de Salud Argüelles
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. At my visit, Dr. Jordi Navarro Ramos took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 5 for Dr. Jordi Navarro Ramos, Cardiology, Madrid
+Rating: 7/10
+Clinic visited: Centro de Salud Argüelles
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Jordi Navarro Ramos, Cardiology, Madrid
+Rating: 10/10
+Clinic visited: Policlínica del Retiro
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Jordi Navarro Ramos, Cardiology, Madrid
+Rating: 6/10
+Clinic visited: Centro de Salud Argüelles
+Description: Dr. Jordi Navarro Ramos adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 8 for Dr. Jordi Navarro Ramos, Cardiology, Madrid
+Rating: 5/10
+Clinic visited: Centro de Salud Argüelles
+Description: Great care in the visit itself, but the billing for the tests at Centro de Salud Argüelles was confusing.
+
+Review 9 for Dr. Jordi Navarro Ramos, Cardiology, Madrid
+Rating: 6/10
+Clinic visited: Centro de Salud Argüelles
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 10 for Dr. Jordi Navarro Ramos, Cardiology, Madrid
+Rating: 6/10
+Clinic visited: Centro de Salud Argüelles
+Description: Good bedside manner from Dr. Jordi Navarro Ramos, but the parking near Centro de Salud Argüelles is limited and I had to circle for fifteen minutes. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 11 for Dr. Jordi Navarro Ramos, Cardiology, Madrid
+Rating: 10/10
+Clinic visited: Policlínica del Retiro
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 12 for Dr. Jordi Navarro Ramos, Cardiology, Madrid
+Rating: 5/10
+Clinic visited: Policlínica del Retiro
+Description: I liked the advice I got from Dr. Jordi Navarro Ramos, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Jordi Navarro Ramos, Cardiology, Madrid: 6.92/10 from 12 reviews

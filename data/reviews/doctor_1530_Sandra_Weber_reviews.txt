@@ -1,0 +1,49 @@
+Doctor: Dr. Sandra Weber
+Doctor ID: 1530
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 25
+City: Frankfurt, Germany
+Clinics: Praxiszentrum Zeilblick (clinic ID 200); Ärztehaus Bornheim Mitte (clinic ID 201); Gesundheitspraxis Bockenheimer Warte (clinic ID 203)
+
+Review 1 for Dr. Sandra Weber, Pediatrics, Frankfurt
+Rating: 7/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: Dr. Sandra Weber is thorough with exams, but the after-hours phone line at Praxiszentrum Zeilblick is hard to reach. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Sandra Weber, Pediatrics, Frankfurt
+Rating: 7/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 3 for Dr. Sandra Weber, Pediatrics, Frankfurt
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: My teenager actually spoke up during the visit, and Dr. Sandra Weber handled sensitive topics with respect.
+
+Review 4 for Dr. Sandra Weber, Pediatrics, Frankfurt
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Dr. Sandra Weber used a calm, steady voice that settled my nerves before a stressful procedure. My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 5 for Dr. Sandra Weber, Pediatrics, Frankfurt
+Rating: 8/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: Sensitive questions were handled by Dr. Sandra Weber with discretion and without a hint of judgment.
+
+Review 6 for Dr. Sandra Weber, Pediatrics, Frankfurt
+Rating: 10/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: The growth chart review was detailed, and I appreciated that Dr. Sandra Weber talked to my child as well as to me. A translator was arranged for my mother without us asking twice, and Dr. Sandra Weber spoke directly to her throughout.
+
+Review 7 for Dr. Sandra Weber, Pediatrics, Frankfurt
+Rating: 10/10
+Clinic visited: Praxiszentrum Zeilblick
+Description: I came away understanding my condition better than I have in years of previous appointments. Vaccination visits with Dr. Sandra Weber are painless and well explained, and my questions about the schedule were answered without any pressure. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Sandra Weber, Pediatrics, Frankfurt
+Rating: 10/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. My test results arrived in the portal within two days, together with a short note that made sense. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Sandra Weber, Pediatrics, Frankfurt: 8.75/10 from 8 reviews

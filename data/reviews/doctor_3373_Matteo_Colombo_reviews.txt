@@ -1,0 +1,49 @@
+Doctor: Dr. Matteo Colombo
+Doctor ID: 3373
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 11
+City: Florence, Italy
+Clinics: Studio Medico Oltrarno (clinic ID 437); Clinica del Giglio (clinic ID 438)
+
+Review 1 for Dr. Matteo Colombo, Pediatrics, Florence
+Rating: 7/10
+Clinic visited: Clinica del Giglio
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Matteo Colombo, Pediatrics, Florence
+Rating: 7/10
+Clinic visited: Clinica del Giglio
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Dr. Matteo Colombo was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Matteo Colombo, Pediatrics, Florence
+Rating: 8/10
+Clinic visited: Studio Medico Oltrarno
+Description: Dr. Matteo Colombo double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Matteo Colombo, Pediatrics, Florence
+Rating: 8/10
+Clinic visited: Studio Medico Oltrarno
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. My child's asthma action plan from Dr. Matteo Colombo was written out clearly so that school staff could follow it too. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Matteo Colombo, Pediatrics, Florence
+Rating: 6/10
+Clinic visited: Studio Medico Oltrarno
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Matteo Colombo, Pediatrics, Florence
+Rating: 7/10
+Clinic visited: Clinica del Giglio
+Description: Caring and gentle with my child, Dr. Matteo Colombo nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 7 for Dr. Matteo Colombo, Pediatrics, Florence
+Rating: 10/10
+Clinic visited: Clinica del Giglio
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 8 for Dr. Matteo Colombo, Pediatrics, Florence
+Rating: 8/10
+Clinic visited: Clinica del Giglio
+Description: Kind to anxious parents, Dr. Matteo Colombo never showed a hint of impatience when I felt silly asking about a rash. The waiting room at Clinica del Giglio was clean, quiet and comfortable, with enough seating and water available. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Matteo Colombo, Pediatrics, Florence: 7.62/10 from 8 reviews

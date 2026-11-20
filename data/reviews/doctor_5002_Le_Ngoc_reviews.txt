@@ -1,0 +1,59 @@
+Doctor: Dr. Le Ngoc
+Doctor ID: 5002
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 27
+City: Hanoi, Vietnam
+Clinics: Phong Kham Binh An (clinic ID 646)
+
+Review 1 for Dr. Le Ngoc, Gastroenterology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Binh An
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Review 2 for Dr. Le Ngoc, Gastroenterology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Binh An
+Description: After years of undiagnosed stomach pain, she identified celiac disease with the right blood tests and a careful plan. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Le Ngoc, Gastroenterology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Binh An
+Description: Knowledgeable about my reflux, Dr. Le Ngoc still gave diet advice that felt generic and not tailored to my habits.
+
+Review 4 for Dr. Le Ngoc, Gastroenterology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Binh An
+Description: Good bedside manner from Dr. Le Ngoc, but the parking near Phong Kham Binh An is limited and I had to circle for fifteen minutes. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 5 for Dr. Le Ngoc, Gastroenterology, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham Binh An
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 6 for Dr. Le Ngoc, Gastroenterology, Hanoi
+Rating: 10/10
+Clinic visited: Phong Kham Binh An
+Description: I was nervous about my screening, but the team at Phong Kham Binh An made me feel at ease, and I was home within hours. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Le Ngoc, Gastroenterology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Binh An
+Description: Getting to Phong Kham Binh An in Hanoi was simple, and the day-procedure unit was calm and efficient. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 8 for Dr. Le Ngoc, Gastroenterology, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham Binh An
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Le Ngoc, Gastroenterology, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Binh An
+Description: I get regular check-ups for my Crohn's disease, and Dr. Le Ngoc adjusts my treatment carefully and always explains why. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 10 for Dr. Le Ngoc, Gastroenterology, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Binh An
+Description: Dr. Le Ngoc was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Le Ngoc, Gastroenterology, Hanoi: 7.80/10 from 10 reviews

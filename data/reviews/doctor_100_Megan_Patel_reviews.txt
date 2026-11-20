@@ -1,0 +1,49 @@
+Doctor: Dr. Megan Patel
+Doctor ID: 100
+Specialization: Psychology
+Gender: Female
+Years of experience: 8
+City: Chicago, USA
+Clinics: Lakeshore Internal Medicine (clinic ID 15)
+
+Review 1 for Dr. Megan Patel, Psychology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: The office in Chicago is quiet and private, and the receptionist never mentions anything in front of other patients.
+
+Review 2 for Dr. Megan Patel, Psychology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Megan Patel gave me practical tools I still use. Paperwork at Lakeshore Internal Medicine was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 3 for Dr. Megan Patel, Psychology, Chicago
+Rating: 9/10
+Clinic visited: Lakeshore Internal Medicine
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Dr. Megan Patel adapted the approach when the first method did not suit me, and that flexibility made all the difference. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Megan Patel, Psychology, Chicago
+Rating: 9/10
+Clinic visited: Lakeshore Internal Medicine
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Megan Patel designed around my actual job.
+
+Review 5 for Dr. Megan Patel, Psychology, Chicago
+Rating: 8/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Dr. Megan Patel looked me in the eye, listened to the whole story and only then started typing.
+
+Review 6 for Dr. Megan Patel, Psychology, Chicago
+Rating: 6/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 7 for Dr. Megan Patel, Psychology, Chicago
+Rating: 9/10
+Clinic visited: Lakeshore Internal Medicine
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 8 for Dr. Megan Patel, Psychology, Chicago
+Rating: 10/10
+Clinic visited: Lakeshore Internal Medicine
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Megan Patel, Psychology, Chicago: 8.38/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Daniele Roth
+Doctor ID: 1746
+Specialization: General
+Gender: Male
+Years of experience: 17
+City: Geneva, Switzerland
+Clinics: Clinique Santé Châtelaine (clinic ID 227)
+
+Review 1 for Dr. Daniele Roth, General, Geneva
+Rating: 7/10
+Clinic visited: Clinique Santé Châtelaine
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Clinique Santé Châtelaine were inconsistent.
+
+Review 2 for Dr. Daniele Roth, General, Geneva
+Rating: 5/10
+Clinic visited: Clinique Santé Châtelaine
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Daniele Roth, General, Geneva
+Rating: 8/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Getting to Clinique Santé Châtelaine by public transport in Geneva was easy, and there is a step-free entrance for wheelchairs.
+
+Review 4 for Dr. Daniele Roth, General, Geneva
+Rating: 7/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Dr. Daniele Roth was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Daniele Roth, General, Geneva
+Rating: 4/10
+Clinic visited: Clinique Santé Châtelaine
+Description: My questions were answered by Dr. Daniele Roth with short, vague replies, and I left without a clear plan. I left disappointed and will take my business to another clinic.
+
+Review 6 for Dr. Daniele Roth, General, Geneva
+Rating: 9/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Dr. Daniele Roth spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. The nurse was friendly and efficient, and the whole visit with Dr. Daniele Roth felt well organized from start to finish.
+
+Review 7 for Dr. Daniele Roth, General, Geneva
+Rating: 8/10
+Clinic visited: Clinique Santé Châtelaine
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. At my visit, Dr. Daniele Roth took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 8 for Dr. Daniele Roth, General, Geneva
+Rating: 5/10
+Clinic visited: Clinique Santé Châtelaine
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 9 for Dr. Daniele Roth, General, Geneva
+Rating: 6/10
+Clinic visited: Clinique Santé Châtelaine
+Description: Dr. Daniele Roth is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Helpful visit overall, although I only found out about an extra charge after I had paid. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Daniele Roth, General, Geneva: 6.56/10 from 9 reviews

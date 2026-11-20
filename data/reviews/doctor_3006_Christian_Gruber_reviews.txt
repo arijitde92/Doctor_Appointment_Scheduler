@@ -1,0 +1,49 @@
+Doctor: Dr. Christian Gruber
+Doctor ID: 3006
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 25
+City: Vienna, Austria
+Clinics: Praxiszentrum Stephansblick (clinic ID 391)
+
+Review 1 for Dr. Christian Gruber, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Christian Gruber, Pediatrics, Vienna
+Rating: 6/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Dr. Christian Gruber is thorough with exams, but the after-hours phone line at Praxiszentrum Stephansblick is hard to reach.
+
+Review 3 for Dr. Christian Gruber, Pediatrics, Vienna
+Rating: 6/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Christian Gruber, Pediatrics, Vienna
+Rating: 8/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice.
+
+Review 5 for Dr. Christian Gruber, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Dr. Christian Gruber was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 6 for Dr. Christian Gruber, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 7 for Dr. Christian Gruber, Pediatrics, Vienna
+Rating: 8/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. Dr. Christian Gruber drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 8 for Dr. Christian Gruber, Pediatrics, Vienna
+Rating: 7/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Overall rating for Dr. Christian Gruber, Pediatrics, Vienna: 7.00/10 from 8 reviews

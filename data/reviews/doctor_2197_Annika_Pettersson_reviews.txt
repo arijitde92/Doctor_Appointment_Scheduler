@@ -1,0 +1,49 @@
+Doctor: Dr. Annika Pettersson
+Doctor ID: 2197
+Specialization: Pathology
+Gender: Female
+Years of experience: 12
+City: Stockholm, Sweden
+Clinics: Medicinskt Centrum Sveavägen (clinic ID 287); Läkarmottagningen Odenplan Park (clinic ID 289)
+
+Review 1 for Dr. Annika Pettersson, Pathology, Stockholm
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Allergy panel results were explained in detail by Dr. Annika Pettersson, with a note on which results mattered clinically and which did not.
+
+Review 2 for Dr. Annika Pettersson, Pathology, Stockholm
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Annika Pettersson, Pathology, Stockholm
+Rating: 8/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: The lab at Läkarmottagningen Odenplan Park had a quick, friendly blood draw and the phlebotomist found my vein on the first try. I was called in within five minutes of my appointment time at Läkarmottagningen Odenplan Park, which is rare and much appreciated.
+
+Review 4 for Dr. Annika Pettersson, Pathology, Stockholm
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I got what I needed, but the next available appointment was three weeks away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Annika Pettersson, Pathology, Stockholm
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Sveavägen
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I liked the advice I got from Dr. Annika Pettersson, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Annika Pettersson, Pathology, Stockholm
+Rating: 7/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The blood draw was painless, but the waiting area at Läkarmottagningen Odenplan Park was crowded in the early morning.
+
+Review 7 for Dr. Annika Pettersson, Pathology, Stockholm
+Rating: 4/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive. The waiting room at Läkarmottagningen Odenplan Park was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 8 for Dr. Annika Pettersson, Pathology, Stockholm
+Rating: 6/10
+Clinic visited: Läkarmottagningen Odenplan Park
+Description: Dr. Annika Pettersson answered my questions kindly, though the call back took three days.
+
+Overall rating for Dr. Annika Pettersson, Pathology, Stockholm: 6.62/10 from 8 reviews

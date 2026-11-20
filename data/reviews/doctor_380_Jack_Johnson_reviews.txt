@@ -1,0 +1,54 @@
+Doctor: Dr. Jack Johnson
+Doctor ID: 380
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 5
+City: Vancouver, Canada
+Clinics: South Granville Medical Group (clinic ID 53)
+
+Review 1 for Dr. Jack Johnson, Pulmonology, Vancouver
+Rating: 5/10
+Clinic visited: South Granville Medical Group
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Good bedside manner from Dr. Jack Johnson, but the parking near South Granville Medical Group is limited and I had to circle for fifteen minutes. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Jack Johnson, Pulmonology, Vancouver
+Rating: 6/10
+Clinic visited: South Granville Medical Group
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Clear explanations, but the follow-up call took a week longer than I had been told. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Jack Johnson, Pulmonology, Vancouver
+Rating: 8/10
+Clinic visited: South Granville Medical Group
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. My oxygen levels are monitored carefully at South Granville Medical Group, and the home equipment was arranged without any hassle.
+
+Review 4 for Dr. Jack Johnson, Pulmonology, Vancouver
+Rating: 7/10
+Clinic visited: South Granville Medical Group
+Description: I got what I needed, but the next available appointment was three weeks away. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 5 for Dr. Jack Johnson, Pulmonology, Vancouver
+Rating: 10/10
+Clinic visited: South Granville Medical Group
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 6 for Dr. Jack Johnson, Pulmonology, Vancouver
+Rating: 7/10
+Clinic visited: South Granville Medical Group
+Description: Helpful and honest about my prognosis, Dr. Jack Johnson could still have given me more written material to take home. Dr. Jack Johnson was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Jack Johnson, Pulmonology, Vancouver
+Rating: 5/10
+Clinic visited: South Granville Medical Group
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Jack Johnson, Pulmonology, Vancouver
+Rating: 7/10
+Clinic visited: South Granville Medical Group
+Description: Pleasant manner and careful lung exam, though the waiting time at South Granville Medical Group regularly exceeded forty minutes. Dr. Jack Johnson was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Jack Johnson, Pulmonology, Vancouver
+Rating: 5/10
+Clinic visited: South Granville Medical Group
+Description: Quick appointment and a fair price in Vancouver, but the staff seemed overwhelmed and a bit curt on the phone. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Jack Johnson, Pulmonology, Vancouver: 6.67/10 from 9 reviews

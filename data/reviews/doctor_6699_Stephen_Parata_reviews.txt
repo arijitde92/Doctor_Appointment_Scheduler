@@ -1,0 +1,59 @@
+Doctor: Dr. Stephen Parata
+Doctor ID: 6699
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 6
+City: Hamilton, New Zealand
+Clinics: Ponga Family Clinic (clinic ID 868)
+
+Review 1 for Dr. Stephen Parata, Orthopedic, Hamilton
+Rating: 4/10
+Clinic visited: Ponga Family Clinic
+Description: Dr. Stephen Parata seemed to dismiss my concerns about swelling after the operation, and I had to go elsewhere. I left disappointed and will take my business to another clinic.
+
+Review 2 for Dr. Stephen Parata, Orthopedic, Hamilton
+Rating: 6/10
+Clinic visited: Ponga Family Clinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Clear explanations, but the follow-up call took a week longer than I had been told. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Stephen Parata, Orthopedic, Hamilton
+Rating: 7/10
+Clinic visited: Ponga Family Clinic
+Description: Dr. Stephen Parata was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Stephen Parata, Orthopedic, Hamilton
+Rating: 6/10
+Clinic visited: Ponga Family Clinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 5 for Dr. Stephen Parata, Orthopedic, Hamilton
+Rating: 7/10
+Clinic visited: Ponga Family Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Stephen Parata, Orthopedic, Hamilton
+Rating: 7/10
+Clinic visited: Ponga Family Clinic
+Description: Dr. Stephen Parata explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Stephen Parata, Orthopedic, Hamilton
+Rating: 7/10
+Clinic visited: Ponga Family Clinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 8 for Dr. Stephen Parata, Orthopedic, Hamilton
+Rating: 8/10
+Clinic visited: Ponga Family Clinic
+Description: I appreciated Dr. Stephen Parata's honest comparison between injections, therapy and surgery for my hip pain. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Stephen Parata, Orthopedic, Hamilton
+Rating: 8/10
+Clinic visited: Ponga Family Clinic
+Description: Seen the same day at Ponga Family Clinic after a bad ankle sprain, with an X-ray done and a brace fitted before I left. I have no hesitation sending my own relatives here.
+
+Review 10 for Dr. Stephen Parata, Orthopedic, Hamilton
+Rating: 7/10
+Clinic visited: Ponga Family Clinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Stephen Parata, Orthopedic, Hamilton: 6.70/10 from 10 reviews

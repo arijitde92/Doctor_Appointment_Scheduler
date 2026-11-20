@@ -1,0 +1,64 @@
+Doctor: Dr. Mohammed Evans
+Doctor ID: 1053
+Specialization: Pathology
+Gender: Male
+Years of experience: 9
+City: Bristol, UK
+Clinics: Broad Street Polyclinic (clinic ID 138)
+
+Review 1 for Dr. Mohammed Evans, Pathology, Bristol
+Rating: 6/10
+Clinic visited: Broad Street Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Mohammed Evans, Pathology, Bristol
+Rating: 8/10
+Clinic visited: Broad Street Polyclinic
+Description: Allergy panel results were explained in detail by Dr. Mohammed Evans, with a note on which results mattered clinically and which did not.
+
+Review 3 for Dr. Mohammed Evans, Pathology, Bristol
+Rating: 6/10
+Clinic visited: Broad Street Polyclinic
+Description: The blood draw was painless, but the waiting area at Broad Street Polyclinic was crowded in the early morning. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 4 for Dr. Mohammed Evans, Pathology, Bristol
+Rating: 5/10
+Clinic visited: Broad Street Polyclinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Mohammed Evans, Pathology, Bristol
+Rating: 8/10
+Clinic visited: Broad Street Polyclinic
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. Dr. Mohammed Evans looked me in the eye, listened to the whole story and only then started typing.
+
+Review 6 for Dr. Mohammed Evans, Pathology, Bristol
+Rating: 7/10
+Clinic visited: Broad Street Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Mohammed Evans answered my questions kindly, though the call back took three days. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Mohammed Evans, Pathology, Bristol
+Rating: 4/10
+Clinic visited: Broad Street Polyclinic
+Description: The staff were curt and impatient when I asked how to read the reference ranges on my report.
+
+Review 8 for Dr. Mohammed Evans, Pathology, Bristol
+Rating: 6/10
+Clinic visited: Broad Street Polyclinic
+Description: Dr. Mohammed Evans was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 9 for Dr. Mohammed Evans, Pathology, Bristol
+Rating: 6/10
+Clinic visited: Broad Street Polyclinic
+Description: Helpful in clarifying a borderline result, though Dr. Mohammed Evans gave little guidance about whether to repeat it. Quick appointment and a fair price in Bristol, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 10 for Dr. Mohammed Evans, Pathology, Bristol
+Rating: 6/10
+Clinic visited: Broad Street Polyclinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 11 for Dr. Mohammed Evans, Pathology, Bristol
+Rating: 6/10
+Clinic visited: Broad Street Polyclinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Overall rating for Dr. Mohammed Evans, Pathology, Bristol: 6.18/10 from 11 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Gao Liang
+Doctor ID: 3948
+Specialization: Neurology
+Gender: Male
+Years of experience: 24
+City: Shanghai, China
+Clinics: Xujiahui Pinghe Medical Clinic (clinic ID 509)
+
+Review 1 for Dr. Gao Liang, Neurology, Shanghai
+Rating: 9/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Xujiahui Pinghe Medical Clinic. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 2 for Dr. Gao Liang, Neurology, Shanghai
+Rating: 7/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Gao Liang, Neurology, Shanghai
+Rating: 8/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: At my visit, Dr. Gao Liang took notes on my medication list, checked for interactions and explained the changes simply. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Gao Liang, Neurology, Shanghai
+Rating: 8/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Dr. Gao Liang drew a quick sketch to explain what was going on, which helped me remember it afterwards. Dr. Gao Liang took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy.
+
+Review 5 for Dr. Gao Liang, Neurology, Shanghai
+Rating: 7/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 6 for Dr. Gao Liang, Neurology, Shanghai
+Rating: 10/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 7 for Dr. Gao Liang, Neurology, Shanghai
+Rating: 8/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: I always leave Dr. Gao Liang's office with a short written summary of changes, which helps my family keep up. Everything was explained in plain English by Dr. Gao Liang, and nothing was left to guess.
+
+Review 8 for Dr. Gao Liang, Neurology, Shanghai
+Rating: 7/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Gao Liang, Neurology, Shanghai
+Rating: 9/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: After years of migraines, Dr. Gao Liang built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Gao Liang, Neurology, Shanghai: 8.11/10 from 9 reviews

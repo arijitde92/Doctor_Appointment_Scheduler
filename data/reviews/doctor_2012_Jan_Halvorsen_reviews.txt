@@ -1,0 +1,59 @@
+Doctor: Dr. Jan Halvorsen
+Doctor ID: 2012
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 3
+City: Oslo, Norway
+Clinics: Medisinsk Senter Thereses gate (clinic ID 262)
+
+Review 1 for Dr. Jan Halvorsen, Orthopedic, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Jan Halvorsen, Orthopedic, Oslo
+Rating: 6/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Jan Halvorsen, Orthopedic, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Very skilled with my knee, but Dr. Jan Halvorsen's clinic runs behind and the wait was over an hour.
+
+Review 4 for Dr. Jan Halvorsen, Orthopedic, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Dr. Jan Halvorsen explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 5 for Dr. Jan Halvorsen, Orthopedic, Oslo
+Rating: 6/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good result from my shoulder injection, although the cost was higher than the estimate I received. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Jan Halvorsen, Orthopedic, Oslo
+Rating: 6/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Jan Halvorsen, Orthopedic, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Dr. Jan Halvorsen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Jan Halvorsen, Orthopedic, Oslo
+Rating: 5/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 9 for Dr. Jan Halvorsen, Orthopedic, Oslo
+Rating: 5/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 10 for Dr. Jan Halvorsen, Orthopedic, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: I liked the advice I got from Dr. Jan Halvorsen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Jan Halvorsen, Orthopedic, Oslo: 6.30/10 from 10 reviews

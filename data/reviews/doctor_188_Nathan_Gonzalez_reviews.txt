@@ -1,0 +1,64 @@
+Doctor: Dr. Nathan Gonzalez
+Doctor ID: 188
+Specialization: General
+Gender: Male
+Years of experience: 20
+City: New York, USA
+Clinics: Midtown Family Medical Group (clinic ID 26)
+
+Review 1 for Dr. Nathan Gonzalez, General, New York
+Rating: 9/10
+Clinic visited: Midtown Family Medical Group
+Description: Dr. Nathan Gonzalez spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 2 for Dr. Nathan Gonzalez, General, New York
+Rating: 9/10
+Clinic visited: Midtown Family Medical Group
+Description: I always hear back within a day when I leave a question with the nurse at Midtown Family Medical Group, and Dr. Nathan Gonzalez follows up on lab results personally.
+
+Review 3 for Dr. Nathan Gonzalez, General, New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: Referrals from Dr. Nathan Gonzalez are handled well, but getting test results back took longer than I was told to expect.
+
+Review 4 for Dr. Nathan Gonzalez, General, New York
+Rating: 8/10
+Clinic visited: Midtown Family Medical Group
+Description: Vaccination advice from Dr. Nathan Gonzalez for my travel plans was thorough and specific to the countries I was visiting. The practice in New York is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Nathan Gonzalez, General, New York
+Rating: 10/10
+Clinic visited: Midtown Family Medical Group
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 6 for Dr. Nathan Gonzalez, General, New York
+Rating: 10/10
+Clinic visited: Midtown Family Medical Group
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. My annual check-up with Dr. Nathan Gonzalez took forty minutes, with every screening explained and nothing rushed.
+
+Review 7 for Dr. Nathan Gonzalez, General, New York
+Rating: 10/10
+Clinic visited: Midtown Family Medical Group
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Nathan Gonzalez, General, New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: Dr. Nathan Gonzalez was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 9 for Dr. Nathan Gonzalez, General, New York
+Rating: 8/10
+Clinic visited: Midtown Family Medical Group
+Description: Dr. Nathan Gonzalez double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 10 for Dr. Nathan Gonzalez, General, New York
+Rating: 8/10
+Clinic visited: Midtown Family Medical Group
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 11 for Dr. Nathan Gonzalez, General, New York
+Rating: 8/10
+Clinic visited: Midtown Family Medical Group
+Description: A same-day slot was found for me at Midtown Family Medical Group when I called with a worrying symptom.
+
+Overall rating for Dr. Nathan Gonzalez, General, New York: 8.45/10 from 11 reviews

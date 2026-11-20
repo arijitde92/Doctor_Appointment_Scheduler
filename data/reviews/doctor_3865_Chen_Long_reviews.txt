@@ -1,0 +1,49 @@
+Doctor: Dr. Chen Long
+Doctor ID: 3865
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 8
+City: Beijing, China
+Clinics: Dongdaqiao Jiahe Medical Clinic (clinic ID 499)
+
+Review 1 for Dr. Chen Long, Pediatrics, Beijing
+Rating: 5/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Chen Long, Pediatrics, Beijing
+Rating: 9/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Dr. Chen Long noticed a speech delay early and referred us to a therapist, which has made a real difference. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Chen Long, Pediatrics, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Our newborn check-ups with Dr. Chen Long were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Review 4 for Dr. Chen Long, Pediatrics, Beijing
+Rating: 9/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 5 for Dr. Chen Long, Pediatrics, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Our family has been coming for years, and he remembers each child's history and personality. Getting to Dongdaqiao Jiahe Medical Clinic by public transport in Beijing was easy, and there is a step-free entrance for wheelchairs.
+
+Review 6 for Dr. Chen Long, Pediatrics, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Caring and gentle with my child, Dr. Chen Long nonetheless ran forty minutes behind schedule at most appointments. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Chen Long, Pediatrics, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 8 for Dr. Chen Long, Pediatrics, Beijing
+Rating: 9/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Overall rating for Dr. Chen Long, Pediatrics, Beijing: 7.75/10 from 8 reviews

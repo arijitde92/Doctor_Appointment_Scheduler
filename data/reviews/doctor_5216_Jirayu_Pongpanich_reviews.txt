@@ -1,0 +1,59 @@
+Doctor: Dr. Jirayu Pongpanich
+Doctor ID: 5216
+Specialization: General
+Gender: Male
+Years of experience: 1
+City: Bangkok, Thailand
+Clinics: Siam Family Clinic (clinic ID 675); Baan Sukhaphap Clinic (clinic ID 676)
+
+Review 1 for Dr. Jirayu Pongpanich, General, Bangkok
+Rating: 6/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 2 for Dr. Jirayu Pongpanich, General, Bangkok
+Rating: 7/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Jirayu Pongpanich, General, Bangkok
+Rating: 10/10
+Clinic visited: Siam Family Clinic
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 4 for Dr. Jirayu Pongpanich, General, Bangkok
+Rating: 8/10
+Clinic visited: Siam Family Clinic
+Description: Getting to Siam Family Clinic from across Bangkok was easy, and the same-week appointment saved me an urgent care trip. Sensitive questions were handled by Dr. Jirayu Pongpanich with discretion and without a hint of judgment. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Jirayu Pongpanich, General, Bangkok
+Rating: 6/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Baan Sukhaphap Clinic were inconsistent.
+
+Review 6 for Dr. Jirayu Pongpanich, General, Bangkok
+Rating: 10/10
+Clinic visited: Siam Family Clinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 7 for Dr. Jirayu Pongpanich, General, Bangkok
+Rating: 5/10
+Clinic visited: Siam Family Clinic
+Description: Quick appointment and a fair price in Bangkok, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 8 for Dr. Jirayu Pongpanich, General, Bangkok
+Rating: 7/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: Referrals from Dr. Jirayu Pongpanich are handled well, but getting test results back took longer than I was told to expect. The treatment plan from Dr. Jirayu Pongpanich made sense, but I wished it had been written down for me to take away.
+
+Review 9 for Dr. Jirayu Pongpanich, General, Bangkok
+Rating: 6/10
+Clinic visited: Siam Family Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Jirayu Pongpanich, General, Bangkok
+Rating: 10/10
+Clinic visited: Baan Sukhaphap Clinic
+Description: Dr. Jirayu Pongpanich spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Overall rating for Dr. Jirayu Pongpanich, General, Bangkok: 7.50/10 from 10 reviews

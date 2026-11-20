@@ -1,0 +1,59 @@
+Doctor: Dr. Matthias Neumann
+Doctor ID: 1527
+Specialization: Radiology
+Gender: Male
+Years of experience: 4
+City: Berlin, Germany
+Clinics: Praxis am Steglitzer Kreisel Park (clinic ID 199)
+
+Review 1 for Dr. Matthias Neumann, Radiology, Berlin
+Rating: 6/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Matthias Neumann, Radiology, Berlin
+Rating: 5/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Matthias Neumann, Radiology, Berlin
+Rating: 8/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: Reviewing my X-ray together with Dr. Matthias Neumann on the screen made it much easier to understand my arthritis.
+
+Review 4 for Dr. Matthias Neumann, Radiology, Berlin
+Rating: 5/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Matthias Neumann, Radiology, Berlin
+Rating: 5/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: Dr. Matthias Neumann answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Booking was easy online, but the confirmation email contained the wrong address for Praxis am Steglitzer Kreisel Park.
+
+Review 6 for Dr. Matthias Neumann, Radiology, Berlin
+Rating: 6/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Matthias Neumann, Radiology, Berlin
+Rating: 6/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Matthias Neumann, Radiology, Berlin
+Rating: 8/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Matthias Neumann, Radiology, Berlin
+Rating: 8/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: The report from Dr. Matthias Neumann was detailed but written so a non-medical person could follow it, with a short summary at the top. I was called in within five minutes of my appointment time at Praxis am Steglitzer Kreisel Park, which is rare and much appreciated.
+
+Review 10 for Dr. Matthias Neumann, Radiology, Berlin
+Rating: 5/10
+Clinic visited: Praxis am Steglitzer Kreisel Park
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Overall rating for Dr. Matthias Neumann, Radiology, Berlin: 6.20/10 from 10 reviews

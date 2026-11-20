@@ -1,0 +1,54 @@
+Doctor: Dr. Karen Laursen
+Doctor ID: 2391
+Specialization: Cardiology
+Gender: Female
+Years of experience: 12
+City: Odense, Denmark
+Clinics: Lægehuset Vesterbro Odense (clinic ID 313)
+
+Review 1 for Dr. Karen Laursen, Cardiology, Odense
+Rating: 7/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: Helpful with my cholesterol, Dr. Karen Laursen still gave dietary advice that was a little generic.
+
+Review 2 for Dr. Karen Laursen, Cardiology, Odense
+Rating: 8/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Karen Laursen, Cardiology, Odense
+Rating: 4/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: The waiting room at Lægehuset Vesterbro Odense was overcrowded and there was nowhere to sit, even for elderly patients. Dr. Karen Laursen spent most of the appointment looking at the screen and gave very brief answers to my questions.
+
+Review 4 for Dr. Karen Laursen, Cardiology, Odense
+Rating: 9/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Karen Laursen, Cardiology, Odense
+Rating: 6/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Karen Laursen, Cardiology, Odense
+Rating: 6/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 7 for Dr. Karen Laursen, Cardiology, Odense
+Rating: 6/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: Dr. Karen Laursen adjusted my blood pressure medication carefully, though I had to call twice for a refill. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Karen Laursen, Cardiology, Odense
+Rating: 8/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: Managing my blood pressure with Dr. Karen Laursen has been steady and practical, with home readings reviewed at every visit.
+
+Review 9 for Dr. Karen Laursen, Cardiology, Odense
+Rating: 6/10
+Clinic visited: Lægehuset Vesterbro Odense
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Overall rating for Dr. Karen Laursen, Cardiology, Odense: 6.67/10 from 9 reviews

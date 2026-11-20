@@ -1,0 +1,69 @@
+Doctor: Dr. Sun Bin
+Doctor ID: 3907
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 12
+City: Guangzhou, China
+Clinics: Haizhu Mingde Medical Clinic (clinic ID 504)
+
+Review 1 for Dr. Sun Bin, Psychiatry, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Sun Bin, Psychiatry, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 3 for Dr. Sun Bin, Psychiatry, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Sun Bin, Psychiatry, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 5 for Dr. Sun Bin, Psychiatry, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Good listener, yet the refill process at Haizhu Mingde Medical Clinic is slow and requires several phone calls. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Sun Bin, Psychiatry, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: My family was included in a session at my request, and Dr. Sun Bin handled it with great tact.
+
+Review 7 for Dr. Sun Bin, Psychiatry, Guangzhou
+Rating: 5/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Dr. Sun Bin is knowledgeable, though I waited several weeks for my first appointment. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 8 for Dr. Sun Bin, Psychiatry, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: My depression finally has a treatment plan from Dr. Sun Bin that works, with regular check-ins and careful dose changes. A same-day slot was found for me at Haizhu Mingde Medical Clinic when I called with a worrying symptom. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Sun Bin, Psychiatry, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Sun Bin, Psychiatry, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Getting to Haizhu Mingde Medical Clinic by public transport in Guangzhou was easy, and there is a step-free entrance for wheelchairs. Excellent at explaining how therapy and medication work together, and Dr. Sun Bin coordinated with my counselor.
+
+Review 11 for Dr. Sun Bin, Psychiatry, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Quick appointment and a fair price in Guangzhou, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 12 for Dr. Sun Bin, Psychiatry, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Sun Bin, Psychiatry, Guangzhou: 6.92/10 from 12 reviews

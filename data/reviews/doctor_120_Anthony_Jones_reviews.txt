@@ -1,0 +1,69 @@
+Doctor: Dr. Anthony Jones
+Doctor ID: 120
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 14
+City: Chicago, USA
+Clinics: Hyde Park Medical Associates (clinic ID 18)
+
+Review 1 for Dr. Anthony Jones, Psychiatry, Chicago
+Rating: 9/10
+Clinic visited: Hyde Park Medical Associates
+Description: The ADHD assessment by Dr. Anthony Jones was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 2 for Dr. Anthony Jones, Psychiatry, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 3 for Dr. Anthony Jones, Psychiatry, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Anthony Jones, Psychiatry, Chicago
+Rating: 8/10
+Clinic visited: Hyde Park Medical Associates
+Description: My family was included in a session at my request, and Dr. Anthony Jones handled it with great tact. A translator was arranged for my mother without us asking twice, and Dr. Anthony Jones spoke directly to her throughout. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Anthony Jones, Psychiatry, Chicago
+Rating: 8/10
+Clinic visited: Hyde Park Medical Associates
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 6 for Dr. Anthony Jones, Psychiatry, Chicago
+Rating: 6/10
+Clinic visited: Hyde Park Medical Associates
+Description: Dr. Anthony Jones is knowledgeable, though I waited several weeks for my first appointment. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Anthony Jones, Psychiatry, Chicago
+Rating: 10/10
+Clinic visited: Hyde Park Medical Associates
+Description: Dr. Anthony Jones drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 8 for Dr. Anthony Jones, Psychiatry, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 9 for Dr. Anthony Jones, Psychiatry, Chicago
+Rating: 6/10
+Clinic visited: Hyde Park Medical Associates
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 10 for Dr. Anthony Jones, Psychiatry, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. Anthony Jones, Psychiatry, Chicago
+Rating: 9/10
+Clinic visited: Hyde Park Medical Associates
+Description: He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. I would happily recommend this doctor to friends and family.
+
+Review 12 for Dr. Anthony Jones, Psychiatry, Chicago
+Rating: 9/10
+Clinic visited: Hyde Park Medical Associates
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. I was called in within five minutes of my appointment time at Hyde Park Medical Associates, which is rare and much appreciated. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Anthony Jones, Psychiatry, Chicago: 7.75/10 from 12 reviews

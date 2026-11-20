@@ -1,0 +1,54 @@
+Doctor: Dr. Piotr Pawłowski
+Doctor ID: 2732
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 5
+City: Gdansk, Poland
+Clinics: Centrum Zdrowia Orunia (clinic ID 358)
+
+Review 1 for Dr. Piotr Pawłowski, Pediatrics, Gdansk
+Rating: 8/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Our family has been coming for years, and he remembers each child's history and personality.
+
+Review 2 for Dr. Piotr Pawłowski, Pediatrics, Gdansk
+Rating: 5/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Piotr Pawłowski, Pediatrics, Gdansk
+Rating: 7/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Dr. Piotr Pawłowski is thorough with exams, but the after-hours phone line at Centrum Zdrowia Orunia is hard to reach.
+
+Review 4 for Dr. Piotr Pawłowski, Pediatrics, Gdansk
+Rating: 7/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Piotr Pawłowski, Pediatrics, Gdansk
+Rating: 7/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Piotr Pawłowski, Pediatrics, Gdansk
+Rating: 6/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 7 for Dr. Piotr Pawłowski, Pediatrics, Gdansk
+Rating: 6/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Helpful visit overall, although I only found out about an extra charge after I had paid. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Piotr Pawłowski, Pediatrics, Gdansk
+Rating: 6/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Piotr Pawłowski, Pediatrics, Gdansk
+Rating: 5/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Overall rating for Dr. Piotr Pawłowski, Pediatrics, Gdansk: 6.33/10 from 9 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Daniel Doherty
+Doctor ID: 2456
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 1
+City: Dublin, Ireland
+Clinics: Baggot Street Medical Centre (clinic ID 320)
+
+Review 1 for Dr. Daniel Doherty, Pulmonology, Dublin
+Rating: 7/10
+Clinic visited: Baggot Street Medical Centre
+Description: Helpful and honest about my prognosis, Dr. Daniel Doherty could still have given me more written material to take home. Dr. Daniel Doherty was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Daniel Doherty, Pulmonology, Dublin
+Rating: 8/10
+Clinic visited: Baggot Street Medical Centre
+Description: The waiting room at Baggot Street Medical Centre was clean, quiet and comfortable, with enough seating and water available. I always leave Dr. Daniel Doherty's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 3 for Dr. Daniel Doherty, Pulmonology, Dublin
+Rating: 5/10
+Clinic visited: Baggot Street Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Dr. Daniel Doherty adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 4 for Dr. Daniel Doherty, Pulmonology, Dublin
+Rating: 6/10
+Clinic visited: Baggot Street Medical Centre
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 5 for Dr. Daniel Doherty, Pulmonology, Dublin
+Rating: 10/10
+Clinic visited: Baggot Street Medical Centre
+Description: At Baggot Street Medical Centre, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. Dr. Daniel Doherty drew a quick sketch to explain what was going on, which helped me remember it afterwards. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Daniel Doherty, Pulmonology, Dublin
+Rating: 7/10
+Clinic visited: Baggot Street Medical Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Daniel Doherty, Pulmonology, Dublin
+Rating: 9/10
+Clinic visited: Baggot Street Medical Centre
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Dublin. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 8 for Dr. Daniel Doherty, Pulmonology, Dublin
+Rating: 5/10
+Clinic visited: Baggot Street Medical Centre
+Description: Quick appointment and a fair price in Dublin, but the staff seemed overwhelmed and a bit curt on the phone. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 9 for Dr. Daniel Doherty, Pulmonology, Dublin
+Rating: 7/10
+Clinic visited: Baggot Street Medical Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Daniel Doherty, Pulmonology, Dublin
+Rating: 7/10
+Clinic visited: Baggot Street Medical Centre
+Description: Pleasant manner and careful lung exam, though the waiting time at Baggot Street Medical Centre regularly exceeded forty minutes. The treatment plan from Dr. Daniel Doherty made sense, but I wished it had been written down for me to take away.
+
+Review 11 for Dr. Daniel Doherty, Pulmonology, Dublin
+Rating: 8/10
+Clinic visited: Baggot Street Medical Centre
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. A same-day slot was found for me at Baggot Street Medical Centre when I called with a worrying symptom.
+
+Overall rating for Dr. Daniel Doherty, Pulmonology, Dublin: 7.18/10 from 11 reviews

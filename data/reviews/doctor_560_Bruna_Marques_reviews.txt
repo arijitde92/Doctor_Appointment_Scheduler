@@ -1,0 +1,64 @@
+Doctor: Dr. Bruna Marques
+Doctor ID: 560
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 4
+City: Belo Horizonte, Brazil
+Clinics: Clínica Savassi Saúde (clinic ID 75)
+
+Review 1 for Dr. Bruna Marques, Psychiatry, Belo Horizonte
+Rating: 10/10
+Clinic visited: Clínica Savassi Saúde
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 2 for Dr. Bruna Marques, Psychiatry, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Savassi Saúde
+Description: Telehealth follow-ups at Clínica Savassi Saúde are punctual and calm, and refills are dealt with quickly. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 3 for Dr. Bruna Marques, Psychiatry, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Savassi Saúde
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 4 for Dr. Bruna Marques, Psychiatry, Belo Horizonte
+Rating: 9/10
+Clinic visited: Clínica Savassi Saúde
+Description: Everything was explained in plain English by Dr. Bruna Marques, and nothing was left to guess. Dr. Bruna Marques took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 5 for Dr. Bruna Marques, Psychiatry, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Savassi Saúde
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 6 for Dr. Bruna Marques, Psychiatry, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Savassi Saúde
+Description: Appointments in Belo Horizonte are always on schedule, and the waiting area is peaceful and private. Even the billing team was helpful, and a mistake on my statement was corrected within a day. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Bruna Marques, Psychiatry, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Savassi Saúde
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 8 for Dr. Bruna Marques, Psychiatry, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Savassi Saúde
+Description: The receptionist at Clínica Savassi Saúde remembered my name and had my forms ready, so check-in took less than a minute. Clear and non-judgmental about my sleep medication, with a plan for stopping it safely.
+
+Review 9 for Dr. Bruna Marques, Psychiatry, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Savassi Saúde
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Bruna Marques, Psychiatry, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Savassi Saúde
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I will be coming back for all my future check-ups.
+
+Review 11 for Dr. Bruna Marques, Psychiatry, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Savassi Saúde
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Overall rating for Dr. Bruna Marques, Psychiatry, Belo Horizonte: 8.09/10 from 11 reviews

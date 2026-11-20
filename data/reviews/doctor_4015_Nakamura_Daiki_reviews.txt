@@ -1,0 +1,64 @@
+Doctor: Dr. Nakamura Daiki
+Doctor ID: 4015
+Specialization: Neurology
+Gender: Male
+Years of experience: 24
+City: Kyoto, Japan
+Clinics: Demachi Take Health Clinic (clinic ID 518); Nijo Yume Medical Clinic (clinic ID 519)
+
+Review 1 for Dr. Nakamura Daiki, Neurology, Kyoto
+Rating: 6/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Nakamura Daiki, Neurology, Kyoto
+Rating: 5/10
+Clinic visited: Demachi Take Health Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Supportive about my diagnosis, yet follow-up appointments with Dr. Nakamura Daiki at Demachi Take Health Clinic are difficult to schedule. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Nakamura Daiki, Neurology, Kyoto
+Rating: 5/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 4 for Dr. Nakamura Daiki, Neurology, Kyoto
+Rating: 8/10
+Clinic visited: Demachi Take Health Clinic
+Description: Paperwork at Demachi Take Health Clinic was kept to a minimum, and the staff helped me complete the insurance form. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Nakamura Daiki, Neurology, Kyoto
+Rating: 6/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Nakamura Daiki, Neurology, Kyoto
+Rating: 5/10
+Clinic visited: Demachi Take Health Clinic
+Description: I liked the advice I got from Dr. Nakamura Daiki, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Nakamura Daiki, Neurology, Kyoto
+Rating: 10/10
+Clinic visited: Demachi Take Health Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Dr. Nakamura Daiki took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy.
+
+Review 8 for Dr. Nakamura Daiki, Neurology, Kyoto
+Rating: 7/10
+Clinic visited: Demachi Take Health Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 9 for Dr. Nakamura Daiki, Neurology, Kyoto
+Rating: 5/10
+Clinic visited: Demachi Take Health Clinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Nakamura Daiki, Neurology, Kyoto
+Rating: 6/10
+Clinic visited: Demachi Take Health Clinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. The doctor was kind, though the clinic's evening hours are very limited for working people. I would come back, but only if the waiting time improves.
+
+Review 11 for Dr. Nakamura Daiki, Neurology, Kyoto
+Rating: 7/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Overall rating for Dr. Nakamura Daiki, Neurology, Kyoto: 6.36/10 from 11 reviews

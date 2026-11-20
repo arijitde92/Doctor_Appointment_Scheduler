@@ -1,0 +1,54 @@
+Doctor: Dr. Erik Dijkstra
+Doctor ID: 2677
+Specialization: General
+Gender: Male
+Years of experience: 7
+City: Utrecht, Netherlands
+Clinics: Medisch Centrum Oudegracht (clinic ID 350)
+
+Review 1 for Dr. Erik Dijkstra, General, Utrecht
+Rating: 7/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: Dr. Erik Dijkstra was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Erik Dijkstra, General, Utrecht
+Rating: 7/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: Quick appointment and a fair price in Utrecht, but the staff seemed overwhelmed and a bit curt on the phone. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 3 for Dr. Erik Dijkstra, General, Utrecht
+Rating: 8/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: My test results arrived in the portal within two days, together with a short note that made sense. My annual check-up with Dr. Erik Dijkstra took forty minutes, with every screening explained and nothing rushed.
+
+Review 4 for Dr. Erik Dijkstra, General, Utrecht
+Rating: 7/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: Booking was easy online, but the confirmation email contained the wrong address for Medisch Centrum Oudegracht. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Erik Dijkstra, General, Utrecht
+Rating: 9/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: A translator was arranged for my mother without us asking twice, and Dr. Erik Dijkstra spoke directly to her throughout. Best family doctor I have had; He treats the whole person and not just the symptom list.
+
+Review 6 for Dr. Erik Dijkstra, General, Utrecht
+Rating: 8/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: I went in with months of tiredness, and Dr. Erik Dijkstra ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Dr. Erik Dijkstra used a calm, steady voice that settled my nerves before a stressful procedure. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Erik Dijkstra, General, Utrecht
+Rating: 8/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: I always hear back within a day when I leave a question with the nurse at Medisch Centrum Oudegracht, and Dr. Erik Dijkstra follows up on lab results personally. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 8 for Dr. Erik Dijkstra, General, Utrecht
+Rating: 7/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Erik Dijkstra, General, Utrecht
+Rating: 6/10
+Clinic visited: Medisch Centrum Oudegracht
+Description: Dr. Erik Dijkstra is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Overall rating for Dr. Erik Dijkstra, General, Utrecht: 7.44/10 from 9 reviews

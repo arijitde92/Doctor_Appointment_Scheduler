@@ -1,0 +1,59 @@
+Doctor: Dr. Jennifer Lee
+Doctor ID: 6587
+Specialization: Neurology
+Gender: Female
+Years of experience: 23
+City: Sydney, Australia
+Clinics: Wattle Grove Medical (clinic ID 853)
+
+Review 1 for Dr. Jennifer Lee, Neurology, Sydney
+Rating: 8/10
+Clinic visited: Wattle Grove Medical
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. The nurse was friendly and efficient, and the whole visit with Dr. Jennifer Lee felt well organized from start to finish.
+
+Review 2 for Dr. Jennifer Lee, Neurology, Sydney
+Rating: 9/10
+Clinic visited: Wattle Grove Medical
+Description: I always leave Dr. Jennifer Lee's office with a short written summary of changes, which helps my family keep up. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 3 for Dr. Jennifer Lee, Neurology, Sydney
+Rating: 6/10
+Clinic visited: Wattle Grove Medical
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Jennifer Lee, Neurology, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Jennifer Lee, Neurology, Sydney
+Rating: 6/10
+Clinic visited: Wattle Grove Medical
+Description: Good bedside manner from Dr. Jennifer Lee, but the parking near Wattle Grove Medical is limited and I had to circle for fifteen minutes. Dr. Jennifer Lee explained my results well, although the visit felt short for such a complex condition. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Jennifer Lee, Neurology, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Jennifer Lee, Neurology, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Jennifer Lee, Neurology, Sydney
+Rating: 9/10
+Clinic visited: Wattle Grove Medical
+Description: Dr. Jennifer Lee double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 9 for Dr. Jennifer Lee, Neurology, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Jennifer Lee at Wattle Grove Medical are difficult to schedule. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 10 for Dr. Jennifer Lee, Neurology, Sydney
+Rating: 9/10
+Clinic visited: Wattle Grove Medical
+Description: The practice in Sydney is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Overall rating for Dr. Jennifer Lee, Neurology, Sydney: 7.50/10 from 10 reviews

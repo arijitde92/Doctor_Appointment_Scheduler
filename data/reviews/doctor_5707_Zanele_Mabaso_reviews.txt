@@ -1,0 +1,49 @@
+Doctor: Dr. Zanele Mabaso
+Doctor ID: 5707
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 22
+City: Cape Town, South Africa
+Clinics: Long Street Medical Rooms (clinic ID 738); Century Bay Care Practice (clinic ID 739)
+
+Review 1 for Dr. Zanele Mabaso, Psychiatry, Cape Town
+Rating: 8/10
+Clinic visited: Long Street Medical Rooms
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. I was given a printed summary of the visit, which I shared with my family at home. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Zanele Mabaso, Psychiatry, Cape Town
+Rating: 9/10
+Clinic visited: Century Bay Care Practice
+Description: Dr. Zanele Mabaso took a full history before suggesting any medication and explained the likely side effects honestly. Paperwork at Century Bay Care Practice was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 3 for Dr. Zanele Mabaso, Psychiatry, Cape Town
+Rating: 8/10
+Clinic visited: Long Street Medical Rooms
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Zanele Mabaso, Psychiatry, Cape Town
+Rating: 8/10
+Clinic visited: Long Street Medical Rooms
+Description: At my visit, Dr. Zanele Mabaso took notes on my medication list, checked for interactions and explained the changes simply. I can ring Long Street Medical Rooms with an urgent question and receive a thoughtful reply the same day.
+
+Review 5 for Dr. Zanele Mabaso, Psychiatry, Cape Town
+Rating: 6/10
+Clinic visited: Century Bay Care Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Zanele Mabaso, Psychiatry, Cape Town
+Rating: 7/10
+Clinic visited: Century Bay Care Practice
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Zanele Mabaso, Psychiatry, Cape Town
+Rating: 8/10
+Clinic visited: Century Bay Care Practice
+Description: Excellent at explaining how therapy and medication work together, and Dr. Zanele Mabaso coordinated with my counselor.
+
+Review 8 for Dr. Zanele Mabaso, Psychiatry, Cape Town
+Rating: 7/10
+Clinic visited: Century Bay Care Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Century Bay Care Practice. Good listener, yet the refill process at Century Bay Care Practice is slow and requires several phone calls. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Zanele Mabaso, Psychiatry, Cape Town: 7.62/10 from 8 reviews

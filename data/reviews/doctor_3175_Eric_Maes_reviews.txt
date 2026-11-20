@@ -1,0 +1,64 @@
+Doctor: Dr. Éric Maes
+Doctor ID: 3175
+Specialization: General
+Gender: Male
+Years of experience: 17
+City: Liege, Belgium
+Clinics: Polyclinique d'Outremeuse (clinic ID 412)
+
+Review 1 for Dr. Éric Maes, General, Liege
+Rating: 7/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Dr. Éric Maes was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Éric Maes, General, Liege
+Rating: 10/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 3 for Dr. Éric Maes, General, Liege
+Rating: 5/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Quick appointment and a fair price in Liege, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Éric Maes, General, Liege
+Rating: 3/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: My visit with Dr. Éric Maes lasted barely six minutes, and I left with more questions than I arrived with.
+
+Review 5 for Dr. Éric Maes, General, Liege
+Rating: 3/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: I came in about worsening headaches and was told to drink more water and relax, with no examination at all. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 6 for Dr. Éric Maes, General, Liege
+Rating: 5/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Referrals from Dr. Éric Maes are handled well, but getting test results back took longer than I was told to expect.
+
+Review 7 for Dr. Éric Maes, General, Liege
+Rating: 7/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Éric Maes, General, Liege
+Rating: 4/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: My persistent fatigue was brushed aside as stress by Dr. Éric Maes, and it took a second doctor to find the actual cause. I felt dismissed by Dr. Éric Maes when I brought up a second concern, and was told to book another appointment for it. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 9 for Dr. Éric Maes, General, Liege
+Rating: 6/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: Good bedside manner from Dr. Éric Maes, but the parking near Polyclinique d'Outremeuse is limited and I had to circle for fifteen minutes. Dr. Éric Maes is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 10 for Dr. Éric Maes, General, Liege
+Rating: 5/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 11 for Dr. Éric Maes, General, Liege
+Rating: 3/10
+Clinic visited: Polyclinique d'Outremeuse
+Description: I was sent for a battery of tests that had nothing to do with my complaint and received a surprise bill afterwards.
+
+Overall rating for Dr. Éric Maes, General, Liege: 5.27/10 from 11 reviews

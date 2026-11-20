@@ -1,0 +1,69 @@
+Doctor: Dr. Adam McCarthy
+Doctor ID: 2430
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 5
+City: Cork, Ireland
+Clinics: South Mall Health Centre (clinic ID 317)
+
+Review 1 for Dr. Adam McCarthy, Gastroenterology, Cork
+Rating: 10/10
+Clinic visited: South Mall Health Centre
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Adam McCarthy, Gastroenterology, Cork
+Rating: 9/10
+Clinic visited: South Mall Health Centre
+Description: He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned.
+
+Review 3 for Dr. Adam McCarthy, Gastroenterology, Cork
+Rating: 10/10
+Clinic visited: South Mall Health Centre
+Description: I received a full summary letter from South Mall Health Centre after my endoscopy, which my regular doctor found very useful.
+
+Review 4 for Dr. Adam McCarthy, Gastroenterology, Cork
+Rating: 8/10
+Clinic visited: South Mall Health Centre
+Description: Getting to South Mall Health Centre by public transport in Cork was easy, and there is a step-free entrance for wheelchairs. I get regular check-ups for my Crohn's disease, and Dr. Adam McCarthy adjusts my treatment carefully and always explains why.
+
+Review 5 for Dr. Adam McCarthy, Gastroenterology, Cork
+Rating: 10/10
+Clinic visited: South Mall Health Centre
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Review 6 for Dr. Adam McCarthy, Gastroenterology, Cork
+Rating: 10/10
+Clinic visited: South Mall Health Centre
+Description: I was nervous about my screening, but the team at South Mall Health Centre made me feel at ease, and I was home within hours.
+
+Review 7 for Dr. Adam McCarthy, Gastroenterology, Cork
+Rating: 8/10
+Clinic visited: South Mall Health Centre
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary. Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Adam McCarthy, Gastroenterology, Cork
+Rating: 9/10
+Clinic visited: South Mall Health Centre
+Description: Prescriptions from Dr. Adam McCarthy were sent to my pharmacy before I even left the building, and the dosage instructions were written down. A gentle, respectful manner from Dr. Adam McCarthy made a very awkward exam bearable, with every step explained before it happened.
+
+Review 9 for Dr. Adam McCarthy, Gastroenterology, Cork
+Rating: 10/10
+Clinic visited: South Mall Health Centre
+Description: Helpful dietitian referral from Dr. Adam McCarthy and written guidance for living with ulcerative colitis.
+
+Review 10 for Dr. Adam McCarthy, Gastroenterology, Cork
+Rating: 10/10
+Clinic visited: South Mall Health Centre
+Description: Clear explanation from Dr. Adam McCarthy of fatty liver and exactly which lifestyle changes would make a measurable difference.
+
+Review 11 for Dr. Adam McCarthy, Gastroenterology, Cork
+Rating: 10/10
+Clinic visited: South Mall Health Centre
+Description: Dr. Adam McCarthy looked me in the eye, listened to the whole story and only then started typing. The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed.
+
+Review 12 for Dr. Adam McCarthy, Gastroenterology, Cork
+Rating: 7/10
+Clinic visited: South Mall Health Centre
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Overall rating for Dr. Adam McCarthy, Gastroenterology, Cork: 9.25/10 from 12 reviews

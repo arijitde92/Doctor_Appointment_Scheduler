@@ -1,0 +1,54 @@
+Doctor: Dr. Toni Karjalainen
+Doctor ID: 1866
+Specialization: Psychology
+Gender: Male
+Years of experience: 11
+City: Helsinki, Finland
+Clinics: Terveyskeskus Kaivopuisto Plus (clinic ID 243); Lääkäriasema Itämeri (clinic ID 244)
+
+Review 1 for Dr. Toni Karjalainen, Psychology, Helsinki
+Rating: 6/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Quick appointment and a fair price in Helsinki, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Toni Karjalainen, Psychology, Helsinki
+Rating: 10/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 3 for Dr. Toni Karjalainen, Psychology, Helsinki
+Rating: 8/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: He has a calm way of asking the difficult questions that makes it feel safe to answer honestly. The practice in Helsinki is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 4 for Dr. Toni Karjalainen, Psychology, Helsinki
+Rating: 6/10
+Clinic visited: Lääkäriasema Itämeri
+Description: My trauma work felt well paced, although the schedule changed several times at Lääkäriasema Itämeri.
+
+Review 5 for Dr. Toni Karjalainen, Psychology, Helsinki
+Rating: 8/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Dr. Toni Karjalainen adapted the approach when the first method did not suit me, and that flexibility made all the difference. I asked about the cost before the visit and received an honest estimate that matched the final bill. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Toni Karjalainen, Psychology, Helsinki
+Rating: 8/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 7 for Dr. Toni Karjalainen, Psychology, Helsinki
+Rating: 10/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Online sessions through Terveyskeskus Kaivopuisto Plus worked just as well as in-person ones, and the video link never once failed.
+
+Review 8 for Dr. Toni Karjalainen, Psychology, Helsinki
+Rating: 10/10
+Clinic visited: Lääkäriasema Itämeri
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 9 for Dr. Toni Karjalainen, Psychology, Helsinki
+Rating: 8/10
+Clinic visited: Lääkäriasema Itämeri
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Toni Karjalainen designed around my actual job.
+
+Overall rating for Dr. Toni Karjalainen, Psychology, Helsinki: 8.22/10 from 9 reviews

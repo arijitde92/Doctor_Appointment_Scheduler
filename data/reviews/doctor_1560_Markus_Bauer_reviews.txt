@@ -1,0 +1,64 @@
+Doctor: Dr. Markus Bauer
+Doctor ID: 1560
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 18
+City: Frankfurt, Germany
+Clinics: Gesundheitspraxis Bockenheimer Warte (clinic ID 203)
+
+Review 1 for Dr. Markus Bauer, Gastroenterology, Frankfurt
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Good bedside manner from Dr. Markus Bauer, but the parking near Gesundheitspraxis Bockenheimer Warte is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Markus Bauer, Gastroenterology, Frankfurt
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Dr. Markus Bauer was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Markus Bauer, Gastroenterology, Frankfurt
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Markus Bauer, Gastroenterology, Frankfurt
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan.
+
+Review 5 for Dr. Markus Bauer, Gastroenterology, Frankfurt
+Rating: 5/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Markus Bauer, Gastroenterology, Frankfurt
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: A translator was arranged for my mother without us asking twice, and Dr. Markus Bauer spoke directly to her throughout. He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned.
+
+Review 7 for Dr. Markus Bauer, Gastroenterology, Frankfurt
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Markus Bauer, Gastroenterology, Frankfurt
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Markus Bauer, Gastroenterology, Frankfurt
+Rating: 5/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Knowledgeable about my reflux, Dr. Markus Bauer still gave diet advice that felt generic and not tailored to my habits.
+
+Review 10 for Dr. Markus Bauer, Gastroenterology, Frankfurt
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I would come back, but only if the waiting time improves.
+
+Review 11 for Dr. Markus Bauer, Gastroenterology, Frankfurt
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: The treatment plan from Dr. Markus Bauer made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Markus Bauer, Gastroenterology, Frankfurt: 6.36/10 from 11 reviews

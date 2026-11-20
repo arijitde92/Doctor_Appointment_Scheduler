@@ -1,0 +1,69 @@
+Doctor: Dr. Owen Brown
+Doctor ID: 327
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 3
+City: Toronto, Canada
+Clinics: Bloor Street Family Health (clinic ID 45)
+
+Review 1 for Dr. Owen Brown, Psychiatry, Toronto
+Rating: 9/10
+Clinic visited: Bloor Street Family Health
+Description: I can ring Bloor Street Family Health with an urgent question and receive a thoughtful reply the same day. Everything was explained in plain English by Dr. Owen Brown, and nothing was left to guess. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Owen Brown, Psychiatry, Toronto
+Rating: 7/10
+Clinic visited: Bloor Street Family Health
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 3 for Dr. Owen Brown, Psychiatry, Toronto
+Rating: 8/10
+Clinic visited: Bloor Street Family Health
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Telehealth follow-ups at Bloor Street Family Health are punctual and calm, and refills are dealt with quickly.
+
+Review 4 for Dr. Owen Brown, Psychiatry, Toronto
+Rating: 9/10
+Clinic visited: Bloor Street Family Health
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 5 for Dr. Owen Brown, Psychiatry, Toronto
+Rating: 9/10
+Clinic visited: Bloor Street Family Health
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 6 for Dr. Owen Brown, Psychiatry, Toronto
+Rating: 8/10
+Clinic visited: Bloor Street Family Health
+Description: Appointments in Toronto are always on schedule, and the waiting area is peaceful and private. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Owen Brown, Psychiatry, Toronto
+Rating: 9/10
+Clinic visited: Bloor Street Family Health
+Description: Getting to Bloor Street Family Health by public transport in Toronto was easy, and there is a step-free entrance for wheelchairs. Excellent at explaining how therapy and medication work together, and Dr. Owen Brown coordinated with my counselor.
+
+Review 8 for Dr. Owen Brown, Psychiatry, Toronto
+Rating: 8/10
+Clinic visited: Bloor Street Family Health
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 9 for Dr. Owen Brown, Psychiatry, Toronto
+Rating: 8/10
+Clinic visited: Bloor Street Family Health
+Description: Sensitive questions were handled by Dr. Owen Brown with discretion and without a hint of judgment. I will be coming back for all my future check-ups.
+
+Review 10 for Dr. Owen Brown, Psychiatry, Toronto
+Rating: 10/10
+Clinic visited: Bloor Street Family Health
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. I feel lucky to have found this practice in my area.
+
+Review 11 for Dr. Owen Brown, Psychiatry, Toronto
+Rating: 9/10
+Clinic visited: Bloor Street Family Health
+Description: I felt heard by Dr. Owen Brown during a very hard time, and nobody rushed me out of the room. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. This is the first doctor I have trusted completely in years.
+
+Review 12 for Dr. Owen Brown, Psychiatry, Toronto
+Rating: 9/10
+Clinic visited: Bloor Street Family Health
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. A translator was arranged for my mother without us asking twice, and Dr. Owen Brown spoke directly to her throughout.
+
+Overall rating for Dr. Owen Brown, Psychiatry, Toronto: 8.58/10 from 12 reviews

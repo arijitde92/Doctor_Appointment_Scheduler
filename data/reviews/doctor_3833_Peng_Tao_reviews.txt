@@ -1,0 +1,59 @@
+Doctor: Dr. Peng Tao
+Doctor ID: 3833
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 7
+City: Beijing, China
+Clinics: Jianguo Heren Medical Centre (clinic ID 495); Zhongguancun Kangyi Clinic (clinic ID 496); Dongsanhuan Family Health Practice (clinic ID 497)
+
+Review 1 for Dr. Peng Tao, Gastroenterology, Beijing
+Rating: 7/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Dr. Peng Tao was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 2 for Dr. Peng Tao, Gastroenterology, Beijing
+Rating: 10/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed.
+
+Review 3 for Dr. Peng Tao, Gastroenterology, Beijing
+Rating: 8/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 4 for Dr. Peng Tao, Gastroenterology, Beijing
+Rating: 10/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Dr. Peng Tao took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards.
+
+Review 5 for Dr. Peng Tao, Gastroenterology, Beijing
+Rating: 8/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: I was called in within five minutes of my appointment time at Zhongguancun Kangyi Clinic, which is rare and much appreciated.
+
+Review 6 for Dr. Peng Tao, Gastroenterology, Beijing
+Rating: 8/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Peng Tao, Gastroenterology, Beijing
+Rating: 9/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 8 for Dr. Peng Tao, Gastroenterology, Beijing
+Rating: 10/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: A gentle, respectful manner from Dr. Peng Tao made a very awkward exam bearable, with every step explained before it happened. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Peng Tao, Gastroenterology, Beijing
+Rating: 4/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: I was charged separately for several items that had been described as included in the procedure.
+
+Review 10 for Dr. Peng Tao, Gastroenterology, Beijing
+Rating: 7/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Peng Tao, Gastroenterology, Beijing: 8.10/10 from 10 reviews

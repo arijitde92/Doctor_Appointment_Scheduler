@@ -1,0 +1,49 @@
+Doctor: Dr. Manuela Wolf
+Doctor ID: 3014
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 14
+City: Vienna, Austria
+Clinics: Medizinisches Zentrum Landstraße (clinic ID 393)
+
+Review 1 for Dr. Manuela Wolf, Gastroenterology, Vienna
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Dr. Manuela Wolf double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 2 for Dr. Manuela Wolf, Gastroenterology, Vienna
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Manuela Wolf, Gastroenterology, Vienna
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Manuela Wolf, Gastroenterology, Vienna
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. The treatment plan from Dr. Manuela Wolf made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Manuela Wolf, Gastroenterology, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Knowledgeable about my reflux, Dr. Manuela Wolf still gave diet advice that felt generic and not tailored to my habits. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Manuela Wolf, Gastroenterology, Vienna
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 7 for Dr. Manuela Wolf, Gastroenterology, Vienna
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Manuela Wolf, Gastroenterology, Vienna
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Landstraße
+Description: After years of undiagnosed stomach pain, she identified celiac disease with the right blood tests and a careful plan.
+
+Overall rating for Dr. Manuela Wolf, Gastroenterology, Vienna: 7.00/10 from 8 reviews

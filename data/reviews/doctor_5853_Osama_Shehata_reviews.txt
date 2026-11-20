@@ -1,0 +1,49 @@
+Doctor: Dr. Osama Shehata
+Doctor ID: 5853
+Specialization: General
+Gender: Male
+Years of experience: 27
+City: Alexandria, Egypt
+Clinics: Roushdy Medical Centre (clinic ID 756)
+
+Review 1 for Dr. Osama Shehata, General, Alexandria
+Rating: 5/10
+Clinic visited: Roushdy Medical Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Osama Shehata, General, Alexandria
+Rating: 7/10
+Clinic visited: Roushdy Medical Centre
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. I liked the advice I got from Dr. Osama Shehata, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Osama Shehata, General, Alexandria
+Rating: 5/10
+Clinic visited: Roushdy Medical Centre
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Osama Shehata, General, Alexandria
+Rating: 8/10
+Clinic visited: Roushdy Medical Centre
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Osama Shehata, General, Alexandria
+Rating: 6/10
+Clinic visited: Roushdy Medical Centre
+Description: Referrals from Dr. Osama Shehata are handled well, but getting test results back took longer than I was told to expect.
+
+Review 6 for Dr. Osama Shehata, General, Alexandria
+Rating: 8/10
+Clinic visited: Roushdy Medical Centre
+Description: I always hear back within a day when I leave a question with the nurse at Roushdy Medical Centre, and Dr. Osama Shehata follows up on lab results personally. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 7 for Dr. Osama Shehata, General, Alexandria
+Rating: 7/10
+Clinic visited: Roushdy Medical Centre
+Description: Dr. Osama Shehata is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 8 for Dr. Osama Shehata, General, Alexandria
+Rating: 7/10
+Clinic visited: Roushdy Medical Centre
+Description: Booking was easy online, but the confirmation email contained the wrong address for Roushdy Medical Centre. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Osama Shehata, General, Alexandria: 6.62/10 from 8 reviews

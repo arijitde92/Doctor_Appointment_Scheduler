@@ -1,0 +1,59 @@
+Doctor: Dr. Mohammed Smith
+Doctor ID: 1126
+Specialization: Radiology
+Gender: Male
+Years of experience: 26
+City: London, UK
+Clinics: Brixton Road Health Practice (clinic ID 148)
+
+Review 1 for Dr. Mohammed Smith, Radiology, London
+Rating: 7/10
+Clinic visited: Brixton Road Health Practice
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Clear explanations, but the follow-up call took a week longer than I had been told. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Mohammed Smith, Radiology, London
+Rating: 7/10
+Clinic visited: Brixton Road Health Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Mohammed Smith, Radiology, London
+Rating: 8/10
+Clinic visited: Brixton Road Health Practice
+Description: Fast, clean and professional; the bone density scan with Dr. Mohammed Smith was painless and the results were explained clearly.
+
+Review 4 for Dr. Mohammed Smith, Radiology, London
+Rating: 7/10
+Clinic visited: Brixton Road Health Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. The doctor was kind, though the clinic's evening hours are very limited for working people. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Mohammed Smith, Radiology, London
+Rating: 7/10
+Clinic visited: Brixton Road Health Practice
+Description: The report from Dr. Mohammed Smith was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 6 for Dr. Mohammed Smith, Radiology, London
+Rating: 8/10
+Clinic visited: Brixton Road Health Practice
+Description: Prescriptions from Dr. Mohammed Smith were sent to my pharmacy before I even left the building, and the dosage instructions were written down. When my scan showed something that needed a second look, Dr. Mohammed Smith arranged the follow-up the same day. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Mohammed Smith, Radiology, London
+Rating: 10/10
+Clinic visited: Brixton Road Health Practice
+Description: The staff at Brixton Road Health Practice in London explained the contrast dye and its side effects before I signed anything. Dr. Mohammed Smith looked me in the eye, listened to the whole story and only then started typing.
+
+Review 8 for Dr. Mohammed Smith, Radiology, London
+Rating: 8/10
+Clinic visited: Brixton Road Health Practice
+Description: Booking a CT scan online at Brixton Road Health Practice took two minutes, and I was in and out within forty minutes.
+
+Review 9 for Dr. Mohammed Smith, Radiology, London
+Rating: 9/10
+Clinic visited: Brixton Road Health Practice
+Description: Appointment reminders came by text and email, and rescheduling took two taps. My whole family is switching over after seeing how good the care was.
+
+Review 10 for Dr. Mohammed Smith, Radiology, London
+Rating: 10/10
+Clinic visited: Brixton Road Health Practice
+Description: Everything was explained in plain English by Dr. Mohammed Smith, and nothing was left to guess.
+
+Overall rating for Dr. Mohammed Smith, Radiology, London: 8.10/10 from 10 reviews

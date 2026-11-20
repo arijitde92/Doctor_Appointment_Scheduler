@@ -1,0 +1,54 @@
+Doctor: Dr. Emily Li
+Doctor ID: 301
+Specialization: Neurology
+Gender: Female
+Years of experience: 25
+City: Montreal, Canada
+Clinics: Centre Médical René-Lévesque (clinic ID 41)
+
+Review 1 for Dr. Emily Li, Neurology, Montreal
+Rating: 6/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 2 for Dr. Emily Li, Neurology, Montreal
+Rating: 6/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Emily Li, Neurology, Montreal
+Rating: 8/10
+Clinic visited: Centre Médical René-Lévesque
+Description: The waiting room at Centre Médical René-Lévesque was clean, quiet and comfortable, with enough seating and water available. After years of migraines, Dr. Emily Li built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. Five stars from me, and I would book again tomorrow.
+
+Review 4 for Dr. Emily Li, Neurology, Montreal
+Rating: 7/10
+Clinic visited: Centre Médical René-Lévesque
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 5 for Dr. Emily Li, Neurology, Montreal
+Rating: 9/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Living with multiple sclerosis feels less frightening because Dr. Emily Li explains and discusses every change in my plan. Dr. Emily Li drew a quick sketch to explain what was going on, which helped me remember it afterwards. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Emily Li, Neurology, Montreal
+Rating: 6/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 7 for Dr. Emily Li, Neurology, Montreal
+Rating: 7/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Emily Li at Centre Médical René-Lévesque are difficult to schedule. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 8 for Dr. Emily Li, Neurology, Montreal
+Rating: 7/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Dr. Emily Li explained my results well, although the visit felt short for such a complex condition.
+
+Review 9 for Dr. Emily Li, Neurology, Montreal
+Rating: 9/10
+Clinic visited: Centre Médical René-Lévesque
+Description: She coordinated with my regular doctor so my medicine list was consistent in both offices. Paperwork at Centre Médical René-Lévesque was kept to a minimum, and the staff helped me complete the insurance form.
+
+Overall rating for Dr. Emily Li, Neurology, Montreal: 7.22/10 from 9 reviews

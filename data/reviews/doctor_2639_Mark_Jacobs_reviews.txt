@@ -1,0 +1,69 @@
+Doctor: Dr. Mark Jacobs
+Doctor ID: 2639
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 10
+City: The Hague, Netherlands
+Clinics: Medisch Centrum Denneweg (clinic ID 345); Gezondheidscentrum Scheveningen (clinic ID 347)
+
+Review 1 for Dr. Mark Jacobs, Psychiatry, The Hague
+Rating: 6/10
+Clinic visited: Medisch Centrum Denneweg
+Description: Booking was easy online, but the confirmation email contained the wrong address for Medisch Centrum Denneweg. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 2 for Dr. Mark Jacobs, Psychiatry, The Hague
+Rating: 6/10
+Clinic visited: Medisch Centrum Denneweg
+Description: Dr. Mark Jacobs is knowledgeable, though I waited several weeks for my first appointment. Dr. Mark Jacobs was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Mark Jacobs, Psychiatry, The Hague
+Rating: 6/10
+Clinic visited: Medisch Centrum Denneweg
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Mark Jacobs, Psychiatry, The Hague
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Mark Jacobs, Psychiatry, The Hague
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I feel lucky to have found this practice in my area.
+
+Review 6 for Dr. Mark Jacobs, Psychiatry, The Hague
+Rating: 7/10
+Clinic visited: Medisch Centrum Denneweg
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Mark Jacobs, Psychiatry, The Hague
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Mark Jacobs, Psychiatry, The Hague
+Rating: 4/10
+Clinic visited: Medisch Centrum Denneweg
+Description: There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 9 for Dr. Mark Jacobs, Psychiatry, The Hague
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Good listener, yet the refill process at Gezondheidscentrum Scheveningen is slow and requires several phone calls.
+
+Review 10 for Dr. Mark Jacobs, Psychiatry, The Hague
+Rating: 8/10
+Clinic visited: Medisch Centrum Denneweg
+Description: He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. Dr. Mark Jacobs double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Five stars from me, and I would book again tomorrow.
+
+Review 11 for Dr. Mark Jacobs, Psychiatry, The Hague
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 12 for Dr. Mark Jacobs, Psychiatry, The Hague
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Mark Jacobs, Psychiatry, The Hague: 6.42/10 from 12 reviews

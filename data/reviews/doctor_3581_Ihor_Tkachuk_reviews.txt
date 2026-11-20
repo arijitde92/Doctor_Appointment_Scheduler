@@ -1,0 +1,64 @@
+Doctor: Dr. Ihor Tkachuk
+Doctor ID: 3581
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 29
+City: Kyiv, Ukraine
+Clinics: Lybid Medical Practice (clinic ID 463)
+
+Review 1 for Dr. Ihor Tkachuk, Psychiatry, Kyiv
+Rating: 7/10
+Clinic visited: Lybid Medical Practice
+Description: Good bedside manner from Dr. Ihor Tkachuk, but the parking near Lybid Medical Practice is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Ihor Tkachuk, Psychiatry, Kyiv
+Rating: 9/10
+Clinic visited: Lybid Medical Practice
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 3 for Dr. Ihor Tkachuk, Psychiatry, Kyiv
+Rating: 8/10
+Clinic visited: Lybid Medical Practice
+Description: Appointments in Kyiv are always on schedule, and the waiting area is peaceful and private.
+
+Review 4 for Dr. Ihor Tkachuk, Psychiatry, Kyiv
+Rating: 9/10
+Clinic visited: Lybid Medical Practice
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Ihor Tkachuk, Psychiatry, Kyiv
+Rating: 7/10
+Clinic visited: Lybid Medical Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 6 for Dr. Ihor Tkachuk, Psychiatry, Kyiv
+Rating: 7/10
+Clinic visited: Lybid Medical Practice
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Dr. Ihor Tkachuk is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 7 for Dr. Ihor Tkachuk, Psychiatry, Kyiv
+Rating: 7/10
+Clinic visited: Lybid Medical Practice
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 8 for Dr. Ihor Tkachuk, Psychiatry, Kyiv
+Rating: 8/10
+Clinic visited: Lybid Medical Practice
+Description: Paperwork at Lybid Medical Practice was kept to a minimum, and the staff helped me complete the insurance form. My family was included in a session at my request, and Dr. Ihor Tkachuk handled it with great tact.
+
+Review 9 for Dr. Ihor Tkachuk, Psychiatry, Kyiv
+Rating: 9/10
+Clinic visited: Lybid Medical Practice
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. This is the first doctor I have trusted completely in years.
+
+Review 10 for Dr. Ihor Tkachuk, Psychiatry, Kyiv
+Rating: 10/10
+Clinic visited: Lybid Medical Practice
+Description: He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 11 for Dr. Ihor Tkachuk, Psychiatry, Kyiv
+Rating: 7/10
+Clinic visited: Lybid Medical Practice
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The treatment plan from Dr. Ihor Tkachuk made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Ihor Tkachuk, Psychiatry, Kyiv: 8.00/10 from 11 reviews

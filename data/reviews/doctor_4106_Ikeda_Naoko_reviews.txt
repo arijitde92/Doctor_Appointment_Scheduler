@@ -1,0 +1,54 @@
+Doctor: Dr. Ikeda Naoko
+Doctor ID: 4106
+Specialization: Pathology
+Gender: Female
+Years of experience: 6
+City: Yokohama, Japan
+Clinics: Minato Mirai Nami Clinic (clinic ID 530)
+
+Review 1 for Dr. Ikeda Naoko, Pathology, Yokohama
+Rating: 8/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: The lab under Dr. Ikeda Naoko was clean, organized and never overbooked, and results arrived exactly when promised. Everything was explained in plain English by Dr. Ikeda Naoko, and nothing was left to guess.
+
+Review 2 for Dr. Ikeda Naoko, Pathology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: The lab at Minato Mirai Nami Clinic had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 3 for Dr. Ikeda Naoko, Pathology, Yokohama
+Rating: 9/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: She was upfront about what could and could not be treated, and did not oversell any option. The staff and Dr. Ikeda Naoko patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Review 4 for Dr. Ikeda Naoko, Pathology, Yokohama
+Rating: 7/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 5 for Dr. Ikeda Naoko, Pathology, Yokohama
+Rating: 7/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Ikeda Naoko, Pathology, Yokohama
+Rating: 8/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Ikeda Naoko, Pathology, Yokohama
+Rating: 10/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Ikeda Naoko felt well organized from start to finish. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Ikeda Naoko, Pathology, Yokohama
+Rating: 9/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Dr. Ikeda Naoko used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 9 for Dr. Ikeda Naoko, Pathology, Yokohama
+Rating: 9/10
+Clinic visited: Minato Mirai Nami Clinic
+Description: I asked for a second look at my slides, and Dr. Ikeda Naoko reviewed them without any fuss and confirmed the finding in writing. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Ikeda Naoko, Pathology, Yokohama: 8.56/10 from 9 reviews

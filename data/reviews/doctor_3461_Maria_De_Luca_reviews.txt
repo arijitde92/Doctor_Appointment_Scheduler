@@ -1,0 +1,49 @@
+Doctor: Dr. Maria De Luca
+Doctor ID: 3461
+Specialization: Pathology
+Gender: Female
+Years of experience: 13
+City: Naples, Italy
+Clinics: Clinica Posillipo (clinic ID 448)
+
+Review 1 for Dr. Maria De Luca, Pathology, Naples
+Rating: 7/10
+Clinic visited: Clinica Posillipo
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The treatment plan from Dr. Maria De Luca made sense, but I wished it had been written down for me to take away. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Maria De Luca, Pathology, Naples
+Rating: 7/10
+Clinic visited: Clinica Posillipo
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 3 for Dr. Maria De Luca, Pathology, Naples
+Rating: 6/10
+Clinic visited: Clinica Posillipo
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 4 for Dr. Maria De Luca, Pathology, Naples
+Rating: 6/10
+Clinic visited: Clinica Posillipo
+Description: The blood draw was painless, but the waiting area at Clinica Posillipo was crowded in the early morning. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Maria De Luca, Pathology, Naples
+Rating: 6/10
+Clinic visited: Clinica Posillipo
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Maria De Luca, Pathology, Naples
+Rating: 9/10
+Clinic visited: Clinica Posillipo
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 7 for Dr. Maria De Luca, Pathology, Naples
+Rating: 10/10
+Clinic visited: Clinica Posillipo
+Description: Allergy panel results were explained in detail by Dr. Maria De Luca, with a note on which results mattered clinically and which did not. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Maria De Luca, Pathology, Naples
+Rating: 7/10
+Clinic visited: Clinica Posillipo
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Maria De Luca answered my questions kindly, though the call back took three days. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Maria De Luca, Pathology, Naples: 7.25/10 from 8 reviews

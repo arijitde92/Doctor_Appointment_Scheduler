@@ -1,0 +1,49 @@
+Doctor: Dr. Oliver Davies
+Doctor ID: 1114
+Specialization: Pathology
+Gender: Male
+Years of experience: 22
+City: London, UK
+Clinics: Cabot Square Medical Centre (clinic ID 146); Aldersgate Street Polyclinic (clinic ID 147); Brixton Road Health Practice (clinic ID 148)
+
+Review 1 for Dr. Oliver Davies, Pathology, London
+Rating: 7/10
+Clinic visited: Brixton Road Health Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Oliver Davies, Pathology, London
+Rating: 5/10
+Clinic visited: Brixton Road Health Practice
+Description: Helpful in clarifying a borderline result, though Dr. Oliver Davies gave little guidance about whether to repeat it. I got what I needed, but the next available appointment was three weeks away.
+
+Review 3 for Dr. Oliver Davies, Pathology, London
+Rating: 7/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: The blood draw was painless, but the waiting area at Aldersgate Street Polyclinic was crowded in the early morning. Booking was easy online, but the confirmation email contained the wrong address for Aldersgate Street Polyclinic.
+
+Review 4 for Dr. Oliver Davies, Pathology, London
+Rating: 4/10
+Clinic visited: Brixton Road Health Practice
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. I was billed twice for the same panel and it took a month to get a correction.
+
+Review 5 for Dr. Oliver Davies, Pathology, London
+Rating: 7/10
+Clinic visited: Brixton Road Health Practice
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Oliver Davies, Pathology, London
+Rating: 6/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Oliver Davies, Pathology, London
+Rating: 7/10
+Clinic visited: Cabot Square Medical Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Oliver Davies answered my questions kindly, though the call back took three days.
+
+Review 8 for Dr. Oliver Davies, Pathology, London
+Rating: 4/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: The report was handed over by Dr. Oliver Davies with no explanation, and I left frightened and confused about the terminology.
+
+Overall rating for Dr. Oliver Davies, Pathology, London: 5.88/10 from 8 reviews

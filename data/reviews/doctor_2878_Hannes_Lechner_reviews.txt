@@ -1,0 +1,59 @@
+Doctor: Dr. Hannes Lechner
+Doctor ID: 2878
+Specialization: General
+Gender: Male
+Years of experience: 24
+City: Graz, Austria
+Clinics: Ärztehaus Herrengasse Graz (clinic ID 375)
+
+Review 1 for Dr. Hannes Lechner, General, Graz
+Rating: 8/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Hannes Lechner, General, Graz
+Rating: 8/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Prescriptions from Dr. Hannes Lechner were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 3 for Dr. Hannes Lechner, General, Graz
+Rating: 10/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list.
+
+Review 4 for Dr. Hannes Lechner, General, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Good bedside manner from Dr. Hannes Lechner, but the parking near Ärztehaus Herrengasse Graz is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Hannes Lechner, General, Graz
+Rating: 8/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: I went in with months of tiredness, and Dr. Hannes Lechner ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Hannes Lechner, General, Graz
+Rating: 9/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: The practice in Graz is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 7 for Dr. Hannes Lechner, General, Graz
+Rating: 8/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: By the time I left the room, Dr. Hannes Lechner had sorted the sick note, referral letter and prescription refill. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 8 for Dr. Hannes Lechner, General, Graz
+Rating: 7/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Hannes Lechner, General, Graz
+Rating: 8/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Dr. Hannes Lechner spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 10 for Dr. Hannes Lechner, General, Graz
+Rating: 7/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Overall rating for Dr. Hannes Lechner, General, Graz: 7.90/10 from 10 reviews

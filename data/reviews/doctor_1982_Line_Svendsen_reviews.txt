@@ -1,0 +1,64 @@
+Doctor: Dr. Line Svendsen
+Doctor ID: 1982
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 20
+City: Bergen, Norway
+Clinics: Legesenteret Nygård Bergen (clinic ID 259)
+
+Review 1 for Dr. Line Svendsen, Orthopedic, Bergen
+Rating: 8/10
+Clinic visited: Legesenteret Nygård Bergen
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I appreciated Dr. Line Svendsen's honest comparison between injections, therapy and surgery for my hip pain.
+
+Review 2 for Dr. Line Svendsen, Orthopedic, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Nygård Bergen
+Description: Dr. Line Svendsen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Line Svendsen, Orthopedic, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Nygård Bergen
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Line Svendsen, Orthopedic, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Nygård Bergen
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 5 for Dr. Line Svendsen, Orthopedic, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Nygård Bergen
+Description: Good bedside manner from Dr. Line Svendsen, but the parking near Legesenteret Nygård Bergen is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Line Svendsen, Orthopedic, Bergen
+Rating: 9/10
+Clinic visited: Legesenteret Nygård Bergen
+Description: Getting to Legesenteret Nygård Bergen by public transport in Bergen was easy, and there is a step-free entrance for wheelchairs. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Line Svendsen, Orthopedic, Bergen
+Rating: 6/10
+Clinic visited: Legesenteret Nygård Bergen
+Description: Dr. Line Svendsen explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 8 for Dr. Line Svendsen, Orthopedic, Bergen
+Rating: 10/10
+Clinic visited: Legesenteret Nygård Bergen
+Description: Clear aftercare instructions from Dr. Line Svendsen and a direct number to call if something felt wrong after my surgery. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Line Svendsen, Orthopedic, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Nygård Bergen
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 10 for Dr. Line Svendsen, Orthopedic, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Nygård Bergen
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 11 for Dr. Line Svendsen, Orthopedic, Bergen
+Rating: 7/10
+Clinic visited: Legesenteret Nygård Bergen
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Line Svendsen, Orthopedic, Bergen: 7.36/10 from 11 reviews

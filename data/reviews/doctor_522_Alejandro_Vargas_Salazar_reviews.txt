@@ -1,0 +1,64 @@
+Doctor: Dr. Alejandro Vargas Salazar
+Doctor ID: 522
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 17
+City: Puebla, Mexico
+Clinics: Centro Médico La Paz Poblano (clinic ID 71); Clínica Familiar San Manuel (clinic ID 73)
+
+Review 1 for Dr. Alejandro Vargas Salazar, Orthopedic, Puebla
+Rating: 9/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Alejandro Vargas Salazar, Orthopedic, Puebla
+Rating: 7/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 3 for Dr. Alejandro Vargas Salazar, Orthopedic, Puebla
+Rating: 6/10
+Clinic visited: Clínica Familiar San Manuel
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 4 for Dr. Alejandro Vargas Salazar, Orthopedic, Puebla
+Rating: 8/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Dr. Alejandro Vargas Salazar explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 5 for Dr. Alejandro Vargas Salazar, Orthopedic, Puebla
+Rating: 7/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 6 for Dr. Alejandro Vargas Salazar, Orthopedic, Puebla
+Rating: 6/10
+Clinic visited: Clínica Familiar San Manuel
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Alejandro Vargas Salazar explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Alejandro Vargas Salazar, Orthopedic, Puebla
+Rating: 5/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Very skilled with my knee, but Dr. Alejandro Vargas Salazar's clinic runs behind and the wait was over an hour.
+
+Review 8 for Dr. Alejandro Vargas Salazar, Orthopedic, Puebla
+Rating: 8/10
+Clinic visited: Clínica Familiar San Manuel
+Description: The receptionist at Clínica Familiar San Manuel remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 9 for Dr. Alejandro Vargas Salazar, Orthopedic, Puebla
+Rating: 6/10
+Clinic visited: Centro Médico La Paz Poblano
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 10 for Dr. Alejandro Vargas Salazar, Orthopedic, Puebla
+Rating: 8/10
+Clinic visited: Clínica Familiar San Manuel
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 11 for Dr. Alejandro Vargas Salazar, Orthopedic, Puebla
+Rating: 5/10
+Clinic visited: Clínica Familiar San Manuel
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Alejandro Vargas Salazar, Orthopedic, Puebla: 6.82/10 from 11 reviews

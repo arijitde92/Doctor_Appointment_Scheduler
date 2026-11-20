@@ -1,0 +1,49 @@
+Doctor: Dr. Hussain Mirza
+Doctor ID: 6312
+Specialization: Radiology
+Gender: Male
+Years of experience: 4
+City: Islamabad, Pakistan
+Clinics: G-9 Markaz Care Polyclinic (clinic ID 817)
+
+Review 1 for Dr. Hussain Mirza, Radiology, Islamabad
+Rating: 6/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 2 for Dr. Hussain Mirza, Radiology, Islamabad
+Rating: 9/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 3 for Dr. Hussain Mirza, Radiology, Islamabad
+Rating: 7/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Hussain Mirza, Radiology, Islamabad
+Rating: 7/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 5 for Dr. Hussain Mirza, Radiology, Islamabad
+Rating: 6/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 6 for Dr. Hussain Mirza, Radiology, Islamabad
+Rating: 8/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: I was called in within five minutes of my appointment time at G-9 Markaz Care Polyclinic, which is rare and much appreciated. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Hussain Mirza, Radiology, Islamabad
+Rating: 6/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 8 for Dr. Hussain Mirza, Radiology, Islamabad
+Rating: 9/10
+Clinic visited: G-9 Markaz Care Polyclinic
+Description: Dr. Hussain Mirza compared my new scan with last year's and pointed out exactly what had stayed the same. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Overall rating for Dr. Hussain Mirza, Radiology, Islamabad: 7.25/10 from 8 reviews

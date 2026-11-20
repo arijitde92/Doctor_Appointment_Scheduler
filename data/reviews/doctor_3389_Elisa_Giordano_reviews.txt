@@ -1,0 +1,49 @@
+Doctor: Dr. Elisa Giordano
+Doctor ID: 3389
+Specialization: Pathology
+Gender: Female
+Years of experience: 9
+City: Milan, Italy
+Clinics: Poliambulatorio Navigli (clinic ID 440)
+
+Review 1 for Dr. Elisa Giordano, Pathology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Navigli
+Description: The lab at Poliambulatorio Navigli had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 2 for Dr. Elisa Giordano, Pathology, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Navigli
+Description: Helpful in clarifying a borderline result, though Dr. Elisa Giordano gave little guidance about whether to repeat it. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Elisa Giordano, Pathology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Navigli
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 4 for Dr. Elisa Giordano, Pathology, Milan
+Rating: 7/10
+Clinic visited: Poliambulatorio Navigli
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Elisa Giordano, Pathology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Navigli
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 6 for Dr. Elisa Giordano, Pathology, Milan
+Rating: 7/10
+Clinic visited: Poliambulatorio Navigli
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 7 for Dr. Elisa Giordano, Pathology, Milan
+Rating: 9/10
+Clinic visited: Poliambulatorio Navigli
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 8 for Dr. Elisa Giordano, Pathology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Navigli
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Overall rating for Dr. Elisa Giordano, Pathology, Milan: 7.62/10 from 8 reviews

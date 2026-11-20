@@ -1,0 +1,49 @@
+Doctor: Dr. Emily Khan
+Doctor ID: 1119
+Specialization: Neurology
+Gender: Female
+Years of experience: 7
+City: London, UK
+Clinics: Aldersgate Street Polyclinic (clinic ID 147)
+
+Review 1 for Dr. Emily Khan, Neurology, London
+Rating: 10/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 2 for Dr. Emily Khan, Neurology, London
+Rating: 7/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 3 for Dr. Emily Khan, Neurology, London
+Rating: 7/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 4 for Dr. Emily Khan, Neurology, London
+Rating: 6/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Dr. Emily Khan was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Emily Khan, Neurology, London
+Rating: 7/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: I got what I needed, but the next available appointment was three weeks away. The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 6 for Dr. Emily Khan, Neurology, London
+Rating: 4/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Dr. Emily Khan did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 7 for Dr. Emily Khan, Neurology, London
+Rating: 6/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Emily Khan, Neurology, London
+Rating: 6/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Emily Khan at Aldersgate Street Polyclinic are difficult to schedule. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Emily Khan, Neurology, London: 6.62/10 from 8 reviews

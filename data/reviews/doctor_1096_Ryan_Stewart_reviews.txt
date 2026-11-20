@@ -1,0 +1,59 @@
+Doctor: Dr. Ryan Stewart
+Doctor ID: 1096
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 8
+City: Edinburgh, UK
+Clinics: Queensferry Street Polyclinic (clinic ID 143)
+
+Review 1 for Dr. Ryan Stewart, Pulmonology, Edinburgh
+Rating: 10/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Ryan Stewart, Pulmonology, Edinburgh
+Rating: 9/10
+Clinic visited: Queensferry Street Polyclinic
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. I was called in within five minutes of my appointment time at Queensferry Street Polyclinic, which is rare and much appreciated.
+
+Review 3 for Dr. Ryan Stewart, Pulmonology, Edinburgh
+Rating: 8/10
+Clinic visited: Queensferry Street Polyclinic
+Description: After years of poorly controlled asthma, Dr. Ryan Stewart reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. A translator was arranged for my mother without us asking twice, and Dr. Ryan Stewart spoke directly to her throughout.
+
+Review 4 for Dr. Ryan Stewart, Pulmonology, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 5 for Dr. Ryan Stewart, Pulmonology, Edinburgh
+Rating: 9/10
+Clinic visited: Queensferry Street Polyclinic
+Description: He called personally with my scan results and walked me through what the findings did and did not mean. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Ryan Stewart, Pulmonology, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Pleasant manner and careful lung exam, though the waiting time at Queensferry Street Polyclinic regularly exceeded forty minutes. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Ryan Stewart, Pulmonology, Edinburgh
+Rating: 9/10
+Clinic visited: Queensferry Street Polyclinic
+Description: My oxygen levels are monitored carefully at Queensferry Street Polyclinic, and the home equipment was arranged without any hassle. I have no hesitation sending my own relatives here.
+
+Review 8 for Dr. Ryan Stewart, Pulmonology, Edinburgh
+Rating: 9/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Edinburgh.
+
+Review 9 for Dr. Ryan Stewart, Pulmonology, Edinburgh
+Rating: 5/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 10 for Dr. Ryan Stewart, Pulmonology, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Queensferry Street Polyclinic.
+
+Overall rating for Dr. Ryan Stewart, Pulmonology, Edinburgh: 8.00/10 from 10 reviews

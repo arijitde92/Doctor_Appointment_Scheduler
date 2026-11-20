@@ -1,0 +1,54 @@
+Doctor: Dr. Zheng Ming-che
+Doctor ID: 4429
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 2
+City: Taipei, Taiwan
+Clinics: Zhongshan Kangle Medical Clinic (clinic ID 571)
+
+Review 1 for Dr. Zheng Ming-che, Psychiatry, Taipei
+Rating: 8/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps. My family was included in a session at my request, and Dr. Zheng Ming-che handled it with great tact. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Zheng Ming-che, Psychiatry, Taipei
+Rating: 7/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 3 for Dr. Zheng Ming-che, Psychiatry, Taipei
+Rating: 7/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Zheng Ming-che, Psychiatry, Taipei
+Rating: 8/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Getting to Zhongshan Kangle Medical Clinic by public transport in Taipei was easy, and there is a step-free entrance for wheelchairs.
+
+Review 5 for Dr. Zheng Ming-che, Psychiatry, Taipei
+Rating: 7/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Zheng Ming-che, Psychiatry, Taipei
+Rating: 7/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Zheng Ming-che, Psychiatry, Taipei
+Rating: 7/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Dr. Zheng Ming-che is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 8 for Dr. Zheng Ming-che, Psychiatry, Taipei
+Rating: 6/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Zhongshan Kangle Medical Clinic. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Zheng Ming-che, Psychiatry, Taipei
+Rating: 8/10
+Clinic visited: Zhongshan Kangle Medical Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Excellent at explaining how therapy and medication work together, and Dr. Zheng Ming-che coordinated with my counselor. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Zheng Ming-che, Psychiatry, Taipei: 7.22/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Sasaki Kazuya
+Doctor ID: 4041
+Specialization: Cardiology
+Gender: Male
+Years of experience: 10
+City: Osaka, Japan
+Clinics: Namba Hinata Clinic (clinic ID 521)
+
+Review 1 for Dr. Sasaki Kazuya, Cardiology, Osaka
+Rating: 7/10
+Clinic visited: Namba Hinata Clinic
+Description: Helpful with my cholesterol, Dr. Sasaki Kazuya still gave dietary advice that was a little generic. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Sasaki Kazuya, Cardiology, Osaka
+Rating: 5/10
+Clinic visited: Namba Hinata Clinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Sasaki Kazuya, Cardiology, Osaka
+Rating: 8/10
+Clinic visited: Namba Hinata Clinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning.
+
+Review 4 for Dr. Sasaki Kazuya, Cardiology, Osaka
+Rating: 9/10
+Clinic visited: Namba Hinata Clinic
+Description: After my heart attack, Dr. Sasaki Kazuya explained the rehab plan and medication changes with great patience and kindness. Sensitive questions were handled by Dr. Sasaki Kazuya with discretion and without a hint of judgment. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Sasaki Kazuya, Cardiology, Osaka
+Rating: 6/10
+Clinic visited: Namba Hinata Clinic
+Description: Dr. Sasaki Kazuya was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Sasaki Kazuya, Cardiology, Osaka
+Rating: 6/10
+Clinic visited: Namba Hinata Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Sasaki Kazuya, Cardiology, Osaka
+Rating: 8/10
+Clinic visited: Namba Hinata Clinic
+Description: Clear and calm advice at Namba Hinata Clinic about exercise after my stent, including a gradual written schedule. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Sasaki Kazuya, Cardiology, Osaka
+Rating: 7/10
+Clinic visited: Namba Hinata Clinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Overall rating for Dr. Sasaki Kazuya, Cardiology, Osaka: 7.00/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Nico Ferreira
+Doctor ID: 3232
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 9
+City: Differdange, Luxembourg
+Clinics: Centre de Santé Lasauvage (clinic ID 419)
+
+Review 1 for Dr. Nico Ferreira, Pulmonology, Differdange
+Rating: 7/10
+Clinic visited: Centre de Santé Lasauvage
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 2 for Dr. Nico Ferreira, Pulmonology, Differdange
+Rating: 8/10
+Clinic visited: Centre de Santé Lasauvage
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan.
+
+Review 3 for Dr. Nico Ferreira, Pulmonology, Differdange
+Rating: 9/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Appointment reminders came by text and email, and rescheduling took two taps. He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks.
+
+Review 4 for Dr. Nico Ferreira, Pulmonology, Differdange
+Rating: 7/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Dr. Nico Ferreira adjusted my asthma medication well, but the breathing test appointment was a month away. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Nico Ferreira, Pulmonology, Differdange
+Rating: 7/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Dr. Nico Ferreira was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Helpful and honest about my prognosis, Dr. Nico Ferreira could still have given me more written material to take home.
+
+Review 6 for Dr. Nico Ferreira, Pulmonology, Differdange
+Rating: 9/10
+Clinic visited: Centre de Santé Lasauvage
+Description: My oxygen levels are monitored carefully at Centre de Santé Lasauvage, and the home equipment was arranged without any hassle. Dr. Nico Ferreira drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 7 for Dr. Nico Ferreira, Pulmonology, Differdange
+Rating: 8/10
+Clinic visited: Centre de Santé Lasauvage
+Description: After years of poorly controlled asthma, Dr. Nico Ferreira reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 8 for Dr. Nico Ferreira, Pulmonology, Differdange
+Rating: 7/10
+Clinic visited: Centre de Santé Lasauvage
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Overall rating for Dr. Nico Ferreira, Pulmonology, Differdange: 7.75/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Zhou Xiaoli
+Doctor ID: 3944
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 5
+City: Shanghai, China
+Clinics: Xujiahui Pinghe Medical Clinic (clinic ID 509)
+
+Review 1 for Dr. Zhou Xiaoli, Pulmonology, Shanghai
+Rating: 8/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 2 for Dr. Zhou Xiaoli, Pulmonology, Shanghai
+Rating: 4/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: My questions were answered by Dr. Zhou Xiaoli with short, vague replies, and I left without a clear plan. The breathing test appointment was cancelled the day before, and the next slot was six weeks away.
+
+Review 3 for Dr. Zhou Xiaoli, Pulmonology, Shanghai
+Rating: 4/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: My persistent cough was labelled as allergies by Dr. Zhou Xiaoli without any chest examination or breathing test.
+
+Review 4 for Dr. Zhou Xiaoli, Pulmonology, Shanghai
+Rating: 6/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 5 for Dr. Zhou Xiaoli, Pulmonology, Shanghai
+Rating: 7/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Helpful and honest about my prognosis, Dr. Zhou Xiaoli could still have given me more written material to take home.
+
+Review 6 for Dr. Zhou Xiaoli, Pulmonology, Shanghai
+Rating: 4/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: The prescription from Dr. Zhou Xiaoli was not the one we discussed, and I only noticed when I got home. I called twice about worsening symptoms and no one returned my message until the following week.
+
+Review 7 for Dr. Zhou Xiaoli, Pulmonology, Shanghai
+Rating: 6/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Xujiahui Pinghe Medical Clinic regularly exceeded forty minutes. Dr. Zhou Xiaoli was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Zhou Xiaoli, Pulmonology, Shanghai
+Rating: 7/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Zhou Xiaoli, Pulmonology, Shanghai
+Rating: 5/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Zhou Xiaoli, Pulmonology, Shanghai
+Rating: 5/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Dr. Zhou Xiaoli adjusted my asthma medication well, but the breathing test appointment was a month away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Zhou Xiaoli, Pulmonology, Shanghai: 5.60/10 from 10 reviews

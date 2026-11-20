@@ -1,0 +1,69 @@
+Doctor: Dr. Antonio Aquino
+Doctor ID: 4808
+Specialization: Pathology
+Gender: Male
+Years of experience: 13
+City: Davao City, Philippines
+Clinics: Araw Family Clinic (clinic ID 621); San Isidro Polyclinic (clinic ID 622)
+
+Review 1 for Dr. Antonio Aquino, Pathology, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: The staff and Dr. Antonio Aquino patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Review 2 for Dr. Antonio Aquino, Pathology, Davao City
+Rating: 8/10
+Clinic visited: San Isidro Polyclinic
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 3 for Dr. Antonio Aquino, Pathology, Davao City
+Rating: 8/10
+Clinic visited: San Isidro Polyclinic
+Description: Fast turnaround at San Isidro Polyclinic on my thyroid panel, with results in my online account by the next morning.
+
+Review 4 for Dr. Antonio Aquino, Pathology, Davao City
+Rating: 8/10
+Clinic visited: Araw Family Clinic
+Description: Dr. Antonio Aquino took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 5 for Dr. Antonio Aquino, Pathology, Davao City
+Rating: 7/10
+Clinic visited: Araw Family Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 6 for Dr. Antonio Aquino, Pathology, Davao City
+Rating: 9/10
+Clinic visited: Araw Family Clinic
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Sensitive questions were handled by Dr. Antonio Aquino with discretion and without a hint of judgment. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Antonio Aquino, Pathology, Davao City
+Rating: 9/10
+Clinic visited: San Isidro Polyclinic
+Description: Everything was explained in plain English by Dr. Antonio Aquino, and nothing was left to guess. Allergy panel results were explained in detail by Dr. Antonio Aquino, with a note on which results mattered clinically and which did not.
+
+Review 8 for Dr. Antonio Aquino, Pathology, Davao City
+Rating: 8/10
+Clinic visited: San Isidro Polyclinic
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Review 9 for Dr. Antonio Aquino, Pathology, Davao City
+Rating: 10/10
+Clinic visited: San Isidro Polyclinic
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 10 for Dr. Antonio Aquino, Pathology, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: I was nervous about the biopsy result, and the call from Dr. Antonio Aquino was gentle, honest and unhurried. Getting to Araw Family Clinic by public transport in Davao City was easy, and there is a step-free entrance for wheelchairs. I would happily recommend this doctor to friends and family.
+
+Review 11 for Dr. Antonio Aquino, Pathology, Davao City
+Rating: 8/10
+Clinic visited: Araw Family Clinic
+Description: The biopsy report was returned in three days, and Dr. Antonio Aquino took time on the phone to explain every term in it. I came away understanding my condition better than I have in years of previous appointments. Highly recommended, and I have already told two colleagues about it.
+
+Review 12 for Dr. Antonio Aquino, Pathology, Davao City
+Rating: 8/10
+Clinic visited: San Isidro Polyclinic
+Description: The lab at San Isidro Polyclinic had a quick, friendly blood draw and the phlebotomist found my vein on the first try. Dr. Antonio Aquino used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Overall rating for Dr. Antonio Aquino, Pathology, Davao City: 8.58/10 from 12 reviews

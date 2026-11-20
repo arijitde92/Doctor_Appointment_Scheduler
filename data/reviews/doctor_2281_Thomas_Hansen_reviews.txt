@@ -1,0 +1,49 @@
+Doctor: Dr. Thomas Hansen
+Doctor ID: 2281
+Specialization: General
+Gender: Male
+Years of experience: 3
+City: Aalborg, Denmark
+Clinics: Lægehuset Algade Plus (clinic ID 298)
+
+Review 1 for Dr. Thomas Hansen, General, Aalborg
+Rating: 7/10
+Clinic visited: Lægehuset Algade Plus
+Description: Referrals from Dr. Thomas Hansen are handled well, but getting test results back took longer than I was told to expect. I got what I needed, but the next available appointment was three weeks away. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Thomas Hansen, General, Aalborg
+Rating: 8/10
+Clinic visited: Lægehuset Algade Plus
+Description: Vaccination advice from Dr. Thomas Hansen for my travel plans was thorough and specific to the countries I was visiting. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 3 for Dr. Thomas Hansen, General, Aalborg
+Rating: 7/10
+Clinic visited: Lægehuset Algade Plus
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 4 for Dr. Thomas Hansen, General, Aalborg
+Rating: 10/10
+Clinic visited: Lægehuset Algade Plus
+Description: Sensitive questions were handled by Dr. Thomas Hansen with discretion and without a hint of judgment.
+
+Review 5 for Dr. Thomas Hansen, General, Aalborg
+Rating: 7/10
+Clinic visited: Lægehuset Algade Plus
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Thomas Hansen, General, Aalborg
+Rating: 9/10
+Clinic visited: Lægehuset Algade Plus
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I was called in within five minutes of my appointment time at Lægehuset Algade Plus, which is rare and much appreciated.
+
+Review 7 for Dr. Thomas Hansen, General, Aalborg
+Rating: 9/10
+Clinic visited: Lægehuset Algade Plus
+Description: Managing my type 2 diabetes with Dr. Thomas Hansen has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 8 for Dr. Thomas Hansen, General, Aalborg
+Rating: 9/10
+Clinic visited: Lægehuset Algade Plus
+Description: Dr. Thomas Hansen spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Overall rating for Dr. Thomas Hansen, General, Aalborg: 8.25/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Bayu Sihombing
+Doctor ID: 5104
+Specialization: Pathology
+Gender: Male
+Years of experience: 13
+City: Bandung, Indonesia
+Clinics: Klinik Permata Sehat (clinic ID 659)
+
+Review 1 for Dr. Bayu Sihombing, Pathology, Bandung
+Rating: 8/10
+Clinic visited: Klinik Permata Sehat
+Description: Fast turnaround at Klinik Permata Sehat on my thyroid panel, with results in my online account by the next morning. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Bayu Sihombing, Pathology, Bandung
+Rating: 10/10
+Clinic visited: Klinik Permata Sehat
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Dr. Bayu Sihombing took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 3 for Dr. Bayu Sihombing, Pathology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Permata Sehat
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Bayu Sihombing, Pathology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Permata Sehat
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Bayu Sihombing, Pathology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Permata Sehat
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 6 for Dr. Bayu Sihombing, Pathology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Permata Sehat
+Description: The blood draw was painless, but the waiting area at Klinik Permata Sehat was crowded in the early morning.
+
+Review 7 for Dr. Bayu Sihombing, Pathology, Bandung
+Rating: 9/10
+Clinic visited: Klinik Permata Sehat
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Bandung.
+
+Review 8 for Dr. Bayu Sihombing, Pathology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Permata Sehat
+Description: Booking was easy online, but the confirmation email contained the wrong address for Klinik Permata Sehat. Helpful in clarifying a borderline result, though Dr. Bayu Sihombing gave little guidance about whether to repeat it.
+
+Review 9 for Dr. Bayu Sihombing, Pathology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Permata Sehat
+Description: Quick appointment and a fair price in Bandung, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Bayu Sihombing, Pathology, Bandung: 7.44/10 from 9 reviews

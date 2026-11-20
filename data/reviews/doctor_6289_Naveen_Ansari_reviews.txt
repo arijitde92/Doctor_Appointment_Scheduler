@@ -1,0 +1,49 @@
+Doctor: Dr. Naveen Ansari
+Doctor ID: 6289
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 24
+City: Lusail, Qatar
+Clinics: Al Erkyah Wellness Clinic (clinic ID 814)
+
+Review 1 for Dr. Naveen Ansari, Pulmonology, Lusail
+Rating: 6/10
+Clinic visited: Al Erkyah Wellness Clinic
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 2 for Dr. Naveen Ansari, Pulmonology, Lusail
+Rating: 5/10
+Clinic visited: Al Erkyah Wellness Clinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 3 for Dr. Naveen Ansari, Pulmonology, Lusail
+Rating: 7/10
+Clinic visited: Al Erkyah Wellness Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Al Erkyah Wellness Clinic regularly exceeded forty minutes.
+
+Review 4 for Dr. Naveen Ansari, Pulmonology, Lusail
+Rating: 9/10
+Clinic visited: Al Erkyah Wellness Clinic
+Description: At Al Erkyah Wellness Clinic, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 5 for Dr. Naveen Ansari, Pulmonology, Lusail
+Rating: 6/10
+Clinic visited: Al Erkyah Wellness Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Naveen Ansari adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 6 for Dr. Naveen Ansari, Pulmonology, Lusail
+Rating: 9/10
+Clinic visited: Al Erkyah Wellness Clinic
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 7 for Dr. Naveen Ansari, Pulmonology, Lusail
+Rating: 6/10
+Clinic visited: Al Erkyah Wellness Clinic
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Clear explanations, but the follow-up call took a week longer than I had been told. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Naveen Ansari, Pulmonology, Lusail
+Rating: 7/10
+Clinic visited: Al Erkyah Wellness Clinic
+Description: Dr. Naveen Ansari was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Naveen Ansari, Pulmonology, Lusail: 6.88/10 from 8 reviews

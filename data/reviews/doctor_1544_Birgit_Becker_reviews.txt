@@ -1,0 +1,49 @@
+Doctor: Dr. Birgit Becker
+Doctor ID: 1544
+Specialization: Psychology
+Gender: Female
+Years of experience: 5
+City: Frankfurt, Germany
+Clinics: Ärztehaus Bornheim Mitte (clinic ID 201); Gesundheitspraxis Bockenheimer Warte (clinic ID 203); Praxisgemeinschaft Ostend Main (clinic ID 204)
+
+Review 1 for Dr. Birgit Becker, Psychology, Frankfurt
+Rating: 7/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 2 for Dr. Birgit Becker, Psychology, Frankfurt
+Rating: 8/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 3 for Dr. Birgit Becker, Psychology, Frankfurt
+Rating: 9/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: She has a calm way of asking the difficult questions that makes it feel safe to answer honestly. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 4 for Dr. Birgit Becker, Psychology, Frankfurt
+Rating: 7/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Birgit Becker, Psychology, Frankfurt
+Rating: 9/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 6 for Dr. Birgit Becker, Psychology, Frankfurt
+Rating: 9/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Birgit Becker gave me practical tools I still use. Sensitive questions were handled by Dr. Birgit Becker with discretion and without a hint of judgment.
+
+Review 7 for Dr. Birgit Becker, Psychology, Frankfurt
+Rating: 10/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: A translator was arranged for my mother without us asking twice, and Dr. Birgit Becker spoke directly to her throughout. Finally, a therapist who explained how my sleep problems and my worry loops were connected. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Birgit Becker, Psychology, Frankfurt
+Rating: 9/10
+Clinic visited: Ärztehaus Bornheim Mitte
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Overall rating for Dr. Birgit Becker, Psychology, Frankfurt: 8.50/10 from 8 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Facundo Pérez
+Doctor ID: 756
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 5
+City: Cordoba, Argentina
+Clinics: Clínica Nueva Córdoba Salud (clinic ID 100)
+
+Review 1 for Dr. Facundo Pérez, Gastroenterology, Cordoba
+Rating: 5/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 2 for Dr. Facundo Pérez, Gastroenterology, Cordoba
+Rating: 7/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Dr. Facundo Pérez was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Facundo Pérez, Gastroenterology, Cordoba
+Rating: 7/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 4 for Dr. Facundo Pérez, Gastroenterology, Cordoba
+Rating: 6/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: Knowledgeable about my reflux, Dr. Facundo Pérez still gave diet advice that felt generic and not tailored to my habits.
+
+Review 5 for Dr. Facundo Pérez, Gastroenterology, Cordoba
+Rating: 5/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Facundo Pérez, Gastroenterology, Cordoba
+Rating: 9/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: At my visit, Dr. Facundo Pérez took notes on my medication list, checked for interactions and explained the changes simply. The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner.
+
+Review 7 for Dr. Facundo Pérez, Gastroenterology, Cordoba
+Rating: 4/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: My symptoms were dismissed by Dr. Facundo Pérez as a diet issue without any exam, and the problem continued for months. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 8 for Dr. Facundo Pérez, Gastroenterology, Cordoba
+Rating: 10/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: I get regular check-ups for my Crohn's disease, and Dr. Facundo Pérez adjusts my treatment carefully and always explains why.
+
+Review 9 for Dr. Facundo Pérez, Gastroenterology, Cordoba
+Rating: 5/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: Dr. Facundo Pérez is thorough, but I waited nearly two months to get the first available slot.
+
+Review 10 for Dr. Facundo Pérez, Gastroenterology, Cordoba
+Rating: 5/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Worth trying, but I would not call it the best option in the area.
+
+Review 11 for Dr. Facundo Pérez, Gastroenterology, Cordoba
+Rating: 8/10
+Clinic visited: Clínica Nueva Córdoba Salud
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan.
+
+Overall rating for Dr. Facundo Pérez, Gastroenterology, Cordoba: 6.45/10 from 11 reviews

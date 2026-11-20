@@ -1,0 +1,49 @@
+Doctor: Dr. Stefan Weber
+Doctor ID: 2896
+Specialization: Pathology
+Gender: Male
+Years of experience: 23
+City: Graz, Austria
+Clinics: Medizinisches Zentrum Leonhard (clinic ID 378)
+
+Review 1 for Dr. Stefan Weber, Pathology, Graz
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 2 for Dr. Stefan Weber, Pathology, Graz
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: A translator was arranged for my mother without us asking twice, and Dr. Stefan Weber spoke directly to her throughout.
+
+Review 3 for Dr. Stefan Weber, Pathology, Graz
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Graz.
+
+Review 4 for Dr. Stefan Weber, Pathology, Graz
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: Dr. Stefan Weber drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 5 for Dr. Stefan Weber, Pathology, Graz
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not.
+
+Review 6 for Dr. Stefan Weber, Pathology, Graz
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Dr. Stefan Weber took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 7 for Dr. Stefan Weber, Pathology, Graz
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: I was called in within five minutes of my appointment time at Medizinisches Zentrum Leonhard, which is rare and much appreciated. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Stefan Weber, Pathology, Graz
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Leonhard
+Description: The practice in Graz is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. The lab under Dr. Stefan Weber was clean, organized and never overbooked, and results arrived exactly when promised.
+
+Overall rating for Dr. Stefan Weber, Pathology, Graz: 9.12/10 from 8 reviews

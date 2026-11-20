@@ -1,0 +1,54 @@
+Doctor: Dr. Jennifer Williams
+Doctor ID: 6630
+Specialization: General
+Gender: Female
+Years of experience: 16
+City: Christchurch, New Zealand
+Clinics: Rimu Family Clinic (clinic ID 860); Kiwi Care Medical Centre (clinic ID 861)
+
+Review 1 for Dr. Jennifer Williams, General, Christchurch
+Rating: 9/10
+Clinic visited: Rimu Family Clinic
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 2 for Dr. Jennifer Williams, General, Christchurch
+Rating: 7/10
+Clinic visited: Kiwi Care Medical Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Referrals from Dr. Jennifer Williams are handled well, but getting test results back took longer than I was told to expect.
+
+Review 3 for Dr. Jennifer Williams, General, Christchurch
+Rating: 8/10
+Clinic visited: Rimu Family Clinic
+Description: She was upfront about what could and could not be treated, and did not oversell any option. Dr. Jennifer Williams spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Jennifer Williams, General, Christchurch
+Rating: 8/10
+Clinic visited: Rimu Family Clinic
+Description: I always hear back within a day when I leave a question with the nurse at Rimu Family Clinic, and Dr. Jennifer Williams follows up on lab results personally. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 5 for Dr. Jennifer Williams, General, Christchurch
+Rating: 9/10
+Clinic visited: Kiwi Care Medical Centre
+Description: Managing my type 2 diabetes with Dr. Jennifer Williams has been steady and practical, with quarterly blood sugar reviews and no lectures. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Jennifer Williams, General, Christchurch
+Rating: 10/10
+Clinic visited: Kiwi Care Medical Centre
+Description: Vaccination advice from Dr. Jennifer Williams for my travel plans was thorough and specific to the countries I was visiting. The waiting room at Kiwi Care Medical Centre was clean, quiet and comfortable, with enough seating and water available. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Jennifer Williams, General, Christchurch
+Rating: 8/10
+Clinic visited: Kiwi Care Medical Centre
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. My blood pressure had crept up and Dr. Jennifer Williams walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 8 for Dr. Jennifer Williams, General, Christchurch
+Rating: 9/10
+Clinic visited: Rimu Family Clinic
+Description: The receptionist at Rimu Family Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 9 for Dr. Jennifer Williams, General, Christchurch
+Rating: 8/10
+Clinic visited: Rimu Family Clinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Overall rating for Dr. Jennifer Williams, General, Christchurch: 8.44/10 from 9 reviews

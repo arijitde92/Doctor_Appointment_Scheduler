@@ -1,0 +1,54 @@
+Doctor: Dr. Roberto Castillo
+Doctor ID: 1009
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 5
+City: Trujillo, Peru
+Clinics: Consultorios Médicos Mansiche (clinic ID 132)
+
+Review 1 for Dr. Roberto Castillo, Pulmonology, Trujillo
+Rating: 4/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: The staff at Consultorios Médicos Mansiche were curt on the phone, and it took four attempts to book a simple follow-up.
+
+Review 2 for Dr. Roberto Castillo, Pulmonology, Trujillo
+Rating: 5/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 3 for Dr. Roberto Castillo, Pulmonology, Trujillo
+Rating: 7/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Booking was easy online, but the confirmation email contained the wrong address for Consultorios Médicos Mansiche.
+
+Review 4 for Dr. Roberto Castillo, Pulmonology, Trujillo
+Rating: 5/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Dr. Roberto Castillo adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 5 for Dr. Roberto Castillo, Pulmonology, Trujillo
+Rating: 5/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Dr. Roberto Castillo was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Roberto Castillo, Pulmonology, Trujillo
+Rating: 8/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: He was upfront about what could and could not be treated, and did not oversell any option. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Roberto Castillo, Pulmonology, Trujillo
+Rating: 7/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 8 for Dr. Roberto Castillo, Pulmonology, Trujillo
+Rating: 7/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Pleasant manner and careful lung exam, though the waiting time at Consultorios Médicos Mansiche regularly exceeded forty minutes. I liked the advice I got from Dr. Roberto Castillo, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 9 for Dr. Roberto Castillo, Pulmonology, Trujillo
+Rating: 9/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Getting to Consultorios Médicos Mansiche by public transport in Trujillo was easy, and there is a step-free entrance for wheelchairs.
+
+Overall rating for Dr. Roberto Castillo, Pulmonology, Trujillo: 6.33/10 from 9 reviews

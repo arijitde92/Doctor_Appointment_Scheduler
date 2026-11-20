@@ -1,0 +1,69 @@
+Doctor: Dr. Jack Kennedy
+Doctor ID: 2450
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 19
+City: Dublin, Ireland
+Clinics: Baggot Street Medical Centre (clinic ID 320)
+
+Review 1 for Dr. Jack Kennedy, Psychiatry, Dublin
+Rating: 10/10
+Clinic visited: Baggot Street Medical Centre
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. The receptionist at Baggot Street Medical Centre remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 2 for Dr. Jack Kennedy, Psychiatry, Dublin
+Rating: 9/10
+Clinic visited: Baggot Street Medical Centre
+Description: At my visit, Dr. Jack Kennedy took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 3 for Dr. Jack Kennedy, Psychiatry, Dublin
+Rating: 10/10
+Clinic visited: Baggot Street Medical Centre
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 4 for Dr. Jack Kennedy, Psychiatry, Dublin
+Rating: 8/10
+Clinic visited: Baggot Street Medical Centre
+Description: Getting to Baggot Street Medical Centre by public transport in Dublin was easy, and there is a step-free entrance for wheelchairs.
+
+Review 5 for Dr. Jack Kennedy, Psychiatry, Dublin
+Rating: 9/10
+Clinic visited: Baggot Street Medical Centre
+Description: I can ring Baggot Street Medical Centre with an urgent question and receive a thoughtful reply the same day. Dr. Jack Kennedy double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Jack Kennedy, Psychiatry, Dublin
+Rating: 6/10
+Clinic visited: Baggot Street Medical Centre
+Description: Dr. Jack Kennedy is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 7 for Dr. Jack Kennedy, Psychiatry, Dublin
+Rating: 6/10
+Clinic visited: Baggot Street Medical Centre
+Description: Good listener, yet the refill process at Baggot Street Medical Centre is slow and requires several phone calls. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Jack Kennedy, Psychiatry, Dublin
+Rating: 10/10
+Clinic visited: Baggot Street Medical Centre
+Description: A translator was arranged for my mother without us asking twice, and Dr. Jack Kennedy spoke directly to her throughout.
+
+Review 9 for Dr. Jack Kennedy, Psychiatry, Dublin
+Rating: 10/10
+Clinic visited: Baggot Street Medical Centre
+Description: My depression finally has a treatment plan from Dr. Jack Kennedy that works, with regular check-ins and careful dose changes. My whole family is switching over after seeing how good the care was.
+
+Review 10 for Dr. Jack Kennedy, Psychiatry, Dublin
+Rating: 10/10
+Clinic visited: Baggot Street Medical Centre
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Appointment reminders came by text and email, and rescheduling took two taps. Five stars from me, and I would book again tomorrow.
+
+Review 11 for Dr. Jack Kennedy, Psychiatry, Dublin
+Rating: 8/10
+Clinic visited: Baggot Street Medical Centre
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Excellent at explaining how therapy and medication work together, and Dr. Jack Kennedy coordinated with my counselor. I have no hesitation sending my own relatives here.
+
+Review 12 for Dr. Jack Kennedy, Psychiatry, Dublin
+Rating: 7/10
+Clinic visited: Baggot Street Medical Centre
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Quick appointment and a fair price in Dublin, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Jack Kennedy, Psychiatry, Dublin: 8.58/10 from 12 reviews

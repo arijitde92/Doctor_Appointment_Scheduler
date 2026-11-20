@@ -1,0 +1,49 @@
+Doctor: Dr. Mark Gonzalez
+Doctor ID: 226
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 6
+City: San Francisco, USA
+Clinics: Cow Hollow Health Associates (clinic ID 32)
+
+Review 1 for Dr. Mark Gonzalez, Pulmonology, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: Sensitive questions were handled by Dr. Mark Gonzalez with discretion and without a hint of judgment. Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Mark Gonzalez, Pulmonology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 3 for Dr. Mark Gonzalez, Pulmonology, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: I always leave Dr. Mark Gonzalez's office with a written summary of my breathing test results and what changed since the last visit. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Mark Gonzalez, Pulmonology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: After years of poorly controlled asthma, Dr. Mark Gonzalez reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 5 for Dr. Mark Gonzalez, Pulmonology, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: The spirometry test was explained step by step, and Dr. Mark Gonzalez put the results in context with a clear picture of my lung function. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 6 for Dr. Mark Gonzalez, Pulmonology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: A same-day slot was found for me at Cow Hollow Health Associates when I called with a worrying symptom. At Cow Hollow Health Associates, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 7 for Dr. Mark Gonzalez, Pulmonology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Mark Gonzalez.
+
+Review 8 for Dr. Mark Gonzalez, Pulmonology, San Francisco
+Rating: 10/10
+Clinic visited: Cow Hollow Health Associates
+Description: Dr. Mark Gonzalez used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Overall rating for Dr. Mark Gonzalez, Pulmonology, San Francisco: 8.62/10 from 8 reviews

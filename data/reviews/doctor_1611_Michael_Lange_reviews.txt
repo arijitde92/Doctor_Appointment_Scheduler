@@ -1,0 +1,69 @@
+Doctor: Dr. Michael Lange
+Doctor ID: 1611
+Specialization: Psychology
+Gender: Male
+Years of experience: 9
+City: Munich, Germany
+Clinics: Praxisgemeinschaft Leopoldpark (clinic ID 210); Medicum Sendlinger Tor (clinic ID 211); Gesundheitszentrum Haidhausen Ost (clinic ID 213)
+
+Review 1 for Dr. Michael Lange, Psychology, Munich
+Rating: 8/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: The waiting room at Praxisgemeinschaft Leopoldpark was clean, quiet and comfortable, with enough seating and water available.
+
+Review 2 for Dr. Michael Lange, Psychology, Munich
+Rating: 9/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Warm, patient and honest, Dr. Michael Lange told me what progress to expect and it matched reality. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Michael Lange, Psychology, Munich
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Michael Lange, Psychology, Munich
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown.
+
+Review 5 for Dr. Michael Lange, Psychology, Munich
+Rating: 8/10
+Clinic visited: Medicum Sendlinger Tor
+Description: At my visit, Dr. Michael Lange took notes on my medication list, checked for interactions and explained the changes simply. The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Review 6 for Dr. Michael Lange, Psychology, Munich
+Rating: 9/10
+Clinic visited: Medicum Sendlinger Tor
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Michael Lange designed around my actual job.
+
+Review 7 for Dr. Michael Lange, Psychology, Munich
+Rating: 7/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Michael Lange, Psychology, Munich
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected. Dr. Michael Lange drew a quick sketch to explain what was going on, which helped me remember it afterwards. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 9 for Dr. Michael Lange, Psychology, Munich
+Rating: 9/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I have no hesitation sending my own relatives here.
+
+Review 10 for Dr. Michael Lange, Psychology, Munich
+Rating: 8/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Michael Lange gave me practical tools I still use. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 11 for Dr. Michael Lange, Psychology, Munich
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Haidhausen Ost
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 12 for Dr. Michael Lange, Psychology, Munich
+Rating: 8/10
+Clinic visited: Medicum Sendlinger Tor
+Description: Online sessions through Medicum Sendlinger Tor worked just as well as in-person ones, and the video link never once failed.
+
+Overall rating for Dr. Michael Lange, Psychology, Munich: 8.17/10 from 12 reviews

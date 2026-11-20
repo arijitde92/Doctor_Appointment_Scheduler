@@ -1,0 +1,54 @@
+Doctor: Dr. Suzuki Shinji
+Doctor ID: 3999
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 2
+City: Kyoto, Japan
+Clinics: Kawaramachi Fuji Medical Clinic (clinic ID 515); Karasuma Matsu Family Clinic (clinic ID 516); Nijo Yume Medical Clinic (clinic ID 519)
+
+Review 1 for Dr. Suzuki Shinji, Pulmonology, Kyoto
+Rating: 6/10
+Clinic visited: Kawaramachi Fuji Medical Clinic
+Description: Dr. Suzuki Shinji adjusted my asthma medication well, but the breathing test appointment was a month away. Dr. Suzuki Shinji was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Suzuki Shinji, Pulmonology, Kyoto
+Rating: 6/10
+Clinic visited: Kawaramachi Fuji Medical Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Kawaramachi Fuji Medical Clinic regularly exceeded forty minutes. Dr. Suzuki Shinji was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Suzuki Shinji, Pulmonology, Kyoto
+Rating: 6/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Suzuki Shinji, Pulmonology, Kyoto
+Rating: 5/10
+Clinic visited: Kawaramachi Fuji Medical Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Suzuki Shinji, Pulmonology, Kyoto
+Rating: 4/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: I called twice about worsening symptoms and no one returned my message until the following week.
+
+Review 6 for Dr. Suzuki Shinji, Pulmonology, Kyoto
+Rating: 3/10
+Clinic visited: Kawaramachi Fuji Medical Clinic
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 7 for Dr. Suzuki Shinji, Pulmonology, Kyoto
+Rating: 4/10
+Clinic visited: Karasuma Matsu Family Clinic
+Description: Dr. Suzuki Shinji rushed through my scan results and I left the room unsure whether I needed treatment. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 8 for Dr. Suzuki Shinji, Pulmonology, Kyoto
+Rating: 3/10
+Clinic visited: Kawaramachi Fuji Medical Clinic
+Description: The breathing test appointment was cancelled the day before, and the next slot was six weeks away.
+
+Review 9 for Dr. Suzuki Shinji, Pulmonology, Kyoto
+Rating: 6/10
+Clinic visited: Nijo Yume Medical Clinic
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Suzuki Shinji, Pulmonology, Kyoto: 4.78/10 from 9 reviews

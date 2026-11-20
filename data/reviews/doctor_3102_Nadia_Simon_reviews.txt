@@ -1,0 +1,49 @@
+Doctor: Dr. Nadia Simon
+Doctor ID: 3102
+Specialization: Cardiology
+Gender: Female
+Years of experience: 20
+City: Brussels, Belgium
+Clinics: Medisch Centrum Schuman (clinic ID 403)
+
+Review 1 for Dr. Nadia Simon, Cardiology, Brussels
+Rating: 6/10
+Clinic visited: Medisch Centrum Schuman
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 2 for Dr. Nadia Simon, Cardiology, Brussels
+Rating: 7/10
+Clinic visited: Medisch Centrum Schuman
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Nadia Simon, Cardiology, Brussels
+Rating: 8/10
+Clinic visited: Medisch Centrum Schuman
+Description: A same-day slot was found for me at Medisch Centrum Schuman when I called with a worrying symptom.
+
+Review 4 for Dr. Nadia Simon, Cardiology, Brussels
+Rating: 4/10
+Clinic visited: Medisch Centrum Schuman
+Description: My worries about side effects from my medication were waved off, and nobody offered an alternative. The prescription from Dr. Nadia Simon was not the one we discussed, and I only noticed when I got home.
+
+Review 5 for Dr. Nadia Simon, Cardiology, Brussels
+Rating: 9/10
+Clinic visited: Medisch Centrum Schuman
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Nadia Simon, Cardiology, Brussels
+Rating: 9/10
+Clinic visited: Medisch Centrum Schuman
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 7 for Dr. Nadia Simon, Cardiology, Brussels
+Rating: 6/10
+Clinic visited: Medisch Centrum Schuman
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Nadia Simon, Cardiology, Brussels
+Rating: 9/10
+Clinic visited: Medisch Centrum Schuman
+Description: Dr. Nadia Simon double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Overall rating for Dr. Nadia Simon, Cardiology, Brussels: 7.25/10 from 8 reviews

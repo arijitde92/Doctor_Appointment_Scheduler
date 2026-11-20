@@ -1,0 +1,59 @@
+Doctor: Dr. Espen Larsen
+Doctor ID: 1989
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 21
+City: Oslo, Norway
+Clinics: Legesenteret Karl Johan Plus (clinic ID 260); Legesenteret Bogstad Park (clinic ID 264)
+
+Review 1 for Dr. Espen Larsen, Pediatrics, Oslo
+Rating: 7/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: I got what I needed, but the next available appointment was three weeks away. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Espen Larsen, Pediatrics, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Bogstad Park
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Espen Larsen, Pediatrics, Oslo
+Rating: 7/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Caring and gentle with my child, Dr. Espen Larsen nonetheless ran forty minutes behind schedule at most appointments. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Espen Larsen, Pediatrics, Oslo
+Rating: 8/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 5 for Dr. Espen Larsen, Pediatrics, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 6 for Dr. Espen Larsen, Pediatrics, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Espen Larsen, Pediatrics, Oslo
+Rating: 10/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 8 for Dr. Espen Larsen, Pediatrics, Oslo
+Rating: 7/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 9 for Dr. Espen Larsen, Pediatrics, Oslo
+Rating: 8/10
+Clinic visited: Legesenteret Bogstad Park
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 10 for Dr. Espen Larsen, Pediatrics, Oslo
+Rating: 5/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Espen Larsen, Pediatrics, Oslo: 7.00/10 from 10 reviews

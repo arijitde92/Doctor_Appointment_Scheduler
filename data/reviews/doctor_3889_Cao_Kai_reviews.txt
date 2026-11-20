@@ -1,0 +1,69 @@
+Doctor: Dr. Cao Kai
+Doctor ID: 3889
+Specialization: Neurology
+Gender: Male
+Years of experience: 11
+City: Guangzhou, China
+Clinics: Dongfeng Family Health Practice (clinic ID 502)
+
+Review 1 for Dr. Cao Kai, Neurology, Guangzhou
+Rating: 9/10
+Clinic visited: Dongfeng Family Health Practice
+Description: Prescriptions from Dr. Cao Kai were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 2 for Dr. Cao Kai, Neurology, Guangzhou
+Rating: 8/10
+Clinic visited: Dongfeng Family Health Practice
+Description: I always leave Dr. Cao Kai's office with a short written summary of changes, which helps my family keep up.
+
+Review 3 for Dr. Cao Kai, Neurology, Guangzhou
+Rating: 6/10
+Clinic visited: Dongfeng Family Health Practice
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 4 for Dr. Cao Kai, Neurology, Guangzhou
+Rating: 8/10
+Clinic visited: Dongfeng Family Health Practice
+Description: Clear and honest talk with Dr. Cao Kai about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Review 5 for Dr. Cao Kai, Neurology, Guangzhou
+Rating: 9/10
+Clinic visited: Dongfeng Family Health Practice
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Cao Kai, Neurology, Guangzhou
+Rating: 6/10
+Clinic visited: Dongfeng Family Health Practice
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 7 for Dr. Cao Kai, Neurology, Guangzhou
+Rating: 5/10
+Clinic visited: Dongfeng Family Health Practice
+Description: I liked the advice I got from Dr. Cao Kai, but I would have liked more time to ask follow-up questions before the visit ended. The migraine plan has helped, though the first medication caused side effects that were not fully explained. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Cao Kai, Neurology, Guangzhou
+Rating: 8/10
+Clinic visited: Dongfeng Family Health Practice
+Description: At my visit, Dr. Cao Kai took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 9 for Dr. Cao Kai, Neurology, Guangzhou
+Rating: 6/10
+Clinic visited: Dongfeng Family Health Practice
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Dr. Cao Kai was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 10 for Dr. Cao Kai, Neurology, Guangzhou
+Rating: 6/10
+Clinic visited: Dongfeng Family Health Practice
+Description: Dr. Cao Kai explained my results well, although the visit felt short for such a complex condition. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 11 for Dr. Cao Kai, Neurology, Guangzhou
+Rating: 8/10
+Clinic visited: Dongfeng Family Health Practice
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 12 for Dr. Cao Kai, Neurology, Guangzhou
+Rating: 5/10
+Clinic visited: Dongfeng Family Health Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Overall rating for Dr. Cao Kai, Neurology, Guangzhou: 7.00/10 from 12 reviews

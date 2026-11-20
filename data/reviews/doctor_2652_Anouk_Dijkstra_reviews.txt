@@ -1,0 +1,54 @@
+Doctor: Dr. Anouk Dijkstra
+Doctor ID: 2652
+Specialization: Pathology
+Gender: Female
+Years of experience: 17
+City: The Hague, Netherlands
+Clinics: Gezondheidscentrum Scheveningen (clinic ID 347)
+
+Review 1 for Dr. Anouk Dijkstra, Pathology, The Hague
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across The Hague. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Anouk Dijkstra, Pathology, The Hague
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 3 for Dr. Anouk Dijkstra, Pathology, The Hague
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Dr. Anouk Dijkstra looked me in the eye, listened to the whole story and only then started typing. The lab at Gezondheidscentrum Scheveningen had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 4 for Dr. Anouk Dijkstra, Pathology, The Hague
+Rating: 10/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: I was nervous about the biopsy result, and the call from Dr. Anouk Dijkstra was gentle, honest and unhurried.
+
+Review 5 for Dr. Anouk Dijkstra, Pathology, The Hague
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Anouk Dijkstra, Pathology, The Hague
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 7 for Dr. Anouk Dijkstra, Pathology, The Hague
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. The molecular test results were presented with a clear explanation of what they meant and what they did not.
+
+Review 8 for Dr. Anouk Dijkstra, Pathology, The Hague
+Rating: 7/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Dr. Anouk Dijkstra answered my questions kindly, though the call back took three days. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 9 for Dr. Anouk Dijkstra, Pathology, The Hague
+Rating: 5/10
+Clinic visited: Gezondheidscentrum Scheveningen
+Description: Dr. Anouk Dijkstra was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Anouk Dijkstra, Pathology, The Hague: 7.56/10 from 9 reviews

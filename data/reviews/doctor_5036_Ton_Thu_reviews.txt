@@ -1,0 +1,59 @@
+Doctor: Dr. Ton Thu
+Doctor ID: 5036
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 7
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Da Khoa Hong Ngoc (clinic ID 651)
+
+Review 1 for Dr. Ton Thu, Pulmonology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 2 for Dr. Ton Thu, Pulmonology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: At Phong Kham Da Khoa Hong Ngoc, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Ton Thu, Pulmonology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Ton Thu was practical and never preachy. Paperwork at Phong Kham Da Khoa Hong Ngoc was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 4 for Dr. Ton Thu, Pulmonology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Everything was explained in plain English by Dr. Ton Thu, and nothing was left to guess. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. Ton Thu, Pulmonology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan.
+
+Review 6 for Dr. Ton Thu, Pulmonology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. She called personally with my scan results and walked me through what the findings did and did not mean. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Ton Thu, Pulmonology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Ton Thu, Pulmonology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Dr. Ton Thu explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 9 for Dr. Ton Thu, Pulmonology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: I was given a printed summary of the visit, which I shared with my family at home. After years of poorly controlled asthma, Dr. Ton Thu reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 10 for Dr. Ton Thu, Pulmonology, Ho Chi Minh City
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Ton Thu, Pulmonology, Ho Chi Minh City: 8.40/10 from 10 reviews

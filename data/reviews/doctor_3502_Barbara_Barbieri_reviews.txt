@@ -1,0 +1,64 @@
+Doctor: Dr. Barbara Barbieri
+Doctor ID: 3502
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 4
+City: Rome, Italy
+Clinics: Poliambulatorio Trastevere (clinic ID 453)
+
+Review 1 for Dr. Barbara Barbieri, Gastroenterology, Rome
+Rating: 7/10
+Clinic visited: Poliambulatorio Trastevere
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Barbara Barbieri, Gastroenterology, Rome
+Rating: 9/10
+Clinic visited: Poliambulatorio Trastevere
+Description: I was nervous about my screening, but the team at Poliambulatorio Trastevere made me feel at ease, and I was home within hours. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 3 for Dr. Barbara Barbieri, Gastroenterology, Rome
+Rating: 9/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Getting to Poliambulatorio Trastevere in Rome was simple, and the day-procedure unit was calm and efficient. A same-day slot was found for me at Poliambulatorio Trastevere when I called with a worrying symptom.
+
+Review 4 for Dr. Barbara Barbieri, Gastroenterology, Rome
+Rating: 5/10
+Clinic visited: Poliambulatorio Trastevere
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Barbara Barbieri, Gastroenterology, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Trastevere
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 6 for Dr. Barbara Barbieri, Gastroenterology, Rome
+Rating: 4/10
+Clinic visited: Poliambulatorio Trastevere
+Description: I was charged separately for several items that had been described as included in the procedure.
+
+Review 7 for Dr. Barbara Barbieri, Gastroenterology, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Trastevere
+Description: She never made me feel embarrassed about discussing bowel habits, which is the main reason I returned.
+
+Review 8 for Dr. Barbara Barbieri, Gastroenterology, Rome
+Rating: 7/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Dr. Barbara Barbieri was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 9 for Dr. Barbara Barbieri, Gastroenterology, Rome
+Rating: 7/10
+Clinic visited: Poliambulatorio Trastevere
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 10 for Dr. Barbara Barbieri, Gastroenterology, Rome
+Rating: 6/10
+Clinic visited: Poliambulatorio Trastevere
+Description: Knowledgeable about my reflux, Dr. Barbara Barbieri still gave diet advice that felt generic and not tailored to my habits. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 11 for Dr. Barbara Barbieri, Gastroenterology, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Trastevere
+Description: The practice in Rome is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Overall rating for Dr. Barbara Barbieri, Gastroenterology, Rome: 7.09/10 from 11 reviews

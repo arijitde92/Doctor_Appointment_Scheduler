@@ -1,0 +1,49 @@
+Doctor: Dr. Anna Fischer
+Doctor ID: 1621
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 13
+City: Munich, Germany
+Clinics: Medicum Sendlinger Tor (clinic ID 211); Ärztezentrum Neuhausen-Nord (clinic ID 212)
+
+Review 1 for Dr. Anna Fischer, Orthopedic, Munich
+Rating: 10/10
+Clinic visited: Medicum Sendlinger Tor
+Description: Getting around Munich on crutches was hard, but the accessible entrance and short waiting time at Medicum Sendlinger Tor helped a lot.
+
+Review 2 for Dr. Anna Fischer, Orthopedic, Munich
+Rating: 6/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: Very skilled with my knee, but Dr. Anna Fischer's clinic runs behind and the wait was over an hour. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Anna Fischer, Orthopedic, Munich
+Rating: 6/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: Dr. Anna Fischer explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Anna Fischer, Orthopedic, Munich
+Rating: 9/10
+Clinic visited: Medicum Sendlinger Tor
+Description: She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Anna Fischer, Orthopedic, Munich
+Rating: 7/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Anna Fischer, Orthopedic, Munich
+Rating: 8/10
+Clinic visited: Medicum Sendlinger Tor
+Description: Plain, honest advice from Dr. Anna Fischer for my arthritis, including which exercises to avoid and which would help.
+
+Review 7 for Dr. Anna Fischer, Orthopedic, Munich
+Rating: 8/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 8 for Dr. Anna Fischer, Orthopedic, Munich
+Rating: 7/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Anna Fischer, Orthopedic, Munich: 7.62/10 from 8 reviews

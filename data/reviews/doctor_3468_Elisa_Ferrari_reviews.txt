@@ -1,0 +1,59 @@
+Doctor: Dr. Elisa Ferrari
+Doctor ID: 3468
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 26
+City: Naples, Italy
+Clinics: Poliambulatorio Toledo (clinic ID 449)
+
+Review 1 for Dr. Elisa Ferrari, Gastroenterology, Naples
+Rating: 8/10
+Clinic visited: Poliambulatorio Toledo
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 2 for Dr. Elisa Ferrari, Gastroenterology, Naples
+Rating: 5/10
+Clinic visited: Poliambulatorio Toledo
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Elisa Ferrari, Gastroenterology, Naples
+Rating: 8/10
+Clinic visited: Poliambulatorio Toledo
+Description: Clear explanation from Dr. Elisa Ferrari of fatty liver and exactly which lifestyle changes would make a measurable difference. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 4 for Dr. Elisa Ferrari, Gastroenterology, Naples
+Rating: 7/10
+Clinic visited: Poliambulatorio Toledo
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Elisa Ferrari, Gastroenterology, Naples
+Rating: 8/10
+Clinic visited: Poliambulatorio Toledo
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed.
+
+Review 6 for Dr. Elisa Ferrari, Gastroenterology, Naples
+Rating: 8/10
+Clinic visited: Poliambulatorio Toledo
+Description: I get regular check-ups for my Crohn's disease, and Dr. Elisa Ferrari adjusts my treatment carefully and always explains why.
+
+Review 7 for Dr. Elisa Ferrari, Gastroenterology, Naples
+Rating: 9/10
+Clinic visited: Poliambulatorio Toledo
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Review 8 for Dr. Elisa Ferrari, Gastroenterology, Naples
+Rating: 10/10
+Clinic visited: Poliambulatorio Toledo
+Description: She never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. This is the first doctor I have trusted completely in years.
+
+Review 9 for Dr. Elisa Ferrari, Gastroenterology, Naples
+Rating: 8/10
+Clinic visited: Poliambulatorio Toledo
+Description: Getting to Poliambulatorio Toledo in Naples was simple, and the day-procedure unit was calm and efficient.
+
+Review 10 for Dr. Elisa Ferrari, Gastroenterology, Naples
+Rating: 8/10
+Clinic visited: Poliambulatorio Toledo
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner.
+
+Overall rating for Dr. Elisa Ferrari, Gastroenterology, Naples: 7.90/10 from 10 reviews

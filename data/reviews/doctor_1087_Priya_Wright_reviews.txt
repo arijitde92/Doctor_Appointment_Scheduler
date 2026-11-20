@@ -1,0 +1,64 @@
+Doctor: Dr. Priya Wright
+Doctor ID: 1087
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 1
+City: Edinburgh, UK
+Clinics: Morningside Family Clinic (clinic ID 142)
+
+Review 1 for Dr. Priya Wright, Pediatrics, Edinburgh
+Rating: 7/10
+Clinic visited: Morningside Family Clinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Priya Wright, Pediatrics, Edinburgh
+Rating: 10/10
+Clinic visited: Morningside Family Clinic
+Description: The growth chart review was detailed, and I appreciated that Dr. Priya Wright talked to my child as well as to me. At my visit, Dr. Priya Wright took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 3 for Dr. Priya Wright, Pediatrics, Edinburgh
+Rating: 9/10
+Clinic visited: Morningside Family Clinic
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 4 for Dr. Priya Wright, Pediatrics, Edinburgh
+Rating: 10/10
+Clinic visited: Morningside Family Clinic
+Description: The waiting room in Edinburgh has a play corner and separate seating for sick children, which I really valued. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Priya Wright, Pediatrics, Edinburgh
+Rating: 9/10
+Clinic visited: Morningside Family Clinic
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 6 for Dr. Priya Wright, Pediatrics, Edinburgh
+Rating: 10/10
+Clinic visited: Morningside Family Clinic
+Description: Kind to anxious parents, Dr. Priya Wright never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 7 for Dr. Priya Wright, Pediatrics, Edinburgh
+Rating: 6/10
+Clinic visited: Morningside Family Clinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 8 for Dr. Priya Wright, Pediatrics, Edinburgh
+Rating: 10/10
+Clinic visited: Morningside Family Clinic
+Description: Dr. Priya Wright noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 9 for Dr. Priya Wright, Pediatrics, Edinburgh
+Rating: 10/10
+Clinic visited: Morningside Family Clinic
+Description: Vaccination visits with Dr. Priya Wright are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Review 10 for Dr. Priya Wright, Pediatrics, Edinburgh
+Rating: 10/10
+Clinic visited: Morningside Family Clinic
+Description: My teenager actually spoke up during the visit, and Dr. Priya Wright handled sensitive topics with respect.
+
+Review 11 for Dr. Priya Wright, Pediatrics, Edinburgh
+Rating: 10/10
+Clinic visited: Morningside Family Clinic
+Description: We got a same-day appointment for a high fever, and the care at Morningside Family Clinic was kind and efficient.
+
+Overall rating for Dr. Priya Wright, Pediatrics, Edinburgh: 9.18/10 from 11 reviews

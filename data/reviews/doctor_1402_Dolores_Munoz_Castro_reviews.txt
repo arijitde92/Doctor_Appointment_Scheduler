@@ -1,0 +1,49 @@
+Doctor: Dr. Dolores Muñoz Castro
+Doctor ID: 1402
+Specialization: Radiology
+Gender: Female
+Years of experience: 28
+City: Madrid, Spain
+Clinics: Clínica Nuestra Señora del Pilar (clinic ID 183)
+
+Review 1 for Dr. Dolores Muñoz Castro, Radiology, Madrid
+Rating: 5/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Good bedside manner from Dr. Dolores Muñoz Castro, but the parking near Clínica Nuestra Señora del Pilar is limited and I had to circle for fifteen minutes. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Dolores Muñoz Castro, Radiology, Madrid
+Rating: 3/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: The staff seemed rushed and impatient with an elderly patient who needed help changing.
+
+Review 3 for Dr. Dolores Muñoz Castro, Radiology, Madrid
+Rating: 6/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 4 for Dr. Dolores Muñoz Castro, Radiology, Madrid
+Rating: 4/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 5 for Dr. Dolores Muñoz Castro, Radiology, Madrid
+Rating: 5/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Dolores Muñoz Castro, Radiology, Madrid
+Rating: 5/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Dolores Muñoz Castro, Radiology, Madrid
+Rating: 4/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: I was charged for a second scan that I was told was a free repeat after an image problem. I felt dismissed by Dr. Dolores Muñoz Castro when I brought up a second concern, and was told to book another appointment for it.
+
+Review 8 for Dr. Dolores Muñoz Castro, Radiology, Madrid
+Rating: 4/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: My images were not sent to my specialist as promised, so my consultation had to be postponed. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Overall rating for Dr. Dolores Muñoz Castro, Radiology, Madrid: 4.50/10 from 8 reviews

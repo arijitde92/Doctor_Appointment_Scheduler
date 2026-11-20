@@ -1,0 +1,54 @@
+Doctor: Dr. Hayashi Kazuya
+Doctor ID: 4075
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 26
+City: Tokyo, Japan
+Clinics: Sakura Family Clinic (clinic ID 525)
+
+Review 1 for Dr. Hayashi Kazuya, Gastroenterology, Tokyo
+Rating: 9/10
+Clinic visited: Sakura Family Clinic
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 2 for Dr. Hayashi Kazuya, Gastroenterology, Tokyo
+Rating: 6/10
+Clinic visited: Sakura Family Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Knowledgeable about my reflux, Dr. Hayashi Kazuya still gave diet advice that felt generic and not tailored to my habits.
+
+Review 3 for Dr. Hayashi Kazuya, Gastroenterology, Tokyo
+Rating: 10/10
+Clinic visited: Sakura Family Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I received a full summary letter from Sakura Family Clinic after my endoscopy, which my regular doctor found very useful. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Hayashi Kazuya, Gastroenterology, Tokyo
+Rating: 9/10
+Clinic visited: Sakura Family Clinic
+Description: After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan.
+
+Review 5 for Dr. Hayashi Kazuya, Gastroenterology, Tokyo
+Rating: 9/10
+Clinic visited: Sakura Family Clinic
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Review 6 for Dr. Hayashi Kazuya, Gastroenterology, Tokyo
+Rating: 9/10
+Clinic visited: Sakura Family Clinic
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Hayashi Kazuya, Gastroenterology, Tokyo
+Rating: 9/10
+Clinic visited: Sakura Family Clinic
+Description: Clear explanation from Dr. Hayashi Kazuya of fatty liver and exactly which lifestyle changes would make a measurable difference.
+
+Review 8 for Dr. Hayashi Kazuya, Gastroenterology, Tokyo
+Rating: 10/10
+Clinic visited: Sakura Family Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I was nervous about my screening, but the team at Sakura Family Clinic made me feel at ease, and I was home within hours.
+
+Review 9 for Dr. Hayashi Kazuya, Gastroenterology, Tokyo
+Rating: 9/10
+Clinic visited: Sakura Family Clinic
+Description: Helpful dietitian referral from Dr. Hayashi Kazuya and written guidance for living with ulcerative colitis. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Hayashi Kazuya, Gastroenterology, Tokyo: 8.89/10 from 9 reviews

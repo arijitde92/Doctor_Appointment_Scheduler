@@ -1,0 +1,64 @@
+Doctor: Dr. Luis Suárez
+Doctor ID: 733
+Specialization: Radiology
+Gender: Male
+Years of experience: 18
+City: Buenos Aires, Argentina
+Clinics: Consultorios Médicos Caballito (clinic ID 97)
+
+Review 1 for Dr. Luis Suárez, Radiology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 2 for Dr. Luis Suárez, Radiology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Dr. Luis Suárez was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Luis Suárez, Radiology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: The report from Dr. Luis Suárez was thorough, though full of technical terms that needed my regular doctor to translate. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Luis Suárez, Radiology, Buenos Aires
+Rating: 10/10
+Clinic visited: Consultorios Médicos Caballito
+Description: The practice in Buenos Aires is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Reviewing my X-ray together with Dr. Luis Suárez on the screen made it much easier to understand my arthritis.
+
+Review 5 for Dr. Luis Suárez, Radiology, Buenos Aires
+Rating: 8/10
+Clinic visited: Consultorios Médicos Caballito
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Luis Suárez were respectful throughout. A same-day slot was found for me at Consultorios Médicos Caballito when I called with a worrying symptom.
+
+Review 6 for Dr. Luis Suárez, Radiology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: I liked the advice I got from Dr. Luis Suárez, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Luis Suárez, Radiology, Buenos Aires
+Rating: 8/10
+Clinic visited: Consultorios Médicos Caballito
+Description: The waiting room at Consultorios Médicos Caballito was clean, quiet and comfortable, with enough seating and water available. My ultrasound was unhurried, and Dr. Luis Suárez took time to show me the images and explain what each measurement meant.
+
+Review 8 for Dr. Luis Suárez, Radiology, Buenos Aires
+Rating: 7/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The telehealth visit was convenient, though the connection dropped twice and we had to restart. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Luis Suárez, Radiology, Buenos Aires
+Rating: 8/10
+Clinic visited: Consultorios Médicos Caballito
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Luis Suárez sent a clear report within a day. Worth every minute of travel, and I would go again without a second thought.
+
+Review 10 for Dr. Luis Suárez, Radiology, Buenos Aires
+Rating: 9/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. Highly recommended, and I have already told two colleagues about it.
+
+Review 11 for Dr. Luis Suárez, Radiology, Buenos Aires
+Rating: 6/10
+Clinic visited: Consultorios Médicos Caballito
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Dr. Luis Suárez was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Luis Suárez, Radiology, Buenos Aires: 7.64/10 from 11 reviews

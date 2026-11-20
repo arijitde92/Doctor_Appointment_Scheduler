@@ -1,0 +1,54 @@
+Doctor: Dr. Abe Shinji
+Doctor ID: 4045
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 29
+City: Osaka, Japan
+Clinics: Tennoji Wakaba Family Clinic (clinic ID 522)
+
+Review 1 for Dr. Abe Shinji, Pediatrics, Osaka
+Rating: 5/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Quick appointment and a fair price in Osaka, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Abe Shinji, Pediatrics, Osaka
+Rating: 5/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 3 for Dr. Abe Shinji, Pediatrics, Osaka
+Rating: 6/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Good bedside manner from Dr. Abe Shinji, but the parking near Tennoji Wakaba Family Clinic is limited and I had to circle for fifteen minutes.
+
+Review 4 for Dr. Abe Shinji, Pediatrics, Osaka
+Rating: 4/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 5 for Dr. Abe Shinji, Pediatrics, Osaka
+Rating: 4/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: The visit felt rushed, and my worries about my toddler's feeding were waved away as normal. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 6 for Dr. Abe Shinji, Pediatrics, Osaka
+Rating: 8/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: My teenager actually spoke up during the visit, and Dr. Abe Shinji handled sensitive topics with respect. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 7 for Dr. Abe Shinji, Pediatrics, Osaka
+Rating: 4/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 8 for Dr. Abe Shinji, Pediatrics, Osaka
+Rating: 6/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 9 for Dr. Abe Shinji, Pediatrics, Osaka
+Rating: 8/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Abe Shinji, Pediatrics, Osaka: 5.56/10 from 9 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Michel De Backer
+Doctor ID: 3130
+Specialization: Radiology
+Gender: Male
+Years of experience: 1
+City: Ghent, Belgium
+Clinics: Huisartsenpraktijk Sint-Pieters (clinic ID 406)
+
+Review 1 for Dr. Michel De Backer, Radiology, Ghent
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Sint-Pieters
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. The report from Dr. Michel De Backer was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 2 for Dr. Michel De Backer, Radiology, Ghent
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Sint-Pieters
+Description: Good bedside manner from Dr. Michel De Backer, but the parking near Huisartsenpraktijk Sint-Pieters is limited and I had to circle for fifteen minutes. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Michel De Backer, Radiology, Ghent
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Sint-Pieters
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Michel De Backer, Radiology, Ghent
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Sint-Pieters
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 5 for Dr. Michel De Backer, Radiology, Ghent
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Sint-Pieters
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Michel De Backer, Radiology, Ghent
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Sint-Pieters
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 7 for Dr. Michel De Backer, Radiology, Ghent
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Sint-Pieters
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 8 for Dr. Michel De Backer, Radiology, Ghent
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Sint-Pieters
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Michel De Backer answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 9 for Dr. Michel De Backer, Radiology, Ghent
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Sint-Pieters
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 10 for Dr. Michel De Backer, Radiology, Ghent
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Sint-Pieters
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Michel De Backer, Radiology, Ghent: 6.50/10 from 10 reviews

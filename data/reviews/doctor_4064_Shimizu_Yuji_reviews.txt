@@ -1,0 +1,69 @@
+Doctor: Dr. Shimizu Yuji
+Doctor ID: 4064
+Specialization: Pathology
+Gender: Male
+Years of experience: 7
+City: Osaka, Japan
+Clinics: Shin-Osaka Tsubasa Clinic (clinic ID 524)
+
+Review 1 for Dr. Shimizu Yuji, Pathology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. The molecular test results were presented with a clear explanation of what they meant and what they did not.
+
+Review 2 for Dr. Shimizu Yuji, Pathology, Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 3 for Dr. Shimizu Yuji, Pathology, Osaka
+Rating: 6/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Dr. Shimizu Yuji was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 4 for Dr. Shimizu Yuji, Pathology, Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Dr. Shimizu Yuji took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 5 for Dr. Shimizu Yuji, Pathology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 6 for Dr. Shimizu Yuji, Pathology, Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Osaka. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 7 for Dr. Shimizu Yuji, Pathology, Osaka
+Rating: 6/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 8 for Dr. Shimizu Yuji, Pathology, Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. Shimizu Yuji, Pathology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: The lab under Dr. Shimizu Yuji was clean, organized and never overbooked, and results arrived exactly when promised. A translator was arranged for my mother without us asking twice, and Dr. Shimizu Yuji spoke directly to her throughout.
+
+Review 10 for Dr. Shimizu Yuji, Pathology, Osaka
+Rating: 9/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. I was given a printed summary of the visit, which I shared with my family at home. I have no hesitation sending my own relatives here.
+
+Review 11 for Dr. Shimizu Yuji, Pathology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: I was nervous about the biopsy result, and the call from Dr. Shimizu Yuji was gentle, honest and unhurried.
+
+Review 12 for Dr. Shimizu Yuji, Pathology, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: At my visit, Dr. Shimizu Yuji took notes on my medication list, checked for interactions and explained the changes simply. I asked for a second look at my slides, and Dr. Shimizu Yuji reviewed them without any fuss and confirmed the finding in writing.
+
+Overall rating for Dr. Shimizu Yuji, Pathology, Osaka: 8.08/10 from 12 reviews

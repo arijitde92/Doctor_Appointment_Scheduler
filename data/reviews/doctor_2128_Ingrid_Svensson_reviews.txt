@@ -1,0 +1,54 @@
+Doctor: Dr. Ingrid Svensson
+Doctor ID: 2128
+Specialization: General
+Gender: Female
+Years of experience: 25
+City: Gothenburg, Sweden
+Clinics: Medicinskt Centrum Linné (clinic ID 277); Hälsocentralen Södra Vägen (clinic ID 278)
+
+Review 1 for Dr. Ingrid Svensson, General, Gothenburg
+Rating: 5/10
+Clinic visited: Hälsocentralen Södra Vägen
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Ingrid Svensson, General, Gothenburg
+Rating: 6/10
+Clinic visited: Hälsocentralen Södra Vägen
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Hälsocentralen Södra Vägen were inconsistent.
+
+Review 3 for Dr. Ingrid Svensson, General, Gothenburg
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Linné
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 4 for Dr. Ingrid Svensson, General, Gothenburg
+Rating: 7/10
+Clinic visited: Hälsocentralen Södra Vägen
+Description: Referrals from Dr. Ingrid Svensson are handled well, but getting test results back took longer than I was told to expect. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Ingrid Svensson, General, Gothenburg
+Rating: 6/10
+Clinic visited: Hälsocentralen Södra Vägen
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Ingrid Svensson, General, Gothenburg
+Rating: 8/10
+Clinic visited: Hälsocentralen Södra Vägen
+Description: Getting to Hälsocentralen Södra Vägen from across Gothenburg was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 7 for Dr. Ingrid Svensson, General, Gothenburg
+Rating: 7/10
+Clinic visited: Hälsocentralen Södra Vägen
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Ingrid Svensson, General, Gothenburg
+Rating: 8/10
+Clinic visited: Hälsocentralen Södra Vägen
+Description: The receptionist at Hälsocentralen Södra Vägen remembered my name and had my forms ready, so check-in took less than a minute. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Ingrid Svensson, General, Gothenburg
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Linné
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. The doctor was kind, though the clinic's evening hours are very limited for working people. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Ingrid Svensson, General, Gothenburg: 6.67/10 from 9 reviews

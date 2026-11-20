@@ -1,0 +1,54 @@
+Doctor: Dr. Jari Mäkinen
+Doctor ID: 1873
+Specialization: Neurology
+Gender: Male
+Years of experience: 3
+City: Helsinki, Finland
+Clinics: Lääkäriasema Itämeri (clinic ID 244)
+
+Review 1 for Dr. Jari Mäkinen, Neurology, Helsinki
+Rating: 6/10
+Clinic visited: Lääkäriasema Itämeri
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 2 for Dr. Jari Mäkinen, Neurology, Helsinki
+Rating: 7/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Dr. Jari Mäkinen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Jari Mäkinen, Neurology, Helsinki
+Rating: 7/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Good bedside manner from Dr. Jari Mäkinen, but the parking near Lääkäriasema Itämeri is limited and I had to circle for fifteen minutes. Supportive about my diagnosis, yet follow-up appointments with Dr. Jari Mäkinen at Lääkäriasema Itämeri are difficult to schedule. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Jari Mäkinen, Neurology, Helsinki
+Rating: 6/10
+Clinic visited: Lääkäriasema Itämeri
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. Booking was easy online, but the confirmation email contained the wrong address for Lääkäriasema Itämeri. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Jari Mäkinen, Neurology, Helsinki
+Rating: 6/10
+Clinic visited: Lääkäriasema Itämeri
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 6 for Dr. Jari Mäkinen, Neurology, Helsinki
+Rating: 7/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Jari Mäkinen, Neurology, Helsinki
+Rating: 6/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Quick appointment and a fair price in Helsinki, but the staff seemed overwhelmed and a bit curt on the phone. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 8 for Dr. Jari Mäkinen, Neurology, Helsinki
+Rating: 8/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Dr. Jari Mäkinen looked me in the eye, listened to the whole story and only then started typing. The neurological exam by Dr. Jari Mäkinen was thorough, with every reflex test and gait check explained as it happened.
+
+Review 9 for Dr. Jari Mäkinen, Neurology, Helsinki
+Rating: 9/10
+Clinic visited: Lääkäriasema Itämeri
+Description: At my visit, Dr. Jari Mäkinen took notes on my medication list, checked for interactions and explained the changes simply. Clear and honest talk with Dr. Jari Mäkinen about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Overall rating for Dr. Jari Mäkinen, Neurology, Helsinki: 6.89/10 from 9 reviews

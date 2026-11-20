@@ -1,0 +1,54 @@
+Doctor: Dr. Aiman bin Rahman
+Doctor ID: 4689
+Specialization: Cardiology
+Gender: Male
+Years of experience: 19
+City: Johor Bahru, Malaysia
+Clinics: Klinik Sinar Mutiara (clinic ID 606); Rimba Medical Clinic (clinic ID 607)
+
+Review 1 for Dr. Aiman bin Rahman, Cardiology, Johor Bahru
+Rating: 10/10
+Clinic visited: Rimba Medical Clinic
+Description: I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 2 for Dr. Aiman bin Rahman, Cardiology, Johor Bahru
+Rating: 9/10
+Clinic visited: Rimba Medical Clinic
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Aiman bin Rahman, Cardiology, Johor Bahru
+Rating: 10/10
+Clinic visited: Rimba Medical Clinic
+Description: The receptionist at Rimba Medical Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 4 for Dr. Aiman bin Rahman, Cardiology, Johor Bahru
+Rating: 8/10
+Clinic visited: Klinik Sinar Mutiara
+Description: My stress test was supervised carefully, and Dr. Aiman bin Rahman reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 5 for Dr. Aiman bin Rahman, Cardiology, Johor Bahru
+Rating: 7/10
+Clinic visited: Klinik Sinar Mutiara
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Aiman bin Rahman, Cardiology, Johor Bahru
+Rating: 8/10
+Clinic visited: Klinik Sinar Mutiara
+Description: Getting to Klinik Sinar Mutiara by public transport in Johor Bahru was easy, and there is a step-free entrance for wheelchairs.
+
+Review 7 for Dr. Aiman bin Rahman, Cardiology, Johor Bahru
+Rating: 7/10
+Clinic visited: Klinik Sinar Mutiara
+Description: Helpful with my cholesterol, Dr. Aiman bin Rahman still gave dietary advice that was a little generic.
+
+Review 8 for Dr. Aiman bin Rahman, Cardiology, Johor Bahru
+Rating: 9/10
+Clinic visited: Rimba Medical Clinic
+Description: My atrial fibrillation is well managed by Dr. Aiman bin Rahman, and I know exactly what symptoms mean I should call.
+
+Review 9 for Dr. Aiman bin Rahman, Cardiology, Johor Bahru
+Rating: 9/10
+Clinic visited: Rimba Medical Clinic
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Overall rating for Dr. Aiman bin Rahman, Cardiology, Johor Bahru: 8.56/10 from 9 reviews

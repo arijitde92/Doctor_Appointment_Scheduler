@@ -1,0 +1,54 @@
+Doctor: Dr. Shafiq Akter
+Doctor ID: 5514
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 14
+City: Sylhet, Bangladesh
+Clinics: Haor Shuborno Polyclinic (clinic ID 713)
+
+Review 1 for Dr. Shafiq Akter, Orthopedic, Sylhet
+Rating: 6/10
+Clinic visited: Haor Shuborno Polyclinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Shafiq Akter, Orthopedic, Sylhet
+Rating: 7/10
+Clinic visited: Haor Shuborno Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Shafiq Akter explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 3 for Dr. Shafiq Akter, Orthopedic, Sylhet
+Rating: 4/10
+Clinic visited: Haor Shuborno Polyclinic
+Description: My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed. My questions were answered by Dr. Shafiq Akter with short, vague replies, and I left without a clear plan.
+
+Review 4 for Dr. Shafiq Akter, Orthopedic, Sylhet
+Rating: 6/10
+Clinic visited: Haor Shuborno Polyclinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Shafiq Akter, Orthopedic, Sylhet
+Rating: 5/10
+Clinic visited: Haor Shuborno Polyclinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Shafiq Akter, Orthopedic, Sylhet
+Rating: 6/10
+Clinic visited: Haor Shuborno Polyclinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. I liked the advice I got from Dr. Shafiq Akter, but I would have liked more time to ask follow-up questions before the visit ended. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Shafiq Akter, Orthopedic, Sylhet
+Rating: 5/10
+Clinic visited: Haor Shuborno Polyclinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Shafiq Akter, Orthopedic, Sylhet
+Rating: 5/10
+Clinic visited: Haor Shuborno Polyclinic
+Description: Very skilled with my knee, but Dr. Shafiq Akter's clinic runs behind and the wait was over an hour. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Shafiq Akter, Orthopedic, Sylhet
+Rating: 6/10
+Clinic visited: Haor Shuborno Polyclinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Shafiq Akter, Orthopedic, Sylhet: 5.56/10 from 9 reviews

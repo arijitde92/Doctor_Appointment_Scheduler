@@ -1,0 +1,49 @@
+Doctor: Dr. George Wright
+Doctor ID: 1155
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Male
+Years of experience: 29
+City: Manchester, UK
+Clinics: Portland Health Centre (clinic ID 151)
+
+Review 1 for Dr. George Wright, Obstetrics and Gynecology (OB/GYN), Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. George Wright, Obstetrics and Gynecology (OB/GYN), Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. The doctor was kind, though the clinic's evening hours are very limited for working people. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. George Wright, Obstetrics and Gynecology (OB/GYN), Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: I got what I needed, but the next available appointment was three weeks away. Compassionate during my fertility consultation, though the cost estimate was vague until after the visit.
+
+Review 4 for Dr. George Wright, Obstetrics and Gynecology (OB/GYN), Manchester
+Rating: 4/10
+Clinic visited: Portland Health Centre
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. The billing for my delivery included unexpected extras that nobody had mentioned at the prenatal visits.
+
+Review 5 for Dr. George Wright, Obstetrics and Gynecology (OB/GYN), Manchester
+Rating: 9/10
+Clinic visited: Portland Health Centre
+Description: Throughout my pregnancy Dr. George Wright answered every question patiently, including the many late-night worries I sent through the portal. The waiting room at Portland Health Centre was clean, quiet and comfortable, with enough seating and water available.
+
+Review 6 for Dr. George Wright, Obstetrics and Gynecology (OB/GYN), Manchester
+Rating: 5/10
+Clinic visited: Portland Health Centre
+Description: Good bedside manner from Dr. George Wright, but the parking near Portland Health Centre is limited and I had to circle for fifteen minutes. A respectful exam, but I wished for more discussion on pain management before my procedure.
+
+Review 7 for Dr. George Wright, Obstetrics and Gynecology (OB/GYN), Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: Warm and knowledgeable during pregnancy, but visits were short and I often left with a question unasked. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. George Wright, Obstetrics and Gynecology (OB/GYN), Manchester
+Rating: 6/10
+Clinic visited: Portland Health Centre
+Description: Dr. George Wright explained my options well, though the office was often running an hour behind. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. George Wright, Obstetrics and Gynecology (OB/GYN), Manchester: 6.00/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Sofía Suárez
+Doctor ID: 826
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 15
+City: Mendoza, Argentina
+Clinics: Policlínica Godoy Cruz (clinic ID 108)
+
+Review 1 for Dr. Sofía Suárez, Pediatrics, Mendoza
+Rating: 7/10
+Clinic visited: Policlínica Godoy Cruz
+Description: Caring and gentle with my child, Dr. Sofía Suárez nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 2 for Dr. Sofía Suárez, Pediatrics, Mendoza
+Rating: 10/10
+Clinic visited: Policlínica Godoy Cruz
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 3 for Dr. Sofía Suárez, Pediatrics, Mendoza
+Rating: 7/10
+Clinic visited: Policlínica Godoy Cruz
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Sofía Suárez, Pediatrics, Mendoza
+Rating: 6/10
+Clinic visited: Policlínica Godoy Cruz
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Sofía Suárez, Pediatrics, Mendoza
+Rating: 6/10
+Clinic visited: Policlínica Godoy Cruz
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 6 for Dr. Sofía Suárez, Pediatrics, Mendoza
+Rating: 10/10
+Clinic visited: Policlínica Godoy Cruz
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. My toddler was terrified of doctors, but Dr. Sofía Suárez sat on the floor, played with a stuffed toy and examined everything without a single tear.
+
+Review 7 for Dr. Sofía Suárez, Pediatrics, Mendoza
+Rating: 8/10
+Clinic visited: Policlínica Godoy Cruz
+Description: Our family has been coming for years, and she remembers each child's history and personality.
+
+Review 8 for Dr. Sofía Suárez, Pediatrics, Mendoza
+Rating: 6/10
+Clinic visited: Policlínica Godoy Cruz
+Description: Dr. Sofía Suárez was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 9 for Dr. Sofía Suárez, Pediatrics, Mendoza
+Rating: 6/10
+Clinic visited: Policlínica Godoy Cruz
+Description: Dr. Sofía Suárez is thorough with exams, but the after-hours phone line at Policlínica Godoy Cruz is hard to reach.
+
+Overall rating for Dr. Sofía Suárez, Pediatrics, Mendoza: 7.33/10 from 9 reviews

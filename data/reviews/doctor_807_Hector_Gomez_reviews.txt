@@ -1,0 +1,49 @@
+Doctor: Dr. Héctor Gómez
+Doctor ID: 807
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 26
+City: Mendoza, Argentina
+Clinics: Centro Médico Las Heras (clinic ID 106); Consultorios Médicos Aconcagua (clinic ID 107)
+
+Review 1 for Dr. Héctor Gómez, Gastroenterology, Mendoza
+Rating: 6/10
+Clinic visited: Centro Médico Las Heras
+Description: Good bedside manner from Dr. Héctor Gómez, but the parking near Centro Médico Las Heras is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Héctor Gómez, Gastroenterology, Mendoza
+Rating: 8/10
+Clinic visited: Centro Médico Las Heras
+Description: Dr. Héctor Gómez was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 3 for Dr. Héctor Gómez, Gastroenterology, Mendoza
+Rating: 8/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: Dr. Héctor Gómez took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. I was called in within five minutes of my appointment time at Consultorios Médicos Aconcagua, which is rare and much appreciated. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Héctor Gómez, Gastroenterology, Mendoza
+Rating: 5/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Héctor Gómez, Gastroenterology, Mendoza
+Rating: 8/10
+Clinic visited: Centro Médico Las Heras
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 6 for Dr. Héctor Gómez, Gastroenterology, Mendoza
+Rating: 10/10
+Clinic visited: Centro Médico Las Heras
+Description: I received a full summary letter from Centro Médico Las Heras after my endoscopy, which my regular doctor found very useful. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 7 for Dr. Héctor Gómez, Gastroenterology, Mendoza
+Rating: 7/10
+Clinic visited: Consultorios Médicos Aconcagua
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Héctor Gómez, Gastroenterology, Mendoza
+Rating: 8/10
+Clinic visited: Centro Médico Las Heras
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner.
+
+Overall rating for Dr. Héctor Gómez, Gastroenterology, Mendoza: 7.50/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Gustavo Romero
+Doctor ID: 777
+Specialization: Neurology
+Gender: Male
+Years of experience: 5
+City: Cordoba, Argentina
+Clinics: Consultorios Médicos Colón (clinic ID 102)
+
+Review 1 for Dr. Gustavo Romero, Neurology, Cordoba
+Rating: 9/10
+Clinic visited: Consultorios Médicos Colón
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Gustavo Romero, Neurology, Cordoba
+Rating: 5/10
+Clinic visited: Consultorios Médicos Colón
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Gustavo Romero, Neurology, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: The treatment plan from Dr. Gustavo Romero made sense, but I wished it had been written down for me to take away. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 4 for Dr. Gustavo Romero, Neurology, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 5 for Dr. Gustavo Romero, Neurology, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Gustavo Romero, Neurology, Cordoba
+Rating: 8/10
+Clinic visited: Consultorios Médicos Colón
+Description: Booking online at Consultorios Médicos Colón was simple, and I got a confirmation text with clear directions and a reminder the day before. Living with multiple sclerosis feels less frightening because Dr. Gustavo Romero explains and discusses every change in my plan.
+
+Review 7 for Dr. Gustavo Romero, Neurology, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 8 for Dr. Gustavo Romero, Neurology, Cordoba
+Rating: 7/10
+Clinic visited: Consultorios Médicos Colón
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 9 for Dr. Gustavo Romero, Neurology, Cordoba
+Rating: 8/10
+Clinic visited: Consultorios Médicos Colón
+Description: I always leave Dr. Gustavo Romero's office with a short written summary of changes, which helps my family keep up. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Overall rating for Dr. Gustavo Romero, Neurology, Cordoba: 7.22/10 from 9 reviews

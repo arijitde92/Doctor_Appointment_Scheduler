@@ -1,0 +1,54 @@
+Doctor: Dr. Margareta Jakobsson
+Doctor ID: 2112
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 10
+City: Gothenburg, Sweden
+Clinics: Vårdcentralen Avenyn Plus (clinic ID 275); Läkarhuset Östra Hamngatan (clinic ID 276)
+
+Review 1 for Dr. Margareta Jakobsson, Orthopedic, Gothenburg
+Rating: 7/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 2 for Dr. Margareta Jakobsson, Orthopedic, Gothenburg
+Rating: 7/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Dr. Margareta Jakobsson was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Margareta Jakobsson, Orthopedic, Gothenburg
+Rating: 5/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Margareta Jakobsson, Orthopedic, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: I liked the advice I got from Dr. Margareta Jakobsson, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 5 for Dr. Margareta Jakobsson, Orthopedic, Gothenburg
+Rating: 5/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Dr. Margareta Jakobsson explained surgery options clearly, though the physiotherapy referral took weeks to arrive. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Margareta Jakobsson, Orthopedic, Gothenburg
+Rating: 4/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Dr. Margareta Jakobsson seemed to dismiss my concerns about swelling after the operation, and I had to go elsewhere. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 7 for Dr. Margareta Jakobsson, Orthopedic, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarhuset Östra Hamngatan
+Description: Quick appointment and a fair price in Gothenburg, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 8 for Dr. Margareta Jakobsson, Orthopedic, Gothenburg
+Rating: 5/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Margareta Jakobsson, Orthopedic, Gothenburg
+Rating: 9/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: The receptionist at Vårdcentralen Avenyn Plus remembered my name and had my forms ready, so check-in took less than a minute. My torn rotator cuff was managed first by Dr. Margareta Jakobsson with physiotherapy, and surgery was only suggested when it truly was needed.
+
+Overall rating for Dr. Margareta Jakobsson, Orthopedic, Gothenburg: 6.22/10 from 9 reviews

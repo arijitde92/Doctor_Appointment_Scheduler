@@ -1,0 +1,54 @@
+Doctor: Dr. Lourdes Ramos
+Doctor ID: 4909
+Specialization: Cardiology
+Gender: Female
+Years of experience: 14
+City: Quezon City, Philippines
+Clinics: Sampaguita Medical Centre (clinic ID 634)
+
+Review 1 for Dr. Lourdes Ramos, Cardiology, Quezon City
+Rating: 6/10
+Clinic visited: Sampaguita Medical Centre
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Lourdes Ramos, Cardiology, Quezon City
+Rating: 6/10
+Clinic visited: Sampaguita Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 3 for Dr. Lourdes Ramos, Cardiology, Quezon City
+Rating: 6/10
+Clinic visited: Sampaguita Medical Centre
+Description: I liked the advice I got from Dr. Lourdes Ramos, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Lourdes Ramos, Cardiology, Quezon City
+Rating: 6/10
+Clinic visited: Sampaguita Medical Centre
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Lourdes Ramos, Cardiology, Quezon City
+Rating: 8/10
+Clinic visited: Sampaguita Medical Centre
+Description: The cardiology unit at Sampaguita Medical Centre runs on time, and the technicians were professional during my echocardiogram. Dr. Lourdes Ramos double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Lourdes Ramos, Cardiology, Quezon City
+Rating: 8/10
+Clinic visited: Sampaguita Medical Centre
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. After my palpitations began, Dr. Lourdes Ramos arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 7 for Dr. Lourdes Ramos, Cardiology, Quezon City
+Rating: 7/10
+Clinic visited: Sampaguita Medical Centre
+Description: Helpful with my cholesterol, Dr. Lourdes Ramos still gave dietary advice that was a little generic. Dr. Lourdes Ramos was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Lourdes Ramos, Cardiology, Quezon City
+Rating: 8/10
+Clinic visited: Sampaguita Medical Centre
+Description: Managing my blood pressure with Dr. Lourdes Ramos has been steady and practical, with home readings reviewed at every visit. The receptionist at Sampaguita Medical Centre remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 9 for Dr. Lourdes Ramos, Cardiology, Quezon City
+Rating: 6/10
+Clinic visited: Sampaguita Medical Centre
+Description: Dr. Lourdes Ramos adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Overall rating for Dr. Lourdes Ramos, Cardiology, Quezon City: 6.78/10 from 9 reviews

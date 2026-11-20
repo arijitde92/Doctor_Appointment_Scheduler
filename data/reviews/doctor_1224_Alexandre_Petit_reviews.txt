@@ -1,0 +1,64 @@
+Doctor: Dr. Alexandre Petit
+Doctor ID: 1224
+Specialization: Radiology
+Gender: Male
+Years of experience: 1
+City: Lyon, France
+Clinics: Polyclinique de Gerland (clinic ID 159)
+
+Review 1 for Dr. Alexandre Petit, Radiology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: Images from Polyclinique de Gerland were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Alexandre Petit, Radiology, Lyon
+Rating: 8/10
+Clinic visited: Polyclinique de Gerland
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Alexandre Petit were respectful throughout. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Alexandre Petit, Radiology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Alexandre Petit sent a clear report within a day. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Alexandre Petit, Radiology, Lyon
+Rating: 7/10
+Clinic visited: Polyclinique de Gerland
+Description: Dr. Alexandre Petit answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 5 for Dr. Alexandre Petit, Radiology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: When my scan showed something that needed a second look, Dr. Alexandre Petit arranged the follow-up the same day. Dr. Alexandre Petit drew a quick sketch to explain what was going on, which helped me remember it afterwards. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Alexandre Petit, Radiology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: The staff at Polyclinique de Gerland in Lyon explained the contrast dye and its side effects before I signed anything. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 7 for Dr. Alexandre Petit, Radiology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Reviewing my X-ray together with Dr. Alexandre Petit on the screen made it much easier to understand my arthritis.
+
+Review 8 for Dr. Alexandre Petit, Radiology, Lyon
+Rating: 7/10
+Clinic visited: Polyclinique de Gerland
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 9 for Dr. Alexandre Petit, Radiology, Lyon
+Rating: 10/10
+Clinic visited: Polyclinique de Gerland
+Description: The report from Dr. Alexandre Petit was detailed but written so a non-medical person could follow it, with a short summary at the top. The receptionist at Polyclinique de Gerland remembered my name and had my forms ready, so check-in took less than a minute. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 10 for Dr. Alexandre Petit, Radiology, Lyon
+Rating: 9/10
+Clinic visited: Polyclinique de Gerland
+Description: The practice in Lyon is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Booking a CT scan online at Polyclinique de Gerland took two minutes, and I was in and out within forty minutes.
+
+Review 11 for Dr. Alexandre Petit, Radiology, Lyon
+Rating: 9/10
+Clinic visited: Polyclinique de Gerland
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Overall rating for Dr. Alexandre Petit, Radiology, Lyon: 9.09/10 from 11 reviews

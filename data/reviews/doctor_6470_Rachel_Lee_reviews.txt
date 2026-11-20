@@ -1,0 +1,69 @@
+Doctor: Dr. Rachel Lee
+Doctor ID: 6470
+Specialization: General
+Gender: Female
+Years of experience: 14
+City: Brisbane, Australia
+Clinics: Ironbark GP Clinic (clinic ID 838); Sunset Ridge Medical Centre (clinic ID 839)
+
+Review 1 for Dr. Rachel Lee, General, Brisbane
+Rating: 5/10
+Clinic visited: Ironbark GP Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Rachel Lee, General, Brisbane
+Rating: 6/10
+Clinic visited: Ironbark GP Clinic
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Dr. Rachel Lee was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Rachel Lee, General, Brisbane
+Rating: 4/10
+Clinic visited: Ironbark GP Clinic
+Description: The prescription from Dr. Rachel Lee was not the one we discussed, and I only noticed when I got home. Dr. Rachel Lee seemed distracted by the computer screen throughout and missed that I had mentioned chest tightness twice.
+
+Review 4 for Dr. Rachel Lee, General, Brisbane
+Rating: 5/10
+Clinic visited: Ironbark GP Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Rachel Lee is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Rachel Lee, General, Brisbane
+Rating: 4/10
+Clinic visited: Ironbark GP Clinic
+Description: My visit with Dr. Rachel Lee lasted barely six minutes, and I left with more questions than I arrived with. I left disappointed and will take my business to another clinic.
+
+Review 6 for Dr. Rachel Lee, General, Brisbane
+Rating: 7/10
+Clinic visited: Sunset Ridge Medical Centre
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Booking was easy online, but the confirmation email contained the wrong address for Sunset Ridge Medical Centre. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Rachel Lee, General, Brisbane
+Rating: 7/10
+Clinic visited: Ironbark GP Clinic
+Description: Referrals from Dr. Rachel Lee are handled well, but getting test results back took longer than I was told to expect. Clear explanations, but the follow-up call took a week longer than I had been told. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Rachel Lee, General, Brisbane
+Rating: 7/10
+Clinic visited: Ironbark GP Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 9 for Dr. Rachel Lee, General, Brisbane
+Rating: 8/10
+Clinic visited: Ironbark GP Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I would happily recommend this doctor to friends and family.
+
+Review 10 for Dr. Rachel Lee, General, Brisbane
+Rating: 10/10
+Clinic visited: Ironbark GP Clinic
+Description: My annual check-up with Dr. Rachel Lee took forty minutes, with every screening explained and nothing rushed. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 11 for Dr. Rachel Lee, General, Brisbane
+Rating: 5/10
+Clinic visited: Ironbark GP Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Ironbark GP Clinic were inconsistent. I liked the advice I got from Dr. Rachel Lee, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 12 for Dr. Rachel Lee, General, Brisbane
+Rating: 6/10
+Clinic visited: Ironbark GP Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Rachel Lee, General, Brisbane: 6.17/10 from 12 reviews

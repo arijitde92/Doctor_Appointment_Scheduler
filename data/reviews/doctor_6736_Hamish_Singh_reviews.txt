@@ -1,0 +1,64 @@
+Doctor: Dr. Hamish Singh
+Doctor ID: 6736
+Specialization: General
+Gender: Male
+Years of experience: 5
+City: Wellington, New Zealand
+Clinics: Manuka Health Clinic (clinic ID 873)
+
+Review 1 for Dr. Hamish Singh, General, Wellington
+Rating: 7/10
+Clinic visited: Manuka Health Clinic
+Description: Dr. Hamish Singh is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Hamish Singh, General, Wellington
+Rating: 7/10
+Clinic visited: Manuka Health Clinic
+Description: Dr. Hamish Singh was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 3 for Dr. Hamish Singh, General, Wellington
+Rating: 10/10
+Clinic visited: Manuka Health Clinic
+Description: My blood pressure had crept up and Dr. Hamish Singh walked me through diet changes before suggesting anything else. Three months later my readings were normal. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Hamish Singh, General, Wellington
+Rating: 7/10
+Clinic visited: Manuka Health Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Hamish Singh, General, Wellington
+Rating: 10/10
+Clinic visited: Manuka Health Clinic
+Description: A translator was arranged for my mother without us asking twice, and Dr. Hamish Singh spoke directly to her throughout. Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 6 for Dr. Hamish Singh, General, Wellington
+Rating: 9/10
+Clinic visited: Manuka Health Clinic
+Description: Everything was explained in plain English by Dr. Hamish Singh, and nothing was left to guess.
+
+Review 7 for Dr. Hamish Singh, General, Wellington
+Rating: 7/10
+Clinic visited: Manuka Health Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Manuka Health Clinic. Referrals from Dr. Hamish Singh are handled well, but getting test results back took longer than I was told to expect.
+
+Review 8 for Dr. Hamish Singh, General, Wellington
+Rating: 8/10
+Clinic visited: Manuka Health Clinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. My referral letter was written on the spot, and the specialist's office had my details before I called. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Hamish Singh, General, Wellington
+Rating: 9/10
+Clinic visited: Manuka Health Clinic
+Description: Dr. Hamish Singh spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 10 for Dr. Hamish Singh, General, Wellington
+Rating: 9/10
+Clinic visited: Manuka Health Clinic
+Description: A same-day slot was found for me at Manuka Health Clinic when I called with a worrying symptom. By the time I left the room, Dr. Hamish Singh had sorted the sick note, referral letter and prescription refill.
+
+Review 11 for Dr. Hamish Singh, General, Wellington
+Rating: 8/10
+Clinic visited: Manuka Health Clinic
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I always hear back within a day when I leave a question with the nurse at Manuka Health Clinic, and Dr. Hamish Singh follows up on lab results personally. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Hamish Singh, General, Wellington: 8.27/10 from 11 reviews

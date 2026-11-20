@@ -1,0 +1,49 @@
+Doctor: Dr. Anatoly Alekseev
+Doctor ID: 3727
+Specialization: Pathology
+Gender: Male
+Years of experience: 1
+City: Moscow, Russia
+Clinics: Klinika Zdorovaya Semya (clinic ID 481)
+
+Review 1 for Dr. Anatoly Alekseev, Pathology, Moscow
+Rating: 9/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The lab under Dr. Anatoly Alekseev was clean, organized and never overbooked, and results arrived exactly when promised. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 2 for Dr. Anatoly Alekseev, Pathology, Moscow
+Rating: 9/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I was nervous about the biopsy result, and the call from Dr. Anatoly Alekseev was gentle, honest and unhurried. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Anatoly Alekseev, Pathology, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 4 for Dr. Anatoly Alekseev, Pathology, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Anatoly Alekseev, Pathology, Moscow
+Rating: 7/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Dr. Anatoly Alekseev answered my questions kindly, though the call back took three days. I liked the advice I got from Dr. Anatoly Alekseev, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Anatoly Alekseev, Pathology, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The treatment plan from Dr. Anatoly Alekseev made sense, but I wished it had been written down for me to take away. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 7 for Dr. Anatoly Alekseev, Pathology, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 8 for Dr. Anatoly Alekseev, Pathology, Moscow
+Rating: 5/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Helpful in clarifying a borderline result, though Dr. Anatoly Alekseev gave little guidance about whether to repeat it.
+
+Overall rating for Dr. Anatoly Alekseev, Pathology, Moscow: 6.75/10 from 8 reviews

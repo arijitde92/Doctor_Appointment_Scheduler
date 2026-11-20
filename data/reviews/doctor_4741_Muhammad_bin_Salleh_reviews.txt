@@ -1,0 +1,59 @@
+Doctor: Dr. Muhammad bin Salleh
+Doctor ID: 4741
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 5
+City: Kuala Lumpur, Malaysia
+Clinics: Taman Sari Medical Centre (clinic ID 612); Klinik Dr. Aman Bersatu (clinic ID 613)
+
+Review 1 for Dr. Muhammad bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 5/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Caring and gentle with my child, Dr. Muhammad bin Salleh nonetheless ran forty minutes behind schedule at most appointments. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Muhammad bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Muhammad bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Taman Sari Medical Centre
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. The treatment plan from Dr. Muhammad bin Salleh made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Muhammad bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 5 for Dr. Muhammad bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 7/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: Dr. Muhammad bin Salleh is thorough with exams, but the after-hours phone line at Klinik Dr. Aman Bersatu is hard to reach.
+
+Review 6 for Dr. Muhammad bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 7/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: Dr. Muhammad bin Salleh was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Muhammad bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 7/10
+Clinic visited: Taman Sari Medical Centre
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 8 for Dr. Muhammad bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 5/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: Quick appointment and a fair price in Kuala Lumpur, but the staff seemed overwhelmed and a bit curt on the phone. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 9 for Dr. Muhammad bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 3/10
+Clinic visited: Klinik Dr. Aman Bersatu
+Description: We were left waiting over an hour with a sick, crying baby and received no apology. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 10 for Dr. Muhammad bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Taman Sari Medical Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Muhammad bin Salleh, Pediatrics, Kuala Lumpur: 5.80/10 from 10 reviews

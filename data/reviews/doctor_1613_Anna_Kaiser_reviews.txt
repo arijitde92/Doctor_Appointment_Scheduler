@@ -1,0 +1,59 @@
+Doctor: Dr. Anna Kaiser
+Doctor ID: 1613
+Specialization: Pathology
+Gender: Female
+Years of experience: 5
+City: Munich, Germany
+Clinics: Praxisgemeinschaft Leopoldpark (clinic ID 210)
+
+Review 1 for Dr. Anna Kaiser, Pathology, Munich
+Rating: 7/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Quick appointment and a fair price in Munich, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Anna Kaiser, Pathology, Munich
+Rating: 6/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: Helpful in clarifying a borderline result, though Dr. Anna Kaiser gave little guidance about whether to repeat it. I got what I needed, but the next available appointment was three weeks away.
+
+Review 3 for Dr. Anna Kaiser, Pathology, Munich
+Rating: 8/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: The biopsy report was returned in three days, and Dr. Anna Kaiser took time on the phone to explain every term in it. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 4 for Dr. Anna Kaiser, Pathology, Munich
+Rating: 6/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: Good bedside manner from Dr. Anna Kaiser, but the parking near Praxisgemeinschaft Leopoldpark is limited and I had to circle for fifteen minutes. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Anna Kaiser, Pathology, Munich
+Rating: 7/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Anna Kaiser answered my questions kindly, though the call back took three days. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Anna Kaiser, Pathology, Munich
+Rating: 9/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: Allergy panel results were explained in detail by Dr. Anna Kaiser, with a note on which results mattered clinically and which did not. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 7 for Dr. Anna Kaiser, Pathology, Munich
+Rating: 8/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 8 for Dr. Anna Kaiser, Pathology, Munich
+Rating: 8/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: Fast turnaround at Praxisgemeinschaft Leopoldpark on my thyroid panel, with results in my online account by the next morning.
+
+Review 9 for Dr. Anna Kaiser, Pathology, Munich
+Rating: 6/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Anna Kaiser, Pathology, Munich
+Rating: 8/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. I asked for a second look at my slides, and Dr. Anna Kaiser reviewed them without any fuss and confirmed the finding in writing. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Anna Kaiser, Pathology, Munich: 7.30/10 from 10 reviews

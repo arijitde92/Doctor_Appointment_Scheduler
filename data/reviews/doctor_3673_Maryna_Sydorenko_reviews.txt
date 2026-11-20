@@ -1,0 +1,49 @@
+Doctor: Dr. Maryna Sydorenko
+Doctor ID: 3673
+Specialization: Radiology
+Gender: Female
+Years of experience: 11
+City: Odesa, Ukraine
+Clinics: Klinika Bilyi Parus (clinic ID 474)
+
+Review 1 for Dr. Maryna Sydorenko, Radiology, Odesa
+Rating: 9/10
+Clinic visited: Klinika Bilyi Parus
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Maryna Sydorenko felt well organized from start to finish.
+
+Review 2 for Dr. Maryna Sydorenko, Radiology, Odesa
+Rating: 6/10
+Clinic visited: Klinika Bilyi Parus
+Description: Dr. Maryna Sydorenko answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Good bedside manner from Dr. Maryna Sydorenko, but the parking near Klinika Bilyi Parus is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Maryna Sydorenko, Radiology, Odesa
+Rating: 9/10
+Clinic visited: Klinika Bilyi Parus
+Description: Dr. Maryna Sydorenko compared my new scan with last year's and pointed out exactly what had stayed the same. Dr. Maryna Sydorenko double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Maryna Sydorenko, Radiology, Odesa
+Rating: 7/10
+Clinic visited: Klinika Bilyi Parus
+Description: The report from Dr. Maryna Sydorenko was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 5 for Dr. Maryna Sydorenko, Radiology, Odesa
+Rating: 6/10
+Clinic visited: Klinika Bilyi Parus
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 6 for Dr. Maryna Sydorenko, Radiology, Odesa
+Rating: 8/10
+Clinic visited: Klinika Bilyi Parus
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. When my scan showed something that needed a second look, Dr. Maryna Sydorenko arranged the follow-up the same day.
+
+Review 7 for Dr. Maryna Sydorenko, Radiology, Odesa
+Rating: 10/10
+Clinic visited: Klinika Bilyi Parus
+Description: Booking a CT scan online at Klinika Bilyi Parus took two minutes, and I was in and out within forty minutes.
+
+Review 8 for Dr. Maryna Sydorenko, Radiology, Odesa
+Rating: 8/10
+Clinic visited: Klinika Bilyi Parus
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Maryna Sydorenko were respectful throughout. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Overall rating for Dr. Maryna Sydorenko, Radiology, Odesa: 7.88/10 from 8 reviews

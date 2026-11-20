@@ -1,0 +1,49 @@
+Doctor: Dr. Xiao Hao
+Doctor ID: 3949
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 5
+City: Shanghai, China
+Clinics: Xujiahui Pinghe Medical Clinic (clinic ID 509)
+
+Review 1 for Dr. Xiao Hao, Psychiatry, Shanghai
+Rating: 6/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 2 for Dr. Xiao Hao, Psychiatry, Shanghai
+Rating: 7/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Supportive in crisis, but follow-up between visits could have been more regular. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Xiao Hao, Psychiatry, Shanghai
+Rating: 7/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Dr. Xiao Hao is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 4 for Dr. Xiao Hao, Psychiatry, Shanghai
+Rating: 7/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good listener, yet the refill process at Xujiahui Pinghe Medical Clinic is slow and requires several phone calls.
+
+Review 5 for Dr. Xiao Hao, Psychiatry, Shanghai
+Rating: 9/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: My depression finally has a treatment plan from Dr. Xiao Hao that works, with regular check-ins and careful dose changes.
+
+Review 6 for Dr. Xiao Hao, Psychiatry, Shanghai
+Rating: 10/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. A same-day slot was found for me at Xujiahui Pinghe Medical Clinic when I called with a worrying symptom.
+
+Review 7 for Dr. Xiao Hao, Psychiatry, Shanghai
+Rating: 8/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: My family was included in a session at my request, and Dr. Xiao Hao handled it with great tact. Booking online at Xujiahui Pinghe Medical Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Xiao Hao, Psychiatry, Shanghai
+Rating: 8/10
+Clinic visited: Xujiahui Pinghe Medical Clinic
+Description: Dr. Xiao Hao used a calm, steady voice that settled my nerves before a stressful procedure. He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Xiao Hao, Psychiatry, Shanghai: 7.75/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Eoin Smith
+Doctor ID: 2527
+Specialization: Neurology
+Gender: Male
+Years of experience: 16
+City: Limerick, Ireland
+Clinics: O'Connell Street Medical Practice (clinic ID 330)
+
+Review 1 for Dr. Eoin Smith, Neurology, Limerick
+Rating: 8/10
+Clinic visited: O'Connell Street Medical Practice
+Description: The memory assessment for my father at O'Connell Street Medical Practice was gentle and respectful, and the family received a clear written summary.
+
+Review 2 for Dr. Eoin Smith, Neurology, Limerick
+Rating: 6/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Dr. Eoin Smith explained my results well, although the visit felt short for such a complex condition.
+
+Review 3 for Dr. Eoin Smith, Neurology, Limerick
+Rating: 8/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Dr. Eoin Smith took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. A translator was arranged for my mother without us asking twice, and Dr. Eoin Smith spoke directly to her throughout. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Eoin Smith, Neurology, Limerick
+Rating: 6/10
+Clinic visited: O'Connell Street Medical Practice
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 5 for Dr. Eoin Smith, Neurology, Limerick
+Rating: 6/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Eoin Smith at O'Connell Street Medical Practice are difficult to schedule. Booking was easy online, but the confirmation email contained the wrong address for O'Connell Street Medical Practice.
+
+Review 6 for Dr. Eoin Smith, Neurology, Limerick
+Rating: 6/10
+Clinic visited: O'Connell Street Medical Practice
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Eoin Smith, Neurology, Limerick
+Rating: 7/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Eoin Smith, Neurology, Limerick
+Rating: 4/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Dr. Eoin Smith did not seem to have read my notes and asked me to repeat my whole history from the beginning. After a long wait, my appointment with Dr. Eoin Smith lasted a few minutes and ended with a new prescription and no discussion. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 9 for Dr. Eoin Smith, Neurology, Limerick
+Rating: 10/10
+Clinic visited: O'Connell Street Medical Practice
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 10 for Dr. Eoin Smith, Neurology, Limerick
+Rating: 5/10
+Clinic visited: O'Connell Street Medical Practice
+Description: I liked the advice I got from Dr. Eoin Smith, but I would have liked more time to ask follow-up questions before the visit ended. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Overall rating for Dr. Eoin Smith, Neurology, Limerick: 6.60/10 from 10 reviews

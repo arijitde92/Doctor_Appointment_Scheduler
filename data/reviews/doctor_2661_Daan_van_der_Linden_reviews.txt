@@ -1,0 +1,49 @@
+Doctor: Dr. Daan van der Linden
+Doctor ID: 2661
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 25
+City: The Hague, Netherlands
+Clinics: Medisch Centrum Hofkwartier (clinic ID 349)
+
+Review 1 for Dr. Daan van der Linden, Orthopedic, The Hague
+Rating: 7/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Daan van der Linden, Orthopedic, The Hague
+Rating: 7/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Daan van der Linden, Orthopedic, The Hague
+Rating: 9/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: After my knee replacement, Dr. Daan van der Linden explained the entire recovery timeline, and I was walking with a cane by week three. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Daan van der Linden, Orthopedic, The Hague
+Rating: 8/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up.
+
+Review 5 for Dr. Daan van der Linden, Orthopedic, The Hague
+Rating: 8/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Clear aftercare instructions from Dr. Daan van der Linden and a direct number to call if something felt wrong after my surgery.
+
+Review 6 for Dr. Daan van der Linden, Orthopedic, The Hague
+Rating: 6/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 7 for Dr. Daan van der Linden, Orthopedic, The Hague
+Rating: 5/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 8 for Dr. Daan van der Linden, Orthopedic, The Hague
+Rating: 10/10
+Clinic visited: Medisch Centrum Hofkwartier
+Description: Follow-up scans were compared with the earlier ones, and Dr. Daan van der Linden showed me how the bone had healed. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Overall rating for Dr. Daan van der Linden, Orthopedic, The Hague: 7.50/10 from 8 reviews

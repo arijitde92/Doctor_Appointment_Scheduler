@@ -1,0 +1,59 @@
+Doctor: Dr. Jiang Pei-shan
+Doctor ID: 4338
+Specialization: Cardiology
+Gender: Female
+Years of experience: 19
+City: Kaohsiung, Taiwan
+Clinics: Xinxing Jiali Medical Clinic (clinic ID 559)
+
+Review 1 for Dr. Jiang Pei-shan, Cardiology, Kaohsiung
+Rating: 7/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 2 for Dr. Jiang Pei-shan, Cardiology, Kaohsiung
+Rating: 5/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Xinxing Jiali Medical Clinic. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 3 for Dr. Jiang Pei-shan, Cardiology, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: The cardiology unit at Xinxing Jiali Medical Clinic runs on time, and the technicians were professional during my echocardiogram. The nurse was friendly and efficient, and the whole visit with Dr. Jiang Pei-shan felt well organized from start to finish. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Jiang Pei-shan, Cardiology, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Managing my blood pressure with Dr. Jiang Pei-shan has been steady and practical, with home readings reviewed at every visit.
+
+Review 5 for Dr. Jiang Pei-shan, Cardiology, Kaohsiung
+Rating: 7/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Dr. Jiang Pei-shan was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 6 for Dr. Jiang Pei-shan, Cardiology, Kaohsiung
+Rating: 7/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. I got what I needed, but the next available appointment was three weeks away. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Jiang Pei-shan, Cardiology, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Dr. Jiang Pei-shan drew a quick sketch to explain what was going on, which helped me remember it afterwards. My stress test was supervised carefully, and Dr. Jiang Pei-shan reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 8 for Dr. Jiang Pei-shan, Cardiology, Kaohsiung
+Rating: 10/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Paperwork at Xinxing Jiali Medical Clinic was kept to a minimum, and the staff helped me complete the insurance form. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Jiang Pei-shan, Cardiology, Kaohsiung
+Rating: 7/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Great care in the visit itself, but the billing for the tests at Xinxing Jiali Medical Clinic was confusing.
+
+Review 10 for Dr. Jiang Pei-shan, Cardiology, Kaohsiung
+Rating: 7/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Helpful with my cholesterol, Dr. Jiang Pei-shan still gave dietary advice that was a little generic.
+
+Overall rating for Dr. Jiang Pei-shan, Cardiology, Kaohsiung: 7.50/10 from 10 reviews

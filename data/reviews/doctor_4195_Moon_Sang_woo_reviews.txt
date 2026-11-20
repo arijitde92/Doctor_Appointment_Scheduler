@@ -1,0 +1,54 @@
+Doctor: Dr. Moon Sang-woo
+Doctor ID: 4195
+Specialization: Pathology
+Gender: Male
+Years of experience: 6
+City: Daegu, South Korea
+Clinics: Dongseongno Dalbit Medical Clinic (clinic ID 540); Beomeo Hanmaru Health Clinic (clinic ID 542)
+
+Review 1 for Dr. Moon Sang-woo, Pathology, Daegu
+Rating: 6/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 2 for Dr. Moon Sang-woo, Pathology, Daegu
+Rating: 6/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Moon Sang-woo gave little guidance about whether to repeat it.
+
+Review 3 for Dr. Moon Sang-woo, Pathology, Daegu
+Rating: 4/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: The report was handed over by Dr. Moon Sang-woo with no explanation, and I left frightened and confused about the terminology.
+
+Review 4 for Dr. Moon Sang-woo, Pathology, Daegu
+Rating: 6/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: Dr. Moon Sang-woo was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Moon Sang-woo answered my questions kindly, though the call back took three days.
+
+Review 5 for Dr. Moon Sang-woo, Pathology, Daegu
+Rating: 7/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: The blood draw was painless, but the waiting area at Dongseongno Dalbit Medical Clinic was crowded in the early morning. Dr. Moon Sang-woo was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 6 for Dr. Moon Sang-woo, Pathology, Daegu
+Rating: 8/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Dr. Moon Sang-woo used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 7 for Dr. Moon Sang-woo, Pathology, Daegu
+Rating: 7/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 8 for Dr. Moon Sang-woo, Pathology, Daegu
+Rating: 5/10
+Clinic visited: Beomeo Hanmaru Health Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Moon Sang-woo, Pathology, Daegu
+Rating: 6/10
+Clinic visited: Dongseongno Dalbit Medical Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Moon Sang-woo, Pathology, Daegu: 6.11/10 from 9 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Ethan Roy
+Doctor ID: 337
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 18
+City: Toronto, Canada
+Clinics: Midtown Toronto Health Practice (clinic ID 47)
+
+Review 1 for Dr. Ethan Roy, Pulmonology, Toronto
+Rating: 6/10
+Clinic visited: Midtown Toronto Health Practice
+Description: Helpful and honest about my prognosis, Dr. Ethan Roy could still have given me more written material to take home. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Ethan Roy, Pulmonology, Toronto
+Rating: 7/10
+Clinic visited: Midtown Toronto Health Practice
+Description: Pleasant manner and careful lung exam, though the waiting time at Midtown Toronto Health Practice regularly exceeded forty minutes. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Ethan Roy, Pulmonology, Toronto
+Rating: 6/10
+Clinic visited: Midtown Toronto Health Practice
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Good bedside manner from Dr. Ethan Roy, but the parking near Midtown Toronto Health Practice is limited and I had to circle for fifteen minutes. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Ethan Roy, Pulmonology, Toronto
+Rating: 6/10
+Clinic visited: Midtown Toronto Health Practice
+Description: Dr. Ethan Roy adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 5 for Dr. Ethan Roy, Pulmonology, Toronto
+Rating: 5/10
+Clinic visited: Midtown Toronto Health Practice
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 6 for Dr. Ethan Roy, Pulmonology, Toronto
+Rating: 5/10
+Clinic visited: Midtown Toronto Health Practice
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Ethan Roy, Pulmonology, Toronto
+Rating: 7/10
+Clinic visited: Midtown Toronto Health Practice
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Ethan Roy, Pulmonology, Toronto
+Rating: 4/10
+Clinic visited: Midtown Toronto Health Practice
+Description: The visit felt rushed, and Dr. Ethan Roy was already halfway out the door when I started to describe my second symptom. I was told to just keep using my inhaler and nobody checked whether I was using it properly.
+
+Review 9 for Dr. Ethan Roy, Pulmonology, Toronto
+Rating: 4/10
+Clinic visited: Midtown Toronto Health Practice
+Description: There was no translator available, and my parent was left unable to follow what was being said. My persistent cough was labelled as allergies by Dr. Ethan Roy without any chest examination or breathing test.
+
+Review 10 for Dr. Ethan Roy, Pulmonology, Toronto
+Rating: 7/10
+Clinic visited: Midtown Toronto Health Practice
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 11 for Dr. Ethan Roy, Pulmonology, Toronto
+Rating: 5/10
+Clinic visited: Midtown Toronto Health Practice
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 12 for Dr. Ethan Roy, Pulmonology, Toronto
+Rating: 6/10
+Clinic visited: Midtown Toronto Health Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Midtown Toronto Health Practice. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Ethan Roy, Pulmonology, Toronto: 5.67/10 from 12 reviews

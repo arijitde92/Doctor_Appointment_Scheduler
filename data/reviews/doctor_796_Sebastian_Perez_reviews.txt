@@ -1,0 +1,49 @@
+Doctor: Dr. Sebastián Pérez
+Doctor ID: 796
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 17
+City: Mendoza, Argentina
+Clinics: Clínica Cuyo Salud (clinic ID 105); Instituto de Salud Belgrano (clinic ID 109)
+
+Review 1 for Dr. Sebastián Pérez, Orthopedic, Mendoza
+Rating: 9/10
+Clinic visited: Clínica Cuyo Salud
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I appreciated Dr. Sebastián Pérez's honest comparison between injections, therapy and surgery for my hip pain. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Sebastián Pérez, Orthopedic, Mendoza
+Rating: 6/10
+Clinic visited: Clínica Cuyo Salud
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Sebastián Pérez, Orthopedic, Mendoza
+Rating: 8/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Dr. Sebastián Pérez explained my back scan using a model of the spine, and I finally understood my sciatica. I appreciated that he offered more than one option and let me choose what suited my life. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Sebastián Pérez, Orthopedic, Mendoza
+Rating: 5/10
+Clinic visited: Clínica Cuyo Salud
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Sebastián Pérez, Orthopedic, Mendoza
+Rating: 4/10
+Clinic visited: Instituto de Salud Belgrano
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 6 for Dr. Sebastián Pérez, Orthopedic, Mendoza
+Rating: 5/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 7 for Dr. Sebastián Pérez, Orthopedic, Mendoza
+Rating: 6/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Dr. Sebastián Pérez was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 8 for Dr. Sebastián Pérez, Orthopedic, Mendoza
+Rating: 5/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Very skilled with my knee, but Dr. Sebastián Pérez's clinic runs behind and the wait was over an hour. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Sebastián Pérez, Orthopedic, Mendoza: 6.00/10 from 8 reviews

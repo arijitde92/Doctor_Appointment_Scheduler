@@ -1,0 +1,49 @@
+Doctor: Dr. Peter Smit
+Doctor ID: 2575
+Specialization: Neurology
+Gender: Male
+Years of experience: 13
+City: Amsterdam, Netherlands
+Clinics: Medisch Centrum De Pijp (clinic ID 336)
+
+Review 1 for Dr. Peter Smit, Neurology, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: I appreciated that he offered more than one option and let me choose what suited my life. I always leave Dr. Peter Smit's office with a short written summary of changes, which helps my family keep up.
+
+Review 2 for Dr. Peter Smit, Neurology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Quick appointment and a fair price in Amsterdam, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Peter Smit, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum De Pijp
+Description: The memory assessment for my father at Medisch Centrum De Pijp was gentle and respectful, and the family received a clear written summary.
+
+Review 4 for Dr. Peter Smit, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum De Pijp
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. The visit began with a short, friendly chat that put me at ease before any examination started. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Peter Smit, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum De Pijp
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. My tremor was assessed carefully and the explanation of the options was balanced and unhurried.
+
+Review 6 for Dr. Peter Smit, Neurology, Amsterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum De Pijp
+Description: At my visit, Dr. Peter Smit took notes on my medication list, checked for interactions and explained the changes simply. Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 7 for Dr. Peter Smit, Neurology, Amsterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum De Pijp
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 8 for Dr. Peter Smit, Neurology, Amsterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum De Pijp
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Peter Smit at Medisch Centrum De Pijp are difficult to schedule.
+
+Overall rating for Dr. Peter Smit, Neurology, Amsterdam: 9.00/10 from 8 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Kirsten Sørensen
+Doctor ID: 2270
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 3
+City: Aalborg, Denmark
+Clinics: Lægecentret Nørregade Aalborg (clinic ID 296); Klinik Sofiendal Aalborg (clinic ID 299)
+
+Review 1 for Dr. Kirsten Sørensen, Psychiatry, Aalborg
+Rating: 8/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 2 for Dr. Kirsten Sørensen, Psychiatry, Aalborg
+Rating: 7/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Kirsten Sørensen, Psychiatry, Aalborg
+Rating: 4/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: My questions were answered by Dr. Kirsten Sørensen with short, vague replies, and I left without a clear plan. My concerns about how I felt on the dose were waved away rather than explored. I will not be returning and have already started looking for another doctor.
+
+Review 4 for Dr. Kirsten Sørensen, Psychiatry, Aalborg
+Rating: 6/10
+Clinic visited: Lægecentret Nørregade Aalborg
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Kirsten Sørensen is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 5 for Dr. Kirsten Sørensen, Psychiatry, Aalborg
+Rating: 7/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 6 for Dr. Kirsten Sørensen, Psychiatry, Aalborg
+Rating: 9/10
+Clinic visited: Lægecentret Nørregade Aalborg
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Kirsten Sørensen, Psychiatry, Aalborg
+Rating: 6/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Dr. Kirsten Sørensen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Kirsten Sørensen, Psychiatry, Aalborg
+Rating: 6/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. I liked the advice I got from Dr. Kirsten Sørensen, but I would have liked more time to ask follow-up questions before the visit ended. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Kirsten Sørensen, Psychiatry, Aalborg
+Rating: 7/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Good listener, yet the refill process at Klinik Sofiendal Aalborg is slow and requires several phone calls. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 10 for Dr. Kirsten Sørensen, Psychiatry, Aalborg
+Rating: 6/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Dr. Kirsten Sørensen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 11 for Dr. Kirsten Sørensen, Psychiatry, Aalborg
+Rating: 5/10
+Clinic visited: Lægecentret Nørregade Aalborg
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Quick appointment and a fair price in Aalborg, but the staff seemed overwhelmed and a bit curt on the phone. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 12 for Dr. Kirsten Sørensen, Psychiatry, Aalborg
+Rating: 6/10
+Clinic visited: Klinik Sofiendal Aalborg
+Description: Good bedside manner from Dr. Kirsten Sørensen, but the parking near Klinik Sofiendal Aalborg is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Kirsten Sørensen, Psychiatry, Aalborg: 6.42/10 from 12 reviews

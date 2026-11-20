@@ -1,0 +1,54 @@
+Doctor: Dr. Polina Lebedeva
+Doctor ID: 3771
+Specialization: General
+Gender: Female
+Years of experience: 9
+City: Novosibirsk, Russia
+Clinics: Klinika Obskoe More (clinic ID 486)
+
+Review 1 for Dr. Polina Lebedeva, General, Novosibirsk
+Rating: 8/10
+Clinic visited: Klinika Obskoe More
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. The practice in Novosibirsk is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 2 for Dr. Polina Lebedeva, General, Novosibirsk
+Rating: 7/10
+Clinic visited: Klinika Obskoe More
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Polina Lebedeva, General, Novosibirsk
+Rating: 8/10
+Clinic visited: Klinika Obskoe More
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Best family doctor I have had; She treats the whole person and not just the symptom list.
+
+Review 4 for Dr. Polina Lebedeva, General, Novosibirsk
+Rating: 7/10
+Clinic visited: Klinika Obskoe More
+Description: Dr. Polina Lebedeva was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Polina Lebedeva, General, Novosibirsk
+Rating: 8/10
+Clinic visited: Klinika Obskoe More
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 6 for Dr. Polina Lebedeva, General, Novosibirsk
+Rating: 9/10
+Clinic visited: Klinika Obskoe More
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Polina Lebedeva, General, Novosibirsk
+Rating: 8/10
+Clinic visited: Klinika Obskoe More
+Description: The receptionist at Klinika Obskoe More remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 8 for Dr. Polina Lebedeva, General, Novosibirsk
+Rating: 9/10
+Clinic visited: Klinika Obskoe More
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 9 for Dr. Polina Lebedeva, General, Novosibirsk
+Rating: 9/10
+Clinic visited: Klinika Obskoe More
+Description: I always hear back within a day when I leave a question with the nurse at Klinika Obskoe More, and Dr. Polina Lebedeva follows up on lab results personally. A same-day slot was found for me at Klinika Obskoe More when I called with a worrying symptom.
+
+Overall rating for Dr. Polina Lebedeva, General, Novosibirsk: 8.11/10 from 9 reviews

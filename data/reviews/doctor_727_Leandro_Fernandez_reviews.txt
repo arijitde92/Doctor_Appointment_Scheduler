@@ -1,0 +1,69 @@
+Doctor: Dr. Leandro Fernández
+Doctor ID: 727
+Specialization: Pathology
+Gender: Male
+Years of experience: 27
+City: Buenos Aires, Argentina
+Clinics: Clínica Belgrano Salud (clinic ID 96); Consultorios Médicos Caballito (clinic ID 97); Policlínica Palermo Integral (clinic ID 98)
+
+Review 1 for Dr. Leandro Fernández, Pathology, Buenos Aires
+Rating: 10/10
+Clinic visited: Policlínica Palermo Integral
+Description: Paperwork at Policlínica Palermo Integral was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 2 for Dr. Leandro Fernández, Pathology, Buenos Aires
+Rating: 9/10
+Clinic visited: Consultorios Médicos Caballito
+Description: I was given a printed summary of the visit, which I shared with my family at home. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Leandro Fernández, Pathology, Buenos Aires
+Rating: 8/10
+Clinic visited: Consultorios Médicos Caballito
+Description: I asked for a second look at my slides, and Dr. Leandro Fernández reviewed them without any fuss and confirmed the finding in writing.
+
+Review 4 for Dr. Leandro Fernández, Pathology, Buenos Aires
+Rating: 8/10
+Clinic visited: Clínica Belgrano Salud
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Leandro Fernández, Pathology, Buenos Aires
+Rating: 8/10
+Clinic visited: Policlínica Palermo Integral
+Description: The lab at Policlínica Palermo Integral had a quick, friendly blood draw and the phlebotomist found my vein on the first try. A translator was arranged for my mother without us asking twice, and Dr. Leandro Fernández spoke directly to her throughout. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Leandro Fernández, Pathology, Buenos Aires
+Rating: 10/10
+Clinic visited: Clínica Belgrano Salud
+Description: The lab under Dr. Leandro Fernández was clean, organized and never overbooked, and results arrived exactly when promised. Booking online at Clínica Belgrano Salud was simple, and I got a confirmation text with clear directions and a reminder the day before. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Leandro Fernández, Pathology, Buenos Aires
+Rating: 10/10
+Clinic visited: Policlínica Palermo Integral
+Description: The staff and Dr. Leandro Fernández patiently went through my cholesterol and glucose numbers and explained what each meant for me. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 8 for Dr. Leandro Fernández, Pathology, Buenos Aires
+Rating: 10/10
+Clinic visited: Clínica Belgrano Salud
+Description: Allergy panel results were explained in detail by Dr. Leandro Fernández, with a note on which results mattered clinically and which did not. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Leandro Fernández, Pathology, Buenos Aires
+Rating: 8/10
+Clinic visited: Consultorios Médicos Caballito
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Highly recommended, and I have already told two colleagues about it.
+
+Review 10 for Dr. Leandro Fernández, Pathology, Buenos Aires
+Rating: 10/10
+Clinic visited: Consultorios Médicos Caballito
+Description: Dr. Leandro Fernández took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 11 for Dr. Leandro Fernández, Pathology, Buenos Aires
+Rating: 10/10
+Clinic visited: Clínica Belgrano Salud
+Description: A same-day slot was found for me at Clínica Belgrano Salud when I called with a worrying symptom. I would happily recommend this doctor to friends and family.
+
+Review 12 for Dr. Leandro Fernández, Pathology, Buenos Aires
+Rating: 10/10
+Clinic visited: Policlínica Palermo Integral
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Overall rating for Dr. Leandro Fernández, Pathology, Buenos Aires: 9.25/10 from 12 reviews

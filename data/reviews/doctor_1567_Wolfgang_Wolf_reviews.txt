@@ -1,0 +1,64 @@
+Doctor: Dr. Wolfgang Wolf
+Doctor ID: 1567
+Specialization: Radiology
+Gender: Male
+Years of experience: 1
+City: Frankfurt, Germany
+Clinics: Praxisgemeinschaft Ostend Main (clinic ID 204)
+
+Review 1 for Dr. Wolfgang Wolf, Radiology, Frankfurt
+Rating: 8/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: Reviewing my X-ray together with Dr. Wolfgang Wolf on the screen made it much easier to understand my arthritis.
+
+Review 2 for Dr. Wolfgang Wolf, Radiology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. The treatment plan from Dr. Wolfgang Wolf made sense, but I wished it had been written down for me to take away. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Wolfgang Wolf, Radiology, Frankfurt
+Rating: 6/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: Dr. Wolfgang Wolf was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Wolfgang Wolf, Radiology, Frankfurt
+Rating: 5/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 5 for Dr. Wolfgang Wolf, Radiology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 6 for Dr. Wolfgang Wolf, Radiology, Frankfurt
+Rating: 10/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: Getting to Praxisgemeinschaft Ostend Main by public transport in Frankfurt was easy, and there is a step-free entrance for wheelchairs. I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 7 for Dr. Wolfgang Wolf, Radiology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 8 for Dr. Wolfgang Wolf, Radiology, Frankfurt
+Rating: 8/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I feel lucky to have found this practice in my area.
+
+Review 9 for Dr. Wolfgang Wolf, Radiology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 10 for Dr. Wolfgang Wolf, Radiology, Frankfurt
+Rating: 7/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: Good bedside manner from Dr. Wolfgang Wolf, but the parking near Praxisgemeinschaft Ostend Main is limited and I had to circle for fifteen minutes. The report from Dr. Wolfgang Wolf was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 11 for Dr. Wolfgang Wolf, Radiology, Frankfurt
+Rating: 8/10
+Clinic visited: Praxisgemeinschaft Ostend Main
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Overall rating for Dr. Wolfgang Wolf, Radiology, Frankfurt: 7.27/10 from 11 reviews

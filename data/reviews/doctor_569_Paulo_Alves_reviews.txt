@@ -1,0 +1,49 @@
+Doctor: Dr. Paulo Alves
+Doctor ID: 569
+Specialization: Neurology
+Gender: Male
+Years of experience: 1
+City: Belo Horizonte, Brazil
+Clinics: Centro Médico Contorno (clinic ID 76); Clínica Mangabeiras Vida (clinic ID 78)
+
+Review 1 for Dr. Paulo Alves, Neurology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Centro Médico Contorno
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 2 for Dr. Paulo Alves, Neurology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Paulo Alves felt well organized from start to finish. The neurological exam by Dr. Paulo Alves was thorough, with every reflex test and gait check explained as it happened.
+
+Review 3 for Dr. Paulo Alves, Neurology, Belo Horizonte
+Rating: 10/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: The EEG appointment ran on time, and Dr. Paulo Alves reviewed the tracing with me the same week. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 4 for Dr. Paulo Alves, Neurology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 5 for Dr. Paulo Alves, Neurology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Centro Médico Contorno
+Description: Good bedside manner from Dr. Paulo Alves, but the parking near Centro Médico Contorno is limited and I had to circle for fifteen minutes. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Paulo Alves, Neurology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Paulo Alves, Neurology, Belo Horizonte
+Rating: 9/10
+Clinic visited: Clínica Mangabeiras Vida
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. I always leave Dr. Paulo Alves's office with a short written summary of changes, which helps my family keep up.
+
+Review 8 for Dr. Paulo Alves, Neurology, Belo Horizonte
+Rating: 10/10
+Clinic visited: Centro Médico Contorno
+Description: After years of migraines, Dr. Paulo Alves built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer.
+
+Overall rating for Dr. Paulo Alves, Neurology, Belo Horizonte: 8.25/10 from 8 reviews

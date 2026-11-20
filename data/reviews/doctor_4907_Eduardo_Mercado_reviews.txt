@@ -1,0 +1,49 @@
+Doctor: Dr. Eduardo Mercado
+Doctor ID: 4907
+Specialization: Cardiology
+Gender: Male
+Years of experience: 3
+City: Quezon City, Philippines
+Clinics: Klinika Maginhawa (clinic ID 633)
+
+Review 1 for Dr. Eduardo Mercado, Cardiology, Quezon City
+Rating: 6/10
+Clinic visited: Klinika Maginhawa
+Description: Dr. Eduardo Mercado adjusted my blood pressure medication carefully, though I had to call twice for a refill. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Eduardo Mercado, Cardiology, Quezon City
+Rating: 7/10
+Clinic visited: Klinika Maginhawa
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Helpful visit overall, although I only found out about an extra charge after I had paid. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Eduardo Mercado, Cardiology, Quezon City
+Rating: 8/10
+Clinic visited: Klinika Maginhawa
+Description: I came away understanding my condition better than I have in years of previous appointments. Honest about the risks and benefits of the procedure, Dr. Eduardo Mercado never pressured me toward surgery.
+
+Review 4 for Dr. Eduardo Mercado, Cardiology, Quezon City
+Rating: 10/10
+Clinic visited: Klinika Maginhawa
+Description: Dr. Eduardo Mercado explained the difference between my statin options and let me weigh in on the choice.
+
+Review 5 for Dr. Eduardo Mercado, Cardiology, Quezon City
+Rating: 3/10
+Clinic visited: Klinika Maginhawa
+Description: I reported chest tightness and was sent home with a leaflet and no ECG. The waiting room at Klinika Maginhawa was overcrowded and there was nowhere to sit, even for elderly patients. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 6 for Dr. Eduardo Mercado, Cardiology, Quezon City
+Rating: 8/10
+Clinic visited: Klinika Maginhawa
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. I was given a printed summary of the visit, which I shared with my family at home. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Eduardo Mercado, Cardiology, Quezon City
+Rating: 7/10
+Clinic visited: Klinika Maginhawa
+Description: Great care in the visit itself, but the billing for the tests at Klinika Maginhawa was confusing. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Eduardo Mercado, Cardiology, Quezon City
+Rating: 4/10
+Clinic visited: Klinika Maginhawa
+Description: My test results sat on Dr. Eduardo Mercado's desk for two weeks, and I only learned about a medication change when I called the pharmacy.
+
+Overall rating for Dr. Eduardo Mercado, Cardiology, Quezon City: 6.62/10 from 8 reviews

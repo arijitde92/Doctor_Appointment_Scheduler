@@ -1,0 +1,64 @@
+Doctor: Dr. Márcia Ferreira
+Doctor ID: 665
+Specialization: Cardiology
+Gender: Female
+Years of experience: 10
+City: Rio de Janeiro, Brazil
+Clinics: Clínica Botafogo Familiar (clinic ID 88)
+
+Review 1 for Dr. Márcia Ferreira, Cardiology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Great care in the visit itself, but the billing for the tests at Clínica Botafogo Familiar was confusing. Dr. Márcia Ferreira was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Márcia Ferreira, Cardiology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Clínica Botafogo Familiar
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Márcia Ferreira, Cardiology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Helpful with my cholesterol, Dr. Márcia Ferreira still gave dietary advice that was a little generic. Quick appointment and a fair price in Rio de Janeiro, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Márcia Ferreira, Cardiology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Dr. Márcia Ferreira adjusted my blood pressure medication carefully, though I had to call twice for a refill. Dr. Márcia Ferreira was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 5 for Dr. Márcia Ferreira, Cardiology, Rio de Janeiro
+Rating: 4/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Dr. Márcia Ferreira spent most of the appointment looking at the screen and gave very brief answers to my questions.
+
+Review 6 for Dr. Márcia Ferreira, Cardiology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Márcia Ferreira, Cardiology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 8 for Dr. Márcia Ferreira, Cardiology, Rio de Janeiro
+Rating: 4/10
+Clinic visited: Clínica Botafogo Familiar
+Description: I was billed separately for tests that I understood to be part of the original consultation. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 9 for Dr. Márcia Ferreira, Cardiology, Rio de Janeiro
+Rating: 4/10
+Clinic visited: Clínica Botafogo Familiar
+Description: The staff at Clínica Botafogo Familiar were curt on the phone, and it took four attempts to book a simple follow-up. I reported chest tightness and was sent home with a leaflet and no ECG.
+
+Review 10 for Dr. Márcia Ferreira, Cardiology, Rio de Janeiro
+Rating: 4/10
+Clinic visited: Clínica Botafogo Familiar
+Description: My worries about side effects from my medication were waved off, and nobody offered an alternative. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 11 for Dr. Márcia Ferreira, Cardiology, Rio de Janeiro
+Rating: 5/10
+Clinic visited: Clínica Botafogo Familiar
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clínica Botafogo Familiar.
+
+Overall rating for Dr. Márcia Ferreira, Cardiology, Rio de Janeiro: 5.45/10 from 11 reviews

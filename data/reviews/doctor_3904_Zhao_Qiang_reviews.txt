@@ -1,0 +1,64 @@
+Doctor: Dr. Zhao Qiang
+Doctor ID: 3904
+Specialization: Neurology
+Gender: Male
+Years of experience: 4
+City: Guangzhou, China
+Clinics: Haizhu Mingde Medical Clinic (clinic ID 504)
+
+Review 1 for Dr. Zhao Qiang, Neurology, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 2 for Dr. Zhao Qiang, Neurology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 3 for Dr. Zhao Qiang, Neurology, Guangzhou
+Rating: 10/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The EEG appointment ran on time, and Dr. Zhao Qiang reviewed the tracing with me the same week. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Zhao Qiang, Neurology, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. Dr. Zhao Qiang double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 5 for Dr. Zhao Qiang, Neurology, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The receptionist at Haizhu Mingde Medical Clinic remembered my name and had my forms ready, so check-in took less than a minute. He patiently explained my MRI findings and calmed my worries about memory problems.
+
+Review 6 for Dr. Zhao Qiang, Neurology, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Clear and honest talk with Dr. Zhao Qiang about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist. Appointment reminders came by text and email, and rescheduling took two taps. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Zhao Qiang, Neurology, Guangzhou
+Rating: 9/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The memory assessment for my father at Haizhu Mingde Medical Clinic was gentle and respectful, and the family received a clear written summary. The practice in Guangzhou is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Zhao Qiang, Neurology, Guangzhou
+Rating: 10/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Dr. Zhao Qiang looked me in the eye, listened to the whole story and only then started typing.
+
+Review 9 for Dr. Zhao Qiang, Neurology, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 10 for Dr. Zhao Qiang, Neurology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Zhao Qiang at Haizhu Mingde Medical Clinic are difficult to schedule. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 11 for Dr. Zhao Qiang, Neurology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Overall rating for Dr. Zhao Qiang, Neurology, Guangzhou: 8.00/10 from 11 reviews

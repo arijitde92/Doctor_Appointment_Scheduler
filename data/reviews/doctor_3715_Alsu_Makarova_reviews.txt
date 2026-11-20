@@ -1,0 +1,69 @@
+Doctor: Dr. Alsu Makarova
+Doctor ID: 3715
+Specialization: Cardiology
+Gender: Female
+Years of experience: 3
+City: Moscow, Russia
+Clinics: Tverskoy Medical Centre (clinic ID 480); Klinika Zdorovaya Semya (clinic ID 481)
+
+Review 1 for Dr. Alsu Makarova, Cardiology, Moscow
+Rating: 8/10
+Clinic visited: Tverskoy Medical Centre
+Description: After my heart attack, Dr. Alsu Makarova explained the rehab plan and medication changes with great patience and kindness. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Alsu Makarova, Cardiology, Moscow
+Rating: 9/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The receptionist at Klinika Zdorovaya Semya remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 3 for Dr. Alsu Makarova, Cardiology, Moscow
+Rating: 9/10
+Clinic visited: Tverskoy Medical Centre
+Description: At my visit, Dr. Alsu Makarova took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 4 for Dr. Alsu Makarova, Cardiology, Moscow
+Rating: 8/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 5 for Dr. Alsu Makarova, Cardiology, Moscow
+Rating: 8/10
+Clinic visited: Tverskoy Medical Centre
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. My stress test was supervised carefully, and Dr. Alsu Makarova reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 6 for Dr. Alsu Makarova, Cardiology, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 7 for Dr. Alsu Makarova, Cardiology, Moscow
+Rating: 8/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The practice in Moscow is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 8 for Dr. Alsu Makarova, Cardiology, Moscow
+Rating: 8/10
+Clinic visited: Tverskoy Medical Centre
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 9 for Dr. Alsu Makarova, Cardiology, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The treatment plan from Dr. Alsu Makarova made sense, but I wished it had been written down for me to take away. Great care in the visit itself, but the billing for the tests at Klinika Zdorovaya Semya was confusing.
+
+Review 10 for Dr. Alsu Makarova, Cardiology, Moscow
+Rating: 7/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I got what I needed, but the next available appointment was three weeks away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 11 for Dr. Alsu Makarova, Cardiology, Moscow
+Rating: 5/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Helpful with my cholesterol, Dr. Alsu Makarova still gave dietary advice that was a little generic.
+
+Review 12 for Dr. Alsu Makarova, Cardiology, Moscow
+Rating: 6/10
+Clinic visited: Tverskoy Medical Centre
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Overall rating for Dr. Alsu Makarova, Cardiology, Moscow: 7.33/10 from 12 reviews

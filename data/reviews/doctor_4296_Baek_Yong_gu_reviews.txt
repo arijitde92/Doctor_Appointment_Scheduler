@@ -1,0 +1,64 @@
+Doctor: Dr. Baek Yong-gu
+Doctor ID: 4296
+Specialization: General
+Gender: Male
+Years of experience: 20
+City: Seoul, South Korea
+Clinics: Songpa Saenal Health Clinic (clinic ID 553)
+
+Review 1 for Dr. Baek Yong-gu, General, Seoul
+Rating: 10/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Cholesterol results were explained by Dr. Baek Yong-gu with a simple chart, and we agreed on a plan I could realistically follow. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Baek Yong-gu, General, Seoul
+Rating: 8/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Dr. Baek Yong-gu spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. Booking online at Songpa Saenal Health Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 3 for Dr. Baek Yong-gu, General, Seoul
+Rating: 10/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: At my visit, Dr. Baek Yong-gu took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 4 for Dr. Baek Yong-gu, General, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Dr. Baek Yong-gu was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 5 for Dr. Baek Yong-gu, General, Seoul
+Rating: 10/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option. I went in with months of tiredness, and Dr. Baek Yong-gu ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 6 for Dr. Baek Yong-gu, General, Seoul
+Rating: 9/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Paperwork at Songpa Saenal Health Clinic was kept to a minimum, and the staff helped me complete the insurance form. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Baek Yong-gu, General, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Songpa Saenal Health Clinic were inconsistent.
+
+Review 8 for Dr. Baek Yong-gu, General, Seoul
+Rating: 9/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Managing my type 2 diabetes with Dr. Baek Yong-gu has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 9 for Dr. Baek Yong-gu, General, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Referrals from Dr. Baek Yong-gu are handled well, but getting test results back took longer than I was told to expect. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 10 for Dr. Baek Yong-gu, General, Seoul
+Rating: 9/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 11 for Dr. Baek Yong-gu, General, Seoul
+Rating: 8/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: By the time I left the room, Dr. Baek Yong-gu had sorted the sick note, referral letter and prescription refill. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Overall rating for Dr. Baek Yong-gu, General, Seoul: 8.27/10 from 11 reviews

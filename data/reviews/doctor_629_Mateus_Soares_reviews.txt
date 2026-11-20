@@ -1,0 +1,49 @@
+Doctor: Dr. Mateus Soares
+Doctor ID: 629
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 1
+City: Curitiba, Brazil
+Clinics: Instituto de Saúde Marechal (clinic ID 84)
+
+Review 1 for Dr. Mateus Soares, Pulmonology, Curitiba
+Rating: 8/10
+Clinic visited: Instituto de Saúde Marechal
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 2 for Dr. Mateus Soares, Pulmonology, Curitiba
+Rating: 8/10
+Clinic visited: Instituto de Saúde Marechal
+Description: I was called in within five minutes of my appointment time at Instituto de Saúde Marechal, which is rare and much appreciated. Quitting smoking felt possible for the first time because the advice from Dr. Mateus Soares was practical and never preachy.
+
+Review 3 for Dr. Mateus Soares, Pulmonology, Curitiba
+Rating: 9/10
+Clinic visited: Instituto de Saúde Marechal
+Description: I always leave Dr. Mateus Soares's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 4 for Dr. Mateus Soares, Pulmonology, Curitiba
+Rating: 7/10
+Clinic visited: Instituto de Saúde Marechal
+Description: Helpful and honest about my prognosis, Dr. Mateus Soares could still have given me more written material to take home.
+
+Review 5 for Dr. Mateus Soares, Pulmonology, Curitiba
+Rating: 9/10
+Clinic visited: Instituto de Saúde Marechal
+Description: After years of poorly controlled asthma, Dr. Mateus Soares reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 6 for Dr. Mateus Soares, Pulmonology, Curitiba
+Rating: 7/10
+Clinic visited: Instituto de Saúde Marechal
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Mateus Soares, Pulmonology, Curitiba
+Rating: 8/10
+Clinic visited: Instituto de Saúde Marechal
+Description: Clear, honest answers from Dr. Mateus Soares about my shortness of breath, and no unnecessary tests were ordered. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Mateus Soares, Pulmonology, Curitiba
+Rating: 6/10
+Clinic visited: Instituto de Saúde Marechal
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Mateus Soares, Pulmonology, Curitiba: 7.75/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Amanda White
+Doctor ID: 6518
+Specialization: Pathology
+Gender: Female
+Years of experience: 12
+City: Melbourne, Australia
+Clinics: Bridgeview Medical Practice (clinic ID 843)
+
+Review 1 for Dr. Amanda White, Pathology, Melbourne
+Rating: 6/10
+Clinic visited: Bridgeview Medical Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Amanda White, Pathology, Melbourne
+Rating: 6/10
+Clinic visited: Bridgeview Medical Practice
+Description: Dr. Amanda White answered my questions kindly, though the call back took three days. Booking was easy online, but the confirmation email contained the wrong address for Bridgeview Medical Practice. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Amanda White, Pathology, Melbourne
+Rating: 6/10
+Clinic visited: Bridgeview Medical Practice
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Amanda White, Pathology, Melbourne
+Rating: 7/10
+Clinic visited: Bridgeview Medical Practice
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Amanda White, Pathology, Melbourne
+Rating: 6/10
+Clinic visited: Bridgeview Medical Practice
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 6 for Dr. Amanda White, Pathology, Melbourne
+Rating: 8/10
+Clinic visited: Bridgeview Medical Practice
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Amanda White, Pathology, Melbourne
+Rating: 7/10
+Clinic visited: Bridgeview Medical Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 8 for Dr. Amanda White, Pathology, Melbourne
+Rating: 5/10
+Clinic visited: Bridgeview Medical Practice
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Amanda White, Pathology, Melbourne: 6.38/10 from 8 reviews

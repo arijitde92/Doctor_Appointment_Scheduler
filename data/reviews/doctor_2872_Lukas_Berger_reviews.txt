@@ -1,0 +1,54 @@
+Doctor: Dr. Lukas Berger
+Doctor ID: 2872
+Specialization: Cardiology
+Gender: Male
+Years of experience: 15
+City: Graz, Austria
+Clinics: Ärztehaus Herrengasse Graz (clinic ID 375); Ordinationszentrum Gries (clinic ID 379)
+
+Review 1 for Dr. Lukas Berger, Cardiology, Graz
+Rating: 8/10
+Clinic visited: Ordinationszentrum Gries
+Description: After my heart attack, Dr. Lukas Berger explained the rehab plan and medication changes with great patience and kindness. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 2 for Dr. Lukas Berger, Cardiology, Graz
+Rating: 7/10
+Clinic visited: Ordinationszentrum Gries
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful with my cholesterol, Dr. Lukas Berger still gave dietary advice that was a little generic.
+
+Review 3 for Dr. Lukas Berger, Cardiology, Graz
+Rating: 7/10
+Clinic visited: Ordinationszentrum Gries
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 4 for Dr. Lukas Berger, Cardiology, Graz
+Rating: 9/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Dr. Lukas Berger explained the difference between my statin options and let me weigh in on the choice. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Lukas Berger, Cardiology, Graz
+Rating: 6/10
+Clinic visited: Ordinationszentrum Gries
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Great care in the visit itself, but the billing for the tests at Ordinationszentrum Gries was confusing.
+
+Review 6 for Dr. Lukas Berger, Cardiology, Graz
+Rating: 5/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Lukas Berger, Cardiology, Graz
+Rating: 6/10
+Clinic visited: Ordinationszentrum Gries
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Lukas Berger, Cardiology, Graz
+Rating: 8/10
+Clinic visited: Ordinationszentrum Gries
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 9 for Dr. Lukas Berger, Cardiology, Graz
+Rating: 9/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Clear and calm advice at Ärztehaus Herrengasse Graz about exercise after my stent, including a gradual written schedule. Appointment reminders came by text and email, and rescheduling took two taps. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Lukas Berger, Cardiology, Graz: 7.22/10 from 9 reviews

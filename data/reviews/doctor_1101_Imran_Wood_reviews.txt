@@ -1,0 +1,64 @@
+Doctor: Dr. Imran Wood
+Doctor ID: 1101
+Specialization: Psychology
+Gender: Male
+Years of experience: 12
+City: Edinburgh, UK
+Clinics: Raeburn Place Medical Practice (clinic ID 144)
+
+Review 1 for Dr. Imran Wood, Psychology, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 2 for Dr. Imran Wood, Psychology, Edinburgh
+Rating: 10/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Dr. Imran Wood adapted the approach when the first method did not suit me, and that flexibility made all the difference. I was called in within five minutes of my appointment time at Raeburn Place Medical Practice, which is rare and much appreciated. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Imran Wood, Psychology, Edinburgh
+Rating: 10/10
+Clinic visited: Raeburn Place Medical Practice
+Description: The waiting room at Raeburn Place Medical Practice was clean, quiet and comfortable, with enough seating and water available. I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown.
+
+Review 4 for Dr. Imran Wood, Psychology, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 5 for Dr. Imran Wood, Psychology, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Imran Wood, Psychology, Edinburgh
+Rating: 9/10
+Clinic visited: Raeburn Place Medical Practice
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Warm, patient and honest, Dr. Imran Wood told me what progress to expect and it matched reality.
+
+Review 7 for Dr. Imran Wood, Psychology, Edinburgh
+Rating: 9/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Dr. Imran Wood used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 8 for Dr. Imran Wood, Psychology, Edinburgh
+Rating: 10/10
+Clinic visited: Raeburn Place Medical Practice
+Description: At my visit, Dr. Imran Wood took notes on my medication list, checked for interactions and explained the changes simply. My whole family is switching over after seeing how good the care was.
+
+Review 9 for Dr. Imran Wood, Psychology, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Good bedside manner from Dr. Imran Wood, but the parking near Raeburn Place Medical Practice is limited and I had to circle for fifteen minutes.
+
+Review 10 for Dr. Imran Wood, Psychology, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot.
+
+Review 11 for Dr. Imran Wood, Psychology, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: I was given a printed summary of the visit, which I shared with my family at home. The office in Edinburgh is quiet and private, and the receptionist never mentions anything in front of other patients.
+
+Overall rating for Dr. Imran Wood, Psychology, Edinburgh: 8.36/10 from 11 reviews

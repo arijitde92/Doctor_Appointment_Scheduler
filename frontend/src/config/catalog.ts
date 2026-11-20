@@ -22,13 +22,19 @@ export const SPECIALIZATIONS = [
   "Pathology",
 ] as const;
 
-/** Cities with clinics in the seed data. Free text is still allowed. */
-export const CITIES = ["Kolkata"] as const;
+/**
+ * Cities with clinics, with their country and IANA time zone. Generated from
+ * data_creation_artifacts/clinics_list.csv (see config/cities.ts).
+ */
+export { CITY_CATALOG, type CityInfo } from "./cities";
 
 export const DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"] as const;
 export type Day = (typeof DAYS)[number];
 
-/** slot_1..slot_7 => one-hour slots from 10 AM to 5 PM (doctor_matcher instructions). */
+/**
+ * slot_1..slot_7 => one-hour slots from 10 AM to 5 PM (doctor_matcher
+ * instructions), in the clinic's local time zone.
+ */
 export const SLOT_TIMES = [
   { start: "10:00 AM", end: "11:00 AM" },
   { start: "11:00 AM", end: "12:00 PM" },

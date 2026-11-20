@@ -1,0 +1,49 @@
+Doctor: Dr. Lee Eng Seng
+Doctor ID: 4670
+Specialization: General
+Gender: Male
+Years of experience: 7
+City: Ipoh, Malaysia
+Clinics: Klinik Wawasan (clinic ID 604)
+
+Review 1 for Dr. Lee Eng Seng, General, Ipoh
+Rating: 6/10
+Clinic visited: Klinik Wawasan
+Description: Dr. Lee Eng Seng is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Lee Eng Seng, General, Ipoh
+Rating: 9/10
+Clinic visited: Klinik Wawasan
+Description: The waiting room at Klinik Wawasan was clean, quiet and comfortable, with enough seating and water available. By the time I left the room, Dr. Lee Eng Seng had sorted the sick note, referral letter and prescription refill.
+
+Review 3 for Dr. Lee Eng Seng, General, Ipoh
+Rating: 8/10
+Clinic visited: Klinik Wawasan
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Lee Eng Seng, General, Ipoh
+Rating: 6/10
+Clinic visited: Klinik Wawasan
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Booking was easy online, but the confirmation email contained the wrong address for Klinik Wawasan.
+
+Review 5 for Dr. Lee Eng Seng, General, Ipoh
+Rating: 10/10
+Clinic visited: Klinik Wawasan
+Description: Managing my type 2 diabetes with Dr. Lee Eng Seng has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 6 for Dr. Lee Eng Seng, General, Ipoh
+Rating: 7/10
+Clinic visited: Klinik Wawasan
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 7 for Dr. Lee Eng Seng, General, Ipoh
+Rating: 6/10
+Clinic visited: Klinik Wawasan
+Description: Dr. Lee Eng Seng was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Lee Eng Seng, General, Ipoh
+Rating: 7/10
+Clinic visited: Klinik Wawasan
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good clinical judgment on my recurring chest infections, but the follow-up reminders from Klinik Wawasan were inconsistent.
+
+Overall rating for Dr. Lee Eng Seng, General, Ipoh: 7.38/10 from 8 reviews

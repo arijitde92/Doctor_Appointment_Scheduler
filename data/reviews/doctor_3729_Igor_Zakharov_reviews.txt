@@ -1,0 +1,64 @@
+Doctor: Dr. Igor Zakharov
+Doctor ID: 3729
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 5
+City: Moscow, Russia
+Clinics: Klinika Zdorovaya Semya (clinic ID 481)
+
+Review 1 for Dr. Igor Zakharov, Orthopedic, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 2 for Dr. Igor Zakharov, Orthopedic, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. I liked the advice I got from Dr. Igor Zakharov, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Igor Zakharov, Orthopedic, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Quick appointment and a fair price in Moscow, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Igor Zakharov, Orthopedic, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Very skilled with my knee, but Dr. Igor Zakharov's clinic runs behind and the wait was over an hour. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Igor Zakharov, Orthopedic, Moscow
+Rating: 9/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Clear aftercare instructions from Dr. Igor Zakharov and a direct number to call if something felt wrong after my surgery. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Igor Zakharov, Orthopedic, Moscow
+Rating: 8/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: After my knee replacement, Dr. Igor Zakharov explained the entire recovery timeline, and I was walking with a cane by week three. Paperwork at Klinika Zdorovaya Semya was kept to a minimum, and the staff helped me complete the insurance form. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Igor Zakharov, Orthopedic, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 8 for Dr. Igor Zakharov, Orthopedic, Moscow
+Rating: 5/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Dr. Igor Zakharov explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Dr. Igor Zakharov was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 9 for Dr. Igor Zakharov, Orthopedic, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 10 for Dr. Igor Zakharov, Orthopedic, Moscow
+Rating: 5/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 11 for Dr. Igor Zakharov, Orthopedic, Moscow
+Rating: 6/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Good bedside manner from Dr. Igor Zakharov, but the parking near Klinika Zdorovaya Semya is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Igor Zakharov, Orthopedic, Moscow: 6.27/10 from 11 reviews

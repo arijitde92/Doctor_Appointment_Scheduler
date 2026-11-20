@@ -1,0 +1,49 @@
+Doctor: Dr. Florian Auer
+Doctor ID: 2889
+Specialization: Pathology
+Gender: Male
+Years of experience: 4
+City: Graz, Austria
+Clinics: Praxiszentrum Grazer Murblick (clinic ID 377)
+
+Review 1 for Dr. Florian Auer, Pathology, Graz
+Rating: 5/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Florian Auer, Pathology, Graz
+Rating: 5/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 3 for Dr. Florian Auer, Pathology, Graz
+Rating: 5/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Florian Auer, Pathology, Graz
+Rating: 5/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 5 for Dr. Florian Auer, Pathology, Graz
+Rating: 4/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. I was billed twice for the same panel and it took a month to get a correction.
+
+Review 6 for Dr. Florian Auer, Pathology, Graz
+Rating: 6/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: The blood draw was painless, but the waiting area at Praxiszentrum Grazer Murblick was crowded in the early morning. Quick appointment and a fair price in Graz, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Florian Auer, Pathology, Graz
+Rating: 6/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 8 for Dr. Florian Auer, Pathology, Graz
+Rating: 6/10
+Clinic visited: Praxiszentrum Grazer Murblick
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Helpful in clarifying a borderline result, though Dr. Florian Auer gave little guidance about whether to repeat it.
+
+Overall rating for Dr. Florian Auer, Pathology, Graz: 5.25/10 from 8 reviews

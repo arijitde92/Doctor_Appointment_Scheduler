@@ -1,0 +1,64 @@
+Doctor: Dr. James Brennan
+Doctor ID: 2477
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 7
+City: Dublin, Ireland
+Clinics: Rathmines Wellbeing Clinic (clinic ID 323)
+
+Review 1 for Dr. James Brennan, Orthopedic, Dublin
+Rating: 6/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Very skilled with my knee, but Dr. James Brennan's clinic runs behind and the wait was over an hour. Dr. James Brennan was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. James Brennan, Orthopedic, Dublin
+Rating: 8/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 3 for Dr. James Brennan, Orthopedic, Dublin
+Rating: 8/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up.
+
+Review 4 for Dr. James Brennan, Orthopedic, Dublin
+Rating: 9/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Dr. James Brennan explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 5 for Dr. James Brennan, Orthopedic, Dublin
+Rating: 6/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Dr. James Brennan explained surgery options clearly, though the physiotherapy referral took weeks to arrive. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. James Brennan, Orthopedic, Dublin
+Rating: 9/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Follow-up scans were compared with the earlier ones, and Dr. James Brennan showed me how the bone had healed. Dr. James Brennan looked me in the eye, listened to the whole story and only then started typing.
+
+Review 7 for Dr. James Brennan, Orthopedic, Dublin
+Rating: 8/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense. The surgeon at Rathmines Wellbeing Clinic spent time on my goals as a runner and shaped the treatment around them.
+
+Review 8 for Dr. James Brennan, Orthopedic, Dublin
+Rating: 7/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 9 for Dr. James Brennan, Orthopedic, Dublin
+Rating: 10/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Plain, honest advice from Dr. James Brennan for my arthritis, including which exercises to avoid and which would help. Dr. James Brennan used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 10 for Dr. James Brennan, Orthopedic, Dublin
+Rating: 7/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. I would come back, but only if the waiting time improves.
+
+Review 11 for Dr. James Brennan, Orthopedic, Dublin
+Rating: 6/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. James Brennan, Orthopedic, Dublin: 7.64/10 from 11 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Melissa Johnson
+Doctor ID: 6575
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 27
+City: Sydney, Australia
+Clinics: Harbourside General Practice (clinic ID 852)
+
+Review 1 for Dr. Melissa Johnson, Pulmonology, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I liked the advice I got from Dr. Melissa Johnson, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Melissa Johnson, Pulmonology, Sydney
+Rating: 6/10
+Clinic visited: Harbourside General Practice
+Description: Pleasant manner and careful lung exam, though the waiting time at Harbourside General Practice regularly exceeded forty minutes. Good bedside manner from Dr. Melissa Johnson, but the parking near Harbourside General Practice is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Melissa Johnson, Pulmonology, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Harbourside General Practice.
+
+Review 4 for Dr. Melissa Johnson, Pulmonology, Sydney
+Rating: 6/10
+Clinic visited: Harbourside General Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good advice about triggers, but the clinic's phone line is difficult to get through to. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Melissa Johnson, Pulmonology, Sydney
+Rating: 5/10
+Clinic visited: Harbourside General Practice
+Description: Dr. Melissa Johnson adjusted my asthma medication well, but the breathing test appointment was a month away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Melissa Johnson, Pulmonology, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Melissa Johnson, Pulmonology, Sydney
+Rating: 6/10
+Clinic visited: Harbourside General Practice
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Melissa Johnson, Pulmonology, Sydney
+Rating: 6/10
+Clinic visited: Harbourside General Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Melissa Johnson, Pulmonology, Sydney
+Rating: 3/10
+Clinic visited: Harbourside General Practice
+Description: There was no translator available, and my parent was left unable to follow what was being said. I called twice about worsening symptoms and no one returned my message until the following week.
+
+Overall rating for Dr. Melissa Johnson, Pulmonology, Sydney: 5.89/10 from 9 reviews

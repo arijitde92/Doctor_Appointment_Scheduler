@@ -1,0 +1,64 @@
+Doctor: Dr. Grace White
+Doctor ID: 6580
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 22
+City: Sydney, Australia
+Clinics: Harbourside General Practice (clinic ID 852)
+
+Review 1 for Dr. Grace White, Gastroenterology, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Grace White, Gastroenterology, Sydney
+Rating: 10/10
+Clinic visited: Harbourside General Practice
+Description: Dr. Grace White used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 3 for Dr. Grace White, Gastroenterology, Sydney
+Rating: 6/10
+Clinic visited: Harbourside General Practice
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Grace White, Gastroenterology, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: Dr. Grace White is thorough, but I waited nearly two months to get the first available slot. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Grace White, Gastroenterology, Sydney
+Rating: 8/10
+Clinic visited: Harbourside General Practice
+Description: Dr. Grace White took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 6 for Dr. Grace White, Gastroenterology, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Grace White, Gastroenterology, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Knowledgeable about my reflux, Dr. Grace White still gave diet advice that felt generic and not tailored to my habits.
+
+Review 8 for Dr. Grace White, Gastroenterology, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Dr. Grace White was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 9 for Dr. Grace White, Gastroenterology, Sydney
+Rating: 8/10
+Clinic visited: Harbourside General Practice
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 10 for Dr. Grace White, Gastroenterology, Sydney
+Rating: 10/10
+Clinic visited: Harbourside General Practice
+Description: After years of undiagnosed stomach pain, she identified celiac disease with the right blood tests and a careful plan.
+
+Review 11 for Dr. Grace White, Gastroenterology, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Overall rating for Dr. Grace White, Gastroenterology, Sydney: 7.64/10 from 11 reviews

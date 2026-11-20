@@ -1,0 +1,54 @@
+Doctor: Dr. Owen Bélanger
+Doctor ID: 332
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 5
+City: Toronto, Canada
+Clinics: Willowdale Medical Centre (clinic ID 46); Midtown Toronto Health Practice (clinic ID 47)
+
+Review 1 for Dr. Owen Bélanger, Gastroenterology, Toronto
+Rating: 6/10
+Clinic visited: Midtown Toronto Health Practice
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 2 for Dr. Owen Bélanger, Gastroenterology, Toronto
+Rating: 10/10
+Clinic visited: Willowdale Medical Centre
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. Sensitive questions were handled by Dr. Owen Bélanger with discretion and without a hint of judgment. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Owen Bélanger, Gastroenterology, Toronto
+Rating: 7/10
+Clinic visited: Willowdale Medical Centre
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 4 for Dr. Owen Bélanger, Gastroenterology, Toronto
+Rating: 9/10
+Clinic visited: Midtown Toronto Health Practice
+Description: I get regular check-ups for my Crohn's disease, and Dr. Owen Bélanger adjusts my treatment carefully and always explains why.
+
+Review 5 for Dr. Owen Bélanger, Gastroenterology, Toronto
+Rating: 9/10
+Clinic visited: Willowdale Medical Centre
+Description: At my visit, Dr. Owen Bélanger took notes on my medication list, checked for interactions and explained the changes simply. My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Review 6 for Dr. Owen Bélanger, Gastroenterology, Toronto
+Rating: 10/10
+Clinic visited: Midtown Toronto Health Practice
+Description: A same-day slot was found for me at Midtown Toronto Health Practice when I called with a worrying symptom. Helpful dietitian referral from Dr. Owen Bélanger and written guidance for living with ulcerative colitis.
+
+Review 7 for Dr. Owen Bélanger, Gastroenterology, Toronto
+Rating: 6/10
+Clinic visited: Midtown Toronto Health Practice
+Description: Dr. Owen Bélanger is thorough, but I waited nearly two months to get the first available slot.
+
+Review 8 for Dr. Owen Bélanger, Gastroenterology, Toronto
+Rating: 7/10
+Clinic visited: Willowdale Medical Centre
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 9 for Dr. Owen Bélanger, Gastroenterology, Toronto
+Rating: 7/10
+Clinic visited: Willowdale Medical Centre
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Overall rating for Dr. Owen Bélanger, Gastroenterology, Toronto: 7.89/10 from 9 reviews

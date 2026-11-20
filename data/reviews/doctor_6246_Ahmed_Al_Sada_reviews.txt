@@ -1,0 +1,69 @@
+Doctor: Dr. Ahmed Al Sada
+Doctor ID: 6246
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 20
+City: Doha, Qatar
+Clinics: Muaither Health Practice (clinic ID 808)
+
+Review 1 for Dr. Ahmed Al Sada, Gastroenterology, Doha
+Rating: 6/10
+Clinic visited: Muaither Health Practice
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Ahmed Al Sada, Gastroenterology, Doha
+Rating: 6/10
+Clinic visited: Muaither Health Practice
+Description: Dr. Ahmed Al Sada is thorough, but I waited nearly two months to get the first available slot. Booking was easy online, but the confirmation email contained the wrong address for Muaither Health Practice. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Ahmed Al Sada, Gastroenterology, Doha
+Rating: 5/10
+Clinic visited: Muaither Health Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 4 for Dr. Ahmed Al Sada, Gastroenterology, Doha
+Rating: 6/10
+Clinic visited: Muaither Health Practice
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 5 for Dr. Ahmed Al Sada, Gastroenterology, Doha
+Rating: 9/10
+Clinic visited: Muaither Health Practice
+Description: Helpful dietitian referral from Dr. Ahmed Al Sada and written guidance for living with ulcerative colitis. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Ahmed Al Sada, Gastroenterology, Doha
+Rating: 6/10
+Clinic visited: Muaither Health Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Knowledgeable about my reflux, Dr. Ahmed Al Sada still gave diet advice that felt generic and not tailored to my habits.
+
+Review 7 for Dr. Ahmed Al Sada, Gastroenterology, Doha
+Rating: 10/10
+Clinic visited: Muaither Health Practice
+Description: I get regular check-ups for my Crohn's disease, and Dr. Ahmed Al Sada adjusts my treatment carefully and always explains why. A same-day slot was found for me at Muaither Health Practice when I called with a worrying symptom. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Ahmed Al Sada, Gastroenterology, Doha
+Rating: 7/10
+Clinic visited: Muaither Health Practice
+Description: I got what I needed, but the next available appointment was three weeks away. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 9 for Dr. Ahmed Al Sada, Gastroenterology, Doha
+Rating: 7/10
+Clinic visited: Muaither Health Practice
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Quick appointment and a fair price in Doha, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 10 for Dr. Ahmed Al Sada, Gastroenterology, Doha
+Rating: 5/10
+Clinic visited: Muaither Health Practice
+Description: Good bedside manner from Dr. Ahmed Al Sada, but the parking near Muaither Health Practice is limited and I had to circle for fifteen minutes. Decent care overall, and I will probably return unless I find something closer.
+
+Review 11 for Dr. Ahmed Al Sada, Gastroenterology, Doha
+Rating: 7/10
+Clinic visited: Muaither Health Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 12 for Dr. Ahmed Al Sada, Gastroenterology, Doha
+Rating: 7/10
+Clinic visited: Muaither Health Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Ahmed Al Sada, Gastroenterology, Doha: 6.75/10 from 12 reviews

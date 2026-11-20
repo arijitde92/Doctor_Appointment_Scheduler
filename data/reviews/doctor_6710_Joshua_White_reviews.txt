@@ -1,0 +1,49 @@
+Doctor: Dr. Joshua White
+Doctor ID: 6710
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 7
+City: Wellington, New Zealand
+Clinics: Tui Medical Centre (clinic ID 870)
+
+Review 1 for Dr. Joshua White, Pulmonology, Wellington
+Rating: 10/10
+Clinic visited: Tui Medical Centre
+Description: After years of poorly controlled asthma, Dr. Joshua White reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 2 for Dr. Joshua White, Pulmonology, Wellington
+Rating: 8/10
+Clinic visited: Tui Medical Centre
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Joshua White. The receptionist at Tui Medical Centre remembered my name and had my forms ready, so check-in took less than a minute. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Joshua White, Pulmonology, Wellington
+Rating: 7/10
+Clinic visited: Tui Medical Centre
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Joshua White, Pulmonology, Wellington
+Rating: 9/10
+Clinic visited: Tui Medical Centre
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Quitting smoking felt possible for the first time because the advice from Dr. Joshua White was practical and never preachy.
+
+Review 5 for Dr. Joshua White, Pulmonology, Wellington
+Rating: 9/10
+Clinic visited: Tui Medical Centre
+Description: Dr. Joshua White explained my lung nodule follow-up schedule calmly, which took away weeks of worry. At my visit, Dr. Joshua White took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 6 for Dr. Joshua White, Pulmonology, Wellington
+Rating: 10/10
+Clinic visited: Tui Medical Centre
+Description: My oxygen levels are monitored carefully at Tui Medical Centre, and the home equipment was arranged without any hassle. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Joshua White, Pulmonology, Wellington
+Rating: 9/10
+Clinic visited: Tui Medical Centre
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. The spirometry test was explained step by step, and Dr. Joshua White put the results in context with a clear picture of my lung function.
+
+Review 8 for Dr. Joshua White, Pulmonology, Wellington
+Rating: 7/10
+Clinic visited: Tui Medical Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Joshua White, Pulmonology, Wellington: 8.62/10 from 8 reviews

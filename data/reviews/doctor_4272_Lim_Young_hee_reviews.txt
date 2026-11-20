@@ -1,0 +1,49 @@
+Doctor: Dr. Lim Young-hee
+Doctor ID: 4272
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 5
+City: Seoul, South Korea
+Clinics: Gangnam Haneul Family Clinic (clinic ID 550)
+
+Review 1 for Dr. Lim Young-hee, Gastroenterology, Seoul
+Rating: 10/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: After years of undiagnosed stomach pain, she identified celiac disease with the right blood tests and a careful plan.
+
+Review 2 for Dr. Lim Young-hee, Gastroenterology, Seoul
+Rating: 8/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps. My whole family is switching over after seeing how good the care was.
+
+Review 3 for Dr. Lim Young-hee, Gastroenterology, Seoul
+Rating: 7/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Lim Young-hee, Gastroenterology, Seoul
+Rating: 10/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: A translator was arranged for my mother without us asking twice, and Dr. Lim Young-hee spoke directly to her throughout. A gentle, respectful manner from Dr. Lim Young-hee made a very awkward exam bearable, with every step explained before it happened.
+
+Review 5 for Dr. Lim Young-hee, Gastroenterology, Seoul
+Rating: 10/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 6 for Dr. Lim Young-hee, Gastroenterology, Seoul
+Rating: 7/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Lim Young-hee, Gastroenterology, Seoul
+Rating: 9/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 8 for Dr. Lim Young-hee, Gastroenterology, Seoul
+Rating: 9/10
+Clinic visited: Gangnam Haneul Family Clinic
+Description: Getting to Gangnam Haneul Family Clinic in Seoul was simple, and the day-procedure unit was calm and efficient. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Overall rating for Dr. Lim Young-hee, Gastroenterology, Seoul: 8.75/10 from 8 reviews

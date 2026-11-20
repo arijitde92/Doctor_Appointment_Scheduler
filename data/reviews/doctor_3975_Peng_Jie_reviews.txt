@@ -1,0 +1,59 @@
+Doctor: Dr. Peng Jie
+Doctor ID: 3975
+Specialization: Radiology
+Gender: Female
+Years of experience: 8
+City: Shenzhen, China
+Clinics: Shennan Hengxin Polyclinic (clinic ID 513)
+
+Review 1 for Dr. Peng Jie, Radiology, Shenzhen
+Rating: 7/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Dr. Peng Jie answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 2 for Dr. Peng Jie, Radiology, Shenzhen
+Rating: 6/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 3 for Dr. Peng Jie, Radiology, Shenzhen
+Rating: 10/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 4 for Dr. Peng Jie, Radiology, Shenzhen
+Rating: 6/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Shennan Hengxin Polyclinic. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 5 for Dr. Peng Jie, Radiology, Shenzhen
+Rating: 7/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: The report from Dr. Peng Jie was thorough, though full of technical terms that needed my regular doctor to translate. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Peng Jie, Radiology, Shenzhen
+Rating: 10/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: When my scan showed something that needed a second look, Dr. Peng Jie arranged the follow-up the same day. Dr. Peng Jie used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 7 for Dr. Peng Jie, Radiology, Shenzhen
+Rating: 9/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: The staff at Shennan Hengxin Polyclinic in Shenzhen explained the contrast dye and its side effects before I signed anything. Getting to Shennan Hengxin Polyclinic by public transport in Shenzhen was easy, and there is a step-free entrance for wheelchairs.
+
+Review 8 for Dr. Peng Jie, Radiology, Shenzhen
+Rating: 5/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: Quick appointment and a fair price in Shenzhen, but the staff seemed overwhelmed and a bit curt on the phone. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Peng Jie, Radiology, Shenzhen
+Rating: 7/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 10 for Dr. Peng Jie, Radiology, Shenzhen
+Rating: 6/10
+Clinic visited: Shennan Hengxin Polyclinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Peng Jie, Radiology, Shenzhen: 7.30/10 from 10 reviews

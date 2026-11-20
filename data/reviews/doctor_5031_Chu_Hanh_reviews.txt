@@ -1,0 +1,54 @@
+Doctor: Dr. Chu Hanh
+Doctor ID: 5031
+Specialization: Neurology
+Gender: Female
+Years of experience: 16
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Song Han (clinic ID 650)
+
+Review 1 for Dr. Chu Hanh, Neurology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Song Han
+Description: The memory assessment for my father at Phong Kham Song Han was gentle and respectful, and the family received a clear written summary.
+
+Review 2 for Dr. Chu Hanh, Neurology, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Song Han
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Chu Hanh at Phong Kham Song Han are difficult to schedule.
+
+Review 3 for Dr. Chu Hanh, Neurology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Song Han
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. I got what I needed, but the next available appointment was three weeks away.
+
+Review 4 for Dr. Chu Hanh, Neurology, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Song Han
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 5 for Dr. Chu Hanh, Neurology, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Song Han
+Description: Dr. Chu Hanh explained my results well, although the visit felt short for such a complex condition. Dr. Chu Hanh was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Chu Hanh, Neurology, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Song Han
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 7 for Dr. Chu Hanh, Neurology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Song Han
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 8 for Dr. Chu Hanh, Neurology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Song Han
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. I liked the advice I got from Dr. Chu Hanh, but I would have liked more time to ask follow-up questions before the visit ended. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Chu Hanh, Neurology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Song Han
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Chu Hanh, Neurology, Ho Chi Minh City: 6.78/10 from 9 reviews

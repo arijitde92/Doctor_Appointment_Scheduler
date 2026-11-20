@@ -1,0 +1,49 @@
+Doctor: Dr. James Robinson
+Doctor ID: 1076
+Specialization: Cardiology
+Gender: Male
+Years of experience: 6
+City: Edinburgh, UK
+Clinics: Princes Street Health Practice (clinic ID 141)
+
+Review 1 for Dr. James Robinson, Cardiology, Edinburgh
+Rating: 5/10
+Clinic visited: Princes Street Health Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Dr. James Robinson adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 2 for Dr. James Robinson, Cardiology, Edinburgh
+Rating: 4/10
+Clinic visited: Princes Street Health Practice
+Description: The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 3 for Dr. James Robinson, Cardiology, Edinburgh
+Rating: 8/10
+Clinic visited: Princes Street Health Practice
+Description: Paperwork at Princes Street Health Practice was kept to a minimum, and the staff helped me complete the insurance form. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. James Robinson, Cardiology, Edinburgh
+Rating: 9/10
+Clinic visited: Princes Street Health Practice
+Description: Managing my blood pressure with Dr. James Robinson has been steady and practical, with home readings reviewed at every visit. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 5 for Dr. James Robinson, Cardiology, Edinburgh
+Rating: 8/10
+Clinic visited: Princes Street Health Practice
+Description: The cardiology unit at Princes Street Health Practice runs on time, and the technicians were professional during my echocardiogram. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 6 for Dr. James Robinson, Cardiology, Edinburgh
+Rating: 5/10
+Clinic visited: Princes Street Health Practice
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. James Robinson, Cardiology, Edinburgh
+Rating: 6/10
+Clinic visited: Princes Street Health Practice
+Description: Helpful with my cholesterol, Dr. James Robinson still gave dietary advice that was a little generic.
+
+Review 8 for Dr. James Robinson, Cardiology, Edinburgh
+Rating: 8/10
+Clinic visited: Princes Street Health Practice
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning.
+
+Overall rating for Dr. James Robinson, Cardiology, Edinburgh: 6.62/10 from 8 reviews

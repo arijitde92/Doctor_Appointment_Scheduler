@@ -1,0 +1,54 @@
+Doctor: Dr. Hannah Hall
+Doctor ID: 1176
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 14
+City: Manchester, UK
+Clinics: Hardman Square Polyclinic (clinic ID 153)
+
+Review 1 for Dr. Hannah Hall, Pediatrics, Manchester
+Rating: 6/10
+Clinic visited: Hardman Square Polyclinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. I liked the advice I got from Dr. Hannah Hall, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Hannah Hall, Pediatrics, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: Dr. Hannah Hall is thorough with exams, but the after-hours phone line at Hardman Square Polyclinic is hard to reach. Quick appointment and a fair price in Manchester, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Hannah Hall, Pediatrics, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: Dr. Hannah Hall noticed a speech delay early and referred us to a therapist, which has made a real difference. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 4 for Dr. Hannah Hall, Pediatrics, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 5 for Dr. Hannah Hall, Pediatrics, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: The school physical at Hardman Square Polyclinic was quick, thorough and the forms were completed on the spot.
+
+Review 6 for Dr. Hannah Hall, Pediatrics, Manchester
+Rating: 7/10
+Clinic visited: Hardman Square Polyclinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Hannah Hall, Pediatrics, Manchester
+Rating: 9/10
+Clinic visited: Hardman Square Polyclinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 8 for Dr. Hannah Hall, Pediatrics, Manchester
+Rating: 6/10
+Clinic visited: Hardman Square Polyclinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Hannah Hall, Pediatrics, Manchester
+Rating: 8/10
+Clinic visited: Hardman Square Polyclinic
+Description: We got a same-day appointment for a high fever, and the care at Hardman Square Polyclinic was kind and efficient. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Overall rating for Dr. Hannah Hall, Pediatrics, Manchester: 7.44/10 from 9 reviews

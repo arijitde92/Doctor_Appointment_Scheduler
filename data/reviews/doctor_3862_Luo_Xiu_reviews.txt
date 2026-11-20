@@ -1,0 +1,49 @@
+Doctor: Dr. Luo Xiu
+Doctor ID: 3862
+Specialization: Psychology
+Gender: Female
+Years of experience: 1
+City: Beijing, China
+Clinics: Dongdaqiao Jiahe Medical Clinic (clinic ID 499)
+
+Review 1 for Dr. Luo Xiu, Psychology, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Luo Xiu, Psychology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Luo Xiu, Psychology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 4 for Dr. Luo Xiu, Psychology, Beijing
+Rating: 6/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Dr. Luo Xiu listens well, though some sessions felt like a recap of the previous one without much new direction. Dr. Luo Xiu was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Luo Xiu, Psychology, Beijing
+Rating: 6/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The first assessment was thorough, but I waited almost three weeks for a follow-up slot.
+
+Review 6 for Dr. Luo Xiu, Psychology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The treatment plan from Dr. Luo Xiu made sense, but I wished it had been written down for me to take away. Insightful and kind, though progress with Dr. Luo Xiu felt slow, and I wished for more structured homework between sessions.
+
+Review 7 for Dr. Luo Xiu, Psychology, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 8 for Dr. Luo Xiu, Psychology, Beijing
+Rating: 6/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Good bedside manner from Dr. Luo Xiu, but the parking near Dongdaqiao Jiahe Medical Clinic is limited and I had to circle for fifteen minutes. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Overall rating for Dr. Luo Xiu, Psychology, Beijing: 6.88/10 from 8 reviews

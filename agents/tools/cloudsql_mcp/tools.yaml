@@ -13,7 +13,8 @@ name: find-doctors
 type: mysql-sql
 source: doctor-mysql-db
 description: >
-  Find doctors by specialization and city.
+  Find doctors by specialization and city. Each row includes the clinic's
+  country and IANA time zone (slot times are local to the clinic).
   Use this when the user wants a shortlist of doctors to choose from.
 statement: |
   SELECT
@@ -27,7 +28,9 @@ statement: |
     c.name AS clinic_name,
     c.address,
     c.city,
-    c.pin_code
+    c.country,
+    c.pin_code,
+    c.time_zone
   FROM Doctor d
   JOIN DoctorClinic dc ON d.id = dc.doctor_id
   JOIN Clinic c ON c.id = dc.clinic_id
@@ -41,7 +44,7 @@ parameters:
     description: Doctor specialization to search for.
   - name: city
     type: string
-    description: City to search within.
+    description: City to search within, exactly as stored (English name without accents, e.g. Zurich, Sao Paulo, New York).
 ---
 kind: tool
 name: get-doctor-details
@@ -76,7 +79,9 @@ statement: |
     c.name,
     c.address,
     c.city,
-    c.pin_code
+    c.country,
+    c.pin_code,
+    c.time_zone
   FROM Clinic c
   JOIN DoctorClinic dc ON c.id = dc.clinic_id
   WHERE dc.doctor_id = ?
@@ -116,16 +121,19 @@ type: mysql-sql
 source: doctor-mysql-db
 description: >
   Get full address details for a clinic by its ID.
-  Returns the clinic name, address, city, and pin code which can be
-  used to look up the clinic location on a map or compute travel routes.
+  Returns the clinic name, address, city, country, pin code and IANA time zone
+  (slot times are local to the clinic). full_address can be used to look up the
+  clinic on a map or compute travel routes.
 statement: |
   SELECT
     id,
     name,
     address,
     city,
+    country,
     pin_code,
-    CONCAT(address, ', ', city, ', ', pin_code) AS full_address
+    time_zone,
+    CONCAT_WS(', ', address, city, NULLIF(pin_code, ''), country) AS full_address
   FROM Clinic
   WHERE id = ?
 parameters:

@@ -1,0 +1,49 @@
+Doctor: Dr. Daniel Berger
+Doctor ID: 2876
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 3
+City: Graz, Austria
+Clinics: Ärztehaus Herrengasse Graz (clinic ID 375)
+
+Review 1 for Dr. Daniel Berger, Orthopedic, Graz
+Rating: 7/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Daniel Berger, Orthopedic, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 3 for Dr. Daniel Berger, Orthopedic, Graz
+Rating: 5/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. The treatment plan from Dr. Daniel Berger made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Daniel Berger, Orthopedic, Graz
+Rating: 5/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Very skilled with my knee, but Dr. Daniel Berger's clinic runs behind and the wait was over an hour.
+
+Review 5 for Dr. Daniel Berger, Orthopedic, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Dr. Daniel Berger was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Daniel Berger, Orthopedic, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Daniel Berger, Orthopedic, Graz
+Rating: 4/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: I was told by Dr. Daniel Berger that my knee pain was just age without any scan or exam, and the pain kept getting worse. The visit felt rushed, and Dr. Daniel Berger was already halfway out the door when I started to describe my second symptom.
+
+Review 8 for Dr. Daniel Berger, Orthopedic, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Overall rating for Dr. Daniel Berger, Orthopedic, Graz: 5.62/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Helle Holm
+Doctor ID: 2322
+Specialization: Psychology
+Gender: Female
+Years of experience: 5
+City: Aarhus, Denmark
+Clinics: Klinik Åboulevarden Aarhus (clinic ID 304)
+
+Review 1 for Dr. Helle Holm, Psychology, Aarhus
+Rating: 8/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Helle Holm, Psychology, Aarhus
+Rating: 7/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: I liked the advice I got from Dr. Helle Holm, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Helle Holm, Psychology, Aarhus
+Rating: 8/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: I never felt judged by Dr. Helle Holm when talking about my burnout, and the sessions gave me language for things I could not explain before. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Helle Holm, Psychology, Aarhus
+Rating: 9/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer. The waiting room at Klinik Åboulevarden Aarhus was clean, quiet and comfortable, with enough seating and water available. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Helle Holm, Psychology, Aarhus
+Rating: 10/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Dr. Helle Holm adapted the approach when the first method did not suit me, and that flexibility made all the difference. At my visit, Dr. Helle Holm took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 6 for Dr. Helle Holm, Psychology, Aarhus
+Rating: 8/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Warm, patient and honest, Dr. Helle Holm told me what progress to expect and it matched reality.
+
+Review 7 for Dr. Helle Holm, Psychology, Aarhus
+Rating: 7/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The first assessment was thorough, but I waited almost three weeks for a follow-up slot.
+
+Review 8 for Dr. Helle Holm, Psychology, Aarhus
+Rating: 9/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Online sessions through Klinik Åboulevarden Aarhus worked just as well as in-person ones, and the video link never once failed.
+
+Review 9 for Dr. Helle Holm, Psychology, Aarhus
+Rating: 7/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: My trauma work felt well paced, although the schedule changed several times at Klinik Åboulevarden Aarhus. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 10 for Dr. Helle Holm, Psychology, Aarhus
+Rating: 7/10
+Clinic visited: Klinik Åboulevarden Aarhus
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Helle Holm, Psychology, Aarhus: 8.00/10 from 10 reviews

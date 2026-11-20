@@ -1,0 +1,54 @@
+Doctor: Dr. Ingrid Andersen
+Doctor ID: 2013
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 30
+City: Oslo, Norway
+Clinics: Medisinsk Senter Thereses gate (clinic ID 262)
+
+Review 1 for Dr. Ingrid Andersen, Psychiatry, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 2 for Dr. Ingrid Andersen, Psychiatry, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 3 for Dr. Ingrid Andersen, Psychiatry, Oslo
+Rating: 8/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 4 for Dr. Ingrid Andersen, Psychiatry, Oslo
+Rating: 10/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Booking online at Medisinsk Senter Thereses gate was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 5 for Dr. Ingrid Andersen, Psychiatry, Oslo
+Rating: 9/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 6 for Dr. Ingrid Andersen, Psychiatry, Oslo
+Rating: 8/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 7 for Dr. Ingrid Andersen, Psychiatry, Oslo
+Rating: 10/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Telehealth follow-ups at Medisinsk Senter Thereses gate are punctual and calm, and refills are dealt with quickly. Dr. Ingrid Andersen double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 8 for Dr. Ingrid Andersen, Psychiatry, Oslo
+Rating: 10/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Prescriptions from Dr. Ingrid Andersen were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Excellent at explaining how therapy and medication work together, and Dr. Ingrid Andersen coordinated with my counselor.
+
+Review 9 for Dr. Ingrid Andersen, Psychiatry, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Overall rating for Dr. Ingrid Andersen, Psychiatry, Oslo: 8.44/10 from 9 reviews

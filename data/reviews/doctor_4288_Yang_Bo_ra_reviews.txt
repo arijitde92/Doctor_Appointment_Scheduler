@@ -1,0 +1,54 @@
+Doctor: Dr. Yang Bo-ra
+Doctor ID: 4288
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Female
+Years of experience: 22
+City: Seoul, South Korea
+Clinics: Mapo Barun Internal Medicine Clinic (clinic ID 552)
+
+Review 1 for Dr. Yang Bo-ra, Obstetrics and Gynecology (OB/GYN), Seoul
+Rating: 4/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Dr. Yang Bo-ra seemed to speak over me during a sensitive exam and did not explain what was happening. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 2 for Dr. Yang Bo-ra, Obstetrics and Gynecology (OB/GYN), Seoul
+Rating: 6/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: The ultrasound images from Dr. Yang Bo-ra were great, but I had to call twice to get the written report. I liked the advice I got from Dr. Yang Bo-ra, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Yang Bo-ra, Obstetrics and Gynecology (OB/GYN), Seoul
+Rating: 7/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Compassionate during my fertility consultation, though the cost estimate was vague until after the visit.
+
+Review 4 for Dr. Yang Bo-ra, Obstetrics and Gynecology (OB/GYN), Seoul
+Rating: 5/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Yang Bo-ra, Obstetrics and Gynecology (OB/GYN), Seoul
+Rating: 9/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: At Mapo Barun Internal Medicine Clinic in Seoul, the prenatal visits were scheduled well and rarely ran late.
+
+Review 6 for Dr. Yang Bo-ra, Obstetrics and Gynecology (OB/GYN), Seoul
+Rating: 8/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Throughout my pregnancy Dr. Yang Bo-ra answered every question patiently, including the many late-night worries I sent through the portal.
+
+Review 7 for Dr. Yang Bo-ra, Obstetrics and Gynecology (OB/GYN), Seoul
+Rating: 3/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: My concerns about heavy bleeding were met with 'that's normal' and no tests, and I felt dismissed.
+
+Review 8 for Dr. Yang Bo-ra, Obstetrics and Gynecology (OB/GYN), Seoul
+Rating: 4/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Results of my screening were never communicated, and I only learned about them at the next appointment. I will not be returning and have already started looking for another doctor.
+
+Review 9 for Dr. Yang Bo-ra, Obstetrics and Gynecology (OB/GYN), Seoul
+Rating: 7/10
+Clinic visited: Mapo Barun Internal Medicine Clinic
+Description: Helpful advice about my irregular cycles, though the follow-up blood test was delayed by scheduling issues. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Yang Bo-ra, Obstetrics and Gynecology (OB/GYN), Seoul: 5.89/10 from 9 reviews

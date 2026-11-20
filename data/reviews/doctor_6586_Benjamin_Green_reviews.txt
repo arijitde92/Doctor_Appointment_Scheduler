@@ -1,0 +1,54 @@
+Doctor: Dr. Benjamin Green
+Doctor ID: 6586
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 20
+City: Sydney, Australia
+Clinics: Wattle Grove Medical (clinic ID 853)
+
+Review 1 for Dr. Benjamin Green, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Wattle Grove Medical
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 2 for Dr. Benjamin Green, Psychiatry, Sydney
+Rating: 10/10
+Clinic visited: Wattle Grove Medical
+Description: The waiting room at Wattle Grove Medical was clean, quiet and comfortable, with enough seating and water available.
+
+Review 3 for Dr. Benjamin Green, Psychiatry, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Benjamin Green, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Wattle Grove Medical
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. The ADHD assessment by Dr. Benjamin Green was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 5 for Dr. Benjamin Green, Psychiatry, Sydney
+Rating: 6/10
+Clinic visited: Wattle Grove Medical
+Description: Dr. Benjamin Green is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 6 for Dr. Benjamin Green, Psychiatry, Sydney
+Rating: 9/10
+Clinic visited: Wattle Grove Medical
+Description: Dr. Benjamin Green took a full history before suggesting any medication and explained the likely side effects honestly. Sensitive questions were handled by Dr. Benjamin Green with discretion and without a hint of judgment.
+
+Review 7 for Dr. Benjamin Green, Psychiatry, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: Good listener, yet the refill process at Wattle Grove Medical is slow and requires several phone calls. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 8 for Dr. Benjamin Green, Psychiatry, Sydney
+Rating: 10/10
+Clinic visited: Wattle Grove Medical
+Description: Telehealth follow-ups at Wattle Grove Medical are punctual and calm, and refills are dealt with quickly.
+
+Review 9 for Dr. Benjamin Green, Psychiatry, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: Good bedside manner from Dr. Benjamin Green, but the parking near Wattle Grove Medical is limited and I had to circle for fifteen minutes. The new medication helped, although side effects were not explained as fully as I would have liked. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Benjamin Green, Psychiatry, Sydney: 8.00/10 from 9 reviews

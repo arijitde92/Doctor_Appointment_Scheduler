@@ -1,0 +1,49 @@
+Doctor: Dr. Maxime Bertrand
+Doctor ID: 1309
+Specialization: General
+Gender: Male
+Years of experience: 10
+City: Toulouse, France
+Clinics: Centre Médical du Capitole (clinic ID 170)
+
+Review 1 for Dr. Maxime Bertrand, General, Toulouse
+Rating: 10/10
+Clinic visited: Centre Médical du Capitole
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 2 for Dr. Maxime Bertrand, General, Toulouse
+Rating: 9/10
+Clinic visited: Centre Médical du Capitole
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 3 for Dr. Maxime Bertrand, General, Toulouse
+Rating: 8/10
+Clinic visited: Centre Médical du Capitole
+Description: My annual check-up with Dr. Maxime Bertrand took forty minutes, with every screening explained and nothing rushed.
+
+Review 4 for Dr. Maxime Bertrand, General, Toulouse
+Rating: 10/10
+Clinic visited: Centre Médical du Capitole
+Description: A translator was arranged for my mother without us asking twice, and Dr. Maxime Bertrand spoke directly to her throughout. Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Maxime Bertrand, General, Toulouse
+Rating: 6/10
+Clinic visited: Centre Médical du Capitole
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 6 for Dr. Maxime Bertrand, General, Toulouse
+Rating: 10/10
+Clinic visited: Centre Médical du Capitole
+Description: Dr. Maxime Bertrand drew a quick sketch to explain what was going on, which helped me remember it afterwards. I always hear back within a day when I leave a question with the nurse at Centre Médical du Capitole, and Dr. Maxime Bertrand follows up on lab results personally.
+
+Review 7 for Dr. Maxime Bertrand, General, Toulouse
+Rating: 9/10
+Clinic visited: Centre Médical du Capitole
+Description: Everything was explained in plain English by Dr. Maxime Bertrand, and nothing was left to guess. Dr. Maxime Bertrand spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 8 for Dr. Maxime Bertrand, General, Toulouse
+Rating: 10/10
+Clinic visited: Centre Médical du Capitole
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Overall rating for Dr. Maxime Bertrand, General, Toulouse: 9.00/10 from 8 reviews

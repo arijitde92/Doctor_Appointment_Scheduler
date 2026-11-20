@@ -1,0 +1,49 @@
+Doctor: Dr. Alexander Fortin
+Doctor ID: 249
+Specialization: Pathology
+Gender: Male
+Years of experience: 2
+City: Calgary, Canada
+Clinics: Prairie Sky Medical Clinic (clinic ID 35)
+
+Review 1 for Dr. Alexander Fortin, Pathology, Calgary
+Rating: 7/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 2 for Dr. Alexander Fortin, Pathology, Calgary
+Rating: 7/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Alexander Fortin gave little guidance about whether to repeat it. The treatment plan from Dr. Alexander Fortin made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Alexander Fortin, Pathology, Calgary
+Rating: 8/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Everything was explained in plain English by Dr. Alexander Fortin, and nothing was left to guess. The biopsy report was returned in three days, and Dr. Alexander Fortin took time on the phone to explain every term in it.
+
+Review 4 for Dr. Alexander Fortin, Pathology, Calgary
+Rating: 8/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Allergy panel results were explained in detail by Dr. Alexander Fortin, with a note on which results mattered clinically and which did not.
+
+Review 5 for Dr. Alexander Fortin, Pathology, Calgary
+Rating: 5/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Alexander Fortin, Pathology, Calgary
+Rating: 5/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Alexander Fortin, Pathology, Calgary
+Rating: 7/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Alexander Fortin, Pathology, Calgary
+Rating: 8/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Calgary. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Overall rating for Dr. Alexander Fortin, Pathology, Calgary: 6.88/10 from 8 reviews

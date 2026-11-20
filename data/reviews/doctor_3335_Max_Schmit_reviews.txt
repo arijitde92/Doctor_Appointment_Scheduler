@@ -1,0 +1,59 @@
+Doctor: Dr. Max Schmit
+Doctor ID: 3335
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 2
+City: Luxembourg City, Luxembourg
+Clinics: Polyclinique Limpertsberg (clinic ID 432)
+
+Review 1 for Dr. Max Schmit, Psychiatry, Luxembourg City
+Rating: 10/10
+Clinic visited: Polyclinique Limpertsberg
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 2 for Dr. Max Schmit, Psychiatry, Luxembourg City
+Rating: 8/10
+Clinic visited: Polyclinique Limpertsberg
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 3 for Dr. Max Schmit, Psychiatry, Luxembourg City
+Rating: 8/10
+Clinic visited: Polyclinique Limpertsberg
+Description: My depression finally has a treatment plan from Dr. Max Schmit that works, with regular check-ins and careful dose changes.
+
+Review 4 for Dr. Max Schmit, Psychiatry, Luxembourg City
+Rating: 8/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Excellent at explaining how therapy and medication work together, and Dr. Max Schmit coordinated with my counselor. I was given a printed summary of the visit, which I shared with my family at home. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Max Schmit, Psychiatry, Luxembourg City
+Rating: 8/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Appointments in Luxembourg City are always on schedule, and the waiting area is peaceful and private. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 6 for Dr. Max Schmit, Psychiatry, Luxembourg City
+Rating: 10/10
+Clinic visited: Polyclinique Limpertsberg
+Description: Telehealth follow-ups at Polyclinique Limpertsberg are punctual and calm, and refills are dealt with quickly.
+
+Review 7 for Dr. Max Schmit, Psychiatry, Luxembourg City
+Rating: 8/10
+Clinic visited: Polyclinique Limpertsberg
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 8 for Dr. Max Schmit, Psychiatry, Luxembourg City
+Rating: 9/10
+Clinic visited: Polyclinique Limpertsberg
+Description: The ADHD assessment by Dr. Max Schmit was careful and detailed, with clear written conclusions and realistic expectations. A translator was arranged for my mother without us asking twice, and Dr. Max Schmit spoke directly to her throughout.
+
+Review 9 for Dr. Max Schmit, Psychiatry, Luxembourg City
+Rating: 8/10
+Clinic visited: Polyclinique Limpertsberg
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 10 for Dr. Max Schmit, Psychiatry, Luxembourg City
+Rating: 5/10
+Clinic visited: Polyclinique Limpertsberg
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Max Schmit, Psychiatry, Luxembourg City: 8.20/10 from 10 reviews

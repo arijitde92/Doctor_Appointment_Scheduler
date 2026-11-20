@@ -1,0 +1,54 @@
+Doctor: Dr. Choi Min-ji
+Doctor ID: 4151
+Specialization: Pathology
+Gender: Female
+Years of experience: 2
+City: Busan, South Korea
+Clinics: Seomyeon Bada Medical Clinic (clinic ID 535)
+
+Review 1 for Dr. Choi Min-ji, Pathology, Busan
+Rating: 8/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 2 for Dr. Choi Min-ji, Pathology, Busan
+Rating: 4/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: I was billed twice for the same panel and it took a month to get a correction.
+
+Review 3 for Dr. Choi Min-ji, Pathology, Busan
+Rating: 5/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. The blood draw was painless, but the waiting area at Seomyeon Bada Medical Clinic was crowded in the early morning.
+
+Review 4 for Dr. Choi Min-ji, Pathology, Busan
+Rating: 5/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Choi Min-ji, Pathology, Busan
+Rating: 4/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: The report was handed over by Dr. Choi Min-ji with no explanation, and I left frightened and confused about the terminology. The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 6 for Dr. Choi Min-ji, Pathology, Busan
+Rating: 6/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Choi Min-ji, Pathology, Busan
+Rating: 6/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Seomyeon Bada Medical Clinic. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 8 for Dr. Choi Min-ji, Pathology, Busan
+Rating: 5/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 9 for Dr. Choi Min-ji, Pathology, Busan
+Rating: 7/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Overall rating for Dr. Choi Min-ji, Pathology, Busan: 5.56/10 from 9 reviews

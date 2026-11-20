@@ -1,0 +1,59 @@
+Doctor: Dr. Ma Cheng
+Doctor ID: 3836
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 2
+City: Beijing, China
+Clinics: Jianguo Heren Medical Centre (clinic ID 495)
+
+Review 1 for Dr. Ma Cheng, Orthopedic, Beijing
+Rating: 10/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Follow-up scans were compared with the earlier ones, and Dr. Ma Cheng showed me how the bone had healed. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 2 for Dr. Ma Cheng, Orthopedic, Beijing
+Rating: 10/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Dr. Ma Cheng explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 3 for Dr. Ma Cheng, Orthopedic, Beijing
+Rating: 10/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Ma Cheng, Orthopedic, Beijing
+Rating: 10/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: My torn rotator cuff was managed first by Dr. Ma Cheng with physiotherapy, and surgery was only suggested when it truly was needed. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 5 for Dr. Ma Cheng, Orthopedic, Beijing
+Rating: 10/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Sensitive questions were handled by Dr. Ma Cheng with discretion and without a hint of judgment.
+
+Review 6 for Dr. Ma Cheng, Orthopedic, Beijing
+Rating: 10/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: The X-ray was reviewed with me on screen, and he pointed out exactly where the cartilage had worn down.
+
+Review 7 for Dr. Ma Cheng, Orthopedic, Beijing
+Rating: 10/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Everything was explained in plain English by Dr. Ma Cheng, and nothing was left to guess. The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 8 for Dr. Ma Cheng, Orthopedic, Beijing
+Rating: 10/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: Seen the same day at Jianguo Heren Medical Centre after a bad ankle sprain, with an X-ray done and a brace fitted before I left.
+
+Review 9 for Dr. Ma Cheng, Orthopedic, Beijing
+Rating: 9/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 10 for Dr. Ma Cheng, Orthopedic, Beijing
+Rating: 9/10
+Clinic visited: Jianguo Heren Medical Centre
+Description: The physiotherapy plan after my ACL surgery was clear and realistic, and I got back to sport on schedule. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Ma Cheng, Orthopedic, Beijing: 9.80/10 from 10 reviews

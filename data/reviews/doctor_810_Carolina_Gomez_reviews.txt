@@ -1,0 +1,49 @@
+Doctor: Dr. Carolina Gómez
+Doctor ID: 810
+Specialization: Neurology
+Gender: Female
+Years of experience: 21
+City: Mendoza, Argentina
+Clinics: Centro Médico Las Heras (clinic ID 106); Instituto de Salud Belgrano (clinic ID 109)
+
+Review 1 for Dr. Carolina Gómez, Neurology, Mendoza
+Rating: 7/10
+Clinic visited: Centro Médico Las Heras
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Carolina Gómez at Centro Médico Las Heras are difficult to schedule.
+
+Review 2 for Dr. Carolina Gómez, Neurology, Mendoza
+Rating: 8/10
+Clinic visited: Instituto de Salud Belgrano
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Getting a same-month appointment in Mendoza for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 3 for Dr. Carolina Gómez, Neurology, Mendoza
+Rating: 10/10
+Clinic visited: Centro Médico Las Heras
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Carolina Gómez, Neurology, Mendoza
+Rating: 10/10
+Clinic visited: Instituto de Salud Belgrano
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 5 for Dr. Carolina Gómez, Neurology, Mendoza
+Rating: 9/10
+Clinic visited: Instituto de Salud Belgrano
+Description: She patiently explained my MRI findings and calmed my worries about memory problems.
+
+Review 6 for Dr. Carolina Gómez, Neurology, Mendoza
+Rating: 10/10
+Clinic visited: Instituto de Salud Belgrano
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 7 for Dr. Carolina Gómez, Neurology, Mendoza
+Rating: 9/10
+Clinic visited: Centro Médico Las Heras
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 8 for Dr. Carolina Gómez, Neurology, Mendoza
+Rating: 10/10
+Clinic visited: Instituto de Salud Belgrano
+Description: She coordinated with my regular doctor so my medicine list was consistent in both offices. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Overall rating for Dr. Carolina Gómez, Neurology, Mendoza: 9.12/10 from 8 reviews

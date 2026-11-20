@@ -1,0 +1,49 @@
+Doctor: Dr. Sylwia Kowalczyk
+Doctor ID: 2793
+Specialization: General
+Gender: Female
+Years of experience: 17
+City: Warsaw, Poland
+Clinics: Centrum Medyczne Marszałkowska Plus (clinic ID 365)
+
+Review 1 for Dr. Sylwia Kowalczyk, General, Warsaw
+Rating: 8/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: She was upfront about what could and could not be treated, and did not oversell any option. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Sylwia Kowalczyk, General, Warsaw
+Rating: 8/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: Getting to Centrum Medyczne Marszałkowska Plus from across Warsaw was easy, and the same-week appointment saved me an urgent care trip. Dr. Sylwia Kowalczyk double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 3 for Dr. Sylwia Kowalczyk, General, Warsaw
+Rating: 8/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: My annual check-up with Dr. Sylwia Kowalczyk took forty minutes, with every screening explained and nothing rushed.
+
+Review 4 for Dr. Sylwia Kowalczyk, General, Warsaw
+Rating: 7/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Centrum Medyczne Marszałkowska Plus were inconsistent.
+
+Review 5 for Dr. Sylwia Kowalczyk, General, Warsaw
+Rating: 4/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: I came in about worsening headaches and was told to drink more water and relax, with no examination at all. The prescription from Dr. Sylwia Kowalczyk was not the one we discussed, and I only noticed when I got home.
+
+Review 6 for Dr. Sylwia Kowalczyk, General, Warsaw
+Rating: 6/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: I liked the advice I got from Dr. Sylwia Kowalczyk, but I would have liked more time to ask follow-up questions before the visit ended. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 7 for Dr. Sylwia Kowalczyk, General, Warsaw
+Rating: 7/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: Good bedside manner from Dr. Sylwia Kowalczyk, but the parking near Centrum Medyczne Marszałkowska Plus is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Sylwia Kowalczyk, General, Warsaw
+Rating: 7/10
+Clinic visited: Centrum Medyczne Marszałkowska Plus
+Description: Dr. Sylwia Kowalczyk is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Overall rating for Dr. Sylwia Kowalczyk, General, Warsaw: 6.88/10 from 8 reviews

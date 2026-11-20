@@ -1,0 +1,59 @@
+Doctor: Dr. Martine Pereira
+Doctor ID: 3257
+Specialization: Neurology
+Gender: Female
+Years of experience: 27
+City: Dudelange, Luxembourg
+Clinics: Polyclinique Italiens (clinic ID 422)
+
+Review 1 for Dr. Martine Pereira, Neurology, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Martine Pereira, Neurology, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 3 for Dr. Martine Pereira, Neurology, Dudelange
+Rating: 4/10
+Clinic visited: Polyclinique Italiens
+Description: The follow-up call about my test results never happened and I had to track them down myself.
+
+Review 4 for Dr. Martine Pereira, Neurology, Dudelange
+Rating: 5/10
+Clinic visited: Polyclinique Italiens
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Martine Pereira, Neurology, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: Dr. Martine Pereira explained my results well, although the visit felt short for such a complex condition. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Martine Pereira, Neurology, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 7 for Dr. Martine Pereira, Neurology, Dudelange
+Rating: 6/10
+Clinic visited: Polyclinique Italiens
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 8 for Dr. Martine Pereira, Neurology, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Martine Pereira, Neurology, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: I liked the advice I got from Dr. Martine Pereira, but I would have liked more time to ask follow-up questions before the visit ended. The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 10 for Dr. Martine Pereira, Neurology, Dudelange
+Rating: 8/10
+Clinic visited: Polyclinique Italiens
+Description: Dr. Martine Pereira drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Overall rating for Dr. Martine Pereira, Neurology, Dudelange: 6.50/10 from 10 reviews

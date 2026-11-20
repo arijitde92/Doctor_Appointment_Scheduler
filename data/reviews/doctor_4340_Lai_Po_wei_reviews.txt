@@ -1,0 +1,49 @@
+Doctor: Dr. Lai Po-wei
+Doctor ID: 4340
+Specialization: General
+Gender: Male
+Years of experience: 27
+City: Kaohsiung, Taiwan
+Clinics: Xinxing Jiali Medical Clinic (clinic ID 559)
+
+Review 1 for Dr. Lai Po-wei, General, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Lai Po-wei, General, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Sensitive questions were handled by Dr. Lai Po-wei with discretion and without a hint of judgment. Best family doctor I have had; He treats the whole person and not just the symptom list.
+
+Review 3 for Dr. Lai Po-wei, General, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: My annual check-up with Dr. Lai Po-wei took forty minutes, with every screening explained and nothing rushed. Everything was explained in plain English by Dr. Lai Po-wei, and nothing was left to guess.
+
+Review 4 for Dr. Lai Po-wei, General, Kaohsiung
+Rating: 7/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Lai Po-wei, General, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Getting to Xinxing Jiali Medical Clinic from across Kaohsiung was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 6 for Dr. Lai Po-wei, General, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 7 for Dr. Lai Po-wei, General, Kaohsiung
+Rating: 8/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: By the time I left the room, Dr. Lai Po-wei had sorted the sick note, referral letter and prescription refill. A translator was arranged for my mother without us asking twice, and Dr. Lai Po-wei spoke directly to her throughout.
+
+Review 8 for Dr. Lai Po-wei, General, Kaohsiung
+Rating: 7/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Referrals from Dr. Lai Po-wei are handled well, but getting test results back took longer than I was told to expect.
+
+Overall rating for Dr. Lai Po-wei, General, Kaohsiung: 8.00/10 from 8 reviews

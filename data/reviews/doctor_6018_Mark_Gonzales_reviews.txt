@@ -1,0 +1,49 @@
+Doctor: Dr. Mark Gonzales
+Doctor ID: 6018
+Specialization: Cardiology
+Gender: Male
+Years of experience: 26
+City: Abu Dhabi, UAE
+Clinics: Al Reem Care Polyclinic (clinic ID 777); Mussafah Health Practice (clinic ID 778); Yas Bay Wellness Clinic (clinic ID 779)
+
+Review 1 for Dr. Mark Gonzales, Cardiology, Abu Dhabi
+Rating: 10/10
+Clinic visited: Mussafah Health Practice
+Description: Clear and calm advice at Mussafah Health Practice about exercise after my stent, including a gradual written schedule. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 2 for Dr. Mark Gonzales, Cardiology, Abu Dhabi
+Rating: 9/10
+Clinic visited: Mussafah Health Practice
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 3 for Dr. Mark Gonzales, Cardiology, Abu Dhabi
+Rating: 10/10
+Clinic visited: Yas Bay Wellness Clinic
+Description: Dr. Mark Gonzales explained the difference between my statin options and let me weigh in on the choice.
+
+Review 4 for Dr. Mark Gonzales, Cardiology, Abu Dhabi
+Rating: 6/10
+Clinic visited: Mussafah Health Practice
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Great care in the visit itself, but the billing for the tests at Mussafah Health Practice was confusing.
+
+Review 5 for Dr. Mark Gonzales, Cardiology, Abu Dhabi
+Rating: 10/10
+Clinic visited: Mussafah Health Practice
+Description: Dr. Mark Gonzales used a calm, steady voice that settled my nerves before a stressful procedure. He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 6 for Dr. Mark Gonzales, Cardiology, Abu Dhabi
+Rating: 10/10
+Clinic visited: Yas Bay Wellness Clinic
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. Dr. Mark Gonzales double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Mark Gonzales, Cardiology, Abu Dhabi
+Rating: 7/10
+Clinic visited: Mussafah Health Practice
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The treatment plan from Dr. Mark Gonzales made sense, but I wished it had been written down for me to take away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Mark Gonzales, Cardiology, Abu Dhabi
+Rating: 10/10
+Clinic visited: Yas Bay Wellness Clinic
+Description: The cardiology unit at Yas Bay Wellness Clinic runs on time, and the technicians were professional during my echocardiogram. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Mark Gonzales, Cardiology, Abu Dhabi: 9.00/10 from 8 reviews

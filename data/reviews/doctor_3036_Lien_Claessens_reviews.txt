@@ -1,0 +1,54 @@
+Doctor: Dr. Lien Claessens
+Doctor ID: 3036
+Specialization: Pathology
+Gender: Female
+Years of experience: 30
+City: Antwerp, Belgium
+Clinics: Medisch Centrum Meir (clinic ID 395)
+
+Review 1 for Dr. Lien Claessens, Pathology, Antwerp
+Rating: 4/10
+Clinic visited: Medisch Centrum Meir
+Description: My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive.
+
+Review 2 for Dr. Lien Claessens, Pathology, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Meir
+Description: Helpful in clarifying a borderline result, though Dr. Lien Claessens gave little guidance about whether to repeat it. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Lien Claessens, Pathology, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Meir
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Lien Claessens, Pathology, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Meir
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 5 for Dr. Lien Claessens, Pathology, Antwerp
+Rating: 8/10
+Clinic visited: Medisch Centrum Meir
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. The lab at Medisch Centrum Meir had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 6 for Dr. Lien Claessens, Pathology, Antwerp
+Rating: 7/10
+Clinic visited: Medisch Centrum Meir
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Lien Claessens, Pathology, Antwerp
+Rating: 8/10
+Clinic visited: Medisch Centrum Meir
+Description: Allergy panel results were explained in detail by Dr. Lien Claessens, with a note on which results mattered clinically and which did not.
+
+Review 8 for Dr. Lien Claessens, Pathology, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Meir
+Description: The blood draw was painless, but the waiting area at Medisch Centrum Meir was crowded in the early morning. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Lien Claessens, Pathology, Antwerp
+Rating: 5/10
+Clinic visited: Medisch Centrum Meir
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I got what I needed, but the next available appointment was three weeks away. Worth trying, but I would not call it the best option in the area.
+
+Overall rating for Dr. Lien Claessens, Pathology, Antwerp: 6.33/10 from 9 reviews

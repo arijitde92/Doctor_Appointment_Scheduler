@@ -1,0 +1,49 @@
+Doctor: Dr. Audrey Bertrand
+Doctor ID: 1325
+Specialization: Cardiology
+Gender: Female
+Years of experience: 20
+City: Toulouse, France
+Clinics: Centre de Santé Compans (clinic ID 173)
+
+Review 1 for Dr. Audrey Bertrand, Cardiology, Toulouse
+Rating: 9/10
+Clinic visited: Centre de Santé Compans
+Description: She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 2 for Dr. Audrey Bertrand, Cardiology, Toulouse
+Rating: 9/10
+Clinic visited: Centre de Santé Compans
+Description: My atrial fibrillation is well managed by Dr. Audrey Bertrand, and I know exactly what symptoms mean I should call. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Audrey Bertrand, Cardiology, Toulouse
+Rating: 9/10
+Clinic visited: Centre de Santé Compans
+Description: Dr. Audrey Bertrand double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Audrey Bertrand, Cardiology, Toulouse
+Rating: 9/10
+Clinic visited: Centre de Santé Compans
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. Booking online at Centre de Santé Compans was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 5 for Dr. Audrey Bertrand, Cardiology, Toulouse
+Rating: 9/10
+Clinic visited: Centre de Santé Compans
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. The practice in Toulouse is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Audrey Bertrand, Cardiology, Toulouse
+Rating: 8/10
+Clinic visited: Centre de Santé Compans
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 7 for Dr. Audrey Bertrand, Cardiology, Toulouse
+Rating: 8/10
+Clinic visited: Centre de Santé Compans
+Description: After my heart attack, Dr. Audrey Bertrand explained the rehab plan and medication changes with great patience and kindness. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 8 for Dr. Audrey Bertrand, Cardiology, Toulouse
+Rating: 8/10
+Clinic visited: Centre de Santé Compans
+Description: Clear and calm advice at Centre de Santé Compans about exercise after my stent, including a gradual written schedule.
+
+Overall rating for Dr. Audrey Bertrand, Cardiology, Toulouse: 8.62/10 from 8 reviews

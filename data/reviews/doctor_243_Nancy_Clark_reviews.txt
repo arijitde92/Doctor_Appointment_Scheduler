@@ -1,0 +1,54 @@
+Doctor: Dr. Nancy Clark
+Doctor ID: 243
+Specialization: Radiology
+Gender: Female
+Years of experience: 1
+City: San Francisco, USA
+Clinics: Sunset District Clinic (clinic ID 33)
+
+Review 1 for Dr. Nancy Clark, Radiology, San Francisco
+Rating: 10/10
+Clinic visited: Sunset District Clinic
+Description: My ultrasound was unhurried, and Dr. Nancy Clark took time to show me the images and explain what each measurement meant. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 2 for Dr. Nancy Clark, Radiology, San Francisco
+Rating: 5/10
+Clinic visited: Sunset District Clinic
+Description: Dr. Nancy Clark answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 3 for Dr. Nancy Clark, Radiology, San Francisco
+Rating: 6/10
+Clinic visited: Sunset District Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 4 for Dr. Nancy Clark, Radiology, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 5 for Dr. Nancy Clark, Radiology, San Francisco
+Rating: 10/10
+Clinic visited: Sunset District Clinic
+Description: A same-day slot was found for me at Sunset District Clinic when I called with a worrying symptom. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Nancy Clark, Radiology, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Nancy Clark, Radiology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: The staff at Sunset District Clinic in San Francisco explained the contrast dye and its side effects before I signed anything. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 8 for Dr. Nancy Clark, Radiology, San Francisco
+Rating: 10/10
+Clinic visited: Sunset District Clinic
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 9 for Dr. Nancy Clark, Radiology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: Images from Sunset District Clinic were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. My referral letter was written on the spot, and the specialist's office had my details before I called. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Nancy Clark, Radiology, San Francisco: 8.33/10 from 9 reviews

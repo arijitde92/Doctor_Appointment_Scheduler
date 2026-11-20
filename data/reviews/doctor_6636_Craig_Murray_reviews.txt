@@ -1,0 +1,49 @@
+Doctor: Dr. Craig Murray
+Doctor ID: 6636
+Specialization: Radiology
+Gender: Male
+Years of experience: 7
+City: Christchurch, New Zealand
+Clinics: Rimu Family Clinic (clinic ID 860); Puriri Medical Practice (clinic ID 864)
+
+Review 1 for Dr. Craig Murray, Radiology, Christchurch
+Rating: 6/10
+Clinic visited: Puriri Medical Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Craig Murray, Radiology, Christchurch
+Rating: 6/10
+Clinic visited: Rimu Family Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Craig Murray, Radiology, Christchurch
+Rating: 9/10
+Clinic visited: Rimu Family Clinic
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Craig Murray, Radiology, Christchurch
+Rating: 5/10
+Clinic visited: Rimu Family Clinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Craig Murray, Radiology, Christchurch
+Rating: 6/10
+Clinic visited: Rimu Family Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 6 for Dr. Craig Murray, Radiology, Christchurch
+Rating: 8/10
+Clinic visited: Puriri Medical Practice
+Description: I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 7 for Dr. Craig Murray, Radiology, Christchurch
+Rating: 7/10
+Clinic visited: Rimu Family Clinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Good bedside manner from Dr. Craig Murray, but the parking near Rimu Family Clinic is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Craig Murray, Radiology, Christchurch
+Rating: 9/10
+Clinic visited: Puriri Medical Practice
+Description: Sensitive questions were handled by Dr. Craig Murray with discretion and without a hint of judgment. Reviewing my X-ray together with Dr. Craig Murray on the screen made it much easier to understand my arthritis.
+
+Overall rating for Dr. Craig Murray, Radiology, Christchurch: 7.00/10 from 8 reviews

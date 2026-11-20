@@ -1,0 +1,59 @@
+Doctor: Dr. Francesca Meier
+Doctor ID: 1716
+Specialization: Psychology
+Gender: Female
+Years of experience: 3
+City: Bern, Switzerland
+Clinics: Medizinisches Zentrum Länggasse (clinic ID 223)
+
+Review 1 for Dr. Francesca Meier, Psychology, Bern
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: I appreciated the written summary Dr. Francesca Meier sent after each session and the short worksheets between visits. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Francesca Meier, Psychology, Bern
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. I got what I needed, but the next available appointment was three weeks away.
+
+Review 3 for Dr. Francesca Meier, Psychology, Bern
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: The office in Bern is quiet and private, and the receptionist never mentions anything in front of other patients. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Francesca Meier, Psychology, Bern
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: My trauma work felt well paced, although the schedule changed several times at Medizinisches Zentrum Länggasse. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Francesca Meier, Psychology, Bern
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Everything was explained in plain English by Dr. Francesca Meier, and nothing was left to guess.
+
+Review 6 for Dr. Francesca Meier, Psychology, Bern
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer. Sensitive questions were handled by Dr. Francesca Meier with discretion and without a hint of judgment.
+
+Review 7 for Dr. Francesca Meier, Psychology, Bern
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. I liked the advice I got from Dr. Francesca Meier, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Francesca Meier, Psychology, Bern
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Francesca Meier designed around my actual job.
+
+Review 9 for Dr. Francesca Meier, Psychology, Bern
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Getting to Medizinisches Zentrum Länggasse by public transport in Bern was easy, and there is a step-free entrance for wheelchairs. Couples therapy at Medizinisches Zentrum Länggasse helped us stop repeating the same argument. We now have a way to pause and listen.
+
+Review 10 for Dr. Francesca Meier, Psychology, Bern
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Francesca Meier, Psychology, Bern: 7.80/10 from 10 reviews

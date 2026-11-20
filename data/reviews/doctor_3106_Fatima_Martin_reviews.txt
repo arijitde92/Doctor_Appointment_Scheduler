@@ -1,0 +1,54 @@
+Doctor: Dr. Fatima Martin
+Doctor ID: 3106
+Specialization: Pathology
+Gender: Female
+Years of experience: 7
+City: Brussels, Belgium
+Clinics: Medisch Centrum Schuman (clinic ID 403)
+
+Review 1 for Dr. Fatima Martin, Pathology, Brussels
+Rating: 5/10
+Clinic visited: Medisch Centrum Schuman
+Description: Booking was easy online, but the confirmation email contained the wrong address for Medisch Centrum Schuman.
+
+Review 2 for Dr. Fatima Martin, Pathology, Brussels
+Rating: 8/10
+Clinic visited: Medisch Centrum Schuman
+Description: I was called in within five minutes of my appointment time at Medisch Centrum Schuman, which is rare and much appreciated. I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Fatima Martin, Pathology, Brussels
+Rating: 8/10
+Clinic visited: Medisch Centrum Schuman
+Description: I was given a printed summary of the visit, which I shared with my family at home. Allergy panel results were explained in detail by Dr. Fatima Martin, with a note on which results mattered clinically and which did not.
+
+Review 4 for Dr. Fatima Martin, Pathology, Brussels
+Rating: 5/10
+Clinic visited: Medisch Centrum Schuman
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 5 for Dr. Fatima Martin, Pathology, Brussels
+Rating: 6/10
+Clinic visited: Medisch Centrum Schuman
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 6 for Dr. Fatima Martin, Pathology, Brussels
+Rating: 8/10
+Clinic visited: Medisch Centrum Schuman
+Description: I asked for a second look at my slides, and Dr. Fatima Martin reviewed them without any fuss and confirmed the finding in writing. Dr. Fatima Martin double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 7 for Dr. Fatima Martin, Pathology, Brussels
+Rating: 8/10
+Clinic visited: Medisch Centrum Schuman
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 8 for Dr. Fatima Martin, Pathology, Brussels
+Rating: 9/10
+Clinic visited: Medisch Centrum Schuman
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 9 for Dr. Fatima Martin, Pathology, Brussels
+Rating: 8/10
+Clinic visited: Medisch Centrum Schuman
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Overall rating for Dr. Fatima Martin, Pathology, Brussels: 7.22/10 from 9 reviews

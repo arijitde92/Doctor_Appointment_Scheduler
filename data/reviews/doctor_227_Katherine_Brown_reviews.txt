@@ -1,0 +1,54 @@
+Doctor: Dr. Katherine Brown
+Doctor ID: 227
+Specialization: Pathology
+Gender: Female
+Years of experience: 4
+City: San Francisco, USA
+Clinics: Cow Hollow Health Associates (clinic ID 32)
+
+Review 1 for Dr. Katherine Brown, Pathology, San Francisco
+Rating: 6/10
+Clinic visited: Cow Hollow Health Associates
+Description: The blood draw was painless, but the waiting area at Cow Hollow Health Associates was crowded in the early morning. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Katherine Brown, Pathology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: I was nervous about the biopsy result, and the call from Dr. Katherine Brown was gentle, honest and unhurried. Everything was explained in plain English by Dr. Katherine Brown, and nothing was left to guess. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Katherine Brown, Pathology, San Francisco
+Rating: 10/10
+Clinic visited: Cow Hollow Health Associates
+Description: Dr. Katherine Brown double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Fast turnaround at Cow Hollow Health Associates on my thyroid panel, with results in my online account by the next morning. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Katherine Brown, Pathology, San Francisco
+Rating: 7/10
+Clinic visited: Cow Hollow Health Associates
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 5 for Dr. Katherine Brown, Pathology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Katherine Brown, Pathology, San Francisco
+Rating: 6/10
+Clinic visited: Cow Hollow Health Associates
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Katherine Brown, Pathology, San Francisco
+Rating: 5/10
+Clinic visited: Cow Hollow Health Associates
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Katherine Brown, Pathology, San Francisco
+Rating: 7/10
+Clinic visited: Cow Hollow Health Associates
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Helpful in clarifying a borderline result, though Dr. Katherine Brown gave little guidance about whether to repeat it.
+
+Review 9 for Dr. Katherine Brown, Pathology, San Francisco
+Rating: 7/10
+Clinic visited: Cow Hollow Health Associates
+Description: Dr. Katherine Brown answered my questions kindly, though the call back took three days. I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Katherine Brown, Pathology, San Francisco: 7.11/10 from 9 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Arne Andersen
+Doctor ID: 2098
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 3
+City: Trondheim, Norway
+Clinics: Legekontoret Innherred (clinic ID 273); Legesenteret Klæbu Vei (clinic ID 274)
+
+Review 1 for Dr. Arne Andersen, Orthopedic, Trondheim
+Rating: 5/10
+Clinic visited: Legekontoret Innherred
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 2 for Dr. Arne Andersen, Orthopedic, Trondheim
+Rating: 5/10
+Clinic visited: Legekontoret Innherred
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Arne Andersen, Orthopedic, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Dr. Arne Andersen explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 4 for Dr. Arne Andersen, Orthopedic, Trondheim
+Rating: 4/10
+Clinic visited: Legekontoret Innherred
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week. Not a place I would choose again, and I hope others have a better experience.
+
+Review 5 for Dr. Arne Andersen, Orthopedic, Trondheim
+Rating: 5/10
+Clinic visited: Legekontoret Innherred
+Description: Very skilled with my knee, but Dr. Arne Andersen's clinic runs behind and the wait was over an hour. Dr. Arne Andersen was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 6 for Dr. Arne Andersen, Orthopedic, Trondheim
+Rating: 5/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Arne Andersen, Orthopedic, Trondheim
+Rating: 6/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 8 for Dr. Arne Andersen, Orthopedic, Trondheim
+Rating: 5/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. The treatment plan from Dr. Arne Andersen made sense, but I wished it had been written down for me to take away.
+
+Review 9 for Dr. Arne Andersen, Orthopedic, Trondheim
+Rating: 6/10
+Clinic visited: Legekontoret Innherred
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 10 for Dr. Arne Andersen, Orthopedic, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 11 for Dr. Arne Andersen, Orthopedic, Trondheim
+Rating: 7/10
+Clinic visited: Legesenteret Klæbu Vei
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 12 for Dr. Arne Andersen, Orthopedic, Trondheim
+Rating: 6/10
+Clinic visited: Legekontoret Innherred
+Description: I got what I needed, but the next available appointment was three weeks away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Arne Andersen, Orthopedic, Trondheim: 5.67/10 from 12 reviews

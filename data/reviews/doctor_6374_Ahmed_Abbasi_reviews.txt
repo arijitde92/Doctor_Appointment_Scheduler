@@ -1,0 +1,59 @@
+Doctor: Dr. Ahmed Abbasi
+Doctor ID: 6374
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 2
+City: Lahore, Pakistan
+Clinics: Johar Town Sehat Centre (clinic ID 826)
+
+Review 1 for Dr. Ahmed Abbasi, Psychiatry, Lahore
+Rating: 7/10
+Clinic visited: Johar Town Sehat Centre
+Description: Good bedside manner from Dr. Ahmed Abbasi, but the parking near Johar Town Sehat Centre is limited and I had to circle for fifteen minutes.
+
+Review 2 for Dr. Ahmed Abbasi, Psychiatry, Lahore
+Rating: 6/10
+Clinic visited: Johar Town Sehat Centre
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Dr. Ahmed Abbasi was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Ahmed Abbasi, Psychiatry, Lahore
+Rating: 9/10
+Clinic visited: Johar Town Sehat Centre
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 4 for Dr. Ahmed Abbasi, Psychiatry, Lahore
+Rating: 8/10
+Clinic visited: Johar Town Sehat Centre
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 5 for Dr. Ahmed Abbasi, Psychiatry, Lahore
+Rating: 6/10
+Clinic visited: Johar Town Sehat Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Ahmed Abbasi, Psychiatry, Lahore
+Rating: 7/10
+Clinic visited: Johar Town Sehat Centre
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 7 for Dr. Ahmed Abbasi, Psychiatry, Lahore
+Rating: 9/10
+Clinic visited: Johar Town Sehat Centre
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 8 for Dr. Ahmed Abbasi, Psychiatry, Lahore
+Rating: 9/10
+Clinic visited: Johar Town Sehat Centre
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 9 for Dr. Ahmed Abbasi, Psychiatry, Lahore
+Rating: 8/10
+Clinic visited: Johar Town Sehat Centre
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. I was called in within five minutes of my appointment time at Johar Town Sehat Centre, which is rare and much appreciated.
+
+Review 10 for Dr. Ahmed Abbasi, Psychiatry, Lahore
+Rating: 8/10
+Clinic visited: Johar Town Sehat Centre
+Description: My depression finally has a treatment plan from Dr. Ahmed Abbasi that works, with regular check-ins and careful dose changes. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Ahmed Abbasi, Psychiatry, Lahore: 7.70/10 from 10 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Lisa Smit
+Doctor ID: 2679
+Specialization: Radiology
+Gender: Female
+Years of experience: 8
+City: Utrecht, Netherlands
+Clinics: Huisartsenpraktijk Lombok (clinic ID 351)
+
+Review 1 for Dr. Lisa Smit, Radiology, Utrecht
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: My ultrasound was unhurried, and Dr. Lisa Smit took time to show me the images and explain what each measurement meant. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 2 for Dr. Lisa Smit, Radiology, Utrecht
+Rating: 5/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 3 for Dr. Lisa Smit, Radiology, Utrecht
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: A translator was arranged for my mother without us asking twice, and Dr. Lisa Smit spoke directly to her throughout.
+
+Review 4 for Dr. Lisa Smit, Radiology, Utrecht
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 5 for Dr. Lisa Smit, Radiology, Utrecht
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Lisa Smit answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Lisa Smit, Radiology, Utrecht
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: When my scan showed something that needed a second look, Dr. Lisa Smit arranged the follow-up the same day. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Lisa Smit, Radiology, Utrecht
+Rating: 7/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I liked the advice I got from Dr. Lisa Smit, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Lisa Smit, Radiology, Utrecht
+Rating: 6/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: I got what I needed, but the next available appointment was three weeks away. The report from Dr. Lisa Smit was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 9 for Dr. Lisa Smit, Radiology, Utrecht
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: Getting to Huisartsenpraktijk Lombok by public transport in Utrecht was easy, and there is a step-free entrance for wheelchairs. Dr. Lisa Smit compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 10 for Dr. Lisa Smit, Radiology, Utrecht
+Rating: 10/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 11 for Dr. Lisa Smit, Radiology, Utrecht
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Lombok
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Overall rating for Dr. Lisa Smit, Radiology, Utrecht: 7.45/10 from 11 reviews

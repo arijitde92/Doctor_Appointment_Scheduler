@@ -1,0 +1,64 @@
+Doctor: Dr. Benjamin Gauthier
+Doctor ID: 317
+Specialization: Cardiology
+Gender: Male
+Years of experience: 29
+City: Montreal, Canada
+Clinics: Clinique Médicale McGill Collège (clinic ID 44)
+
+Review 1 for Dr. Benjamin Gauthier, Cardiology, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Review 2 for Dr. Benjamin Gauthier, Cardiology, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Managing my blood pressure with Dr. Benjamin Gauthier has been steady and practical, with home readings reviewed at every visit.
+
+Review 3 for Dr. Benjamin Gauthier, Cardiology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Booking online at Clinique Médicale McGill Collège was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 4 for Dr. Benjamin Gauthier, Cardiology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Helpful with my cholesterol, Dr. Benjamin Gauthier still gave dietary advice that was a little generic. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Benjamin Gauthier, Cardiology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Dr. Benjamin Gauthier was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 6 for Dr. Benjamin Gauthier, Cardiology, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 7 for Dr. Benjamin Gauthier, Cardiology, Montreal
+Rating: 10/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: I came away understanding my condition better than I have in years of previous appointments. After my heart attack, Dr. Benjamin Gauthier explained the rehab plan and medication changes with great patience and kindness.
+
+Review 8 for Dr. Benjamin Gauthier, Cardiology, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. My whole family is switching over after seeing how good the care was.
+
+Review 9 for Dr. Benjamin Gauthier, Cardiology, Montreal
+Rating: 9/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: My atrial fibrillation is well managed by Dr. Benjamin Gauthier, and I know exactly what symptoms mean I should call. Dr. Benjamin Gauthier double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 10 for Dr. Benjamin Gauthier, Cardiology, Montreal
+Rating: 10/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Sensitive questions were handled by Dr. Benjamin Gauthier with discretion and without a hint of judgment. I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning.
+
+Review 11 for Dr. Benjamin Gauthier, Cardiology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: My stress test was supervised carefully, and Dr. Benjamin Gauthier reviewed the results in the same visit with a plan for my cholesterol. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Benjamin Gauthier, Cardiology, Montreal: 8.64/10 from 11 reviews

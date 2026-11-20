@@ -1,0 +1,64 @@
+Doctor: Dr. Krzysztof Michalski
+Doctor ID: 2708
+Specialization: Cardiology
+Gender: Male
+Years of experience: 5
+City: Gdansk, Poland
+Clinics: Centrum Medyczne Długi Targ Plus (clinic ID 355); Poliklinika Motława (clinic ID 357)
+
+Review 1 for Dr. Krzysztof Michalski, Cardiology, Gdansk
+Rating: 7/10
+Clinic visited: Poliklinika Motława
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Krzysztof Michalski, Cardiology, Gdansk
+Rating: 8/10
+Clinic visited: Centrum Medyczne Długi Targ Plus
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 3 for Dr. Krzysztof Michalski, Cardiology, Gdansk
+Rating: 8/10
+Clinic visited: Poliklinika Motława
+Description: Dr. Krzysztof Michalski explained the difference between my statin options and let me weigh in on the choice.
+
+Review 4 for Dr. Krzysztof Michalski, Cardiology, Gdansk
+Rating: 5/10
+Clinic visited: Poliklinika Motława
+Description: Dr. Krzysztof Michalski adjusted my blood pressure medication carefully, though I had to call twice for a refill. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Krzysztof Michalski, Cardiology, Gdansk
+Rating: 7/10
+Clinic visited: Centrum Medyczne Długi Targ Plus
+Description: Booking was easy online, but the confirmation email contained the wrong address for Centrum Medyczne Długi Targ Plus. Helpful with my cholesterol, Dr. Krzysztof Michalski still gave dietary advice that was a little generic.
+
+Review 6 for Dr. Krzysztof Michalski, Cardiology, Gdansk
+Rating: 8/10
+Clinic visited: Poliklinika Motława
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning.
+
+Review 7 for Dr. Krzysztof Michalski, Cardiology, Gdansk
+Rating: 7/10
+Clinic visited: Centrum Medyczne Długi Targ Plus
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Krzysztof Michalski, Cardiology, Gdansk
+Rating: 7/10
+Clinic visited: Poliklinika Motława
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The echocardiogram staff were kind, but the results took over a week to be explained to me. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Krzysztof Michalski, Cardiology, Gdansk
+Rating: 9/10
+Clinic visited: Poliklinika Motława
+Description: After my palpitations began, Dr. Krzysztof Michalski arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 10 for Dr. Krzysztof Michalski, Cardiology, Gdansk
+Rating: 9/10
+Clinic visited: Poliklinika Motława
+Description: After my heart attack, Dr. Krzysztof Michalski explained the rehab plan and medication changes with great patience and kindness.
+
+Review 11 for Dr. Krzysztof Michalski, Cardiology, Gdansk
+Rating: 8/10
+Clinic visited: Poliklinika Motława
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Seeing Dr. Krzysztof Michalski in Gdansk meant my whole family history was reviewed, and now my sister is being screened too.
+
+Overall rating for Dr. Krzysztof Michalski, Cardiology, Gdansk: 7.55/10 from 11 reviews

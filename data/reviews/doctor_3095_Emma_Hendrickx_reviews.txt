@@ -1,0 +1,49 @@
+Doctor: Dr. Emma Hendrickx
+Doctor ID: 3095
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 5
+City: Brussels, Belgium
+Clinics: Polyclinique Etterbeek (clinic ID 402)
+
+Review 1 for Dr. Emma Hendrickx, Orthopedic, Brussels
+Rating: 8/10
+Clinic visited: Polyclinique Etterbeek
+Description: A translator was arranged for my mother without us asking twice, and Dr. Emma Hendrickx spoke directly to her throughout.
+
+Review 2 for Dr. Emma Hendrickx, Orthopedic, Brussels
+Rating: 5/10
+Clinic visited: Polyclinique Etterbeek
+Description: Dr. Emma Hendrickx explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Helpful visit overall, although I only found out about an extra charge after I had paid. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Emma Hendrickx, Orthopedic, Brussels
+Rating: 8/10
+Clinic visited: Polyclinique Etterbeek
+Description: Dr. Emma Hendrickx used a calm, steady voice that settled my nerves before a stressful procedure. Seen the same day at Polyclinique Etterbeek after a bad ankle sprain, with an X-ray done and a brace fitted before I left.
+
+Review 4 for Dr. Emma Hendrickx, Orthopedic, Brussels
+Rating: 3/10
+Clinic visited: Polyclinique Etterbeek
+Description: The waiting room at Polyclinique Etterbeek was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 5 for Dr. Emma Hendrickx, Orthopedic, Brussels
+Rating: 7/10
+Clinic visited: Polyclinique Etterbeek
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 6 for Dr. Emma Hendrickx, Orthopedic, Brussels
+Rating: 2/10
+Clinic visited: Polyclinique Etterbeek
+Description: The appointment lasted five minutes and ended with an injection I had not agreed to beforehand.
+
+Review 7 for Dr. Emma Hendrickx, Orthopedic, Brussels
+Rating: 6/10
+Clinic visited: Polyclinique Etterbeek
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 8 for Dr. Emma Hendrickx, Orthopedic, Brussels
+Rating: 7/10
+Clinic visited: Polyclinique Etterbeek
+Description: Very skilled with my knee, but Dr. Emma Hendrickx's clinic runs behind and the wait was over an hour. Booking was easy online, but the confirmation email contained the wrong address for Polyclinique Etterbeek. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Emma Hendrickx, Orthopedic, Brussels: 5.75/10 from 8 reviews

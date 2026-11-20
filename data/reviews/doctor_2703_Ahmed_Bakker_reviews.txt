@@ -1,0 +1,59 @@
+Doctor: Dr. Ahmed Bakker
+Doctor ID: 2703
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 1
+City: Utrecht, Netherlands
+Clinics: Medisch Centrum Overvecht (clinic ID 354)
+
+Review 1 for Dr. Ahmed Bakker, Pulmonology, Utrecht
+Rating: 9/10
+Clinic visited: Medisch Centrum Overvecht
+Description: At my visit, Dr. Ahmed Bakker took notes on my medication list, checked for interactions and explained the changes simply. After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Ahmed Bakker, Pulmonology, Utrecht
+Rating: 8/10
+Clinic visited: Medisch Centrum Overvecht
+Description: After years of poorly controlled asthma, Dr. Ahmed Bakker reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 3 for Dr. Ahmed Bakker, Pulmonology, Utrecht
+Rating: 10/10
+Clinic visited: Medisch Centrum Overvecht
+Description: Sensitive questions were handled by Dr. Ahmed Bakker with discretion and without a hint of judgment.
+
+Review 4 for Dr. Ahmed Bakker, Pulmonology, Utrecht
+Rating: 10/10
+Clinic visited: Medisch Centrum Overvecht
+Description: My oxygen levels are monitored carefully at Medisch Centrum Overvecht, and the home equipment was arranged without any hassle.
+
+Review 5 for Dr. Ahmed Bakker, Pulmonology, Utrecht
+Rating: 7/10
+Clinic visited: Medisch Centrum Overvecht
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Ahmed Bakker, Pulmonology, Utrecht
+Rating: 8/10
+Clinic visited: Medisch Centrum Overvecht
+Description: At Medisch Centrum Overvecht, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 7 for Dr. Ahmed Bakker, Pulmonology, Utrecht
+Rating: 9/10
+Clinic visited: Medisch Centrum Overvecht
+Description: The waiting room at Medisch Centrum Overvecht was clean, quiet and comfortable, with enough seating and water available. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Ahmed Bakker, Pulmonology, Utrecht
+Rating: 8/10
+Clinic visited: Medisch Centrum Overvecht
+Description: Paperwork at Medisch Centrum Overvecht was kept to a minimum, and the staff helped me complete the insurance form. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. Ahmed Bakker, Pulmonology, Utrecht
+Rating: 7/10
+Clinic visited: Medisch Centrum Overvecht
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Pleasant manner and careful lung exam, though the waiting time at Medisch Centrum Overvecht regularly exceeded forty minutes.
+
+Review 10 for Dr. Ahmed Bakker, Pulmonology, Utrecht
+Rating: 8/10
+Clinic visited: Medisch Centrum Overvecht
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Ahmed Bakker, Pulmonology, Utrecht: 8.40/10 from 10 reviews

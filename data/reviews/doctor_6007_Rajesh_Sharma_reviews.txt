@@ -1,0 +1,54 @@
+Doctor: Dr. Rajesh Sharma
+Doctor ID: 6007
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 10
+City: Abu Dhabi, UAE
+Clinics: Corniche Pearl Medical Centre (clinic ID 775); Yas Bay Wellness Clinic (clinic ID 779)
+
+Review 1 for Dr. Rajesh Sharma, Orthopedic, Abu Dhabi
+Rating: 7/10
+Clinic visited: Corniche Pearl Medical Centre
+Description: The treatment plan from Dr. Rajesh Sharma made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Rajesh Sharma, Orthopedic, Abu Dhabi
+Rating: 6/10
+Clinic visited: Yas Bay Wellness Clinic
+Description: Very skilled with my knee, but Dr. Rajesh Sharma's clinic runs behind and the wait was over an hour. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Rajesh Sharma, Orthopedic, Abu Dhabi
+Rating: 7/10
+Clinic visited: Corniche Pearl Medical Centre
+Description: Dr. Rajesh Sharma was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Rajesh Sharma, Orthopedic, Abu Dhabi
+Rating: 7/10
+Clinic visited: Yas Bay Wellness Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Rajesh Sharma, Orthopedic, Abu Dhabi
+Rating: 8/10
+Clinic visited: Corniche Pearl Medical Centre
+Description: Seen the same day at Corniche Pearl Medical Centre after a bad ankle sprain, with an X-ray done and a brace fitted before I left. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Rajesh Sharma, Orthopedic, Abu Dhabi
+Rating: 7/10
+Clinic visited: Corniche Pearl Medical Centre
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 7 for Dr. Rajesh Sharma, Orthopedic, Abu Dhabi
+Rating: 8/10
+Clinic visited: Yas Bay Wellness Clinic
+Description: A translator was arranged for my mother without us asking twice, and Dr. Rajesh Sharma spoke directly to her throughout. I never felt pressured toward an operation, and the second opinion I sought agreed with the plan.
+
+Review 8 for Dr. Rajesh Sharma, Orthopedic, Abu Dhabi
+Rating: 8/10
+Clinic visited: Yas Bay Wellness Clinic
+Description: Dr. Rajesh Sharma looked me in the eye, listened to the whole story and only then started typing. The surgeon at Yas Bay Wellness Clinic spent time on my goals as a runner and shaped the treatment around them.
+
+Review 9 for Dr. Rajesh Sharma, Orthopedic, Abu Dhabi
+Rating: 9/10
+Clinic visited: Corniche Pearl Medical Centre
+Description: Dr. Rajesh Sharma explained my back scan using a model of the spine, and I finally understood my sciatica. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Rajesh Sharma, Orthopedic, Abu Dhabi: 7.44/10 from 9 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Even Eriksen
+Doctor ID: 2043
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 9
+City: Stavanger, Norway
+Clinics: Helsehuset Vågen (clinic ID 266); Medisinsk Senter Kongsgård (clinic ID 267)
+
+Review 1 for Dr. Even Eriksen, Orthopedic, Stavanger
+Rating: 9/10
+Clinic visited: Helsehuset Vågen
+Description: A translator was arranged for my mother without us asking twice, and Dr. Even Eriksen spoke directly to her throughout. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Even Eriksen, Orthopedic, Stavanger
+Rating: 8/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up.
+
+Review 3 for Dr. Even Eriksen, Orthopedic, Stavanger
+Rating: 7/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Quick appointment and a fair price in Stavanger, but the staff seemed overwhelmed and a bit curt on the phone. Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 4 for Dr. Even Eriksen, Orthopedic, Stavanger
+Rating: 7/10
+Clinic visited: Helsehuset Vågen
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 5 for Dr. Even Eriksen, Orthopedic, Stavanger
+Rating: 7/10
+Clinic visited: Helsehuset Vågen
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Even Eriksen, Orthopedic, Stavanger
+Rating: 4/10
+Clinic visited: Helsehuset Vågen
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 7 for Dr. Even Eriksen, Orthopedic, Stavanger
+Rating: 10/10
+Clinic visited: Helsehuset Vågen
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine.
+
+Review 8 for Dr. Even Eriksen, Orthopedic, Stavanger
+Rating: 8/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 9 for Dr. Even Eriksen, Orthopedic, Stavanger
+Rating: 8/10
+Clinic visited: Helsehuset Vågen
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 10 for Dr. Even Eriksen, Orthopedic, Stavanger
+Rating: 6/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Dr. Even Eriksen explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 11 for Dr. Even Eriksen, Orthopedic, Stavanger
+Rating: 8/10
+Clinic visited: Helsehuset Vågen
+Description: Seen the same day at Helsehuset Vågen after a bad ankle sprain, with an X-ray done and a brace fitted before I left.
+
+Overall rating for Dr. Even Eriksen, Orthopedic, Stavanger: 7.45/10 from 11 reviews

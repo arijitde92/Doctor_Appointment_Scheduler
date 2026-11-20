@@ -1,0 +1,54 @@
+Doctor: Dr. Michael Egger
+Doctor ID: 2976
+Specialization: Cardiology
+Gender: Male
+Years of experience: 1
+City: Salzburg, Austria
+Clinics: Medizinisches Zentrum Maxglan (clinic ID 388); Ordination Gnigl Salzburg (clinic ID 389)
+
+Review 1 for Dr. Michael Egger, Cardiology, Salzburg
+Rating: 8/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Everything was explained in plain English by Dr. Michael Egger, and nothing was left to guess. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Michael Egger, Cardiology, Salzburg
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: After my palpitations began, Dr. Michael Egger arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge. Getting to Medizinisches Zentrum Maxglan by public transport in Salzburg was easy, and there is a step-free entrance for wheelchairs.
+
+Review 3 for Dr. Michael Egger, Cardiology, Salzburg
+Rating: 8/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Dr. Michael Egger drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Michael Egger, Cardiology, Salzburg
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 5 for Dr. Michael Egger, Cardiology, Salzburg
+Rating: 8/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: The receptionist at Ordination Gnigl Salzburg remembered my name and had my forms ready, so check-in took less than a minute. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Michael Egger, Cardiology, Salzburg
+Rating: 7/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Great care in the visit itself, but the billing for the tests at Ordination Gnigl Salzburg was confusing. I liked the advice I got from Dr. Michael Egger, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Michael Egger, Cardiology, Salzburg
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Maxglan
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. At my visit, Dr. Michael Egger took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 8 for Dr. Michael Egger, Cardiology, Salzburg
+Rating: 6/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Helpful with my cholesterol, Dr. Michael Egger still gave dietary advice that was a little generic.
+
+Review 9 for Dr. Michael Egger, Cardiology, Salzburg
+Rating: 5/10
+Clinic visited: Ordination Gnigl Salzburg
+Description: Booking was easy online, but the confirmation email contained the wrong address for Ordination Gnigl Salzburg. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Michael Egger, Cardiology, Salzburg: 7.56/10 from 9 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Julie Lefebvre
+Doctor ID: 1225
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 2
+City: Marseille, France
+Clinics: Centre Médical du Vieux-Port (clinic ID 160); Cabinet Médical Castellane (clinic ID 161)
+
+Review 1 for Dr. Julie Lefebvre, Orthopedic, Marseille
+Rating: 6/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Very skilled with my knee, but Dr. Julie Lefebvre's clinic runs behind and the wait was over an hour. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Julie Lefebvre, Orthopedic, Marseille
+Rating: 7/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 3 for Dr. Julie Lefebvre, Orthopedic, Marseille
+Rating: 9/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: She set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 4 for Dr. Julie Lefebvre, Orthopedic, Marseille
+Rating: 7/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Julie Lefebvre, Orthopedic, Marseille
+Rating: 3/10
+Clinic visited: Cabinet Médical Castellane
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 6 for Dr. Julie Lefebvre, Orthopedic, Marseille
+Rating: 9/10
+Clinic visited: Cabinet Médical Castellane
+Description: My torn rotator cuff was managed first by Dr. Julie Lefebvre with physiotherapy, and surgery was only suggested when it truly was needed.
+
+Review 7 for Dr. Julie Lefebvre, Orthopedic, Marseille
+Rating: 7/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Dr. Julie Lefebvre explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 8 for Dr. Julie Lefebvre, Orthopedic, Marseille
+Rating: 5/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Dr. Julie Lefebvre was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 9 for Dr. Julie Lefebvre, Orthopedic, Marseille
+Rating: 8/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Prescriptions from Dr. Julie Lefebvre were sent to my pharmacy before I even left the building, and the dosage instructions were written down. My son's fracture was handled gently, and the explanation was pitched at his level as well as mine.
+
+Review 10 for Dr. Julie Lefebvre, Orthopedic, Marseille
+Rating: 8/10
+Clinic visited: Cabinet Médical Castellane
+Description: The X-ray was reviewed with me on screen, and she pointed out exactly where the cartilage had worn down. Everything was explained in plain English by Dr. Julie Lefebvre, and nothing was left to guess.
+
+Review 11 for Dr. Julie Lefebvre, Orthopedic, Marseille
+Rating: 7/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Julie Lefebvre, Orthopedic, Marseille: 6.91/10 from 11 reviews

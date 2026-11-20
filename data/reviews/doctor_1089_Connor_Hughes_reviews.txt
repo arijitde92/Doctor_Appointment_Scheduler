@@ -1,0 +1,64 @@
+Doctor: Dr. Connor Hughes
+Doctor ID: 1089
+Specialization: Radiology
+Gender: Male
+Years of experience: 5
+City: Edinburgh, UK
+Clinics: Queensferry Street Polyclinic (clinic ID 143)
+
+Review 1 for Dr. Connor Hughes, Radiology, Edinburgh
+Rating: 9/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Images from Queensferry Street Polyclinic were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Connor Hughes, Radiology, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The report from Dr. Connor Hughes was thorough, though full of technical terms that needed my regular doctor to translate. Good bedside manner from Dr. Connor Hughes, but the parking near Queensferry Street Polyclinic is limited and I had to circle for fifteen minutes. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Connor Hughes, Radiology, Edinburgh
+Rating: 9/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The report from Dr. Connor Hughes was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 4 for Dr. Connor Hughes, Radiology, Edinburgh
+Rating: 8/10
+Clinic visited: Queensferry Street Polyclinic
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 5 for Dr. Connor Hughes, Radiology, Edinburgh
+Rating: 8/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The staff at Queensferry Street Polyclinic in Edinburgh explained the contrast dye and its side effects before I signed anything.
+
+Review 6 for Dr. Connor Hughes, Radiology, Edinburgh
+Rating: 6/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Dr. Connor Hughes was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Connor Hughes, Radiology, Edinburgh
+Rating: 10/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Everything was explained in plain English by Dr. Connor Hughes, and nothing was left to guess. Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Review 8 for Dr. Connor Hughes, Radiology, Edinburgh
+Rating: 9/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The waiting room at Queensferry Street Polyclinic was clean, quiet and comfortable, with enough seating and water available. The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Connor Hughes sent a clear report within a day.
+
+Review 9 for Dr. Connor Hughes, Radiology, Edinburgh
+Rating: 8/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Reviewing my X-ray together with Dr. Connor Hughes on the screen made it much easier to understand my arthritis. Dr. Connor Hughes looked me in the eye, listened to the whole story and only then started typing. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 10 for Dr. Connor Hughes, Radiology, Edinburgh
+Rating: 9/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Fast, clean and professional; the bone density scan with Dr. Connor Hughes was painless and the results were explained clearly. Highly recommended, and I have already told two colleagues about it.
+
+Review 11 for Dr. Connor Hughes, Radiology, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Overall rating for Dr. Connor Hughes, Radiology, Edinburgh: 8.18/10 from 11 reviews

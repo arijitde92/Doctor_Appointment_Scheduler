@@ -1,0 +1,54 @@
+Doctor: Dr. Araceli Gómez Cruz
+Doctor ID: 404
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 5
+City: Guadalajara, Mexico
+Clinics: Clínica Providencia Occidente (clinic ID 55); Policlínica Minerva (clinic ID 59)
+
+Review 1 for Dr. Araceli Gómez Cruz, Psychiatry, Guadalajara
+Rating: 7/10
+Clinic visited: Clínica Providencia Occidente
+Description: The treatment plan from Dr. Araceli Gómez Cruz made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Araceli Gómez Cruz, Psychiatry, Guadalajara
+Rating: 8/10
+Clinic visited: Clínica Providencia Occidente
+Description: Paperwork at Clínica Providencia Occidente was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 3 for Dr. Araceli Gómez Cruz, Psychiatry, Guadalajara
+Rating: 9/10
+Clinic visited: Clínica Providencia Occidente
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Araceli Gómez Cruz, Psychiatry, Guadalajara
+Rating: 7/10
+Clinic visited: Policlínica Minerva
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 5 for Dr. Araceli Gómez Cruz, Psychiatry, Guadalajara
+Rating: 10/10
+Clinic visited: Clínica Providencia Occidente
+Description: My depression finally has a treatment plan from Dr. Araceli Gómez Cruz that works, with regular check-ins and careful dose changes. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 6 for Dr. Araceli Gómez Cruz, Psychiatry, Guadalajara
+Rating: 7/10
+Clinic visited: Clínica Providencia Occidente
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 7 for Dr. Araceli Gómez Cruz, Psychiatry, Guadalajara
+Rating: 9/10
+Clinic visited: Clínica Providencia Occidente
+Description: Excellent at explaining how therapy and medication work together, and Dr. Araceli Gómez Cruz coordinated with my counselor.
+
+Review 8 for Dr. Araceli Gómez Cruz, Psychiatry, Guadalajara
+Rating: 5/10
+Clinic visited: Policlínica Minerva
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 9 for Dr. Araceli Gómez Cruz, Psychiatry, Guadalajara
+Rating: 6/10
+Clinic visited: Policlínica Minerva
+Description: Dr. Araceli Gómez Cruz was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Araceli Gómez Cruz, Psychiatry, Guadalajara: 7.56/10 from 9 reviews

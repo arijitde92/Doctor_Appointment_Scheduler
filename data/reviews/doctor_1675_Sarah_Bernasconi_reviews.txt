@@ -1,0 +1,59 @@
+Doctor: Dr. Sarah Bernasconi
+Doctor ID: 1675
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 23
+City: Basel, Switzerland
+Clinics: Hausarztpraxis Bahnhof Süd (clinic ID 219)
+
+Review 1 for Dr. Sarah Bernasconi, Gastroenterology, Basel
+Rating: 10/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 2 for Dr. Sarah Bernasconi, Gastroenterology, Basel
+Rating: 10/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: I was nervous about my screening, but the team at Hausarztpraxis Bahnhof Süd made me feel at ease, and I was home within hours. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 3 for Dr. Sarah Bernasconi, Gastroenterology, Basel
+Rating: 9/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I get regular check-ups for my Crohn's disease, and Dr. Sarah Bernasconi adjusts my treatment carefully and always explains why.
+
+Review 4 for Dr. Sarah Bernasconi, Gastroenterology, Basel
+Rating: 8/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: A same-day slot was found for me at Hausarztpraxis Bahnhof Süd when I called with a worrying symptom. I received a full summary letter from Hausarztpraxis Bahnhof Süd after my endoscopy, which my regular doctor found very useful. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Sarah Bernasconi, Gastroenterology, Basel
+Rating: 8/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: Dr. Sarah Bernasconi was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Sarah Bernasconi, Gastroenterology, Basel
+Rating: 6/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Sarah Bernasconi, Gastroenterology, Basel
+Rating: 9/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: Dr. Sarah Bernasconi took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Sarah Bernasconi, Gastroenterology, Basel
+Rating: 9/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 9 for Dr. Sarah Bernasconi, Gastroenterology, Basel
+Rating: 6/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 10 for Dr. Sarah Bernasconi, Gastroenterology, Basel
+Rating: 8/10
+Clinic visited: Hausarztpraxis Bahnhof Süd
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Sarah Bernasconi, Gastroenterology, Basel: 8.30/10 from 10 reviews

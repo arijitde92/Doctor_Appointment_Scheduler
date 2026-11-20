@@ -1,0 +1,59 @@
+Doctor: Dr. Heike Koch
+Doctor ID: 1639
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: Munich, Germany
+Clinics: Praxisklinik Nymphenburger Hof (clinic ID 214)
+
+Review 1 for Dr. Heike Koch, Cardiology, Munich
+Rating: 10/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: The practice in Munich is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 2 for Dr. Heike Koch, Cardiology, Munich
+Rating: 5/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: Great care in the visit itself, but the billing for the tests at Praxisklinik Nymphenburger Hof was confusing. Quick appointment and a fair price in Munich, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Heike Koch, Cardiology, Munich
+Rating: 6/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Heike Koch, Cardiology, Munich
+Rating: 7/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: Dr. Heike Koch adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 5 for Dr. Heike Koch, Cardiology, Munich
+Rating: 6/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 6 for Dr. Heike Koch, Cardiology, Munich
+Rating: 6/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Heike Koch, Cardiology, Munich
+Rating: 7/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: Helpful with my cholesterol, Dr. Heike Koch still gave dietary advice that was a little generic.
+
+Review 8 for Dr. Heike Koch, Cardiology, Munich
+Rating: 8/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: My stress test was supervised carefully, and Dr. Heike Koch reviewed the results in the same visit with a plan for my cholesterol. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 9 for Dr. Heike Koch, Cardiology, Munich
+Rating: 6/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 10 for Dr. Heike Koch, Cardiology, Munich
+Rating: 8/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: My atrial fibrillation is well managed by Dr. Heike Koch, and I know exactly what symptoms mean I should call. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Overall rating for Dr. Heike Koch, Cardiology, Munich: 6.90/10 from 10 reviews

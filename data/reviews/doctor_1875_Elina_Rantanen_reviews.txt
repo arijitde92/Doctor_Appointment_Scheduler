@@ -1,0 +1,54 @@
+Doctor: Dr. Elina Rantanen
+Doctor ID: 1875
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: Helsinki, Finland
+Clinics: Lääkäriasema Itämeri (clinic ID 244)
+
+Review 1 for Dr. Elina Rantanen, Cardiology, Helsinki
+Rating: 9/10
+Clinic visited: Lääkäriasema Itämeri
+Description: After my heart attack, Dr. Elina Rantanen explained the rehab plan and medication changes with great patience and kindness.
+
+Review 2 for Dr. Elina Rantanen, Cardiology, Helsinki
+Rating: 7/10
+Clinic visited: Lääkäriasema Itämeri
+Description: I got what I needed, but the next available appointment was three weeks away. The echocardiogram staff were kind, but the results took over a week to be explained to me. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Elina Rantanen, Cardiology, Helsinki
+Rating: 10/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Dr. Elina Rantanen explained the difference between my statin options and let me weigh in on the choice.
+
+Review 4 for Dr. Elina Rantanen, Cardiology, Helsinki
+Rating: 10/10
+Clinic visited: Lääkäriasema Itämeri
+Description: The practice in Helsinki is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Elina Rantanen, Cardiology, Helsinki
+Rating: 9/10
+Clinic visited: Lääkäriasema Itämeri
+Description: The cardiology unit at Lääkäriasema Itämeri runs on time, and the technicians were professional during my echocardiogram. The waiting room at Lääkäriasema Itämeri was clean, quiet and comfortable, with enough seating and water available.
+
+Review 6 for Dr. Elina Rantanen, Cardiology, Helsinki
+Rating: 10/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Managing my blood pressure with Dr. Elina Rantanen has been steady and practical, with home readings reviewed at every visit. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 7 for Dr. Elina Rantanen, Cardiology, Helsinki
+Rating: 10/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 8 for Dr. Elina Rantanen, Cardiology, Helsinki
+Rating: 7/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Helpful with my cholesterol, Dr. Elina Rantanen still gave dietary advice that was a little generic. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. Elina Rantanen, Cardiology, Helsinki
+Rating: 9/10
+Clinic visited: Lääkäriasema Itämeri
+Description: Seeing Dr. Elina Rantanen in Helsinki meant my whole family history was reviewed, and now my sister is being screened too.
+
+Overall rating for Dr. Elina Rantanen, Cardiology, Helsinki: 9.00/10 from 9 reviews

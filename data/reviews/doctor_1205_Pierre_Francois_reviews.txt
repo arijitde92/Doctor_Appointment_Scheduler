@@ -1,0 +1,64 @@
+Doctor: Dr. Pierre François
+Doctor ID: 1205
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 9
+City: Lyon, France
+Clinics: Clinique de la Part-Dieu (clinic ID 157)
+
+Review 1 for Dr. Pierre François, Gastroenterology, Lyon
+Rating: 8/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Dr. Pierre François took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 2 for Dr. Pierre François, Gastroenterology, Lyon
+Rating: 8/10
+Clinic visited: Clinique de la Part-Dieu
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. I was nervous about my screening, but the team at Clinique de la Part-Dieu made me feel at ease, and I was home within hours. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Pierre François, Gastroenterology, Lyon
+Rating: 10/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Getting to Clinique de la Part-Dieu in Lyon was simple, and the day-procedure unit was calm and efficient.
+
+Review 4 for Dr. Pierre François, Gastroenterology, Lyon
+Rating: 8/10
+Clinic visited: Clinique de la Part-Dieu
+Description: After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Pierre François, Gastroenterology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Dr. Pierre François is thorough, but I waited nearly two months to get the first available slot. The treatment plan from Dr. Pierre François made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Pierre François, Gastroenterology, Lyon
+Rating: 6/10
+Clinic visited: Clinique de la Part-Dieu
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Pierre François, Gastroenterology, Lyon
+Rating: 6/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clinique de la Part-Dieu. Skilled with the scope, but communication about the fasting time before the procedure was unclear. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Pierre François, Gastroenterology, Lyon
+Rating: 6/10
+Clinic visited: Clinique de la Part-Dieu
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Knowledgeable about my reflux, Dr. Pierre François still gave diet advice that felt generic and not tailored to my habits.
+
+Review 9 for Dr. Pierre François, Gastroenterology, Lyon
+Rating: 10/10
+Clinic visited: Clinique de la Part-Dieu
+Description: A gentle, respectful manner from Dr. Pierre François made a very awkward exam bearable, with every step explained before it happened.
+
+Review 10 for Dr. Pierre François, Gastroenterology, Lyon
+Rating: 9/10
+Clinic visited: Clinique de la Part-Dieu
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner.
+
+Review 11 for Dr. Pierre François, Gastroenterology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Pierre François, Gastroenterology, Lyon: 7.73/10 from 11 reviews

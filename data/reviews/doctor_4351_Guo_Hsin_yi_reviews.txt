@@ -1,0 +1,49 @@
+Doctor: Dr. Guo Hsin-yi
+Doctor ID: 4351
+Specialization: Radiology
+Gender: Male
+Years of experience: 14
+City: Taichung, Taiwan
+Clinics: Xitun Guangming Medical Clinic (clinic ID 560); Nantun Yongkang Health Clinic (clinic ID 562)
+
+Review 1 for Dr. Guo Hsin-yi, Radiology, Taichung
+Rating: 7/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 2 for Dr. Guo Hsin-yi, Radiology, Taichung
+Rating: 8/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: When my scan showed something that needed a second look, Dr. Guo Hsin-yi arranged the follow-up the same day.
+
+Review 3 for Dr. Guo Hsin-yi, Radiology, Taichung
+Rating: 7/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 4 for Dr. Guo Hsin-yi, Radiology, Taichung
+Rating: 10/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: Fast, clean and professional; the bone density scan with Dr. Guo Hsin-yi was painless and the results were explained clearly. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. Guo Hsin-yi, Radiology, Taichung
+Rating: 7/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Guo Hsin-yi, Radiology, Taichung
+Rating: 7/10
+Clinic visited: Nantun Yongkang Health Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 7 for Dr. Guo Hsin-yi, Radiology, Taichung
+Rating: 8/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: My ultrasound was unhurried, and Dr. Guo Hsin-yi took time to show me the images and explain what each measurement meant. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 8 for Dr. Guo Hsin-yi, Radiology, Taichung
+Rating: 9/10
+Clinic visited: Xitun Guangming Medical Clinic
+Description: Images from Xitun Guangming Medical Clinic were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. At my visit, Dr. Guo Hsin-yi took notes on my medication list, checked for interactions and explained the changes simply.
+
+Overall rating for Dr. Guo Hsin-yi, Radiology, Taichung: 7.88/10 from 8 reviews

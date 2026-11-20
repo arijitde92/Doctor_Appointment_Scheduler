@@ -1,0 +1,64 @@
+Doctor: Dr. Rachel Thompson
+Doctor ID: 191
+Specialization: Radiology
+Gender: Female
+Years of experience: 20
+City: New York, USA
+Clinics: Midtown Family Medical Group (clinic ID 26)
+
+Review 1 for Dr. Rachel Thompson, Radiology, New York
+Rating: 3/10
+Clinic visited: Midtown Family Medical Group
+Description: The technologist gave almost no instructions before my MRI, and I had to repeat part of the scan because I moved. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 2 for Dr. Rachel Thompson, Radiology, New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Rachel Thompson, Radiology, New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Rachel Thompson, Radiology, New York
+Rating: 5/10
+Clinic visited: Midtown Family Medical Group
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Good bedside manner from Dr. Rachel Thompson, but the parking near Midtown Family Medical Group is limited and I had to circle for fifteen minutes.
+
+Review 5 for Dr. Rachel Thompson, Radiology, New York
+Rating: 4/10
+Clinic visited: Midtown Family Medical Group
+Description: I waited two weeks for a report from Dr. Rachel Thompson and had to call three times before anyone could tell me the result. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 6 for Dr. Rachel Thompson, Radiology, New York
+Rating: 4/10
+Clinic visited: Midtown Family Medical Group
+Description: The staff seemed rushed and impatient with an elderly patient who needed help changing. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 7 for Dr. Rachel Thompson, Radiology, New York
+Rating: 4/10
+Clinic visited: Midtown Family Medical Group
+Description: I was charged for a second scan that I was told was a free repeat after an image problem.
+
+Review 8 for Dr. Rachel Thompson, Radiology, New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 9 for Dr. Rachel Thompson, Radiology, New York
+Rating: 5/10
+Clinic visited: Midtown Family Medical Group
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 10 for Dr. Rachel Thompson, Radiology, New York
+Rating: 4/10
+Clinic visited: Midtown Family Medical Group
+Description: Dr. Rachel Thompson was never available to discuss my findings, and the report left me more confused than before.
+
+Review 11 for Dr. Rachel Thompson, Radiology, New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: Dr. Rachel Thompson was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Rachel Thompson answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Rachel Thompson, Radiology, New York: 4.82/10 from 11 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Gloria Lopez
+Doctor ID: 4807
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 24
+City: Davao City, Philippines
+Clinics: Araw Family Clinic (clinic ID 621)
+
+Review 1 for Dr. Gloria Lopez, Psychiatry, Davao City
+Rating: 7/10
+Clinic visited: Araw Family Clinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 2 for Dr. Gloria Lopez, Psychiatry, Davao City
+Rating: 8/10
+Clinic visited: Araw Family Clinic
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 3 for Dr. Gloria Lopez, Psychiatry, Davao City
+Rating: 10/10
+Clinic visited: Araw Family Clinic
+Description: Never once did Dr. Gloria Lopez make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 4 for Dr. Gloria Lopez, Psychiatry, Davao City
+Rating: 7/10
+Clinic visited: Araw Family Clinic
+Description: Dr. Gloria Lopez is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 5 for Dr. Gloria Lopez, Psychiatry, Davao City
+Rating: 6/10
+Clinic visited: Araw Family Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 6 for Dr. Gloria Lopez, Psychiatry, Davao City
+Rating: 8/10
+Clinic visited: Araw Family Clinic
+Description: I felt heard by Dr. Gloria Lopez during a very hard time, and nobody rushed me out of the room.
+
+Review 7 for Dr. Gloria Lopez, Psychiatry, Davao City
+Rating: 6/10
+Clinic visited: Araw Family Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 8 for Dr. Gloria Lopez, Psychiatry, Davao City
+Rating: 5/10
+Clinic visited: Araw Family Clinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. Gloria Lopez, Psychiatry, Davao City
+Rating: 6/10
+Clinic visited: Araw Family Clinic
+Description: Good listener, yet the refill process at Araw Family Clinic is slow and requires several phone calls. Dr. Gloria Lopez was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Gloria Lopez, Psychiatry, Davao City
+Rating: 7/10
+Clinic visited: Araw Family Clinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Overall rating for Dr. Gloria Lopez, Psychiatry, Davao City: 7.00/10 from 10 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Karim Morel
+Doctor ID: 1209
+Specialization: Pathology
+Gender: Male
+Years of experience: 6
+City: Lyon, France
+Clinics: Clinique de la Part-Dieu (clinic ID 157)
+
+Review 1 for Dr. Karim Morel, Pathology, Lyon
+Rating: 9/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Dr. Karim Morel took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 2 for Dr. Karim Morel, Pathology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Karim Morel, Pathology, Lyon
+Rating: 6/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Karim Morel, Pathology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The blood draw was painless, but the waiting area at Clinique de la Part-Dieu was crowded in the early morning.
+
+Review 5 for Dr. Karim Morel, Pathology, Lyon
+Rating: 7/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clinique de la Part-Dieu. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 6 for Dr. Karim Morel, Pathology, Lyon
+Rating: 9/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. A translator was arranged for my mother without us asking twice, and Dr. Karim Morel spoke directly to her throughout.
+
+Review 7 for Dr. Karim Morel, Pathology, Lyon
+Rating: 6/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Karim Morel, Pathology, Lyon
+Rating: 8/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Fast turnaround at Clinique de la Part-Dieu on my thyroid panel, with results in my online account by the next morning. Dr. Karim Morel looked me in the eye, listened to the whole story and only then started typing. I have no hesitation sending my own relatives here.
+
+Review 9 for Dr. Karim Morel, Pathology, Lyon
+Rating: 9/10
+Clinic visited: Clinique de la Part-Dieu
+Description: I appreciated that he offered more than one option and let me choose what suited my life. The lab under Dr. Karim Morel was clean, organized and never overbooked, and results arrived exactly when promised.
+
+Review 10 for Dr. Karim Morel, Pathology, Lyon
+Rating: 9/10
+Clinic visited: Clinique de la Part-Dieu
+Description: Everything was explained in plain English by Dr. Karim Morel, and nothing was left to guess. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Karim Morel, Pathology, Lyon: 7.70/10 from 10 reviews

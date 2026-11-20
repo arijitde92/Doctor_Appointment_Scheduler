@@ -1,0 +1,64 @@
+Doctor: Dr. Márcia Barbosa
+Doctor ID: 551
+Specialization: Cardiology
+Gender: Female
+Years of experience: 17
+City: Belo Horizonte, Brazil
+Clinics: Clínica Savassi Saúde (clinic ID 75); Policlínica Lourdes (clinic ID 77)
+
+Review 1 for Dr. Márcia Barbosa, Cardiology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Savassi Saúde
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Márcia Barbosa, Cardiology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Policlínica Lourdes
+Description: Dr. Márcia Barbosa adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 3 for Dr. Márcia Barbosa, Cardiology, Belo Horizonte
+Rating: 5/10
+Clinic visited: Clínica Savassi Saúde
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 4 for Dr. Márcia Barbosa, Cardiology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Policlínica Lourdes
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. Márcia Barbosa, Cardiology, Belo Horizonte
+Rating: 6/10
+Clinic visited: Clínica Savassi Saúde
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Márcia Barbosa, Cardiology, Belo Horizonte
+Rating: 6/10
+Clinic visited: Policlínica Lourdes
+Description: Quick appointment and a fair price in Belo Horizonte, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Márcia Barbosa, Cardiology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Clínica Savassi Saúde
+Description: Helpful with my cholesterol, Dr. Márcia Barbosa still gave dietary advice that was a little generic. Dr. Márcia Barbosa was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 8 for Dr. Márcia Barbosa, Cardiology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Policlínica Lourdes
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 9 for Dr. Márcia Barbosa, Cardiology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Policlínica Lourdes
+Description: Great care in the visit itself, but the billing for the tests at Policlínica Lourdes was confusing. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 10 for Dr. Márcia Barbosa, Cardiology, Belo Horizonte
+Rating: 7/10
+Clinic visited: Policlínica Lourdes
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 11 for Dr. Márcia Barbosa, Cardiology, Belo Horizonte
+Rating: 8/10
+Clinic visited: Clínica Savassi Saúde
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Overall rating for Dr. Márcia Barbosa, Cardiology, Belo Horizonte: 6.82/10 from 11 reviews

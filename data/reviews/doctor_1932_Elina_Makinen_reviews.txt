@@ -1,0 +1,49 @@
+Doctor: Dr. Elina Mäkinen
+Doctor ID: 1932
+Specialization: Neurology
+Gender: Female
+Years of experience: 26
+City: Turku, Finland
+Clinics: Terveysasema Yliopistonkatu (clinic ID 251); Terveyskeskus Länsikeskus Turku (clinic ID 254)
+
+Review 1 for Dr. Elina Mäkinen, Neurology, Turku
+Rating: 4/10
+Clinic visited: Terveysasema Yliopistonkatu
+Description: The bill included tests that I had never been told about, and nobody could explain them. My questions were answered by Dr. Elina Mäkinen with short, vague replies, and I left without a clear plan.
+
+Review 2 for Dr. Elina Mäkinen, Neurology, Turku
+Rating: 6/10
+Clinic visited: Terveysasema Yliopistonkatu
+Description: Quick appointment and a fair price in Turku, but the staff seemed overwhelmed and a bit curt on the phone. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Elina Mäkinen, Neurology, Turku
+Rating: 7/10
+Clinic visited: Terveyskeskus Länsikeskus Turku
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Elina Mäkinen, Neurology, Turku
+Rating: 5/10
+Clinic visited: Terveysasema Yliopistonkatu
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Elina Mäkinen, Neurology, Turku
+Rating: 6/10
+Clinic visited: Terveyskeskus Länsikeskus Turku
+Description: Dr. Elina Mäkinen explained my results well, although the visit felt short for such a complex condition. The doctor was kind, though the clinic's evening hours are very limited for working people. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Elina Mäkinen, Neurology, Turku
+Rating: 7/10
+Clinic visited: Terveysasema Yliopistonkatu
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Elina Mäkinen, Neurology, Turku
+Rating: 3/10
+Clinic visited: Terveysasema Yliopistonkatu
+Description: I was told my MRI was 'fine' with no further explanation, and I left still not knowing what was causing my symptoms.
+
+Review 8 for Dr. Elina Mäkinen, Neurology, Turku
+Rating: 6/10
+Clinic visited: Terveysasema Yliopistonkatu
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Booking was easy online, but the confirmation email contained the wrong address for Terveysasema Yliopistonkatu.
+
+Overall rating for Dr. Elina Mäkinen, Neurology, Turku: 5.50/10 from 8 reviews

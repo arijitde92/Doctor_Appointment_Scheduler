@@ -1,0 +1,54 @@
+Doctor: Dr. Giuseppe Martin
+Doctor ID: 1713
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 2
+City: Bern, Switzerland
+Clinics: Medizinisches Zentrum Länggasse (clinic ID 223)
+
+Review 1 for Dr. Giuseppe Martin, Pulmonology, Bern
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Bern. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 2 for Dr. Giuseppe Martin, Pulmonology, Bern
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Helpful and honest about my prognosis, Dr. Giuseppe Martin could still have given me more written material to take home. Good bedside manner from Dr. Giuseppe Martin, but the parking near Medizinisches Zentrum Länggasse is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Giuseppe Martin, Pulmonology, Bern
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Giuseppe Martin, Pulmonology, Bern
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: The practice in Bern is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. My oxygen levels are monitored carefully at Medizinisches Zentrum Länggasse, and the home equipment was arranged without any hassle.
+
+Review 5 for Dr. Giuseppe Martin, Pulmonology, Bern
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: I liked the advice I got from Dr. Giuseppe Martin, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Giuseppe Martin, Pulmonology, Bern
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: The spirometry test was explained step by step, and Dr. Giuseppe Martin put the results in context with a clear picture of my lung function. Everything was explained in plain English by Dr. Giuseppe Martin, and nothing was left to guess.
+
+Review 7 for Dr. Giuseppe Martin, Pulmonology, Bern
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Pleasant manner and careful lung exam, though the waiting time at Medizinisches Zentrum Länggasse regularly exceeded forty minutes.
+
+Review 8 for Dr. Giuseppe Martin, Pulmonology, Bern
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Booking was easy online, but the confirmation email contained the wrong address for Medizinisches Zentrum Länggasse. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 9 for Dr. Giuseppe Martin, Pulmonology, Bern
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Overall rating for Dr. Giuseppe Martin, Pulmonology, Bern: 7.00/10 from 9 reviews

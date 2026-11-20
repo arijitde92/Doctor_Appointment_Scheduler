@@ -1,0 +1,59 @@
+Doctor: Dr. Amna Hashmi
+Doctor ID: 6323
+Specialization: Radiology
+Gender: Female
+Years of experience: 30
+City: Islamabad, Pakistan
+Clinics: I-8 Markaz Health Practice (clinic ID 818)
+
+Review 1 for Dr. Amna Hashmi, Radiology, Islamabad
+Rating: 6/10
+Clinic visited: I-8 Markaz Health Practice
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 2 for Dr. Amna Hashmi, Radiology, Islamabad
+Rating: 7/10
+Clinic visited: I-8 Markaz Health Practice
+Description: Dr. Amna Hashmi was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Amna Hashmi, Radiology, Islamabad
+Rating: 6/10
+Clinic visited: I-8 Markaz Health Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Amna Hashmi, Radiology, Islamabad
+Rating: 5/10
+Clinic visited: I-8 Markaz Health Practice
+Description: The report from Dr. Amna Hashmi was thorough, though full of technical terms that needed my regular doctor to translate. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Amna Hashmi, Radiology, Islamabad
+Rating: 6/10
+Clinic visited: I-8 Markaz Health Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 6 for Dr. Amna Hashmi, Radiology, Islamabad
+Rating: 6/10
+Clinic visited: I-8 Markaz Health Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 7 for Dr. Amna Hashmi, Radiology, Islamabad
+Rating: 9/10
+Clinic visited: I-8 Markaz Health Practice
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 8 for Dr. Amna Hashmi, Radiology, Islamabad
+Rating: 5/10
+Clinic visited: I-8 Markaz Health Practice
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 9 for Dr. Amna Hashmi, Radiology, Islamabad
+Rating: 6/10
+Clinic visited: I-8 Markaz Health Practice
+Description: Dr. Amna Hashmi answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. Worth trying, but I would not call it the best option in the area.
+
+Review 10 for Dr. Amna Hashmi, Radiology, Islamabad
+Rating: 4/10
+Clinic visited: I-8 Markaz Health Practice
+Description: I waited two weeks for a report from Dr. Amna Hashmi and had to call three times before anyone could tell me the result. I felt dismissed by Dr. Amna Hashmi when I brought up a second concern, and was told to book another appointment for it. I left disappointed and will take my business to another clinic.
+
+Overall rating for Dr. Amna Hashmi, Radiology, Islamabad: 6.00/10 from 10 reviews

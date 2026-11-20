@@ -1,0 +1,49 @@
+Doctor: Dr. Cecilia Silva
+Doctor ID: 842
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 4
+City: Rosario, Argentina
+Clinics: Clínica Oroño Salud (clinic ID 110)
+
+Review 1 for Dr. Cecilia Silva, Gastroenterology, Rosario
+Rating: 6/10
+Clinic visited: Clínica Oroño Salud
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 2 for Dr. Cecilia Silva, Gastroenterology, Rosario
+Rating: 7/10
+Clinic visited: Clínica Oroño Salud
+Description: Dr. Cecilia Silva was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Skilled with the scope, but communication about the fasting time before the procedure was unclear. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Cecilia Silva, Gastroenterology, Rosario
+Rating: 6/10
+Clinic visited: Clínica Oroño Salud
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Cecilia Silva, Gastroenterology, Rosario
+Rating: 5/10
+Clinic visited: Clínica Oroño Salud
+Description: Dr. Cecilia Silva is thorough, but I waited nearly two months to get the first available slot.
+
+Review 5 for Dr. Cecilia Silva, Gastroenterology, Rosario
+Rating: 7/10
+Clinic visited: Clínica Oroño Salud
+Description: Knowledgeable about my reflux, Dr. Cecilia Silva still gave diet advice that felt generic and not tailored to my habits.
+
+Review 6 for Dr. Cecilia Silva, Gastroenterology, Rosario
+Rating: 7/10
+Clinic visited: Clínica Oroño Salud
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Cecilia Silva, Gastroenterology, Rosario
+Rating: 7/10
+Clinic visited: Clínica Oroño Salud
+Description: Quick appointment and a fair price in Rosario, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 8 for Dr. Cecilia Silva, Gastroenterology, Rosario
+Rating: 4/10
+Clinic visited: Clínica Oroño Salud
+Description: Dr. Cecilia Silva spent very little time explaining the biopsy findings and I left worried and confused. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Overall rating for Dr. Cecilia Silva, Gastroenterology, Rosario: 6.12/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Michael Jackson
+Doctor ID: 6548
+Specialization: Neurology
+Gender: Male
+Years of experience: 7
+City: Perth, Australia
+Clinics: Boronia Health Centre (clinic ID 847)
+
+Review 1 for Dr. Michael Jackson, Neurology, Perth
+Rating: 10/10
+Clinic visited: Boronia Health Centre
+Description: Getting a same-month appointment in Perth for my sudden headaches was a real relief, and the work-up was prompt. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 2 for Dr. Michael Jackson, Neurology, Perth
+Rating: 9/10
+Clinic visited: Boronia Health Centre
+Description: Clear and honest talk with Dr. Michael Jackson about Parkinson's symptoms, with a realistic treatment plan and a referral to a physiotherapist.
+
+Review 3 for Dr. Michael Jackson, Neurology, Perth
+Rating: 9/10
+Clinic visited: Boronia Health Centre
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 4 for Dr. Michael Jackson, Neurology, Perth
+Rating: 9/10
+Clinic visited: Boronia Health Centre
+Description: I always leave Dr. Michael Jackson's office with a short written summary of changes, which helps my family keep up.
+
+Review 5 for Dr. Michael Jackson, Neurology, Perth
+Rating: 8/10
+Clinic visited: Boronia Health Centre
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Michael Jackson, Neurology, Perth
+Rating: 10/10
+Clinic visited: Boronia Health Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. After years of migraines, Dr. Michael Jackson built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer.
+
+Review 7 for Dr. Michael Jackson, Neurology, Perth
+Rating: 9/10
+Clinic visited: Boronia Health Centre
+Description: Living with multiple sclerosis feels less frightening because Dr. Michael Jackson explains and discusses every change in my plan. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 8 for Dr. Michael Jackson, Neurology, Perth
+Rating: 9/10
+Clinic visited: Boronia Health Centre
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Overall rating for Dr. Michael Jackson, Neurology, Perth: 9.12/10 from 8 reviews

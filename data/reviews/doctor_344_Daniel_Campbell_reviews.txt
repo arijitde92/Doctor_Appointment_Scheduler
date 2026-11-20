@@ -1,0 +1,59 @@
+Doctor: Dr. Daniel Campbell
+Doctor ID: 344
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 3
+City: Toronto, Canada
+Clinics: Etobicoke Care Clinic (clinic ID 48)
+
+Review 1 for Dr. Daniel Campbell, Gastroenterology, Toronto
+Rating: 9/10
+Clinic visited: Etobicoke Care Clinic
+Description: Prescriptions from Dr. Daniel Campbell were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Dr. Daniel Campbell was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. I have no hesitation sending my own relatives here.
+
+Review 2 for Dr. Daniel Campbell, Gastroenterology, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Daniel Campbell, Gastroenterology, Toronto
+Rating: 10/10
+Clinic visited: Etobicoke Care Clinic
+Description: Dr. Daniel Campbell drew a quick sketch to explain what was going on, which helped me remember it afterwards. I was nervous about my screening, but the team at Etobicoke Care Clinic made me feel at ease, and I was home within hours. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Daniel Campbell, Gastroenterology, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: I was called in within five minutes of my appointment time at Etobicoke Care Clinic, which is rare and much appreciated.
+
+Review 5 for Dr. Daniel Campbell, Gastroenterology, Toronto
+Rating: 10/10
+Clinic visited: Etobicoke Care Clinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 6 for Dr. Daniel Campbell, Gastroenterology, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: Dr. Daniel Campbell looked me in the eye, listened to the whole story and only then started typing. Helpful dietitian referral from Dr. Daniel Campbell and written guidance for living with ulcerative colitis. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Daniel Campbell, Gastroenterology, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Daniel Campbell, Gastroenterology, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed.
+
+Review 9 for Dr. Daniel Campbell, Gastroenterology, Toronto
+Rating: 8/10
+Clinic visited: Etobicoke Care Clinic
+Description: I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 10 for Dr. Daniel Campbell, Gastroenterology, Toronto
+Rating: 7/10
+Clinic visited: Etobicoke Care Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Dr. Daniel Campbell is thorough, but I waited nearly two months to get the first available slot.
+
+Overall rating for Dr. Daniel Campbell, Gastroenterology, Toronto: 8.40/10 from 10 reviews

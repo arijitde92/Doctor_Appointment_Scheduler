@@ -1,0 +1,49 @@
+Doctor: Dr. Kobayashi Daiki
+Doctor ID: 4121
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 6
+City: Yokohama, Japan
+Clinics: Yokohama Station Kaze Medical Clinic (clinic ID 531); Kannai Sumire Family Clinic (clinic ID 532)
+
+Review 1 for Dr. Kobayashi Daiki, Psychiatry, Yokohama
+Rating: 8/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. I asked about the cost before the visit and received an honest estimate that matched the final bill. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Kobayashi Daiki, Psychiatry, Yokohama
+Rating: 10/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 3 for Dr. Kobayashi Daiki, Psychiatry, Yokohama
+Rating: 10/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I can ring Yokohama Station Kaze Medical Clinic with an urgent question and receive a thoughtful reply the same day.
+
+Review 4 for Dr. Kobayashi Daiki, Psychiatry, Yokohama
+Rating: 8/10
+Clinic visited: Kannai Sumire Family Clinic
+Description: Excellent at explaining how therapy and medication work together, and Dr. Kobayashi Daiki coordinated with my counselor. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Kobayashi Daiki, Psychiatry, Yokohama
+Rating: 8/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Prescriptions from Dr. Kobayashi Daiki were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Telehealth follow-ups at Yokohama Station Kaze Medical Clinic are punctual and calm, and refills are dealt with quickly.
+
+Review 6 for Dr. Kobayashi Daiki, Psychiatry, Yokohama
+Rating: 7/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Quick appointment and a fair price in Yokohama, but the staff seemed overwhelmed and a bit curt on the phone. Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 7 for Dr. Kobayashi Daiki, Psychiatry, Yokohama
+Rating: 8/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: My depression finally has a treatment plan from Dr. Kobayashi Daiki that works, with regular check-ins and careful dose changes. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Kobayashi Daiki, Psychiatry, Yokohama
+Rating: 9/10
+Clinic visited: Yokohama Station Kaze Medical Clinic
+Description: Dr. Kobayashi Daiki took a full history before suggesting any medication and explained the likely side effects honestly. A translator was arranged for my mother without us asking twice, and Dr. Kobayashi Daiki spoke directly to her throughout.
+
+Overall rating for Dr. Kobayashi Daiki, Psychiatry, Yokohama: 8.50/10 from 8 reviews

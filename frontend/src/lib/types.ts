@@ -68,8 +68,11 @@ export interface Clinic {
   name: string;
   address: string;
   city?: string;
+  country?: string;
   pinCode?: string;
   fullAddress?: string;
+  /** IANA time zone; slot times are local to the clinic. */
+  timeZone?: string;
 }
 
 export interface Route {
@@ -113,6 +116,8 @@ export interface BookingDetails {
   address?: string;
   date?: string;
   time?: string;
+  /** Clinic's IANA time zone; date and time are local to it. */
+  timeZone?: string;
   /** CareConnect appointment id (links the chat booking to the stored appointment). */
   reference?: string;
 }
@@ -168,6 +173,8 @@ export interface AppointmentDraft {
   slotIndex: number; // 0-6 -> SLOT_TIMES
   startTime: string;
   endTime: string;
+  /** Clinic's IANA time zone (null for appointments booked before zones were stored). */
+  timeZone?: string | null;
 }
 
 export interface Appointment extends AppointmentDraft {

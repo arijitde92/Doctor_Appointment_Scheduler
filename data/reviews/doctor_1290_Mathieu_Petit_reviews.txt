@@ -1,0 +1,64 @@
+Doctor: Dr. Mathieu Petit
+Doctor ID: 1290
+Specialization: General
+Gender: Male
+Years of experience: 10
+City: Paris, France
+Clinics: Centre Médical Place d'Italie (clinic ID 168)
+
+Review 1 for Dr. Mathieu Petit, General, Paris
+Rating: 6/10
+Clinic visited: Centre Médical Place d'Italie
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. Good bedside manner from Dr. Mathieu Petit, but the parking near Centre Médical Place d'Italie is limited and I had to circle for fifteen minutes. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Mathieu Petit, General, Paris
+Rating: 7/10
+Clinic visited: Centre Médical Place d'Italie
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Mathieu Petit, General, Paris
+Rating: 7/10
+Clinic visited: Centre Médical Place d'Italie
+Description: The treatment plan from Dr. Mathieu Petit made sense, but I wished it had been written down for me to take away. Dr. Mathieu Petit is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Mathieu Petit, General, Paris
+Rating: 9/10
+Clinic visited: Centre Médical Place d'Italie
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 5 for Dr. Mathieu Petit, General, Paris
+Rating: 8/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. The nurse was friendly and efficient, and the whole visit with Dr. Mathieu Petit felt well organized from start to finish.
+
+Review 6 for Dr. Mathieu Petit, General, Paris
+Rating: 6/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 7 for Dr. Mathieu Petit, General, Paris
+Rating: 8/10
+Clinic visited: Centre Médical Place d'Italie
+Description: My test results arrived in the portal within two days, together with a short note that made sense. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Mathieu Petit, General, Paris
+Rating: 5/10
+Clinic visited: Centre Médical Place d'Italie
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 9 for Dr. Mathieu Petit, General, Paris
+Rating: 9/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Prescriptions from Dr. Mathieu Petit were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 10 for Dr. Mathieu Petit, General, Paris
+Rating: 6/10
+Clinic visited: Centre Médical Place d'Italie
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Centre Médical Place d'Italie were inconsistent.
+
+Review 11 for Dr. Mathieu Petit, General, Paris
+Rating: 8/10
+Clinic visited: Centre Médical Place d'Italie
+Description: I always hear back within a day when I leave a question with the nurse at Centre Médical Place d'Italie, and Dr. Mathieu Petit follows up on lab results personally. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Overall rating for Dr. Mathieu Petit, General, Paris: 7.18/10 from 11 reviews

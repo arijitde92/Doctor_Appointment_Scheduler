@@ -1,0 +1,64 @@
+Doctor: Dr. Zhou Qiang
+Doctor ID: 3942
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 24
+City: Shanghai, China
+Clinics: Xianxia Hongkang Polyclinic (clinic ID 508)
+
+Review 1 for Dr. Zhou Qiang, Gastroenterology, Shanghai
+Rating: 5/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Zhou Qiang, Gastroenterology, Shanghai
+Rating: 7/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Zhou Qiang, Gastroenterology, Shanghai
+Rating: 5/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 4 for Dr. Zhou Qiang, Gastroenterology, Shanghai
+Rating: 8/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: I was nervous about my screening, but the team at Xianxia Hongkang Polyclinic made me feel at ease, and I was home within hours. At my visit, Dr. Zhou Qiang took notes on my medication list, checked for interactions and explained the changes simply. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Zhou Qiang, Gastroenterology, Shanghai
+Rating: 8/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: I get regular check-ups for my Crohn's disease, and Dr. Zhou Qiang adjusts my treatment carefully and always explains why. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Zhou Qiang, Gastroenterology, Shanghai
+Rating: 9/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Dr. Zhou Qiang took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards.
+
+Review 7 for Dr. Zhou Qiang, Gastroenterology, Shanghai
+Rating: 5/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Dr. Zhou Qiang is thorough, but I waited nearly two months to get the first available slot.
+
+Review 8 for Dr. Zhou Qiang, Gastroenterology, Shanghai
+Rating: 6/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Zhou Qiang, Gastroenterology, Shanghai
+Rating: 7/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 10 for Dr. Zhou Qiang, Gastroenterology, Shanghai
+Rating: 7/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Knowledgeable about my reflux, Dr. Zhou Qiang still gave diet advice that felt generic and not tailored to my habits. Decent care overall, and I will probably return unless I find something closer.
+
+Review 11 for Dr. Zhou Qiang, Gastroenterology, Shanghai
+Rating: 9/10
+Clinic visited: Xianxia Hongkang Polyclinic
+Description: Clear explanation from Dr. Zhou Qiang of fatty liver and exactly which lifestyle changes would make a measurable difference. The practice in Shanghai is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Overall rating for Dr. Zhou Qiang, Gastroenterology, Shanghai: 6.91/10 from 11 reviews

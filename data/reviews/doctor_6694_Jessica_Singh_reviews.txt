@@ -1,0 +1,49 @@
+Doctor: Dr. Jessica Singh
+Doctor ID: 6694
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 11
+City: Hamilton, New Zealand
+Clinics: Ponga Family Clinic (clinic ID 868)
+
+Review 1 for Dr. Jessica Singh, Pediatrics, Hamilton
+Rating: 9/10
+Clinic visited: Ponga Family Clinic
+Description: Vaccination visits with Dr. Jessica Singh are painless and well explained, and my questions about the schedule were answered without any pressure. The waiting room at Ponga Family Clinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 2 for Dr. Jessica Singh, Pediatrics, Hamilton
+Rating: 7/10
+Clinic visited: Ponga Family Clinic
+Description: Dr. Jessica Singh is thorough with exams, but the after-hours phone line at Ponga Family Clinic is hard to reach.
+
+Review 3 for Dr. Jessica Singh, Pediatrics, Hamilton
+Rating: 7/10
+Clinic visited: Ponga Family Clinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 4 for Dr. Jessica Singh, Pediatrics, Hamilton
+Rating: 9/10
+Clinic visited: Ponga Family Clinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. The growth chart review was detailed, and I appreciated that Dr. Jessica Singh talked to my child as well as to me.
+
+Review 5 for Dr. Jessica Singh, Pediatrics, Hamilton
+Rating: 9/10
+Clinic visited: Ponga Family Clinic
+Description: The waiting room in Hamilton has a play corner and separate seating for sick children, which I really valued. I came away understanding my condition better than I have in years of previous appointments. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Jessica Singh, Pediatrics, Hamilton
+Rating: 9/10
+Clinic visited: Ponga Family Clinic
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 7 for Dr. Jessica Singh, Pediatrics, Hamilton
+Rating: 8/10
+Clinic visited: Ponga Family Clinic
+Description: The school physical at Ponga Family Clinic was quick, thorough and the forms were completed on the spot.
+
+Review 8 for Dr. Jessica Singh, Pediatrics, Hamilton
+Rating: 8/10
+Clinic visited: Ponga Family Clinic
+Description: Everything was explained in plain English by Dr. Jessica Singh, and nothing was left to guess. We got a same-day appointment for a high fever, and the care at Ponga Family Clinic was kind and efficient. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Jessica Singh, Pediatrics, Hamilton: 8.25/10 from 8 reviews

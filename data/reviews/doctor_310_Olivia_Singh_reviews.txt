@@ -1,0 +1,64 @@
+Doctor: Dr. Olivia Singh
+Doctor ID: 310
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 27
+City: Montreal, Canada
+Clinics: Clinique Santé Côte-des-Neiges (clinic ID 42); Polyclinique du Parc (clinic ID 43)
+
+Review 1 for Dr. Olivia Singh, Gastroenterology, Montreal
+Rating: 7/10
+Clinic visited: Polyclinique du Parc
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Olivia Singh, Gastroenterology, Montreal
+Rating: 8/10
+Clinic visited: Polyclinique du Parc
+Description: Helpful dietitian referral from Dr. Olivia Singh and written guidance for living with ulcerative colitis. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 3 for Dr. Olivia Singh, Gastroenterology, Montreal
+Rating: 6/10
+Clinic visited: Polyclinique du Parc
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Olivia Singh, Gastroenterology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Sensitive questions were handled by Dr. Olivia Singh with discretion and without a hint of judgment. I received a full summary letter from Clinique Santé Côte-des-Neiges after my endoscopy, which my regular doctor found very useful.
+
+Review 5 for Dr. Olivia Singh, Gastroenterology, Montreal
+Rating: 8/10
+Clinic visited: Polyclinique du Parc
+Description: I was nervous about my screening, but the team at Polyclinique du Parc made me feel at ease, and I was home within hours. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Olivia Singh, Gastroenterology, Montreal
+Rating: 9/10
+Clinic visited: Polyclinique du Parc
+Description: Getting to Polyclinique du Parc in Montreal was simple, and the day-procedure unit was calm and efficient. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 7 for Dr. Olivia Singh, Gastroenterology, Montreal
+Rating: 8/10
+Clinic visited: Polyclinique du Parc
+Description: Clear explanation from Dr. Olivia Singh of fatty liver and exactly which lifestyle changes would make a measurable difference.
+
+Review 8 for Dr. Olivia Singh, Gastroenterology, Montreal
+Rating: 10/10
+Clinic visited: Polyclinique du Parc
+Description: Dr. Olivia Singh took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards.
+
+Review 9 for Dr. Olivia Singh, Gastroenterology, Montreal
+Rating: 7/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Knowledgeable about my reflux, Dr. Olivia Singh still gave diet advice that felt generic and not tailored to my habits. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 10 for Dr. Olivia Singh, Gastroenterology, Montreal
+Rating: 9/10
+Clinic visited: Polyclinique du Parc
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Review 11 for Dr. Olivia Singh, Gastroenterology, Montreal
+Rating: 5/10
+Clinic visited: Polyclinique du Parc
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. The treatment plan from Dr. Olivia Singh made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Olivia Singh, Gastroenterology, Montreal: 7.73/10 from 11 reviews

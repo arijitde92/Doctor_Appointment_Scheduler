@@ -1,0 +1,54 @@
+Doctor: Dr. Rachel Robinson
+Doctor ID: 6531
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 26
+City: Perth, Australia
+Clinics: Jacaranda Family Practice (clinic ID 845)
+
+Review 1 for Dr. Rachel Robinson, Gastroenterology, Perth
+Rating: 6/10
+Clinic visited: Jacaranda Family Practice
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 2 for Dr. Rachel Robinson, Gastroenterology, Perth
+Rating: 6/10
+Clinic visited: Jacaranda Family Practice
+Description: I liked the advice I got from Dr. Rachel Robinson, but I would have liked more time to ask follow-up questions before the visit ended. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Rachel Robinson, Gastroenterology, Perth
+Rating: 6/10
+Clinic visited: Jacaranda Family Practice
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 4 for Dr. Rachel Robinson, Gastroenterology, Perth
+Rating: 5/10
+Clinic visited: Jacaranda Family Practice
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Rachel Robinson, Gastroenterology, Perth
+Rating: 5/10
+Clinic visited: Jacaranda Family Practice
+Description: Knowledgeable about my reflux, Dr. Rachel Robinson still gave diet advice that felt generic and not tailored to my habits.
+
+Review 6 for Dr. Rachel Robinson, Gastroenterology, Perth
+Rating: 7/10
+Clinic visited: Jacaranda Family Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Jacaranda Family Practice. Dr. Rachel Robinson is thorough, but I waited nearly two months to get the first available slot. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Rachel Robinson, Gastroenterology, Perth
+Rating: 6/10
+Clinic visited: Jacaranda Family Practice
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 8 for Dr. Rachel Robinson, Gastroenterology, Perth
+Rating: 6/10
+Clinic visited: Jacaranda Family Practice
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 9 for Dr. Rachel Robinson, Gastroenterology, Perth
+Rating: 6/10
+Clinic visited: Jacaranda Family Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Rachel Robinson, Gastroenterology, Perth: 5.89/10 from 9 reviews

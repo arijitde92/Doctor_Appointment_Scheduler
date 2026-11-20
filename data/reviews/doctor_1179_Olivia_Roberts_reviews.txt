@@ -1,0 +1,64 @@
+Doctor: Dr. Olivia Roberts
+Doctor ID: 1179
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 18
+City: Manchester, UK
+Clinics: Chorlton Green Health Practice (clinic ID 154)
+
+Review 1 for Dr. Olivia Roberts, Pediatrics, Manchester
+Rating: 7/10
+Clinic visited: Chorlton Green Health Practice
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 2 for Dr. Olivia Roberts, Pediatrics, Manchester
+Rating: 7/10
+Clinic visited: Chorlton Green Health Practice
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 3 for Dr. Olivia Roberts, Pediatrics, Manchester
+Rating: 6/10
+Clinic visited: Chorlton Green Health Practice
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Caring and gentle with my child, Dr. Olivia Roberts nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 4 for Dr. Olivia Roberts, Pediatrics, Manchester
+Rating: 7/10
+Clinic visited: Chorlton Green Health Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Chorlton Green Health Practice.
+
+Review 5 for Dr. Olivia Roberts, Pediatrics, Manchester
+Rating: 7/10
+Clinic visited: Chorlton Green Health Practice
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 6 for Dr. Olivia Roberts, Pediatrics, Manchester
+Rating: 5/10
+Clinic visited: Chorlton Green Health Practice
+Description: The treatment plan from Dr. Olivia Roberts made sense, but I wished it had been written down for me to take away. Dr. Olivia Roberts is thorough with exams, but the after-hours phone line at Chorlton Green Health Practice is hard to reach.
+
+Review 7 for Dr. Olivia Roberts, Pediatrics, Manchester
+Rating: 7/10
+Clinic visited: Chorlton Green Health Practice
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Olivia Roberts, Pediatrics, Manchester
+Rating: 8/10
+Clinic visited: Chorlton Green Health Practice
+Description: The practice in Manchester is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 9 for Dr. Olivia Roberts, Pediatrics, Manchester
+Rating: 8/10
+Clinic visited: Chorlton Green Health Practice
+Description: My teenager actually spoke up during the visit, and Dr. Olivia Roberts handled sensitive topics with respect.
+
+Review 10 for Dr. Olivia Roberts, Pediatrics, Manchester
+Rating: 6/10
+Clinic visited: Chorlton Green Health Practice
+Description: I liked the advice I got from Dr. Olivia Roberts, but I would have liked more time to ask follow-up questions before the visit ended. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 11 for Dr. Olivia Roberts, Pediatrics, Manchester
+Rating: 5/10
+Clinic visited: Chorlton Green Health Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Olivia Roberts, Pediatrics, Manchester: 6.64/10 from 11 reviews

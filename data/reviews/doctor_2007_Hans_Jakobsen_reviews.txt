@@ -1,0 +1,49 @@
+Doctor: Dr. Hans Jakobsen
+Doctor ID: 2007
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 6
+City: Oslo, Norway
+Clinics: Medisinsk Senter Thereses gate (clinic ID 262); Legesenteret Bogstad Park (clinic ID 264)
+
+Review 1 for Dr. Hans Jakobsen, Gastroenterology, Oslo
+Rating: 8/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: I was nervous about my screening, but the team at Medisinsk Senter Thereses gate made me feel at ease, and I was home within hours. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 2 for Dr. Hans Jakobsen, Gastroenterology, Oslo
+Rating: 9/10
+Clinic visited: Legesenteret Bogstad Park
+Description: A same-day slot was found for me at Legesenteret Bogstad Park when I called with a worrying symptom. The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Hans Jakobsen, Gastroenterology, Oslo
+Rating: 10/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 4 for Dr. Hans Jakobsen, Gastroenterology, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Quick appointment and a fair price in Oslo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 5 for Dr. Hans Jakobsen, Gastroenterology, Oslo
+Rating: 10/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: The receptionist at Medisinsk Senter Thereses gate remembered my name and had my forms ready, so check-in took less than a minute. After years of undiagnosed stomach pain, he identified celiac disease with the right blood tests and a careful plan.
+
+Review 6 for Dr. Hans Jakobsen, Gastroenterology, Oslo
+Rating: 10/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Getting to Medisinsk Senter Thereses gate in Oslo was simple, and the day-procedure unit was calm and efficient. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 7 for Dr. Hans Jakobsen, Gastroenterology, Oslo
+Rating: 9/10
+Clinic visited: Legesenteret Bogstad Park
+Description: A gentle, respectful manner from Dr. Hans Jakobsen made a very awkward exam bearable, with every step explained before it happened. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 8 for Dr. Hans Jakobsen, Gastroenterology, Oslo
+Rating: 9/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Overall rating for Dr. Hans Jakobsen, Gastroenterology, Oslo: 9.00/10 from 8 reviews

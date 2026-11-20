@@ -1,0 +1,49 @@
+Doctor: Dr. Anna Kristiansen
+Doctor ID: 2329
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 1
+City: Copenhagen, Denmark
+Clinics: Lægehuset Vesterbro Plus (clinic ID 305)
+
+Review 1 for Dr. Anna Kristiansen, Psychiatry, Copenhagen
+Rating: 9/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: At my visit, Dr. Anna Kristiansen took notes on my medication list, checked for interactions and explained the changes simply. She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 2 for Dr. Anna Kristiansen, Psychiatry, Copenhagen
+Rating: 10/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. I was called in within five minutes of my appointment time at Lægehuset Vesterbro Plus, which is rare and much appreciated.
+
+Review 3 for Dr. Anna Kristiansen, Psychiatry, Copenhagen
+Rating: 8/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 4 for Dr. Anna Kristiansen, Psychiatry, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: Dr. Anna Kristiansen is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 5 for Dr. Anna Kristiansen, Psychiatry, Copenhagen
+Rating: 8/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: Telehealth follow-ups at Lægehuset Vesterbro Plus are punctual and calm, and refills are dealt with quickly. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Anna Kristiansen, Psychiatry, Copenhagen
+Rating: 7/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Anna Kristiansen, Psychiatry, Copenhagen
+Rating: 8/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: I felt heard by Dr. Anna Kristiansen during a very hard time, and nobody rushed me out of the room. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Anna Kristiansen, Psychiatry, Copenhagen
+Rating: 5/10
+Clinic visited: Lægehuset Vesterbro Plus
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Overall rating for Dr. Anna Kristiansen, Psychiatry, Copenhagen: 7.75/10 from 8 reviews

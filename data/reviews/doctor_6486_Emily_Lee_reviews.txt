@@ -1,0 +1,54 @@
+Doctor: Dr. Emily Lee
+Doctor ID: 6486
+Specialization: Pathology
+Gender: Female
+Years of experience: 1
+City: Melbourne, Australia
+Clinics: Eucalypt Health Practice (clinic ID 840); Parkside Family Clinic (clinic ID 842)
+
+Review 1 for Dr. Emily Lee, Pathology, Melbourne
+Rating: 10/10
+Clinic visited: Parkside Family Clinic
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Melbourne. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Emily Lee, Pathology, Melbourne
+Rating: 9/10
+Clinic visited: Parkside Family Clinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Emily Lee, Pathology, Melbourne
+Rating: 10/10
+Clinic visited: Eucalypt Health Practice
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 4 for Dr. Emily Lee, Pathology, Melbourne
+Rating: 9/10
+Clinic visited: Parkside Family Clinic
+Description: Dr. Emily Lee took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Emily Lee, Pathology, Melbourne
+Rating: 10/10
+Clinic visited: Eucalypt Health Practice
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 6 for Dr. Emily Lee, Pathology, Melbourne
+Rating: 9/10
+Clinic visited: Parkside Family Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Emily Lee felt well organized from start to finish. Allergy panel results were explained in detail by Dr. Emily Lee, with a note on which results mattered clinically and which did not. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Emily Lee, Pathology, Melbourne
+Rating: 10/10
+Clinic visited: Eucalypt Health Practice
+Description: I was called in within five minutes of my appointment time at Eucalypt Health Practice, which is rare and much appreciated. Blood test results were clearly laid out with reference ranges and short notes in plain language. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 8 for Dr. Emily Lee, Pathology, Melbourne
+Rating: 9/10
+Clinic visited: Parkside Family Clinic
+Description: The lab at Parkside Family Clinic had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 9 for Dr. Emily Lee, Pathology, Melbourne
+Rating: 10/10
+Clinic visited: Eucalypt Health Practice
+Description: The staff and Dr. Emily Lee patiently went through my cholesterol and glucose numbers and explained what each meant for me. Dr. Emily Lee drew a quick sketch to explain what was going on, which helped me remember it afterwards. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Emily Lee, Pathology, Melbourne: 9.56/10 from 9 reviews

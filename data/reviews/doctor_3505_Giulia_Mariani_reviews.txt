@@ -1,0 +1,64 @@
+Doctor: Dr. Giulia Mariani
+Doctor ID: 3505
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 4
+City: Rome, Italy
+Clinics: Clinica Appia Nuova (clinic ID 454)
+
+Review 1 for Dr. Giulia Mariani, Pediatrics, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 2 for Dr. Giulia Mariani, Pediatrics, Rome
+Rating: 10/10
+Clinic visited: Clinica Appia Nuova
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 3 for Dr. Giulia Mariani, Pediatrics, Rome
+Rating: 5/10
+Clinic visited: Clinica Appia Nuova
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Giulia Mariani, Pediatrics, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Giulia Mariani, Pediatrics, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 6 for Dr. Giulia Mariani, Pediatrics, Rome
+Rating: 8/10
+Clinic visited: Clinica Appia Nuova
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 7 for Dr. Giulia Mariani, Pediatrics, Rome
+Rating: 10/10
+Clinic visited: Clinica Appia Nuova
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 8 for Dr. Giulia Mariani, Pediatrics, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: I liked the advice I got from Dr. Giulia Mariani, but I would have liked more time to ask follow-up questions before the visit ended. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Giulia Mariani, Pediatrics, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Booking was easy online, but the confirmation email contained the wrong address for Clinica Appia Nuova.
+
+Review 10 for Dr. Giulia Mariani, Pediatrics, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: Caring and gentle with my child, Dr. Giulia Mariani nonetheless ran forty minutes behind schedule at most appointments. Quick appointment and a fair price in Rome, but the staff seemed overwhelmed and a bit curt on the phone. I will give it one more visit before I decide whether to stay.
+
+Review 11 for Dr. Giulia Mariani, Pediatrics, Rome
+Rating: 6/10
+Clinic visited: Clinica Appia Nuova
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Giulia Mariani is thorough with exams, but the after-hours phone line at Clinica Appia Nuova is hard to reach.
+
+Overall rating for Dr. Giulia Mariani, Pediatrics, Rome: 7.36/10 from 11 reviews

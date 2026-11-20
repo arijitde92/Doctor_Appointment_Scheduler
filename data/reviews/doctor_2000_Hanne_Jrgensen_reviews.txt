@@ -1,0 +1,49 @@
+Doctor: Dr. Hanne Jørgensen
+Doctor ID: 2000
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 15
+City: Oslo, Norway
+Clinics: Helsehuset Storgata (clinic ID 261); Legekontoret Grønland (clinic ID 263)
+
+Review 1 for Dr. Hanne Jørgensen, Psychiatry, Oslo
+Rating: 9/10
+Clinic visited: Legekontoret Grønland
+Description: Dr. Hanne Jørgensen used a calm, steady voice that settled my nerves before a stressful procedure. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 2 for Dr. Hanne Jørgensen, Psychiatry, Oslo
+Rating: 5/10
+Clinic visited: Helsehuset Storgata
+Description: I got what I needed, but the next available appointment was three weeks away. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 3 for Dr. Hanne Jørgensen, Psychiatry, Oslo
+Rating: 10/10
+Clinic visited: Legekontoret Grønland
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Hanne Jørgensen, Psychiatry, Oslo
+Rating: 8/10
+Clinic visited: Helsehuset Storgata
+Description: At my visit, Dr. Hanne Jørgensen took notes on my medication list, checked for interactions and explained the changes simply. I felt heard by Dr. Hanne Jørgensen during a very hard time, and nobody rushed me out of the room. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Hanne Jørgensen, Psychiatry, Oslo
+Rating: 7/10
+Clinic visited: Helsehuset Storgata
+Description: Quick appointment and a fair price in Oslo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Hanne Jørgensen, Psychiatry, Oslo
+Rating: 9/10
+Clinic visited: Legekontoret Grønland
+Description: My depression finally has a treatment plan from Dr. Hanne Jørgensen that works, with regular check-ins and careful dose changes. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Hanne Jørgensen, Psychiatry, Oslo
+Rating: 8/10
+Clinic visited: Legekontoret Grønland
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 8 for Dr. Hanne Jørgensen, Psychiatry, Oslo
+Rating: 6/10
+Clinic visited: Legekontoret Grønland
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Hanne Jørgensen, Psychiatry, Oslo: 7.75/10 from 8 reviews

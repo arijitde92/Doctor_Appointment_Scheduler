@@ -1,0 +1,49 @@
+Doctor: Dr. Daniela Oliveira
+Doctor ID: 605
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 4
+City: Curitiba, Brazil
+Clinics: Centro Médico Rua XV (clinic ID 81)
+
+Review 1 for Dr. Daniela Oliveira, Orthopedic, Curitiba
+Rating: 6/10
+Clinic visited: Centro Médico Rua XV
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Daniela Oliveira, Orthopedic, Curitiba
+Rating: 7/10
+Clinic visited: Centro Médico Rua XV
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 3 for Dr. Daniela Oliveira, Orthopedic, Curitiba
+Rating: 8/10
+Clinic visited: Centro Médico Rua XV
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Daniela Oliveira felt well organized from start to finish. Dr. Daniela Oliveira explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 4 for Dr. Daniela Oliveira, Orthopedic, Curitiba
+Rating: 5/10
+Clinic visited: Centro Médico Rua XV
+Description: Very skilled with my knee, but Dr. Daniela Oliveira's clinic runs behind and the wait was over an hour.
+
+Review 5 for Dr. Daniela Oliveira, Orthopedic, Curitiba
+Rating: 9/10
+Clinic visited: Centro Médico Rua XV
+Description: At my visit, Dr. Daniela Oliveira took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 6 for Dr. Daniela Oliveira, Orthopedic, Curitiba
+Rating: 9/10
+Clinic visited: Centro Médico Rua XV
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Daniela Oliveira, Orthopedic, Curitiba
+Rating: 7/10
+Clinic visited: Centro Médico Rua XV
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Daniela Oliveira, Orthopedic, Curitiba
+Rating: 7/10
+Clinic visited: Centro Médico Rua XV
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. I liked the advice I got from Dr. Daniela Oliveira, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Daniela Oliveira, Orthopedic, Curitiba: 7.25/10 from 8 reviews

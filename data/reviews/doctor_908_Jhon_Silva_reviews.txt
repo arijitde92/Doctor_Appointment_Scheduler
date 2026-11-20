@@ -1,0 +1,59 @@
+Doctor: Dr. Jhon Silva
+Doctor ID: 908
+Specialization: Neurology
+Gender: Male
+Years of experience: 21
+City: Arequipa, Peru
+Clinics: Instituto de Salud Cayma (clinic ID 119)
+
+Review 1 for Dr. Jhon Silva, Neurology, Arequipa
+Rating: 7/10
+Clinic visited: Instituto de Salud Cayma
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Helpful visit overall, although I only found out about an extra charge after I had paid. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Jhon Silva, Neurology, Arequipa
+Rating: 8/10
+Clinic visited: Instituto de Salud Cayma
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 3 for Dr. Jhon Silva, Neurology, Arequipa
+Rating: 8/10
+Clinic visited: Instituto de Salud Cayma
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Jhon Silva, Neurology, Arequipa
+Rating: 10/10
+Clinic visited: Instituto de Salud Cayma
+Description: Dr. Jhon Silva looked me in the eye, listened to the whole story and only then started typing.
+
+Review 5 for Dr. Jhon Silva, Neurology, Arequipa
+Rating: 8/10
+Clinic visited: Instituto de Salud Cayma
+Description: He coordinated with my regular doctor so my medicine list was consistent in both offices. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Jhon Silva, Neurology, Arequipa
+Rating: 9/10
+Clinic visited: Instituto de Salud Cayma
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. Paperwork at Instituto de Salud Cayma was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 7 for Dr. Jhon Silva, Neurology, Arequipa
+Rating: 10/10
+Clinic visited: Instituto de Salud Cayma
+Description: The EEG appointment ran on time, and Dr. Jhon Silva reviewed the tracing with me the same week. Booking online at Instituto de Salud Cayma was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 8 for Dr. Jhon Silva, Neurology, Arequipa
+Rating: 10/10
+Clinic visited: Instituto de Salud Cayma
+Description: Dr. Jhon Silva took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. My referral letter was written on the spot, and the specialist's office had my details before I called. I have no hesitation sending my own relatives here.
+
+Review 9 for Dr. Jhon Silva, Neurology, Arequipa
+Rating: 6/10
+Clinic visited: Instituto de Salud Cayma
+Description: The treatment plan from Dr. Jhon Silva made sense, but I wished it had been written down for me to take away. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 10 for Dr. Jhon Silva, Neurology, Arequipa
+Rating: 7/10
+Clinic visited: Instituto de Salud Cayma
+Description: Quick appointment and a fair price in Arequipa, but the staff seemed overwhelmed and a bit curt on the phone. Dr. Jhon Silva explained my results well, although the visit felt short for such a complex condition.
+
+Overall rating for Dr. Jhon Silva, Neurology, Arequipa: 8.30/10 from 10 reviews

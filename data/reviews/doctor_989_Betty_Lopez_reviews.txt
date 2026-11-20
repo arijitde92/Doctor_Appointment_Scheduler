@@ -1,0 +1,54 @@
+Doctor: Dr. Betty López
+Doctor ID: 989
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 16
+City: Lima, Peru
+Clinics: Clínica La Marina Salud (clinic ID 129)
+
+Review 1 for Dr. Betty López, Psychiatry, Lima
+Rating: 5/10
+Clinic visited: Clínica La Marina Salud
+Description: Good listener, yet the refill process at Clínica La Marina Salud is slow and requires several phone calls. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Betty López, Psychiatry, Lima
+Rating: 4/10
+Clinic visited: Clínica La Marina Salud
+Description: My questions were answered by Dr. Betty López with short, vague replies, and I left without a clear plan. Requests for a refill went unanswered for days, and I ran out of my medication. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 3 for Dr. Betty López, Psychiatry, Lima
+Rating: 6/10
+Clinic visited: Clínica La Marina Salud
+Description: Quick appointment and a fair price in Lima, but the staff seemed overwhelmed and a bit curt on the phone. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 4 for Dr. Betty López, Psychiatry, Lima
+Rating: 5/10
+Clinic visited: Clínica La Marina Salud
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 5 for Dr. Betty López, Psychiatry, Lima
+Rating: 6/10
+Clinic visited: Clínica La Marina Salud
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Betty López, Psychiatry, Lima
+Rating: 5/10
+Clinic visited: Clínica La Marina Salud
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Betty López, Psychiatry, Lima
+Rating: 7/10
+Clinic visited: Clínica La Marina Salud
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Betty López, Psychiatry, Lima
+Rating: 6/10
+Clinic visited: Clínica La Marina Salud
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clínica La Marina Salud. Helpful diagnosis, though the billing for my first long assessment was confusing. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Betty López, Psychiatry, Lima
+Rating: 8/10
+Clinic visited: Clínica La Marina Salud
+Description: Dr. Betty López drew a quick sketch to explain what was going on, which helped me remember it afterwards. Excellent at explaining how therapy and medication work together, and Dr. Betty López coordinated with my counselor.
+
+Overall rating for Dr. Betty López, Psychiatry, Lima: 5.78/10 from 9 reviews

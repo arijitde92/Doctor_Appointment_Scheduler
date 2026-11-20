@@ -1,0 +1,49 @@
+Doctor: Dr. Simona Ferrari
+Doctor ID: 3506
+Specialization: Psychology
+Gender: Female
+Years of experience: 3
+City: Rome, Italy
+Clinics: Clinica Appia Nuova (clinic ID 454)
+
+Review 1 for Dr. Simona Ferrari, Psychology, Rome
+Rating: 10/10
+Clinic visited: Clinica Appia Nuova
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Simona Ferrari gave me practical tools I still use. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Simona Ferrari, Psychology, Rome
+Rating: 8/10
+Clinic visited: Clinica Appia Nuova
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected. I was called in within five minutes of my appointment time at Clinica Appia Nuova, which is rare and much appreciated. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Simona Ferrari, Psychology, Rome
+Rating: 6/10
+Clinic visited: Clinica Appia Nuova
+Description: The treatment plan from Dr. Simona Ferrari made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Simona Ferrari, Psychology, Rome
+Rating: 6/10
+Clinic visited: Clinica Appia Nuova
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Simona Ferrari, Psychology, Rome
+Rating: 10/10
+Clinic visited: Clinica Appia Nuova
+Description: Couples therapy at Clinica Appia Nuova helped us stop repeating the same argument. We now have a way to pause and listen. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 6 for Dr. Simona Ferrari, Psychology, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 7 for Dr. Simona Ferrari, Psychology, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 8 for Dr. Simona Ferrari, Psychology, Rome
+Rating: 8/10
+Clinic visited: Clinica Appia Nuova
+Description: Sensitive questions were handled by Dr. Simona Ferrari with discretion and without a hint of judgment.
+
+Overall rating for Dr. Simona Ferrari, Psychology, Rome: 7.75/10 from 8 reviews

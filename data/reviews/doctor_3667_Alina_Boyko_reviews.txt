@@ -1,0 +1,49 @@
+Doctor: Dr. Alina Boyko
+Doctor ID: 3667
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 12
+City: Odesa, Ukraine
+Clinics: Klinika Bilyi Parus (clinic ID 474)
+
+Review 1 for Dr. Alina Boyko, Psychiatry, Odesa
+Rating: 6/10
+Clinic visited: Klinika Bilyi Parus
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 2 for Dr. Alina Boyko, Psychiatry, Odesa
+Rating: 7/10
+Clinic visited: Klinika Bilyi Parus
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Alina Boyko, Psychiatry, Odesa
+Rating: 7/10
+Clinic visited: Klinika Bilyi Parus
+Description: Good listener, yet the refill process at Klinika Bilyi Parus is slow and requires several phone calls. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Alina Boyko, Psychiatry, Odesa
+Rating: 8/10
+Clinic visited: Klinika Bilyi Parus
+Description: She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 5 for Dr. Alina Boyko, Psychiatry, Odesa
+Rating: 7/10
+Clinic visited: Klinika Bilyi Parus
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Alina Boyko is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 6 for Dr. Alina Boyko, Psychiatry, Odesa
+Rating: 7/10
+Clinic visited: Klinika Bilyi Parus
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Alina Boyko, Psychiatry, Odesa
+Rating: 6/10
+Clinic visited: Klinika Bilyi Parus
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. The treatment plan from Dr. Alina Boyko made sense, but I wished it had been written down for me to take away. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Alina Boyko, Psychiatry, Odesa
+Rating: 9/10
+Clinic visited: Klinika Bilyi Parus
+Description: Telehealth follow-ups at Klinika Bilyi Parus are punctual and calm, and refills are dealt with quickly. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Overall rating for Dr. Alina Boyko, Psychiatry, Odesa: 7.12/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Saoirse O'Connor
+Doctor ID: 2435
+Specialization: Neurology
+Gender: Female
+Years of experience: 6
+City: Cork, Ireland
+Clinics: Blackpool Polyclinic (clinic ID 318)
+
+Review 1 for Dr. Saoirse O'Connor, Neurology, Cork
+Rating: 7/10
+Clinic visited: Blackpool Polyclinic
+Description: Dr. Saoirse O'Connor was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 2 for Dr. Saoirse O'Connor, Neurology, Cork
+Rating: 9/10
+Clinic visited: Blackpool Polyclinic
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Saoirse O'Connor, Neurology, Cork
+Rating: 8/10
+Clinic visited: Blackpool Polyclinic
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. The practice in Cork is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Saoirse O'Connor, Neurology, Cork
+Rating: 8/10
+Clinic visited: Blackpool Polyclinic
+Description: The memory assessment for my father at Blackpool Polyclinic was gentle and respectful, and the family received a clear written summary. I was called in within five minutes of my appointment time at Blackpool Polyclinic, which is rare and much appreciated. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Saoirse O'Connor, Neurology, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: I felt listened to about my numb hands, and the nerve conduction test was done promptly at Blackpool Polyclinic.
+
+Review 6 for Dr. Saoirse O'Connor, Neurology, Cork
+Rating: 8/10
+Clinic visited: Blackpool Polyclinic
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Saoirse O'Connor, Neurology, Cork
+Rating: 9/10
+Clinic visited: Blackpool Polyclinic
+Description: After years of migraines, Dr. Saoirse O'Connor built a plan around triggers, diary tracking and a preventive medicine, and my attacks are now far fewer. The receptionist at Blackpool Polyclinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 8 for Dr. Saoirse O'Connor, Neurology, Cork
+Rating: 8/10
+Clinic visited: Blackpool Polyclinic
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried.
+
+Review 9 for Dr. Saoirse O'Connor, Neurology, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Overall rating for Dr. Saoirse O'Connor, Neurology, Cork: 8.56/10 from 9 reviews

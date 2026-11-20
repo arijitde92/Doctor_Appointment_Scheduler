@@ -1,0 +1,54 @@
+Doctor: Dr. Stephen White
+Doctor ID: 6570
+Specialization: Radiology
+Gender: Male
+Years of experience: 3
+City: Sydney, Australia
+Clinics: Gumtree Medical Centre (clinic ID 851); Wattle Grove Medical (clinic ID 853)
+
+Review 1 for Dr. Stephen White, Radiology, Sydney
+Rating: 8/10
+Clinic visited: Wattle Grove Medical
+Description: The staff at Wattle Grove Medical in Sydney explained the contrast dye and its side effects before I signed anything. My whole family is switching over after seeing how good the care was.
+
+Review 2 for Dr. Stephen White, Radiology, Sydney
+Rating: 6/10
+Clinic visited: Wattle Grove Medical
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 3 for Dr. Stephen White, Radiology, Sydney
+Rating: 9/10
+Clinic visited: Gumtree Medical Centre
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 4 for Dr. Stephen White, Radiology, Sydney
+Rating: 10/10
+Clinic visited: Wattle Grove Medical
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. This is the first doctor I have trusted completely in years.
+
+Review 5 for Dr. Stephen White, Radiology, Sydney
+Rating: 10/10
+Clinic visited: Gumtree Medical Centre
+Description: Booking a CT scan online at Gumtree Medical Centre took two minutes, and I was in and out within forty minutes. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 6 for Dr. Stephen White, Radiology, Sydney
+Rating: 8/10
+Clinic visited: Gumtree Medical Centre
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm.
+
+Review 7 for Dr. Stephen White, Radiology, Sydney
+Rating: 8/10
+Clinic visited: Gumtree Medical Centre
+Description: When my scan showed something that needed a second look, Dr. Stephen White arranged the follow-up the same day. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Stephen White, Radiology, Sydney
+Rating: 8/10
+Clinic visited: Gumtree Medical Centre
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Reviewing my X-ray together with Dr. Stephen White on the screen made it much easier to understand my arthritis.
+
+Review 9 for Dr. Stephen White, Radiology, Sydney
+Rating: 8/10
+Clinic visited: Wattle Grove Medical
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Stephen White sent a clear report within a day. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Overall rating for Dr. Stephen White, Radiology, Sydney: 8.33/10 from 9 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Pierre Laurent
+Doctor ID: 1200
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 13
+City: Lyon, France
+Clinics: Cabinet Médical des Brotteaux (clinic ID 156)
+
+Review 1 for Dr. Pierre Laurent, Psychiatry, Lyon
+Rating: 8/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: My depression finally has a treatment plan from Dr. Pierre Laurent that works, with regular check-ins and careful dose changes. The visit began with a short, friendly chat that put me at ease before any examination started. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Pierre Laurent, Psychiatry, Lyon
+Rating: 4/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: My concerns about how I felt on the dose were waved away rather than explored. Dr. Pierre Laurent did not seem to have read my notes and asked me to repeat my whole history from the beginning. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 3 for Dr. Pierre Laurent, Psychiatry, Lyon
+Rating: 5/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Pierre Laurent, Psychiatry, Lyon
+Rating: 6/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Pierre Laurent, Psychiatry, Lyon
+Rating: 6/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Dr. Pierre Laurent was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 6 for Dr. Pierre Laurent, Psychiatry, Lyon
+Rating: 4/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 7 for Dr. Pierre Laurent, Psychiatry, Lyon
+Rating: 5/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Supportive in crisis, but follow-up between visits could have been more regular. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Pierre Laurent, Psychiatry, Lyon
+Rating: 4/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: The waiting room at Cabinet Médical des Brotteaux was overcrowded and there was nowhere to sit, even for elderly patients. Requests for a refill went unanswered for days, and I ran out of my medication.
+
+Review 9 for Dr. Pierre Laurent, Psychiatry, Lyon
+Rating: 5/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Good listener, yet the refill process at Cabinet Médical des Brotteaux is slow and requires several phone calls. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Overall rating for Dr. Pierre Laurent, Psychiatry, Lyon: 5.22/10 from 9 reviews

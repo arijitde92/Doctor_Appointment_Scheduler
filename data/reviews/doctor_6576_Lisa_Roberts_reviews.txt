@@ -1,0 +1,54 @@
+Doctor: Dr. Lisa Roberts
+Doctor ID: 6576
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 2
+City: Sydney, Australia
+Clinics: Harbourside General Practice (clinic ID 852)
+
+Review 1 for Dr. Lisa Roberts, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Harbourside General Practice
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 2 for Dr. Lisa Roberts, Psychiatry, Sydney
+Rating: 6/10
+Clinic visited: Harbourside General Practice
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 3 for Dr. Lisa Roberts, Psychiatry, Sydney
+Rating: 10/10
+Clinic visited: Harbourside General Practice
+Description: The ADHD assessment by Dr. Lisa Roberts was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 4 for Dr. Lisa Roberts, Psychiatry, Sydney
+Rating: 10/10
+Clinic visited: Harbourside General Practice
+Description: Excellent at explaining how therapy and medication work together, and Dr. Lisa Roberts coordinated with my counselor. Dr. Lisa Roberts drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 5 for Dr. Lisa Roberts, Psychiatry, Sydney
+Rating: 7/10
+Clinic visited: Harbourside General Practice
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 6 for Dr. Lisa Roberts, Psychiatry, Sydney
+Rating: 10/10
+Clinic visited: Harbourside General Practice
+Description: Telehealth follow-ups at Harbourside General Practice are punctual and calm, and refills are dealt with quickly. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 7 for Dr. Lisa Roberts, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Harbourside General Practice
+Description: Never once did Dr. Lisa Roberts make me feel weak for asking for help, and the stigma I carried really began to ease. The receptionist at Harbourside General Practice remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 8 for Dr. Lisa Roberts, Psychiatry, Sydney
+Rating: 10/10
+Clinic visited: Harbourside General Practice
+Description: I can ring Harbourside General Practice with an urgent question and receive a thoughtful reply the same day. At my visit, Dr. Lisa Roberts took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 9 for Dr. Lisa Roberts, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Harbourside General Practice
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. Everything was explained in plain English by Dr. Lisa Roberts, and nothing was left to guess.
+
+Overall rating for Dr. Lisa Roberts, Psychiatry, Sydney: 8.56/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Sandra van der Meer
+Doctor ID: 2618
+Specialization: Pathology
+Gender: Female
+Years of experience: 2
+City: Rotterdam, Netherlands
+Clinics: Gezondheidscentrum Delfshaven (clinic ID 342); Medisch Centrum Blaak (clinic ID 344)
+
+Review 1 for Dr. Sandra van der Meer, Pathology, Rotterdam
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Sandra van der Meer, Pathology, Rotterdam
+Rating: 7/10
+Clinic visited: Medisch Centrum Blaak
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Sandra van der Meer, Pathology, Rotterdam
+Rating: 8/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 4 for Dr. Sandra van der Meer, Pathology, Rotterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Blaak
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Rotterdam.
+
+Review 5 for Dr. Sandra van der Meer, Pathology, Rotterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Blaak
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 6 for Dr. Sandra van der Meer, Pathology, Rotterdam
+Rating: 10/10
+Clinic visited: Medisch Centrum Blaak
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not.
+
+Review 7 for Dr. Sandra van der Meer, Pathology, Rotterdam
+Rating: 9/10
+Clinic visited: Medisch Centrum Blaak
+Description: Dr. Sandra van der Meer took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. My referral letter was written on the spot, and the specialist's office had my details before I called. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Sandra van der Meer, Pathology, Rotterdam
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Delfshaven
+Description: I was nervous about the biopsy result, and the call from Dr. Sandra van der Meer was gentle, honest and unhurried. My whole family is switching over after seeing how good the care was.
+
+Overall rating for Dr. Sandra van der Meer, Pathology, Rotterdam: 9.00/10 from 8 reviews

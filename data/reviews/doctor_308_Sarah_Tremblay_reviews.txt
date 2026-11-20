@@ -1,0 +1,54 @@
+Doctor: Dr. Sarah Tremblay
+Doctor ID: 308
+Specialization: Pathology
+Gender: Female
+Years of experience: 20
+City: Montreal, Canada
+Clinics: Clinique Santé Côte-des-Neiges (clinic ID 42); Polyclinique du Parc (clinic ID 43); Clinique Médicale McGill Collège (clinic ID 44)
+
+Review 1 for Dr. Sarah Tremblay, Pathology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Fast turnaround at Clinique Santé Côte-des-Neiges on my thyroid panel, with results in my online account by the next morning. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 2 for Dr. Sarah Tremblay, Pathology, Montreal
+Rating: 6/10
+Clinic visited: Polyclinique du Parc
+Description: The blood draw was painless, but the waiting area at Polyclinique du Parc was crowded in the early morning. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Sarah Tremblay, Pathology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Sarah Tremblay, Pathology, Montreal
+Rating: 8/10
+Clinic visited: Polyclinique du Parc
+Description: The lab at Polyclinique du Parc had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 5 for Dr. Sarah Tremblay, Pathology, Montreal
+Rating: 9/10
+Clinic visited: Polyclinique du Parc
+Description: The biopsy report was returned in three days, and Dr. Sarah Tremblay took time on the phone to explain every term in it.
+
+Review 6 for Dr. Sarah Tremblay, Pathology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: The receptionist at Clinique Médicale McGill Collège remembered my name and had my forms ready, so check-in took less than a minute. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Sarah Tremblay, Pathology, Montreal
+Rating: 6/10
+Clinic visited: Clinique Médicale McGill Collège
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Sarah Tremblay, Pathology, Montreal
+Rating: 10/10
+Clinic visited: Polyclinique du Parc
+Description: I was nervous about the biopsy result, and the call from Dr. Sarah Tremblay was gentle, honest and unhurried. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 9 for Dr. Sarah Tremblay, Pathology, Montreal
+Rating: 8/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: The staff and Dr. Sarah Tremblay patiently went through my cholesterol and glucose numbers and explained what each meant for me. Even the billing team was helpful, and a mistake on my statement was corrected within a day. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Sarah Tremblay, Pathology, Montreal: 7.89/10 from 9 reviews

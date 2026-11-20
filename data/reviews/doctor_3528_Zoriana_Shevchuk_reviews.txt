@@ -1,0 +1,64 @@
+Doctor: Dr. Zoriana Shevchuk
+Doctor ID: 3528
+Specialization: Radiology
+Gender: Female
+Years of experience: 14
+City: Dnipro, Ukraine
+Clinics: Nova Hora Clinic (clinic ID 456)
+
+Review 1 for Dr. Zoriana Shevchuk, Radiology, Dnipro
+Rating: 6/10
+Clinic visited: Nova Hora Clinic
+Description: The report from Dr. Zoriana Shevchuk was thorough, though full of technical terms that needed my regular doctor to translate. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Zoriana Shevchuk, Radiology, Dnipro
+Rating: 7/10
+Clinic visited: Nova Hora Clinic
+Description: The treatment plan from Dr. Zoriana Shevchuk made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Zoriana Shevchuk, Radiology, Dnipro
+Rating: 8/10
+Clinic visited: Nova Hora Clinic
+Description: The staff at Nova Hora Clinic in Dnipro explained the contrast dye and its side effects before I signed anything.
+
+Review 4 for Dr. Zoriana Shevchuk, Radiology, Dnipro
+Rating: 7/10
+Clinic visited: Nova Hora Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Zoriana Shevchuk, Radiology, Dnipro
+Rating: 6/10
+Clinic visited: Nova Hora Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. Quick appointment and a fair price in Dnipro, but the staff seemed overwhelmed and a bit curt on the phone. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Zoriana Shevchuk, Radiology, Dnipro
+Rating: 8/10
+Clinic visited: Nova Hora Clinic
+Description: Everything was explained in plain English by Dr. Zoriana Shevchuk, and nothing was left to guess. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Zoriana Shevchuk, Radiology, Dnipro
+Rating: 8/10
+Clinic visited: Nova Hora Clinic
+Description: Booking a CT scan online at Nova Hora Clinic took two minutes, and I was in and out within forty minutes. This is the first doctor I have trusted completely in years.
+
+Review 8 for Dr. Zoriana Shevchuk, Radiology, Dnipro
+Rating: 6/10
+Clinic visited: Nova Hora Clinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Zoriana Shevchuk, Radiology, Dnipro
+Rating: 8/10
+Clinic visited: Nova Hora Clinic
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. The waiting room at Nova Hora Clinic was clean, quiet and comfortable, with enough seating and water available.
+
+Review 10 for Dr. Zoriana Shevchuk, Radiology, Dnipro
+Rating: 8/10
+Clinic visited: Nova Hora Clinic
+Description: Images from Nova Hora Clinic were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 11 for Dr. Zoriana Shevchuk, Radiology, Dnipro
+Rating: 5/10
+Clinic visited: Nova Hora Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Zoriana Shevchuk, Radiology, Dnipro: 7.00/10 from 11 reviews

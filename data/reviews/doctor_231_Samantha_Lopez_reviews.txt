@@ -1,0 +1,59 @@
+Doctor: Dr. Samantha Lopez
+Doctor ID: 231
+Specialization: Radiology
+Gender: Female
+Years of experience: 28
+City: San Francisco, USA
+Clinics: Cow Hollow Health Associates (clinic ID 32)
+
+Review 1 for Dr. Samantha Lopez, Radiology, San Francisco
+Rating: 7/10
+Clinic visited: Cow Hollow Health Associates
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Samantha Lopez, Radiology, San Francisco
+Rating: 10/10
+Clinic visited: Cow Hollow Health Associates
+Description: My ultrasound was unhurried, and Dr. Samantha Lopez took time to show me the images and explain what each measurement meant. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Samantha Lopez, Radiology, San Francisco
+Rating: 10/10
+Clinic visited: Cow Hollow Health Associates
+Description: I appreciated that she offered more than one option and let me choose what suited my life. Images from Cow Hollow Health Associates were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 4 for Dr. Samantha Lopez, Radiology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: Parking was simple, the waiting room was calm, and I never felt like a number.
+
+Review 5 for Dr. Samantha Lopez, Radiology, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. My whole family is switching over after seeing how good the care was.
+
+Review 6 for Dr. Samantha Lopez, Radiology, San Francisco
+Rating: 9/10
+Clinic visited: Cow Hollow Health Associates
+Description: Fast, clean and professional; the bone density scan with Dr. Samantha Lopez was painless and the results were explained clearly. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 7 for Dr. Samantha Lopez, Radiology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: Reviewing my X-ray together with Dr. Samantha Lopez on the screen made it much easier to understand my arthritis. The receptionist at Cow Hollow Health Associates remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 8 for Dr. Samantha Lopez, Radiology, San Francisco
+Rating: 10/10
+Clinic visited: Cow Hollow Health Associates
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. When my scan showed something that needed a second look, Dr. Samantha Lopez arranged the follow-up the same day.
+
+Review 9 for Dr. Samantha Lopez, Radiology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 10 for Dr. Samantha Lopez, Radiology, San Francisco
+Rating: 8/10
+Clinic visited: Cow Hollow Health Associates
+Description: I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Overall rating for Dr. Samantha Lopez, Radiology, San Francisco: 8.70/10 from 10 reviews

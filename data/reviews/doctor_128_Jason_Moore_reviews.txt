@@ -1,0 +1,49 @@
+Doctor: Dr. Jason Moore
+Doctor ID: 128
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 21
+City: Chicago, USA
+Clinics: Windy City Urgent and Primary Care (clinic ID 19)
+
+Review 1 for Dr. Jason Moore, Gastroenterology, Chicago
+Rating: 6/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Jason Moore, Gastroenterology, Chicago
+Rating: 6/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Jason Moore, Gastroenterology, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Clear explanation from Dr. Jason Moore of fatty liver and exactly which lifestyle changes would make a measurable difference. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Jason Moore, Gastroenterology, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Dr. Jason Moore double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Jason Moore, Gastroenterology, Chicago
+Rating: 10/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 6 for Dr. Jason Moore, Gastroenterology, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: A gentle, respectful manner from Dr. Jason Moore made a very awkward exam bearable, with every step explained before it happened. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Jason Moore, Gastroenterology, Chicago
+Rating: 9/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Review 8 for Dr. Jason Moore, Gastroenterology, Chicago
+Rating: 9/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Helpful dietitian referral from Dr. Jason Moore and written guidance for living with ulcerative colitis.
+
+Overall rating for Dr. Jason Moore, Gastroenterology, Chicago: 8.00/10 from 8 reviews

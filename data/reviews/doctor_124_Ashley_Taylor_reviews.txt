@@ -1,0 +1,49 @@
+Doctor: Dr. Ashley Taylor
+Doctor ID: 124
+Specialization: Neurology
+Gender: Female
+Years of experience: 28
+City: Chicago, USA
+Clinics: Hyde Park Medical Associates (clinic ID 18)
+
+Review 1 for Dr. Ashley Taylor, Neurology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. The treatment plan from Dr. Ashley Taylor made sense, but I wished it had been written down for me to take away. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Ashley Taylor, Neurology, Chicago
+Rating: 8/10
+Clinic visited: Hyde Park Medical Associates
+Description: The EEG appointment ran on time, and Dr. Ashley Taylor reviewed the tracing with me the same week. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Ashley Taylor, Neurology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Ashley Taylor at Hyde Park Medical Associates are difficult to schedule. Booking was easy online, but the confirmation email contained the wrong address for Hyde Park Medical Associates.
+
+Review 4 for Dr. Ashley Taylor, Neurology, Chicago
+Rating: 6/10
+Clinic visited: Hyde Park Medical Associates
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 5 for Dr. Ashley Taylor, Neurology, Chicago
+Rating: 6/10
+Clinic visited: Hyde Park Medical Associates
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Ashley Taylor, Neurology, Chicago
+Rating: 6/10
+Clinic visited: Hyde Park Medical Associates
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Ashley Taylor, Neurology, Chicago
+Rating: 5/10
+Clinic visited: Hyde Park Medical Associates
+Description: Dr. Ashley Taylor was thoughtful and clear, though the front desk was disorganized and lost my first referral form. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 8 for Dr. Ashley Taylor, Neurology, Chicago
+Rating: 7/10
+Clinic visited: Hyde Park Medical Associates
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Ashley Taylor explained my results well, although the visit felt short for such a complex condition.
+
+Overall rating for Dr. Ashley Taylor, Neurology, Chicago: 6.50/10 from 8 reviews

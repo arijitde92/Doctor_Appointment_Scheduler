@@ -1,0 +1,69 @@
+Doctor: Dr. Mette Haugen
+Doctor ID: 2038
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 7
+City: Stavanger, Norway
+Clinics: Helsehuset Vågen (clinic ID 266)
+
+Review 1 for Dr. Mette Haugen, Pediatrics, Stavanger
+Rating: 5/10
+Clinic visited: Helsehuset Vågen
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Mette Haugen, Pediatrics, Stavanger
+Rating: 6/10
+Clinic visited: Helsehuset Vågen
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Mette Haugen, Pediatrics, Stavanger
+Rating: 7/10
+Clinic visited: Helsehuset Vågen
+Description: Dr. Mette Haugen is thorough with exams, but the after-hours phone line at Helsehuset Vågen is hard to reach.
+
+Review 4 for Dr. Mette Haugen, Pediatrics, Stavanger
+Rating: 5/10
+Clinic visited: Helsehuset Vågen
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 5 for Dr. Mette Haugen, Pediatrics, Stavanger
+Rating: 5/10
+Clinic visited: Helsehuset Vågen
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 6 for Dr. Mette Haugen, Pediatrics, Stavanger
+Rating: 6/10
+Clinic visited: Helsehuset Vågen
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Caring and gentle with my child, Dr. Mette Haugen nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 7 for Dr. Mette Haugen, Pediatrics, Stavanger
+Rating: 8/10
+Clinic visited: Helsehuset Vågen
+Description: We got a same-day appointment for a high fever, and the care at Helsehuset Vågen was kind and efficient.
+
+Review 8 for Dr. Mette Haugen, Pediatrics, Stavanger
+Rating: 8/10
+Clinic visited: Helsehuset Vågen
+Description: The growth chart review was detailed, and I appreciated that Dr. Mette Haugen talked to my child as well as to me. Everything was explained in plain English by Dr. Mette Haugen, and nothing was left to guess.
+
+Review 9 for Dr. Mette Haugen, Pediatrics, Stavanger
+Rating: 9/10
+Clinic visited: Helsehuset Vågen
+Description: Getting to Helsehuset Vågen by public transport in Stavanger was easy, and there is a step-free entrance for wheelchairs. I would happily recommend this doctor to friends and family.
+
+Review 10 for Dr. Mette Haugen, Pediatrics, Stavanger
+Rating: 7/10
+Clinic visited: Helsehuset Vågen
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 11 for Dr. Mette Haugen, Pediatrics, Stavanger
+Rating: 6/10
+Clinic visited: Helsehuset Vågen
+Description: The treatment plan from Dr. Mette Haugen made sense, but I wished it had been written down for me to take away.
+
+Review 12 for Dr. Mette Haugen, Pediatrics, Stavanger
+Rating: 6/10
+Clinic visited: Helsehuset Vågen
+Description: I liked the advice I got from Dr. Mette Haugen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Mette Haugen, Pediatrics, Stavanger: 6.50/10 from 12 reviews

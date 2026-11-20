@@ -1,0 +1,64 @@
+Doctor: Dr. Heo Ji-yoon
+Doctor ID: 4215
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 20
+City: Daegu, South Korea
+Clinics: Seongseo Haenim Polyclinic (clinic ID 543)
+
+Review 1 for Dr. Heo Ji-yoon, Pulmonology, Daegu
+Rating: 8/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: I always leave Dr. Heo Ji-yoon's office with a written summary of my breathing test results and what changed since the last visit. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Heo Ji-yoon, Pulmonology, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Heo Ji-yoon.
+
+Review 3 for Dr. Heo Ji-yoon, Pulmonology, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Quick appointment and a fair price in Daegu, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Heo Ji-yoon, Pulmonology, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Dr. Heo Ji-yoon looked me in the eye, listened to the whole story and only then started typing. The spirometry test was explained step by step, and Dr. Heo Ji-yoon put the results in context with a clear picture of my lung function.
+
+Review 5 for Dr. Heo Ji-yoon, Pulmonology, Daegu
+Rating: 8/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: She called personally with my scan results and walked me through what the findings did and did not mean.
+
+Review 6 for Dr. Heo Ji-yoon, Pulmonology, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Heo Ji-yoon, Pulmonology, Daegu
+Rating: 8/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. Paperwork at Seongseo Haenim Polyclinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 8 for Dr. Heo Ji-yoon, Pulmonology, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: A same-day slot was found for me at Seongseo Haenim Polyclinic when I called with a worrying symptom. My oxygen levels are monitored carefully at Seongseo Haenim Polyclinic, and the home equipment was arranged without any hassle.
+
+Review 9 for Dr. Heo Ji-yoon, Pulmonology, Daegu
+Rating: 9/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Dr. Heo Ji-yoon explained my lung nodule follow-up schedule calmly, which took away weeks of worry. Prescriptions from Dr. Heo Ji-yoon were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 10 for Dr. Heo Ji-yoon, Pulmonology, Daegu
+Rating: 7/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 11 for Dr. Heo Ji-yoon, Pulmonology, Daegu
+Rating: 5/10
+Clinic visited: Seongseo Haenim Polyclinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Seongseo Haenim Polyclinic regularly exceeded forty minutes.
+
+Overall rating for Dr. Heo Ji-yoon, Pulmonology, Daegu: 7.82/10 from 11 reviews

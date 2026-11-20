@@ -1,0 +1,49 @@
+Doctor: Dr. Thomas Pettersen
+Doctor ID: 1995
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 9
+City: Oslo, Norway
+Clinics: Legesenteret Karl Johan Plus (clinic ID 260)
+
+Review 1 for Dr. Thomas Pettersen, Gastroenterology, Oslo
+Rating: 9/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Dr. Thomas Pettersen took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Thomas Pettersen, Gastroenterology, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 3 for Dr. Thomas Pettersen, Gastroenterology, Oslo
+Rating: 8/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Getting to Legesenteret Karl Johan Plus by public transport in Oslo was easy, and there is a step-free entrance for wheelchairs. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Thomas Pettersen, Gastroenterology, Oslo
+Rating: 8/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. I get regular check-ups for my Crohn's disease, and Dr. Thomas Pettersen adjusts my treatment carefully and always explains why.
+
+Review 5 for Dr. Thomas Pettersen, Gastroenterology, Oslo
+Rating: 8/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Clear explanation from Dr. Thomas Pettersen of fatty liver and exactly which lifestyle changes would make a measurable difference. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 6 for Dr. Thomas Pettersen, Gastroenterology, Oslo
+Rating: 8/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: I received a full summary letter from Legesenteret Karl Johan Plus after my endoscopy, which my regular doctor found very useful.
+
+Review 7 for Dr. Thomas Pettersen, Gastroenterology, Oslo
+Rating: 7/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Review 8 for Dr. Thomas Pettersen, Gastroenterology, Oslo
+Rating: 7/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Thomas Pettersen, Gastroenterology, Oslo: 7.62/10 from 8 reviews

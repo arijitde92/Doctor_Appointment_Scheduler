@@ -1,0 +1,49 @@
+Doctor: Dr. Jeff Schmitz
+Doctor ID: 3290
+Specialization: Cardiology
+Gender: Male
+Years of experience: 22
+City: Esch-sur-Alzette, Luxembourg
+Clinics: Centre Médical Belval (clinic ID 426); Centre de Santé Lallange (clinic ID 429)
+
+Review 1 for Dr. Jeff Schmitz, Cardiology, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Centre de Santé Lallange
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 2 for Dr. Jeff Schmitz, Cardiology, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Centre Médical Belval
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Jeff Schmitz, Cardiology, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Centre Médical Belval
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Jeff Schmitz, Cardiology, Esch-sur-Alzette
+Rating: 6/10
+Clinic visited: Centre de Santé Lallange
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Jeff Schmitz, Cardiology, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Centre de Santé Lallange
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 6 for Dr. Jeff Schmitz, Cardiology, Esch-sur-Alzette
+Rating: 7/10
+Clinic visited: Centre Médical Belval
+Description: Great care in the visit itself, but the billing for the tests at Centre Médical Belval was confusing. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Jeff Schmitz, Cardiology, Esch-sur-Alzette
+Rating: 5/10
+Clinic visited: Centre de Santé Lallange
+Description: Dr. Jeff Schmitz adjusted my blood pressure medication carefully, though I had to call twice for a refill. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Jeff Schmitz, Cardiology, Esch-sur-Alzette
+Rating: 8/10
+Clinic visited: Centre Médical Belval
+Description: Dr. Jeff Schmitz looked me in the eye, listened to the whole story and only then started typing. Honest about the risks and benefits of the procedure, Dr. Jeff Schmitz never pressured me toward surgery.
+
+Overall rating for Dr. Jeff Schmitz, Cardiology, Esch-sur-Alzette: 6.88/10 from 8 reviews

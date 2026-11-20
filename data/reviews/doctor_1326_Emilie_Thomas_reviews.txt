@@ -1,0 +1,49 @@
+Doctor: Dr. Émilie Thomas
+Doctor ID: 1326
+Specialization: Pathology
+Gender: Female
+Years of experience: 13
+City: Toulouse, France
+Clinics: Centre de Santé Compans (clinic ID 173)
+
+Review 1 for Dr. Émilie Thomas, Pathology, Toulouse
+Rating: 8/10
+Clinic visited: Centre de Santé Compans
+Description: Dr. Émilie Thomas took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. At my visit, Dr. Émilie Thomas took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 2 for Dr. Émilie Thomas, Pathology, Toulouse
+Rating: 9/10
+Clinic visited: Centre de Santé Compans
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. The molecular test results were presented with a clear explanation of what they meant and what they did not.
+
+Review 3 for Dr. Émilie Thomas, Pathology, Toulouse
+Rating: 10/10
+Clinic visited: Centre de Santé Compans
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Émilie Thomas, Pathology, Toulouse
+Rating: 7/10
+Clinic visited: Centre de Santé Compans
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Everything about the care was decent, but the cost was higher than I expected for a short appointment. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Émilie Thomas, Pathology, Toulouse
+Rating: 10/10
+Clinic visited: Centre de Santé Compans
+Description: The lab at Centre de Santé Compans had a quick, friendly blood draw and the phlebotomist found my vein on the first try. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 6 for Dr. Émilie Thomas, Pathology, Toulouse
+Rating: 10/10
+Clinic visited: Centre de Santé Compans
+Description: The biopsy report was returned in three days, and Dr. Émilie Thomas took time on the phone to explain every term in it.
+
+Review 7 for Dr. Émilie Thomas, Pathology, Toulouse
+Rating: 9/10
+Clinic visited: Centre de Santé Compans
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Émilie Thomas felt well organized from start to finish. The lab under Dr. Émilie Thomas was clean, organized and never overbooked, and results arrived exactly when promised.
+
+Review 8 for Dr. Émilie Thomas, Pathology, Toulouse
+Rating: 8/10
+Clinic visited: Centre de Santé Compans
+Description: The practice in Toulouse is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Allergy panel results were explained in detail by Dr. Émilie Thomas, with a note on which results mattered clinically and which did not.
+
+Overall rating for Dr. Émilie Thomas, Pathology, Toulouse: 8.88/10 from 8 reviews

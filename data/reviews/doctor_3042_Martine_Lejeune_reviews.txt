@@ -1,0 +1,59 @@
+Doctor: Dr. Martine Lejeune
+Doctor ID: 3042
+Specialization: Cardiology
+Gender: Female
+Years of experience: 1
+City: Antwerp, Belgium
+Clinics: Huisartsenpraktijk Zurenborg (clinic ID 396); Gezondheidscentrum Berchem (clinic ID 398)
+
+Review 1 for Dr. Martine Lejeune, Cardiology, Antwerp
+Rating: 8/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: My atrial fibrillation is well managed by Dr. Martine Lejeune, and I know exactly what symptoms mean I should call. Highly recommended, and I have already told two colleagues about it.
+
+Review 2 for Dr. Martine Lejeune, Cardiology, Antwerp
+Rating: 10/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Honest about the risks and benefits of the procedure, Dr. Martine Lejeune never pressured me toward surgery.
+
+Review 3 for Dr. Martine Lejeune, Cardiology, Antwerp
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: Dr. Martine Lejeune adjusted my blood pressure medication carefully, though I had to call twice for a refill. I liked the advice I got from Dr. Martine Lejeune, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Martine Lejeune, Cardiology, Antwerp
+Rating: 10/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: After my heart attack, Dr. Martine Lejeune explained the rehab plan and medication changes with great patience and kindness. Dr. Martine Lejeune double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 5 for Dr. Martine Lejeune, Cardiology, Antwerp
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: Dr. Martine Lejeune looked me in the eye, listened to the whole story and only then started typing. After my palpitations began, Dr. Martine Lejeune arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 6 for Dr. Martine Lejeune, Cardiology, Antwerp
+Rating: 9/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: A translator was arranged for my mother without us asking twice, and Dr. Martine Lejeune spoke directly to her throughout.
+
+Review 7 for Dr. Martine Lejeune, Cardiology, Antwerp
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 8 for Dr. Martine Lejeune, Cardiology, Antwerp
+Rating: 6/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Martine Lejeune, Cardiology, Antwerp
+Rating: 10/10
+Clinic visited: Gezondheidscentrum Berchem
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. My whole family is switching over after seeing how good the care was.
+
+Review 10 for Dr. Martine Lejeune, Cardiology, Antwerp
+Rating: 9/10
+Clinic visited: Huisartsenpraktijk Zurenborg
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. Dr. Martine Lejeune used a calm, steady voice that settled my nerves before a stressful procedure. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Martine Lejeune, Cardiology, Antwerp: 8.60/10 from 10 reviews

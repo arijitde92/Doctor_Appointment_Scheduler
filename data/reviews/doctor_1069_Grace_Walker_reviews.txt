@@ -1,0 +1,59 @@
+Doctor: Dr. Grace Walker
+Doctor ID: 1069
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 8
+City: Edinburgh, UK
+Clinics: Queen Street Medical Centre (clinic ID 140); Queensferry Street Polyclinic (clinic ID 143); Raeburn Place Medical Practice (clinic ID 144)
+
+Review 1 for Dr. Grace Walker, Pediatrics, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 2 for Dr. Grace Walker, Pediatrics, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 3 for Dr. Grace Walker, Pediatrics, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Grace Walker, Pediatrics, Edinburgh
+Rating: 7/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 5 for Dr. Grace Walker, Pediatrics, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Kind to anxious parents, Dr. Grace Walker never showed a hint of impatience when I felt silly asking about a rash. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Grace Walker, Pediatrics, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: The growth chart review was detailed, and I appreciated that Dr. Grace Walker talked to my child as well as to me. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 7 for Dr. Grace Walker, Pediatrics, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Good bedside manner from Dr. Grace Walker, but the parking near Queensferry Street Polyclinic is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Grace Walker, Pediatrics, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 9 for Dr. Grace Walker, Pediatrics, Edinburgh
+Rating: 6/10
+Clinic visited: Raeburn Place Medical Practice
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 10 for Dr. Grace Walker, Pediatrics, Edinburgh
+Rating: 8/10
+Clinic visited: Raeburn Place Medical Practice
+Description: Our newborn check-ups with Dr. Grace Walker were reassuring; every question about feeding and sleep got a calm, practical answer. A same-day slot was found for me at Raeburn Place Medical Practice when I called with a worrying symptom.
+
+Overall rating for Dr. Grace Walker, Pediatrics, Edinburgh: 7.30/10 from 10 reviews

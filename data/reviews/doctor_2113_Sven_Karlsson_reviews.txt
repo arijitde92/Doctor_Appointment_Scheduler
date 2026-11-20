@@ -1,0 +1,54 @@
+Doctor: Dr. Sven Karlsson
+Doctor ID: 2113
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 5
+City: Gothenburg, Sweden
+Clinics: Vårdcentralen Avenyn Plus (clinic ID 275)
+
+Review 1 for Dr. Sven Karlsson, Pediatrics, Gothenburg
+Rating: 8/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Everything was explained in plain English by Dr. Sven Karlsson, and nothing was left to guess.
+
+Review 2 for Dr. Sven Karlsson, Pediatrics, Gothenburg
+Rating: 7/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Sven Karlsson, Pediatrics, Gothenburg
+Rating: 9/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. My teenager actually spoke up during the visit, and Dr. Sven Karlsson handled sensitive topics with respect.
+
+Review 4 for Dr. Sven Karlsson, Pediatrics, Gothenburg
+Rating: 9/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: The school physical at Vårdcentralen Avenyn Plus was quick, thorough and the forms were completed on the spot. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 5 for Dr. Sven Karlsson, Pediatrics, Gothenburg
+Rating: 6/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Good bedside manner from Dr. Sven Karlsson, but the parking near Vårdcentralen Avenyn Plus is limited and I had to circle for fifteen minutes.
+
+Review 6 for Dr. Sven Karlsson, Pediatrics, Gothenburg
+Rating: 9/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. Dr. Sven Karlsson looked me in the eye, listened to the whole story and only then started typing.
+
+Review 7 for Dr. Sven Karlsson, Pediatrics, Gothenburg
+Rating: 8/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: Vaccination visits with Dr. Sven Karlsson are painless and well explained, and my questions about the schedule were answered without any pressure. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 8 for Dr. Sven Karlsson, Pediatrics, Gothenburg
+Rating: 10/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: The waiting room in Gothenburg has a play corner and separate seating for sick children, which I really valued. Worth every minute of travel, and I would go again without a second thought.
+
+Review 9 for Dr. Sven Karlsson, Pediatrics, Gothenburg
+Rating: 7/10
+Clinic visited: Vårdcentralen Avenyn Plus
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Overall rating for Dr. Sven Karlsson, Pediatrics, Gothenburg: 8.11/10 from 9 reviews

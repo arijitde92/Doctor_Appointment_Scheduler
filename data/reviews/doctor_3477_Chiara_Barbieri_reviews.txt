@@ -1,0 +1,64 @@
+Doctor: Dr. Chiara Barbieri
+Doctor ID: 3477
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 25
+City: Rome, Italy
+Clinics: Poliambulatorio Santa Chiara (clinic ID 450); Centro Medico Prati (clinic ID 451); Studio Medico Parioli (clinic ID 452)
+
+Review 1 for Dr. Chiara Barbieri, Gastroenterology, Rome
+Rating: 4/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 2 for Dr. Chiara Barbieri, Gastroenterology, Rome
+Rating: 8/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Chiara Barbieri, Gastroenterology, Rome
+Rating: 7/10
+Clinic visited: Centro Medico Prati
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Knowledgeable about my reflux, Dr. Chiara Barbieri still gave diet advice that felt generic and not tailored to my habits.
+
+Review 4 for Dr. Chiara Barbieri, Gastroenterology, Rome
+Rating: 7/10
+Clinic visited: Studio Medico Parioli
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 5 for Dr. Chiara Barbieri, Gastroenterology, Rome
+Rating: 5/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Chiara Barbieri, Gastroenterology, Rome
+Rating: 5/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Chiara Barbieri, Gastroenterology, Rome
+Rating: 5/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Chiara Barbieri, Gastroenterology, Rome
+Rating: 6/10
+Clinic visited: Centro Medico Prati
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 9 for Dr. Chiara Barbieri, Gastroenterology, Rome
+Rating: 7/10
+Clinic visited: Centro Medico Prati
+Description: Dr. Chiara Barbieri is thorough, but I waited nearly two months to get the first available slot. I liked the advice I got from Dr. Chiara Barbieri, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 10 for Dr. Chiara Barbieri, Gastroenterology, Rome
+Rating: 7/10
+Clinic visited: Poliambulatorio Santa Chiara
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Worth trying, but I would not call it the best option in the area.
+
+Review 11 for Dr. Chiara Barbieri, Gastroenterology, Rome
+Rating: 6/10
+Clinic visited: Studio Medico Parioli
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Overall rating for Dr. Chiara Barbieri, Gastroenterology, Rome: 6.09/10 from 11 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Rangi Jones
+Doctor ID: 6688
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 5
+City: Hamilton, New Zealand
+Clinics: Hauraki Health Clinic (clinic ID 867)
+
+Review 1 for Dr. Rangi Jones, Psychiatry, Hamilton
+Rating: 10/10
+Clinic visited: Hauraki Health Clinic
+Description: Dr. Rangi Jones double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Rangi Jones, Psychiatry, Hamilton
+Rating: 10/10
+Clinic visited: Hauraki Health Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Rangi Jones, Psychiatry, Hamilton
+Rating: 9/10
+Clinic visited: Hauraki Health Clinic
+Description: I appreciated that she offered more than one option and let me choose what suited my life. My family was included in a session at my request, and Dr. Rangi Jones handled it with great tact.
+
+Review 4 for Dr. Rangi Jones, Psychiatry, Hamilton
+Rating: 9/10
+Clinic visited: Hauraki Health Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 5 for Dr. Rangi Jones, Psychiatry, Hamilton
+Rating: 8/10
+Clinic visited: Hauraki Health Clinic
+Description: Getting to Hauraki Health Clinic by public transport in Hamilton was easy, and there is a step-free entrance for wheelchairs.
+
+Review 6 for Dr. Rangi Jones, Psychiatry, Hamilton
+Rating: 8/10
+Clinic visited: Hauraki Health Clinic
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 7 for Dr. Rangi Jones, Psychiatry, Hamilton
+Rating: 10/10
+Clinic visited: Hauraki Health Clinic
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 8 for Dr. Rangi Jones, Psychiatry, Hamilton
+Rating: 9/10
+Clinic visited: Hauraki Health Clinic
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I felt like a person rather than a case number, and she asked about my life as well as my symptoms. This is the first doctor I have trusted completely in years.
+
+Overall rating for Dr. Rangi Jones, Psychiatry, Hamilton: 9.12/10 from 8 reviews

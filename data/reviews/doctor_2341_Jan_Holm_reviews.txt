@@ -1,0 +1,69 @@
+Doctor: Dr. Jan Holm
+Doctor ID: 2341
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 11
+City: Copenhagen, Denmark
+Clinics: Lægecentret Nørrebro Park (clinic ID 306)
+
+Review 1 for Dr. Jan Holm, Gastroenterology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Jan Holm, Gastroenterology, Copenhagen
+Rating: 10/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Results of the biopsy were shared within a week, with a phone call to walk me through them. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Jan Holm, Gastroenterology, Copenhagen
+Rating: 10/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Dr. Jan Holm was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Jan Holm, Gastroenterology, Copenhagen
+Rating: 9/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: He never made me feel embarrassed about discussing bowel habits, which is the main reason I returned. Paperwork at Lægecentret Nørrebro Park was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 5 for Dr. Jan Holm, Gastroenterology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 6 for Dr. Jan Holm, Gastroenterology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary. Dr. Jan Holm drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 7 for Dr. Jan Holm, Gastroenterology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Knowledgeable about my reflux, Dr. Jan Holm still gave diet advice that felt generic and not tailored to my habits. I got what I needed, but the next available appointment was three weeks away. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Jan Holm, Gastroenterology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Getting to Lægecentret Nørrebro Park in Copenhagen was simple, and the day-procedure unit was calm and efficient. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 9 for Dr. Jan Holm, Gastroenterology, Copenhagen
+Rating: 9/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: I was nervous about my screening, but the team at Lægecentret Nørrebro Park made me feel at ease, and I was home within hours.
+
+Review 10 for Dr. Jan Holm, Gastroenterology, Copenhagen
+Rating: 8/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: I get regular check-ups for my Crohn's disease, and Dr. Jan Holm adjusts my treatment carefully and always explains why. I came away understanding my condition better than I have in years of previous appointments. This is the first doctor I have trusted completely in years.
+
+Review 11 for Dr. Jan Holm, Gastroenterology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 12 for Dr. Jan Holm, Gastroenterology, Copenhagen
+Rating: 7/10
+Clinic visited: Lægecentret Nørrebro Park
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Good bedside manner from Dr. Jan Holm, but the parking near Lægecentret Nørrebro Park is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Jan Holm, Gastroenterology, Copenhagen: 8.17/10 from 12 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Hafiz bin Rahman
+Doctor ID: 4707
+Specialization: Cardiology
+Gender: Male
+Years of experience: 9
+City: Johor Bahru, Malaysia
+Clinics: Klinik Sejahtera Bersama (clinic ID 608)
+
+Review 1 for Dr. Hafiz bin Rahman, Cardiology, Johor Bahru
+Rating: 6/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Clear explanations, but the follow-up call took a week longer than I had been told. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Hafiz bin Rahman, Cardiology, Johor Bahru
+Rating: 8/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. Dr. Hafiz bin Rahman looked me in the eye, listened to the whole story and only then started typing.
+
+Review 3 for Dr. Hafiz bin Rahman, Cardiology, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Great care in the visit itself, but the billing for the tests at Klinik Sejahtera Bersama was confusing.
+
+Review 4 for Dr. Hafiz bin Rahman, Cardiology, Johor Bahru
+Rating: 8/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Managing my blood pressure with Dr. Hafiz bin Rahman has been steady and practical, with home readings reviewed at every visit. I feel lucky to have found this practice in my area.
+
+Review 5 for Dr. Hafiz bin Rahman, Cardiology, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 6 for Dr. Hafiz bin Rahman, Cardiology, Johor Bahru
+Rating: 7/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Dr. Hafiz bin Rahman adjusted my blood pressure medication carefully, though I had to call twice for a refill. The treatment plan from Dr. Hafiz bin Rahman made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Hafiz bin Rahman, Cardiology, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Hafiz bin Rahman, Cardiology, Johor Bahru
+Rating: 8/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: My test results arrived in the portal within two days, together with a short note that made sense. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 9 for Dr. Hafiz bin Rahman, Cardiology, Johor Bahru
+Rating: 6/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: I liked the advice I got from Dr. Hafiz bin Rahman, but I would have liked more time to ask follow-up questions before the visit ended. Helpful with my cholesterol, Dr. Hafiz bin Rahman still gave dietary advice that was a little generic. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Hafiz bin Rahman, Cardiology, Johor Bahru
+Rating: 5/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 11 for Dr. Hafiz bin Rahman, Cardiology, Johor Bahru
+Rating: 7/10
+Clinic visited: Klinik Sejahtera Bersama
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Hafiz bin Rahman, Cardiology, Johor Bahru: 6.36/10 from 11 reviews

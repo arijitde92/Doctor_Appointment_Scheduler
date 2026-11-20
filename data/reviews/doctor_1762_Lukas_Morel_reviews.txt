@@ -1,0 +1,59 @@
+Doctor: Dr. Lukas Morel
+Doctor ID: 1762
+Specialization: General
+Gender: Male
+Years of experience: 1
+City: Zurich, Switzerland
+Clinics: Aerztezentrum Seefeld Plus (clinic ID 230)
+
+Review 1 for Dr. Lukas Morel, General, Zurich
+Rating: 9/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: Vaccination advice from Dr. Lukas Morel for my travel plans was thorough and specific to the countries I was visiting. The practice in Zurich is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 2 for Dr. Lukas Morel, General, Zurich
+Rating: 8/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: I went in with months of tiredness, and Dr. Lukas Morel ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. At my visit, Dr. Lukas Morel took notes on my medication list, checked for interactions and explained the changes simply. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Lukas Morel, General, Zurich
+Rating: 7/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Lukas Morel, General, Zurich
+Rating: 9/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: By the time I left the room, Dr. Lukas Morel had sorted the sick note, referral letter and prescription refill. The nurse was friendly and efficient, and the whole visit with Dr. Lukas Morel felt well organized from start to finish.
+
+Review 5 for Dr. Lukas Morel, General, Zurich
+Rating: 8/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Managing my type 2 diabetes with Dr. Lukas Morel has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 6 for Dr. Lukas Morel, General, Zurich
+Rating: 7/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: Referrals from Dr. Lukas Morel are handled well, but getting test results back took longer than I was told to expect. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Lukas Morel, General, Zurich
+Rating: 8/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: A translator was arranged for my mother without us asking twice, and Dr. Lukas Morel spoke directly to her throughout.
+
+Review 8 for Dr. Lukas Morel, General, Zurich
+Rating: 8/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: I appreciated that he offered more than one option and let me choose what suited my life. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. Lukas Morel, General, Zurich
+Rating: 7/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: Booking was easy online, but the confirmation email contained the wrong address for Aerztezentrum Seefeld Plus.
+
+Review 10 for Dr. Lukas Morel, General, Zurich
+Rating: 8/10
+Clinic visited: Aerztezentrum Seefeld Plus
+Description: My blood pressure had crept up and Dr. Lukas Morel walked me through diet changes before suggesting anything else. Three months later my readings were normal. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Overall rating for Dr. Lukas Morel, General, Zurich: 7.90/10 from 10 reviews

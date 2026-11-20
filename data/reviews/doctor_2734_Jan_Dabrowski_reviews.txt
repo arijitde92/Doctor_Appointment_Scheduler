@@ -1,0 +1,64 @@
+Doctor: Dr. Jan Dąbrowski
+Doctor ID: 2734
+Specialization: General
+Gender: Male
+Years of experience: 10
+City: Gdansk, Poland
+Clinics: Centrum Zdrowia Orunia (clinic ID 358)
+
+Review 1 for Dr. Jan Dąbrowski, General, Gdansk
+Rating: 10/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: My blood pressure had crept up and Dr. Jan Dąbrowski walked me through diet changes before suggesting anything else. Three months later my readings were normal. The practice in Gdansk is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 2 for Dr. Jan Dąbrowski, General, Gdansk
+Rating: 9/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: As a new patient in Gdansk, I felt welcomed at Centrum Zdrowia Orunia, and my whole history was reviewed in one relaxed visit. A translator was arranged for my mother without us asking twice, and Dr. Jan Dąbrowski spoke directly to her throughout.
+
+Review 3 for Dr. Jan Dąbrowski, General, Gdansk
+Rating: 10/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: A same-day slot was found for me at Centrum Zdrowia Orunia when I called with a worrying symptom. Cholesterol results were explained by Dr. Jan Dąbrowski with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 4 for Dr. Jan Dąbrowski, General, Gdansk
+Rating: 8/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: By the time I left the room, Dr. Jan Dąbrowski had sorted the sick note, referral letter and prescription refill. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 5 for Dr. Jan Dąbrowski, General, Gdansk
+Rating: 10/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Vaccination advice from Dr. Jan Dąbrowski for my travel plans was thorough and specific to the countries I was visiting. Getting to Centrum Zdrowia Orunia by public transport in Gdansk was easy, and there is a step-free entrance for wheelchairs.
+
+Review 6 for Dr. Jan Dąbrowski, General, Gdansk
+Rating: 10/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Paperwork at Centrum Zdrowia Orunia was kept to a minimum, and the staff helped me complete the insurance form. My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Jan Dąbrowski, General, Gdansk
+Rating: 8/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 8 for Dr. Jan Dąbrowski, General, Gdansk
+Rating: 10/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Getting to Centrum Zdrowia Orunia from across Gdansk was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 9 for Dr. Jan Dąbrowski, General, Gdansk
+Rating: 10/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 10 for Dr. Jan Dąbrowski, General, Gdansk
+Rating: 10/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: I went in with months of tiredness, and Dr. Jan Dąbrowski ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 11 for Dr. Jan Dąbrowski, General, Gdansk
+Rating: 10/10
+Clinic visited: Centrum Zdrowia Orunia
+Description: The receptionist at Centrum Zdrowia Orunia remembered my name and had my forms ready, so check-in took less than a minute. My annual check-up with Dr. Jan Dąbrowski took forty minutes, with every screening explained and nothing rushed.
+
+Overall rating for Dr. Jan Dąbrowski, General, Gdansk: 9.55/10 from 11 reviews

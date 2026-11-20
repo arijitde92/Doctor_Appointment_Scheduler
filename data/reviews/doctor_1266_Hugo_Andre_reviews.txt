@@ -1,0 +1,69 @@
+Doctor: Dr. Hugo André
+Doctor ID: 1266
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 2
+City: Paris, France
+Clinics: Cabinet Médical de la Madeleine (clinic ID 165); Clinique du Parc Monceau (clinic ID 167)
+
+Review 1 for Dr. Hugo André, Orthopedic, Paris
+Rating: 9/10
+Clinic visited: Cabinet Médical de la Madeleine
+Description: Paperwork at Cabinet Médical de la Madeleine was kept to a minimum, and the staff helped me complete the insurance form. Seen the same day at Cabinet Médical de la Madeleine after a bad ankle sprain, with an X-ray done and a brace fitted before I left. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Hugo André, Orthopedic, Paris
+Rating: 9/10
+Clinic visited: Clinique du Parc Monceau
+Description: My torn rotator cuff was managed first by Dr. Hugo André with physiotherapy, and surgery was only suggested when it truly was needed. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 3 for Dr. Hugo André, Orthopedic, Paris
+Rating: 9/10
+Clinic visited: Clinique du Parc Monceau
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 4 for Dr. Hugo André, Orthopedic, Paris
+Rating: 7/10
+Clinic visited: Clinique du Parc Monceau
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clinique du Parc Monceau. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Hugo André, Orthopedic, Paris
+Rating: 6/10
+Clinic visited: Clinique du Parc Monceau
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Hugo André, Orthopedic, Paris
+Rating: 8/10
+Clinic visited: Cabinet Médical de la Madeleine
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 7 for Dr. Hugo André, Orthopedic, Paris
+Rating: 8/10
+Clinic visited: Clinique du Parc Monceau
+Description: Clear aftercare instructions from Dr. Hugo André and a direct number to call if something felt wrong after my surgery. Sensitive questions were handled by Dr. Hugo André with discretion and without a hint of judgment. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Hugo André, Orthopedic, Paris
+Rating: 7/10
+Clinic visited: Cabinet Médical de la Madeleine
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 9 for Dr. Hugo André, Orthopedic, Paris
+Rating: 10/10
+Clinic visited: Clinique du Parc Monceau
+Description: I appreciated Dr. Hugo André's honest comparison between injections, therapy and surgery for my hip pain. The waiting room at Clinique du Parc Monceau was clean, quiet and comfortable, with enough seating and water available.
+
+Review 10 for Dr. Hugo André, Orthopedic, Paris
+Rating: 7/10
+Clinic visited: Clinique du Parc Monceau
+Description: Dr. Hugo André explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Good bedside manner from Dr. Hugo André, but the parking near Clinique du Parc Monceau is limited and I had to circle for fifteen minutes.
+
+Review 11 for Dr. Hugo André, Orthopedic, Paris
+Rating: 7/10
+Clinic visited: Cabinet Médical de la Madeleine
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 12 for Dr. Hugo André, Orthopedic, Paris
+Rating: 7/10
+Clinic visited: Clinique du Parc Monceau
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Overall rating for Dr. Hugo André, Orthopedic, Paris: 7.83/10 from 12 reviews

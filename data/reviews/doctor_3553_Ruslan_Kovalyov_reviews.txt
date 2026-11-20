@@ -1,0 +1,54 @@
+Doctor: Dr. Ruslan Kovalyov
+Doctor ID: 3553
+Specialization: Psychology
+Gender: Male
+Years of experience: 5
+City: Kyiv, Ukraine
+Clinics: Zdorovya Rodyny Medical Centre (clinic ID 460)
+
+Review 1 for Dr. Ruslan Kovalyov, Psychology, Kyiv
+Rating: 8/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 2 for Dr. Ruslan Kovalyov, Psychology, Kyiv
+Rating: 7/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 3 for Dr. Ruslan Kovalyov, Psychology, Kyiv
+Rating: 6/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good tools for managing worry, but cancellations with short notice were handled inflexibly. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Ruslan Kovalyov, Psychology, Kyiv
+Rating: 6/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 5 for Dr. Ruslan Kovalyov, Psychology, Kyiv
+Rating: 4/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: There was no translator available, and my parent was left unable to follow what was being said. Sessions were frequently cut short, and I was still charged the full fee.
+
+Review 6 for Dr. Ruslan Kovalyov, Psychology, Kyiv
+Rating: 6/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Ruslan Kovalyov, Psychology, Kyiv
+Rating: 5/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: My trauma work felt well paced, although the schedule changed several times at Zdorovya Rodyny Medical Centre. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Ruslan Kovalyov, Psychology, Kyiv
+Rating: 5/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Dr. Ruslan Kovalyov listens well, though some sessions felt like a recap of the previous one without much new direction. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Ruslan Kovalyov, Psychology, Kyiv
+Rating: 6/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Insightful and kind, though progress with Dr. Ruslan Kovalyov felt slow, and I wished for more structured homework between sessions.
+
+Overall rating for Dr. Ruslan Kovalyov, Psychology, Kyiv: 5.89/10 from 9 reviews

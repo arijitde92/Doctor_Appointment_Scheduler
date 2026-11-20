@@ -1,0 +1,49 @@
+Doctor: Dr. Kavindi Silva
+Doctor ID: 5682
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 18
+City: Kandy, Sri Lanka
+Clinics: Lakeview Polyclinic Kandy (clinic ID 734)
+
+Review 1 for Dr. Kavindi Silva, Pediatrics, Kandy
+Rating: 6/10
+Clinic visited: Lakeview Polyclinic Kandy
+Description: Caring and gentle with my child, Dr. Kavindi Silva nonetheless ran forty minutes behind schedule at most appointments. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Kavindi Silva, Pediatrics, Kandy
+Rating: 8/10
+Clinic visited: Lakeview Polyclinic Kandy
+Description: Kind to anxious parents, Dr. Kavindi Silva never showed a hint of impatience when I felt silly asking about a rash. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 3 for Dr. Kavindi Silva, Pediatrics, Kandy
+Rating: 8/10
+Clinic visited: Lakeview Polyclinic Kandy
+Description: The school physical at Lakeview Polyclinic Kandy was quick, thorough and the forms were completed on the spot.
+
+Review 4 for Dr. Kavindi Silva, Pediatrics, Kandy
+Rating: 7/10
+Clinic visited: Lakeview Polyclinic Kandy
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 5 for Dr. Kavindi Silva, Pediatrics, Kandy
+Rating: 6/10
+Clinic visited: Lakeview Polyclinic Kandy
+Description: Quick appointment and a fair price in Kandy, but the staff seemed overwhelmed and a bit curt on the phone. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 6 for Dr. Kavindi Silva, Pediatrics, Kandy
+Rating: 6/10
+Clinic visited: Lakeview Polyclinic Kandy
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Kavindi Silva, Pediatrics, Kandy
+Rating: 7/10
+Clinic visited: Lakeview Polyclinic Kandy
+Description: Good bedside manner from Dr. Kavindi Silva, but the parking near Lakeview Polyclinic Kandy is limited and I had to circle for fifteen minutes. Dr. Kavindi Silva is thorough with exams, but the after-hours phone line at Lakeview Polyclinic Kandy is hard to reach.
+
+Review 8 for Dr. Kavindi Silva, Pediatrics, Kandy
+Rating: 5/10
+Clinic visited: Lakeview Polyclinic Kandy
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Overall rating for Dr. Kavindi Silva, Pediatrics, Kandy: 6.62/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Huang Dong
+Doctor ID: 3923
+Specialization: General
+Gender: Male
+Years of experience: 5
+City: Shanghai, China
+Clinics: Jingan Anxin Clinic (clinic ID 506)
+
+Review 1 for Dr. Huang Dong, General, Shanghai
+Rating: 6/10
+Clinic visited: Jingan Anxin Clinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 2 for Dr. Huang Dong, General, Shanghai
+Rating: 6/10
+Clinic visited: Jingan Anxin Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 3 for Dr. Huang Dong, General, Shanghai
+Rating: 7/10
+Clinic visited: Jingan Anxin Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Jingan Anxin Clinic were inconsistent.
+
+Review 4 for Dr. Huang Dong, General, Shanghai
+Rating: 7/10
+Clinic visited: Jingan Anxin Clinic
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 5 for Dr. Huang Dong, General, Shanghai
+Rating: 7/10
+Clinic visited: Jingan Anxin Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 6 for Dr. Huang Dong, General, Shanghai
+Rating: 6/10
+Clinic visited: Jingan Anxin Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Huang Dong, General, Shanghai
+Rating: 7/10
+Clinic visited: Jingan Anxin Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Huang Dong, General, Shanghai
+Rating: 5/10
+Clinic visited: Jingan Anxin Clinic
+Description: Referrals from Dr. Huang Dong are handled well, but getting test results back took longer than I was told to expect.
+
+Overall rating for Dr. Huang Dong, General, Shanghai: 6.38/10 from 8 reviews

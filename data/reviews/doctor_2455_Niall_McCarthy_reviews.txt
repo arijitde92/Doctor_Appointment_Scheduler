@@ -1,0 +1,69 @@
+Doctor: Dr. Niall McCarthy
+Doctor ID: 2455
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 12
+City: Dublin, Ireland
+Clinics: Baggot Street Medical Centre (clinic ID 320); Rathmines Wellbeing Clinic (clinic ID 323); Smithfield Health Centre (clinic ID 324)
+
+Review 1 for Dr. Niall McCarthy, Pediatrics, Dublin
+Rating: 7/10
+Clinic visited: Smithfield Health Centre
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 2 for Dr. Niall McCarthy, Pediatrics, Dublin
+Rating: 6/10
+Clinic visited: Smithfield Health Centre
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Niall McCarthy, Pediatrics, Dublin
+Rating: 5/10
+Clinic visited: Smithfield Health Centre
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Good bedside manner from Dr. Niall McCarthy, but the parking near Smithfield Health Centre is limited and I had to circle for fifteen minutes.
+
+Review 4 for Dr. Niall McCarthy, Pediatrics, Dublin
+Rating: 6/10
+Clinic visited: Smithfield Health Centre
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Niall McCarthy, Pediatrics, Dublin
+Rating: 8/10
+Clinic visited: Baggot Street Medical Centre
+Description: My child's asthma action plan from Dr. Niall McCarthy was written out clearly so that school staff could follow it too. Booking online at Baggot Street Medical Centre was simple, and I got a confirmation text with clear directions and a reminder the day before. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Niall McCarthy, Pediatrics, Dublin
+Rating: 7/10
+Clinic visited: Baggot Street Medical Centre
+Description: Dr. Niall McCarthy is thorough with exams, but the after-hours phone line at Baggot Street Medical Centre is hard to reach. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 7 for Dr. Niall McCarthy, Pediatrics, Dublin
+Rating: 6/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Dr. Niall McCarthy was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 8 for Dr. Niall McCarthy, Pediatrics, Dublin
+Rating: 7/10
+Clinic visited: Baggot Street Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Niall McCarthy, Pediatrics, Dublin
+Rating: 9/10
+Clinic visited: Rathmines Wellbeing Clinic
+Description: The receptionist at Rathmines Wellbeing Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 10 for Dr. Niall McCarthy, Pediatrics, Dublin
+Rating: 6/10
+Clinic visited: Baggot Street Medical Centre
+Description: The treatment plan from Dr. Niall McCarthy made sense, but I wished it had been written down for me to take away.
+
+Review 11 for Dr. Niall McCarthy, Pediatrics, Dublin
+Rating: 8/10
+Clinic visited: Baggot Street Medical Centre
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I would happily recommend this doctor to friends and family.
+
+Review 12 for Dr. Niall McCarthy, Pediatrics, Dublin
+Rating: 6/10
+Clinic visited: Baggot Street Medical Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Caring and gentle with my child, Dr. Niall McCarthy nonetheless ran forty minutes behind schedule at most appointments.
+
+Overall rating for Dr. Niall McCarthy, Pediatrics, Dublin: 6.75/10 from 12 reviews

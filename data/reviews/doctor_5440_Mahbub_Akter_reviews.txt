@@ -1,0 +1,64 @@
+Doctor: Dr. Mahbub Akter
+Doctor ID: 5440
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 1
+City: Dhaka, Bangladesh
+Clinics: Padma Wellness Clinic (clinic ID 704)
+
+Review 1 for Dr. Mahbub Akter, Orthopedic, Dhaka
+Rating: 4/10
+Clinic visited: Padma Wellness Clinic
+Description: Dr. Mahbub Akter seemed to dismiss my concerns about swelling after the operation, and I had to go elsewhere. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 2 for Dr. Mahbub Akter, Orthopedic, Dhaka
+Rating: 6/10
+Clinic visited: Padma Wellness Clinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Mahbub Akter, Orthopedic, Dhaka
+Rating: 5/10
+Clinic visited: Padma Wellness Clinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 4 for Dr. Mahbub Akter, Orthopedic, Dhaka
+Rating: 4/10
+Clinic visited: Padma Wellness Clinic
+Description: My physiotherapy referral was lost, and weeks of recovery time went by before anyone noticed.
+
+Review 5 for Dr. Mahbub Akter, Orthopedic, Dhaka
+Rating: 8/10
+Clinic visited: Padma Wellness Clinic
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan.
+
+Review 6 for Dr. Mahbub Akter, Orthopedic, Dhaka
+Rating: 7/10
+Clinic visited: Padma Wellness Clinic
+Description: Dr. Mahbub Akter explained surgery options clearly, though the physiotherapy referral took weeks to arrive. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Mahbub Akter, Orthopedic, Dhaka
+Rating: 7/10
+Clinic visited: Padma Wellness Clinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Mahbub Akter, Orthopedic, Dhaka
+Rating: 5/10
+Clinic visited: Padma Wellness Clinic
+Description: Very skilled with my knee, but Dr. Mahbub Akter's clinic runs behind and the wait was over an hour.
+
+Review 9 for Dr. Mahbub Akter, Orthopedic, Dhaka
+Rating: 7/10
+Clinic visited: Padma Wellness Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 10 for Dr. Mahbub Akter, Orthopedic, Dhaka
+Rating: 6/10
+Clinic visited: Padma Wellness Clinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. Mahbub Akter, Orthopedic, Dhaka
+Rating: 5/10
+Clinic visited: Padma Wellness Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Overall rating for Dr. Mahbub Akter, Orthopedic, Dhaka: 5.82/10 from 11 reviews

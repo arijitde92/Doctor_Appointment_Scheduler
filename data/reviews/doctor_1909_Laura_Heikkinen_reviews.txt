@@ -1,0 +1,59 @@
+Doctor: Dr. Laura Heikkinen
+Doctor ID: 1909
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 30
+City: Tampere, Finland
+Clinics: Terveyskeskus Tahmela (clinic ID 249)
+
+Review 1 for Dr. Laura Heikkinen, Pulmonology, Tampere
+Rating: 5/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Dr. Laura Heikkinen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Laura Heikkinen, Pulmonology, Tampere
+Rating: 8/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Dr. Laura Heikkinen explained my lung nodule follow-up schedule calmly, which took away weeks of worry. A translator was arranged for my mother without us asking twice, and Dr. Laura Heikkinen spoke directly to her throughout. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Laura Heikkinen, Pulmonology, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Laura Heikkinen, Pulmonology, Tampere
+Rating: 4/10
+Clinic visited: Terveyskeskus Tahmela
+Description: I called twice about worsening symptoms and no one returned my message until the following week. The visit felt rushed, and Dr. Laura Heikkinen was already halfway out the door when I started to describe my second symptom.
+
+Review 5 for Dr. Laura Heikkinen, Pulmonology, Tampere
+Rating: 6/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 6 for Dr. Laura Heikkinen, Pulmonology, Tampere
+Rating: 7/10
+Clinic visited: Terveyskeskus Tahmela
+Description: The treatment plan from Dr. Laura Heikkinen made sense, but I wished it had been written down for me to take away. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 7 for Dr. Laura Heikkinen, Pulmonology, Tampere
+Rating: 5/10
+Clinic visited: Terveyskeskus Tahmela
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 8 for Dr. Laura Heikkinen, Pulmonology, Tampere
+Rating: 6/10
+Clinic visited: Terveyskeskus Tahmela
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Dr. Laura Heikkinen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Laura Heikkinen, Pulmonology, Tampere
+Rating: 6/10
+Clinic visited: Terveyskeskus Tahmela
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Laura Heikkinen adjusted my asthma medication well, but the breathing test appointment was a month away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Laura Heikkinen, Pulmonology, Tampere
+Rating: 6/10
+Clinic visited: Terveyskeskus Tahmela
+Description: Helpful and honest about my prognosis, Dr. Laura Heikkinen could still have given me more written material to take home. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Laura Heikkinen, Pulmonology, Tampere: 6.00/10 from 10 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Lucas Tremblay
+Doctor ID: 254
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 12
+City: Calgary, Canada
+Clinics: Prairie Sky Medical Clinic (clinic ID 35)
+
+Review 1 for Dr. Lucas Tremblay, Pediatrics, Calgary
+Rating: 8/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 2 for Dr. Lucas Tremblay, Pediatrics, Calgary
+Rating: 9/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 3 for Dr. Lucas Tremblay, Pediatrics, Calgary
+Rating: 7/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Dr. Lucas Tremblay is thorough with exams, but the after-hours phone line at Prairie Sky Medical Clinic is hard to reach. The treatment plan from Dr. Lucas Tremblay made sense, but I wished it had been written down for me to take away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Lucas Tremblay, Pediatrics, Calgary
+Rating: 8/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: The growth chart review was detailed, and I appreciated that Dr. Lucas Tremblay talked to my child as well as to me.
+
+Review 5 for Dr. Lucas Tremblay, Pediatrics, Calgary
+Rating: 7/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Booking was easy online, but the confirmation email contained the wrong address for Prairie Sky Medical Clinic.
+
+Review 6 for Dr. Lucas Tremblay, Pediatrics, Calgary
+Rating: 10/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 7 for Dr. Lucas Tremblay, Pediatrics, Calgary
+Rating: 9/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 8 for Dr. Lucas Tremblay, Pediatrics, Calgary
+Rating: 9/10
+Clinic visited: Prairie Sky Medical Clinic
+Description: Dr. Lucas Tremblay noticed a speech delay early and referred us to a therapist, which has made a real difference. The nurse was friendly and efficient, and the whole visit with Dr. Lucas Tremblay felt well organized from start to finish.
+
+Overall rating for Dr. Lucas Tremblay, Pediatrics, Calgary: 8.38/10 from 8 reviews

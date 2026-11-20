@@ -1,0 +1,49 @@
+Doctor: Dr. Matthew Lopez
+Doctor ID: 189
+Specialization: Cardiology
+Gender: Male
+Years of experience: 8
+City: New York, USA
+Clinics: Midtown Family Medical Group (clinic ID 26)
+
+Review 1 for Dr. Matthew Lopez, Cardiology, New York
+Rating: 8/10
+Clinic visited: Midtown Family Medical Group
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. Booking online at Midtown Family Medical Group was simple, and I got a confirmation text with clear directions and a reminder the day before. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Matthew Lopez, Cardiology, New York
+Rating: 7/10
+Clinic visited: Midtown Family Medical Group
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 3 for Dr. Matthew Lopez, Cardiology, New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: I liked the advice I got from Dr. Matthew Lopez, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Matthew Lopez, Cardiology, New York
+Rating: 10/10
+Clinic visited: Midtown Family Medical Group
+Description: A same-day slot was found for me at Midtown Family Medical Group when I called with a worrying symptom. My stress test was supervised carefully, and Dr. Matthew Lopez reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 5 for Dr. Matthew Lopez, Cardiology, New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Matthew Lopez adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 6 for Dr. Matthew Lopez, Cardiology, New York
+Rating: 6/10
+Clinic visited: Midtown Family Medical Group
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Matthew Lopez, Cardiology, New York
+Rating: 8/10
+Clinic visited: Midtown Family Medical Group
+Description: Paperwork at Midtown Family Medical Group was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 8 for Dr. Matthew Lopez, Cardiology, New York
+Rating: 9/10
+Clinic visited: Midtown Family Medical Group
+Description: The cardiology unit at Midtown Family Medical Group runs on time, and the technicians were professional during my echocardiogram. Dr. Matthew Lopez looked me in the eye, listened to the whole story and only then started typing. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Matthew Lopez, Cardiology, New York: 7.50/10 from 8 reviews

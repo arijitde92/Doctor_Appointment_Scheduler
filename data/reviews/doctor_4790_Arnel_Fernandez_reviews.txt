@@ -1,0 +1,49 @@
+Doctor: Dr. Arnel Fernandez
+Doctor ID: 4790
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 18
+City: Cebu City, Philippines
+Clinics: Klinika Ligaya (clinic ID 619)
+
+Review 1 for Dr. Arnel Fernandez, Pulmonology, Cebu City
+Rating: 8/10
+Clinic visited: Klinika Ligaya
+Description: The receptionist at Klinika Ligaya remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 2 for Dr. Arnel Fernandez, Pulmonology, Cebu City
+Rating: 7/10
+Clinic visited: Klinika Ligaya
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Arnel Fernandez adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Review 3 for Dr. Arnel Fernandez, Pulmonology, Cebu City
+Rating: 7/10
+Clinic visited: Klinika Ligaya
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Arnel Fernandez, Pulmonology, Cebu City
+Rating: 8/10
+Clinic visited: Klinika Ligaya
+Description: Dr. Arnel Fernandez used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 5 for Dr. Arnel Fernandez, Pulmonology, Cebu City
+Rating: 7/10
+Clinic visited: Klinika Ligaya
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards.
+
+Review 6 for Dr. Arnel Fernandez, Pulmonology, Cebu City
+Rating: 7/10
+Clinic visited: Klinika Ligaya
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 7 for Dr. Arnel Fernandez, Pulmonology, Cebu City
+Rating: 7/10
+Clinic visited: Klinika Ligaya
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Helpful and honest about my prognosis, Dr. Arnel Fernandez could still have given me more written material to take home.
+
+Review 8 for Dr. Arnel Fernandez, Pulmonology, Cebu City
+Rating: 7/10
+Clinic visited: Klinika Ligaya
+Description: Pleasant manner and careful lung exam, though the waiting time at Klinika Ligaya regularly exceeded forty minutes.
+
+Overall rating for Dr. Arnel Fernandez, Pulmonology, Cebu City: 7.25/10 from 8 reviews

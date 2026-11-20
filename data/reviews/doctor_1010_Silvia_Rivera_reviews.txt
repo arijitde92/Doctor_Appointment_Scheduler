@@ -1,0 +1,69 @@
+Doctor: Dr. Silvia Rivera
+Doctor ID: 1010
+Specialization: General
+Gender: Female
+Years of experience: 11
+City: Trujillo, Peru
+Clinics: Consultorios Médicos Mansiche (clinic ID 132)
+
+Review 1 for Dr. Silvia Rivera, General, Trujillo
+Rating: 7/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 2 for Dr. Silvia Rivera, General, Trujillo
+Rating: 9/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 3 for Dr. Silvia Rivera, General, Trujillo
+Rating: 9/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. Managing my type 2 diabetes with Dr. Silvia Rivera has been steady and practical, with quarterly blood sugar reviews and no lectures. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Silvia Rivera, General, Trujillo
+Rating: 9/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 5 for Dr. Silvia Rivera, General, Trujillo
+Rating: 8/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Dr. Silvia Rivera drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 6 for Dr. Silvia Rivera, General, Trujillo
+Rating: 9/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Silvia Rivera, General, Trujillo
+Rating: 9/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Silvia Rivera, General, Trujillo
+Rating: 9/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 9 for Dr. Silvia Rivera, General, Trujillo
+Rating: 10/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Dr. Silvia Rivera looked me in the eye, listened to the whole story and only then started typing.
+
+Review 10 for Dr. Silvia Rivera, General, Trujillo
+Rating: 10/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Dr. Silvia Rivera double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Highly recommended, and I have already told two colleagues about it.
+
+Review 11 for Dr. Silvia Rivera, General, Trujillo
+Rating: 9/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 12 for Dr. Silvia Rivera, General, Trujillo
+Rating: 10/10
+Clinic visited: Consultorios Médicos Mansiche
+Description: Dr. Silvia Rivera spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. Everything was explained in plain English by Dr. Silvia Rivera, and nothing was left to guess.
+
+Overall rating for Dr. Silvia Rivera, General, Trujillo: 9.00/10 from 12 reviews

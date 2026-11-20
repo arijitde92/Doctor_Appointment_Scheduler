@@ -1,0 +1,59 @@
+Doctor: Dr. Enrico Giordano
+Doctor ID: 3366
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 21
+City: Florence, Italy
+Clinics: Studio Medico Oltrarno (clinic ID 437)
+
+Review 1 for Dr. Enrico Giordano, Psychiatry, Florence
+Rating: 6/10
+Clinic visited: Studio Medico Oltrarno
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Enrico Giordano, Psychiatry, Florence
+Rating: 4/10
+Clinic visited: Studio Medico Oltrarno
+Description: Appointments were rescheduled at short notice three times, which made continuity of care almost impossible.
+
+Review 3 for Dr. Enrico Giordano, Psychiatry, Florence
+Rating: 6/10
+Clinic visited: Studio Medico Oltrarno
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 4 for Dr. Enrico Giordano, Psychiatry, Florence
+Rating: 5/10
+Clinic visited: Studio Medico Oltrarno
+Description: Dr. Enrico Giordano is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 5 for Dr. Enrico Giordano, Psychiatry, Florence
+Rating: 6/10
+Clinic visited: Studio Medico Oltrarno
+Description: Supportive in crisis, but follow-up between visits could have been more regular. Quick appointment and a fair price in Florence, but the staff seemed overwhelmed and a bit curt on the phone. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Enrico Giordano, Psychiatry, Florence
+Rating: 6/10
+Clinic visited: Studio Medico Oltrarno
+Description: Good listener, yet the refill process at Studio Medico Oltrarno is slow and requires several phone calls. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Enrico Giordano, Psychiatry, Florence
+Rating: 5/10
+Clinic visited: Studio Medico Oltrarno
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 8 for Dr. Enrico Giordano, Psychiatry, Florence
+Rating: 7/10
+Clinic visited: Studio Medico Oltrarno
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Helpful visit overall, although I only found out about an extra charge after I had paid. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Enrico Giordano, Psychiatry, Florence
+Rating: 8/10
+Clinic visited: Studio Medico Oltrarno
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Dr. Enrico Giordano took a full history before suggesting any medication and explained the likely side effects honestly. I would happily recommend this doctor to friends and family.
+
+Review 10 for Dr. Enrico Giordano, Psychiatry, Florence
+Rating: 9/10
+Clinic visited: Studio Medico Oltrarno
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. Dr. Enrico Giordano used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Overall rating for Dr. Enrico Giordano, Psychiatry, Florence: 6.20/10 from 10 reviews

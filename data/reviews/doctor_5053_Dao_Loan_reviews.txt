@@ -1,0 +1,49 @@
+Doctor: Dr. Dao Loan
+Doctor ID: 5053
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 12
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Gia Dinh Hanh Phuc (clinic ID 653)
+
+Review 1 for Dr. Dao Loan, Orthopedic, Ho Chi Minh City
+Rating: 5/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Dr. Dao Loan was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Dao Loan, Orthopedic, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: Very skilled with my knee, but Dr. Dao Loan's clinic runs behind and the wait was over an hour.
+
+Review 3 for Dr. Dao Loan, Orthopedic, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Dao Loan, Orthopedic, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: My test results arrived in the portal within two days, together with a short note that made sense. My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Dao Loan, Orthopedic, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: The X-ray was reviewed with me on screen, and she pointed out exactly where the cartilage had worn down. I was given a printed summary of the visit, which I shared with my family at home. Five stars from me, and I would book again tomorrow.
+
+Review 6 for Dr. Dao Loan, Orthopedic, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: The receptionist at Phong Kham Gia Dinh Hanh Phuc remembered my name and had my forms ready, so check-in took less than a minute. Getting around Ho Chi Minh City on crutches was hard, but the accessible entrance and short waiting time at Phong Kham Gia Dinh Hanh Phuc helped a lot. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Dao Loan, Orthopedic, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: Dr. Dao Loan used a calm, steady voice that settled my nerves before a stressful procedure. I appreciated Dr. Dao Loan's honest comparison between injections, therapy and surgery for my hip pain.
+
+Review 8 for Dr. Dao Loan, Orthopedic, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Overall rating for Dr. Dao Loan, Orthopedic, Ho Chi Minh City: 6.88/10 from 8 reviews

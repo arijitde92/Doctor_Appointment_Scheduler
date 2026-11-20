@@ -1,0 +1,49 @@
+Doctor: Dr. Vo Dat
+Doctor ID: 5025
+Specialization: Cardiology
+Gender: Male
+Years of experience: 11
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Song Han (clinic ID 650)
+
+Review 1 for Dr. Vo Dat, Cardiology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Song Han
+Description: Clear and calm advice at Phong Kham Song Han about exercise after my stent, including a gradual written schedule. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 2 for Dr. Vo Dat, Cardiology, Ho Chi Minh City
+Rating: 4/10
+Clinic visited: Phong Kham Song Han
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 3 for Dr. Vo Dat, Cardiology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Song Han
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Vo Dat, Cardiology, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Song Han
+Description: Great care in the visit itself, but the billing for the tests at Phong Kham Song Han was confusing. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Vo Dat, Cardiology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Song Han
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Clear explanations, but the follow-up call took a week longer than I had been told. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Vo Dat, Cardiology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Song Han
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. The cardiology unit at Phong Kham Song Han runs on time, and the technicians were professional during my echocardiogram.
+
+Review 7 for Dr. Vo Dat, Cardiology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Song Han
+Description: The treatment plan from Dr. Vo Dat made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Vo Dat, Cardiology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Song Han
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Overall rating for Dr. Vo Dat, Cardiology, Ho Chi Minh City: 7.25/10 from 8 reviews

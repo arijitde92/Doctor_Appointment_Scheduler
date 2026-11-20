@@ -1,0 +1,54 @@
+Doctor: Dr. Julie Maes
+Doctor ID: 3138
+Specialization: Obstetrics and Gynecology (OB/GYN)
+Gender: Female
+Years of experience: 1
+City: Ghent, Belgium
+Clinics: Polikliniek Dampoort (clinic ID 407); Medisch Centrum Vlasmarkt (clinic ID 409)
+
+Review 1 for Dr. Julie Maes, Obstetrics and Gynecology (OB/GYN), Ghent
+Rating: 6/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Dr. Julie Maes explained my options well, though the office was often running an hour behind.
+
+Review 2 for Dr. Julie Maes, Obstetrics and Gynecology (OB/GYN), Ghent
+Rating: 5/10
+Clinic visited: Polikliniek Dampoort
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Julie Maes, Obstetrics and Gynecology (OB/GYN), Ghent
+Rating: 6/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: A respectful exam, but I wished for more discussion on pain management before my procedure.
+
+Review 4 for Dr. Julie Maes, Obstetrics and Gynecology (OB/GYN), Ghent
+Rating: 8/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: My routine pap smear with Dr. Julie Maes was quick and respectful, with each step explained before it was done. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 5 for Dr. Julie Maes, Obstetrics and Gynecology (OB/GYN), Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Good care overall, yet the on-call doctor who covered my weekend visit knew little about my history. Quick appointment and a fair price in Ghent, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Julie Maes, Obstetrics and Gynecology (OB/GYN), Ghent
+Rating: 6/10
+Clinic visited: Polikliniek Dampoort
+Description: Booking was easy online, but the confirmation email contained the wrong address for Polikliniek Dampoort.
+
+Review 7 for Dr. Julie Maes, Obstetrics and Gynecology (OB/GYN), Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Julie Maes, Obstetrics and Gynecology (OB/GYN), Ghent
+Rating: 4/10
+Clinic visited: Polikliniek Dampoort
+Description: I was left waiting ninety minutes for a routine prenatal check with Dr. Julie Maes, which lasted only a few minutes. Dr. Julie Maes did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 9 for Dr. Julie Maes, Obstetrics and Gynecology (OB/GYN), Ghent
+Rating: 6/10
+Clinic visited: Polikliniek Dampoort
+Description: The ultrasound images from Dr. Julie Maes were great, but I had to call twice to get the written report.
+
+Overall rating for Dr. Julie Maes, Obstetrics and Gynecology (OB/GYN), Ghent: 6.11/10 from 9 reviews

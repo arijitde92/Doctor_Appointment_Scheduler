@@ -1,0 +1,54 @@
+Doctor: Dr. Nicole Schmid
+Doctor ID: 1730
+Specialization: Cardiology
+Gender: Female
+Years of experience: 11
+City: Geneva, Switzerland
+Clinics: Cabinet Médical des Eaux-Vives (clinic ID 225)
+
+Review 1 for Dr. Nicole Schmid, Cardiology, Geneva
+Rating: 9/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: A translator was arranged for my mother without us asking twice, and Dr. Nicole Schmid spoke directly to her throughout.
+
+Review 2 for Dr. Nicole Schmid, Cardiology, Geneva
+Rating: 7/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Great care in the visit itself, but the billing for the tests at Cabinet Médical des Eaux-Vives was confusing.
+
+Review 3 for Dr. Nicole Schmid, Cardiology, Geneva
+Rating: 6/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Dr. Nicole Schmid adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 4 for Dr. Nicole Schmid, Cardiology, Geneva
+Rating: 7/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Booking was easy online, but the confirmation email contained the wrong address for Cabinet Médical des Eaux-Vives. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 5 for Dr. Nicole Schmid, Cardiology, Geneva
+Rating: 7/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Quick appointment and a fair price in Geneva, but the staff seemed overwhelmed and a bit curt on the phone. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 6 for Dr. Nicole Schmid, Cardiology, Geneva
+Rating: 8/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Clear and calm advice at Cabinet Médical des Eaux-Vives about exercise after my stent, including a gradual written schedule.
+
+Review 7 for Dr. Nicole Schmid, Cardiology, Geneva
+Rating: 7/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Nicole Schmid, Cardiology, Geneva
+Rating: 8/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: My stress test was supervised carefully, and Dr. Nicole Schmid reviewed the results in the same visit with a plan for my cholesterol. I came away understanding my condition better than I have in years of previous appointments. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Nicole Schmid, Cardiology, Geneva
+Rating: 7/10
+Clinic visited: Cabinet Médical des Eaux-Vives
+Description: Helpful with my cholesterol, Dr. Nicole Schmid still gave dietary advice that was a little generic. I liked the advice I got from Dr. Nicole Schmid, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Nicole Schmid, Cardiology, Geneva: 7.33/10 from 9 reviews

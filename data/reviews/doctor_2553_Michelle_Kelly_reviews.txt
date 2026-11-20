@@ -1,0 +1,59 @@
+Doctor: Dr. Michelle Kelly
+Doctor ID: 2553
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 2
+City: Limerick, Ireland
+Clinics: Roxboro Road Wellbeing Clinic (clinic ID 334)
+
+Review 1 for Dr. Michelle Kelly, Orthopedic, Limerick
+Rating: 7/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 2 for Dr. Michelle Kelly, Orthopedic, Limerick
+Rating: 7/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: Dr. Michelle Kelly was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. Michelle Kelly explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 3 for Dr. Michelle Kelly, Orthopedic, Limerick
+Rating: 6/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Michelle Kelly, Orthopedic, Limerick
+Rating: 7/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: Quick appointment and a fair price in Limerick, but the staff seemed overwhelmed and a bit curt on the phone. The cast was applied well, but the instructions for showering and sleeping were rushed. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Michelle Kelly, Orthopedic, Limerick
+Rating: 6/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: Very skilled with my knee, but Dr. Michelle Kelly's clinic runs behind and the wait was over an hour. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Michelle Kelly, Orthopedic, Limerick
+Rating: 5/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Michelle Kelly, Orthopedic, Limerick
+Rating: 6/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 8 for Dr. Michelle Kelly, Orthopedic, Limerick
+Rating: 3/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 9 for Dr. Michelle Kelly, Orthopedic, Limerick
+Rating: 5/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 10 for Dr. Michelle Kelly, Orthopedic, Limerick
+Rating: 4/10
+Clinic visited: Roxboro Road Wellbeing Clinic
+Description: The appointment lasted five minutes and ended with an injection I had not agreed to beforehand.
+
+Overall rating for Dr. Michelle Kelly, Orthopedic, Limerick: 5.60/10 from 10 reviews

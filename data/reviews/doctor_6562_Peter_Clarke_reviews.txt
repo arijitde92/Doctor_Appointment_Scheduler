@@ -1,0 +1,69 @@
+Doctor: Dr. Peter Clarke
+Doctor ID: 6562
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 5
+City: Sydney, Australia
+Clinics: Southern Cross Family Medical Practice (clinic ID 850)
+
+Review 1 for Dr. Peter Clarke, Psychiatry, Sydney
+Rating: 10/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: The ADHD assessment by Dr. Peter Clarke was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 2 for Dr. Peter Clarke, Psychiatry, Sydney
+Rating: 10/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: I was called in within five minutes of my appointment time at Southern Cross Family Medical Practice, which is rare and much appreciated.
+
+Review 3 for Dr. Peter Clarke, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: Excellent at explaining how therapy and medication work together, and Dr. Peter Clarke coordinated with my counselor. The nurse was friendly and efficient, and the whole visit with Dr. Peter Clarke felt well organized from start to finish.
+
+Review 4 for Dr. Peter Clarke, Psychiatry, Sydney
+Rating: 10/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: My family was included in a session at my request, and Dr. Peter Clarke handled it with great tact.
+
+Review 5 for Dr. Peter Clarke, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: The practice in Sydney is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 6 for Dr. Peter Clarke, Psychiatry, Sydney
+Rating: 6/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Dr. Peter Clarke was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 7 for Dr. Peter Clarke, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: Dr. Peter Clarke took a full history before suggesting any medication and explained the likely side effects honestly. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Peter Clarke, Psychiatry, Sydney
+Rating: 10/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Peter Clarke, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: Never once did Dr. Peter Clarke make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 10 for Dr. Peter Clarke, Psychiatry, Sydney
+Rating: 7/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 11 for Dr. Peter Clarke, Psychiatry, Sydney
+Rating: 9/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: Paperwork at Southern Cross Family Medical Practice was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 12 for Dr. Peter Clarke, Psychiatry, Sydney
+Rating: 8/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Overall rating for Dr. Peter Clarke, Psychiatry, Sydney: 8.50/10 from 12 reviews

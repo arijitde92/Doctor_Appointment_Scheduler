@@ -29,6 +29,7 @@ import { Button, Card, SectionTitle } from "../components/ui";
 import { agentName } from "../config/catalog";
 import { consultationMessages, listAppointments, listConsultations } from "../lib/api";
 import { formatLongDate, parseIsoDate, startOfDay } from "../lib/calendar";
+import { isValidTimeZone, todayInZone, viewerTime, zoneCity, zonedInstant, zoneLabel } from "../lib/timezones";
 import type { Appointment, AppointmentStatus, ConsultationSummary, LogMessage } from "../lib/types";
 import type { ConsultNavState } from "./ConsultPage";
 
@@ -40,7 +41,14 @@ const STATUS_STYLE: Record<AppointmentStatus, { label: string; chip: string; bad
 };
 const PAST_CHIP = "border-slate-200 bg-slate-100 text-slate-700 hover:bg-slate-200";
 
-const isPast = (a: Appointment, today: Date) => parseIsoDate(a.appointmentDate) < today;
+/** Past at the clinic: compare with "today" in the appointment's own time zone. */
+const isPast = (a: Appointment, today: Date) =>
+  parseIsoDate(a.appointmentDate) < (isValidTimeZone(a.timeZone) ? todayInZone(a.timeZone) : today);
+
+/** "10:00 AM (Paris)" when the appointment's time zone is known. */
+function timeWithZone(a: Appointment) {
+  return isValidTimeZone(a.timeZone) ? `${a.startTime} (${zoneCity(a.timeZone)})` : a.startTime;
+}
 
 function greeting(): string {
   const h = new Date().getHours();
@@ -191,7 +199,7 @@ export default function DashboardPage() {
                           type="button"
                           tabIndex={-1}
                           onClick={() => select(a)}
-                          title={`Dr. ${a.doctorName} · ${a.startTime} · ${a.clinicName}`}
+                          title={`Dr. ${a.doctorName} · ${timeWithZone(a)} · ${a.clinicName}`}
                           className={clsx(
                             "w-full truncate rounded-md border px-1.5 py-0.5 text-left text-[0.6875rem] leading-tight font-medium transition-colors",
                             a.id === selectedId && "ring-2 ring-brand-400",
@@ -394,7 +402,7 @@ function AgendaRow({ a, today, active, onSelect }: { a: Appointment; today: Date
         <span className="min-w-0 flex-1">
           <span className="block truncate text-sm font-semibold text-ink">Dr. {a.doctorName}</span>
           <span className="block truncate text-xs text-slate-500">
-            {a.startTime} · {a.clinicName}
+            {timeWithZone(a)} · {a.clinicName}
           </span>
         </span>
         <StatusBadge a={a} today={today} />
@@ -438,6 +446,8 @@ function EmptyUpcoming({ hasPast }: { hasPast: boolean }) {
 function AppointmentDetails({ a, today, onRebook, onClose }: { a: Appointment; today: Date; onRebook: () => void; onClose: () => void }) {
   const date = parseIsoDate(a.appointmentDate);
   const pastVisit = isPast(a, today);
+  const zone = isValidTimeZone(a.timeZone) ? a.timeZone : undefined;
+  const yours = viewerTime(a.appointmentDate, a.startTime, zone);
   return (
     <Card className="overflow-hidden animate-fade-in">
       <div className="flex items-start justify-between gap-3 border-b border-slate-100 p-5">
@@ -467,6 +477,12 @@ function AppointmentDetails({ a, today, onRebook, onClose }: { a: Appointment; t
             <dd className="font-medium text-ink">
               {a.startTime} – {a.endTime}
             </dd>
+            {zone && (
+              <dd className="text-xs text-slate-500">
+                Clinic local time · {zoneLabel(zone, zonedInstant(a.appointmentDate, a.startTime, zone) ?? undefined)}
+                {yours && ` · ${yours} your time`}
+              </dd>
+            )}
           </div>
         </div>
         <div className="flex items-start gap-2.5">

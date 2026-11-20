@@ -1,0 +1,54 @@
+Doctor: Dr. Simon White
+Doctor ID: 304
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 19
+City: Montreal, Canada
+Clinics: Centre Médical René-Lévesque (clinic ID 41); Clinique Santé Côte-des-Neiges (clinic ID 42)
+
+Review 1 for Dr. Simon White, Pediatrics, Montreal
+Rating: 5/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Dr. Simon White is thorough with exams, but the after-hours phone line at Centre Médical René-Lévesque is hard to reach. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Simon White, Pediatrics, Montreal
+Rating: 6/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 3 for Dr. Simon White, Pediatrics, Montreal
+Rating: 6/10
+Clinic visited: Centre Médical René-Lévesque
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Simon White, Pediatrics, Montreal
+Rating: 7/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Simon White, Pediatrics, Montreal
+Rating: 5/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Good bedside manner from Dr. Simon White, but the parking near Clinique Santé Côte-des-Neiges is limited and I had to circle for fifteen minutes. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Simon White, Pediatrics, Montreal
+Rating: 6/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Caring and gentle with my child, Dr. Simon White nonetheless ran forty minutes behind schedule at most appointments. Dr. Simon White was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 7 for Dr. Simon White, Pediatrics, Montreal
+Rating: 9/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Kind to anxious parents, Dr. Simon White never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 8 for Dr. Simon White, Pediatrics, Montreal
+Rating: 8/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 9 for Dr. Simon White, Pediatrics, Montreal
+Rating: 6/10
+Clinic visited: Centre Médical René-Lévesque
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Overall rating for Dr. Simon White, Pediatrics, Montreal: 6.44/10 from 9 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Ronan Brennan
+Doctor ID: 2408
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 30
+City: Cork, Ireland
+Clinics: Patrick Street Medical Practice (clinic ID 315)
+
+Review 1 for Dr. Ronan Brennan, Orthopedic, Cork
+Rating: 7/10
+Clinic visited: Patrick Street Medical Practice
+Description: Good bedside manner from Dr. Ronan Brennan, but the parking near Patrick Street Medical Practice is limited and I had to circle for fifteen minutes. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Ronan Brennan, Orthopedic, Cork
+Rating: 6/10
+Clinic visited: Patrick Street Medical Practice
+Description: Dr. Ronan Brennan explained surgery options clearly, though the physiotherapy referral took weeks to arrive. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Ronan Brennan, Orthopedic, Cork
+Rating: 7/10
+Clinic visited: Patrick Street Medical Practice
+Description: Dr. Ronan Brennan was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 4 for Dr. Ronan Brennan, Orthopedic, Cork
+Rating: 8/10
+Clinic visited: Patrick Street Medical Practice
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Ronan Brennan, Orthopedic, Cork
+Rating: 7/10
+Clinic visited: Patrick Street Medical Practice
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Booking was easy online, but the confirmation email contained the wrong address for Patrick Street Medical Practice.
+
+Review 6 for Dr. Ronan Brennan, Orthopedic, Cork
+Rating: 7/10
+Clinic visited: Patrick Street Medical Practice
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Ronan Brennan, Orthopedic, Cork
+Rating: 9/10
+Clinic visited: Patrick Street Medical Practice
+Description: The waiting room at Patrick Street Medical Practice was clean, quiet and comfortable, with enough seating and water available. After my knee replacement, Dr. Ronan Brennan explained the entire recovery timeline, and I was walking with a cane by week three.
+
+Review 8 for Dr. Ronan Brennan, Orthopedic, Cork
+Rating: 8/10
+Clinic visited: Patrick Street Medical Practice
+Description: My son's fracture was handled gently, and the explanation was pitched at his level as well as mine. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 9 for Dr. Ronan Brennan, Orthopedic, Cork
+Rating: 7/10
+Clinic visited: Patrick Street Medical Practice
+Description: Very skilled with my knee, but Dr. Ronan Brennan's clinic runs behind and the wait was over an hour. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Ronan Brennan, Orthopedic, Cork
+Rating: 9/10
+Clinic visited: Patrick Street Medical Practice
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan.
+
+Overall rating for Dr. Ronan Brennan, Orthopedic, Cork: 7.50/10 from 10 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Rebecca Davis
+Doctor ID: 6532
+Specialization: Radiology
+Gender: Female
+Years of experience: 22
+City: Perth, Australia
+Clinics: Jacaranda Family Practice (clinic ID 845)
+
+Review 1 for Dr. Rebecca Davis, Radiology, Perth
+Rating: 7/10
+Clinic visited: Jacaranda Family Practice
+Description: Quick appointment and a fair price in Perth, but the staff seemed overwhelmed and a bit curt on the phone. The report from Dr. Rebecca Davis was thorough, though full of technical terms that needed my regular doctor to translate. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Rebecca Davis, Radiology, Perth
+Rating: 5/10
+Clinic visited: Jacaranda Family Practice
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Rebecca Davis, Radiology, Perth
+Rating: 5/10
+Clinic visited: Jacaranda Family Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 4 for Dr. Rebecca Davis, Radiology, Perth
+Rating: 4/10
+Clinic visited: Jacaranda Family Practice
+Description: The visit felt rushed, and Dr. Rebecca Davis was already halfway out the door when I started to describe my second symptom.
+
+Review 5 for Dr. Rebecca Davis, Radiology, Perth
+Rating: 3/10
+Clinic visited: Jacaranda Family Practice
+Description: I waited two weeks for a report from Dr. Rebecca Davis and had to call three times before anyone could tell me the result. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 6 for Dr. Rebecca Davis, Radiology, Perth
+Rating: 3/10
+Clinic visited: Jacaranda Family Practice
+Description: My images were not sent to my specialist as promised, so my consultation had to be postponed.
+
+Review 7 for Dr. Rebecca Davis, Radiology, Perth
+Rating: 3/10
+Clinic visited: Jacaranda Family Practice
+Description: I was charged for a second scan that I was told was a free repeat after an image problem. There was no translator available, and my parent was left unable to follow what was being said. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 8 for Dr. Rebecca Davis, Radiology, Perth
+Rating: 6/10
+Clinic visited: Jacaranda Family Practice
+Description: Dr. Rebecca Davis answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Rebecca Davis, Radiology, Perth: 4.50/10 from 8 reviews

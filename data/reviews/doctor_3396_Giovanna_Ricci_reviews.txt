@@ -1,0 +1,49 @@
+Doctor: Dr. Giovanna Ricci
+Doctor ID: 3396
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 4
+City: Milan, Italy
+Clinics: Poliambulatorio Navigli (clinic ID 440)
+
+Review 1 for Dr. Giovanna Ricci, Orthopedic, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Navigli
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 2 for Dr. Giovanna Ricci, Orthopedic, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Navigli
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 3 for Dr. Giovanna Ricci, Orthopedic, Milan
+Rating: 7/10
+Clinic visited: Poliambulatorio Navigli
+Description: Very skilled with my knee, but Dr. Giovanna Ricci's clinic runs behind and the wait was over an hour. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Giovanna Ricci, Orthopedic, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Navigli
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Dr. Giovanna Ricci was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Giovanna Ricci, Orthopedic, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Navigli
+Description: Dr. Giovanna Ricci double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Giovanna Ricci, Orthopedic, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Navigli
+Description: Dr. Giovanna Ricci explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Giovanna Ricci, Orthopedic, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Navigli
+Description: The surgeon at Poliambulatorio Navigli spent time on my goals as a runner and shaped the treatment around them.
+
+Review 8 for Dr. Giovanna Ricci, Orthopedic, Milan
+Rating: 5/10
+Clinic visited: Poliambulatorio Navigli
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Overall rating for Dr. Giovanna Ricci, Orthopedic, Milan: 6.75/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Justin Harris
+Doctor ID: 150
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 19
+City: Houston, USA
+Clinics: Galleria Medical Group (clinic ID 21); Downtown Houston Health Center (clinic ID 22)
+
+Review 1 for Dr. Justin Harris, Psychiatry, Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: Telehealth follow-ups at Galleria Medical Group are punctual and calm, and refills are dealt with quickly.
+
+Review 2 for Dr. Justin Harris, Psychiatry, Houston
+Rating: 7/10
+Clinic visited: Downtown Houston Health Center
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Justin Harris, Psychiatry, Houston
+Rating: 9/10
+Clinic visited: Downtown Houston Health Center
+Description: I can ring Downtown Houston Health Center with an urgent question and receive a thoughtful reply the same day. Booking online at Downtown Houston Health Center was simple, and I got a confirmation text with clear directions and a reminder the day before. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Justin Harris, Psychiatry, Houston
+Rating: 5/10
+Clinic visited: Downtown Houston Health Center
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Good listener, yet the refill process at Downtown Houston Health Center is slow and requires several phone calls.
+
+Review 5 for Dr. Justin Harris, Psychiatry, Houston
+Rating: 6/10
+Clinic visited: Downtown Houston Health Center
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 6 for Dr. Justin Harris, Psychiatry, Houston
+Rating: 5/10
+Clinic visited: Downtown Houston Health Center
+Description: Good bedside manner from Dr. Justin Harris, but the parking near Downtown Houston Health Center is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Justin Harris, Psychiatry, Houston
+Rating: 6/10
+Clinic visited: Galleria Medical Group
+Description: I liked the advice I got from Dr. Justin Harris, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Justin Harris, Psychiatry, Houston
+Rating: 6/10
+Clinic visited: Downtown Houston Health Center
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Justin Harris, Psychiatry, Houston
+Rating: 5/10
+Clinic visited: Downtown Houston Health Center
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Overall rating for Dr. Justin Harris, Psychiatry, Houston: 6.33/10 from 9 reviews

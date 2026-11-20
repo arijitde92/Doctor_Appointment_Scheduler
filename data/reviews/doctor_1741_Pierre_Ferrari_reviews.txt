@@ -1,0 +1,49 @@
+Doctor: Dr. Pierre Ferrari
+Doctor ID: 1741
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 23
+City: Geneva, Switzerland
+Clinics: Centre Médical du Lac Bleu (clinic ID 226)
+
+Review 1 for Dr. Pierre Ferrari, Pulmonology, Geneva
+Rating: 9/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: I always leave Dr. Pierre Ferrari's office with a written summary of my breathing test results and what changed since the last visit.
+
+Review 2 for Dr. Pierre Ferrari, Pulmonology, Geneva
+Rating: 8/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: The waiting room at Centre Médical du Lac Bleu was clean, quiet and comfortable, with enough seating and water available. Clear, honest answers from Dr. Pierre Ferrari about my shortness of breath, and no unnecessary tests were ordered.
+
+Review 3 for Dr. Pierre Ferrari, Pulmonology, Geneva
+Rating: 8/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. The receptionist at Centre Médical du Lac Bleu remembered my name and had my forms ready, so check-in took less than a minute. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Pierre Ferrari, Pulmonology, Geneva
+Rating: 8/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: I was given a printed summary of the visit, which I shared with my family at home. Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Pierre Ferrari.
+
+Review 5 for Dr. Pierre Ferrari, Pulmonology, Geneva
+Rating: 6/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Pierre Ferrari, Pulmonology, Geneva
+Rating: 9/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: My oxygen levels are monitored carefully at Centre Médical du Lac Bleu, and the home equipment was arranged without any hassle. I was called in within five minutes of my appointment time at Centre Médical du Lac Bleu, which is rare and much appreciated. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Pierre Ferrari, Pulmonology, Geneva
+Rating: 10/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: At Centre Médical du Lac Bleu, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. At my visit, Dr. Pierre Ferrari took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 8 for Dr. Pierre Ferrari, Pulmonology, Geneva
+Rating: 9/10
+Clinic visited: Centre Médical du Lac Bleu
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Geneva. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Pierre Ferrari, Pulmonology, Geneva: 8.38/10 from 8 reviews

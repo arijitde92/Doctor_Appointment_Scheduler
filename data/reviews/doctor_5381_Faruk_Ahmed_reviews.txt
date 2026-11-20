@@ -1,0 +1,49 @@
+Doctor: Dr. Faruk Ahmed
+Doctor ID: 5381
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 5
+City: Chittagong, Bangladesh
+Clinics: Karnaphuli Family Clinic (clinic ID 695); Khulshi Care Medical Centre (clinic ID 696); Nirmal Shastho Clinic (clinic ID 699)
+
+Review 1 for Dr. Faruk Ahmed, Pulmonology, Chittagong
+Rating: 6/10
+Clinic visited: Khulshi Care Medical Centre
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Quick appointment and a fair price in Chittagong, but the staff seemed overwhelmed and a bit curt on the phone. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Faruk Ahmed, Pulmonology, Chittagong
+Rating: 6/10
+Clinic visited: Karnaphuli Family Clinic
+Description: Pleasant manner and careful lung exam, though the waiting time at Karnaphuli Family Clinic regularly exceeded forty minutes.
+
+Review 3 for Dr. Faruk Ahmed, Pulmonology, Chittagong
+Rating: 5/10
+Clinic visited: Khulshi Care Medical Centre
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Faruk Ahmed, Pulmonology, Chittagong
+Rating: 4/10
+Clinic visited: Nirmal Shastho Clinic
+Description: My persistent cough was labelled as allergies by Dr. Faruk Ahmed without any chest examination or breathing test.
+
+Review 5 for Dr. Faruk Ahmed, Pulmonology, Chittagong
+Rating: 5/10
+Clinic visited: Karnaphuli Family Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 6 for Dr. Faruk Ahmed, Pulmonology, Chittagong
+Rating: 8/10
+Clinic visited: Nirmal Shastho Clinic
+Description: Dr. Faruk Ahmed looked me in the eye, listened to the whole story and only then started typing.
+
+Review 7 for Dr. Faruk Ahmed, Pulmonology, Chittagong
+Rating: 6/10
+Clinic visited: Nirmal Shastho Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 8 for Dr. Faruk Ahmed, Pulmonology, Chittagong
+Rating: 6/10
+Clinic visited: Karnaphuli Family Clinic
+Description: Dr. Faruk Ahmed adjusted my asthma medication well, but the breathing test appointment was a month away.
+
+Overall rating for Dr. Faruk Ahmed, Pulmonology, Chittagong: 5.75/10 from 8 reviews

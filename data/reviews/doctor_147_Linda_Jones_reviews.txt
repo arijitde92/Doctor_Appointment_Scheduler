@@ -1,0 +1,54 @@
+Doctor: Dr. Linda Jones
+Doctor ID: 147
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 13
+City: Houston, USA
+Clinics: Galleria Medical Group (clinic ID 21)
+
+Review 1 for Dr. Linda Jones, Gastroenterology, Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: Getting to Galleria Medical Group in Houston was simple, and the day-procedure unit was calm and efficient. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 2 for Dr. Linda Jones, Gastroenterology, Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: Prescriptions from Dr. Linda Jones were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 3 for Dr. Linda Jones, Gastroenterology, Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: Dr. Linda Jones double-checked my allergy list before prescribing anything, and that careful habit earned my trust. The sedation was well timed and I woke up comfortable, with the findings explained to me and my partner.
+
+Review 4 for Dr. Linda Jones, Gastroenterology, Houston
+Rating: 8/10
+Clinic visited: Galleria Medical Group
+Description: I was called in within five minutes of my appointment time at Galleria Medical Group, which is rare and much appreciated. After years of undiagnosed stomach pain, she identified celiac disease with the right blood tests and a careful plan.
+
+Review 5 for Dr. Linda Jones, Gastroenterology, Houston
+Rating: 6/10
+Clinic visited: Galleria Medical Group
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The treatment plan from Dr. Linda Jones made sense, but I wished it had been written down for me to take away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Linda Jones, Gastroenterology, Houston
+Rating: 10/10
+Clinic visited: Galleria Medical Group
+Description: I was nervous about my screening, but the team at Galleria Medical Group made me feel at ease, and I was home within hours. A translator was arranged for my mother without us asking twice, and Dr. Linda Jones spoke directly to her throughout. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 7 for Dr. Linda Jones, Gastroenterology, Houston
+Rating: 9/10
+Clinic visited: Galleria Medical Group
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I received a full summary letter from Galleria Medical Group after my endoscopy, which my regular doctor found very useful.
+
+Review 8 for Dr. Linda Jones, Gastroenterology, Houston
+Rating: 9/10
+Clinic visited: Galleria Medical Group
+Description: I get regular check-ups for my Crohn's disease, and Dr. Linda Jones adjusts my treatment carefully and always explains why.
+
+Review 9 for Dr. Linda Jones, Gastroenterology, Houston
+Rating: 10/10
+Clinic visited: Galleria Medical Group
+Description: Dr. Linda Jones was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Linda Jones, Gastroenterology, Houston: 8.44/10 from 9 reviews

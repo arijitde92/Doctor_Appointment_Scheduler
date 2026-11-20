@@ -1,0 +1,64 @@
+Doctor: Dr. Ilya Ivanov
+Doctor ID: 3756
+Specialization: Neurology
+Gender: Male
+Years of experience: 26
+City: Novosibirsk, Russia
+Clinics: Sibirskiy Medical Centre (clinic ID 485)
+
+Review 1 for Dr. Ilya Ivanov, Neurology, Novosibirsk
+Rating: 5/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Ilya Ivanov, Neurology, Novosibirsk
+Rating: 5/10
+Clinic visited: Sibirskiy Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 3 for Dr. Ilya Ivanov, Neurology, Novosibirsk
+Rating: 4/10
+Clinic visited: Sibirskiy Medical Centre
+Description: My worsening headaches were put down to stress without a proper neurological exam or any imaging. There was no translator available, and my parent was left unable to follow what was being said. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 4 for Dr. Ilya Ivanov, Neurology, Novosibirsk
+Rating: 4/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Dr. Ilya Ivanov did not look up from the notes while I described my seizure, and I felt completely unheard.
+
+Review 5 for Dr. Ilya Ivanov, Neurology, Novosibirsk
+Rating: 4/10
+Clinic visited: Sibirskiy Medical Centre
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 6 for Dr. Ilya Ivanov, Neurology, Novosibirsk
+Rating: 6/10
+Clinic visited: Sibirskiy Medical Centre
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 7 for Dr. Ilya Ivanov, Neurology, Novosibirsk
+Rating: 4/10
+Clinic visited: Sibirskiy Medical Centre
+Description: I was told my MRI was 'fine' with no further explanation, and I left still not knowing what was causing my symptoms. The prescription from Dr. Ilya Ivanov was not the one we discussed, and I only noticed when I got home.
+
+Review 8 for Dr. Ilya Ivanov, Neurology, Novosibirsk
+Rating: 8/10
+Clinic visited: Sibirskiy Medical Centre
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Ilya Ivanov, Neurology, Novosibirsk
+Rating: 6/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Ilya Ivanov, Neurology, Novosibirsk
+Rating: 4/10
+Clinic visited: Sibirskiy Medical Centre
+Description: I felt dismissed by Dr. Ilya Ivanov when I brought up a second concern, and was told to book another appointment for it. The follow-up call about my test results never happened and I had to track them down myself.
+
+Review 11 for Dr. Ilya Ivanov, Neurology, Novosibirsk
+Rating: 7/10
+Clinic visited: Sibirskiy Medical Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Supportive about my diagnosis, yet follow-up appointments with Dr. Ilya Ivanov at Sibirskiy Medical Centre are difficult to schedule.
+
+Overall rating for Dr. Ilya Ivanov, Neurology, Novosibirsk: 5.18/10 from 11 reviews

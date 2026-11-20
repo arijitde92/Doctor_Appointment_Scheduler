@@ -1,0 +1,54 @@
+Doctor: Dr. Sandra Chevalier
+Doctor ID: 1700
+Specialization: General
+Gender: Female
+Years of experience: 6
+City: Bern, Switzerland
+Clinics: Gesundheitszentrum Lorraine-Breitenrain (clinic ID 222); Medizinisches Zentrum Länggasse (clinic ID 223)
+
+Review 1 for Dr. Sandra Chevalier, General, Bern
+Rating: 4/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: The clinic never returned my call about my test results, and I had to chase them for over a week.
+
+Review 2 for Dr. Sandra Chevalier, General, Bern
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: As a new patient in Bern, I felt welcomed at Gesundheitszentrum Lorraine-Breitenrain, and my whole history was reviewed in one relaxed visit.
+
+Review 3 for Dr. Sandra Chevalier, General, Bern
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Sandra Chevalier, General, Bern
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 5 for Dr. Sandra Chevalier, General, Bern
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Appointment reminders came by text and email, and rescheduling took two taps. My annual check-up with Dr. Sandra Chevalier took forty minutes, with every screening explained and nothing rushed.
+
+Review 6 for Dr. Sandra Chevalier, General, Bern
+Rating: 5/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Sandra Chevalier, General, Bern
+Rating: 4/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: There was no translator available, and my parent was left unable to follow what was being said. My persistent fatigue was brushed aside as stress by Dr. Sandra Chevalier, and it took a second doctor to find the actual cause. I will not be returning and have already started looking for another doctor.
+
+Review 8 for Dr. Sandra Chevalier, General, Bern
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: I got what I needed, but the next available appointment was three weeks away. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 9 for Dr. Sandra Chevalier, General, Bern
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Lorraine-Breitenrain
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Sandra Chevalier, General, Bern: 6.00/10 from 9 reviews

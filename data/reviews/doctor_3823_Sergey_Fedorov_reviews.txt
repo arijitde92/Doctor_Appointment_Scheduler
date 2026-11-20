@@ -1,0 +1,59 @@
+Doctor: Dr. Sergey Fedorov
+Doctor ID: 3823
+Specialization: Pathology
+Gender: Male
+Years of experience: 2
+City: Saint Petersburg, Russia
+Clinics: Neva Health Practice (clinic ID 493); Klinika Ligovskaya (clinic ID 494)
+
+Review 1 for Dr. Sergey Fedorov, Pathology, Saint Petersburg
+Rating: 10/10
+Clinic visited: Klinika Ligovskaya
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 2 for Dr. Sergey Fedorov, Pathology, Saint Petersburg
+Rating: 10/10
+Clinic visited: Klinika Ligovskaya
+Description: The lab under Dr. Sergey Fedorov was clean, organized and never overbooked, and results arrived exactly when promised. My test results arrived in the portal within two days, together with a short note that made sense. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 3 for Dr. Sergey Fedorov, Pathology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Klinika Ligovskaya
+Description: The biopsy report was returned in three days, and Dr. Sergey Fedorov took time on the phone to explain every term in it. Prescriptions from Dr. Sergey Fedorov were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 4 for Dr. Sergey Fedorov, Pathology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Neva Health Practice
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 5 for Dr. Sergey Fedorov, Pathology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Neva Health Practice
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab.
+
+Review 6 for Dr. Sergey Fedorov, Pathology, Saint Petersburg
+Rating: 10/10
+Clinic visited: Neva Health Practice
+Description: I was called in within five minutes of my appointment time at Neva Health Practice, which is rare and much appreciated.
+
+Review 7 for Dr. Sergey Fedorov, Pathology, Saint Petersburg
+Rating: 10/10
+Clinic visited: Klinika Ligovskaya
+Description: The receptionist at Klinika Ligovskaya remembered my name and had my forms ready, so check-in took less than a minute. Blood test results were clearly laid out with reference ranges and short notes in plain language. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Sergey Fedorov, Pathology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Neva Health Practice
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Review 9 for Dr. Sergey Fedorov, Pathology, Saint Petersburg
+Rating: 10/10
+Clinic visited: Klinika Ligovskaya
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Sergey Fedorov felt well organized from start to finish. I was nervous about the biopsy result, and the call from Dr. Sergey Fedorov was gentle, honest and unhurried. My whole family is switching over after seeing how good the care was.
+
+Review 10 for Dr. Sergey Fedorov, Pathology, Saint Petersburg
+Rating: 10/10
+Clinic visited: Neva Health Practice
+Description: A same-day slot was found for me at Neva Health Practice when I called with a worrying symptom. The staff and Dr. Sergey Fedorov patiently went through my cholesterol and glucose numbers and explained what each meant for me.
+
+Overall rating for Dr. Sergey Fedorov, Pathology, Saint Petersburg: 9.50/10 from 10 reviews

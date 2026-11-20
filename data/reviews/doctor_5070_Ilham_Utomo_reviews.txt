@@ -1,0 +1,54 @@
+Doctor: Dr. Ilham Utomo
+Doctor ID: 5070
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 4
+City: Bandung, Indonesia
+Clinics: Klinik Rahayu Medika (clinic ID 655)
+
+Review 1 for Dr. Ilham Utomo, Pulmonology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Rahayu Medika
+Description: I liked the advice I got from Dr. Ilham Utomo, but I would have liked more time to ask follow-up questions before the visit ended. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Ilham Utomo, Pulmonology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Rahayu Medika
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Ilham Utomo, Pulmonology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Rahayu Medika
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 4 for Dr. Ilham Utomo, Pulmonology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Rahayu Medika
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 5 for Dr. Ilham Utomo, Pulmonology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Rahayu Medika
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Ilham Utomo, Pulmonology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Rahayu Medika
+Description: Dr. Ilham Utomo adjusted my asthma medication well, but the breathing test appointment was a month away. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Ilham Utomo, Pulmonology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Rahayu Medika
+Description: Helpful and honest about my prognosis, Dr. Ilham Utomo could still have given me more written material to take home. I got what I needed, but the next available appointment was three weeks away.
+
+Review 8 for Dr. Ilham Utomo, Pulmonology, Bandung
+Rating: 6/10
+Clinic visited: Klinik Rahayu Medika
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Ilham Utomo, Pulmonology, Bandung
+Rating: 7/10
+Clinic visited: Klinik Rahayu Medika
+Description: Pleasant manner and careful lung exam, though the waiting time at Klinik Rahayu Medika regularly exceeded forty minutes. Dr. Ilham Utomo was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Ilham Utomo, Pulmonology, Bandung: 6.44/10 from 9 reviews

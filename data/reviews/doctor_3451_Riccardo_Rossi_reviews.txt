@@ -1,0 +1,59 @@
+Doctor: Dr. Riccardo Rossi
+Doctor ID: 3451
+Specialization: Neurology
+Gender: Male
+Years of experience: 9
+City: Naples, Italy
+Clinics: Studio Medico Santa Lucia (clinic ID 447)
+
+Review 1 for Dr. Riccardo Rossi, Neurology, Naples
+Rating: 5/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Riccardo Rossi, Neurology, Naples
+Rating: 6/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Riccardo Rossi at Studio Medico Santa Lucia are difficult to schedule.
+
+Review 3 for Dr. Riccardo Rossi, Neurology, Naples
+Rating: 4/10
+Clinic visited: Studio Medico Santa Lucia
+Description: The waiting room at Studio Medico Santa Lucia was overcrowded and there was nowhere to sit, even for elderly patients. After a long wait, my appointment with Dr. Riccardo Rossi lasted a few minutes and ended with a new prescription and no discussion.
+
+Review 4 for Dr. Riccardo Rossi, Neurology, Naples
+Rating: 7/10
+Clinic visited: Studio Medico Santa Lucia
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 5 for Dr. Riccardo Rossi, Neurology, Naples
+Rating: 8/10
+Clinic visited: Studio Medico Santa Lucia
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Getting a same-month appointment in Naples for my sudden headaches was a real relief, and the work-up was prompt. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Riccardo Rossi, Neurology, Naples
+Rating: 5/10
+Clinic visited: Studio Medico Santa Lucia
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Riccardo Rossi, Neurology, Naples
+Rating: 7/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Dr. Riccardo Rossi was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Riccardo Rossi, Neurology, Naples
+Rating: 5/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 9 for Dr. Riccardo Rossi, Neurology, Naples
+Rating: 6/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Worth trying, but I would not call it the best option in the area.
+
+Review 10 for Dr. Riccardo Rossi, Neurology, Naples
+Rating: 7/10
+Clinic visited: Studio Medico Santa Lucia
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Riccardo Rossi explained my results well, although the visit felt short for such a complex condition.
+
+Overall rating for Dr. Riccardo Rossi, Neurology, Naples: 6.00/10 from 10 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Jung Jae-hyun
+Doctor ID: 4182
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 12
+City: Busan, South Korea
+Clinics: Sasang Nuri Medical Clinic (clinic ID 539)
+
+Review 1 for Dr. Jung Jae-hyun, Pediatrics, Busan
+Rating: 7/10
+Clinic visited: Sasang Nuri Medical Clinic
+Description: Dr. Jung Jae-hyun is thorough with exams, but the after-hours phone line at Sasang Nuri Medical Clinic is hard to reach.
+
+Review 2 for Dr. Jung Jae-hyun, Pediatrics, Busan
+Rating: 7/10
+Clinic visited: Sasang Nuri Medical Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 3 for Dr. Jung Jae-hyun, Pediatrics, Busan
+Rating: 6/10
+Clinic visited: Sasang Nuri Medical Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Jung Jae-hyun, Pediatrics, Busan
+Rating: 8/10
+Clinic visited: Sasang Nuri Medical Clinic
+Description: Kind to anxious parents, Dr. Jung Jae-hyun never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 5 for Dr. Jung Jae-hyun, Pediatrics, Busan
+Rating: 8/10
+Clinic visited: Sasang Nuri Medical Clinic
+Description: The receptionist at Sasang Nuri Medical Clinic remembered my name and had my forms ready, so check-in took less than a minute. Dr. Jung Jae-hyun noticed a speech delay early and referred us to a therapist, which has made a real difference. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Jung Jae-hyun, Pediatrics, Busan
+Rating: 9/10
+Clinic visited: Sasang Nuri Medical Clinic
+Description: The waiting room in Busan has a play corner and separate seating for sick children, which I really valued.
+
+Review 7 for Dr. Jung Jae-hyun, Pediatrics, Busan
+Rating: 7/10
+Clinic visited: Sasang Nuri Medical Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 8 for Dr. Jung Jae-hyun, Pediatrics, Busan
+Rating: 10/10
+Clinic visited: Sasang Nuri Medical Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Overall rating for Dr. Jung Jae-hyun, Pediatrics, Busan: 7.75/10 from 8 reviews

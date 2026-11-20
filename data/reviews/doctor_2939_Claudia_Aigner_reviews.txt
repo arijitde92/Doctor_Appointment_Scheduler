@@ -1,0 +1,49 @@
+Doctor: Dr. Claudia Aigner
+Doctor ID: 2939
+Specialization: Radiology
+Gender: Female
+Years of experience: 20
+City: Innsbruck, Austria
+Clinics: Medizinisches Zentrum Amras (clinic ID 383); Ordination Wilten Innsbruck (clinic ID 384)
+
+Review 1 for Dr. Claudia Aigner, Radiology, Innsbruck
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 2 for Dr. Claudia Aigner, Radiology, Innsbruck
+Rating: 8/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: I appreciated that she offered more than one option and let me choose what suited my life. The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Claudia Aigner were respectful throughout.
+
+Review 3 for Dr. Claudia Aigner, Radiology, Innsbruck
+Rating: 8/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: My ultrasound was unhurried, and Dr. Claudia Aigner took time to show me the images and explain what each measurement meant.
+
+Review 4 for Dr. Claudia Aigner, Radiology, Innsbruck
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 5 for Dr. Claudia Aigner, Radiology, Innsbruck
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 6 for Dr. Claudia Aigner, Radiology, Innsbruck
+Rating: 10/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: Images from Ordination Wilten Innsbruck were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Claudia Aigner, Radiology, Innsbruck
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: A same-day slot was found for me at Medizinisches Zentrum Amras when I called with a worrying symptom. The staff at Medizinisches Zentrum Amras in Innsbruck explained the contrast dye and its side effects before I signed anything.
+
+Review 8 for Dr. Claudia Aigner, Radiology, Innsbruck
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Amras
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Overall rating for Dr. Claudia Aigner, Radiology, Innsbruck: 8.50/10 from 8 reviews

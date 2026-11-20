@@ -1,0 +1,49 @@
+Doctor: Dr. Popy Alam
+Doctor ID: 5494
+Specialization: General
+Gender: Female
+Years of experience: 3
+City: Sylhet, Bangladesh
+Clinics: Chaya Nir Family Clinic (clinic ID 711); Jalalabad Health Practice (clinic ID 712)
+
+Review 1 for Dr. Popy Alam, General, Sylhet
+Rating: 5/10
+Clinic visited: Jalalabad Health Practice
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Helpful visit overall, although I only found out about an extra charge after I had paid. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 2 for Dr. Popy Alam, General, Sylhet
+Rating: 8/10
+Clinic visited: Chaya Nir Family Clinic
+Description: As a new patient in Sylhet, I felt welcomed at Chaya Nir Family Clinic, and my whole history was reviewed in one relaxed visit. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 3 for Dr. Popy Alam, General, Sylhet
+Rating: 10/10
+Clinic visited: Chaya Nir Family Clinic
+Description: Dr. Popy Alam spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 4 for Dr. Popy Alam, General, Sylhet
+Rating: 7/10
+Clinic visited: Chaya Nir Family Clinic
+Description: Referrals from Dr. Popy Alam are handled well, but getting test results back took longer than I was told to expect. Quick appointment and a fair price in Sylhet, but the staff seemed overwhelmed and a bit curt on the phone. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Popy Alam, General, Sylhet
+Rating: 8/10
+Clinic visited: Chaya Nir Family Clinic
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. The receptionist at Chaya Nir Family Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 6 for Dr. Popy Alam, General, Sylhet
+Rating: 7/10
+Clinic visited: Chaya Nir Family Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Popy Alam, General, Sylhet
+Rating: 6/10
+Clinic visited: Jalalabad Health Practice
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Jalalabad Health Practice were inconsistent.
+
+Review 8 for Dr. Popy Alam, General, Sylhet
+Rating: 7/10
+Clinic visited: Jalalabad Health Practice
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Booking was easy online, but the confirmation email contained the wrong address for Jalalabad Health Practice.
+
+Overall rating for Dr. Popy Alam, General, Sylhet: 7.25/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Johann Egger
+Doctor ID: 3029
+Specialization: General
+Gender: Male
+Years of experience: 3
+City: Vienna, Austria
+Clinics: Ordination Währinger Park (clinic ID 394)
+
+Review 1 for Dr. Johann Egger, General, Vienna
+Rating: 8/10
+Clinic visited: Ordination Währinger Park
+Description: Dr. Johann Egger drew a quick sketch to explain what was going on, which helped me remember it afterwards. My blood pressure had crept up and Dr. Johann Egger walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 2 for Dr. Johann Egger, General, Vienna
+Rating: 6/10
+Clinic visited: Ordination Währinger Park
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 3 for Dr. Johann Egger, General, Vienna
+Rating: 8/10
+Clinic visited: Ordination Währinger Park
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Johann Egger felt well organized from start to finish. Cholesterol results were explained by Dr. Johann Egger with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 4 for Dr. Johann Egger, General, Vienna
+Rating: 7/10
+Clinic visited: Ordination Währinger Park
+Description: Booking was easy online, but the confirmation email contained the wrong address for Ordination Währinger Park.
+
+Review 5 for Dr. Johann Egger, General, Vienna
+Rating: 9/10
+Clinic visited: Ordination Währinger Park
+Description: I went in with months of tiredness, and Dr. Johann Egger ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Booking online at Ordination Währinger Park was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 6 for Dr. Johann Egger, General, Vienna
+Rating: 8/10
+Clinic visited: Ordination Währinger Park
+Description: As a new patient in Vienna, I felt welcomed at Ordination Währinger Park, and my whole history was reviewed in one relaxed visit. A translator was arranged for my mother without us asking twice, and Dr. Johann Egger spoke directly to her throughout.
+
+Review 7 for Dr. Johann Egger, General, Vienna
+Rating: 6/10
+Clinic visited: Ordination Währinger Park
+Description: Referrals from Dr. Johann Egger are handled well, but getting test results back took longer than I was told to expect.
+
+Review 8 for Dr. Johann Egger, General, Vienna
+Rating: 9/10
+Clinic visited: Ordination Währinger Park
+Description: My annual check-up with Dr. Johann Egger took forty minutes, with every screening explained and nothing rushed. Appointment reminders came by text and email, and rescheduling took two taps. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Johann Egger, General, Vienna
+Rating: 6/10
+Clinic visited: Ordination Währinger Park
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Ordination Währinger Park were inconsistent. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 10 for Dr. Johann Egger, General, Vienna
+Rating: 6/10
+Clinic visited: Ordination Währinger Park
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Johann Egger is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Johann Egger, General, Vienna: 7.30/10 from 10 reviews

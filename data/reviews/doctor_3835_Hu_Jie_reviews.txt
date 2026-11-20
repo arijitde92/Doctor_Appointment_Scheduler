@@ -1,0 +1,64 @@
+Doctor: Dr. Hu Jie
+Doctor ID: 3835
+Specialization: Cardiology
+Gender: Male
+Years of experience: 30
+City: Beijing, China
+Clinics: Jianguo Heren Medical Centre (clinic ID 495); Zhongguancun Kangyi Clinic (clinic ID 496); Dongsanhuan Family Health Practice (clinic ID 497)
+
+Review 1 for Dr. Hu Jie, Cardiology, Beijing
+Rating: 8/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Clear and calm advice at Zhongguancun Kangyi Clinic about exercise after my stent, including a gradual written schedule.
+
+Review 2 for Dr. Hu Jie, Cardiology, Beijing
+Rating: 7/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: Great care in the visit itself, but the billing for the tests at Dongsanhuan Family Health Practice was confusing. Dr. Hu Jie was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Hu Jie, Cardiology, Beijing
+Rating: 9/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 4 for Dr. Hu Jie, Cardiology, Beijing
+Rating: 9/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. My stress test was supervised carefully, and Dr. Hu Jie reviewed the results in the same visit with a plan for my cholesterol. My whole family is switching over after seeing how good the care was.
+
+Review 5 for Dr. Hu Jie, Cardiology, Beijing
+Rating: 8/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: Managing my blood pressure with Dr. Hu Jie has been steady and practical, with home readings reviewed at every visit. Dr. Hu Jie double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 6 for Dr. Hu Jie, Cardiology, Beijing
+Rating: 10/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 7 for Dr. Hu Jie, Cardiology, Beijing
+Rating: 8/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: Dr. Hu Jie looked me in the eye, listened to the whole story and only then started typing. Dr. Hu Jie explained the difference between my statin options and let me weigh in on the choice. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Hu Jie, Cardiology, Beijing
+Rating: 6/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Hu Jie, Cardiology, Beijing
+Rating: 8/10
+Clinic visited: Zhongguancun Kangyi Clinic
+Description: The cardiology unit at Zhongguancun Kangyi Clinic runs on time, and the technicians were professional during my echocardiogram. Worth every minute of travel, and I would go again without a second thought.
+
+Review 10 for Dr. Hu Jie, Cardiology, Beijing
+Rating: 10/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: After my heart attack, Dr. Hu Jie explained the rehab plan and medication changes with great patience and kindness. I appreciated that he offered more than one option and let me choose what suited my life.
+
+Review 11 for Dr. Hu Jie, Cardiology, Beijing
+Rating: 10/10
+Clinic visited: Dongsanhuan Family Health Practice
+Description: Seeing Dr. Hu Jie in Beijing meant my whole family history was reviewed, and now my sister is being screened too. I have no hesitation sending my own relatives here.
+
+Overall rating for Dr. Hu Jie, Cardiology, Beijing: 8.45/10 from 11 reviews

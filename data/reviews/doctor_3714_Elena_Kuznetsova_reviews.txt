@@ -1,0 +1,54 @@
+Doctor: Dr. Elena Kuznetsova
+Doctor ID: 3714
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 3
+City: Moscow, Russia
+Clinics: Tverskoy Medical Centre (clinic ID 480); Leninsky Family Polyclinic (clinic ID 482)
+
+Review 1 for Dr. Elena Kuznetsova, Gastroenterology, Moscow
+Rating: 5/10
+Clinic visited: Tverskoy Medical Centre
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Elena Kuznetsova, Gastroenterology, Moscow
+Rating: 7/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Elena Kuznetsova, Gastroenterology, Moscow
+Rating: 5/10
+Clinic visited: Tverskoy Medical Centre
+Description: Dr. Elena Kuznetsova was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Elena Kuznetsova, Gastroenterology, Moscow
+Rating: 8/10
+Clinic visited: Tverskoy Medical Centre
+Description: Dr. Elena Kuznetsova double-checked my allergy list before prescribing anything, and that careful habit earned my trust. Dr. Elena Kuznetsova was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry.
+
+Review 5 for Dr. Elena Kuznetsova, Gastroenterology, Moscow
+Rating: 6/10
+Clinic visited: Leninsky Family Polyclinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 6 for Dr. Elena Kuznetsova, Gastroenterology, Moscow
+Rating: 6/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 7 for Dr. Elena Kuznetsova, Gastroenterology, Moscow
+Rating: 7/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Knowledgeable about my reflux, Dr. Elena Kuznetsova still gave diet advice that felt generic and not tailored to my habits.
+
+Review 8 for Dr. Elena Kuznetsova, Gastroenterology, Moscow
+Rating: 8/10
+Clinic visited: Leninsky Family Polyclinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. My whole family is switching over after seeing how good the care was.
+
+Review 9 for Dr. Elena Kuznetsova, Gastroenterology, Moscow
+Rating: 8/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Everything was explained in plain English by Dr. Elena Kuznetsova, and nothing was left to guess. A gentle, respectful manner from Dr. Elena Kuznetsova made a very awkward exam bearable, with every step explained before it happened. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Elena Kuznetsova, Gastroenterology, Moscow: 6.67/10 from 9 reviews

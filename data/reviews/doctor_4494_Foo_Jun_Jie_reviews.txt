@@ -1,0 +1,59 @@
+Doctor: Dr. Foo Jun Jie
+Doctor ID: 4494
+Specialization: Psychology
+Gender: Male
+Years of experience: 18
+City: Singapore, Singapore
+Clinics: Kampong Glam Health Clinic (clinic ID 579)
+
+Review 1 for Dr. Foo Jun Jie, Psychology, Singapore
+Rating: 9/10
+Clinic visited: Kampong Glam Health Clinic
+Description: Everything was explained in plain English by Dr. Foo Jun Jie, and nothing was left to guess. He has a calm way of asking the difficult questions that makes it feel safe to answer honestly.
+
+Review 2 for Dr. Foo Jun Jie, Psychology, Singapore
+Rating: 8/10
+Clinic visited: Kampong Glam Health Clinic
+Description: Dr. Foo Jun Jie double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Foo Jun Jie, Psychology, Singapore
+Rating: 10/10
+Clinic visited: Kampong Glam Health Clinic
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Warm, patient and honest, Dr. Foo Jun Jie told me what progress to expect and it matched reality.
+
+Review 4 for Dr. Foo Jun Jie, Psychology, Singapore
+Rating: 9/10
+Clinic visited: Kampong Glam Health Clinic
+Description: Online sessions through Kampong Glam Health Clinic worked just as well as in-person ones, and the video link never once failed. My test results arrived in the portal within two days, together with a short note that made sense. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 5 for Dr. Foo Jun Jie, Psychology, Singapore
+Rating: 9/10
+Clinic visited: Kampong Glam Health Clinic
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Foo Jun Jie gave me practical tools I still use. I felt like a person rather than a case number, and he asked about my life as well as my symptoms. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Foo Jun Jie, Psychology, Singapore
+Rating: 10/10
+Clinic visited: Kampong Glam Health Clinic
+Description: Couples therapy at Kampong Glam Health Clinic helped us stop repeating the same argument. We now have a way to pause and listen. Dr. Foo Jun Jie looked me in the eye, listened to the whole story and only then started typing.
+
+Review 7 for Dr. Foo Jun Jie, Psychology, Singapore
+Rating: 10/10
+Clinic visited: Kampong Glam Health Clinic
+Description: Sessions with Dr. Foo Jun Jie start on time and end on time, which is a small thing that made me feel respected.
+
+Review 8 for Dr. Foo Jun Jie, Psychology, Singapore
+Rating: 9/10
+Clinic visited: Kampong Glam Health Clinic
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Foo Jun Jie designed around my actual job. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 9 for Dr. Foo Jun Jie, Psychology, Singapore
+Rating: 10/10
+Clinic visited: Kampong Glam Health Clinic
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected. Paperwork at Kampong Glam Health Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 10 for Dr. Foo Jun Jie, Psychology, Singapore
+Rating: 10/10
+Clinic visited: Kampong Glam Health Clinic
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Overall rating for Dr. Foo Jun Jie, Psychology, Singapore: 9.40/10 from 10 reviews

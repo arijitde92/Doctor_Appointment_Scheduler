@@ -1,0 +1,69 @@
+Doctor: Dr. Anne Welter
+Doctor ID: 3347
+Specialization: General
+Gender: Female
+Years of experience: 19
+City: Luxembourg City, Luxembourg
+Clinics: Centre de Santé Belair (clinic ID 434)
+
+Review 1 for Dr. Anne Welter, General, Luxembourg City
+Rating: 7/10
+Clinic visited: Centre de Santé Belair
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Anne Welter, General, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre de Santé Belair
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Centre de Santé Belair were inconsistent. Good bedside manner from Dr. Anne Welter, but the parking near Centre de Santé Belair is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Anne Welter, General, Luxembourg City
+Rating: 4/10
+Clinic visited: Centre de Santé Belair
+Description: I came in about worsening headaches and was told to drink more water and relax, with no examination at all. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 4 for Dr. Anne Welter, General, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre de Santé Belair
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Anne Welter, General, Luxembourg City
+Rating: 4/10
+Clinic visited: Centre de Santé Belair
+Description: Dr. Anne Welter did not seem to have read my notes and asked me to repeat my whole history from the beginning. My persistent fatigue was brushed aside as stress by Dr. Anne Welter, and it took a second doctor to find the actual cause.
+
+Review 6 for Dr. Anne Welter, General, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre de Santé Belair
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Anne Welter, General, Luxembourg City
+Rating: 4/10
+Clinic visited: Centre de Santé Belair
+Description: I was sent for a battery of tests that had nothing to do with my complaint and received a surprise bill afterwards.
+
+Review 8 for Dr. Anne Welter, General, Luxembourg City
+Rating: 7/10
+Clinic visited: Centre de Santé Belair
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Anne Welter, General, Luxembourg City
+Rating: 7/10
+Clinic visited: Centre de Santé Belair
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 10 for Dr. Anne Welter, General, Luxembourg City
+Rating: 9/10
+Clinic visited: Centre de Santé Belair
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return.
+
+Review 11 for Dr. Anne Welter, General, Luxembourg City
+Rating: 8/10
+Clinic visited: Centre de Santé Belair
+Description: Dr. Anne Welter spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. A same-day slot was found for me at Centre de Santé Belair when I called with a worrying symptom. My whole family is switching over after seeing how good the care was.
+
+Review 12 for Dr. Anne Welter, General, Luxembourg City
+Rating: 8/10
+Clinic visited: Centre de Santé Belair
+Description: My annual check-up with Dr. Anne Welter took forty minutes, with every screening explained and nothing rushed.
+
+Overall rating for Dr. Anne Welter, General, Luxembourg City: 6.33/10 from 12 reviews

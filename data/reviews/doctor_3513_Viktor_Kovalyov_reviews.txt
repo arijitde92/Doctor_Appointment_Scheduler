@@ -1,0 +1,69 @@
+Doctor: Dr. Viktor Kovalyov
+Doctor ID: 3513
+Specialization: Cardiology
+Gender: Male
+Years of experience: 3
+City: Dnipro, Ukraine
+Clinics: Dniprovska Medical Centre (clinic ID 455); Nova Hora Clinic (clinic ID 456); Sich Family Health Practice (clinic ID 457)
+
+Review 1 for Dr. Viktor Kovalyov, Cardiology, Dnipro
+Rating: 8/10
+Clinic visited: Sich Family Health Practice
+Description: He was upfront about what could and could not be treated, and did not oversell any option. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Viktor Kovalyov, Cardiology, Dnipro
+Rating: 6/10
+Clinic visited: Nova Hora Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Dr. Viktor Kovalyov adjusted my blood pressure medication carefully, though I had to call twice for a refill. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Viktor Kovalyov, Cardiology, Dnipro
+Rating: 8/10
+Clinic visited: Dniprovska Medical Centre
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. My stress test was supervised carefully, and Dr. Viktor Kovalyov reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 4 for Dr. Viktor Kovalyov, Cardiology, Dnipro
+Rating: 8/10
+Clinic visited: Nova Hora Clinic
+Description: The practice in Dnipro is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. He drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 5 for Dr. Viktor Kovalyov, Cardiology, Dnipro
+Rating: 7/10
+Clinic visited: Nova Hora Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Viktor Kovalyov, Cardiology, Dnipro
+Rating: 7/10
+Clinic visited: Sich Family Health Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 7 for Dr. Viktor Kovalyov, Cardiology, Dnipro
+Rating: 8/10
+Clinic visited: Sich Family Health Practice
+Description: Seeing Dr. Viktor Kovalyov in Dnipro meant my whole family history was reviewed, and now my sister is being screened too. At my visit, Dr. Viktor Kovalyov took notes on my medication list, checked for interactions and explained the changes simply. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Viktor Kovalyov, Cardiology, Dnipro
+Rating: 9/10
+Clinic visited: Dniprovska Medical Centre
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. Everything was explained in plain English by Dr. Viktor Kovalyov, and nothing was left to guess. I will be coming back for all my future check-ups.
+
+Review 9 for Dr. Viktor Kovalyov, Cardiology, Dnipro
+Rating: 7/10
+Clinic visited: Sich Family Health Practice
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. I liked the advice I got from Dr. Viktor Kovalyov, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 10 for Dr. Viktor Kovalyov, Cardiology, Dnipro
+Rating: 6/10
+Clinic visited: Dniprovska Medical Centre
+Description: Helpful with my cholesterol, Dr. Viktor Kovalyov still gave dietary advice that was a little generic. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 11 for Dr. Viktor Kovalyov, Cardiology, Dnipro
+Rating: 7/10
+Clinic visited: Nova Hora Clinic
+Description: Great care in the visit itself, but the billing for the tests at Nova Hora Clinic was confusing. The doctor was kind, though the clinic's evening hours are very limited for working people. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 12 for Dr. Viktor Kovalyov, Cardiology, Dnipro
+Rating: 7/10
+Clinic visited: Nova Hora Clinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Overall rating for Dr. Viktor Kovalyov, Cardiology, Dnipro: 7.33/10 from 12 reviews

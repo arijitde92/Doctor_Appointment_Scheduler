@@ -1,0 +1,59 @@
+Doctor: Dr. Sean Doyle
+Doctor ID: 2505
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 25
+City: Galway, Ireland
+Clinics: Dominick Street Medical Centre (clinic ID 327)
+
+Review 1 for Dr. Sean Doyle, Gastroenterology, Galway
+Rating: 7/10
+Clinic visited: Dominick Street Medical Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Sean Doyle is thorough, but I waited nearly two months to get the first available slot.
+
+Review 2 for Dr. Sean Doyle, Gastroenterology, Galway
+Rating: 7/10
+Clinic visited: Dominick Street Medical Centre
+Description: Dr. Sean Doyle was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Sean Doyle, Gastroenterology, Galway
+Rating: 6/10
+Clinic visited: Dominick Street Medical Centre
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. I liked the advice I got from Dr. Sean Doyle, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Sean Doyle, Gastroenterology, Galway
+Rating: 6/10
+Clinic visited: Dominick Street Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Sean Doyle, Gastroenterology, Galway
+Rating: 6/10
+Clinic visited: Dominick Street Medical Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Sean Doyle, Gastroenterology, Galway
+Rating: 6/10
+Clinic visited: Dominick Street Medical Centre
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 7 for Dr. Sean Doyle, Gastroenterology, Galway
+Rating: 6/10
+Clinic visited: Dominick Street Medical Centre
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 8 for Dr. Sean Doyle, Gastroenterology, Galway
+Rating: 9/10
+Clinic visited: Dominick Street Medical Centre
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Sean Doyle, Gastroenterology, Galway
+Rating: 7/10
+Clinic visited: Dominick Street Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Knowledgeable about my reflux, Dr. Sean Doyle still gave diet advice that felt generic and not tailored to my habits.
+
+Review 10 for Dr. Sean Doyle, Gastroenterology, Galway
+Rating: 8/10
+Clinic visited: Dominick Street Medical Centre
+Description: I get regular check-ups for my Crohn's disease, and Dr. Sean Doyle adjusts my treatment carefully and always explains why.
+
+Overall rating for Dr. Sean Doyle, Gastroenterology, Galway: 6.80/10 from 10 reviews

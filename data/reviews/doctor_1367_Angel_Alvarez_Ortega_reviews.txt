@@ -1,0 +1,54 @@
+Doctor: Dr. Ángel Álvarez Ortega
+Doctor ID: 1367
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 3
+City: Barcelona, Spain
+Clinics: Clínica Gràcia (clinic ID 178); Centre Mèdic Sants (clinic ID 179)
+
+Review 1 for Dr. Ángel Álvarez Ortega, Orthopedic, Barcelona
+Rating: 7/10
+Clinic visited: Centre Mèdic Sants
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Ángel Álvarez Ortega, Orthopedic, Barcelona
+Rating: 7/10
+Clinic visited: Centre Mèdic Sants
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 3 for Dr. Ángel Álvarez Ortega, Orthopedic, Barcelona
+Rating: 10/10
+Clinic visited: Centre Mèdic Sants
+Description: I appreciated Dr. Ángel Álvarez Ortega's honest comparison between injections, therapy and surgery for my hip pain. At my visit, Dr. Ángel Álvarez Ortega took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 4 for Dr. Ángel Álvarez Ortega, Orthopedic, Barcelona
+Rating: 5/10
+Clinic visited: Clínica Gràcia
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. Dr. Ángel Álvarez Ortega was thoughtful and clear, though the front desk was disorganized and lost my first referral form. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Ángel Álvarez Ortega, Orthopedic, Barcelona
+Rating: 10/10
+Clinic visited: Clínica Gràcia
+Description: My torn rotator cuff was managed first by Dr. Ángel Álvarez Ortega with physiotherapy, and surgery was only suggested when it truly was needed. He was upfront about what could and could not be treated, and did not oversell any option. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Ángel Álvarez Ortega, Orthopedic, Barcelona
+Rating: 9/10
+Clinic visited: Clínica Gràcia
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. My son's fracture was handled gently, and the explanation was pitched at his level as well as mine.
+
+Review 7 for Dr. Ángel Álvarez Ortega, Orthopedic, Barcelona
+Rating: 7/10
+Clinic visited: Centre Mèdic Sants
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Ángel Álvarez Ortega, Orthopedic, Barcelona
+Rating: 9/10
+Clinic visited: Clínica Gràcia
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Getting around Barcelona on crutches was hard, but the accessible entrance and short waiting time at Clínica Gràcia helped a lot.
+
+Review 9 for Dr. Ángel Álvarez Ortega, Orthopedic, Barcelona
+Rating: 6/10
+Clinic visited: Centre Mèdic Sants
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Ángel Álvarez Ortega, Orthopedic, Barcelona: 7.78/10 from 9 reviews

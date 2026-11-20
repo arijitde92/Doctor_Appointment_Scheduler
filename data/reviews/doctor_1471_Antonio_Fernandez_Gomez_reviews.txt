@@ -1,0 +1,64 @@
+Doctor: Dr. Antonio Fernández Gómez
+Doctor ID: 1471
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 6
+City: Valencia, Spain
+Clinics: Policlínica del Turia (clinic ID 192)
+
+Review 1 for Dr. Antonio Fernández Gómez, Orthopedic, Valencia
+Rating: 7/10
+Clinic visited: Policlínica del Turia
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Antonio Fernández Gómez, Orthopedic, Valencia
+Rating: 10/10
+Clinic visited: Policlínica del Turia
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Getting around Valencia on crutches was hard, but the accessible entrance and short waiting time at Policlínica del Turia helped a lot.
+
+Review 3 for Dr. Antonio Fernández Gómez, Orthopedic, Valencia
+Rating: 5/10
+Clinic visited: Policlínica del Turia
+Description: Dr. Antonio Fernández Gómez explained surgery options clearly, though the physiotherapy referral took weeks to arrive.
+
+Review 4 for Dr. Antonio Fernández Gómez, Orthopedic, Valencia
+Rating: 7/10
+Clinic visited: Policlínica del Turia
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 5 for Dr. Antonio Fernández Gómez, Orthopedic, Valencia
+Rating: 4/10
+Clinic visited: Policlínica del Turia
+Description: I was told by Dr. Antonio Fernández Gómez that my knee pain was just age without any scan or exam, and the pain kept getting worse. The visit felt rushed, and Dr. Antonio Fernández Gómez was already halfway out the door when I started to describe my second symptom. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 6 for Dr. Antonio Fernández Gómez, Orthopedic, Valencia
+Rating: 6/10
+Clinic visited: Policlínica del Turia
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 7 for Dr. Antonio Fernández Gómez, Orthopedic, Valencia
+Rating: 5/10
+Clinic visited: Policlínica del Turia
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. Booking was easy online, but the confirmation email contained the wrong address for Policlínica del Turia. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Antonio Fernández Gómez, Orthopedic, Valencia
+Rating: 7/10
+Clinic visited: Policlínica del Turia
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 9 for Dr. Antonio Fernández Gómez, Orthopedic, Valencia
+Rating: 8/10
+Clinic visited: Policlínica del Turia
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan.
+
+Review 10 for Dr. Antonio Fernández Gómez, Orthopedic, Valencia
+Rating: 5/10
+Clinic visited: Policlínica del Turia
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. The doctor was kind, though the clinic's evening hours are very limited for working people. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 11 for Dr. Antonio Fernández Gómez, Orthopedic, Valencia
+Rating: 7/10
+Clinic visited: Policlínica del Turia
+Description: Very skilled with my knee, but Dr. Antonio Fernández Gómez's clinic runs behind and the wait was over an hour.
+
+Overall rating for Dr. Antonio Fernández Gómez, Orthopedic, Valencia: 6.45/10 from 11 reviews

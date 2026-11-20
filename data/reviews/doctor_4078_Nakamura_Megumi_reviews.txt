@@ -1,0 +1,64 @@
+Doctor: Dr. Nakamura Megumi
+Doctor ID: 4078
+Specialization: Pathology
+Gender: Female
+Years of experience: 13
+City: Tokyo, Japan
+Clinics: Shinjuku Midori Medical Clinic (clinic ID 526)
+
+Review 1 for Dr. Nakamura Megumi, Pathology, Tokyo
+Rating: 2/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: My referral was sent to the wrong specialist and I lost a month before the mistake was found.
+
+Review 2 for Dr. Nakamura Megumi, Pathology, Tokyo
+Rating: 7/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 3 for Dr. Nakamura Megumi, Pathology, Tokyo
+Rating: 2/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: The waiting room at Shinjuku Midori Medical Clinic was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 4 for Dr. Nakamura Megumi, Pathology, Tokyo
+Rating: 4/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: I was billed twice for the same panel and it took a month to get a correction.
+
+Review 5 for Dr. Nakamura Megumi, Pathology, Tokyo
+Rating: 6/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: Booking was easy online, but the confirmation email contained the wrong address for Shinjuku Midori Medical Clinic. Dr. Nakamura Megumi answered my questions kindly, though the call back took three days.
+
+Review 6 for Dr. Nakamura Megumi, Pathology, Tokyo
+Rating: 4/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive.
+
+Review 7 for Dr. Nakamura Megumi, Pathology, Tokyo
+Rating: 2/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. Not a place I would choose again, and I hope others have a better experience.
+
+Review 8 for Dr. Nakamura Megumi, Pathology, Tokyo
+Rating: 6/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: The blood draw was painless, but the waiting area at Shinjuku Midori Medical Clinic was crowded in the early morning. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 9 for Dr. Nakamura Megumi, Pathology, Tokyo
+Rating: 5/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 10 for Dr. Nakamura Megumi, Pathology, Tokyo
+Rating: 4/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 11 for Dr. Nakamura Megumi, Pathology, Tokyo
+Rating: 5/10
+Clinic visited: Shinjuku Midori Medical Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Overall rating for Dr. Nakamura Megumi, Pathology, Tokyo: 4.27/10 from 11 reviews

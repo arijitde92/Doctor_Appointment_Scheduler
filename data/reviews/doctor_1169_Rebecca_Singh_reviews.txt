@@ -1,0 +1,54 @@
+Doctor: Dr. Rebecca Singh
+Doctor ID: 1169
+Specialization: Pathology
+Gender: Female
+Years of experience: 26
+City: Manchester, UK
+Clinics: Wilmslow Road Family Clinic (clinic ID 152); Chorlton Green Health Practice (clinic ID 154)
+
+Review 1 for Dr. Rebecca Singh, Pathology, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Dr. Rebecca Singh answered my questions kindly, though the call back took three days.
+
+Review 2 for Dr. Rebecca Singh, Pathology, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 3 for Dr. Rebecca Singh, Pathology, Manchester
+Rating: 9/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. The practice in Manchester is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 4 for Dr. Rebecca Singh, Pathology, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Rebecca Singh, Pathology, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Rebecca Singh, Pathology, Manchester
+Rating: 6/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Rebecca Singh, Pathology, Manchester
+Rating: 6/10
+Clinic visited: Chorlton Green Health Practice
+Description: Helpful in clarifying a borderline result, though Dr. Rebecca Singh gave little guidance about whether to repeat it. Good bedside manner from Dr. Rebecca Singh, but the parking near Chorlton Green Health Practice is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Rebecca Singh, Pathology, Manchester
+Rating: 7/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 9 for Dr. Rebecca Singh, Pathology, Manchester
+Rating: 8/10
+Clinic visited: Wilmslow Road Family Clinic
+Description: Paperwork at Wilmslow Road Family Clinic was kept to a minimum, and the staff helped me complete the insurance form. Fast turnaround at Wilmslow Road Family Clinic on my thyroid panel, with results in my online account by the next morning.
+
+Overall rating for Dr. Rebecca Singh, Pathology, Manchester: 7.22/10 from 9 reviews

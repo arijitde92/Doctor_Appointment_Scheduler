@@ -1,0 +1,59 @@
+Doctor: Dr. Jan Hansen
+Doctor ID: 1976
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 26
+City: Bergen, Norway
+Clinics: Legekontoret Kalfaret (clinic ID 258)
+
+Review 1 for Dr. Jan Hansen, Psychiatry, Bergen
+Rating: 8/10
+Clinic visited: Legekontoret Kalfaret
+Description: Appointments in Bergen are always on schedule, and the waiting area is peaceful and private. Sensitive questions were handled by Dr. Jan Hansen with discretion and without a hint of judgment.
+
+Review 2 for Dr. Jan Hansen, Psychiatry, Bergen
+Rating: 8/10
+Clinic visited: Legekontoret Kalfaret
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion. Booking online at Legekontoret Kalfaret was simple, and I got a confirmation text with clear directions and a reminder the day before. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Jan Hansen, Psychiatry, Bergen
+Rating: 9/10
+Clinic visited: Legekontoret Kalfaret
+Description: A translator was arranged for my mother without us asking twice, and Dr. Jan Hansen spoke directly to her throughout. The ADHD assessment by Dr. Jan Hansen was careful and detailed, with clear written conclusions and realistic expectations. Highly recommended, and I have already told two colleagues about it.
+
+Review 4 for Dr. Jan Hansen, Psychiatry, Bergen
+Rating: 6/10
+Clinic visited: Legekontoret Kalfaret
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Jan Hansen, Psychiatry, Bergen
+Rating: 6/10
+Clinic visited: Legekontoret Kalfaret
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Jan Hansen, Psychiatry, Bergen
+Rating: 8/10
+Clinic visited: Legekontoret Kalfaret
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. He always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 7 for Dr. Jan Hansen, Psychiatry, Bergen
+Rating: 9/10
+Clinic visited: Legekontoret Kalfaret
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Jan Hansen, Psychiatry, Bergen
+Rating: 8/10
+Clinic visited: Legekontoret Kalfaret
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. I can ring Legekontoret Kalfaret with an urgent question and receive a thoughtful reply the same day. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Jan Hansen, Psychiatry, Bergen
+Rating: 7/10
+Clinic visited: Legekontoret Kalfaret
+Description: Dr. Jan Hansen is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 10 for Dr. Jan Hansen, Psychiatry, Bergen
+Rating: 7/10
+Clinic visited: Legekontoret Kalfaret
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Jan Hansen, Psychiatry, Bergen: 7.60/10 from 10 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. David O'Brien
+Doctor ID: 2485
+Specialization: Neurology
+Gender: Male
+Years of experience: 28
+City: Galway, Ireland
+Clinics: Eyre Square Health Practice (clinic ID 325)
+
+Review 1 for Dr. David O'Brien, Neurology, Galway
+Rating: 6/10
+Clinic visited: Eyre Square Health Practice
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. David O'Brien, Neurology, Galway
+Rating: 8/10
+Clinic visited: Eyre Square Health Practice
+Description: At my visit, Dr. David O'Brien took notes on my medication list, checked for interactions and explained the changes simply. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. David O'Brien, Neurology, Galway
+Rating: 6/10
+Clinic visited: Eyre Square Health Practice
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 4 for Dr. David O'Brien, Neurology, Galway
+Rating: 6/10
+Clinic visited: Eyre Square Health Practice
+Description: Dr. David O'Brien explained my results well, although the visit felt short for such a complex condition.
+
+Review 5 for Dr. David O'Brien, Neurology, Galway
+Rating: 9/10
+Clinic visited: Eyre Square Health Practice
+Description: Living with multiple sclerosis feels less frightening because Dr. David O'Brien explains and discusses every change in my plan. Dr. David O'Brien looked me in the eye, listened to the whole story and only then started typing.
+
+Review 6 for Dr. David O'Brien, Neurology, Galway
+Rating: 4/10
+Clinic visited: Eyre Square Health Practice
+Description: The waiting room at Eyre Square Health Practice was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 7 for Dr. David O'Brien, Neurology, Galway
+Rating: 8/10
+Clinic visited: Eyre Square Health Practice
+Description: Getting a same-month appointment in Galway for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 8 for Dr. David O'Brien, Neurology, Galway
+Rating: 8/10
+Clinic visited: Eyre Square Health Practice
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. My tremor was assessed carefully and the explanation of the options was balanced and unhurried.
+
+Review 9 for Dr. David O'Brien, Neurology, Galway
+Rating: 8/10
+Clinic visited: Eyre Square Health Practice
+Description: I appreciated that he offered more than one option and let me choose what suited my life. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. David O'Brien, Neurology, Galway: 7.00/10 from 9 reviews

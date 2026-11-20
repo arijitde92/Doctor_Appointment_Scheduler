@@ -1,0 +1,59 @@
+Doctor: Dr. Stephanie Jones
+Doctor ID: 240
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 1
+City: San Francisco, USA
+Clinics: Sunset District Clinic (clinic ID 33)
+
+Review 1 for Dr. Stephanie Jones, Gastroenterology, San Francisco
+Rating: 10/10
+Clinic visited: Sunset District Clinic
+Description: My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Review 2 for Dr. Stephanie Jones, Gastroenterology, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: A gentle, respectful manner from Dr. Stephanie Jones made a very awkward exam bearable, with every step explained before it happened. Sensitive questions were handled by Dr. Stephanie Jones with discretion and without a hint of judgment. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Stephanie Jones, Gastroenterology, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: Clear explanation from Dr. Stephanie Jones of fatty liver and exactly which lifestyle changes would make a measurable difference.
+
+Review 4 for Dr. Stephanie Jones, Gastroenterology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: Getting to Sunset District Clinic in San Francisco was simple, and the day-procedure unit was calm and efficient. I came away understanding my condition better than I have in years of previous appointments. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Stephanie Jones, Gastroenterology, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: Prescriptions from Dr. Stephanie Jones were sent to my pharmacy before I even left the building, and the dosage instructions were written down. After years of undiagnosed stomach pain, she identified celiac disease with the right blood tests and a careful plan.
+
+Review 6 for Dr. Stephanie Jones, Gastroenterology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Dr. Stephanie Jones took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Stephanie Jones, Gastroenterology, San Francisco
+Rating: 10/10
+Clinic visited: Sunset District Clinic
+Description: I get regular check-ups for my Crohn's disease, and Dr. Stephanie Jones adjusts my treatment carefully and always explains why. Dr. Stephanie Jones drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 8 for Dr. Stephanie Jones, Gastroenterology, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: She was upfront about what could and could not be treated, and did not oversell any option. The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 9 for Dr. Stephanie Jones, Gastroenterology, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Review 10 for Dr. Stephanie Jones, Gastroenterology, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: She never made me feel embarrassed about discussing bowel habits, which is the main reason I returned.
+
+Overall rating for Dr. Stephanie Jones, Gastroenterology, San Francisco: 8.70/10 from 10 reviews

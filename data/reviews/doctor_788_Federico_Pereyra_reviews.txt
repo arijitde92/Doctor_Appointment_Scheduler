@@ -1,0 +1,69 @@
+Doctor: Dr. Federico Pereyra
+Doctor ID: 788
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 16
+City: Cordoba, Argentina
+Clinics: Policlínica General Paz (clinic ID 103)
+
+Review 1 for Dr. Federico Pereyra, Psychiatry, Cordoba
+Rating: 9/10
+Clinic visited: Policlínica General Paz
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 2 for Dr. Federico Pereyra, Psychiatry, Cordoba
+Rating: 7/10
+Clinic visited: Policlínica General Paz
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good listener, yet the refill process at Policlínica General Paz is slow and requires several phone calls.
+
+Review 3 for Dr. Federico Pereyra, Psychiatry, Cordoba
+Rating: 8/10
+Clinic visited: Policlínica General Paz
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. A translator was arranged for my mother without us asking twice, and Dr. Federico Pereyra spoke directly to her throughout.
+
+Review 4 for Dr. Federico Pereyra, Psychiatry, Cordoba
+Rating: 9/10
+Clinic visited: Policlínica General Paz
+Description: Excellent at explaining how therapy and medication work together, and Dr. Federico Pereyra coordinated with my counselor. The receptionist at Policlínica General Paz remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 5 for Dr. Federico Pereyra, Psychiatry, Cordoba
+Rating: 6/10
+Clinic visited: Policlínica General Paz
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 6 for Dr. Federico Pereyra, Psychiatry, Cordoba
+Rating: 9/10
+Clinic visited: Policlínica General Paz
+Description: My depression finally has a treatment plan from Dr. Federico Pereyra that works, with regular check-ins and careful dose changes. He was upfront about what could and could not be treated, and did not oversell any option. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 7 for Dr. Federico Pereyra, Psychiatry, Cordoba
+Rating: 7/10
+Clinic visited: Policlínica General Paz
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Good bedside manner from Dr. Federico Pereyra, but the parking near Policlínica General Paz is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Federico Pereyra, Psychiatry, Cordoba
+Rating: 10/10
+Clinic visited: Policlínica General Paz
+Description: Appointments in Cordoba are always on schedule, and the waiting area is peaceful and private. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 9 for Dr. Federico Pereyra, Psychiatry, Cordoba
+Rating: 6/10
+Clinic visited: Policlínica General Paz
+Description: Dr. Federico Pereyra is knowledgeable, though I waited several weeks for my first appointment. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 10 for Dr. Federico Pereyra, Psychiatry, Cordoba
+Rating: 8/10
+Clinic visited: Policlínica General Paz
+Description: Never once did Dr. Federico Pereyra make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 11 for Dr. Federico Pereyra, Psychiatry, Cordoba
+Rating: 6/10
+Clinic visited: Policlínica General Paz
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 12 for Dr. Federico Pereyra, Psychiatry, Cordoba
+Rating: 6/10
+Clinic visited: Policlínica General Paz
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Federico Pereyra, Psychiatry, Cordoba: 7.58/10 from 12 reviews

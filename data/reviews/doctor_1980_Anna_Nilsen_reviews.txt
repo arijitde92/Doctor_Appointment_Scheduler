@@ -1,0 +1,49 @@
+Doctor: Dr. Anna Nilsen
+Doctor ID: 1980
+Specialization: Radiology
+Gender: Female
+Years of experience: 21
+City: Bergen, Norway
+Clinics: Legekontoret Kalfaret (clinic ID 258)
+
+Review 1 for Dr. Anna Nilsen, Radiology, Bergen
+Rating: 10/10
+Clinic visited: Legekontoret Kalfaret
+Description: She called me personally after my scan to explain the findings in plain language before I saw my own doctor. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Anna Nilsen, Radiology, Bergen
+Rating: 7/10
+Clinic visited: Legekontoret Kalfaret
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Anna Nilsen, Radiology, Bergen
+Rating: 8/10
+Clinic visited: Legekontoret Kalfaret
+Description: Everything was explained in plain English by Dr. Anna Nilsen, and nothing was left to guess. I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 4 for Dr. Anna Nilsen, Radiology, Bergen
+Rating: 9/10
+Clinic visited: Legekontoret Kalfaret
+Description: Booking online at Legekontoret Kalfaret was simple, and I got a confirmation text with clear directions and a reminder the day before. The report from Dr. Anna Nilsen was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 5 for Dr. Anna Nilsen, Radiology, Bergen
+Rating: 10/10
+Clinic visited: Legekontoret Kalfaret
+Description: The staff at Legekontoret Kalfaret in Bergen explained the contrast dye and its side effects before I signed anything.
+
+Review 6 for Dr. Anna Nilsen, Radiology, Bergen
+Rating: 7/10
+Clinic visited: Legekontoret Kalfaret
+Description: Dr. Anna Nilsen answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Anna Nilsen, Radiology, Bergen
+Rating: 9/10
+Clinic visited: Legekontoret Kalfaret
+Description: My ultrasound was unhurried, and Dr. Anna Nilsen took time to show me the images and explain what each measurement meant. Prescriptions from Dr. Anna Nilsen were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 8 for Dr. Anna Nilsen, Radiology, Bergen
+Rating: 8/10
+Clinic visited: Legekontoret Kalfaret
+Description: Sensitive questions were handled by Dr. Anna Nilsen with discretion and without a hint of judgment. The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Anna Nilsen were respectful throughout.
+
+Overall rating for Dr. Anna Nilsen, Radiology, Bergen: 8.50/10 from 8 reviews

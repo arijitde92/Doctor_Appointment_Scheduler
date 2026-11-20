@@ -1,0 +1,49 @@
+Doctor: Dr. Grace Kumar
+Doctor ID: 6731
+Specialization: Radiology
+Gender: Female
+Years of experience: 6
+City: Wellington, New Zealand
+Clinics: Fernbird Family Doctors (clinic ID 872)
+
+Review 1 for Dr. Grace Kumar, Radiology, Wellington
+Rating: 9/10
+Clinic visited: Fernbird Family Doctors
+Description: The report from Dr. Grace Kumar was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 2 for Dr. Grace Kumar, Radiology, Wellington
+Rating: 9/10
+Clinic visited: Fernbird Family Doctors
+Description: A same-day slot was found for me at Fernbird Family Doctors when I called with a worrying symptom. Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Review 3 for Dr. Grace Kumar, Radiology, Wellington
+Rating: 8/10
+Clinic visited: Fernbird Family Doctors
+Description: The practice in Wellington is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 4 for Dr. Grace Kumar, Radiology, Wellington
+Rating: 8/10
+Clinic visited: Fernbird Family Doctors
+Description: Dr. Grace Kumar compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 5 for Dr. Grace Kumar, Radiology, Wellington
+Rating: 10/10
+Clinic visited: Fernbird Family Doctors
+Description: At my visit, Dr. Grace Kumar took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 6 for Dr. Grace Kumar, Radiology, Wellington
+Rating: 10/10
+Clinic visited: Fernbird Family Doctors
+Description: I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 7 for Dr. Grace Kumar, Radiology, Wellington
+Rating: 9/10
+Clinic visited: Fernbird Family Doctors
+Description: Reviewing my X-ray together with Dr. Grace Kumar on the screen made it much easier to understand my arthritis.
+
+Review 8 for Dr. Grace Kumar, Radiology, Wellington
+Rating: 10/10
+Clinic visited: Fernbird Family Doctors
+Description: The staff at Fernbird Family Doctors in Wellington explained the contrast dye and its side effects before I signed anything. Booking online at Fernbird Family Doctors was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Overall rating for Dr. Grace Kumar, Radiology, Wellington: 9.12/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Enrico Greco
+Doctor ID: 3449
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 2
+City: Naples, Italy
+Clinics: Studio Medico Santa Lucia (clinic ID 447); Clinica Posillipo (clinic ID 448)
+
+Review 1 for Dr. Enrico Greco, Pulmonology, Naples
+Rating: 10/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Clear, honest answers from Dr. Enrico Greco about my shortness of breath, and no unnecessary tests were ordered.
+
+Review 2 for Dr. Enrico Greco, Pulmonology, Naples
+Rating: 10/10
+Clinic visited: Clinica Posillipo
+Description: I appreciated that he offered more than one option and let me choose what suited my life. At Clinica Posillipo, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 3 for Dr. Enrico Greco, Pulmonology, Naples
+Rating: 8/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 4 for Dr. Enrico Greco, Pulmonology, Naples
+Rating: 10/10
+Clinic visited: Studio Medico Santa Lucia
+Description: Dr. Enrico Greco drew a quick sketch to explain what was going on, which helped me remember it afterwards. He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Enrico Greco, Pulmonology, Naples
+Rating: 10/10
+Clinic visited: Clinica Posillipo
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 6 for Dr. Enrico Greco, Pulmonology, Naples
+Rating: 8/10
+Clinic visited: Studio Medico Santa Lucia
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Enrico Greco, Pulmonology, Naples
+Rating: 9/10
+Clinic visited: Studio Medico Santa Lucia
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Naples. The practice in Naples is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Enrico Greco, Pulmonology, Naples
+Rating: 8/10
+Clinic visited: Studio Medico Santa Lucia
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Overall rating for Dr. Enrico Greco, Pulmonology, Naples: 9.12/10 from 8 reviews

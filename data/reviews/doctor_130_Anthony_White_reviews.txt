@@ -1,0 +1,69 @@
+Doctor: Dr. Anthony White
+Doctor ID: 130
+Specialization: General
+Gender: Male
+Years of experience: 11
+City: Chicago, USA
+Clinics: Windy City Urgent and Primary Care (clinic ID 19)
+
+Review 1 for Dr. Anthony White, General, Chicago
+Rating: 7/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Anthony White is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 2 for Dr. Anthony White, General, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 3 for Dr. Anthony White, General, Chicago
+Rating: 9/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I went in with months of tiredness, and Dr. Anthony White ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 4 for Dr. Anthony White, General, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Anthony White, General, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. Dr. Anthony White looked me in the eye, listened to the whole story and only then started typing.
+
+Review 6 for Dr. Anthony White, General, Chicago
+Rating: 5/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Anthony White, General, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Getting to Windy City Urgent and Primary Care by public transport in Chicago was easy, and there is a step-free entrance for wheelchairs.
+
+Review 8 for Dr. Anthony White, General, Chicago
+Rating: 5/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 9 for Dr. Anthony White, General, Chicago
+Rating: 9/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: My annual check-up with Dr. Anthony White took forty minutes, with every screening explained and nothing rushed.
+
+Review 10 for Dr. Anthony White, General, Chicago
+Rating: 6/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: The treatment plan from Dr. Anthony White made sense, but I wished it had been written down for me to take away. I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 11 for Dr. Anthony White, General, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. My blood pressure had crept up and Dr. Anthony White walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 12 for Dr. Anthony White, General, Chicago
+Rating: 8/10
+Clinic visited: Windy City Urgent and Primary Care
+Description: Cholesterol results were explained by Dr. Anthony White with a simple chart, and we agreed on a plan I could realistically follow. I appreciated that he offered more than one option and let me choose what suited my life. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Anthony White, General, Chicago: 7.42/10 from 12 reviews

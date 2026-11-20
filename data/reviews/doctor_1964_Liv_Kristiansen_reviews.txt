@@ -1,0 +1,59 @@
+Doctor: Dr. Liv Kristiansen
+Doctor ID: 1964
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 6
+City: Bergen, Norway
+Clinics: Helsehuset Strandgaten (clinic ID 256)
+
+Review 1 for Dr. Liv Kristiansen, Orthopedic, Bergen
+Rating: 5/10
+Clinic visited: Helsehuset Strandgaten
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 2 for Dr. Liv Kristiansen, Orthopedic, Bergen
+Rating: 5/10
+Clinic visited: Helsehuset Strandgaten
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 3 for Dr. Liv Kristiansen, Orthopedic, Bergen
+Rating: 5/10
+Clinic visited: Helsehuset Strandgaten
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 4 for Dr. Liv Kristiansen, Orthopedic, Bergen
+Rating: 3/10
+Clinic visited: Helsehuset Strandgaten
+Description: After my fracture, nobody explained the cast care, and I ended up back in the clinic with skin irritation. The prescription from Dr. Liv Kristiansen was not the one we discussed, and I only noticed when I got home. I left disappointed and will take my business to another clinic.
+
+Review 5 for Dr. Liv Kristiansen, Orthopedic, Bergen
+Rating: 5/10
+Clinic visited: Helsehuset Strandgaten
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The cast was applied well, but the instructions for showering and sleeping were rushed.
+
+Review 6 for Dr. Liv Kristiansen, Orthopedic, Bergen
+Rating: 6/10
+Clinic visited: Helsehuset Strandgaten
+Description: Dr. Liv Kristiansen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Liv Kristiansen, Orthopedic, Bergen
+Rating: 5/10
+Clinic visited: Helsehuset Strandgaten
+Description: Very skilled with my knee, but Dr. Liv Kristiansen's clinic runs behind and the wait was over an hour. Dr. Liv Kristiansen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Liv Kristiansen, Orthopedic, Bergen
+Rating: 6/10
+Clinic visited: Helsehuset Strandgaten
+Description: Dr. Liv Kristiansen explained surgery options clearly, though the physiotherapy referral took weeks to arrive. I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Liv Kristiansen, Orthopedic, Bergen
+Rating: 5/10
+Clinic visited: Helsehuset Strandgaten
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Helpful visit overall, although I only found out about an extra charge after I had paid. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Liv Kristiansen, Orthopedic, Bergen
+Rating: 5/10
+Clinic visited: Helsehuset Strandgaten
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Liv Kristiansen, Orthopedic, Bergen: 5.00/10 from 10 reviews

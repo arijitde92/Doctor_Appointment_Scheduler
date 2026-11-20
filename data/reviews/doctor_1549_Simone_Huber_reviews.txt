@@ -1,0 +1,64 @@
+Doctor: Dr. Simone Huber
+Doctor ID: 1549
+Specialization: General
+Gender: Female
+Years of experience: 9
+City: Frankfurt, Germany
+Clinics: Medizinisches Zentrum Bahnhofsviertel (clinic ID 202)
+
+Review 1 for Dr. Simone Huber, General, Frankfurt
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: My test results arrived in the portal within two days, together with a short note that made sense. My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 2 for Dr. Simone Huber, General, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Dr. Simone Huber is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Simone Huber, General, Frankfurt
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Getting to Medizinisches Zentrum Bahnhofsviertel by public transport in Frankfurt was easy, and there is a step-free entrance for wheelchairs. As a new patient in Frankfurt, I felt welcomed at Medizinisches Zentrum Bahnhofsviertel, and my whole history was reviewed in one relaxed visit. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 4 for Dr. Simone Huber, General, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Medizinisches Zentrum Bahnhofsviertel were inconsistent. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Simone Huber, General, Frankfurt
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Simone Huber, General, Frankfurt
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: My annual check-up with Dr. Simone Huber took forty minutes, with every screening explained and nothing rushed. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 7 for Dr. Simone Huber, General, Frankfurt
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: A same-day slot was found for me at Medizinisches Zentrum Bahnhofsviertel when I called with a worrying symptom. Best family doctor I have had; She treats the whole person and not just the symptom list.
+
+Review 8 for Dr. Simone Huber, General, Frankfurt
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Vaccination advice from Dr. Simone Huber for my travel plans was thorough and specific to the countries I was visiting. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 9 for Dr. Simone Huber, General, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Good bedside manner from Dr. Simone Huber, but the parking near Medizinisches Zentrum Bahnhofsviertel is limited and I had to circle for fifteen minutes. I like that she listens to the full story, even if it means the appointment runs behind schedule. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Simone Huber, General, Frankfurt
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: At my visit, Dr. Simone Huber took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 11 for Dr. Simone Huber, General, Frankfurt
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Booking online at Medizinisches Zentrum Bahnhofsviertel was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Overall rating for Dr. Simone Huber, General, Frankfurt: 8.36/10 from 11 reviews

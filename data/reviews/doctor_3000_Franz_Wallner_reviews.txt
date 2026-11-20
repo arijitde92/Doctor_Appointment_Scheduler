@@ -1,0 +1,49 @@
+Doctor: Dr. Franz Wallner
+Doctor ID: 3000
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 19
+City: Vienna, Austria
+Clinics: Praxiszentrum Stephansblick (clinic ID 391)
+
+Review 1 for Dr. Franz Wallner, Gastroenterology, Vienna
+Rating: 8/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Getting to Praxiszentrum Stephansblick in Vienna was simple, and the day-procedure unit was calm and efficient.
+
+Review 2 for Dr. Franz Wallner, Gastroenterology, Vienna
+Rating: 10/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: The receptionist at Praxiszentrum Stephansblick remembered my name and had my forms ready, so check-in took less than a minute. I feel lucky to have found this practice in my area.
+
+Review 3 for Dr. Franz Wallner, Gastroenterology, Vienna
+Rating: 10/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Dr. Franz Wallner drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 4 for Dr. Franz Wallner, Gastroenterology, Vienna
+Rating: 7/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Franz Wallner, Gastroenterology, Vienna
+Rating: 7/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 6 for Dr. Franz Wallner, Gastroenterology, Vienna
+Rating: 7/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 7 for Dr. Franz Wallner, Gastroenterology, Vienna
+Rating: 7/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 8 for Dr. Franz Wallner, Gastroenterology, Vienna
+Rating: 8/10
+Clinic visited: Praxiszentrum Stephansblick
+Description: I appreciated that he offered more than one option and let me choose what suited my life. I get regular check-ups for my Crohn's disease, and Dr. Franz Wallner adjusts my treatment carefully and always explains why.
+
+Overall rating for Dr. Franz Wallner, Gastroenterology, Vienna: 8.00/10 from 8 reviews

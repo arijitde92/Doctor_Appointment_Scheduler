@@ -1,0 +1,59 @@
+Doctor: Dr. Elena Ramos
+Doctor ID: 910
+Specialization: General
+Gender: Female
+Years of experience: 5
+City: Cusco, Peru
+Clinics: Clínica Wanchaq Salud (clinic ID 120)
+
+Review 1 for Dr. Elena Ramos, General, Cusco
+Rating: 7/10
+Clinic visited: Clínica Wanchaq Salud
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Referrals from Dr. Elena Ramos are handled well, but getting test results back took longer than I was told to expect.
+
+Review 2 for Dr. Elena Ramos, General, Cusco
+Rating: 10/10
+Clinic visited: Clínica Wanchaq Salud
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Elena Ramos felt well organized from start to finish.
+
+Review 3 for Dr. Elena Ramos, General, Cusco
+Rating: 7/10
+Clinic visited: Clínica Wanchaq Salud
+Description: I liked the advice I got from Dr. Elena Ramos, but I would have liked more time to ask follow-up questions before the visit ended. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Elena Ramos, General, Cusco
+Rating: 5/10
+Clinic visited: Clínica Wanchaq Salud
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 5 for Dr. Elena Ramos, General, Cusco
+Rating: 10/10
+Clinic visited: Clínica Wanchaq Salud
+Description: Dr. Elena Ramos used a calm, steady voice that settled my nerves before a stressful procedure. I went in with months of tiredness, and Dr. Elena Ramos ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Elena Ramos, General, Cusco
+Rating: 10/10
+Clinic visited: Clínica Wanchaq Salud
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 7 for Dr. Elena Ramos, General, Cusco
+Rating: 6/10
+Clinic visited: Clínica Wanchaq Salud
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Elena Ramos is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Elena Ramos, General, Cusco
+Rating: 8/10
+Clinic visited: Clínica Wanchaq Salud
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 9 for Dr. Elena Ramos, General, Cusco
+Rating: 7/10
+Clinic visited: Clínica Wanchaq Salud
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 10 for Dr. Elena Ramos, General, Cusco
+Rating: 5/10
+Clinic visited: Clínica Wanchaq Salud
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Overall rating for Dr. Elena Ramos, General, Cusco: 7.50/10 from 10 reviews

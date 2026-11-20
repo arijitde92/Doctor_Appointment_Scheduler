@@ -1,0 +1,64 @@
+Doctor: Dr. Paul Walsh
+Doctor ID: 2420
+Specialization: Radiology
+Gender: Male
+Years of experience: 16
+City: Cork, Ireland
+Clinics: Douglas Family Clinic (clinic ID 316)
+
+Review 1 for Dr. Paul Walsh, Radiology, Cork
+Rating: 10/10
+Clinic visited: Douglas Family Clinic
+Description: A translator was arranged for my mother without us asking twice, and Dr. Paul Walsh spoke directly to her throughout.
+
+Review 2 for Dr. Paul Walsh, Radiology, Cork
+Rating: 6/10
+Clinic visited: Douglas Family Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 3 for Dr. Paul Walsh, Radiology, Cork
+Rating: 10/10
+Clinic visited: Douglas Family Clinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Paul Walsh felt well organized from start to finish. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Paul Walsh, Radiology, Cork
+Rating: 10/10
+Clinic visited: Douglas Family Clinic
+Description: The staff at Douglas Family Clinic in Cork explained the contrast dye and its side effects before I signed anything.
+
+Review 5 for Dr. Paul Walsh, Radiology, Cork
+Rating: 9/10
+Clinic visited: Douglas Family Clinic
+Description: Booking a CT scan online at Douglas Family Clinic took two minutes, and I was in and out within forty minutes. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Paul Walsh, Radiology, Cork
+Rating: 10/10
+Clinic visited: Douglas Family Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Paul Walsh, Radiology, Cork
+Rating: 10/10
+Clinic visited: Douglas Family Clinic
+Description: My child's ultrasound was handled gently, and the radiologist chatted with them to keep them calm. Prescriptions from Dr. Paul Walsh were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 8 for Dr. Paul Walsh, Radiology, Cork
+Rating: 8/10
+Clinic visited: Douglas Family Clinic
+Description: When my scan showed something that needed a second look, Dr. Paul Walsh arranged the follow-up the same day. Paperwork at Douglas Family Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 9 for Dr. Paul Walsh, Radiology, Cork
+Rating: 7/10
+Clinic visited: Douglas Family Clinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Dr. Paul Walsh was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 10 for Dr. Paul Walsh, Radiology, Cork
+Rating: 10/10
+Clinic visited: Douglas Family Clinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 11 for Dr. Paul Walsh, Radiology, Cork
+Rating: 9/10
+Clinic visited: Douglas Family Clinic
+Description: The report from Dr. Paul Walsh was detailed but written so a non-medical person could follow it, with a short summary at the top. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Overall rating for Dr. Paul Walsh, Radiology, Cork: 9.00/10 from 11 reviews

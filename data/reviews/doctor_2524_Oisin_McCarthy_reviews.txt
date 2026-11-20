@@ -1,0 +1,69 @@
+Doctor: Dr. Oisin McCarthy
+Doctor ID: 2524
+Specialization: Pathology
+Gender: Male
+Years of experience: 4
+City: Limerick, Ireland
+Clinics: O'Connell Street Medical Practice (clinic ID 330); Castletroy Family Clinic (clinic ID 331); Henry Street Health Centre (clinic ID 332)
+
+Review 1 for Dr. Oisin McCarthy, Pathology, Limerick
+Rating: 7/10
+Clinic visited: O'Connell Street Medical Practice
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Oisin McCarthy, Pathology, Limerick
+Rating: 9/10
+Clinic visited: Castletroy Family Clinic
+Description: At my visit, Dr. Oisin McCarthy took notes on my medication list, checked for interactions and explained the changes simply. The lab at Castletroy Family Clinic had a quick, friendly blood draw and the phlebotomist found my vein on the first try. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Oisin McCarthy, Pathology, Limerick
+Rating: 9/10
+Clinic visited: Castletroy Family Clinic
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Dr. Oisin McCarthy took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 4 for Dr. Oisin McCarthy, Pathology, Limerick
+Rating: 9/10
+Clinic visited: Henry Street Health Centre
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. A same-day slot was found for me at Henry Street Health Centre when I called with a worrying symptom.
+
+Review 5 for Dr. Oisin McCarthy, Pathology, Limerick
+Rating: 8/10
+Clinic visited: Henry Street Health Centre
+Description: The lab under Dr. Oisin McCarthy was clean, organized and never overbooked, and results arrived exactly when promised. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 6 for Dr. Oisin McCarthy, Pathology, Limerick
+Rating: 10/10
+Clinic visited: Castletroy Family Clinic
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. Everything was explained in plain English by Dr. Oisin McCarthy, and nothing was left to guess. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Oisin McCarthy, Pathology, Limerick
+Rating: 8/10
+Clinic visited: Castletroy Family Clinic
+Description: Sensitive questions were handled by Dr. Oisin McCarthy with discretion and without a hint of judgment. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Oisin McCarthy, Pathology, Limerick
+Rating: 5/10
+Clinic visited: Castletroy Family Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 9 for Dr. Oisin McCarthy, Pathology, Limerick
+Rating: 6/10
+Clinic visited: Henry Street Health Centre
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Oisin McCarthy, Pathology, Limerick
+Rating: 7/10
+Clinic visited: Henry Street Health Centre
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 11 for Dr. Oisin McCarthy, Pathology, Limerick
+Rating: 9/10
+Clinic visited: Castletroy Family Clinic
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 12 for Dr. Oisin McCarthy, Pathology, Limerick
+Rating: 9/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Allergy panel results were explained in detail by Dr. Oisin McCarthy, with a note on which results mattered clinically and which did not. Staff treated my teenage daughter with respect and gave her a private moment to ask questions. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Oisin McCarthy, Pathology, Limerick: 8.00/10 from 12 reviews

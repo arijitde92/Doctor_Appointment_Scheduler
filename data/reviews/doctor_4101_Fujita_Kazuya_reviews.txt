@@ -1,0 +1,64 @@
+Doctor: Dr. Fujita Kazuya
+Doctor ID: 4101
+Specialization: Pathology
+Gender: Male
+Years of experience: 7
+City: Tokyo, Japan
+Clinics: Setagaya Kotobuki Family Clinic (clinic ID 529)
+
+Review 1 for Dr. Fujita Kazuya, Pathology, Tokyo
+Rating: 9/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: The receptionist at Setagaya Kotobuki Family Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 2 for Dr. Fujita Kazuya, Pathology, Tokyo
+Rating: 8/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 3 for Dr. Fujita Kazuya, Pathology, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Dr. Fujita Kazuya answered my questions kindly, though the call back took three days.
+
+Review 4 for Dr. Fujita Kazuya, Pathology, Tokyo
+Rating: 8/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Fujita Kazuya, Pathology, Tokyo
+Rating: 5/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Dr. Fujita Kazuya was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Helpful in clarifying a borderline result, though Dr. Fujita Kazuya gave little guidance about whether to repeat it.
+
+Review 6 for Dr. Fujita Kazuya, Pathology, Tokyo
+Rating: 6/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Fujita Kazuya, Pathology, Tokyo
+Rating: 3/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive.
+
+Review 8 for Dr. Fujita Kazuya, Pathology, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: The blood draw was painless, but the waiting area at Setagaya Kotobuki Family Clinic was crowded in the early morning.
+
+Review 9 for Dr. Fujita Kazuya, Pathology, Tokyo
+Rating: 8/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: The biopsy report was returned in three days, and Dr. Fujita Kazuya took time on the phone to explain every term in it. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. This is the first doctor I have trusted completely in years.
+
+Review 10 for Dr. Fujita Kazuya, Pathology, Tokyo
+Rating: 5/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Good bedside manner from Dr. Fujita Kazuya, but the parking near Setagaya Kotobuki Family Clinic is limited and I had to circle for fifteen minutes. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 11 for Dr. Fujita Kazuya, Pathology, Tokyo
+Rating: 7/10
+Clinic visited: Setagaya Kotobuki Family Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Overall rating for Dr. Fujita Kazuya, Pathology, Tokyo: 6.64/10 from 11 reviews

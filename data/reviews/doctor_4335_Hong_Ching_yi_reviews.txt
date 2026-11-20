@@ -1,0 +1,54 @@
+Doctor: Dr. Hong Ching-yi
+Doctor ID: 4335
+Specialization: Pathology
+Gender: Female
+Years of experience: 7
+City: Kaohsiung, Taiwan
+Clinics: Fengshan Kangtai Polyclinic (clinic ID 558); Xinxing Jiali Medical Clinic (clinic ID 559)
+
+Review 1 for Dr. Hong Ching-yi, Pathology, Kaohsiung
+Rating: 9/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: Dr. Hong Ching-yi took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 2 for Dr. Hong Ching-yi, Pathology, Kaohsiung
+Rating: 7/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: Helpful in clarifying a borderline result, though Dr. Hong Ching-yi gave little guidance about whether to repeat it. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Hong Ching-yi, Pathology, Kaohsiung
+Rating: 8/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: Fast turnaround at Fengshan Kangtai Polyclinic on my thyroid panel, with results in my online account by the next morning.
+
+Review 4 for Dr. Hong Ching-yi, Pathology, Kaohsiung
+Rating: 10/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Hong Ching-yi, Pathology, Kaohsiung
+Rating: 7/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 6 for Dr. Hong Ching-yi, Pathology, Kaohsiung
+Rating: 7/10
+Clinic visited: Xinxing Jiali Medical Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The blood draw was painless, but the waiting area at Xinxing Jiali Medical Clinic was crowded in the early morning.
+
+Review 7 for Dr. Hong Ching-yi, Pathology, Kaohsiung
+Rating: 7/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 8 for Dr. Hong Ching-yi, Pathology, Kaohsiung
+Rating: 9/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Kaohsiung. Booking online at Fengshan Kangtai Polyclinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 9 for Dr. Hong Ching-yi, Pathology, Kaohsiung
+Rating: 7/10
+Clinic visited: Fengshan Kangtai Polyclinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Hong Ching-yi, Pathology, Kaohsiung: 7.89/10 from 9 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Hendra Kusuma
+Doctor ID: 5088
+Specialization: General
+Gender: Male
+Years of experience: 4
+City: Bandung, Indonesia
+Clinics: Klinik Dharma Bakti (clinic ID 657); Klinik Surya Medika (clinic ID 658)
+
+Review 1 for Dr. Hendra Kusuma, General, Bandung
+Rating: 9/10
+Clinic visited: Klinik Surya Medika
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Hendra Kusuma, General, Bandung
+Rating: 8/10
+Clinic visited: Klinik Surya Medika
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 3 for Dr. Hendra Kusuma, General, Bandung
+Rating: 9/10
+Clinic visited: Klinik Surya Medika
+Description: My blood pressure had crept up and Dr. Hendra Kusuma walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 4 for Dr. Hendra Kusuma, General, Bandung
+Rating: 8/10
+Clinic visited: Klinik Dharma Bakti
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Cholesterol results were explained by Dr. Hendra Kusuma with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 5 for Dr. Hendra Kusuma, General, Bandung
+Rating: 10/10
+Clinic visited: Klinik Dharma Bakti
+Description: Vaccination advice from Dr. Hendra Kusuma for my travel plans was thorough and specific to the countries I was visiting. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 6 for Dr. Hendra Kusuma, General, Bandung
+Rating: 8/10
+Clinic visited: Klinik Surya Medika
+Description: By the time I left the room, Dr. Hendra Kusuma had sorted the sick note, referral letter and prescription refill. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Hendra Kusuma, General, Bandung
+Rating: 7/10
+Clinic visited: Klinik Surya Medika
+Description: Booking was easy online, but the confirmation email contained the wrong address for Klinik Surya Medika. My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 8 for Dr. Hendra Kusuma, General, Bandung
+Rating: 10/10
+Clinic visited: Klinik Surya Medika
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 9 for Dr. Hendra Kusuma, General, Bandung
+Rating: 9/10
+Clinic visited: Klinik Surya Medika
+Description: Dr. Hendra Kusuma spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Overall rating for Dr. Hendra Kusuma, General, Bandung: 8.67/10 from 9 reviews

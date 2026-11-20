@@ -1,0 +1,54 @@
+Doctor: Dr. Ng Li Hua
+Doctor ID: 4491
+Specialization: Cardiology
+Gender: Female
+Years of experience: 5
+City: Singapore, Singapore
+Clinics: Kampong Glam Health Clinic (clinic ID 579)
+
+Review 1 for Dr. Ng Li Hua, Cardiology, Singapore
+Rating: 8/10
+Clinic visited: Kampong Glam Health Clinic
+Description: I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me.
+
+Review 2 for Dr. Ng Li Hua, Cardiology, Singapore
+Rating: 9/10
+Clinic visited: Kampong Glam Health Clinic
+Description: Honest about the risks and benefits of the procedure, Dr. Ng Li Hua never pressured me toward surgery. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Ng Li Hua, Cardiology, Singapore
+Rating: 8/10
+Clinic visited: Kampong Glam Health Clinic
+Description: I was given a printed summary of the visit, which I shared with my family at home. She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me.
+
+Review 4 for Dr. Ng Li Hua, Cardiology, Singapore
+Rating: 7/10
+Clinic visited: Kampong Glam Health Clinic
+Description: Dr. Ng Li Hua adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 5 for Dr. Ng Li Hua, Cardiology, Singapore
+Rating: 9/10
+Clinic visited: Kampong Glam Health Clinic
+Description: After my palpitations began, Dr. Ng Li Hua arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Review 6 for Dr. Ng Li Hua, Cardiology, Singapore
+Rating: 9/10
+Clinic visited: Kampong Glam Health Clinic
+Description: My atrial fibrillation is well managed by Dr. Ng Li Hua, and I know exactly what symptoms mean I should call. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 7 for Dr. Ng Li Hua, Cardiology, Singapore
+Rating: 9/10
+Clinic visited: Kampong Glam Health Clinic
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. My stress test was supervised carefully, and Dr. Ng Li Hua reviewed the results in the same visit with a plan for my cholesterol.
+
+Review 8 for Dr. Ng Li Hua, Cardiology, Singapore
+Rating: 8/10
+Clinic visited: Kampong Glam Health Clinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Managing my blood pressure with Dr. Ng Li Hua has been steady and practical, with home readings reviewed at every visit.
+
+Review 9 for Dr. Ng Li Hua, Cardiology, Singapore
+Rating: 9/10
+Clinic visited: Kampong Glam Health Clinic
+Description: A same-day slot was found for me at Kampong Glam Health Clinic when I called with a worrying symptom. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Ng Li Hua, Cardiology, Singapore: 8.44/10 from 9 reviews

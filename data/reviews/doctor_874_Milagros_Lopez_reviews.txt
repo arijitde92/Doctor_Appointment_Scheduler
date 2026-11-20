@@ -1,0 +1,59 @@
+Doctor: Dr. Milagros López
+Doctor ID: 874
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 22
+City: Arequipa, Peru
+Clinics: Clínica Yanahuara Salud (clinic ID 115); Centro Médico Misti (clinic ID 116)
+
+Review 1 for Dr. Milagros López, Psychiatry, Arequipa
+Rating: 10/10
+Clinic visited: Clínica Yanahuara Salud
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Getting to Clínica Yanahuara Salud by public transport in Arequipa was easy, and there is a step-free entrance for wheelchairs.
+
+Review 2 for Dr. Milagros López, Psychiatry, Arequipa
+Rating: 5/10
+Clinic visited: Centro Médico Misti
+Description: Dr. Milagros López is knowledgeable, though I waited several weeks for my first appointment. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Milagros López, Psychiatry, Arequipa
+Rating: 8/10
+Clinic visited: Centro Médico Misti
+Description: Telehealth follow-ups at Centro Médico Misti are punctual and calm, and refills are dealt with quickly.
+
+Review 4 for Dr. Milagros López, Psychiatry, Arequipa
+Rating: 7/10
+Clinic visited: Centro Médico Misti
+Description: Good listener, yet the refill process at Centro Médico Misti is slow and requires several phone calls. The treatment plan from Dr. Milagros López made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Milagros López, Psychiatry, Arequipa
+Rating: 6/10
+Clinic visited: Clínica Yanahuara Salud
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Milagros López, Psychiatry, Arequipa
+Rating: 8/10
+Clinic visited: Centro Médico Misti
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Milagros López, Psychiatry, Arequipa
+Rating: 9/10
+Clinic visited: Clínica Yanahuara Salud
+Description: Excellent at explaining how therapy and medication work together, and Dr. Milagros López coordinated with my counselor. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 8 for Dr. Milagros López, Psychiatry, Arequipa
+Rating: 8/10
+Clinic visited: Clínica Yanahuara Salud
+Description: I can ring Clínica Yanahuara Salud with an urgent question and receive a thoughtful reply the same day. Dr. Milagros López used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 9 for Dr. Milagros López, Psychiatry, Arequipa
+Rating: 8/10
+Clinic visited: Centro Médico Misti
+Description: Dr. Milagros López took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 10 for Dr. Milagros López, Psychiatry, Arequipa
+Rating: 10/10
+Clinic visited: Centro Médico Misti
+Description: The ADHD assessment by Dr. Milagros López was careful and detailed, with clear written conclusions and realistic expectations. Sensitive questions were handled by Dr. Milagros López with discretion and without a hint of judgment.
+
+Overall rating for Dr. Milagros López, Psychiatry, Arequipa: 7.90/10 from 10 reviews

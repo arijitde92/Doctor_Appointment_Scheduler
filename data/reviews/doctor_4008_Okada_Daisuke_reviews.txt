@@ -1,0 +1,49 @@
+Doctor: Dr. Okada Daisuke
+Doctor ID: 4008
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 6
+City: Kyoto, Japan
+Clinics: Kyoto Station Aoi Clinic (clinic ID 517); Demachi Take Health Clinic (clinic ID 518)
+
+Review 1 for Dr. Okada Daisuke, Pediatrics, Kyoto
+Rating: 4/10
+Clinic visited: Demachi Take Health Clinic
+Description: The visit felt rushed, and my worries about my toddler's feeding were waved away as normal. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 2 for Dr. Okada Daisuke, Pediatrics, Kyoto
+Rating: 5/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Dr. Okada Daisuke was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Okada Daisuke, Pediatrics, Kyoto
+Rating: 8/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. My toddler was terrified of doctors, but Dr. Okada Daisuke sat on the floor, played with a stuffed toy and examined everything without a single tear.
+
+Review 4 for Dr. Okada Daisuke, Pediatrics, Kyoto
+Rating: 7/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Okada Daisuke, Pediatrics, Kyoto
+Rating: 7/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 6 for Dr. Okada Daisuke, Pediatrics, Kyoto
+Rating: 9/10
+Clinic visited: Demachi Take Health Clinic
+Description: Dr. Okada Daisuke drew a quick sketch to explain what was going on, which helped me remember it afterwards. We got a same-day appointment for a high fever, and the care at Demachi Take Health Clinic was kind and efficient.
+
+Review 7 for Dr. Okada Daisuke, Pediatrics, Kyoto
+Rating: 8/10
+Clinic visited: Kyoto Station Aoi Clinic
+Description: The growth chart review was detailed, and I appreciated that Dr. Okada Daisuke talked to my child as well as to me.
+
+Review 8 for Dr. Okada Daisuke, Pediatrics, Kyoto
+Rating: 6/10
+Clinic visited: Demachi Take Health Clinic
+Description: Dr. Okada Daisuke is thorough with exams, but the after-hours phone line at Demachi Take Health Clinic is hard to reach. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Okada Daisuke, Pediatrics, Kyoto: 6.75/10 from 8 reviews

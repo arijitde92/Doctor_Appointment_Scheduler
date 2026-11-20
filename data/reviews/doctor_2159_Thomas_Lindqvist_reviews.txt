@@ -1,0 +1,54 @@
+Doctor: Dr. Thomas Lindqvist
+Doctor ID: 2159
+Specialization: Cardiology
+Gender: Male
+Years of experience: 20
+City: Malmo, Sweden
+Clinics: Läkarhuset Amiralsgatan (clinic ID 281); Läkarmottagningen Östra Förstan (clinic ID 284)
+
+Review 1 for Dr. Thomas Lindqvist, Cardiology, Malmo
+Rating: 6/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Thomas Lindqvist, Cardiology, Malmo
+Rating: 6/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 3 for Dr. Thomas Lindqvist, Cardiology, Malmo
+Rating: 5/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Helpful with my cholesterol, Dr. Thomas Lindqvist still gave dietary advice that was a little generic.
+
+Review 4 for Dr. Thomas Lindqvist, Cardiology, Malmo
+Rating: 6/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Thomas Lindqvist, Cardiology, Malmo
+Rating: 7/10
+Clinic visited: Läkarhuset Amiralsgatan
+Description: Booking was easy online, but the confirmation email contained the wrong address for Läkarhuset Amiralsgatan.
+
+Review 6 for Dr. Thomas Lindqvist, Cardiology, Malmo
+Rating: 9/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 7 for Dr. Thomas Lindqvist, Cardiology, Malmo
+Rating: 3/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Dr. Thomas Lindqvist did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 8 for Dr. Thomas Lindqvist, Cardiology, Malmo
+Rating: 6/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Thomas Lindqvist, Cardiology, Malmo
+Rating: 6/10
+Clinic visited: Läkarmottagningen Östra Förstan
+Description: Great care in the visit itself, but the billing for the tests at Läkarmottagningen Östra Förstan was confusing.
+
+Overall rating for Dr. Thomas Lindqvist, Cardiology, Malmo: 6.00/10 from 9 reviews

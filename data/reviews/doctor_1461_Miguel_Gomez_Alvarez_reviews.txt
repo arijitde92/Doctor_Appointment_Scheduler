@@ -1,0 +1,64 @@
+Doctor: Dr. Miguel Gómez Álvarez
+Doctor ID: 1461
+Specialization: Radiology
+Gender: Male
+Years of experience: 13
+City: Valencia, Spain
+Clinics: Clínica Santa Lucía (clinic ID 190); Clínica Mediterráneo (clinic ID 193)
+
+Review 1 for Dr. Miguel Gómez Álvarez, Radiology, Valencia
+Rating: 6/10
+Clinic visited: Clínica Mediterráneo
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 2 for Dr. Miguel Gómez Álvarez, Radiology, Valencia
+Rating: 8/10
+Clinic visited: Clínica Mediterráneo
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. I have no hesitation sending my own relatives here.
+
+Review 3 for Dr. Miguel Gómez Álvarez, Radiology, Valencia
+Rating: 8/10
+Clinic visited: Clínica Mediterráneo
+Description: Paperwork at Clínica Mediterráneo was kept to a minimum, and the staff helped me complete the insurance form. Dr. Miguel Gómez Álvarez compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 4 for Dr. Miguel Gómez Álvarez, Radiology, Valencia
+Rating: 10/10
+Clinic visited: Clínica Mediterráneo
+Description: He called me personally after my scan to explain the findings in plain language before I saw my own doctor. I will be coming back for all my future check-ups.
+
+Review 5 for Dr. Miguel Gómez Álvarez, Radiology, Valencia
+Rating: 6/10
+Clinic visited: Clínica Santa Lucía
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Miguel Gómez Álvarez, Radiology, Valencia
+Rating: 6/10
+Clinic visited: Clínica Santa Lucía
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 7 for Dr. Miguel Gómez Álvarez, Radiology, Valencia
+Rating: 8/10
+Clinic visited: Clínica Santa Lucía
+Description: Booking a CT scan online at Clínica Santa Lucía took two minutes, and I was in and out within forty minutes. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 8 for Dr. Miguel Gómez Álvarez, Radiology, Valencia
+Rating: 9/10
+Clinic visited: Clínica Santa Lucía
+Description: Images from Clínica Santa Lucía were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless. My referral letter was written on the spot, and the specialist's office had my details before I called. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 9 for Dr. Miguel Gómez Álvarez, Radiology, Valencia
+Rating: 9/10
+Clinic visited: Clínica Mediterráneo
+Description: Getting to Clínica Mediterráneo by public transport in Valencia was easy, and there is a step-free entrance for wheelchairs. The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Miguel Gómez Álvarez sent a clear report within a day.
+
+Review 10 for Dr. Miguel Gómez Álvarez, Radiology, Valencia
+Rating: 8/10
+Clinic visited: Clínica Santa Lucía
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Miguel Gómez Álvarez were respectful throughout. Worth every minute of travel, and I would go again without a second thought.
+
+Review 11 for Dr. Miguel Gómez Álvarez, Radiology, Valencia
+Rating: 8/10
+Clinic visited: Clínica Mediterráneo
+Description: When my scan showed something that needed a second look, Dr. Miguel Gómez Álvarez arranged the follow-up the same day. Booking online at Clínica Mediterráneo was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Overall rating for Dr. Miguel Gómez Álvarez, Radiology, Valencia: 7.82/10 from 11 reviews

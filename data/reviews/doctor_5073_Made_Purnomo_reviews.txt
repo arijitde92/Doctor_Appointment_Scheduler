@@ -1,0 +1,54 @@
+Doctor: Dr. Made Purnomo
+Doctor ID: 5073
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 4
+City: Bandung, Indonesia
+Clinics: Klinik Anugerah Sehat (clinic ID 656); Klinik Surya Medika (clinic ID 658)
+
+Review 1 for Dr. Made Purnomo, Pediatrics, Bandung
+Rating: 9/10
+Clinic visited: Klinik Surya Medika
+Description: My teenager actually spoke up during the visit, and Dr. Made Purnomo handled sensitive topics with respect. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 2 for Dr. Made Purnomo, Pediatrics, Bandung
+Rating: 7/10
+Clinic visited: Klinik Surya Medika
+Description: Dr. Made Purnomo is thorough with exams, but the after-hours phone line at Klinik Surya Medika is hard to reach.
+
+Review 3 for Dr. Made Purnomo, Pediatrics, Bandung
+Rating: 7/10
+Clinic visited: Klinik Surya Medika
+Description: The treatment plan from Dr. Made Purnomo made sense, but I wished it had been written down for me to take away. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 4 for Dr. Made Purnomo, Pediatrics, Bandung
+Rating: 8/10
+Clinic visited: Klinik Anugerah Sehat
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. My child left with a sticker and a smile, which tells me everything about how the visit went.
+
+Review 5 for Dr. Made Purnomo, Pediatrics, Bandung
+Rating: 6/10
+Clinic visited: Klinik Surya Medika
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 6 for Dr. Made Purnomo, Pediatrics, Bandung
+Rating: 8/10
+Clinic visited: Klinik Anugerah Sehat
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. My child's asthma action plan from Dr. Made Purnomo was written out clearly so that school staff could follow it too.
+
+Review 7 for Dr. Made Purnomo, Pediatrics, Bandung
+Rating: 7/10
+Clinic visited: Klinik Surya Medika
+Description: Booking was easy online, but the confirmation email contained the wrong address for Klinik Surya Medika. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 8 for Dr. Made Purnomo, Pediatrics, Bandung
+Rating: 7/10
+Clinic visited: Klinik Surya Medika
+Description: Caring and gentle with my child, Dr. Made Purnomo nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 9 for Dr. Made Purnomo, Pediatrics, Bandung
+Rating: 7/10
+Clinic visited: Klinik Anugerah Sehat
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Overall rating for Dr. Made Purnomo, Pediatrics, Bandung: 7.33/10 from 9 reviews

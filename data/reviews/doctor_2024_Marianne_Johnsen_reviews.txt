@@ -1,0 +1,54 @@
+Doctor: Dr. Marianne Johnsen
+Doctor ID: 2024
+Specialization: Cardiology
+Gender: Female
+Years of experience: 25
+City: Oslo, Norway
+Clinics: Legesenteret Bogstad Park (clinic ID 264)
+
+Review 1 for Dr. Marianne Johnsen, Cardiology, Oslo
+Rating: 7/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Dr. Marianne Johnsen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Great care in the visit itself, but the billing for the tests at Legesenteret Bogstad Park was confusing.
+
+Review 2 for Dr. Marianne Johnsen, Cardiology, Oslo
+Rating: 7/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Helpful with my cholesterol, Dr. Marianne Johnsen still gave dietary advice that was a little generic. Helpful visit overall, although I only found out about an extra charge after I had paid. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Marianne Johnsen, Cardiology, Oslo
+Rating: 7/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Quick appointment and a fair price in Oslo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Marianne Johnsen, Cardiology, Oslo
+Rating: 9/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Dr. Marianne Johnsen explained the difference between my statin options and let me weigh in on the choice.
+
+Review 5 for Dr. Marianne Johnsen, Cardiology, Oslo
+Rating: 7/10
+Clinic visited: Legesenteret Bogstad Park
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Marianne Johnsen, Cardiology, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 7 for Dr. Marianne Johnsen, Cardiology, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Bogstad Park
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 8 for Dr. Marianne Johnsen, Cardiology, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 9 for Dr. Marianne Johnsen, Cardiology, Oslo
+Rating: 5/10
+Clinic visited: Legesenteret Bogstad Park
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Overall rating for Dr. Marianne Johnsen, Cardiology, Oslo: 6.67/10 from 9 reviews

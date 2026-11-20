@@ -1,0 +1,59 @@
+Doctor: Dr. Sabine Müller
+Doctor ID: 2869
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 5
+City: Graz, Austria
+Clinics: Ärztehaus Herrengasse Graz (clinic ID 375); Ordinationszentrum Gries (clinic ID 379)
+
+Review 1 for Dr. Sabine Müller, Pulmonology, Graz
+Rating: 7/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Dr. Sabine Müller adjusted my asthma medication well, but the breathing test appointment was a month away. Dr. Sabine Müller was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Sabine Müller, Pulmonology, Graz
+Rating: 8/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 3 for Dr. Sabine Müller, Pulmonology, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Sabine Müller, Pulmonology, Graz
+Rating: 10/10
+Clinic visited: Ordinationszentrum Gries
+Description: At my visit, Dr. Sabine Müller took notes on my medication list, checked for interactions and explained the changes simply. My oxygen levels are monitored carefully at Ordinationszentrum Gries, and the home equipment was arranged without any hassle.
+
+Review 5 for Dr. Sabine Müller, Pulmonology, Graz
+Rating: 5/10
+Clinic visited: Ordinationszentrum Gries
+Description: Helpful and honest about my prognosis, Dr. Sabine Müller could still have given me more written material to take home. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Sabine Müller, Pulmonology, Graz
+Rating: 7/10
+Clinic visited: Ordinationszentrum Gries
+Description: Pleasant manner and careful lung exam, though the waiting time at Ordinationszentrum Gries regularly exceeded forty minutes. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Sabine Müller, Pulmonology, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Sabine Müller, Pulmonology, Graz
+Rating: 8/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Dr. Sabine Müller explained my lung nodule follow-up schedule calmly, which took away weeks of worry. Highly recommended, and I have already told two colleagues about it.
+
+Review 9 for Dr. Sabine Müller, Pulmonology, Graz
+Rating: 7/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Sabine Müller, Pulmonology, Graz
+Rating: 6/10
+Clinic visited: Ärztehaus Herrengasse Graz
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Sabine Müller, Pulmonology, Graz: 7.00/10 from 10 reviews

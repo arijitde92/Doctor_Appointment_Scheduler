@@ -1,0 +1,64 @@
+Doctor: Dr. Chen Lili
+Doctor ID: 3908
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 6
+City: Guangzhou, China
+Clinics: Haizhu Mingde Medical Clinic (clinic ID 504)
+
+Review 1 for Dr. Chen Lili, Pediatrics, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 2 for Dr. Chen Lili, Pediatrics, Guangzhou
+Rating: 6/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Dr. Chen Lili is thorough with exams, but the after-hours phone line at Haizhu Mingde Medical Clinic is hard to reach.
+
+Review 3 for Dr. Chen Lili, Pediatrics, Guangzhou
+Rating: 9/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Dr. Chen Lili noticed a speech delay early and referred us to a therapist, which has made a real difference. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 4 for Dr. Chen Lili, Pediatrics, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The school physical at Haizhu Mingde Medical Clinic was quick, thorough and the forms were completed on the spot. The nurse was friendly and efficient, and the whole visit with Dr. Chen Lili felt well organized from start to finish.
+
+Review 5 for Dr. Chen Lili, Pediatrics, Guangzhou
+Rating: 9/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 6 for Dr. Chen Lili, Pediatrics, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Caring and gentle with my child, Dr. Chen Lili nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 7 for Dr. Chen Lili, Pediatrics, Guangzhou
+Rating: 10/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: I was called in within five minutes of my appointment time at Haizhu Mingde Medical Clinic, which is rare and much appreciated.
+
+Review 8 for Dr. Chen Lili, Pediatrics, Guangzhou
+Rating: 10/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: My child's asthma action plan from Dr. Chen Lili was written out clearly so that school staff could follow it too.
+
+Review 9 for Dr. Chen Lili, Pediatrics, Guangzhou
+Rating: 10/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back.
+
+Review 10 for Dr. Chen Lili, Pediatrics, Guangzhou
+Rating: 9/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: The waiting room in Guangzhou has a play corner and separate seating for sick children, which I really valued. Dr. Chen Lili double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 11 for Dr. Chen Lili, Pediatrics, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Appointment reminders came by text and email, and rescheduling took two taps. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Chen Lili, Pediatrics, Guangzhou: 8.36/10 from 11 reviews

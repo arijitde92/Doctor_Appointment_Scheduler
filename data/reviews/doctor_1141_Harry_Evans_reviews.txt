@@ -1,0 +1,64 @@
+Doctor: Dr. Harry Evans
+Doctor ID: 1141
+Specialization: Cardiology
+Gender: Male
+Years of experience: 20
+City: London, UK
+Clinics: Upper Street Wellbeing Clinic (clinic ID 149)
+
+Review 1 for Dr. Harry Evans, Cardiology, London
+Rating: 8/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: At my visit, Dr. Harry Evans took notes on my medication list, checked for interactions and explained the changes simply. Managing my blood pressure with Dr. Harry Evans has been steady and practical, with home readings reviewed at every visit. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Harry Evans, Cardiology, London
+Rating: 9/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Honest about the risks and benefits of the procedure, Dr. Harry Evans never pressured me toward surgery. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 3 for Dr. Harry Evans, Cardiology, London
+Rating: 8/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: The cardiology unit at Upper Street Wellbeing Clinic runs on time, and the technicians were professional during my echocardiogram.
+
+Review 4 for Dr. Harry Evans, Cardiology, London
+Rating: 8/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Seeing Dr. Harry Evans in London meant my whole family history was reviewed, and now my sister is being screened too.
+
+Review 5 for Dr. Harry Evans, Cardiology, London
+Rating: 9/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Clear and calm advice at Upper Street Wellbeing Clinic about exercise after my stent, including a gradual written schedule.
+
+Review 6 for Dr. Harry Evans, Cardiology, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Harry Evans, Cardiology, London
+Rating: 9/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Paperwork at Upper Street Wellbeing Clinic was kept to a minimum, and the staff helped me complete the insurance form. My atrial fibrillation is well managed by Dr. Harry Evans, and I know exactly what symptoms mean I should call.
+
+Review 8 for Dr. Harry Evans, Cardiology, London
+Rating: 10/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Quick to coordinate with my regular doctor, so my medications were consistent across both offices.
+
+Review 9 for Dr. Harry Evans, Cardiology, London
+Rating: 7/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: Dr. Harry Evans adjusted my blood pressure medication carefully, though I had to call twice for a refill. Helpful visit overall, although I only found out about an extra charge after I had paid. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Harry Evans, Cardiology, London
+Rating: 9/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: A same-day slot was found for me at Upper Street Wellbeing Clinic when I called with a worrying symptom.
+
+Review 11 for Dr. Harry Evans, Cardiology, London
+Rating: 8/10
+Clinic visited: Upper Street Wellbeing Clinic
+Description: After my palpitations began, Dr. Harry Evans arranged a heart monitor and an ECG and explained that the rhythm was benign. The relief was huge.
+
+Overall rating for Dr. Harry Evans, Cardiology, London: 8.36/10 from 11 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Baek Hye-jin
+Doctor ID: 4295
+Specialization: Psychology
+Gender: Female
+Years of experience: 1
+City: Seoul, South Korea
+Clinics: Songpa Saenal Health Clinic (clinic ID 553)
+
+Review 1 for Dr. Baek Hye-jin, Psychology, Seoul
+Rating: 7/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Baek Hye-jin, Psychology, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. I liked the advice I got from Dr. Baek Hye-jin, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Baek Hye-jin, Psychology, Seoul
+Rating: 8/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer. Never once did I feel rushed, even though the clinic was clearly busy that morning. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Baek Hye-jin, Psychology, Seoul
+Rating: 7/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot.
+
+Review 5 for Dr. Baek Hye-jin, Psychology, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Dr. Baek Hye-jin listens well, though some sessions felt like a recap of the previous one without much new direction. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Baek Hye-jin, Psychology, Seoul
+Rating: 8/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Sessions with Dr. Baek Hye-jin start on time and end on time, which is a small thing that made me feel respected. Staff treated my teenage daughter with respect and gave her a private moment to ask questions. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Baek Hye-jin, Psychology, Seoul
+Rating: 7/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 8 for Dr. Baek Hye-jin, Psychology, Seoul
+Rating: 7/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Quick appointment and a fair price in Seoul, but the staff seemed overwhelmed and a bit curt on the phone. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Baek Hye-jin, Psychology, Seoul
+Rating: 8/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Warm, patient and honest, Dr. Baek Hye-jin told me what progress to expect and it matched reality.
+
+Overall rating for Dr. Baek Hye-jin, Psychology, Seoul: 7.11/10 from 9 reviews

@@ -1,0 +1,69 @@
+Doctor: Dr. Arturo Vargas Salazar
+Doctor ID: 417
+Specialization: Pathology
+Gender: Male
+Years of experience: 13
+City: Guadalajara, Mexico
+Clinics: Clínica del Carmen Tapatía (clinic ID 57); Consultorios Médicos Chapalita (clinic ID 58)
+
+Review 1 for Dr. Arturo Vargas Salazar, Pathology, Guadalajara
+Rating: 4/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: I was billed twice for the same panel and it took a month to get a correction. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 2 for Dr. Arturo Vargas Salazar, Pathology, Guadalajara
+Rating: 4/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: Dr. Arturo Vargas Salazar was never available to talk about my result, and the front desk repeated that I should ask my referring physician.
+
+Review 3 for Dr. Arturo Vargas Salazar, Pathology, Guadalajara
+Rating: 4/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: The report was handed over by Dr. Arturo Vargas Salazar with no explanation, and I left frightened and confused about the terminology. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 4 for Dr. Arturo Vargas Salazar, Pathology, Guadalajara
+Rating: 4/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: The staff were curt and impatient when I asked how to read the reference ranges on my report. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 5 for Dr. Arturo Vargas Salazar, Pathology, Guadalajara
+Rating: 6/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 6 for Dr. Arturo Vargas Salazar, Pathology, Guadalajara
+Rating: 6/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. The blood draw was painless, but the waiting area at Consultorios Médicos Chapalita was crowded in the early morning. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Arturo Vargas Salazar, Pathology, Guadalajara
+Rating: 6/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: Dr. Arturo Vargas Salazar answered my questions kindly, though the call back took three days.
+
+Review 8 for Dr. Arturo Vargas Salazar, Pathology, Guadalajara
+Rating: 5/10
+Clinic visited: Clínica del Carmen Tapatía
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 9 for Dr. Arturo Vargas Salazar, Pathology, Guadalajara
+Rating: 6/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: Helpful in clarifying a borderline result, though Dr. Arturo Vargas Salazar gave little guidance about whether to repeat it. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 10 for Dr. Arturo Vargas Salazar, Pathology, Guadalajara
+Rating: 3/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw. I felt dismissed by Dr. Arturo Vargas Salazar when I brought up a second concern, and was told to book another appointment for it. I will not be returning and have already started looking for another doctor.
+
+Review 11 for Dr. Arturo Vargas Salazar, Pathology, Guadalajara
+Rating: 4/10
+Clinic visited: Clínica del Carmen Tapatía
+Description: My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive.
+
+Review 12 for Dr. Arturo Vargas Salazar, Pathology, Guadalajara
+Rating: 3/10
+Clinic visited: Consultorios Médicos Chapalita
+Description: The waiting room at Consultorios Médicos Chapalita was overcrowded and there was nowhere to sit, even for elderly patients. Not a place I would choose again, and I hope others have a better experience.
+
+Overall rating for Dr. Arturo Vargas Salazar, Pathology, Guadalajara: 4.58/10 from 12 reviews

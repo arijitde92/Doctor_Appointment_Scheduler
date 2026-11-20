@@ -1,0 +1,69 @@
+Doctor: Dr. Mohammed Hughes
+Doctor ID: 1094
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 8
+City: Edinburgh, UK
+Clinics: Queensferry Street Polyclinic (clinic ID 143)
+
+Review 1 for Dr. Mohammed Hughes, Orthopedic, Edinburgh
+Rating: 9/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The X-ray was reviewed with me on screen, and he pointed out exactly where the cartilage had worn down. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Mohammed Hughes, Orthopedic, Edinburgh
+Rating: 8/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. My torn rotator cuff was managed first by Dr. Mohammed Hughes with physiotherapy, and surgery was only suggested when it truly was needed. Highly recommended, and I have already told two colleagues about it.
+
+Review 3 for Dr. Mohammed Hughes, Orthopedic, Edinburgh
+Rating: 10/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The surgeon at Queensferry Street Polyclinic spent time on my goals as a runner and shaped the treatment around them. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Mohammed Hughes, Orthopedic, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 5 for Dr. Mohammed Hughes, Orthopedic, Edinburgh
+Rating: 6/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Mohammed Hughes, Orthopedic, Edinburgh
+Rating: 6/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Mohammed Hughes, Orthopedic, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Dr. Mohammed Hughes was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Dr. Mohammed Hughes explained surgery options clearly, though the physiotherapy referral took weeks to arrive. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 8 for Dr. Mohammed Hughes, Orthopedic, Edinburgh
+Rating: 4/10
+Clinic visited: Queensferry Street Polyclinic
+Description: The surgery fee ended up far higher than the quote, and billing staff could not explain the difference. After this experience I am looking for a new doctor who will take time to listen.
+
+Review 9 for Dr. Mohammed Hughes, Orthopedic, Edinburgh
+Rating: 6/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Good bedside manner from Dr. Mohammed Hughes, but the parking near Queensferry Street Polyclinic is limited and I had to circle for fifteen minutes. Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 10 for Dr. Mohammed Hughes, Orthopedic, Edinburgh
+Rating: 5/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 11 for Dr. Mohammed Hughes, Orthopedic, Edinburgh
+Rating: 7/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance.
+
+Review 12 for Dr. Mohammed Hughes, Orthopedic, Edinburgh
+Rating: 8/10
+Clinic visited: Queensferry Street Polyclinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Overall rating for Dr. Mohammed Hughes, Orthopedic, Edinburgh: 6.92/10 from 12 reviews

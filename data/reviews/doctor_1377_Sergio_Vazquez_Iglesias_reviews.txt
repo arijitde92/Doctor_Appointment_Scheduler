@@ -1,0 +1,49 @@
+Doctor: Dr. Sergio Vázquez Iglesias
+Doctor ID: 1377
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 1
+City: Madrid, Spain
+Clinics: Clínica Santa Eulalia (clinic ID 180); Centro Médico Chamberí (clinic ID 181); Policlínica del Retiro (clinic ID 182)
+
+Review 1 for Dr. Sergio Vázquez Iglesias, Pediatrics, Madrid
+Rating: 5/10
+Clinic visited: Clínica Santa Eulalia
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 2 for Dr. Sergio Vázquez Iglesias, Pediatrics, Madrid
+Rating: 6/10
+Clinic visited: Centro Médico Chamberí
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Quick appointment and a fair price in Madrid, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Sergio Vázquez Iglesias, Pediatrics, Madrid
+Rating: 9/10
+Clinic visited: Policlínica del Retiro
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Sergio Vázquez Iglesias felt well organized from start to finish. Our newborn check-ups with Dr. Sergio Vázquez Iglesias were reassuring; every question about feeding and sleep got a calm, practical answer.
+
+Review 4 for Dr. Sergio Vázquez Iglesias, Pediatrics, Madrid
+Rating: 5/10
+Clinic visited: Clínica Santa Eulalia
+Description: Caring and gentle with my child, Dr. Sergio Vázquez Iglesias nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 5 for Dr. Sergio Vázquez Iglesias, Pediatrics, Madrid
+Rating: 6/10
+Clinic visited: Clínica Santa Eulalia
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Sergio Vázquez Iglesias, Pediatrics, Madrid
+Rating: 6/10
+Clinic visited: Clínica Santa Eulalia
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Sergio Vázquez Iglesias, Pediatrics, Madrid
+Rating: 7/10
+Clinic visited: Clínica Santa Eulalia
+Description: I liked the advice I got from Dr. Sergio Vázquez Iglesias, but I would have liked more time to ask follow-up questions before the visit ended. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 8 for Dr. Sergio Vázquez Iglesias, Pediatrics, Madrid
+Rating: 5/10
+Clinic visited: Clínica Santa Eulalia
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. I might recommend this doctor, with the caveat that you should expect delays.
+
+Overall rating for Dr. Sergio Vázquez Iglesias, Pediatrics, Madrid: 6.12/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Juan Ruiz Torres
+Doctor ID: 1378
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 15
+City: Madrid, Spain
+Clinics: Clínica Santa Eulalia (clinic ID 180); Clínica Nuestra Señora del Pilar (clinic ID 183)
+
+Review 1 for Dr. Juan Ruiz Torres, Psychiatry, Madrid
+Rating: 9/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Getting to Clínica Nuestra Señora del Pilar by public transport in Madrid was easy, and there is a step-free entrance for wheelchairs.
+
+Review 2 for Dr. Juan Ruiz Torres, Psychiatry, Madrid
+Rating: 10/10
+Clinic visited: Clínica Santa Eulalia
+Description: My depression finally has a treatment plan from Dr. Juan Ruiz Torres that works, with regular check-ins and careful dose changes.
+
+Review 3 for Dr. Juan Ruiz Torres, Psychiatry, Madrid
+Rating: 10/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 4 for Dr. Juan Ruiz Torres, Psychiatry, Madrid
+Rating: 8/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. I would happily recommend this doctor to friends and family.
+
+Review 5 for Dr. Juan Ruiz Torres, Psychiatry, Madrid
+Rating: 6/10
+Clinic visited: Clínica Nuestra Señora del Pilar
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 6 for Dr. Juan Ruiz Torres, Psychiatry, Madrid
+Rating: 7/10
+Clinic visited: Clínica Santa Eulalia
+Description: Dr. Juan Ruiz Torres is knowledgeable, though I waited several weeks for my first appointment. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Juan Ruiz Torres, Psychiatry, Madrid
+Rating: 6/10
+Clinic visited: Clínica Santa Eulalia
+Description: Good listener, yet the refill process at Clínica Santa Eulalia is slow and requires several phone calls. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Juan Ruiz Torres, Psychiatry, Madrid
+Rating: 8/10
+Clinic visited: Clínica Santa Eulalia
+Description: Appointments in Madrid are always on schedule, and the waiting area is peaceful and private. I came away understanding my condition better than I have in years of previous appointments.
+
+Overall rating for Dr. Juan Ruiz Torres, Psychiatry, Madrid: 8.00/10 from 8 reviews

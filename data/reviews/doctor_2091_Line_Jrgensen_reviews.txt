@@ -1,0 +1,54 @@
+Doctor: Dr. Line Jørgensen
+Doctor ID: 2091
+Specialization: Pathology
+Gender: Female
+Years of experience: 26
+City: Trondheim, Norway
+Clinics: Legekontoret Innherred (clinic ID 273)
+
+Review 1 for Dr. Line Jørgensen, Pathology, Trondheim
+Rating: 6/10
+Clinic visited: Legekontoret Innherred
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 2 for Dr. Line Jørgensen, Pathology, Trondheim
+Rating: 7/10
+Clinic visited: Legekontoret Innherred
+Description: Helpful in clarifying a borderline result, though Dr. Line Jørgensen gave little guidance about whether to repeat it. Quick appointment and a fair price in Trondheim, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Line Jørgensen, Pathology, Trondheim
+Rating: 6/10
+Clinic visited: Legekontoret Innherred
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Line Jørgensen, Pathology, Trondheim
+Rating: 6/10
+Clinic visited: Legekontoret Innherred
+Description: I liked the advice I got from Dr. Line Jørgensen, but I would have liked more time to ask follow-up questions before the visit ended. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 5 for Dr. Line Jørgensen, Pathology, Trondheim
+Rating: 5/10
+Clinic visited: Legekontoret Innherred
+Description: Dr. Line Jørgensen answered my questions kindly, though the call back took three days. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Line Jørgensen, Pathology, Trondheim
+Rating: 10/10
+Clinic visited: Legekontoret Innherred
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 7 for Dr. Line Jørgensen, Pathology, Trondheim
+Rating: 7/10
+Clinic visited: Legekontoret Innherred
+Description: Dr. Line Jørgensen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 8 for Dr. Line Jørgensen, Pathology, Trondheim
+Rating: 6/10
+Clinic visited: Legekontoret Innherred
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Line Jørgensen, Pathology, Trondheim
+Rating: 8/10
+Clinic visited: Legekontoret Innherred
+Description: The staff and Dr. Line Jørgensen patiently went through my cholesterol and glucose numbers and explained what each meant for me. Sensitive questions were handled by Dr. Line Jørgensen with discretion and without a hint of judgment.
+
+Overall rating for Dr. Line Jørgensen, Pathology, Trondheim: 6.78/10 from 9 reviews

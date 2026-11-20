@@ -1,0 +1,49 @@
+Doctor: Dr. Hu Min
+Doctor ID: 3857
+Specialization: Pathology
+Gender: Female
+Years of experience: 10
+City: Beijing, China
+Clinics: Fuchengmen Anhe Polyclinic (clinic ID 498)
+
+Review 1 for Dr. Hu Min, Pathology, Beijing
+Rating: 10/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 2 for Dr. Hu Min, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: She explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit.
+
+Review 3 for Dr. Hu Min, Pathology, Beijing
+Rating: 9/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Prescriptions from Dr. Hu Min were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 4 for Dr. Hu Min, Pathology, Beijing
+Rating: 9/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: The lab at Fuchengmen Anhe Polyclinic had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 5 for Dr. Hu Min, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: The biopsy report was returned in three days, and Dr. Hu Min took time on the phone to explain every term in it. The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 6 for Dr. Hu Min, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called. Allergy panel results were explained in detail by Dr. Hu Min, with a note on which results mattered clinically and which did not. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Hu Min, Pathology, Beijing
+Rating: 7/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 8 for Dr. Hu Min, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Fuchengmen Anhe Polyclinic
+Description: Blood test results were clearly laid out with reference ranges and short notes in plain language.
+
+Overall rating for Dr. Hu Min, Pathology, Beijing: 8.38/10 from 8 reviews

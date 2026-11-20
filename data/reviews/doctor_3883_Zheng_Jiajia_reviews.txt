@@ -1,0 +1,49 @@
+Doctor: Dr. Zheng Jiajia
+Doctor ID: 3883
+Specialization: General
+Gender: Female
+Years of experience: 21
+City: Guangzhou, China
+Clinics: Huaxia Anhe Clinic (clinic ID 501)
+
+Review 1 for Dr. Zheng Jiajia, General, Guangzhou
+Rating: 9/10
+Clinic visited: Huaxia Anhe Clinic
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. Booking online at Huaxia Anhe Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 2 for Dr. Zheng Jiajia, General, Guangzhou
+Rating: 7/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Dr. Zheng Jiajia is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I got what I needed, but the next available appointment was three weeks away.
+
+Review 3 for Dr. Zheng Jiajia, General, Guangzhou
+Rating: 7/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Dr. Zheng Jiajia was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Zheng Jiajia, General, Guangzhou
+Rating: 7/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Huaxia Anhe Clinic were inconsistent.
+
+Review 5 for Dr. Zheng Jiajia, General, Guangzhou
+Rating: 7/10
+Clinic visited: Huaxia Anhe Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Zheng Jiajia, General, Guangzhou
+Rating: 7/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Good bedside manner from Dr. Zheng Jiajia, but the parking near Huaxia Anhe Clinic is limited and I had to circle for fifteen minutes. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 7 for Dr. Zheng Jiajia, General, Guangzhou
+Rating: 8/10
+Clinic visited: Huaxia Anhe Clinic
+Description: My blood pressure had crept up and Dr. Zheng Jiajia walked me through diet changes before suggesting anything else. Three months later my readings were normal. The receptionist at Huaxia Anhe Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 8 for Dr. Zheng Jiajia, General, Guangzhou
+Rating: 9/10
+Clinic visited: Huaxia Anhe Clinic
+Description: Sensitive questions were handled by Dr. Zheng Jiajia with discretion and without a hint of judgment. I always hear back within a day when I leave a question with the nurse at Huaxia Anhe Clinic, and Dr. Zheng Jiajia follows up on lab results personally. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Zheng Jiajia, General, Guangzhou: 7.62/10 from 8 reviews

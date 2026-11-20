@@ -1,0 +1,69 @@
+Doctor: Dr. Per Bergström
+Doctor ID: 2127
+Specialization: Pathology
+Gender: Male
+Years of experience: 1
+City: Gothenburg, Sweden
+Clinics: Medicinskt Centrum Linné (clinic ID 277); Läkarmottagningen Långgatan (clinic ID 279)
+
+Review 1 for Dr. Per Bergström, Pathology, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Dr. Per Bergström used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 2 for Dr. Per Bergström, Pathology, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Booking was easy online, but the confirmation email contained the wrong address for Läkarmottagningen Långgatan. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 3 for Dr. Per Bergström, Pathology, Gothenburg
+Rating: 9/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 4 for Dr. Per Bergström, Pathology, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: The blood draw was painless, but the waiting area at Läkarmottagningen Långgatan was crowded in the early morning.
+
+Review 5 for Dr. Per Bergström, Pathology, Gothenburg
+Rating: 6/10
+Clinic visited: Medicinskt Centrum Linné
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 6 for Dr. Per Bergström, Pathology, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: I got what I needed, but the next available appointment was three weeks away. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Per Bergström, Pathology, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Helpful in clarifying a borderline result, though Dr. Per Bergström gave little guidance about whether to repeat it.
+
+Review 8 for Dr. Per Bergström, Pathology, Gothenburg
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Linné
+Description: The lab under Dr. Per Bergström was clean, organized and never overbooked, and results arrived exactly when promised. The practice in Gothenburg is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 9 for Dr. Per Bergström, Pathology, Gothenburg
+Rating: 7/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 10 for Dr. Per Bergström, Pathology, Gothenburg
+Rating: 7/10
+Clinic visited: Medicinskt Centrum Linné
+Description: Dr. Per Bergström answered my questions kindly, though the call back took three days. The doctor was kind, though the clinic's evening hours are very limited for working people. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 11 for Dr. Per Bergström, Pathology, Gothenburg
+Rating: 8/10
+Clinic visited: Medicinskt Centrum Linné
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Gothenburg.
+
+Review 12 for Dr. Per Bergström, Pathology, Gothenburg
+Rating: 8/10
+Clinic visited: Läkarmottagningen Långgatan
+Description: I appreciated that he offered more than one option and let me choose what suited my life. The molecular test results were presented with a clear explanation of what they meant and what they did not.
+
+Overall rating for Dr. Per Bergström, Pathology, Gothenburg: 7.42/10 from 12 reviews

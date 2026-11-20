@@ -1,0 +1,59 @@
+Doctor: Dr. Zhu Hong
+Doctor ID: 3866
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 8
+City: Beijing, China
+Clinics: Dongdaqiao Jiahe Medical Clinic (clinic ID 499)
+
+Review 1 for Dr. Zhu Hong, Gastroenterology, Beijing
+Rating: 6/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Zhu Hong, Gastroenterology, Beijing
+Rating: 6/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Everything about the care was decent, but the cost was higher than I expected for a short appointment. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Zhu Hong, Gastroenterology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 4 for Dr. Zhu Hong, Gastroenterology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Knowledgeable about my reflux, Dr. Zhu Hong still gave diet advice that felt generic and not tailored to my habits. Dr. Zhu Hong was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 5 for Dr. Zhu Hong, Gastroenterology, Beijing
+Rating: 10/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. My constant bloating was traced to a lactose issue in two visits, with sensible advice and no pointless extra tests.
+
+Review 6 for Dr. Zhu Hong, Gastroenterology, Beijing
+Rating: 5/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Zhu Hong, Gastroenterology, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. A same-day slot was found for me at Dongdaqiao Jiahe Medical Clinic when I called with a worrying symptom. Worth every minute of travel, and I would go again without a second thought.
+
+Review 8 for Dr. Zhu Hong, Gastroenterology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 9 for Dr. Zhu Hong, Gastroenterology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 10 for Dr. Zhu Hong, Gastroenterology, Beijing
+Rating: 10/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Dr. Zhu Hong took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Overall rating for Dr. Zhu Hong, Gastroenterology, Beijing: 7.30/10 from 10 reviews

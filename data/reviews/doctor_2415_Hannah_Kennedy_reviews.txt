@@ -1,0 +1,49 @@
+Doctor: Dr. Hannah Kennedy
+Doctor ID: 2415
+Specialization: General
+Gender: Female
+Years of experience: 9
+City: Cork, Ireland
+Clinics: Douglas Family Clinic (clinic ID 316); South Mall Health Centre (clinic ID 317); Wilton Road Medical Centre (clinic ID 319)
+
+Review 1 for Dr. Hannah Kennedy, General, Cork
+Rating: 7/10
+Clinic visited: Wilton Road Medical Centre
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 2 for Dr. Hannah Kennedy, General, Cork
+Rating: 8/10
+Clinic visited: Douglas Family Clinic
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. Dr. Hannah Kennedy drew a quick sketch to explain what was going on, which helped me remember it afterwards. I would happily recommend this doctor to friends and family.
+
+Review 3 for Dr. Hannah Kennedy, General, Cork
+Rating: 5/10
+Clinic visited: Douglas Family Clinic
+Description: Dr. Hannah Kennedy is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Booking was easy online, but the confirmation email contained the wrong address for Douglas Family Clinic. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Hannah Kennedy, General, Cork
+Rating: 6/10
+Clinic visited: Douglas Family Clinic
+Description: Quick appointment and a fair price in Cork, but the staff seemed overwhelmed and a bit curt on the phone. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 5 for Dr. Hannah Kennedy, General, Cork
+Rating: 7/10
+Clinic visited: Wilton Road Medical Centre
+Description: Referrals from Dr. Hannah Kennedy are handled well, but getting test results back took longer than I was told to expect.
+
+Review 6 for Dr. Hannah Kennedy, General, Cork
+Rating: 7/10
+Clinic visited: South Mall Health Centre
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 7 for Dr. Hannah Kennedy, General, Cork
+Rating: 7/10
+Clinic visited: South Mall Health Centre
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from South Mall Health Centre were inconsistent.
+
+Review 8 for Dr. Hannah Kennedy, General, Cork
+Rating: 4/10
+Clinic visited: Douglas Family Clinic
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. I will not be returning and have already started looking for another doctor.
+
+Overall rating for Dr. Hannah Kennedy, General, Cork: 6.38/10 from 8 reviews

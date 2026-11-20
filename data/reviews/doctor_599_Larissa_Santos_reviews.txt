@@ -1,0 +1,54 @@
+Doctor: Dr. Larissa Santos
+Doctor ID: 599
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 16
+City: Curitiba, Brazil
+Clinics: Clínica Batel Saúde Integral (clinic ID 80)
+
+Review 1 for Dr. Larissa Santos, Psychiatry, Curitiba
+Rating: 6/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: Good listener, yet the refill process at Clínica Batel Saúde Integral is slow and requires several phone calls.
+
+Review 2 for Dr. Larissa Santos, Psychiatry, Curitiba
+Rating: 6/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. The new medication helped, although side effects were not explained as fully as I would have liked. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Larissa Santos, Psychiatry, Curitiba
+Rating: 6/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 4 for Dr. Larissa Santos, Psychiatry, Curitiba
+Rating: 8/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: My family was included in a session at my request, and Dr. Larissa Santos handled it with great tact. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Larissa Santos, Psychiatry, Curitiba
+Rating: 5/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 6 for Dr. Larissa Santos, Psychiatry, Curitiba
+Rating: 5/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: Dr. Larissa Santos is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 7 for Dr. Larissa Santos, Psychiatry, Curitiba
+Rating: 8/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: Dr. Larissa Santos used a calm, steady voice that settled my nerves before a stressful procedure. She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 8 for Dr. Larissa Santos, Psychiatry, Curitiba
+Rating: 8/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. She was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 9 for Dr. Larissa Santos, Psychiatry, Curitiba
+Rating: 8/10
+Clinic visited: Clínica Batel Saúde Integral
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Overall rating for Dr. Larissa Santos, Psychiatry, Curitiba: 6.67/10 from 9 reviews

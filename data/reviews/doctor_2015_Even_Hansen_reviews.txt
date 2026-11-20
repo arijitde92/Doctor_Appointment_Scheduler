@@ -1,0 +1,69 @@
+Doctor: Dr. Even Hansen
+Doctor ID: 2015
+Specialization: General
+Gender: Male
+Years of experience: 5
+City: Oslo, Norway
+Clinics: Medisinsk Senter Thereses gate (clinic ID 262); Legekontoret Grønland (clinic ID 263)
+
+Review 1 for Dr. Even Hansen, General, Oslo
+Rating: 9/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: Sensitive questions were handled by Dr. Even Hansen with discretion and without a hint of judgment. Dr. Even Hansen spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. This is the first doctor I have trusted completely in years.
+
+Review 2 for Dr. Even Hansen, General, Oslo
+Rating: 7/10
+Clinic visited: Legekontoret Grønland
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Even Hansen, General, Oslo
+Rating: 9/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: The waiting room at Medisinsk Senter Thereses gate was clean, quiet and comfortable, with enough seating and water available. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Even Hansen, General, Oslo
+Rating: 9/10
+Clinic visited: Legekontoret Grønland
+Description: I appreciated that he offered more than one option and let me choose what suited my life. He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly.
+
+Review 5 for Dr. Even Hansen, General, Oslo
+Rating: 8/10
+Clinic visited: Legekontoret Grønland
+Description: I always hear back within a day when I leave a question with the nurse at Legekontoret Grønland, and Dr. Even Hansen follows up on lab results personally. I was called in within five minutes of my appointment time at Legekontoret Grønland, which is rare and much appreciated.
+
+Review 6 for Dr. Even Hansen, General, Oslo
+Rating: 7/10
+Clinic visited: Legekontoret Grønland
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Dr. Even Hansen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Even Hansen, General, Oslo
+Rating: 9/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. By the time I left the room, Dr. Even Hansen had sorted the sick note, referral letter and prescription refill.
+
+Review 8 for Dr. Even Hansen, General, Oslo
+Rating: 6/10
+Clinic visited: Legekontoret Grønland
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Even Hansen, General, Oslo
+Rating: 8/10
+Clinic visited: Legekontoret Grønland
+Description: Best family doctor I have had; He treats the whole person and not just the symptom list. A same-day slot was found for me at Legekontoret Grønland when I called with a worrying symptom.
+
+Review 10 for Dr. Even Hansen, General, Oslo
+Rating: 7/10
+Clinic visited: Medisinsk Senter Thereses gate
+Description: The treatment plan from Dr. Even Hansen made sense, but I wished it had been written down for me to take away. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 11 for Dr. Even Hansen, General, Oslo
+Rating: 7/10
+Clinic visited: Legekontoret Grønland
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Legekontoret Grønland were inconsistent. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 12 for Dr. Even Hansen, General, Oslo
+Rating: 10/10
+Clinic visited: Legekontoret Grønland
+Description: I came in with a stubborn cough and left with a clear explanation, a short plan and advice on when to return. My referral letter was written on the spot, and the specialist's office had my details before I called. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Even Hansen, General, Oslo: 8.00/10 from 12 reviews

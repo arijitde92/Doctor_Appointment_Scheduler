@@ -1,0 +1,49 @@
+Doctor: Dr. Riccardo Rossi
+Doctor ID: 3428
+Specialization: Neurology
+Gender: Male
+Years of experience: 21
+City: Milan, Italy
+Clinics: Poliambulatorio Isola (clinic ID 444)
+
+Review 1 for Dr. Riccardo Rossi, Neurology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Isola
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 2 for Dr. Riccardo Rossi, Neurology, Milan
+Rating: 5/10
+Clinic visited: Poliambulatorio Isola
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 3 for Dr. Riccardo Rossi, Neurology, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Isola
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Riccardo Rossi explained my results well, although the visit felt short for such a complex condition.
+
+Review 4 for Dr. Riccardo Rossi, Neurology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Isola
+Description: The EEG appointment ran on time, and Dr. Riccardo Rossi reviewed the tracing with me the same week.
+
+Review 5 for Dr. Riccardo Rossi, Neurology, Milan
+Rating: 6/10
+Clinic visited: Poliambulatorio Isola
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Riccardo Rossi, Neurology, Milan
+Rating: 8/10
+Clinic visited: Poliambulatorio Isola
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. The nurse was friendly and efficient, and the whole visit with Dr. Riccardo Rossi felt well organized from start to finish. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Riccardo Rossi, Neurology, Milan
+Rating: 5/10
+Clinic visited: Poliambulatorio Isola
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. The treatment plan from Dr. Riccardo Rossi made sense, but I wished it had been written down for me to take away. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Riccardo Rossi, Neurology, Milan
+Rating: 5/10
+Clinic visited: Poliambulatorio Isola
+Description: Dr. Riccardo Rossi was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Riccardo Rossi, Neurology, Milan: 6.38/10 from 8 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Cho Jong-min
+Doctor ID: 4150
+Specialization: Neurology
+Gender: Male
+Years of experience: 6
+City: Busan, South Korea
+Clinics: Seomyeon Bada Medical Clinic (clinic ID 535)
+
+Review 1 for Dr. Cho Jong-min, Neurology, Busan
+Rating: 6/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 2 for Dr. Cho Jong-min, Neurology, Busan
+Rating: 7/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Dr. Cho Jong-min was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 3 for Dr. Cho Jong-min, Neurology, Busan
+Rating: 7/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 4 for Dr. Cho Jong-min, Neurology, Busan
+Rating: 8/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: My tremor was assessed carefully and the explanation of the options was balanced and unhurried. Paperwork at Seomyeon Bada Medical Clinic was kept to a minimum, and the staff helped me complete the insurance form. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Cho Jong-min, Neurology, Busan
+Rating: 6/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Cho Jong-min, Neurology, Busan
+Rating: 6/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Cho Jong-min at Seomyeon Bada Medical Clinic are difficult to schedule. Booking was easy online, but the confirmation email contained the wrong address for Seomyeon Bada Medical Clinic. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Cho Jong-min, Neurology, Busan
+Rating: 5/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: I got what I needed, but the next available appointment was three weeks away. Careful assessment of my memory issues, though I would have liked more information on support services.
+
+Review 8 for Dr. Cho Jong-min, Neurology, Busan
+Rating: 7/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Good bedside manner from Dr. Cho Jong-min, but the parking near Seomyeon Bada Medical Clinic is limited and I had to circle for fifteen minutes.
+
+Review 9 for Dr. Cho Jong-min, Neurology, Busan
+Rating: 6/10
+Clinic visited: Seomyeon Bada Medical Clinic
+Description: Dr. Cho Jong-min explained my results well, although the visit felt short for such a complex condition.
+
+Overall rating for Dr. Cho Jong-min, Neurology, Busan: 6.44/10 from 9 reviews

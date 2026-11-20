@@ -1,0 +1,49 @@
+Doctor: Dr. Christopher Kelly
+Doctor ID: 6585
+Specialization: Pathology
+Gender: Male
+Years of experience: 15
+City: Sydney, Australia
+Clinics: Wattle Grove Medical (clinic ID 853)
+
+Review 1 for Dr. Christopher Kelly, Pathology, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: Dr. Christopher Kelly was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Christopher Kelly, Pathology, Sydney
+Rating: 6/10
+Clinic visited: Wattle Grove Medical
+Description: Dr. Christopher Kelly answered my questions kindly, though the call back took three days. Booking was easy online, but the confirmation email contained the wrong address for Wattle Grove Medical. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Christopher Kelly, Pathology, Sydney
+Rating: 8/10
+Clinic visited: Wattle Grove Medical
+Description: Dr. Christopher Kelly took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Christopher Kelly, Pathology, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 5 for Dr. Christopher Kelly, Pathology, Sydney
+Rating: 8/10
+Clinic visited: Wattle Grove Medical
+Description: Allergy panel results were explained in detail by Dr. Christopher Kelly, with a note on which results mattered clinically and which did not. Appointment reminders came by text and email, and rescheduling took two taps. I feel lucky to have found this practice in my area.
+
+Review 6 for Dr. Christopher Kelly, Pathology, Sydney
+Rating: 9/10
+Clinic visited: Wattle Grove Medical
+Description: The lab at Wattle Grove Medical had a quick, friendly blood draw and the phlebotomist found my vein on the first try. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 7 for Dr. Christopher Kelly, Pathology, Sydney
+Rating: 7/10
+Clinic visited: Wattle Grove Medical
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Christopher Kelly, Pathology, Sydney
+Rating: 9/10
+Clinic visited: Wattle Grove Medical
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Overall rating for Dr. Christopher Kelly, Pathology, Sydney: 7.62/10 from 8 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Pedro Pérez Ramírez
+Doctor ID: 486
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 23
+City: Monterrey, Mexico
+Clinics: Centro Médico Valle Oriente (clinic ID 66)
+
+Review 1 for Dr. Pedro Pérez Ramírez, Psychiatry, Monterrey
+Rating: 7/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Dr. Pedro Pérez Ramírez was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Good listener, yet the refill process at Centro Médico Valle Oriente is slow and requires several phone calls.
+
+Review 2 for Dr. Pedro Pérez Ramírez, Psychiatry, Monterrey
+Rating: 7/10
+Clinic visited: Centro Médico Valle Oriente
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Pedro Pérez Ramírez, Psychiatry, Monterrey
+Rating: 8/10
+Clinic visited: Centro Médico Valle Oriente
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 4 for Dr. Pedro Pérez Ramírez, Psychiatry, Monterrey
+Rating: 7/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. The telehealth visit was convenient, though the connection dropped twice and we had to restart. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Pedro Pérez Ramírez, Psychiatry, Monterrey
+Rating: 5/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 6 for Dr. Pedro Pérez Ramírez, Psychiatry, Monterrey
+Rating: 10/10
+Clinic visited: Centro Médico Valle Oriente
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 7 for Dr. Pedro Pérez Ramírez, Psychiatry, Monterrey
+Rating: 10/10
+Clinic visited: Centro Médico Valle Oriente
+Description: I felt heard by Dr. Pedro Pérez Ramírez during a very hard time, and nobody rushed me out of the room.
+
+Review 8 for Dr. Pedro Pérez Ramírez, Psychiatry, Monterrey
+Rating: 9/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Excellent at explaining how therapy and medication work together, and Dr. Pedro Pérez Ramírez coordinated with my counselor. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. My whole family is switching over after seeing how good the care was.
+
+Review 9 for Dr. Pedro Pérez Ramírez, Psychiatry, Monterrey
+Rating: 5/10
+Clinic visited: Centro Médico Valle Oriente
+Description: Dr. Pedro Pérez Ramírez is knowledgeable, though I waited several weeks for my first appointment. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 10 for Dr. Pedro Pérez Ramírez, Psychiatry, Monterrey
+Rating: 8/10
+Clinic visited: Centro Médico Valle Oriente
+Description: At my visit, Dr. Pedro Pérez Ramírez took notes on my medication list, checked for interactions and explained the changes simply. Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 11 for Dr. Pedro Pérez Ramírez, Psychiatry, Monterrey
+Rating: 8/10
+Clinic visited: Centro Médico Valle Oriente
+Description: My family was included in a session at my request, and Dr. Pedro Pérez Ramírez handled it with great tact. Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Overall rating for Dr. Pedro Pérez Ramírez, Psychiatry, Monterrey: 7.64/10 from 11 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Hans Eide
+Doctor ID: 2026
+Specialization: Neurology
+Gender: Male
+Years of experience: 13
+City: Oslo, Norway
+Clinics: Legesenteret Bogstad Park (clinic ID 264)
+
+Review 1 for Dr. Hans Eide, Neurology, Oslo
+Rating: 9/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Getting a same-month appointment in Oslo for my sudden headaches was a real relief, and the work-up was prompt.
+
+Review 2 for Dr. Hans Eide, Neurology, Oslo
+Rating: 10/10
+Clinic visited: Legesenteret Bogstad Park
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 3 for Dr. Hans Eide, Neurology, Oslo
+Rating: 10/10
+Clinic visited: Legesenteret Bogstad Park
+Description: The EEG appointment ran on time, and Dr. Hans Eide reviewed the tracing with me the same week. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Hans Eide, Neurology, Oslo
+Rating: 8/10
+Clinic visited: Legesenteret Bogstad Park
+Description: He patiently explained my MRI findings and calmed my worries about memory problems. The practice in Oslo is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 5 for Dr. Hans Eide, Neurology, Oslo
+Rating: 8/10
+Clinic visited: Legesenteret Bogstad Park
+Description: I was given a printed summary of the visit, which I shared with my family at home. This is the first doctor I have trusted completely in years.
+
+Review 6 for Dr. Hans Eide, Neurology, Oslo
+Rating: 10/10
+Clinic visited: Legesenteret Bogstad Park
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Living with multiple sclerosis feels less frightening because Dr. Hans Eide explains and discusses every change in my plan.
+
+Review 7 for Dr. Hans Eide, Neurology, Oslo
+Rating: 9/10
+Clinic visited: Legesenteret Bogstad Park
+Description: I always leave Dr. Hans Eide's office with a short written summary of changes, which helps my family keep up. Dr. Hans Eide double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 8 for Dr. Hans Eide, Neurology, Oslo
+Rating: 8/10
+Clinic visited: Legesenteret Bogstad Park
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Overall rating for Dr. Hans Eide, Neurology, Oslo: 9.00/10 from 8 reviews

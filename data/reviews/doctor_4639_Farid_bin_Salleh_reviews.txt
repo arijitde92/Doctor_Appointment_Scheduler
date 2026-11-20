@@ -1,0 +1,54 @@
+Doctor: Dr. Farid bin Salleh
+Doctor ID: 4639
+Specialization: Cardiology
+Gender: Male
+Years of experience: 3
+City: Ipoh, Malaysia
+Clinics: Klinik Nusa Prima (clinic ID 600)
+
+Review 1 for Dr. Farid bin Salleh, Cardiology, Ipoh
+Rating: 4/10
+Clinic visited: Klinik Nusa Prima
+Description: The waiting room at Klinik Nusa Prima was overcrowded and there was nowhere to sit, even for elderly patients. My worries about side effects from my medication were waved off, and nobody offered an alternative. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 2 for Dr. Farid bin Salleh, Cardiology, Ipoh
+Rating: 7/10
+Clinic visited: Klinik Nusa Prima
+Description: Good bedside manner from Dr. Farid bin Salleh, but the parking near Klinik Nusa Prima is limited and I had to circle for fifteen minutes. Dr. Farid bin Salleh adjusted my blood pressure medication carefully, though I had to call twice for a refill. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Farid bin Salleh, Cardiology, Ipoh
+Rating: 7/10
+Clinic visited: Klinik Nusa Prima
+Description: The treatment plan from Dr. Farid bin Salleh made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Farid bin Salleh, Cardiology, Ipoh
+Rating: 5/10
+Clinic visited: Klinik Nusa Prima
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Farid bin Salleh, Cardiology, Ipoh
+Rating: 4/10
+Clinic visited: Klinik Nusa Prima
+Description: Dr. Farid bin Salleh did not seem to have read my notes and asked me to repeat my whole history from the beginning. I was billed separately for tests that I understood to be part of the original consultation.
+
+Review 6 for Dr. Farid bin Salleh, Cardiology, Ipoh
+Rating: 2/10
+Clinic visited: Klinik Nusa Prima
+Description: The visit felt rushed, and Dr. Farid bin Salleh was already halfway out the door when I started to describe my second symptom. Dr. Farid bin Salleh spent most of the appointment looking at the screen and gave very brief answers to my questions. Not a place I would choose again, and I hope others have a better experience.
+
+Review 7 for Dr. Farid bin Salleh, Cardiology, Ipoh
+Rating: 6/10
+Clinic visited: Klinik Nusa Prima
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 8 for Dr. Farid bin Salleh, Cardiology, Ipoh
+Rating: 4/10
+Clinic visited: Klinik Nusa Prima
+Description: The wait was nearly two hours with no update from the front desk, and the consultation lasted ten minutes. Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. I left disappointed and will take my business to another clinic.
+
+Review 9 for Dr. Farid bin Salleh, Cardiology, Ipoh
+Rating: 5/10
+Clinic visited: Klinik Nusa Prima
+Description: Helpful with my cholesterol, Dr. Farid bin Salleh still gave dietary advice that was a little generic. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Farid bin Salleh, Cardiology, Ipoh: 4.89/10 from 9 reviews

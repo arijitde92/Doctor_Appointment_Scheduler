@@ -1,0 +1,49 @@
+Doctor: Dr. John Sanchez
+Doctor ID: 161
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 7
+City: Houston, USA
+Clinics: Downtown Houston Health Center (clinic ID 22)
+
+Review 1 for Dr. John Sanchez, Pediatrics, Houston
+Rating: 6/10
+Clinic visited: Downtown Houston Health Center
+Description: Dr. John Sanchez was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. John Sanchez, Pediatrics, Houston
+Rating: 5/10
+Clinic visited: Downtown Houston Health Center
+Description: Caring and gentle with my child, Dr. John Sanchez nonetheless ran forty minutes behind schedule at most appointments. Booking was easy online, but the confirmation email contained the wrong address for Downtown Houston Health Center.
+
+Review 3 for Dr. John Sanchez, Pediatrics, Houston
+Rating: 5/10
+Clinic visited: Downtown Houston Health Center
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. John Sanchez, Pediatrics, Houston
+Rating: 6/10
+Clinic visited: Downtown Houston Health Center
+Description: I liked the advice I got from Dr. John Sanchez, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 5 for Dr. John Sanchez, Pediatrics, Houston
+Rating: 9/10
+Clinic visited: Downtown Houston Health Center
+Description: Dr. John Sanchez double-checked my allergy list before prescribing anything, and that careful habit earned my trust. I phoned after hours about a fever and was called back within the hour with calm, sensible advice.
+
+Review 6 for Dr. John Sanchez, Pediatrics, Houston
+Rating: 8/10
+Clinic visited: Downtown Houston Health Center
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. John Sanchez, Pediatrics, Houston
+Rating: 5/10
+Clinic visited: Downtown Houston Health Center
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. John Sanchez, Pediatrics, Houston
+Rating: 8/10
+Clinic visited: Downtown Houston Health Center
+Description: Our newborn check-ups with Dr. John Sanchez were reassuring; every question about feeding and sleep got a calm, practical answer. The receptionist at Downtown Houston Health Center remembered my name and had my forms ready, so check-in took less than a minute.
+
+Overall rating for Dr. John Sanchez, Pediatrics, Houston: 6.50/10 from 8 reviews

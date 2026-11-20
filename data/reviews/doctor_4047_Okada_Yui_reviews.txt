@@ -1,0 +1,54 @@
+Doctor: Dr. Okada Yui
+Doctor ID: 4047
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 14
+City: Osaka, Japan
+Clinics: Tennoji Wakaba Family Clinic (clinic ID 522); Shin-Osaka Tsubasa Clinic (clinic ID 524)
+
+Review 1 for Dr. Okada Yui, Psychiatry, Osaka
+Rating: 10/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely.
+
+Review 2 for Dr. Okada Yui, Psychiatry, Osaka
+Rating: 9/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: Telehealth follow-ups at Tennoji Wakaba Family Clinic are punctual and calm, and refills are dealt with quickly.
+
+Review 3 for Dr. Okada Yui, Psychiatry, Osaka
+Rating: 10/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Review 4 for Dr. Okada Yui, Psychiatry, Osaka
+Rating: 9/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 5 for Dr. Okada Yui, Psychiatry, Osaka
+Rating: 10/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: My depression finally has a treatment plan from Dr. Okada Yui that works, with regular check-ins and careful dose changes.
+
+Review 6 for Dr. Okada Yui, Psychiatry, Osaka
+Rating: 9/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. The ADHD assessment by Dr. Okada Yui was careful and detailed, with clear written conclusions and realistic expectations. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Okada Yui, Psychiatry, Osaka
+Rating: 9/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: Dr. Okada Yui took a full history before suggesting any medication and explained the likely side effects honestly. Dr. Okada Yui drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 8 for Dr. Okada Yui, Psychiatry, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: My family was included in a session at my request, and Dr. Okada Yui handled it with great tact. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 9 for Dr. Okada Yui, Psychiatry, Osaka
+Rating: 8/10
+Clinic visited: Shin-Osaka Tsubasa Clinic
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. Five stars from me, and I would book again tomorrow.
+
+Overall rating for Dr. Okada Yui, Psychiatry, Osaka: 9.11/10 from 9 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Xiao Ying
+Doctor ID: 3914
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 3
+City: Shanghai, China
+Clinics: Lujiazui Kangtai Medical Centre (clinic ID 505)
+
+Review 1 for Dr. Xiao Ying, Pediatrics, Shanghai
+Rating: 8/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Dr. Xiao Ying looked me in the eye, listened to the whole story and only then started typing.
+
+Review 2 for Dr. Xiao Ying, Pediatrics, Shanghai
+Rating: 8/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: My child's asthma action plan from Dr. Xiao Ying was written out clearly so that school staff could follow it too. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 3 for Dr. Xiao Ying, Pediatrics, Shanghai
+Rating: 8/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Kind to anxious parents, Dr. Xiao Ying never showed a hint of impatience when I felt silly asking about a rash.
+
+Review 4 for Dr. Xiao Ying, Pediatrics, Shanghai
+Rating: 4/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: I was billed for a vaccine that was supposed to be covered, and nobody at the desk could explain why.
+
+Review 5 for Dr. Xiao Ying, Pediatrics, Shanghai
+Rating: 8/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: My teenager actually spoke up during the visit, and Dr. Xiao Ying handled sensitive topics with respect.
+
+Review 6 for Dr. Xiao Ying, Pediatrics, Shanghai
+Rating: 9/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: The school physical at Lujiazui Kangtai Medical Centre was quick, thorough and the forms were completed on the spot. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Xiao Ying, Pediatrics, Shanghai
+Rating: 9/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 8 for Dr. Xiao Ying, Pediatrics, Shanghai
+Rating: 6/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: Good bedside manner from Dr. Xiao Ying, but the parking near Lujiazui Kangtai Medical Centre is limited and I had to circle for fifteen minutes.
+
+Review 9 for Dr. Xiao Ying, Pediatrics, Shanghai
+Rating: 10/10
+Clinic visited: Lujiazui Kangtai Medical Centre
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Overall rating for Dr. Xiao Ying, Pediatrics, Shanghai: 7.78/10 from 9 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Andreas Eriksen
+Doctor ID: 2050
+Specialization: General
+Gender: Male
+Years of experience: 3
+City: Stavanger, Norway
+Clinics: Medisinsk Senter Kongsgård (clinic ID 267)
+
+Review 1 for Dr. Andreas Eriksen, General, Stavanger
+Rating: 6/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 2 for Dr. Andreas Eriksen, General, Stavanger
+Rating: 9/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Dr. Andreas Eriksen spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 3 for Dr. Andreas Eriksen, General, Stavanger
+Rating: 7/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Referrals from Dr. Andreas Eriksen are handled well, but getting test results back took longer than I was told to expect. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Andreas Eriksen, General, Stavanger
+Rating: 9/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Getting to Medisinsk Senter Kongsgård from across Stavanger was easy, and the same-week appointment saved me an urgent care trip. Sensitive questions were handled by Dr. Andreas Eriksen with discretion and without a hint of judgment.
+
+Review 5 for Dr. Andreas Eriksen, General, Stavanger
+Rating: 6/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Andreas Eriksen, General, Stavanger
+Rating: 10/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: As a new patient in Stavanger, I felt welcomed at Medisinsk Senter Kongsgård, and my whole history was reviewed in one relaxed visit. The practice in Stavanger is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 7 for Dr. Andreas Eriksen, General, Stavanger
+Rating: 10/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered.
+
+Review 8 for Dr. Andreas Eriksen, General, Stavanger
+Rating: 8/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Appointment reminders came by text and email, and rescheduling took two taps. Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 9 for Dr. Andreas Eriksen, General, Stavanger
+Rating: 6/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Andreas Eriksen, General, Stavanger: 7.89/10 from 9 reviews

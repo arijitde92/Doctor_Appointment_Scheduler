@@ -1,0 +1,59 @@
+Doctor: Dr. Guo Ming
+Doctor ID: 3895
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 6
+City: Guangzhou, China
+Clinics: Jiangnan Hengkang Polyclinic (clinic ID 503); Haizhu Mingde Medical Clinic (clinic ID 504)
+
+Review 1 for Dr. Guo Ming, Pulmonology, Guangzhou
+Rating: 8/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 2 for Dr. Guo Ming, Pulmonology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Guo Ming, Pulmonology, Guangzhou
+Rating: 7/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 4 for Dr. Guo Ming, Pulmonology, Guangzhou
+Rating: 6/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Guo Ming, Pulmonology, Guangzhou
+Rating: 9/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Guo Ming. Worth every minute of travel, and I would go again without a second thought.
+
+Review 6 for Dr. Guo Ming, Pulmonology, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: After years of poorly controlled asthma, Dr. Guo Ming reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 7 for Dr. Guo Ming, Pulmonology, Guangzhou
+Rating: 8/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: I came away understanding my condition better than I have in years of previous appointments. Quitting smoking felt possible for the first time because the advice from Dr. Guo Ming was practical and never preachy.
+
+Review 8 for Dr. Guo Ming, Pulmonology, Guangzhou
+Rating: 8/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 9 for Dr. Guo Ming, Pulmonology, Guangzhou
+Rating: 8/10
+Clinic visited: Haizhu Mingde Medical Clinic
+Description: At Haizhu Mingde Medical Clinic, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. Dr. Guo Ming used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 10 for Dr. Guo Ming, Pulmonology, Guangzhou
+Rating: 8/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: I always leave Dr. Guo Ming's office with a written summary of my breathing test results and what changed since the last visit.
+
+Overall rating for Dr. Guo Ming, Pulmonology, Guangzhou: 7.70/10 from 10 reviews

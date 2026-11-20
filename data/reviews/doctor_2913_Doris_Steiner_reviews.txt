@@ -1,0 +1,49 @@
+Doctor: Dr. Doris Steiner
+Doctor ID: 2913
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 18
+City: Innsbruck, Austria
+Clinics: Ärztezentrum Maria-Theresien (clinic ID 380); Ordination Wilten Innsbruck (clinic ID 384)
+
+Review 1 for Dr. Doris Steiner, Psychiatry, Innsbruck
+Rating: 8/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: The receptionist at Ordination Wilten Innsbruck remembered my name and had my forms ready, so check-in took less than a minute. I felt heard by Dr. Doris Steiner during a very hard time, and nobody rushed me out of the room.
+
+Review 2 for Dr. Doris Steiner, Psychiatry, Innsbruck
+Rating: 8/10
+Clinic visited: Ärztezentrum Maria-Theresien
+Description: I appreciated that she offered more than one option and let me choose what suited my life. She always asks about my sleep, appetite and mood before touching my prescriptions, which makes me feel truly looked after.
+
+Review 3 for Dr. Doris Steiner, Psychiatry, Innsbruck
+Rating: 8/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 4 for Dr. Doris Steiner, Psychiatry, Innsbruck
+Rating: 8/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 5 for Dr. Doris Steiner, Psychiatry, Innsbruck
+Rating: 7/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Doris Steiner, Psychiatry, Innsbruck
+Rating: 7/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Doris Steiner, Psychiatry, Innsbruck
+Rating: 8/10
+Clinic visited: Ärztezentrum Maria-Theresien
+Description: My depression finally has a treatment plan from Dr. Doris Steiner that works, with regular check-ins and careful dose changes. The waiting room at Ärztezentrum Maria-Theresien was clean, quiet and comfortable, with enough seating and water available. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Doris Steiner, Psychiatry, Innsbruck
+Rating: 8/10
+Clinic visited: Ordination Wilten Innsbruck
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Overall rating for Dr. Doris Steiner, Psychiatry, Innsbruck: 7.75/10 from 8 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Seo Eun-ji
+Doctor ID: 4179
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 20
+City: Busan, South Korea
+Clinics: Dongnae Sarang Polyclinic (clinic ID 538)
+
+Review 1 for Dr. Seo Eun-ji, Pulmonology, Busan
+Rating: 6/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 2 for Dr. Seo Eun-ji, Pulmonology, Busan
+Rating: 5/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: Dr. Seo Eun-ji adjusted my asthma medication well, but the breathing test appointment was a month away. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Seo Eun-ji, Pulmonology, Busan
+Rating: 5/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. Dr. Seo Eun-ji was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Seo Eun-ji, Pulmonology, Busan
+Rating: 6/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. I liked the advice I got from Dr. Seo Eun-ji, but I would have liked more time to ask follow-up questions before the visit ended. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 5 for Dr. Seo Eun-ji, Pulmonology, Busan
+Rating: 8/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: Quitting smoking felt possible for the first time because the advice from Dr. Seo Eun-ji was practical and never preachy. The practice in Busan is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 6 for Dr. Seo Eun-ji, Pulmonology, Busan
+Rating: 4/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: The prescription from Dr. Seo Eun-ji was not the one we discussed, and I only noticed when I got home. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 7 for Dr. Seo Eun-ji, Pulmonology, Busan
+Rating: 5/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: Helpful and honest about my prognosis, Dr. Seo Eun-ji could still have given me more written material to take home. The doctor was kind, though the clinic's evening hours are very limited for working people. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Seo Eun-ji, Pulmonology, Busan
+Rating: 7/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Overall rating for Dr. Seo Eun-ji, Pulmonology, Busan: 5.75/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Ruslan Melnyk
+Doctor ID: 3575
+Specialization: Radiology
+Gender: Male
+Years of experience: 2
+City: Kyiv, Ukraine
+Clinics: Obolon Family Polyclinic (clinic ID 462); Lybid Medical Practice (clinic ID 463)
+
+Review 1 for Dr. Ruslan Melnyk, Radiology, Kyiv
+Rating: 7/10
+Clinic visited: Obolon Family Polyclinic
+Description: The report from Dr. Ruslan Melnyk was thorough, though full of technical terms that needed my regular doctor to translate. I liked the advice I got from Dr. Ruslan Melnyk, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 2 for Dr. Ruslan Melnyk, Radiology, Kyiv
+Rating: 5/10
+Clinic visited: Obolon Family Polyclinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 3 for Dr. Ruslan Melnyk, Radiology, Kyiv
+Rating: 10/10
+Clinic visited: Obolon Family Polyclinic
+Description: A translator was arranged for my mother without us asking twice, and Dr. Ruslan Melnyk spoke directly to her throughout.
+
+Review 4 for Dr. Ruslan Melnyk, Radiology, Kyiv
+Rating: 8/10
+Clinic visited: Lybid Medical Practice
+Description: The waiting room at Lybid Medical Practice was clean, quiet and comfortable, with enough seating and water available. He called me personally after my scan to explain the findings in plain language before I saw my own doctor. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Ruslan Melnyk, Radiology, Kyiv
+Rating: 8/10
+Clinic visited: Obolon Family Polyclinic
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Review 6 for Dr. Ruslan Melnyk, Radiology, Kyiv
+Rating: 7/10
+Clinic visited: Lybid Medical Practice
+Description: Good bedside manner from Dr. Ruslan Melnyk, but the parking near Lybid Medical Practice is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Ruslan Melnyk, Radiology, Kyiv
+Rating: 7/10
+Clinic visited: Lybid Medical Practice
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Dr. Ruslan Melnyk answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 8 for Dr. Ruslan Melnyk, Radiology, Kyiv
+Rating: 6/10
+Clinic visited: Lybid Medical Practice
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Ruslan Melnyk, Radiology, Kyiv
+Rating: 5/10
+Clinic visited: Lybid Medical Practice
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. I got what I needed, but the next available appointment was three weeks away. Decent care overall, and I will probably return unless I find something closer.
+
+Review 10 for Dr. Ruslan Melnyk, Radiology, Kyiv
+Rating: 6/10
+Clinic visited: Lybid Medical Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Overall rating for Dr. Ruslan Melnyk, Radiology, Kyiv: 6.90/10 from 10 reviews

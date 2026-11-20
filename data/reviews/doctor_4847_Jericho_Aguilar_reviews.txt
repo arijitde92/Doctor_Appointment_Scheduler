@@ -1,0 +1,54 @@
+Doctor: Dr. Jericho Aguilar
+Doctor ID: 4847
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 20
+City: Manila, Philippines
+Clinics: Bayanihan Medical Clinic (clinic ID 626); Mabuhay Health Centre (clinic ID 628)
+
+Review 1 for Dr. Jericho Aguilar, Gastroenterology, Manila
+Rating: 7/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Skilled with the scope, but communication about the fasting time before the procedure was unclear. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Jericho Aguilar, Gastroenterology, Manila
+Rating: 5/10
+Clinic visited: Mabuhay Health Centre
+Description: The treatment plan from Dr. Jericho Aguilar made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Jericho Aguilar, Gastroenterology, Manila
+Rating: 8/10
+Clinic visited: Mabuhay Health Centre
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed.
+
+Review 4 for Dr. Jericho Aguilar, Gastroenterology, Manila
+Rating: 8/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Everything was explained in plain English by Dr. Jericho Aguilar, and nothing was left to guess.
+
+Review 5 for Dr. Jericho Aguilar, Gastroenterology, Manila
+Rating: 7/10
+Clinic visited: Mabuhay Health Centre
+Description: Knowledgeable about my reflux, Dr. Jericho Aguilar still gave diet advice that felt generic and not tailored to my habits. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 6 for Dr. Jericho Aguilar, Gastroenterology, Manila
+Rating: 6/10
+Clinic visited: Mabuhay Health Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 7 for Dr. Jericho Aguilar, Gastroenterology, Manila
+Rating: 7/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Jericho Aguilar, Gastroenterology, Manila
+Rating: 7/10
+Clinic visited: Bayanihan Medical Clinic
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Jericho Aguilar, Gastroenterology, Manila
+Rating: 9/10
+Clinic visited: Mabuhay Health Centre
+Description: Dr. Jericho Aguilar was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Overall rating for Dr. Jericho Aguilar, Gastroenterology, Manila: 7.11/10 from 9 reviews

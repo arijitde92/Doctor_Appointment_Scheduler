@@ -1,0 +1,49 @@
+Doctor: Dr. Marion Simon
+Doctor ID: 1188
+Specialization: Pathology
+Gender: Female
+Years of experience: 18
+City: Lyon, France
+Clinics: Centre Médical Bellecour (clinic ID 155); Cabinet Médical des Brotteaux (clinic ID 156)
+
+Review 1 for Dr. Marion Simon, Pathology, Lyon
+Rating: 7/10
+Clinic visited: Centre Médical Bellecour
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Marion Simon, Pathology, Lyon
+Rating: 7/10
+Clinic visited: Centre Médical Bellecour
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Marion Simon, Pathology, Lyon
+Rating: 5/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Helpful in clarifying a borderline result, though Dr. Marion Simon gave little guidance about whether to repeat it.
+
+Review 4 for Dr. Marion Simon, Pathology, Lyon
+Rating: 6/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Good bedside manner from Dr. Marion Simon, but the parking near Cabinet Médical des Brotteaux is limited and I had to circle for fifteen minutes. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Marion Simon, Pathology, Lyon
+Rating: 6/10
+Clinic visited: Centre Médical Bellecour
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Marion Simon, Pathology, Lyon
+Rating: 6/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: Dr. Marion Simon answered my questions kindly, though the call back took three days.
+
+Review 7 for Dr. Marion Simon, Pathology, Lyon
+Rating: 8/10
+Clinic visited: Cabinet Médical des Brotteaux
+Description: The lab under Dr. Marion Simon was clean, organized and never overbooked, and results arrived exactly when promised. Paperwork at Cabinet Médical des Brotteaux was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 8 for Dr. Marion Simon, Pathology, Lyon
+Rating: 7/10
+Clinic visited: Centre Médical Bellecour
+Description: The treatment plan from Dr. Marion Simon made sense, but I wished it had been written down for me to take away. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Marion Simon, Pathology, Lyon: 6.50/10 from 8 reviews

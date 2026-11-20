@@ -1,0 +1,54 @@
+Doctor: Dr. Lars Richter
+Doctor ID: 1559
+Specialization: Radiology
+Gender: Male
+Years of experience: 13
+City: Frankfurt, Germany
+Clinics: Gesundheitspraxis Bockenheimer Warte (clinic ID 203)
+
+Review 1 for Dr. Lars Richter, Radiology, Frankfurt
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 2 for Dr. Lars Richter, Radiology, Frankfurt
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Booking was easy online, but the confirmation email contained the wrong address for Gesundheitspraxis Bockenheimer Warte. The report from Dr. Lars Richter was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 3 for Dr. Lars Richter, Radiology, Frankfurt
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Parking was simple, the waiting room was calm, and I never felt like a number. Five stars from me, and I would book again tomorrow.
+
+Review 4 for Dr. Lars Richter, Radiology, Frankfurt
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Dr. Lars Richter answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 5 for Dr. Lars Richter, Radiology, Frankfurt
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Dr. Lars Richter compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 6 for Dr. Lars Richter, Radiology, Frankfurt
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Lars Richter, Radiology, Frankfurt
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Lars Richter, Radiology, Frankfurt
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Lars Richter, Radiology, Frankfurt
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Bockenheimer Warte
+Description: Dr. Lars Richter double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Overall rating for Dr. Lars Richter, Radiology, Frankfurt: 7.33/10 from 9 reviews

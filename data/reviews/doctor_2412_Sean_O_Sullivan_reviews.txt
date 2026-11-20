@@ -1,0 +1,54 @@
+Doctor: Dr. Sean O'Sullivan
+Doctor ID: 2412
+Specialization: Pathology
+Gender: Male
+Years of experience: 3
+City: Cork, Ireland
+Clinics: Patrick Street Medical Practice (clinic ID 315); Douglas Family Clinic (clinic ID 316); Blackpool Polyclinic (clinic ID 318)
+
+Review 1 for Dr. Sean O'Sullivan, Pathology, Cork
+Rating: 10/10
+Clinic visited: Patrick Street Medical Practice
+Description: Dr. Sean O'Sullivan looked me in the eye, listened to the whole story and only then started typing. Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Cork.
+
+Review 2 for Dr. Sean O'Sullivan, Pathology, Cork
+Rating: 8/10
+Clinic visited: Patrick Street Medical Practice
+Description: My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 3 for Dr. Sean O'Sullivan, Pathology, Cork
+Rating: 8/10
+Clinic visited: Blackpool Polyclinic
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. Prescriptions from Dr. Sean O'Sullivan were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 4 for Dr. Sean O'Sullivan, Pathology, Cork
+Rating: 9/10
+Clinic visited: Patrick Street Medical Practice
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 5 for Dr. Sean O'Sullivan, Pathology, Cork
+Rating: 9/10
+Clinic visited: Patrick Street Medical Practice
+Description: The lab under Dr. Sean O'Sullivan was clean, organized and never overbooked, and results arrived exactly when promised. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Sean O'Sullivan, Pathology, Cork
+Rating: 8/10
+Clinic visited: Douglas Family Clinic
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 7 for Dr. Sean O'Sullivan, Pathology, Cork
+Rating: 10/10
+Clinic visited: Patrick Street Medical Practice
+Description: Allergy panel results were explained in detail by Dr. Sean O'Sullivan, with a note on which results mattered clinically and which did not. My whole family is switching over after seeing how good the care was.
+
+Review 8 for Dr. Sean O'Sullivan, Pathology, Cork
+Rating: 9/10
+Clinic visited: Blackpool Polyclinic
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Sean O'Sullivan felt well organized from start to finish. Worth every minute of travel, and I would go again without a second thought.
+
+Review 9 for Dr. Sean O'Sullivan, Pathology, Cork
+Rating: 10/10
+Clinic visited: Blackpool Polyclinic
+Description: The receptionist at Blackpool Polyclinic remembered my name and had my forms ready, so check-in took less than a minute. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Sean O'Sullivan, Pathology, Cork: 9.00/10 from 9 reviews

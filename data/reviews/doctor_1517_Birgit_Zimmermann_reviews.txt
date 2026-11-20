@@ -1,0 +1,54 @@
+Doctor: Dr. Birgit Zimmermann
+Doctor ID: 1517
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 23
+City: Berlin, Germany
+Clinics: Ärztehaus Neukölln-Süd (clinic ID 198)
+
+Review 1 for Dr. Birgit Zimmermann, Pulmonology, Berlin
+Rating: 9/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: After years of poorly controlled asthma, Dr. Birgit Zimmermann reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 2 for Dr. Birgit Zimmermann, Pulmonology, Berlin
+Rating: 8/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: My test results arrived in the portal within two days, together with a short note that made sense. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Birgit Zimmermann, Pulmonology, Berlin
+Rating: 10/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 4 for Dr. Birgit Zimmermann, Pulmonology, Berlin
+Rating: 8/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Dr. Birgit Zimmermann drew a quick sketch to explain what was going on, which helped me remember it afterwards. Dr. Birgit Zimmermann explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Review 5 for Dr. Birgit Zimmermann, Pulmonology, Berlin
+Rating: 8/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: I felt like a person rather than a case number, and she asked about my life as well as my symptoms. Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor.
+
+Review 6 for Dr. Birgit Zimmermann, Pulmonology, Berlin
+Rating: 9/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: The receptionist at Ärztehaus Neukölln-Süd remembered my name and had my forms ready, so check-in took less than a minute. She took my chronic cough seriously, ordered a chest scan and found the cause within two weeks.
+
+Review 7 for Dr. Birgit Zimmermann, Pulmonology, Berlin
+Rating: 7/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 8 for Dr. Birgit Zimmermann, Pulmonology, Berlin
+Rating: 7/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: Quick appointment and a fair price in Berlin, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 9 for Dr. Birgit Zimmermann, Pulmonology, Berlin
+Rating: 9/10
+Clinic visited: Ärztehaus Neukölln-Süd
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Overall rating for Dr. Birgit Zimmermann, Pulmonology, Berlin: 8.33/10 from 9 reviews

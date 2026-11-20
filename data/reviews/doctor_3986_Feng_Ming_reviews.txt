@@ -1,0 +1,54 @@
+Doctor: Dr. Feng Ming
+Doctor ID: 3986
+Specialization: Pathology
+Gender: Male
+Years of experience: 24
+City: Shenzhen, China
+Clinics: Longgang Renhe Medical Clinic (clinic ID 514)
+
+Review 1 for Dr. Feng Ming, Pathology, Shenzhen
+Rating: 6/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Dr. Feng Ming answered my questions kindly, though the call back took three days. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Feng Ming, Pathology, Shenzhen
+Rating: 6/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Feng Ming, Pathology, Shenzhen
+Rating: 7/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Dr. Feng Ming was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Feng Ming, Pathology, Shenzhen
+Rating: 7/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Quick appointment and a fair price in Shenzhen, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 5 for Dr. Feng Ming, Pathology, Shenzhen
+Rating: 7/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I got what I needed, but the next available appointment was three weeks away.
+
+Review 6 for Dr. Feng Ming, Pathology, Shenzhen
+Rating: 10/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: The receptionist at Longgang Renhe Medical Clinic remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 7 for Dr. Feng Ming, Pathology, Shenzhen
+Rating: 6/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Helpful in clarifying a borderline result, though Dr. Feng Ming gave little guidance about whether to repeat it. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Feng Ming, Pathology, Shenzhen
+Rating: 7/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The blood draw was painless, but the waiting area at Longgang Renhe Medical Clinic was crowded in the early morning.
+
+Review 9 for Dr. Feng Ming, Pathology, Shenzhen
+Rating: 6/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Feng Ming, Pathology, Shenzhen: 6.89/10 from 9 reviews

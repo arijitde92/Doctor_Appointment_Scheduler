@@ -1,0 +1,49 @@
+Doctor: Dr. Mette Lund
+Doctor ID: 2053
+Specialization: Pathology
+Gender: Female
+Years of experience: 1
+City: Stavanger, Norway
+Clinics: Legekontoret Madla (clinic ID 268)
+
+Review 1 for Dr. Mette Lund, Pathology, Stavanger
+Rating: 7/10
+Clinic visited: Legekontoret Madla
+Description: Dr. Mette Lund answered my questions kindly, though the call back took three days.
+
+Review 2 for Dr. Mette Lund, Pathology, Stavanger
+Rating: 7/10
+Clinic visited: Legekontoret Madla
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 3 for Dr. Mette Lund, Pathology, Stavanger
+Rating: 8/10
+Clinic visited: Legekontoret Madla
+Description: Dr. Mette Lund used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 4 for Dr. Mette Lund, Pathology, Stavanger
+Rating: 7/10
+Clinic visited: Legekontoret Madla
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 5 for Dr. Mette Lund, Pathology, Stavanger
+Rating: 7/10
+Clinic visited: Legekontoret Madla
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 6 for Dr. Mette Lund, Pathology, Stavanger
+Rating: 7/10
+Clinic visited: Legekontoret Madla
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I will give it one more visit before I decide whether to stay.
+
+Review 7 for Dr. Mette Lund, Pathology, Stavanger
+Rating: 6/10
+Clinic visited: Legekontoret Madla
+Description: Good bedside manner from Dr. Mette Lund, but the parking near Legekontoret Madla is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Mette Lund, Pathology, Stavanger
+Rating: 7/10
+Clinic visited: Legekontoret Madla
+Description: The blood draw was painless, but the waiting area at Legekontoret Madla was crowded in the early morning. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Mette Lund, Pathology, Stavanger: 7.00/10 from 8 reviews

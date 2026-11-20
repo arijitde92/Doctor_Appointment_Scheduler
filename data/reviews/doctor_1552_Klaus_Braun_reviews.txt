@@ -1,0 +1,64 @@
+Doctor: Dr. Klaus Braun
+Doctor ID: 1552
+Specialization: Radiology
+Gender: Male
+Years of experience: 12
+City: Frankfurt, Germany
+Clinics: Medizinisches Zentrum Bahnhofsviertel (clinic ID 202)
+
+Review 1 for Dr. Klaus Braun, Radiology, Frankfurt
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The staff at Medizinisches Zentrum Bahnhofsviertel in Frankfurt explained the contrast dye and its side effects before I signed anything.
+
+Review 2 for Dr. Klaus Braun, Radiology, Frankfurt
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Dr. Klaus Braun was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Dr. Klaus Braun answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 3 for Dr. Klaus Braun, Radiology, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 4 for Dr. Klaus Braun, Radiology, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 5 for Dr. Klaus Braun, Radiology, Frankfurt
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The report from Dr. Klaus Braun was detailed but written so a non-medical person could follow it, with a short summary at the top. Booking online at Medizinisches Zentrum Bahnhofsviertel was simple, and I got a confirmation text with clear directions and a reminder the day before. I feel lucky to have found this practice in my area.
+
+Review 6 for Dr. Klaus Braun, Radiology, Frankfurt
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: My ultrasound was unhurried, and Dr. Klaus Braun took time to show me the images and explain what each measurement meant.
+
+Review 7 for Dr. Klaus Braun, Radiology, Frankfurt
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The report from Dr. Klaus Braun was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 8 for Dr. Klaus Braun, Radiology, Frankfurt
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: Quick appointment and a fair price in Frankfurt, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 9 for Dr. Klaus Braun, Radiology, Frankfurt
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 10 for Dr. Klaus Braun, Radiology, Frankfurt
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: When my scan showed something that needed a second look, Dr. Klaus Braun arranged the follow-up the same day. The waiting room at Medizinisches Zentrum Bahnhofsviertel was clean, quiet and comfortable, with enough seating and water available.
+
+Review 11 for Dr. Klaus Braun, Radiology, Frankfurt
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Bahnhofsviertel
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Klaus Braun sent a clear report within a day. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour. I will be recommending this clinic to anyone who asks me for advice.
+
+Overall rating for Dr. Klaus Braun, Radiology, Frankfurt: 7.73/10 from 11 reviews

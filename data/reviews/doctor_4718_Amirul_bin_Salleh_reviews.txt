@@ -1,0 +1,54 @@
+Doctor: Dr. Amirul bin Salleh
+Doctor ID: 4718
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 24
+City: Kuala Lumpur, Malaysia
+Clinics: Klinik Mutiara Sentosa (clinic ID 610)
+
+Review 1 for Dr. Amirul bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 6/10
+Clinic visited: Klinik Mutiara Sentosa
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Amirul bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 10/10
+Clinic visited: Klinik Mutiara Sentosa
+Description: Dr. Amirul bin Salleh noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 3 for Dr. Amirul bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 8/10
+Clinic visited: Klinik Mutiara Sentosa
+Description: I appreciated that he offered more than one option and let me choose what suited my life. I feel lucky to have found this practice in my area.
+
+Review 4 for Dr. Amirul bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 9/10
+Clinic visited: Klinik Mutiara Sentosa
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first.
+
+Review 5 for Dr. Amirul bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 8/10
+Clinic visited: Klinik Mutiara Sentosa
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 6 for Dr. Amirul bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 8/10
+Clinic visited: Klinik Mutiara Sentosa
+Description: My child's asthma action plan from Dr. Amirul bin Salleh was written out clearly so that school staff could follow it too.
+
+Review 7 for Dr. Amirul bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 8/10
+Clinic visited: Klinik Mutiara Sentosa
+Description: My toddler was terrified of doctors, but Dr. Amirul bin Salleh sat on the floor, played with a stuffed toy and examined everything without a single tear. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 8 for Dr. Amirul bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 7/10
+Clinic visited: Klinik Mutiara Sentosa
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 9 for Dr. Amirul bin Salleh, Pediatrics, Kuala Lumpur
+Rating: 9/10
+Clinic visited: Klinik Mutiara Sentosa
+Description: The waiting room at Klinik Mutiara Sentosa was clean, quiet and comfortable, with enough seating and water available.
+
+Overall rating for Dr. Amirul bin Salleh, Pediatrics, Kuala Lumpur: 8.11/10 from 9 reviews

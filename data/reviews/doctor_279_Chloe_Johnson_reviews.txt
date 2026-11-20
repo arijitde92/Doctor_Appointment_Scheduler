@@ -1,0 +1,49 @@
+Doctor: Dr. Chloe Johnson
+Doctor ID: 279
+Specialization: Neurology
+Gender: Female
+Years of experience: 16
+City: Calgary, Canada
+Clinics: Southland Medical Centre (clinic ID 38)
+
+Review 1 for Dr. Chloe Johnson, Neurology, Calgary
+Rating: 7/10
+Clinic visited: Southland Medical Centre
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Chloe Johnson, Neurology, Calgary
+Rating: 9/10
+Clinic visited: Southland Medical Centre
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose.
+
+Review 3 for Dr. Chloe Johnson, Neurology, Calgary
+Rating: 7/10
+Clinic visited: Southland Medical Centre
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Chloe Johnson, Neurology, Calgary
+Rating: 9/10
+Clinic visited: Southland Medical Centre
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 5 for Dr. Chloe Johnson, Neurology, Calgary
+Rating: 8/10
+Clinic visited: Southland Medical Centre
+Description: I always leave Dr. Chloe Johnson's office with a short written summary of changes, which helps my family keep up. Dr. Chloe Johnson double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 6 for Dr. Chloe Johnson, Neurology, Calgary
+Rating: 8/10
+Clinic visited: Southland Medical Centre
+Description: A same-day slot was found for me at Southland Medical Centre when I called with a worrying symptom. The memory assessment for my father at Southland Medical Centre was gentle and respectful, and the family received a clear written summary. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Chloe Johnson, Neurology, Calgary
+Rating: 9/10
+Clinic visited: Southland Medical Centre
+Description: Dr. Chloe Johnson took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. Prescriptions from Dr. Chloe Johnson were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Chloe Johnson, Neurology, Calgary
+Rating: 7/10
+Clinic visited: Southland Medical Centre
+Description: Dr. Chloe Johnson was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Overall rating for Dr. Chloe Johnson, Neurology, Calgary: 8.00/10 from 8 reviews

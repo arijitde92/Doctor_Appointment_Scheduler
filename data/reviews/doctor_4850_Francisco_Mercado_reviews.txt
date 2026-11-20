@@ -1,0 +1,64 @@
+Doctor: Dr. Francisco Mercado
+Doctor ID: 4850
+Specialization: General
+Gender: Male
+Years of experience: 17
+City: Manila, Philippines
+Clinics: Bayanihan Medical Clinic (clinic ID 626)
+
+Review 1 for Dr. Francisco Mercado, General, Manila
+Rating: 7/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Francisco Mercado is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 2 for Dr. Francisco Mercado, General, Manila
+Rating: 9/10
+Clinic visited: Bayanihan Medical Clinic
+Description: My back pain was taken seriously, examined properly and managed with simple exercises before any scans were considered. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Francisco Mercado, General, Manila
+Rating: 10/10
+Clinic visited: Bayanihan Medical Clinic
+Description: By the time I left the room, Dr. Francisco Mercado had sorted the sick note, referral letter and prescription refill. A same-day slot was found for me at Bayanihan Medical Clinic when I called with a worrying symptom.
+
+Review 4 for Dr. Francisco Mercado, General, Manila
+Rating: 10/10
+Clinic visited: Bayanihan Medical Clinic
+Description: My blood pressure had crept up and Dr. Francisco Mercado walked me through diet changes before suggesting anything else. Three months later my readings were normal. Paperwork at Bayanihan Medical Clinic was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 5 for Dr. Francisco Mercado, General, Manila
+Rating: 7/10
+Clinic visited: Bayanihan Medical Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 6 for Dr. Francisco Mercado, General, Manila
+Rating: 10/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Cholesterol results were explained by Dr. Francisco Mercado with a simple chart, and we agreed on a plan I could realistically follow. The nurse was friendly and efficient, and the whole visit with Dr. Francisco Mercado felt well organized from start to finish. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Francisco Mercado, General, Manila
+Rating: 10/10
+Clinic visited: Bayanihan Medical Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 8 for Dr. Francisco Mercado, General, Manila
+Rating: 10/10
+Clinic visited: Bayanihan Medical Clinic
+Description: He remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. Dr. Francisco Mercado used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 9 for Dr. Francisco Mercado, General, Manila
+Rating: 8/10
+Clinic visited: Bayanihan Medical Clinic
+Description: My annual check-up with Dr. Francisco Mercado took forty minutes, with every screening explained and nothing rushed.
+
+Review 10 for Dr. Francisco Mercado, General, Manila
+Rating: 8/10
+Clinic visited: Bayanihan Medical Clinic
+Description: Good at saying 'I don't know yet, let's test for that' instead of guessing. That honesty makes me trust the advice.
+
+Review 11 for Dr. Francisco Mercado, General, Manila
+Rating: 8/10
+Clinic visited: Bayanihan Medical Clinic
+Description: My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Overall rating for Dr. Francisco Mercado, General, Manila: 8.82/10 from 11 reviews

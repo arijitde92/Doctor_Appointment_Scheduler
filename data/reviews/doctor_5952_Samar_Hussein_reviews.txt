@@ -1,0 +1,49 @@
+Doctor: Dr. Samar Hussein
+Doctor ID: 5952
+Specialization: Pathology
+Gender: Female
+Years of experience: 5
+City: Giza, Egypt
+Clinics: Haram Health Practice (clinic ID 768)
+
+Review 1 for Dr. Samar Hussein, Pathology, Giza
+Rating: 7/10
+Clinic visited: Haram Health Practice
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Samar Hussein, Pathology, Giza
+Rating: 7/10
+Clinic visited: Haram Health Practice
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 3 for Dr. Samar Hussein, Pathology, Giza
+Rating: 10/10
+Clinic visited: Haram Health Practice
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Samar Hussein, Pathology, Giza
+Rating: 8/10
+Clinic visited: Haram Health Practice
+Description: She was upfront about what could and could not be treated, and did not oversell any option. Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Giza.
+
+Review 5 for Dr. Samar Hussein, Pathology, Giza
+Rating: 10/10
+Clinic visited: Haram Health Practice
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Allergy panel results were explained in detail by Dr. Samar Hussein, with a note on which results mattered clinically and which did not.
+
+Review 6 for Dr. Samar Hussein, Pathology, Giza
+Rating: 9/10
+Clinic visited: Haram Health Practice
+Description: Sensitive questions were handled by Dr. Samar Hussein with discretion and without a hint of judgment.
+
+Review 7 for Dr. Samar Hussein, Pathology, Giza
+Rating: 8/10
+Clinic visited: Haram Health Practice
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news.
+
+Review 8 for Dr. Samar Hussein, Pathology, Giza
+Rating: 7/10
+Clinic visited: Haram Health Practice
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Samar Hussein, Pathology, Giza: 8.25/10 from 8 reviews

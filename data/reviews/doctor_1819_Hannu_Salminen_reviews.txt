@@ -1,0 +1,64 @@
+Doctor: Dr. Hannu Salminen
+Doctor ID: 1819
+Specialization: Cardiology
+Gender: Male
+Years of experience: 3
+City: Espoo, Finland
+Clinics: Lääkärikeskus Matinkylä (clinic ID 237); Terveyskeskus Kauklahti Plus (clinic ID 239)
+
+Review 1 for Dr. Hannu Salminen, Cardiology, Espoo
+Rating: 6/10
+Clinic visited: Terveyskeskus Kauklahti Plus
+Description: Dr. Hannu Salminen adjusted my blood pressure medication carefully, though I had to call twice for a refill. Dr. Hannu Salminen was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Hannu Salminen, Cardiology, Espoo
+Rating: 8/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Dr. Hannu Salminen double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 3 for Dr. Hannu Salminen, Cardiology, Espoo
+Rating: 5/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Dr. Hannu Salminen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Hannu Salminen, Cardiology, Espoo
+Rating: 7/10
+Clinic visited: Terveyskeskus Kauklahti Plus
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. The echocardiogram staff were kind, but the results took over a week to be explained to me. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Hannu Salminen, Cardiology, Espoo
+Rating: 6/10
+Clinic visited: Terveyskeskus Kauklahti Plus
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 6 for Dr. Hannu Salminen, Cardiology, Espoo
+Rating: 6/10
+Clinic visited: Terveyskeskus Kauklahti Plus
+Description: Helpful with my cholesterol, Dr. Hannu Salminen still gave dietary advice that was a little generic. Good bedside manner from Dr. Hannu Salminen, but the parking near Terveyskeskus Kauklahti Plus is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Hannu Salminen, Cardiology, Espoo
+Rating: 7/10
+Clinic visited: Terveyskeskus Kauklahti Plus
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 8 for Dr. Hannu Salminen, Cardiology, Espoo
+Rating: 5/10
+Clinic visited: Terveyskeskus Kauklahti Plus
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 9 for Dr. Hannu Salminen, Cardiology, Espoo
+Rating: 5/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: Great care in the visit itself, but the billing for the tests at Lääkärikeskus Matinkylä was confusing. I liked the advice I got from Dr. Hannu Salminen, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 10 for Dr. Hannu Salminen, Cardiology, Espoo
+Rating: 5/10
+Clinic visited: Terveyskeskus Kauklahti Plus
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 11 for Dr. Hannu Salminen, Cardiology, Espoo
+Rating: 7/10
+Clinic visited: Lääkärikeskus Matinkylä
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Overall rating for Dr. Hannu Salminen, Cardiology, Espoo: 6.09/10 from 11 reviews

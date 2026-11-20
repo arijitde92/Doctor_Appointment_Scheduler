@@ -1,0 +1,64 @@
+Doctor: Dr. Sindisiwe Mkhize
+Doctor ID: 5723
+Specialization: Radiology
+Gender: Female
+Years of experience: 9
+City: Durban, South Africa
+Clinics: Umhlanga Ridge Family Practice (clinic ID 740); Westville Greens Health Practice (clinic ID 743)
+
+Review 1 for Dr. Sindisiwe Mkhize, Radiology, Durban
+Rating: 7/10
+Clinic visited: Umhlanga Ridge Family Practice
+Description: Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 2 for Dr. Sindisiwe Mkhize, Radiology, Durban
+Rating: 8/10
+Clinic visited: Umhlanga Ridge Family Practice
+Description: Images from Umhlanga Ridge Family Practice were uploaded to the patient portal the same afternoon, and sharing them with my specialist was effortless.
+
+Review 3 for Dr. Sindisiwe Mkhize, Radiology, Durban
+Rating: 8/10
+Clinic visited: Umhlanga Ridge Family Practice
+Description: Booking a CT scan online at Umhlanga Ridge Family Practice took two minutes, and I was in and out within forty minutes.
+
+Review 4 for Dr. Sindisiwe Mkhize, Radiology, Durban
+Rating: 8/10
+Clinic visited: Westville Greens Health Practice
+Description: When my scan showed something that needed a second look, Dr. Sindisiwe Mkhize arranged the follow-up the same day.
+
+Review 5 for Dr. Sindisiwe Mkhize, Radiology, Durban
+Rating: 6/10
+Clinic visited: Westville Greens Health Practice
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 6 for Dr. Sindisiwe Mkhize, Radiology, Durban
+Rating: 6/10
+Clinic visited: Westville Greens Health Practice
+Description: The report from Dr. Sindisiwe Mkhize was thorough, though full of technical terms that needed my regular doctor to translate. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Sindisiwe Mkhize, Radiology, Durban
+Rating: 8/10
+Clinic visited: Westville Greens Health Practice
+Description: Dr. Sindisiwe Mkhize compared my new scan with last year's and pointed out exactly what had stayed the same.
+
+Review 8 for Dr. Sindisiwe Mkhize, Radiology, Durban
+Rating: 8/10
+Clinic visited: Westville Greens Health Practice
+Description: A translator was arranged for my mother without us asking twice, and Dr. Sindisiwe Mkhize spoke directly to her throughout. She called me personally after my scan to explain the findings in plain language before I saw my own doctor.
+
+Review 9 for Dr. Sindisiwe Mkhize, Radiology, Durban
+Rating: 6/10
+Clinic visited: Westville Greens Health Practice
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 10 for Dr. Sindisiwe Mkhize, Radiology, Durban
+Rating: 7/10
+Clinic visited: Umhlanga Ridge Family Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I liked the advice I got from Dr. Sindisiwe Mkhize, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 11 for Dr. Sindisiwe Mkhize, Radiology, Durban
+Rating: 6/10
+Clinic visited: Umhlanga Ridge Family Practice
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Sindisiwe Mkhize, Radiology, Durban: 7.09/10 from 11 reviews

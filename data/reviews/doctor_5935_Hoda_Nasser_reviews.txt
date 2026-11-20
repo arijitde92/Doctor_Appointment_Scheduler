@@ -1,0 +1,59 @@
+Doctor: Dr. Hoda Nasser
+Doctor ID: 5935
+Specialization: General
+Gender: Female
+Years of experience: 12
+City: Giza, Egypt
+Clinics: Dokki Salam Family Clinic (clinic ID 766)
+
+Review 1 for Dr. Hoda Nasser, General, Giza
+Rating: 4/10
+Clinic visited: Dokki Salam Family Clinic
+Description: I came in about worsening headaches and was told to drink more water and relax, with no examination at all. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 2 for Dr. Hoda Nasser, General, Giza
+Rating: 7/10
+Clinic visited: Dokki Salam Family Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Quick appointment and a fair price in Giza, but the staff seemed overwhelmed and a bit curt on the phone. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Hoda Nasser, General, Giza
+Rating: 6/10
+Clinic visited: Dokki Salam Family Clinic
+Description: Referrals from Dr. Hoda Nasser are handled well, but getting test results back took longer than I was told to expect. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Hoda Nasser, General, Giza
+Rating: 5/10
+Clinic visited: Dokki Salam Family Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Dokki Salam Family Clinic were inconsistent. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Hoda Nasser, General, Giza
+Rating: 3/10
+Clinic visited: Dokki Salam Family Clinic
+Description: My persistent fatigue was brushed aside as stress by Dr. Hoda Nasser, and it took a second doctor to find the actual cause. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 6 for Dr. Hoda Nasser, General, Giza
+Rating: 5/10
+Clinic visited: Dokki Salam Family Clinic
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 7 for Dr. Hoda Nasser, General, Giza
+Rating: 7/10
+Clinic visited: Dokki Salam Family Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Hoda Nasser, General, Giza
+Rating: 4/10
+Clinic visited: Dokki Salam Family Clinic
+Description: The prescription from Dr. Hoda Nasser was not the one we discussed, and I only noticed when I got home. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 9 for Dr. Hoda Nasser, General, Giza
+Rating: 4/10
+Clinic visited: Dokki Salam Family Clinic
+Description: My lab results from Dokki Salam Family Clinic were never called in, and I only found them by chasing the front desk three times. I expected more, and I cannot in good conscience recommend it to friends.
+
+Review 10 for Dr. Hoda Nasser, General, Giza
+Rating: 4/10
+Clinic visited: Dokki Salam Family Clinic
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology. My visit with Dr. Hoda Nasser lasted barely six minutes, and I left with more questions than I arrived with.
+
+Overall rating for Dr. Hoda Nasser, General, Giza: 4.90/10 from 10 reviews

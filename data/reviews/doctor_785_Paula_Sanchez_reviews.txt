@@ -1,0 +1,59 @@
+Doctor: Dr. Paula Sánchez
+Doctor ID: 785
+Specialization: Cardiology
+Gender: Female
+Years of experience: 14
+City: Cordoba, Argentina
+Clinics: Policlínica General Paz (clinic ID 103)
+
+Review 1 for Dr. Paula Sánchez, Cardiology, Cordoba
+Rating: 9/10
+Clinic visited: Policlínica General Paz
+Description: The cardiology unit at Policlínica General Paz runs on time, and the technicians were professional during my echocardiogram.
+
+Review 2 for Dr. Paula Sánchez, Cardiology, Cordoba
+Rating: 6/10
+Clinic visited: Policlínica General Paz
+Description: Helpful with my cholesterol, Dr. Paula Sánchez still gave dietary advice that was a little generic. Quick appointment and a fair price in Cordoba, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Paula Sánchez, Cardiology, Cordoba
+Rating: 7/10
+Clinic visited: Policlínica General Paz
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Great care in the visit itself, but the billing for the tests at Policlínica General Paz was confusing.
+
+Review 4 for Dr. Paula Sánchez, Cardiology, Cordoba
+Rating: 6/10
+Clinic visited: Policlínica General Paz
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 5 for Dr. Paula Sánchez, Cardiology, Cordoba
+Rating: 8/10
+Clinic visited: Policlínica General Paz
+Description: I came away understanding my condition better than I have in years of previous appointments. Quick to coordinate with my regular doctor, so my medications were consistent across both offices.
+
+Review 6 for Dr. Paula Sánchez, Cardiology, Cordoba
+Rating: 7/10
+Clinic visited: Policlínica General Paz
+Description: Dr. Paula Sánchez adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 7 for Dr. Paula Sánchez, Cardiology, Cordoba
+Rating: 7/10
+Clinic visited: Policlínica General Paz
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 8 for Dr. Paula Sánchez, Cardiology, Cordoba
+Rating: 6/10
+Clinic visited: Policlínica General Paz
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 9 for Dr. Paula Sánchez, Cardiology, Cordoba
+Rating: 6/10
+Clinic visited: Policlínica General Paz
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Thorough exam and a good plan, yet the stress test appointment was almost a month away. I would come back, but only if the waiting time improves.
+
+Review 10 for Dr. Paula Sánchez, Cardiology, Cordoba
+Rating: 9/10
+Clinic visited: Policlínica General Paz
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. Results of my cardiac CT were sent through the portal the same day with a call to talk me through them.
+
+Overall rating for Dr. Paula Sánchez, Cardiology, Cordoba: 7.10/10 from 10 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Andrey Novikov
+Doctor ID: 3728
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 4
+City: Moscow, Russia
+Clinics: Klinika Zdorovaya Semya (clinic ID 481); Leninsky Family Polyclinic (clinic ID 482)
+
+Review 1 for Dr. Andrey Novikov, Pediatrics, Moscow
+Rating: 7/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Andrey Novikov, Pediatrics, Moscow
+Rating: 8/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: We got a same-day appointment for a high fever, and the care at Klinika Zdorovaya Semya was kind and efficient. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 3 for Dr. Andrey Novikov, Pediatrics, Moscow
+Rating: 8/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Our family has been coming for years, and he remembers each child's history and personality. Everything was explained in plain English by Dr. Andrey Novikov, and nothing was left to guess.
+
+Review 4 for Dr. Andrey Novikov, Pediatrics, Moscow
+Rating: 8/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: The growth chart review was detailed, and I appreciated that Dr. Andrey Novikov talked to my child as well as to me. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Andrey Novikov, Pediatrics, Moscow
+Rating: 7/10
+Clinic visited: Leninsky Family Polyclinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 6 for Dr. Andrey Novikov, Pediatrics, Moscow
+Rating: 9/10
+Clinic visited: Leninsky Family Polyclinic
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. I would happily recommend this doctor to friends and family.
+
+Review 7 for Dr. Andrey Novikov, Pediatrics, Moscow
+Rating: 10/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: Vaccination visits with Dr. Andrey Novikov are painless and well explained, and my questions about the schedule were answered without any pressure. Prescriptions from Dr. Andrey Novikov were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 8 for Dr. Andrey Novikov, Pediatrics, Moscow
+Rating: 10/10
+Clinic visited: Klinika Zdorovaya Semya
+Description: My toddler was terrified of doctors, but Dr. Andrey Novikov sat on the floor, played with a stuffed toy and examined everything without a single tear. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Andrey Novikov, Pediatrics, Moscow
+Rating: 10/10
+Clinic visited: Leninsky Family Polyclinic
+Description: My child's asthma action plan from Dr. Andrey Novikov was written out clearly so that school staff could follow it too. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable.
+
+Review 10 for Dr. Andrey Novikov, Pediatrics, Moscow
+Rating: 10/10
+Clinic visited: Leninsky Family Polyclinic
+Description: The waiting room in Moscow has a play corner and separate seating for sick children, which I really valued. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 11 for Dr. Andrey Novikov, Pediatrics, Moscow
+Rating: 10/10
+Clinic visited: Leninsky Family Polyclinic
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. The nurse was friendly and efficient, and the whole visit with Dr. Andrey Novikov felt well organized from start to finish.
+
+Overall rating for Dr. Andrey Novikov, Pediatrics, Moscow: 8.82/10 from 11 reviews

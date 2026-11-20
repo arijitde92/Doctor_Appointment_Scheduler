@@ -1,0 +1,59 @@
+Doctor: Dr. Arturo Ramírez Gómez
+Doctor ID: 436
+Specialization: Pathology
+Gender: Male
+Years of experience: 4
+City: Mexico City, Mexico
+Clinics: Clínica Santa Brígida (clinic ID 60)
+
+Review 1 for Dr. Arturo Ramírez Gómez, Pathology, Mexico City
+Rating: 7/10
+Clinic visited: Clínica Santa Brígida
+Description: Dr. Arturo Ramírez Gómez answered my questions kindly, though the call back took three days. Clear explanations, but the follow-up call took a week longer than I had been told. Decent care overall, and I will probably return unless I find something closer.
+
+Review 2 for Dr. Arturo Ramírez Gómez, Pathology, Mexico City
+Rating: 7/10
+Clinic visited: Clínica Santa Brígida
+Description: Quick appointment and a fair price in Mexico City, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 3 for Dr. Arturo Ramírez Gómez, Pathology, Mexico City
+Rating: 9/10
+Clinic visited: Clínica Santa Brígida
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Arturo Ramírez Gómez, Pathology, Mexico City
+Rating: 5/10
+Clinic visited: Clínica Santa Brígida
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Helpful in clarifying a borderline result, though Dr. Arturo Ramírez Gómez gave little guidance about whether to repeat it.
+
+Review 5 for Dr. Arturo Ramírez Gómez, Pathology, Mexico City
+Rating: 8/10
+Clinic visited: Clínica Santa Brígida
+Description: The lab at Clínica Santa Brígida had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 6 for Dr. Arturo Ramírez Gómez, Pathology, Mexico City
+Rating: 8/10
+Clinic visited: Clínica Santa Brígida
+Description: The waiting room at Clínica Santa Brígida was clean, quiet and comfortable, with enough seating and water available. Blood test results were clearly laid out with reference ranges and short notes in plain language. I have no hesitation sending my own relatives here.
+
+Review 7 for Dr. Arturo Ramírez Gómez, Pathology, Mexico City
+Rating: 9/10
+Clinic visited: Clínica Santa Brígida
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. I will be coming back for all my future check-ups.
+
+Review 8 for Dr. Arturo Ramírez Gómez, Pathology, Mexico City
+Rating: 7/10
+Clinic visited: Clínica Santa Brígida
+Description: Dr. Arturo Ramírez Gómez was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 9 for Dr. Arturo Ramírez Gómez, Pathology, Mexico City
+Rating: 10/10
+Clinic visited: Clínica Santa Brígida
+Description: Dr. Arturo Ramírez Gómez took the time to correlate the findings with my symptoms and recommended a repeat test only when necessary.
+
+Review 10 for Dr. Arturo Ramírez Gómez, Pathology, Mexico City
+Rating: 7/10
+Clinic visited: Clínica Santa Brígida
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. I got what I needed, but the next available appointment was three weeks away.
+
+Overall rating for Dr. Arturo Ramírez Gómez, Pathology, Mexico City: 7.70/10 from 10 reviews

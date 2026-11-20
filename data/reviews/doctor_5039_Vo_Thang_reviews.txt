@@ -1,0 +1,49 @@
+Doctor: Dr. Vo Thang
+Doctor ID: 5039
+Specialization: Psychology
+Gender: Male
+Years of experience: 4
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Da Khoa Hong Ngoc (clinic ID 651); Phong Kham Minh Tam (clinic ID 652)
+
+Review 1 for Dr. Vo Thang, Psychology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 2 for Dr. Vo Thang, Psychology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Minh Tam
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Vo Thang, Psychology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: Dr. Vo Thang was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 4 for Dr. Vo Thang, Psychology, Ho Chi Minh City
+Rating: 8/10
+Clinic visited: Phong Kham Minh Tam
+Description: My anxiety about presenting at work eased noticeably thanks to exposure exercises Dr. Vo Thang designed around my actual job.
+
+Review 5 for Dr. Vo Thang, Psychology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Hong Ngoc
+Description: I appreciated the written summary Dr. Vo Thang sent after each session and the short worksheets between visits.
+
+Review 6 for Dr. Vo Thang, Psychology, Ho Chi Minh City
+Rating: 10/10
+Clinic visited: Phong Kham Minh Tam
+Description: He has a calm way of asking the difficult questions that makes it feel safe to answer honestly. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 7 for Dr. Vo Thang, Psychology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Minh Tam
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 8 for Dr. Vo Thang, Psychology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Minh Tam
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. Quick appointment and a fair price in Ho Chi Minh City, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Overall rating for Dr. Vo Thang, Psychology, Ho Chi Minh City: 8.50/10 from 8 reviews

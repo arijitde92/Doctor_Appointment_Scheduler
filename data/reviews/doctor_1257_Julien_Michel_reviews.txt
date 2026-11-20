@@ -1,0 +1,54 @@
+Doctor: Dr. Julien Michel
+Doctor ID: 1257
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 10
+City: Marseille, France
+Clinics: Centre de Santé de la Joliette (clinic ID 163)
+
+Review 1 for Dr. Julien Michel, Gastroenterology, Marseille
+Rating: 6/10
+Clinic visited: Centre de Santé de la Joliette
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Julien Michel is thorough, but I waited nearly two months to get the first available slot.
+
+Review 2 for Dr. Julien Michel, Gastroenterology, Marseille
+Rating: 6/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Julien Michel, Gastroenterology, Marseille
+Rating: 7/10
+Clinic visited: Centre de Santé de la Joliette
+Description: The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Julien Michel, Gastroenterology, Marseille
+Rating: 6/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Knowledgeable about my reflux, Dr. Julien Michel still gave diet advice that felt generic and not tailored to my habits. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 5 for Dr. Julien Michel, Gastroenterology, Marseille
+Rating: 5/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Julien Michel, Gastroenterology, Marseille
+Rating: 6/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Julien Michel, Gastroenterology, Marseille
+Rating: 9/10
+Clinic visited: Centre de Santé de la Joliette
+Description: I was called in within five minutes of my appointment time at Centre de Santé de la Joliette, which is rare and much appreciated. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Julien Michel, Gastroenterology, Marseille
+Rating: 5/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 9 for Dr. Julien Michel, Gastroenterology, Marseille
+Rating: 9/10
+Clinic visited: Centre de Santé de la Joliette
+Description: Everything was explained in plain English by Dr. Julien Michel, and nothing was left to guess. Helpful dietitian referral from Dr. Julien Michel and written guidance for living with ulcerative colitis. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Overall rating for Dr. Julien Michel, Gastroenterology, Marseille: 6.56/10 from 9 reviews

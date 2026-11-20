@@ -1,0 +1,49 @@
+Doctor: Dr. Dirk Lejeune
+Doctor ID: 3150
+Specialization: Cardiology
+Gender: Male
+Years of experience: 29
+City: Ghent, Belgium
+Clinics: Medisch Centrum Vlasmarkt (clinic ID 409)
+
+Review 1 for Dr. Dirk Lejeune, Cardiology, Ghent
+Rating: 6/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Helpful with my cholesterol, Dr. Dirk Lejeune still gave dietary advice that was a little generic. The treatment plan from Dr. Dirk Lejeune made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Dirk Lejeune, Cardiology, Ghent
+Rating: 4/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: I was billed separately for tests that I understood to be part of the original consultation. Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen.
+
+Review 3 for Dr. Dirk Lejeune, Cardiology, Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 4 for Dr. Dirk Lejeune, Cardiology, Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Dr. Dirk Lejeune adjusted my blood pressure medication carefully, though I had to call twice for a refill. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Dirk Lejeune, Cardiology, Ghent
+Rating: 6/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Dirk Lejeune, Cardiology, Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped.
+
+Review 7 for Dr. Dirk Lejeune, Cardiology, Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Dirk Lejeune, Cardiology, Ghent
+Rating: 7/10
+Clinic visited: Medisch Centrum Vlasmarkt
+Description: Great care in the visit itself, but the billing for the tests at Medisch Centrum Vlasmarkt was confusing. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Dirk Lejeune, Cardiology, Ghent: 6.38/10 from 8 reviews

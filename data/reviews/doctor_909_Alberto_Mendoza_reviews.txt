@@ -1,0 +1,64 @@
+Doctor: Dr. Alberto Mendoza
+Doctor ID: 909
+Specialization: Radiology
+Gender: Male
+Years of experience: 6
+City: Arequipa, Peru
+Clinics: Instituto de Salud Cayma (clinic ID 119)
+
+Review 1 for Dr. Alberto Mendoza, Radiology, Arequipa
+Rating: 6/10
+Clinic visited: Instituto de Salud Cayma
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. My MRI was comfortable, but getting a copy of the images on disc took several requests. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Alberto Mendoza, Radiology, Arequipa
+Rating: 8/10
+Clinic visited: Instituto de Salud Cayma
+Description: The report from Dr. Alberto Mendoza was detailed but written so a non-medical person could follow it, with a short summary at the top. The receptionist at Instituto de Salud Cayma remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 3 for Dr. Alberto Mendoza, Radiology, Arequipa
+Rating: 10/10
+Clinic visited: Instituto de Salud Cayma
+Description: The waiting room at Instituto de Salud Cayma was clean, quiet and comfortable, with enough seating and water available. My ultrasound was unhurried, and Dr. Alberto Mendoza took time to show me the images and explain what each measurement meant.
+
+Review 4 for Dr. Alberto Mendoza, Radiology, Arequipa
+Rating: 7/10
+Clinic visited: Instituto de Salud Cayma
+Description: The report from Dr. Alberto Mendoza was thorough, though full of technical terms that needed my regular doctor to translate. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 5 for Dr. Alberto Mendoza, Radiology, Arequipa
+Rating: 5/10
+Clinic visited: Instituto de Salud Cayma
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. The treatment plan from Dr. Alberto Mendoza made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Alberto Mendoza, Radiology, Arequipa
+Rating: 5/10
+Clinic visited: Instituto de Salud Cayma
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Alberto Mendoza, Radiology, Arequipa
+Rating: 5/10
+Clinic visited: Instituto de Salud Cayma
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Alberto Mendoza, Radiology, Arequipa
+Rating: 4/10
+Clinic visited: Instituto de Salud Cayma
+Description: My images were not sent to my specialist as promised, so my consultation had to be postponed. I felt dismissed by Dr. Alberto Mendoza when I brought up a second concern, and was told to book another appointment for it.
+
+Review 9 for Dr. Alberto Mendoza, Radiology, Arequipa
+Rating: 8/10
+Clinic visited: Instituto de Salud Cayma
+Description: The mammogram was quicker and more comfortable than I feared, and the staff and Dr. Alberto Mendoza were respectful throughout.
+
+Review 10 for Dr. Alberto Mendoza, Radiology, Arequipa
+Rating: 6/10
+Clinic visited: Instituto de Salud Cayma
+Description: Dr. Alberto Mendoza answered my questions kindly, although I was told that detailed findings had to come from my referring doctor. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 11 for Dr. Alberto Mendoza, Radiology, Arequipa
+Rating: 7/10
+Clinic visited: Instituto de Salud Cayma
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Alberto Mendoza, Radiology, Arequipa: 6.45/10 from 11 reviews

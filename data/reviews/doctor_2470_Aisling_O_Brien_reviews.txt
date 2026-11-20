@@ -1,0 +1,59 @@
+Doctor: Dr. Aisling O'Brien
+Doctor ID: 2470
+Specialization: General
+Gender: Female
+Years of experience: 2
+City: Dublin, Ireland
+Clinics: Drumcondra Polyclinic (clinic ID 322); Smithfield Health Centre (clinic ID 324)
+
+Review 1 for Dr. Aisling O'Brien, General, Dublin
+Rating: 9/10
+Clinic visited: Drumcondra Polyclinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Dr. Aisling O'Brien spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 2 for Dr. Aisling O'Brien, General, Dublin
+Rating: 5/10
+Clinic visited: Smithfield Health Centre
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off.
+
+Review 3 for Dr. Aisling O'Brien, General, Dublin
+Rating: 5/10
+Clinic visited: Drumcondra Polyclinic
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 4 for Dr. Aisling O'Brien, General, Dublin
+Rating: 6/10
+Clinic visited: Drumcondra Polyclinic
+Description: Dr. Aisling O'Brien is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 5 for Dr. Aisling O'Brien, General, Dublin
+Rating: 8/10
+Clinic visited: Smithfield Health Centre
+Description: Getting to Smithfield Health Centre from across Dublin was easy, and the same-week appointment saved me an urgent care trip.
+
+Review 6 for Dr. Aisling O'Brien, General, Dublin
+Rating: 8/10
+Clinic visited: Drumcondra Polyclinic
+Description: As a new patient in Dublin, I felt welcomed at Drumcondra Polyclinic, and my whole history was reviewed in one relaxed visit. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Aisling O'Brien, General, Dublin
+Rating: 7/10
+Clinic visited: Smithfield Health Centre
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 8 for Dr. Aisling O'Brien, General, Dublin
+Rating: 7/10
+Clinic visited: Drumcondra Polyclinic
+Description: Referrals from Dr. Aisling O'Brien are handled well, but getting test results back took longer than I was told to expect. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Aisling O'Brien, General, Dublin
+Rating: 8/10
+Clinic visited: Drumcondra Polyclinic
+Description: Managing my type 2 diabetes with Dr. Aisling O'Brien has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 10 for Dr. Aisling O'Brien, General, Dublin
+Rating: 8/10
+Clinic visited: Drumcondra Polyclinic
+Description: Vaccination advice from Dr. Aisling O'Brien for my travel plans was thorough and specific to the countries I was visiting. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Overall rating for Dr. Aisling O'Brien, General, Dublin: 7.10/10 from 10 reviews

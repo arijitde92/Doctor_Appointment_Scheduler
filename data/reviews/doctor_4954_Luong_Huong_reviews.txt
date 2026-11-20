@@ -1,0 +1,64 @@
+Doctor: Dr. Luong Huong
+Doctor ID: 4954
+Specialization: Cardiology
+Gender: Female
+Years of experience: 9
+City: Hai Phong, Vietnam
+Clinics: Phong Kham Gia Dinh Viet Y (clinic ID 640); Phong Kham Hai Au (clinic ID 641); Phong Kham Da Khoa Tuong Lai (clinic ID 644)
+
+Review 1 for Dr. Luong Huong, Cardiology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Hai Au
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. The treatment plan from Dr. Luong Huong made sense, but I wished it had been written down for me to take away.
+
+Review 2 for Dr. Luong Huong, Cardiology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Viet Y
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. I liked the advice I got from Dr. Luong Huong, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 3 for Dr. Luong Huong, Cardiology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Gia Dinh Viet Y
+Description: She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. Dr. Luong Huong looked me in the eye, listened to the whole story and only then started typing. This is the first doctor I have trusted completely in years.
+
+Review 4 for Dr. Luong Huong, Cardiology, Hai Phong
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Great care in the visit itself, but the billing for the tests at Phong Kham Da Khoa Tuong Lai was confusing. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Luong Huong, Cardiology, Hai Phong
+Rating: 8/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: Dr. Luong Huong explained the difference between my statin options and let me weigh in on the choice.
+
+Review 6 for Dr. Luong Huong, Cardiology, Hai Phong
+Rating: 10/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. Dr. Luong Huong double-checked my allergy list before prescribing anything, and that careful habit earned my trust. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Luong Huong, Cardiology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: Dr. Luong Huong was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Luong Huong, Cardiology, Hai Phong
+Rating: 5/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 9 for Dr. Luong Huong, Cardiology, Hai Phong
+Rating: 9/10
+Clinic visited: Phong Kham Da Khoa Tuong Lai
+Description: Honest about the risks and benefits of the procedure, Dr. Luong Huong never pressured me toward surgery. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 10 for Dr. Luong Huong, Cardiology, Hai Phong
+Rating: 7/10
+Clinic visited: Phong Kham Hai Au
+Description: Helpful with my cholesterol, Dr. Luong Huong still gave dietary advice that was a little generic.
+
+Review 11 for Dr. Luong Huong, Cardiology, Hai Phong
+Rating: 6/10
+Clinic visited: Phong Kham Gia Dinh Viet Y
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Luong Huong, Cardiology, Hai Phong: 7.18/10 from 11 reviews

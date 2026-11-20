@@ -1,0 +1,64 @@
+Doctor: Dr. Diego Ramos
+Doctor ID: 914
+Specialization: Pathology
+Gender: Male
+Years of experience: 3
+City: Cusco, Peru
+Clinics: Clínica Wanchaq Salud (clinic ID 120)
+
+Review 1 for Dr. Diego Ramos, Pathology, Cusco
+Rating: 5/10
+Clinic visited: Clínica Wanchaq Salud
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Diego Ramos, Pathology, Cusco
+Rating: 8/10
+Clinic visited: Clínica Wanchaq Salud
+Description: Allergy panel results were explained in detail by Dr. Diego Ramos, with a note on which results mattered clinically and which did not. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Diego Ramos, Pathology, Cusco
+Rating: 7/10
+Clinic visited: Clínica Wanchaq Salud
+Description: Helpful in clarifying a borderline result, though Dr. Diego Ramos gave little guidance about whether to repeat it.
+
+Review 4 for Dr. Diego Ramos, Pathology, Cusco
+Rating: 8/10
+Clinic visited: Clínica Wanchaq Salud
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Diego Ramos, Pathology, Cusco
+Rating: 6/10
+Clinic visited: Clínica Wanchaq Salud
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 6 for Dr. Diego Ramos, Pathology, Cusco
+Rating: 8/10
+Clinic visited: Clínica Wanchaq Salud
+Description: The lab at Clínica Wanchaq Salud had a quick, friendly blood draw and the phlebotomist found my vein on the first try. Worth every minute of travel, and I would go again without a second thought.
+
+Review 7 for Dr. Diego Ramos, Pathology, Cusco
+Rating: 6/10
+Clinic visited: Clínica Wanchaq Salud
+Description: The blood draw was painless, but the waiting area at Clínica Wanchaq Salud was crowded in the early morning. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Diego Ramos, Pathology, Cusco
+Rating: 10/10
+Clinic visited: Clínica Wanchaq Salud
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day.
+
+Review 9 for Dr. Diego Ramos, Pathology, Cusco
+Rating: 7/10
+Clinic visited: Clínica Wanchaq Salud
+Description: Dr. Diego Ramos answered my questions kindly, though the call back took three days.
+
+Review 10 for Dr. Diego Ramos, Pathology, Cusco
+Rating: 8/10
+Clinic visited: Clínica Wanchaq Salud
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Blood test results were clearly laid out with reference ranges and short notes in plain language. My whole family is switching over after seeing how good the care was.
+
+Review 11 for Dr. Diego Ramos, Pathology, Cusco
+Rating: 7/10
+Clinic visited: Clínica Wanchaq Salud
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Overall rating for Dr. Diego Ramos, Pathology, Cusco: 7.27/10 from 11 reviews

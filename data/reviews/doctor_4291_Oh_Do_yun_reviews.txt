@@ -1,0 +1,54 @@
+Doctor: Dr. Oh Do-yun
+Doctor ID: 4291
+Specialization: Pathology
+Gender: Male
+Years of experience: 1
+City: Seoul, South Korea
+Clinics: Songpa Saenal Health Clinic (clinic ID 553)
+
+Review 1 for Dr. Oh Do-yun, Pathology, Seoul
+Rating: 5/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Oh Do-yun, Pathology, Seoul
+Rating: 7/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Oh Do-yun, Pathology, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Oh Do-yun, Pathology, Seoul
+Rating: 4/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. My biopsy result took nearly three weeks, and nobody could tell me why or when it would arrive.
+
+Review 5 for Dr. Oh Do-yun, Pathology, Seoul
+Rating: 8/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: I was nervous about the biopsy result, and the call from Dr. Oh Do-yun was gentle, honest and unhurried.
+
+Review 6 for Dr. Oh Do-yun, Pathology, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 7 for Dr. Oh Do-yun, Pathology, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: The blood draw was painless, but the waiting area at Songpa Saenal Health Clinic was crowded in the early morning. I got what I needed, but the next available appointment was three weeks away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 8 for Dr. Oh Do-yun, Pathology, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: Dr. Oh Do-yun answered my questions kindly, though the call back took three days. The treatment plan from Dr. Oh Do-yun made sense, but I wished it had been written down for me to take away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Oh Do-yun, Pathology, Seoul
+Rating: 6/10
+Clinic visited: Songpa Saenal Health Clinic
+Description: I liked the advice I got from Dr. Oh Do-yun, but I would have liked more time to ask follow-up questions before the visit ended. Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Oh Do-yun, Pathology, Seoul: 6.00/10 from 9 reviews

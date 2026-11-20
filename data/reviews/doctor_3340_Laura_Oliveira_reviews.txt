@@ -1,0 +1,54 @@
+Doctor: Dr. Laura Oliveira
+Doctor ID: 3340
+Specialization: General
+Gender: Female
+Years of experience: 15
+City: Luxembourg City, Luxembourg
+Clinics: Clinique Bonnevoie (clinic ID 433)
+
+Review 1 for Dr. Laura Oliveira, General, Luxembourg City
+Rating: 8/10
+Clinic visited: Clinique Bonnevoie
+Description: Booking online at Clinique Bonnevoie was simple, and I got a confirmation text with clear directions and a reminder the day before. I went in with months of tiredness, and Dr. Laura Oliveira ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back.
+
+Review 2 for Dr. Laura Oliveira, General, Luxembourg City
+Rating: 6/10
+Clinic visited: Clinique Bonnevoie
+Description: Booking was easy online, but the confirmation email contained the wrong address for Clinique Bonnevoie.
+
+Review 3 for Dr. Laura Oliveira, General, Luxembourg City
+Rating: 9/10
+Clinic visited: Clinique Bonnevoie
+Description: A same-day slot was found for me at Clinique Bonnevoie when I called with a worrying symptom.
+
+Review 4 for Dr. Laura Oliveira, General, Luxembourg City
+Rating: 5/10
+Clinic visited: Clinique Bonnevoie
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 5 for Dr. Laura Oliveira, General, Luxembourg City
+Rating: 4/10
+Clinic visited: Clinique Bonnevoie
+Description: Dr. Laura Oliveira did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 6 for Dr. Laura Oliveira, General, Luxembourg City
+Rating: 6/10
+Clinic visited: Clinique Bonnevoie
+Description: Dr. Laura Oliveira is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. Good bedside manner from Dr. Laura Oliveira, but the parking near Clinique Bonnevoie is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Laura Oliveira, General, Luxembourg City
+Rating: 4/10
+Clinic visited: Clinique Bonnevoie
+Description: Dr. Laura Oliveira seemed distracted by the computer screen throughout and missed that I had mentioned chest tightness twice.
+
+Review 8 for Dr. Laura Oliveira, General, Luxembourg City
+Rating: 7/10
+Clinic visited: Clinique Bonnevoie
+Description: Referrals from Dr. Laura Oliveira are handled well, but getting test results back took longer than I was told to expect. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 9 for Dr. Laura Oliveira, General, Luxembourg City
+Rating: 7/10
+Clinic visited: Clinique Bonnevoie
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Dr. Laura Oliveira was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Laura Oliveira, General, Luxembourg City: 6.22/10 from 9 reviews

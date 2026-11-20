@@ -1,0 +1,59 @@
+Doctor: Dr. Christopher Jackson
+Doctor ID: 6451
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 13
+City: Brisbane, Australia
+Clinics: Kookaburra Family Medicine (clinic ID 835)
+
+Review 1 for Dr. Christopher Jackson, Gastroenterology, Brisbane
+Rating: 6/10
+Clinic visited: Kookaburra Family Medicine
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Christopher Jackson, Gastroenterology, Brisbane
+Rating: 4/10
+Clinic visited: Kookaburra Family Medicine
+Description: I was charged separately for several items that had been described as included in the procedure. The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed.
+
+Review 3 for Dr. Christopher Jackson, Gastroenterology, Brisbane
+Rating: 5/10
+Clinic visited: Kookaburra Family Medicine
+Description: I liked the advice I got from Dr. Christopher Jackson, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Christopher Jackson, Gastroenterology, Brisbane
+Rating: 6/10
+Clinic visited: Kookaburra Family Medicine
+Description: Dr. Christopher Jackson is thorough, but I waited nearly two months to get the first available slot. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Christopher Jackson, Gastroenterology, Brisbane
+Rating: 5/10
+Clinic visited: Kookaburra Family Medicine
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 6 for Dr. Christopher Jackson, Gastroenterology, Brisbane
+Rating: 7/10
+Clinic visited: Kookaburra Family Medicine
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 7 for Dr. Christopher Jackson, Gastroenterology, Brisbane
+Rating: 4/10
+Clinic visited: Kookaburra Family Medicine
+Description: The bowel prep instructions from Dr. Christopher Jackson's office were contradictory, and I had to reschedule my colonoscopy because of the confusion.
+
+Review 8 for Dr. Christopher Jackson, Gastroenterology, Brisbane
+Rating: 6/10
+Clinic visited: Kookaburra Family Medicine
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 9 for Dr. Christopher Jackson, Gastroenterology, Brisbane
+Rating: 8/10
+Clinic visited: Kookaburra Family Medicine
+Description: My test results arrived in the portal within two days, together with a short note that made sense. My irritable bowel symptoms are finally under control thanks to a realistic plan involving diet changes and a food diary.
+
+Review 10 for Dr. Christopher Jackson, Gastroenterology, Brisbane
+Rating: 5/10
+Clinic visited: Kookaburra Family Medicine
+Description: Knowledgeable about my reflux, Dr. Christopher Jackson still gave diet advice that felt generic and not tailored to my habits. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Overall rating for Dr. Christopher Jackson, Gastroenterology, Brisbane: 5.60/10 from 10 reviews

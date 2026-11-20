@@ -1,0 +1,54 @@
+Doctor: Dr. Raj Bouchard
+Doctor ID: 266
+Specialization: Neurology
+Gender: Male
+Years of experience: 14
+City: Calgary, Canada
+Clinics: Bow Valley Health Practice (clinic ID 37)
+
+Review 1 for Dr. Raj Bouchard, Neurology, Calgary
+Rating: 7/10
+Clinic visited: Bow Valley Health Practice
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Raj Bouchard at Bow Valley Health Practice are difficult to schedule. The doctor was kind, though the clinic's evening hours are very limited for working people. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Raj Bouchard, Neurology, Calgary
+Rating: 8/10
+Clinic visited: Bow Valley Health Practice
+Description: The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 3 for Dr. Raj Bouchard, Neurology, Calgary
+Rating: 8/10
+Clinic visited: Bow Valley Health Practice
+Description: The EEG appointment ran on time, and Dr. Raj Bouchard reviewed the tracing with me the same week.
+
+Review 4 for Dr. Raj Bouchard, Neurology, Calgary
+Rating: 6/10
+Clinic visited: Bow Valley Health Practice
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested.
+
+Review 5 for Dr. Raj Bouchard, Neurology, Calgary
+Rating: 8/10
+Clinic visited: Bow Valley Health Practice
+Description: Dr. Raj Bouchard took my dizziness seriously, ruled out the dangerous causes and arranged effective balance therapy. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Raj Bouchard, Neurology, Calgary
+Rating: 9/10
+Clinic visited: Bow Valley Health Practice
+Description: Dr. Raj Bouchard drew a quick sketch to explain what was going on, which helped me remember it afterwards. He coordinated with my regular doctor so my medicine list was consistent in both offices.
+
+Review 7 for Dr. Raj Bouchard, Neurology, Calgary
+Rating: 10/10
+Clinic visited: Bow Valley Health Practice
+Description: The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Living with multiple sclerosis feels less frightening because Dr. Raj Bouchard explains and discusses every change in my plan. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Raj Bouchard, Neurology, Calgary
+Rating: 7/10
+Clinic visited: Bow Valley Health Practice
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months.
+
+Review 9 for Dr. Raj Bouchard, Neurology, Calgary
+Rating: 9/10
+Clinic visited: Bow Valley Health Practice
+Description: Excellent follow-up after my head injury, including a gradual return-to-work plan on paper. He was upfront about what could and could not be treated, and did not oversell any option. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Raj Bouchard, Neurology, Calgary: 8.00/10 from 9 reviews

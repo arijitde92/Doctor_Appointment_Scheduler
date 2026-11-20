@@ -1,0 +1,49 @@
+Doctor: Dr. Nathan Kim
+Doctor ID: 104
+Specialization: Pathology
+Gender: Male
+Years of experience: 12
+City: Chicago, USA
+Clinics: Lincoln Park Family Clinic (clinic ID 16)
+
+Review 1 for Dr. Nathan Kim, Pathology, Chicago
+Rating: 6/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Nathan Kim, Pathology, Chicago
+Rating: 5/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Nathan Kim gave little guidance about whether to repeat it.
+
+Review 3 for Dr. Nathan Kim, Pathology, Chicago
+Rating: 9/10
+Clinic visited: Lincoln Park Family Clinic
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen.
+
+Review 4 for Dr. Nathan Kim, Pathology, Chicago
+Rating: 5/10
+Clinic visited: Lincoln Park Family Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Dr. Nathan Kim answered my questions kindly, though the call back took three days.
+
+Review 5 for Dr. Nathan Kim, Pathology, Chicago
+Rating: 6/10
+Clinic visited: Lincoln Park Family Clinic
+Description: The blood draw was painless, but the waiting area at Lincoln Park Family Clinic was crowded in the early morning.
+
+Review 6 for Dr. Nathan Kim, Pathology, Chicago
+Rating: 6/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 7 for Dr. Nathan Kim, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 8 for Dr. Nathan Kim, Pathology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. The staff and Dr. Nathan Kim patiently went through my cholesterol and glucose numbers and explained what each meant for me. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Nathan Kim, Pathology, Chicago: 6.62/10 from 8 reviews

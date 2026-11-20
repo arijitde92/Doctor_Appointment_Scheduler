@@ -1,0 +1,49 @@
+Doctor: Dr. Stanislav Hrytsenko
+Doctor ID: 3646
+Specialization: Radiology
+Gender: Male
+Years of experience: 10
+City: Odesa, Ukraine
+Clinics: Pushkinska Family Clinic (clinic ID 471)
+
+Review 1 for Dr. Stanislav Hrytsenko, Radiology, Odesa
+Rating: 6/10
+Clinic visited: Pushkinska Family Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 2 for Dr. Stanislav Hrytsenko, Radiology, Odesa
+Rating: 4/10
+Clinic visited: Pushkinska Family Clinic
+Description: Appointment times were changed twice with no warning, and I took unpaid leave for a visit that did not happen. The technologist gave almost no instructions before my MRI, and I had to repeat part of the scan because I moved.
+
+Review 3 for Dr. Stanislav Hrytsenko, Radiology, Odesa
+Rating: 6/10
+Clinic visited: Pushkinska Family Clinic
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Stanislav Hrytsenko, Radiology, Odesa
+Rating: 5/10
+Clinic visited: Pushkinska Family Clinic
+Description: The report from Dr. Stanislav Hrytsenko was thorough, though full of technical terms that needed my regular doctor to translate. Dr. Stanislav Hrytsenko was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Decent care overall, and I will probably return unless I find something closer.
+
+Review 5 for Dr. Stanislav Hrytsenko, Radiology, Odesa
+Rating: 9/10
+Clinic visited: Pushkinska Family Clinic
+Description: The report from Dr. Stanislav Hrytsenko was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 6 for Dr. Stanislav Hrytsenko, Radiology, Odesa
+Rating: 6/10
+Clinic visited: Pushkinska Family Clinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Stanislav Hrytsenko, Radiology, Odesa
+Rating: 6/10
+Clinic visited: Pushkinska Family Clinic
+Description: Dr. Stanislav Hrytsenko answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 8 for Dr. Stanislav Hrytsenko, Radiology, Odesa
+Rating: 6/10
+Clinic visited: Pushkinska Family Clinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Good bedside manner from Dr. Stanislav Hrytsenko, but the parking near Pushkinska Family Clinic is limited and I had to circle for fifteen minutes.
+
+Overall rating for Dr. Stanislav Hrytsenko, Radiology, Odesa: 6.00/10 from 8 reviews

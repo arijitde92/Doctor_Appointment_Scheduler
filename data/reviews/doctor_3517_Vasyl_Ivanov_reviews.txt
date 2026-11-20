@@ -1,0 +1,69 @@
+Doctor: Dr. Vasyl Ivanov
+Doctor ID: 3517
+Specialization: Radiology
+Gender: Male
+Years of experience: 20
+City: Dnipro, Ukraine
+Clinics: Dniprovska Medical Centre (clinic ID 455)
+
+Review 1 for Dr. Vasyl Ivanov, Radiology, Dnipro
+Rating: 7/10
+Clinic visited: Dniprovska Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 2 for Dr. Vasyl Ivanov, Radiology, Dnipro
+Rating: 6/10
+Clinic visited: Dniprovska Medical Centre
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Dr. Vasyl Ivanov was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Vasyl Ivanov, Radiology, Dnipro
+Rating: 7/10
+Clinic visited: Dniprovska Medical Centre
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Vasyl Ivanov, Radiology, Dnipro
+Rating: 7/10
+Clinic visited: Dniprovska Medical Centre
+Description: The report from Dr. Vasyl Ivanov was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 5 for Dr. Vasyl Ivanov, Radiology, Dnipro
+Rating: 10/10
+Clinic visited: Dniprovska Medical Centre
+Description: The MRI technologist explained every noise and kept me informed through the headphones, and Dr. Vasyl Ivanov sent a clear report within a day.
+
+Review 6 for Dr. Vasyl Ivanov, Radiology, Dnipro
+Rating: 7/10
+Clinic visited: Dniprovska Medical Centre
+Description: The treatment plan from Dr. Vasyl Ivanov made sense, but I wished it had been written down for me to take away.
+
+Review 7 for Dr. Vasyl Ivanov, Radiology, Dnipro
+Rating: 9/10
+Clinic visited: Dniprovska Medical Centre
+Description: The report from Dr. Vasyl Ivanov was detailed but written so a non-medical person could follow it, with a short summary at the top. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Vasyl Ivanov, Radiology, Dnipro
+Rating: 6/10
+Clinic visited: Dniprovska Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away.
+
+Review 9 for Dr. Vasyl Ivanov, Radiology, Dnipro
+Rating: 5/10
+Clinic visited: Dniprovska Medical Centre
+Description: Dr. Vasyl Ivanov was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 10 for Dr. Vasyl Ivanov, Radiology, Dnipro
+Rating: 7/10
+Clinic visited: Dniprovska Medical Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 11 for Dr. Vasyl Ivanov, Radiology, Dnipro
+Rating: 7/10
+Clinic visited: Dniprovska Medical Centre
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Review 12 for Dr. Vasyl Ivanov, Radiology, Dnipro
+Rating: 4/10
+Clinic visited: Dniprovska Medical Centre
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. Dr. Vasyl Ivanov was never available to discuss my findings, and the report left me more confused than before. After this experience I am looking for a new doctor who will take time to listen.
+
+Overall rating for Dr. Vasyl Ivanov, Radiology, Dnipro: 6.83/10 from 12 reviews

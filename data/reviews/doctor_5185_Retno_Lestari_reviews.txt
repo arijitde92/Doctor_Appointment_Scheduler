@@ -1,0 +1,64 @@
+Doctor: Dr. Retno Lestari
+Doctor ID: 5185
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 1
+City: Surabaya, Indonesia
+Clinics: Klinik Sumber Waras Jaya (clinic ID 670); Klinik Mitra Sehat (clinic ID 671)
+
+Review 1 for Dr. Retno Lestari, Pediatrics, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Retno Lestari, Pediatrics, Surabaya
+Rating: 9/10
+Clinic visited: Klinik Mitra Sehat
+Description: I phoned after hours about a fever and was called back within the hour with calm, sensible advice. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 3 for Dr. Retno Lestari, Pediatrics, Surabaya
+Rating: 9/10
+Clinic visited: Klinik Mitra Sehat
+Description: My toddler was terrified of doctors, but Dr. Retno Lestari sat on the floor, played with a stuffed toy and examined everything without a single tear. The practice in Surabaya is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 4 for Dr. Retno Lestari, Pediatrics, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 5 for Dr. Retno Lestari, Pediatrics, Surabaya
+Rating: 6/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait.
+
+Review 6 for Dr. Retno Lestari, Pediatrics, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Mitra Sehat
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 7 for Dr. Retno Lestari, Pediatrics, Surabaya
+Rating: 5/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 8 for Dr. Retno Lestari, Pediatrics, Surabaya
+Rating: 8/10
+Clinic visited: Klinik Sumber Waras Jaya
+Description: Clear guidance on starting solid foods and managing allergies, with a written list of what to try first. Dr. Retno Lestari drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 9 for Dr. Retno Lestari, Pediatrics, Surabaya
+Rating: 9/10
+Clinic visited: Klinik Mitra Sehat
+Description: Dr. Retno Lestari noticed a speech delay early and referred us to a therapist, which has made a real difference.
+
+Review 10 for Dr. Retno Lestari, Pediatrics, Surabaya
+Rating: 7/10
+Clinic visited: Klinik Mitra Sehat
+Description: Caring and gentle with my child, Dr. Retno Lestari nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 11 for Dr. Retno Lestari, Pediatrics, Surabaya
+Rating: 9/10
+Clinic visited: Klinik Mitra Sehat
+Description: Vaccination visits with Dr. Retno Lestari are painless and well explained, and my questions about the schedule were answered without any pressure.
+
+Overall rating for Dr. Retno Lestari, Pediatrics, Surabaya: 7.64/10 from 11 reviews

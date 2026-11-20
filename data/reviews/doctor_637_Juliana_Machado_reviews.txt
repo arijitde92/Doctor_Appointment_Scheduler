@@ -1,0 +1,59 @@
+Doctor: Dr. Juliana Machado
+Doctor ID: 637
+Specialization: Cardiology
+Gender: Female
+Years of experience: 25
+City: Rio de Janeiro, Brazil
+Clinics: Clínica Copacabana Bem-Estar (clinic ID 85); Centro Médico Ipanema Sul (clinic ID 86); Policlínica Barra Saúde (clinic ID 87)
+
+Review 1 for Dr. Juliana Machado, Cardiology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Clínica Copacabana Bem-Estar
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 2 for Dr. Juliana Machado, Cardiology, Rio de Janeiro
+Rating: 10/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Dr. Juliana Machado looked me in the eye, listened to the whole story and only then started typing. I never felt rushed while asking about my family history of heart disease, and the screening plan was tailored to me. Worth every minute of travel, and I would go again without a second thought.
+
+Review 3 for Dr. Juliana Machado, Cardiology, Rio de Janeiro
+Rating: 10/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Prescriptions from Dr. Juliana Machado were sent to my pharmacy before I even left the building, and the dosage instructions were written down. Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans.
+
+Review 4 for Dr. Juliana Machado, Cardiology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Policlínica Barra Saúde
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 5 for Dr. Juliana Machado, Cardiology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Policlínica Barra Saúde
+Description: I got what I needed, but the next available appointment was three weeks away. Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule.
+
+Review 6 for Dr. Juliana Machado, Cardiology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Clínica Copacabana Bem-Estar
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 7 for Dr. Juliana Machado, Cardiology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Clínica Copacabana Bem-Estar
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Juliana Machado, Cardiology, Rio de Janeiro
+Rating: 6/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Dr. Juliana Machado adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 9 for Dr. Juliana Machado, Cardiology, Rio de Janeiro
+Rating: 7/10
+Clinic visited: Policlínica Barra Saúde
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. Dr. Juliana Machado was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 10 for Dr. Juliana Machado, Cardiology, Rio de Janeiro
+Rating: 8/10
+Clinic visited: Centro Médico Ipanema Sul
+Description: Results of my cardiac CT were sent through the portal the same day with a call to talk me through them. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Overall rating for Dr. Juliana Machado, Cardiology, Rio de Janeiro: 7.30/10 from 10 reviews

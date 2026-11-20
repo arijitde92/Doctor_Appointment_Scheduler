@@ -1,0 +1,59 @@
+Doctor: Dr. Sondre Nilsen
+Doctor ID: 2017
+Specialization: Pathology
+Gender: Male
+Years of experience: 3
+City: Oslo, Norway
+Clinics: Legekontoret Grønland (clinic ID 263)
+
+Review 1 for Dr. Sondre Nilsen, Pathology, Oslo
+Rating: 6/10
+Clinic visited: Legekontoret Grønland
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. The blood draw was painless, but the waiting area at Legekontoret Grønland was crowded in the early morning.
+
+Review 2 for Dr. Sondre Nilsen, Pathology, Oslo
+Rating: 5/10
+Clinic visited: Legekontoret Grønland
+Description: Helpful in clarifying a borderline result, though Dr. Sondre Nilsen gave little guidance about whether to repeat it. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Sondre Nilsen, Pathology, Oslo
+Rating: 9/10
+Clinic visited: Legekontoret Grønland
+Description: I was called in within five minutes of my appointment time at Legekontoret Grønland, which is rare and much appreciated.
+
+Review 4 for Dr. Sondre Nilsen, Pathology, Oslo
+Rating: 6/10
+Clinic visited: Legekontoret Grønland
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 5 for Dr. Sondre Nilsen, Pathology, Oslo
+Rating: 8/10
+Clinic visited: Legekontoret Grønland
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Sondre Nilsen, Pathology, Oslo
+Rating: 6/10
+Clinic visited: Legekontoret Grønland
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 7 for Dr. Sondre Nilsen, Pathology, Oslo
+Rating: 7/10
+Clinic visited: Legekontoret Grønland
+Description: Dr. Sondre Nilsen answered my questions kindly, though the call back took three days. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I would come back, but only if the waiting time improves.
+
+Review 8 for Dr. Sondre Nilsen, Pathology, Oslo
+Rating: 9/10
+Clinic visited: Legekontoret Grønland
+Description: Dr. Sondre Nilsen used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 9 for Dr. Sondre Nilsen, Pathology, Oslo
+Rating: 9/10
+Clinic visited: Legekontoret Grønland
+Description: He explained how the pathology findings would shape my treatment, and I felt properly informed for my oncology visit. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 10 for Dr. Sondre Nilsen, Pathology, Oslo
+Rating: 9/10
+Clinic visited: Legekontoret Grønland
+Description: Dr. Sondre Nilsen drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Overall rating for Dr. Sondre Nilsen, Pathology, Oslo: 7.40/10 from 10 reviews

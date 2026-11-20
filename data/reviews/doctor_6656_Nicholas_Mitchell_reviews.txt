@@ -1,0 +1,64 @@
+Doctor: Dr. Nicholas Mitchell
+Doctor ID: 6656
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 10
+City: Christchurch, New Zealand
+Clinics: Taupo Street Doctors (clinic ID 863)
+
+Review 1 for Dr. Nicholas Mitchell, Pulmonology, Christchurch
+Rating: 8/10
+Clinic visited: Taupo Street Doctors
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Christchurch.
+
+Review 2 for Dr. Nicholas Mitchell, Pulmonology, Christchurch
+Rating: 6/10
+Clinic visited: Taupo Street Doctors
+Description: Pleasant manner and careful lung exam, though the waiting time at Taupo Street Doctors regularly exceeded forty minutes. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 3 for Dr. Nicholas Mitchell, Pulmonology, Christchurch
+Rating: 7/10
+Clinic visited: Taupo Street Doctors
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 4 for Dr. Nicholas Mitchell, Pulmonology, Christchurch
+Rating: 8/10
+Clinic visited: Taupo Street Doctors
+Description: At Taupo Street Doctors, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable. He was upfront about what could and could not be treated, and did not oversell any option.
+
+Review 5 for Dr. Nicholas Mitchell, Pulmonology, Christchurch
+Rating: 7/10
+Clinic visited: Taupo Street Doctors
+Description: Helpful and honest about my prognosis, Dr. Nicholas Mitchell could still have given me more written material to take home. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Nicholas Mitchell, Pulmonology, Christchurch
+Rating: 8/10
+Clinic visited: Taupo Street Doctors
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks. The advice was realistic and fit my budget, with generic medicine suggested where it was suitable. Highly recommended, and I have already told two colleagues about it.
+
+Review 7 for Dr. Nicholas Mitchell, Pulmonology, Christchurch
+Rating: 9/10
+Clinic visited: Taupo Street Doctors
+Description: Prescriptions from Dr. Nicholas Mitchell were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 8 for Dr. Nicholas Mitchell, Pulmonology, Christchurch
+Rating: 7/10
+Clinic visited: Taupo Street Doctors
+Description: Knowledgeable about my COPD, though the visits are short and I often think of questions afterwards. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Nicholas Mitchell, Pulmonology, Christchurch
+Rating: 4/10
+Clinic visited: Taupo Street Doctors
+Description: The visit felt rushed, and Dr. Nicholas Mitchell was already halfway out the door when I started to describe my second symptom.
+
+Review 10 for Dr. Nicholas Mitchell, Pulmonology, Christchurch
+Rating: 4/10
+Clinic visited: Taupo Street Doctors
+Description: I called twice about worsening symptoms and no one returned my message until the following week. I would not recommend this practice, and I have transferred my records elsewhere.
+
+Review 11 for Dr. Nicholas Mitchell, Pulmonology, Christchurch
+Rating: 9/10
+Clinic visited: Taupo Street Doctors
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Overall rating for Dr. Nicholas Mitchell, Pulmonology, Christchurch: 7.00/10 from 11 reviews

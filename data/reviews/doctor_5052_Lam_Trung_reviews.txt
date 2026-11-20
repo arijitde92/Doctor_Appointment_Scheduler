@@ -1,0 +1,49 @@
+Doctor: Dr. Lam Trung
+Doctor ID: 5052
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 13
+City: Ho Chi Minh City, Vietnam
+Clinics: Phong Kham Gia Dinh Hanh Phuc (clinic ID 653)
+
+Review 1 for Dr. Lam Trung, Pulmonology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked.
+
+Review 2 for Dr. Lam Trung, Pulmonology, Ho Chi Minh City
+Rating: 4/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: I waited over an hour past my appointment time and nobody at the desk offered an update or an apology.
+
+Review 3 for Dr. Lam Trung, Pulmonology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it. Booking was easy online, but the confirmation email contained the wrong address for Phong Kham Gia Dinh Hanh Phuc. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Lam Trung, Pulmonology, Ho Chi Minh City
+Rating: 6/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: Helpful and honest about my prognosis, Dr. Lam Trung could still have given me more written material to take home. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Lam Trung, Pulmonology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: Paperwork at Phong Kham Gia Dinh Hanh Phuc was kept to a minimum, and the staff helped me complete the insurance form. Quitting smoking felt possible for the first time because the advice from Dr. Lam Trung was practical and never preachy.
+
+Review 6 for Dr. Lam Trung, Pulmonology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: Pleasant manner and careful lung exam, though the waiting time at Phong Kham Gia Dinh Hanh Phuc regularly exceeded forty minutes. Good bedside manner from Dr. Lam Trung, but the parking near Phong Kham Gia Dinh Hanh Phuc is limited and I had to circle for fifteen minutes.
+
+Review 7 for Dr. Lam Trung, Pulmonology, Ho Chi Minh City
+Rating: 9/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Ho Chi Minh City. The visit began with a short, friendly chat that put me at ease before any examination started. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Lam Trung, Pulmonology, Ho Chi Minh City
+Rating: 7/10
+Clinic visited: Phong Kham Gia Dinh Hanh Phuc
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Lam Trung, Pulmonology, Ho Chi Minh City: 7.00/10 from 8 reviews

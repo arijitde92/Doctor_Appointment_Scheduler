@@ -1,0 +1,49 @@
+Doctor: Dr. Duong Hoa
+Doctor ID: 4998
+Specialization: General
+Gender: Male
+Years of experience: 20
+City: Hanoi, Vietnam
+Clinics: Phong Kham Binh An (clinic ID 646); Phong Kham An Khang Plus (clinic ID 649)
+
+Review 1 for Dr. Duong Hoa, General, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham Binh An
+Description: Cholesterol results were explained by Dr. Duong Hoa with a simple chart, and we agreed on a plan I could realistically follow. The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 2 for Dr. Duong Hoa, General, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Binh An
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Phong Kham Binh An were inconsistent. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Duong Hoa, General, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Dr. Duong Hoa is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Duong Hoa, General, Hanoi
+Rating: 8/10
+Clinic visited: Phong Kham An Khang Plus
+Description: I was called in within five minutes of my appointment time at Phong Kham An Khang Plus, which is rare and much appreciated. I have no hesitation sending my own relatives here.
+
+Review 5 for Dr. Duong Hoa, General, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham An Khang Plus
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I would come back, but only if the waiting time improves.
+
+Review 6 for Dr. Duong Hoa, General, Hanoi
+Rating: 6/10
+Clinic visited: Phong Kham Binh An
+Description: I like that he listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 7 for Dr. Duong Hoa, General, Hanoi
+Rating: 5/10
+Clinic visited: Phong Kham Binh An
+Description: Referrals from Dr. Duong Hoa are handled well, but getting test results back took longer than I was told to expect. Dr. Duong Hoa was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Duong Hoa, General, Hanoi
+Rating: 7/10
+Clinic visited: Phong Kham An Khang Plus
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. I liked the advice I got from Dr. Duong Hoa, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Duong Hoa, General, Hanoi: 6.62/10 from 8 reviews

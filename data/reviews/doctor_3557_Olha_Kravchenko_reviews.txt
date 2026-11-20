@@ -1,0 +1,59 @@
+Doctor: Dr. Olha Kravchenko
+Doctor ID: 3557
+Specialization: Radiology
+Gender: Female
+Years of experience: 2
+City: Kyiv, Ukraine
+Clinics: Zdorovya Rodyny Medical Centre (clinic ID 460)
+
+Review 1 for Dr. Olha Kravchenko, Radiology, Kyiv
+Rating: 7/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 2 for Dr. Olha Kravchenko, Radiology, Kyiv
+Rating: 4/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: The staff seemed rushed and impatient with an elderly patient who needed help changing. The prescription from Dr. Olha Kravchenko was not the one we discussed, and I only noticed when I got home.
+
+Review 3 for Dr. Olha Kravchenko, Radiology, Kyiv
+Rating: 6/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 4 for Dr. Olha Kravchenko, Radiology, Kyiv
+Rating: 9/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 5 for Dr. Olha Kravchenko, Radiology, Kyiv
+Rating: 5/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. The treatment plan from Dr. Olha Kravchenko made sense, but I wished it had been written down for me to take away.
+
+Review 6 for Dr. Olha Kravchenko, Radiology, Kyiv
+Rating: 7/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: The report from Dr. Olha Kravchenko was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 7 for Dr. Olha Kravchenko, Radiology, Kyiv
+Rating: 7/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Review 8 for Dr. Olha Kravchenko, Radiology, Kyiv
+Rating: 7/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 9 for Dr. Olha Kravchenko, Radiology, Kyiv
+Rating: 6/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 10 for Dr. Olha Kravchenko, Radiology, Kyiv
+Rating: 5/10
+Clinic visited: Zdorovya Rodyny Medical Centre
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray.
+
+Overall rating for Dr. Olha Kravchenko, Radiology, Kyiv: 6.30/10 from 10 reviews

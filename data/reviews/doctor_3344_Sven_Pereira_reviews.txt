@@ -1,0 +1,64 @@
+Doctor: Dr. Sven Pereira
+Doctor ID: 3344
+Specialization: Cardiology
+Gender: Male
+Years of experience: 2
+City: Luxembourg City, Luxembourg
+Clinics: Centre de Santé Belair (clinic ID 434)
+
+Review 1 for Dr. Sven Pereira, Cardiology, Luxembourg City
+Rating: 4/10
+Clinic visited: Centre de Santé Belair
+Description: I was billed separately for tests that I understood to be part of the original consultation.
+
+Review 2 for Dr. Sven Pereira, Cardiology, Luxembourg City
+Rating: 7/10
+Clinic visited: Centre de Santé Belair
+Description: Great care in the visit itself, but the billing for the tests at Centre de Santé Belair was confusing. Booking was easy online, but the confirmation email contained the wrong address for Centre de Santé Belair.
+
+Review 3 for Dr. Sven Pereira, Cardiology, Luxembourg City
+Rating: 8/10
+Clinic visited: Centre de Santé Belair
+Description: My test results arrived in the portal within two days, together with a short note that made sense. My stress test was supervised carefully, and Dr. Sven Pereira reviewed the results in the same visit with a plan for my cholesterol. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Sven Pereira, Cardiology, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre de Santé Belair
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Review 5 for Dr. Sven Pereira, Cardiology, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre de Santé Belair
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. Dr. Sven Pereira was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Sven Pereira, Cardiology, Luxembourg City
+Rating: 8/10
+Clinic visited: Centre de Santé Belair
+Description: Paperwork at Centre de Santé Belair was kept to a minimum, and the staff helped me complete the insurance form.
+
+Review 7 for Dr. Sven Pereira, Cardiology, Luxembourg City
+Rating: 9/10
+Clinic visited: Centre de Santé Belair
+Description: I was anxious about my chest pain, but he took it seriously and ran the right tests the same morning. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Sven Pereira, Cardiology, Luxembourg City
+Rating: 7/10
+Clinic visited: Centre de Santé Belair
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Sven Pereira adjusted my blood pressure medication carefully, though I had to call twice for a refill. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 9 for Dr. Sven Pereira, Cardiology, Luxembourg City
+Rating: 7/10
+Clinic visited: Centre de Santé Belair
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 10 for Dr. Sven Pereira, Cardiology, Luxembourg City
+Rating: 9/10
+Clinic visited: Centre de Santé Belair
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Clear and calm advice at Centre de Santé Belair about exercise after my stent, including a gradual written schedule. My whole family is switching over after seeing how good the care was.
+
+Review 11 for Dr. Sven Pereira, Cardiology, Luxembourg City
+Rating: 6/10
+Clinic visited: Centre de Santé Belair
+Description: Helpful with my cholesterol, Dr. Sven Pereira still gave dietary advice that was a little generic. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Overall rating for Dr. Sven Pereira, Cardiology, Luxembourg City: 7.00/10 from 11 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Pauline Durand
+Doctor ID: 1229
+Specialization: Pathology
+Gender: Female
+Years of experience: 22
+City: Marseille, France
+Clinics: Centre Médical du Vieux-Port (clinic ID 160)
+
+Review 1 for Dr. Pauline Durand, Pathology, Marseille
+Rating: 3/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Dr. Pauline Durand was never available to talk about my result, and the front desk repeated that I should ask my referring physician.
+
+Review 2 for Dr. Pauline Durand, Pathology, Marseille
+Rating: 5/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Pauline Durand, Pathology, Marseille
+Rating: 5/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people.
+
+Review 4 for Dr. Pauline Durand, Pathology, Marseille
+Rating: 5/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: The blood draw was painless, but the waiting area at Centre Médical du Vieux-Port was crowded in the early morning. The treatment plan from Dr. Pauline Durand made sense, but I wished it had been written down for me to take away.
+
+Review 5 for Dr. Pauline Durand, Pathology, Marseille
+Rating: 9/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Getting to Centre Médical du Vieux-Port by public transport in Marseille was easy, and there is a step-free entrance for wheelchairs. Blood test results were clearly laid out with reference ranges and short notes in plain language. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Pauline Durand, Pathology, Marseille
+Rating: 4/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Billing mistakes persisted for months, with several incorrect statements and no clear contact to resolve them. The staff were curt and impatient when I asked how to read the reference ranges on my report.
+
+Review 7 for Dr. Pauline Durand, Pathology, Marseille
+Rating: 5/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Helpful in clarifying a borderline result, though Dr. Pauline Durand gave little guidance about whether to repeat it. Dr. Pauline Durand was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 8 for Dr. Pauline Durand, Pathology, Marseille
+Rating: 5/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy.
+
+Review 9 for Dr. Pauline Durand, Pathology, Marseille
+Rating: 5/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Worth trying, but I would not call it the best option in the area.
+
+Review 10 for Dr. Pauline Durand, Pathology, Marseille
+Rating: 4/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: The report was handed over by Dr. Pauline Durand with no explanation, and I left frightened and confused about the terminology. The waiting room at Centre Médical du Vieux-Port was overcrowded and there was nowhere to sit, even for elderly patients.
+
+Review 11 for Dr. Pauline Durand, Pathology, Marseille
+Rating: 2/10
+Clinic visited: Centre Médical du Vieux-Port
+Description: My sample was labelled incorrectly and I had to return for a repeat blood draw.
+
+Overall rating for Dr. Pauline Durand, Pathology, Marseille: 4.73/10 from 11 reviews

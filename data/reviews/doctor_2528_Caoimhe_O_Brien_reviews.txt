@@ -1,0 +1,54 @@
+Doctor: Dr. Caoimhe O'Brien
+Doctor ID: 2528
+Specialization: General
+Gender: Female
+Years of experience: 28
+City: Limerick, Ireland
+Clinics: O'Connell Street Medical Practice (clinic ID 330)
+
+Review 1 for Dr. Caoimhe O'Brien, General, Limerick
+Rating: 10/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Cholesterol results were explained by Dr. Caoimhe O'Brien with a simple chart, and we agreed on a plan I could realistically follow. Five stars from me, and I would book again tomorrow.
+
+Review 2 for Dr. Caoimhe O'Brien, General, Limerick
+Rating: 5/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Dr. Caoimhe O'Brien was thoughtful and clear, though the front desk was disorganized and lost my first referral form. I like that she listens to the full story, even if it means the appointment runs behind schedule.
+
+Review 3 for Dr. Caoimhe O'Brien, General, Limerick
+Rating: 7/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 4 for Dr. Caoimhe O'Brien, General, Limerick
+Rating: 7/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Dr. Caoimhe O'Brien is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Caoimhe O'Brien, General, Limerick
+Rating: 6/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Referrals from Dr. Caoimhe O'Brien are handled well, but getting test results back took longer than I was told to expect. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Caoimhe O'Brien, General, Limerick
+Rating: 8/10
+Clinic visited: O'Connell Street Medical Practice
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute.
+
+Review 7 for Dr. Caoimhe O'Brien, General, Limerick
+Rating: 6/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from O'Connell Street Medical Practice were inconsistent. Booking was easy online, but the confirmation email contained the wrong address for O'Connell Street Medical Practice. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Caoimhe O'Brien, General, Limerick
+Rating: 9/10
+Clinic visited: O'Connell Street Medical Practice
+Description: Best family doctor I have had; She treats the whole person and not just the symptom list. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 9 for Dr. Caoimhe O'Brien, General, Limerick
+Rating: 6/10
+Clinic visited: O'Connell Street Medical Practice
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Overall rating for Dr. Caoimhe O'Brien, General, Limerick: 7.11/10 from 9 reviews

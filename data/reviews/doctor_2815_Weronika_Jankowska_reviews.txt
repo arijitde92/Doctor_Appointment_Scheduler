@@ -1,0 +1,69 @@
+Doctor: Dr. Weronika Jankowska
+Doctor ID: 2815
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 12
+City: Warsaw, Poland
+Clinics: Gabinety Lekarskie Śródmieście (clinic ID 368)
+
+Review 1 for Dr. Weronika Jankowska, Psychiatry, Warsaw
+Rating: 7/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Good listener, yet the refill process at Gabinety Lekarskie Śródmieście is slow and requires several phone calls. Worth trying, but I would not call it the best option in the area.
+
+Review 2 for Dr. Weronika Jankowska, Psychiatry, Warsaw
+Rating: 7/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 3 for Dr. Weronika Jankowska, Psychiatry, Warsaw
+Rating: 5/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only.
+
+Review 4 for Dr. Weronika Jankowska, Psychiatry, Warsaw
+Rating: 9/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: My depression finally has a treatment plan from Dr. Weronika Jankowska that works, with regular check-ins and careful dose changes. Sensitive questions were handled by Dr. Weronika Jankowska with discretion and without a hint of judgment.
+
+Review 5 for Dr. Weronika Jankowska, Psychiatry, Warsaw
+Rating: 6/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 6 for Dr. Weronika Jankowska, Psychiatry, Warsaw
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Excellent at explaining how therapy and medication work together, and Dr. Weronika Jankowska coordinated with my counselor. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 7 for Dr. Weronika Jankowska, Psychiatry, Warsaw
+Rating: 5/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 8 for Dr. Weronika Jankowska, Psychiatry, Warsaw
+Rating: 7/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 9 for Dr. Weronika Jankowska, Psychiatry, Warsaw
+Rating: 5/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Dr. Weronika Jankowska is knowledgeable, though I waited several weeks for my first appointment. Dr. Weronika Jankowska was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 10 for Dr. Weronika Jankowska, Psychiatry, Warsaw
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: Never once did Dr. Weronika Jankowska make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 11 for Dr. Weronika Jankowska, Psychiatry, Warsaw
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. Five stars from me, and I would book again tomorrow.
+
+Review 12 for Dr. Weronika Jankowska, Psychiatry, Warsaw
+Rating: 8/10
+Clinic visited: Gabinety Lekarskie Śródmieście
+Description: The ADHD assessment by Dr. Weronika Jankowska was careful and detailed, with clear written conclusions and realistic expectations.
+
+Overall rating for Dr. Weronika Jankowska, Psychiatry, Warsaw: 6.92/10 from 12 reviews

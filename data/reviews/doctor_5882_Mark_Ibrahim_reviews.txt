@@ -1,0 +1,49 @@
+Doctor: Dr. Mark Ibrahim
+Doctor ID: 5882
+Specialization: Radiology
+Gender: Male
+Years of experience: 21
+City: Cairo, Egypt
+Clinics: Nile Garden Family Clinic (clinic ID 760)
+
+Review 1 for Dr. Mark Ibrahim, Radiology, Cairo
+Rating: 8/10
+Clinic visited: Nile Garden Family Clinic
+Description: The waiting room at Nile Garden Family Clinic was clean, quiet and comfortable, with enough seating and water available. I get claustrophobic in scanners, and the team offered a mild option and a mirror setup that made the MRI manageable.
+
+Review 2 for Dr. Mark Ibrahim, Radiology, Cairo
+Rating: 8/10
+Clinic visited: Nile Garden Family Clinic
+Description: Parking was simple, the waiting room was calm, and I never felt like a number.
+
+Review 3 for Dr. Mark Ibrahim, Radiology, Cairo
+Rating: 7/10
+Clinic visited: Nile Garden Family Clinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Quick appointment and a fair price in Cairo, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 4 for Dr. Mark Ibrahim, Radiology, Cairo
+Rating: 9/10
+Clinic visited: Nile Garden Family Clinic
+Description: Appreciated the clear instructions about fasting and drinking water before the abdominal scan.
+
+Review 5 for Dr. Mark Ibrahim, Radiology, Cairo
+Rating: 7/10
+Clinic visited: Nile Garden Family Clinic
+Description: Professional technologist, though the changing room was cramped and the lockers did not work. Booking was easy online, but the confirmation email contained the wrong address for Nile Garden Family Clinic. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Mark Ibrahim, Radiology, Cairo
+Rating: 9/10
+Clinic visited: Nile Garden Family Clinic
+Description: The report from Dr. Mark Ibrahim was detailed but written so a non-medical person could follow it, with a short summary at the top. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Mark Ibrahim, Radiology, Cairo
+Rating: 9/10
+Clinic visited: Nile Garden Family Clinic
+Description: When my scan showed something that needed a second look, Dr. Mark Ibrahim arranged the follow-up the same day.
+
+Review 8 for Dr. Mark Ibrahim, Radiology, Cairo
+Rating: 7/10
+Clinic visited: Nile Garden Family Clinic
+Description: The report from Dr. Mark Ibrahim was thorough, though full of technical terms that needed my regular doctor to translate. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Mark Ibrahim, Radiology, Cairo: 8.00/10 from 8 reviews

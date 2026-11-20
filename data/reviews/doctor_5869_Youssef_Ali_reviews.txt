@@ -1,0 +1,59 @@
+Doctor: Dr. Youssef Ali
+Doctor ID: 5869
+Specialization: Pathology
+Gender: Male
+Years of experience: 10
+City: Alexandria, Egypt
+Clinics: Sidi Gaber Wellness Practice (clinic ID 758)
+
+Review 1 for Dr. Youssef Ali, Pathology, Alexandria
+Rating: 5/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Quick appointment and a fair price in Alexandria, but the staff seemed overwhelmed and a bit curt on the phone. Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Review 2 for Dr. Youssef Ali, Pathology, Alexandria
+Rating: 5/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: The blood draw was painless, but the waiting area at Sidi Gaber Wellness Practice was crowded in the early morning.
+
+Review 3 for Dr. Youssef Ali, Pathology, Alexandria
+Rating: 6/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Good bedside manner from Dr. Youssef Ali, but the parking near Sidi Gaber Wellness Practice is limited and I had to circle for fifteen minutes.
+
+Review 4 for Dr. Youssef Ali, Pathology, Alexandria
+Rating: 5/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Dr. Youssef Ali answered my questions kindly, though the call back took three days. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Youssef Ali, Pathology, Alexandria
+Rating: 9/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not.
+
+Review 6 for Dr. Youssef Ali, Pathology, Alexandria
+Rating: 5/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 7 for Dr. Youssef Ali, Pathology, Alexandria
+Rating: 7/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. I liked the advice I got from Dr. Youssef Ali, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 8 for Dr. Youssef Ali, Pathology, Alexandria
+Rating: 7/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Worth trying, but I would not call it the best option in the area.
+
+Review 9 for Dr. Youssef Ali, Pathology, Alexandria
+Rating: 6/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Sidi Gaber Wellness Practice. Helpful in clarifying a borderline result, though Dr. Youssef Ali gave little guidance about whether to repeat it. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 10 for Dr. Youssef Ali, Pathology, Alexandria
+Rating: 5/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Youssef Ali, Pathology, Alexandria: 6.00/10 from 10 reviews

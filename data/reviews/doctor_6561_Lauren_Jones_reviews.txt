@@ -1,0 +1,64 @@
+Doctor: Dr. Lauren Jones
+Doctor ID: 6561
+Specialization: Psychology
+Gender: Female
+Years of experience: 12
+City: Sydney, Australia
+Clinics: Southern Cross Family Medical Practice (clinic ID 850); Gumtree Medical Centre (clinic ID 851); Harbourside General Practice (clinic ID 852)
+
+Review 1 for Dr. Lauren Jones, Psychology, Sydney
+Rating: 7/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: Dr. Lauren Jones was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 2 for Dr. Lauren Jones, Psychology, Sydney
+Rating: 6/10
+Clinic visited: Gumtree Medical Centre
+Description: Good bedside manner from Dr. Lauren Jones, but the parking near Gumtree Medical Centre is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Lauren Jones, Psychology, Sydney
+Rating: 9/10
+Clinic visited: Harbourside General Practice
+Description: Getting to Harbourside General Practice by public transport in Sydney was easy, and there is a step-free entrance for wheelchairs. Finally, a therapist who explained how my sleep problems and my worry loops were connected. I would happily recommend this doctor to friends and family.
+
+Review 4 for Dr. Lauren Jones, Psychology, Sydney
+Rating: 8/10
+Clinic visited: Harbourside General Practice
+Description: I never felt judged by Dr. Lauren Jones when talking about my burnout, and the sessions gave me language for things I could not explain before. Booking online at Harbourside General Practice was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Review 5 for Dr. Lauren Jones, Psychology, Sydney
+Rating: 7/10
+Clinic visited: Gumtree Medical Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Lauren Jones, Psychology, Sydney
+Rating: 6/10
+Clinic visited: Southern Cross Family Medical Practice
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Lauren Jones, Psychology, Sydney
+Rating: 9/10
+Clinic visited: Harbourside General Practice
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. She has a calm way of asking the difficult questions that makes it feel safe to answer honestly.
+
+Review 8 for Dr. Lauren Jones, Psychology, Sydney
+Rating: 9/10
+Clinic visited: Harbourside General Practice
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Warm, patient and honest, Dr. Lauren Jones told me what progress to expect and it matched reality.
+
+Review 9 for Dr. Lauren Jones, Psychology, Sydney
+Rating: 8/10
+Clinic visited: Gumtree Medical Centre
+Description: I appreciated the written summary Dr. Lauren Jones sent after each session and the short worksheets between visits. Dr. Lauren Jones drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 10 for Dr. Lauren Jones, Psychology, Sydney
+Rating: 9/10
+Clinic visited: Gumtree Medical Centre
+Description: After six sessions of cognitive behavioral therapy, my panic attacks went from daily to rare. Dr. Lauren Jones gave me practical tools I still use. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 11 for Dr. Lauren Jones, Psychology, Sydney
+Rating: 8/10
+Clinic visited: Gumtree Medical Centre
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Overall rating for Dr. Lauren Jones, Psychology, Sydney: 7.82/10 from 11 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Anahera Jones
+Doctor ID: 6664
+Specialization: General
+Gender: Female
+Years of experience: 30
+City: Christchurch, New Zealand
+Clinics: Puriri Medical Practice (clinic ID 864)
+
+Review 1 for Dr. Anahera Jones, General, Christchurch
+Rating: 6/10
+Clinic visited: Puriri Medical Practice
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Anahera Jones, General, Christchurch
+Rating: 7/10
+Clinic visited: Puriri Medical Practice
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. The doctor was kind, though the clinic's evening hours are very limited for working people. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Anahera Jones, General, Christchurch
+Rating: 8/10
+Clinic visited: Puriri Medical Practice
+Description: She remembered my father's diabetes history without me prompting and adjusted my screening schedule accordingly. I will be coming back for all my future check-ups.
+
+Review 4 for Dr. Anahera Jones, General, Christchurch
+Rating: 7/10
+Clinic visited: Puriri Medical Practice
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Puriri Medical Practice were inconsistent. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 5 for Dr. Anahera Jones, General, Christchurch
+Rating: 10/10
+Clinic visited: Puriri Medical Practice
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 6 for Dr. Anahera Jones, General, Christchurch
+Rating: 7/10
+Clinic visited: Puriri Medical Practice
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Anahera Jones, General, Christchurch
+Rating: 9/10
+Clinic visited: Puriri Medical Practice
+Description: I went in with months of tiredness, and Dr. Anahera Jones ordered thyroid and iron tests that finally explained it. The plan was simple and my energy is back. At my visit, Dr. Anahera Jones took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 8 for Dr. Anahera Jones, General, Christchurch
+Rating: 6/10
+Clinic visited: Puriri Medical Practice
+Description: Referrals from Dr. Anahera Jones are handled well, but getting test results back took longer than I was told to expect.
+
+Review 9 for Dr. Anahera Jones, General, Christchurch
+Rating: 9/10
+Clinic visited: Puriri Medical Practice
+Description: I was called in within five minutes of my appointment time at Puriri Medical Practice, which is rare and much appreciated. As a new patient in Christchurch, I felt welcomed at Puriri Medical Practice, and my whole history was reviewed in one relaxed visit.
+
+Review 10 for Dr. Anahera Jones, General, Christchurch
+Rating: 6/10
+Clinic visited: Puriri Medical Practice
+Description: Dr. Anahera Jones is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Overall rating for Dr. Anahera Jones, General, Christchurch: 7.50/10 from 10 reviews

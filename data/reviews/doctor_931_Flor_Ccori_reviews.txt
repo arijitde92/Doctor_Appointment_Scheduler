@@ -1,0 +1,69 @@
+Doctor: Dr. Flor Ccori
+Doctor ID: 931
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 21
+City: Cusco, Peru
+Clinics: Consultorios Médicos Tullumayo (clinic ID 122); Policlínica Collasuyo (clinic ID 123)
+
+Review 1 for Dr. Flor Ccori, Orthopedic, Cusco
+Rating: 6/10
+Clinic visited: Policlínica Collasuyo
+Description: The treatment plan from Dr. Flor Ccori made sense, but I wished it had been written down for me to take away. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 2 for Dr. Flor Ccori, Orthopedic, Cusco
+Rating: 8/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss.
+
+Review 3 for Dr. Flor Ccori, Orthopedic, Cusco
+Rating: 7/10
+Clinic visited: Policlínica Collasuyo
+Description: Very skilled with my knee, but Dr. Flor Ccori's clinic runs behind and the wait was over an hour. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Flor Ccori, Orthopedic, Cusco
+Rating: 8/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: I came away understanding my condition better than I have in years of previous appointments.
+
+Review 5 for Dr. Flor Ccori, Orthopedic, Cusco
+Rating: 10/10
+Clinic visited: Policlínica Collasuyo
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 6 for Dr. Flor Ccori, Orthopedic, Cusco
+Rating: 8/10
+Clinic visited: Policlínica Collasuyo
+Description: Sensitive questions were handled by Dr. Flor Ccori with discretion and without a hint of judgment. I will be coming back for all my future check-ups.
+
+Review 7 for Dr. Flor Ccori, Orthopedic, Cusco
+Rating: 6/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: Booking was easy online, but the confirmation email contained the wrong address for Consultorios Médicos Tullumayo.
+
+Review 8 for Dr. Flor Ccori, Orthopedic, Cusco
+Rating: 8/10
+Clinic visited: Policlínica Collasuyo
+Description: At my visit, Dr. Flor Ccori took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 9 for Dr. Flor Ccori, Orthopedic, Cusco
+Rating: 7/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit.
+
+Review 10 for Dr. Flor Ccori, Orthopedic, Cusco
+Rating: 8/10
+Clinic visited: Policlínica Collasuyo
+Description: My torn rotator cuff was managed first by Dr. Flor Ccori with physiotherapy, and surgery was only suggested when it truly was needed. Dr. Flor Ccori looked me in the eye, listened to the whole story and only then started typing.
+
+Review 11 for Dr. Flor Ccori, Orthopedic, Cusco
+Rating: 7/10
+Clinic visited: Policlínica Collasuyo
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 12 for Dr. Flor Ccori, Orthopedic, Cusco
+Rating: 9/10
+Clinic visited: Consultorios Médicos Tullumayo
+Description: Paperwork at Consultorios Médicos Tullumayo was kept to a minimum, and the staff helped me complete the insurance form.
+
+Overall rating for Dr. Flor Ccori, Orthopedic, Cusco: 7.67/10 from 12 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Mark Ali
+Doctor ID: 5972
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 17
+City: Luxor, Egypt
+Clinics: Karnak Family Clinic (clinic ID 770)
+
+Review 1 for Dr. Mark Ali, Pulmonology, Luxor
+Rating: 10/10
+Clinic visited: Karnak Family Clinic
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one.
+
+Review 2 for Dr. Mark Ali, Pulmonology, Luxor
+Rating: 10/10
+Clinic visited: Karnak Family Clinic
+Description: Getting to Karnak Family Clinic by public transport in Luxor was easy, and there is a step-free entrance for wheelchairs. The spirometry test was explained step by step, and Dr. Mark Ali put the results in context with a clear picture of my lung function.
+
+Review 3 for Dr. Mark Ali, Pulmonology, Luxor
+Rating: 8/10
+Clinic visited: Karnak Family Clinic
+Description: Dr. Mark Ali explained my lung nodule follow-up schedule calmly, which took away weeks of worry. My whole family is switching over after seeing how good the care was.
+
+Review 4 for Dr. Mark Ali, Pulmonology, Luxor
+Rating: 9/10
+Clinic visited: Karnak Family Clinic
+Description: At Karnak Family Clinic, the breathing lab was efficient and the technician was kind, so even the long tests felt manageable.
+
+Review 5 for Dr. Mark Ali, Pulmonology, Luxor
+Rating: 8/10
+Clinic visited: Karnak Family Clinic
+Description: Clear, honest answers from Dr. Mark Ali about my shortness of breath, and no unnecessary tests were ordered. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 6 for Dr. Mark Ali, Pulmonology, Luxor
+Rating: 8/10
+Clinic visited: Karnak Family Clinic
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Luxor. Everything was explained in plain English by Dr. Mark Ali, and nothing was left to guess.
+
+Review 7 for Dr. Mark Ali, Pulmonology, Luxor
+Rating: 10/10
+Clinic visited: Karnak Family Clinic
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Mark Ali.
+
+Review 8 for Dr. Mark Ali, Pulmonology, Luxor
+Rating: 9/10
+Clinic visited: Karnak Family Clinic
+Description: Great at explaining sleep studies, and the results report was easy to read and shared with my regular doctor. Dr. Mark Ali double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 9 for Dr. Mark Ali, Pulmonology, Luxor
+Rating: 8/10
+Clinic visited: Karnak Family Clinic
+Description: He called personally with my scan results and walked me through what the findings did and did not mean.
+
+Review 10 for Dr. Mark Ali, Pulmonology, Luxor
+Rating: 9/10
+Clinic visited: Karnak Family Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks.
+
+Review 11 for Dr. Mark Ali, Pulmonology, Luxor
+Rating: 9/10
+Clinic visited: Karnak Family Clinic
+Description: My oxygen levels are monitored carefully at Karnak Family Clinic, and the home equipment was arranged without any hassle.
+
+Overall rating for Dr. Mark Ali, Pulmonology, Luxor: 8.91/10 from 11 reviews

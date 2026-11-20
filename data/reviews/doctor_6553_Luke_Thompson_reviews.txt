@@ -1,0 +1,49 @@
+Doctor: Dr. Luke Thompson
+Doctor ID: 6553
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 18
+City: Perth, Australia
+Clinics: Waratah Family Clinic (clinic ID 849)
+
+Review 1 for Dr. Luke Thompson, Pediatrics, Perth
+Rating: 5/10
+Clinic visited: Waratah Family Clinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Luke Thompson, Pediatrics, Perth
+Rating: 7/10
+Clinic visited: Waratah Family Clinic
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Luke Thompson, Pediatrics, Perth
+Rating: 7/10
+Clinic visited: Waratah Family Clinic
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Worth trying, but I would not call it the best option in the area.
+
+Review 4 for Dr. Luke Thompson, Pediatrics, Perth
+Rating: 5/10
+Clinic visited: Waratah Family Clinic
+Description: Friendly with the kids, yet some of my questions about alternative diets got a hurried answer. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Luke Thompson, Pediatrics, Perth
+Rating: 6/10
+Clinic visited: Waratah Family Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. Dr. Luke Thompson is thorough with exams, but the after-hours phone line at Waratah Family Clinic is hard to reach. Decent care overall, and I will probably return unless I find something closer.
+
+Review 6 for Dr. Luke Thompson, Pediatrics, Perth
+Rating: 7/10
+Clinic visited: Waratah Family Clinic
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 7 for Dr. Luke Thompson, Pediatrics, Perth
+Rating: 7/10
+Clinic visited: Waratah Family Clinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 8 for Dr. Luke Thompson, Pediatrics, Perth
+Rating: 6/10
+Clinic visited: Waratah Family Clinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Overall rating for Dr. Luke Thompson, Pediatrics, Perth: 6.25/10 from 8 reviews

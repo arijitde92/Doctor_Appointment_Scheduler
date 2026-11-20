@@ -1,0 +1,64 @@
+Doctor: Dr. Marco Ríos
+Doctor ID: 880
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 1
+City: Arequipa, Peru
+Clinics: Centro Médico Misti (clinic ID 116)
+
+Review 1 for Dr. Marco Ríos, Pediatrics, Arequipa
+Rating: 9/10
+Clinic visited: Centro Médico Misti
+Description: Vaccination visits with Dr. Marco Ríos are painless and well explained, and my questions about the schedule were answered without any pressure. Dr. Marco Ríos looked me in the eye, listened to the whole story and only then started typing. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Marco Ríos, Pediatrics, Arequipa
+Rating: 6/10
+Clinic visited: Centro Médico Misti
+Description: Dr. Marco Ríos is thorough with exams, but the after-hours phone line at Centro Médico Misti is hard to reach.
+
+Review 3 for Dr. Marco Ríos, Pediatrics, Arequipa
+Rating: 5/10
+Clinic visited: Centro Médico Misti
+Description: Dr. Marco Ríos was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Marco Ríos, Pediatrics, Arequipa
+Rating: 6/10
+Clinic visited: Centro Médico Misti
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 5 for Dr. Marco Ríos, Pediatrics, Arequipa
+Rating: 6/10
+Clinic visited: Centro Médico Misti
+Description: Caring and gentle with my child, Dr. Marco Ríos nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 6 for Dr. Marco Ríos, Pediatrics, Arequipa
+Rating: 8/10
+Clinic visited: Centro Médico Misti
+Description: My teenager actually spoke up during the visit, and Dr. Marco Ríos handled sensitive topics with respect. Dr. Marco Ríos used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 7 for Dr. Marco Ríos, Pediatrics, Arequipa
+Rating: 5/10
+Clinic visited: Centro Médico Misti
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Marco Ríos, Pediatrics, Arequipa
+Rating: 9/10
+Clinic visited: Centro Médico Misti
+Description: Getting to Centro Médico Misti by public transport in Arequipa was easy, and there is a step-free entrance for wheelchairs. Worth every minute of travel, and I would go again without a second thought.
+
+Review 9 for Dr. Marco Ríos, Pediatrics, Arequipa
+Rating: 9/10
+Clinic visited: Centro Médico Misti
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. My whole family is switching over after seeing how good the care was.
+
+Review 10 for Dr. Marco Ríos, Pediatrics, Arequipa
+Rating: 9/10
+Clinic visited: Centro Médico Misti
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. My child's asthma action plan from Dr. Marco Ríos was written out clearly so that school staff could follow it too. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 11 for Dr. Marco Ríos, Pediatrics, Arequipa
+Rating: 7/10
+Clinic visited: Centro Médico Misti
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Overall rating for Dr. Marco Ríos, Pediatrics, Arequipa: 7.18/10 from 11 reviews

@@ -1,0 +1,64 @@
+Doctor: Dr. Wilmer López
+Doctor ID: 886
+Specialization: Psychology
+Gender: Male
+Years of experience: 29
+City: Arequipa, Peru
+Clinics: Centro Médico Misti (clinic ID 116)
+
+Review 1 for Dr. Wilmer López, Psychology, Arequipa
+Rating: 7/10
+Clinic visited: Centro Médico Misti
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Wilmer López, Psychology, Arequipa
+Rating: 8/10
+Clinic visited: Centro Médico Misti
+Description: Warm, patient and honest, Dr. Wilmer López told me what progress to expect and it matched reality. The practice in Arequipa is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 3 for Dr. Wilmer López, Psychology, Arequipa
+Rating: 8/10
+Clinic visited: Centro Médico Misti
+Description: Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 4 for Dr. Wilmer López, Psychology, Arequipa
+Rating: 10/10
+Clinic visited: Centro Médico Misti
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Review 5 for Dr. Wilmer López, Psychology, Arequipa
+Rating: 8/10
+Clinic visited: Centro Médico Misti
+Description: I appreciated that he offered more than one option and let me choose what suited my life. I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown.
+
+Review 6 for Dr. Wilmer López, Psychology, Arequipa
+Rating: 7/10
+Clinic visited: Centro Médico Misti
+Description: Dr. Wilmer López listens well, though some sessions felt like a recap of the previous one without much new direction. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Wilmer López, Psychology, Arequipa
+Rating: 7/10
+Clinic visited: Centro Médico Misti
+Description: Booking was easy online, but the confirmation email contained the wrong address for Centro Médico Misti. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 8 for Dr. Wilmer López, Psychology, Arequipa
+Rating: 9/10
+Clinic visited: Centro Médico Misti
+Description: Sensitive questions were handled by Dr. Wilmer López with discretion and without a hint of judgment. Dr. Wilmer López adapted the approach when the first method did not suit me, and that flexibility made all the difference.
+
+Review 9 for Dr. Wilmer López, Psychology, Arequipa
+Rating: 9/10
+Clinic visited: Centro Médico Misti
+Description: Finally, a therapist who explained how my sleep problems and my worry loops were connected. I asked about the cost before the visit and received an honest estimate that matched the final bill. This is the first doctor I have trusted completely in years.
+
+Review 10 for Dr. Wilmer López, Psychology, Arequipa
+Rating: 7/10
+Clinic visited: Centro Médico Misti
+Description: Good bedside manner from Dr. Wilmer López, but the parking near Centro Médico Misti is limited and I had to circle for fifteen minutes.
+
+Review 11 for Dr. Wilmer López, Psychology, Arequipa
+Rating: 8/10
+Clinic visited: Centro Médico Misti
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Overall rating for Dr. Wilmer López, Psychology, Arequipa: 8.00/10 from 11 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Zhou Hua
+Doctor ID: 3984
+Specialization: General
+Gender: Female
+Years of experience: 17
+City: Shenzhen, China
+Clinics: Longgang Renhe Medical Clinic (clinic ID 514)
+
+Review 1 for Dr. Zhou Hua, General, Shenzhen
+Rating: 7/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Longgang Renhe Medical Clinic were inconsistent. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 2 for Dr. Zhou Hua, General, Shenzhen
+Rating: 9/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: I was called in within five minutes of my appointment time at Longgang Renhe Medical Clinic, which is rare and much appreciated. I always hear back within a day when I leave a question with the nurse at Longgang Renhe Medical Clinic, and Dr. Zhou Hua follows up on lab results personally. I will be coming back for all my future check-ups.
+
+Review 3 for Dr. Zhou Hua, General, Shenzhen
+Rating: 6/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The doctor was kind, though the clinic's evening hours are very limited for working people. I will give it one more visit before I decide whether to stay.
+
+Review 4 for Dr. Zhou Hua, General, Shenzhen
+Rating: 7/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 5 for Dr. Zhou Hua, General, Shenzhen
+Rating: 6/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan.
+
+Review 6 for Dr. Zhou Hua, General, Shenzhen
+Rating: 7/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Referrals from Dr. Zhou Hua are handled well, but getting test results back took longer than I was told to expect. The telehealth visit was convenient, though the connection dropped twice and we had to restart. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Zhou Hua, General, Shenzhen
+Rating: 5/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: I like that she listens to the full story, even if it means the appointment runs behind schedule. Booking was easy online, but the confirmation email contained the wrong address for Longgang Renhe Medical Clinic.
+
+Review 8 for Dr. Zhou Hua, General, Shenzhen
+Rating: 6/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Dr. Zhou Hua is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 9 for Dr. Zhou Hua, General, Shenzhen
+Rating: 6/10
+Clinic visited: Longgang Renhe Medical Clinic
+Description: Dr. Zhou Hua was thoughtful and clear, though the front desk was disorganized and lost my first referral form. Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Zhou Hua, General, Shenzhen: 6.56/10 from 9 reviews

@@ -1,0 +1,49 @@
+Doctor: Dr. Wilmer Huamán
+Doctor ID: 1019
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 25
+City: Trujillo, Peru
+Clinics: Policlínica América Sur (clinic ID 133)
+
+Review 1 for Dr. Wilmer Huamán, Psychiatry, Trujillo
+Rating: 5/10
+Clinic visited: Policlínica América Sur
+Description: I got what I needed, but the next available appointment was three weeks away. Good listener, yet the refill process at Policlínica América Sur is slow and requires several phone calls.
+
+Review 2 for Dr. Wilmer Huamán, Psychiatry, Trujillo
+Rating: 8/10
+Clinic visited: Policlínica América Sur
+Description: Sensitive questions were handled by Dr. Wilmer Huamán with discretion and without a hint of judgment. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 3 for Dr. Wilmer Huamán, Psychiatry, Trujillo
+Rating: 6/10
+Clinic visited: Policlínica América Sur
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Dr. Wilmer Huamán was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Wilmer Huamán, Psychiatry, Trujillo
+Rating: 4/10
+Clinic visited: Policlínica América Sur
+Description: Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 5 for Dr. Wilmer Huamán, Psychiatry, Trujillo
+Rating: 5/10
+Clinic visited: Policlínica América Sur
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment. The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 6 for Dr. Wilmer Huamán, Psychiatry, Trujillo
+Rating: 5/10
+Clinic visited: Policlínica América Sur
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Dr. Wilmer Huamán is knowledgeable, though I waited several weeks for my first appointment.
+
+Review 7 for Dr. Wilmer Huamán, Psychiatry, Trujillo
+Rating: 7/10
+Clinic visited: Policlínica América Sur
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Wilmer Huamán, Psychiatry, Trujillo
+Rating: 7/10
+Clinic visited: Policlínica América Sur
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Overall rating for Dr. Wilmer Huamán, Psychiatry, Trujillo: 5.88/10 from 8 reviews

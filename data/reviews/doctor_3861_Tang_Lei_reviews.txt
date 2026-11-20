@@ -1,0 +1,64 @@
+Doctor: Dr. Tang Lei
+Doctor ID: 3861
+Specialization: Pathology
+Gender: Female
+Years of experience: 4
+City: Beijing, China
+Clinics: Dongdaqiao Jiahe Medical Clinic (clinic ID 499)
+
+Review 1 for Dr. Tang Lei, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Beijing. I appreciated that she offered more than one option and let me choose what suited my life. I would happily recommend this doctor to friends and family.
+
+Review 2 for Dr. Tang Lei, Pathology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Helpful in clarifying a borderline result, though Dr. Tang Lei gave little guidance about whether to repeat it. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 3 for Dr. Tang Lei, Pathology, Beijing
+Rating: 6/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 4 for Dr. Tang Lei, Pathology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Tang Lei, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. Everything was explained in plain English by Dr. Tang Lei, and nothing was left to guess.
+
+Review 6 for Dr. Tang Lei, Pathology, Beijing
+Rating: 6/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Dr. Tang Lei answered my questions kindly, though the call back took three days. Decent care overall, and I will probably return unless I find something closer.
+
+Review 7 for Dr. Tang Lei, Pathology, Beijing
+Rating: 9/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Tang Lei, Pathology, Beijing
+Rating: 8/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Getting to Dongdaqiao Jiahe Medical Clinic by public transport in Beijing was easy, and there is a step-free entrance for wheelchairs. The lab under Dr. Tang Lei was clean, organized and never overbooked, and results arrived exactly when promised. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Tang Lei, Pathology, Beijing
+Rating: 6/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: The blood draw was painless, but the waiting area at Dongdaqiao Jiahe Medical Clinic was crowded in the early morning.
+
+Review 10 for Dr. Tang Lei, Pathology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate. I will give it one more visit before I decide whether to stay.
+
+Review 11 for Dr. Tang Lei, Pathology, Beijing
+Rating: 7/10
+Clinic visited: Dongdaqiao Jiahe Medical Clinic
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged.
+
+Overall rating for Dr. Tang Lei, Pathology, Beijing: 7.18/10 from 11 reviews

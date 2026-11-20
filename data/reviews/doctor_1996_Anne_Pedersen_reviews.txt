@@ -1,0 +1,49 @@
+Doctor: Dr. Anne Pedersen
+Doctor ID: 1996
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 5
+City: Oslo, Norway
+Clinics: Legesenteret Karl Johan Plus (clinic ID 260)
+
+Review 1 for Dr. Anne Pedersen, Orthopedic, Oslo
+Rating: 4/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: The surgery fee ended up far higher than the quote, and billing staff could not explain the difference.
+
+Review 2 for Dr. Anne Pedersen, Orthopedic, Oslo
+Rating: 8/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Dr. Anne Pedersen explained my back scan using a model of the spine, and I finally understood my sciatica.
+
+Review 3 for Dr. Anne Pedersen, Orthopedic, Oslo
+Rating: 5/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Very skilled with my knee, but Dr. Anne Pedersen's clinic runs behind and the wait was over an hour. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 4 for Dr. Anne Pedersen, Orthopedic, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions.
+
+Review 5 for Dr. Anne Pedersen, Orthopedic, Oslo
+Rating: 5/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Good result from my shoulder injection, although the cost was higher than the estimate I received.
+
+Review 6 for Dr. Anne Pedersen, Orthopedic, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 7 for Dr. Anne Pedersen, Orthopedic, Oslo
+Rating: 6/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Good bedside manner from Dr. Anne Pedersen, but the parking near Legesenteret Karl Johan Plus is limited and I had to circle for fifteen minutes.
+
+Review 8 for Dr. Anne Pedersen, Orthopedic, Oslo
+Rating: 4/10
+Clinic visited: Legesenteret Karl Johan Plus
+Description: The telehealth call started forty minutes late, and the connection was so poor that nothing was properly discussed. Dr. Anne Pedersen seemed to dismiss my concerns about swelling after the operation, and I had to go elsewhere.
+
+Overall rating for Dr. Anne Pedersen, Orthopedic, Oslo: 5.50/10 from 8 reviews

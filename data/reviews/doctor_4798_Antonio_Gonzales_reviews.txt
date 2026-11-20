@@ -1,0 +1,64 @@
+Doctor: Dr. Antonio Gonzales
+Doctor ID: 4798
+Specialization: Psychology
+Gender: Male
+Years of experience: 14
+City: Davao City, Philippines
+Clinics: Tala Medical Clinic (clinic ID 620)
+
+Review 1 for Dr. Antonio Gonzales, Psychology, Davao City
+Rating: 7/10
+Clinic visited: Tala Medical Clinic
+Description: Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 2 for Dr. Antonio Gonzales, Psychology, Davao City
+Rating: 6/10
+Clinic visited: Tala Medical Clinic
+Description: I liked the advice I got from Dr. Antonio Gonzales, but I would have liked more time to ask follow-up questions before the visit ended. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Antonio Gonzales, Psychology, Davao City
+Rating: 7/10
+Clinic visited: Tala Medical Clinic
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 4 for Dr. Antonio Gonzales, Psychology, Davao City
+Rating: 7/10
+Clinic visited: Tala Medical Clinic
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 5 for Dr. Antonio Gonzales, Psychology, Davao City
+Rating: 6/10
+Clinic visited: Tala Medical Clinic
+Description: My trauma work felt well paced, although the schedule changed several times at Tala Medical Clinic.
+
+Review 6 for Dr. Antonio Gonzales, Psychology, Davao City
+Rating: 8/10
+Clinic visited: Tala Medical Clinic
+Description: The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer. At my visit, Dr. Antonio Gonzales took notes on my medication list, checked for interactions and explained the changes simply.
+
+Review 7 for Dr. Antonio Gonzales, Psychology, Davao City
+Rating: 6/10
+Clinic visited: Tala Medical Clinic
+Description: Dr. Antonio Gonzales listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 8 for Dr. Antonio Gonzales, Psychology, Davao City
+Rating: 8/10
+Clinic visited: Tala Medical Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. Sessions with Dr. Antonio Gonzales start on time and end on time, which is a small thing that made me feel respected.
+
+Review 9 for Dr. Antonio Gonzales, Psychology, Davao City
+Rating: 7/10
+Clinic visited: Tala Medical Clinic
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 10 for Dr. Antonio Gonzales, Psychology, Davao City
+Rating: 8/10
+Clinic visited: Tala Medical Clinic
+Description: Prescriptions from Dr. Antonio Gonzales were sent to my pharmacy before I even left the building, and the dosage instructions were written down.
+
+Review 11 for Dr. Antonio Gonzales, Psychology, Davao City
+Rating: 6/10
+Clinic visited: Tala Medical Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Overall rating for Dr. Antonio Gonzales, Psychology, Davao City: 6.91/10 from 11 reviews

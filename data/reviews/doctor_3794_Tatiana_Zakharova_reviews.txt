@@ -1,0 +1,64 @@
+Doctor: Dr. Tatiana Zakharova
+Doctor ID: 3794
+Specialization: Pathology
+Gender: Female
+Years of experience: 10
+City: Saint Petersburg, Russia
+Clinics: Nevsky Medical Centre (clinic ID 490)
+
+Review 1 for Dr. Tatiana Zakharova, Pathology, Saint Petersburg
+Rating: 5/10
+Clinic visited: Nevsky Medical Centre
+Description: I got what I needed, but the next available appointment was three weeks away. Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 2 for Dr. Tatiana Zakharova, Pathology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Nevsky Medical Centre
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. Decent care overall, and I will probably return unless I find something closer.
+
+Review 3 for Dr. Tatiana Zakharova, Pathology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Nevsky Medical Centre
+Description: The receptionist at Nevsky Medical Centre remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 4 for Dr. Tatiana Zakharova, Pathology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Nevsky Medical Centre
+Description: Clear sample collection instructions, a labelled container and a courier option that saved me a trip across Saint Petersburg. Sensitive questions were handled by Dr. Tatiana Zakharova with discretion and without a hint of judgment.
+
+Review 5 for Dr. Tatiana Zakharova, Pathology, Saint Petersburg
+Rating: 10/10
+Clinic visited: Nevsky Medical Centre
+Description: The staff and Dr. Tatiana Zakharova patiently went through my cholesterol and glucose numbers and explained what each meant for me. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Tatiana Zakharova, Pathology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Nevsky Medical Centre
+Description: When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected. The lab at Nevsky Medical Centre had a quick, friendly blood draw and the phlebotomist found my vein on the first try.
+
+Review 7 for Dr. Tatiana Zakharova, Pathology, Saint Petersburg
+Rating: 10/10
+Clinic visited: Nevsky Medical Centre
+Description: I was given a copy of the full report and a short consult to ask questions, which I rarely get from a lab. At my visit, Dr. Tatiana Zakharova took notes on my medication list, checked for interactions and explained the changes simply. Five stars from me, and I would book again tomorrow.
+
+Review 8 for Dr. Tatiana Zakharova, Pathology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Nevsky Medical Centre
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. I will give it one more visit before I decide whether to stay.
+
+Review 9 for Dr. Tatiana Zakharova, Pathology, Saint Petersburg
+Rating: 7/10
+Clinic visited: Nevsky Medical Centre
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 10 for Dr. Tatiana Zakharova, Pathology, Saint Petersburg
+Rating: 8/10
+Clinic visited: Nevsky Medical Centre
+Description: Careful handling of a sensitive pregnancy blood test, with discreet and kind delivery of the news. Dr. Tatiana Zakharova used a calm, steady voice that settled my nerves before a stressful procedure. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 11 for Dr. Tatiana Zakharova, Pathology, Saint Petersburg
+Rating: 9/10
+Clinic visited: Nevsky Medical Centre
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. I will be coming back for all my future check-ups.
+
+Overall rating for Dr. Tatiana Zakharova, Pathology, Saint Petersburg: 8.09/10 from 11 reviews

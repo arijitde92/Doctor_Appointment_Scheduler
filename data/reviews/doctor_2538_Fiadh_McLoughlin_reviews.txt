@@ -1,0 +1,49 @@
+Doctor: Dr. Fiadh McLoughlin
+Doctor ID: 2538
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 11
+City: Limerick, Ireland
+Clinics: Henry Street Health Centre (clinic ID 332)
+
+Review 1 for Dr. Fiadh McLoughlin, Gastroenterology, Limerick
+Rating: 6/10
+Clinic visited: Henry Street Health Centre
+Description: Knowledgeable about my reflux, Dr. Fiadh McLoughlin still gave diet advice that felt generic and not tailored to my habits. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 2 for Dr. Fiadh McLoughlin, Gastroenterology, Limerick
+Rating: 5/10
+Clinic visited: Henry Street Health Centre
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Helpful visit overall, although I only found out about an extra charge after I had paid. I would come back, but only if the waiting time improves.
+
+Review 3 for Dr. Fiadh McLoughlin, Gastroenterology, Limerick
+Rating: 6/10
+Clinic visited: Henry Street Health Centre
+Description: I got what I needed, but the next available appointment was three weeks away. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case.
+
+Review 4 for Dr. Fiadh McLoughlin, Gastroenterology, Limerick
+Rating: 6/10
+Clinic visited: Henry Street Health Centre
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy.
+
+Review 5 for Dr. Fiadh McLoughlin, Gastroenterology, Limerick
+Rating: 7/10
+Clinic visited: Henry Street Health Centre
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Quick appointment and a fair price in Limerick, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 6 for Dr. Fiadh McLoughlin, Gastroenterology, Limerick
+Rating: 6/10
+Clinic visited: Henry Street Health Centre
+Description: Dr. Fiadh McLoughlin is thorough, but I waited nearly two months to get the first available slot.
+
+Review 7 for Dr. Fiadh McLoughlin, Gastroenterology, Limerick
+Rating: 8/10
+Clinic visited: Henry Street Health Centre
+Description: Clear explanation from Dr. Fiadh McLoughlin of fatty liver and exactly which lifestyle changes would make a measurable difference.
+
+Review 8 for Dr. Fiadh McLoughlin, Gastroenterology, Limerick
+Rating: 9/10
+Clinic visited: Henry Street Health Centre
+Description: Dr. Fiadh McLoughlin double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Overall rating for Dr. Fiadh McLoughlin, Gastroenterology, Limerick: 6.62/10 from 8 reviews

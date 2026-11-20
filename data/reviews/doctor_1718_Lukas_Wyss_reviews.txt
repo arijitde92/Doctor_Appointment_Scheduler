@@ -1,0 +1,49 @@
+Doctor: Dr. Lukas Wyss
+Doctor ID: 1718
+Specialization: Neurology
+Gender: Male
+Years of experience: 30
+City: Bern, Switzerland
+Clinics: Medizinisches Zentrum Länggasse (clinic ID 223)
+
+Review 1 for Dr. Lukas Wyss, Neurology, Bern
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 2 for Dr. Lukas Wyss, Neurology, Bern
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained. The treatment plan from Dr. Lukas Wyss made sense, but I wished it had been written down for me to take away. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Lukas Wyss, Neurology, Bern
+Rating: 10/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: The EEG appointment ran on time, and Dr. Lukas Wyss reviewed the tracing with me the same week. He was upfront about what could and could not be treated, and did not oversell any option. Worth every minute of travel, and I would go again without a second thought.
+
+Review 4 for Dr. Lukas Wyss, Neurology, Bern
+Rating: 7/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Dr. Lukas Wyss explained my results well, although the visit felt short for such a complex condition. Good communication in the visit, but messages left through the portal sometimes went unanswered for days. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Lukas Wyss, Neurology, Bern
+Rating: 9/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: He patiently explained my MRI findings and calmed my worries about memory problems. The receptionist at Medizinisches Zentrum Länggasse remembered my name and had my forms ready, so check-in took less than a minute. I have no hesitation sending my own relatives here.
+
+Review 6 for Dr. Lukas Wyss, Neurology, Bern
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. When I emailed a question, I received a thoughtful reply the next morning, which is far better than I expected.
+
+Review 7 for Dr. Lukas Wyss, Neurology, Bern
+Rating: 6/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Lukas Wyss, Neurology, Bern
+Rating: 8/10
+Clinic visited: Medizinisches Zentrum Länggasse
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Overall rating for Dr. Lukas Wyss, Neurology, Bern: 7.62/10 from 8 reviews

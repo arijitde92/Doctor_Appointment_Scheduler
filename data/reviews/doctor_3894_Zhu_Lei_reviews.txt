@@ -1,0 +1,64 @@
+Doctor: Dr. Zhu Lei
+Doctor ID: 3894
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 21
+City: Guangzhou, China
+Clinics: Jiangnan Hengkang Polyclinic (clinic ID 503)
+
+Review 1 for Dr. Zhu Lei, Pediatrics, Guangzhou
+Rating: 6/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Caring and gentle with my child, Dr. Zhu Lei nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 2 for Dr. Zhu Lei, Pediatrics, Guangzhou
+Rating: 7/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 3 for Dr. Zhu Lei, Pediatrics, Guangzhou
+Rating: 7/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Dr. Zhu Lei is thorough with exams, but the after-hours phone line at Jiangnan Hengkang Polyclinic is hard to reach.
+
+Review 4 for Dr. Zhu Lei, Pediatrics, Guangzhou
+Rating: 7/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Zhu Lei, Pediatrics, Guangzhou
+Rating: 8/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: The waiting room in Guangzhou has a play corner and separate seating for sick children, which I really valued. The front desk staff were patient with my elderly father and gave him extra time without making a fuss. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 6 for Dr. Zhu Lei, Pediatrics, Guangzhou
+Rating: 7/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Booking was easy online, but the confirmation email contained the wrong address for Jiangnan Hengkang Polyclinic.
+
+Review 7 for Dr. Zhu Lei, Pediatrics, Guangzhou
+Rating: 8/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: My child left with a sticker and a smile, which tells me everything about how the visit went. A same-day slot was found for me at Jiangnan Hengkang Polyclinic when I called with a worrying symptom.
+
+Review 8 for Dr. Zhu Lei, Pediatrics, Guangzhou
+Rating: 8/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Kind to anxious parents, Dr. Zhu Lei never showed a hint of impatience when I felt silly asking about a rash. I came away understanding my condition better than I have in years of previous appointments.
+
+Review 9 for Dr. Zhu Lei, Pediatrics, Guangzhou
+Rating: 8/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: Dr. Zhu Lei noticed a speech delay early and referred us to a therapist, which has made a real difference. Everything was explained in plain English by Dr. Zhu Lei, and nothing was left to guess.
+
+Review 10 for Dr. Zhu Lei, Pediatrics, Guangzhou
+Rating: 9/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: My teenager actually spoke up during the visit, and Dr. Zhu Lei handled sensitive topics with respect. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 11 for Dr. Zhu Lei, Pediatrics, Guangzhou
+Rating: 6/10
+Clinic visited: Jiangnan Hengkang Polyclinic
+Description: I liked the advice I got from Dr. Zhu Lei, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Overall rating for Dr. Zhu Lei, Pediatrics, Guangzhou: 7.36/10 from 11 reviews

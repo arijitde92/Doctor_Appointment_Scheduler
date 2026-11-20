@@ -1,0 +1,49 @@
+Doctor: Dr. Ishikawa Hiroshi
+Doctor ID: 4144
+Specialization: Orthopedic
+Gender: Male
+Years of experience: 5
+City: Yokohama, Japan
+Clinics: Totsuka Hana Health Clinic (clinic ID 534)
+
+Review 1 for Dr. Ishikawa Hiroshi, Orthopedic, Yokohama
+Rating: 10/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: I never felt pressured toward an operation, and the second opinion I sought agreed with the plan.
+
+Review 2 for Dr. Ishikawa Hiroshi, Orthopedic, Yokohama
+Rating: 7/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Ishikawa Hiroshi, Orthopedic, Yokohama
+Rating: 10/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: Dr. Ishikawa Hiroshi explained my back scan using a model of the spine, and I finally understood my sciatica. A translator was arranged for my mother without us asking twice, and Dr. Ishikawa Hiroshi spoke directly to her throughout.
+
+Review 4 for Dr. Ishikawa Hiroshi, Orthopedic, Yokohama
+Rating: 10/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: A same-day slot was found for me at Totsuka Hana Health Clinic when I called with a worrying symptom. He set my broken wrist neatly and talked me through the cast care and what to expect at each follow-up.
+
+Review 5 for Dr. Ishikawa Hiroshi, Orthopedic, Yokohama
+Rating: 8/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: Follow-up scans were compared with the earlier ones, and Dr. Ishikawa Hiroshi showed me how the bone had healed. I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself.
+
+Review 6 for Dr. Ishikawa Hiroshi, Orthopedic, Yokohama
+Rating: 10/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: Seen the same day at Totsuka Hana Health Clinic after a bad ankle sprain, with an X-ray done and a brace fitted before I left. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 7 for Dr. Ishikawa Hiroshi, Orthopedic, Yokohama
+Rating: 10/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: The pain plan after my shoulder surgery was effective and kept my use of strong medication to a minimum.
+
+Review 8 for Dr. Ishikawa Hiroshi, Orthopedic, Yokohama
+Rating: 9/10
+Clinic visited: Totsuka Hana Health Clinic
+Description: Booking online at Totsuka Hana Health Clinic was simple, and I got a confirmation text with clear directions and a reminder the day before.
+
+Overall rating for Dr. Ishikawa Hiroshi, Orthopedic, Yokohama: 9.25/10 from 8 reviews

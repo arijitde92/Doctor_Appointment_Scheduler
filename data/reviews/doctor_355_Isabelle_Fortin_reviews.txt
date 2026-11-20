@@ -1,0 +1,49 @@
+Doctor: Dr. Isabelle Fortin
+Doctor ID: 355
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 30
+City: Toronto, Canada
+Clinics: Scarborough Wellness Medical Centre (clinic ID 49)
+
+Review 1 for Dr. Isabelle Fortin, Orthopedic, Toronto
+Rating: 7/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. Dr. Isabelle Fortin was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 2 for Dr. Isabelle Fortin, Orthopedic, Toronto
+Rating: 5/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: Very skilled with my knee, but Dr. Isabelle Fortin's clinic runs behind and the wait was over an hour. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 3 for Dr. Isabelle Fortin, Orthopedic, Toronto
+Rating: 6/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: Recovery has gone well, yet the pain control in the first week was not discussed in advance. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Isabelle Fortin, Orthopedic, Toronto
+Rating: 10/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: After my knee replacement, Dr. Isabelle Fortin explained the entire recovery timeline, and I was walking with a cane by week three. Sensitive questions were handled by Dr. Isabelle Fortin with discretion and without a hint of judgment.
+
+Review 5 for Dr. Isabelle Fortin, Orthopedic, Toronto
+Rating: 7/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Isabelle Fortin, Orthopedic, Toronto
+Rating: 7/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: Dr. Isabelle Fortin explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Isabelle Fortin, Orthopedic, Toronto
+Rating: 6/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 8 for Dr. Isabelle Fortin, Orthopedic, Toronto
+Rating: 7/10
+Clinic visited: Scarborough Wellness Medical Centre
+Description: Good result from my shoulder injection, although the cost was higher than the estimate I received. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Overall rating for Dr. Isabelle Fortin, Orthopedic, Toronto: 6.88/10 from 8 reviews

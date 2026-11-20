@@ -1,0 +1,64 @@
+Doctor: Dr. Nathan Hall
+Doctor ID: 1120
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 8
+City: London, UK
+Clinics: Aldersgate Street Polyclinic (clinic ID 147)
+
+Review 1 for Dr. Nathan Hall, Psychiatry, London
+Rating: 5/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Good listener, yet the refill process at Aldersgate Street Polyclinic is slow and requires several phone calls. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Nathan Hall, Psychiatry, London
+Rating: 6/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Nathan Hall, Psychiatry, London
+Rating: 6/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. I got what I needed, but the next available appointment was three weeks away. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 4 for Dr. Nathan Hall, Psychiatry, London
+Rating: 6/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Everything about the care was decent, but the cost was higher than I expected for a short appointment. Worth trying, but I would not call it the best option in the area.
+
+Review 5 for Dr. Nathan Hall, Psychiatry, London
+Rating: 3/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: My first visit was fifteen minutes long and ended with a prescription and almost no discussion. Accessibility was poor, with no ramp at the entrance and a lift that was out of order during my visit.
+
+Review 6 for Dr. Nathan Hall, Psychiatry, London
+Rating: 5/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Quick appointment and a fair price in London, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 7 for Dr. Nathan Hall, Psychiatry, London
+Rating: 7/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Dr. Nathan Hall is knowledgeable, though I waited several weeks for my first appointment. Booking was easy online, but the confirmation email contained the wrong address for Aldersgate Street Polyclinic. Decent care overall, and I will probably return unless I find something closer.
+
+Review 8 for Dr. Nathan Hall, Psychiatry, London
+Rating: 7/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 9 for Dr. Nathan Hall, Psychiatry, London
+Rating: 6/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 10 for Dr. Nathan Hall, Psychiatry, London
+Rating: 6/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Dr. Nathan Hall was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 11 for Dr. Nathan Hall, Psychiatry, London
+Rating: 9/10
+Clinic visited: Aldersgate Street Polyclinic
+Description: Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Overall rating for Dr. Nathan Hall, Psychiatry, London: 6.00/10 from 11 reviews

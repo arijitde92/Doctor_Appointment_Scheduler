@@ -1,0 +1,49 @@
+Doctor: Dr. Eka Kurniawan
+Doctor ID: 5063
+Specialization: Pediatrics
+Gender: Female
+Years of experience: 9
+City: Bandung, Indonesia
+Clinics: Klinik Rahayu Medika (clinic ID 655); Klinik Permata Sehat (clinic ID 659)
+
+Review 1 for Dr. Eka Kurniawan, Pediatrics, Bandung
+Rating: 9/10
+Clinic visited: Klinik Rahayu Medika
+Description: My child's asthma action plan from Dr. Eka Kurniawan was written out clearly so that school staff could follow it too.
+
+Review 2 for Dr. Eka Kurniawan, Pediatrics, Bandung
+Rating: 5/10
+Clinic visited: Klinik Rahayu Medika
+Description: Caring and gentle with my child, Dr. Eka Kurniawan nonetheless ran forty minutes behind schedule at most appointments.
+
+Review 3 for Dr. Eka Kurniawan, Pediatrics, Bandung
+Rating: 6/10
+Clinic visited: Klinik Permata Sehat
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out. Dr. Eka Kurniawan was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Eka Kurniawan, Pediatrics, Bandung
+Rating: 8/10
+Clinic visited: Klinik Rahayu Medika
+Description: Dr. Eka Kurniawan drew a quick sketch to explain what was going on, which helped me remember it afterwards. I phoned after hours about a fever and was called back within the hour with calm, sensible advice. Highly recommended, and I have already told two colleagues about it.
+
+Review 5 for Dr. Eka Kurniawan, Pediatrics, Bandung
+Rating: 8/10
+Clinic visited: Klinik Permata Sehat
+Description: She explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 6 for Dr. Eka Kurniawan, Pediatrics, Bandung
+Rating: 6/10
+Clinic visited: Klinik Permata Sehat
+Description: Dr. Eka Kurniawan is thorough with exams, but the after-hours phone line at Klinik Permata Sehat is hard to reach. Booking was easy online, but the confirmation email contained the wrong address for Klinik Permata Sehat.
+
+Review 7 for Dr. Eka Kurniawan, Pediatrics, Bandung
+Rating: 7/10
+Clinic visited: Klinik Permata Sehat
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Eka Kurniawan, Pediatrics, Bandung
+Rating: 5/10
+Clinic visited: Klinik Permata Sehat
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Eka Kurniawan, Pediatrics, Bandung: 6.75/10 from 8 reviews

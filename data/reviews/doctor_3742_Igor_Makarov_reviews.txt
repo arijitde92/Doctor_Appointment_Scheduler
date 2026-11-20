@@ -1,0 +1,54 @@
+Doctor: Dr. Igor Makarov
+Doctor ID: 3742
+Specialization: Radiology
+Gender: Male
+Years of experience: 9
+City: Moscow, Russia
+Clinics: Prospekt Mira Health Practice (clinic ID 483)
+
+Review 1 for Dr. Igor Makarov, Radiology, Moscow
+Rating: 5/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first.
+
+Review 2 for Dr. Igor Makarov, Radiology, Moscow
+Rating: 7/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Igor Makarov, Radiology, Moscow
+Rating: 7/10
+Clinic visited: Prospekt Mira Health Practice
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized. I would come back, but only if the waiting time improves.
+
+Review 4 for Dr. Igor Makarov, Radiology, Moscow
+Rating: 8/10
+Clinic visited: Prospekt Mira Health Practice
+Description: My test results arrived in the portal within two days, together with a short note that made sense. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Igor Makarov, Radiology, Moscow
+Rating: 6/10
+Clinic visited: Prospekt Mira Health Practice
+Description: The treatment plan from Dr. Igor Makarov made sense, but I wished it had been written down for me to take away. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 6 for Dr. Igor Makarov, Radiology, Moscow
+Rating: 8/10
+Clinic visited: Prospekt Mira Health Practice
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Five stars from me, and I would book again tomorrow.
+
+Review 7 for Dr. Igor Makarov, Radiology, Moscow
+Rating: 8/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Reviewing my X-ray together with Dr. Igor Makarov on the screen made it much easier to understand my arthritis.
+
+Review 8 for Dr. Igor Makarov, Radiology, Moscow
+Rating: 6/10
+Clinic visited: Prospekt Mira Health Practice
+Description: I got what I needed, but the next available appointment was three weeks away. The report from Dr. Igor Makarov was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 9 for Dr. Igor Makarov, Radiology, Moscow
+Rating: 9/10
+Clinic visited: Prospekt Mira Health Practice
+Description: Everything was explained in plain English by Dr. Igor Makarov, and nothing was left to guess.
+
+Overall rating for Dr. Igor Makarov, Radiology, Moscow: 7.11/10 from 9 reviews

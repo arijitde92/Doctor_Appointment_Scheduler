@@ -1,0 +1,49 @@
+Doctor: Dr. Md. Rahim Ahmed
+Doctor ID: 5408
+Specialization: Pathology
+Gender: Male
+Years of experience: 10
+City: Dhaka, Bangladesh
+Clinics: Shapla Family Care Centre (clinic ID 700); Uttara Nirapod Polyclinic (clinic ID 702)
+
+Review 1 for Dr. Md. Rahim Ahmed, Pathology, Dhaka
+Rating: 6/10
+Clinic visited: Uttara Nirapod Polyclinic
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Dr. Md. Rahim Ahmed answered my questions kindly, though the call back took three days.
+
+Review 2 for Dr. Md. Rahim Ahmed, Pathology, Dhaka
+Rating: 6/10
+Clinic visited: Shapla Family Care Centre
+Description: Professional staff and a clean lab, but the sample drop-off hours are limited and inconvenient for working people. Good bedside manner from Dr. Md. Rahim Ahmed, but the parking near Shapla Family Care Centre is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Md. Rahim Ahmed, Pathology, Dhaka
+Rating: 6/10
+Clinic visited: Shapla Family Care Centre
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Md. Rahim Ahmed, Pathology, Dhaka
+Rating: 6/10
+Clinic visited: Uttara Nirapod Polyclinic
+Description: Accurate results and quick service, but the report used a lot of jargon, and I needed my doctor to translate.
+
+Review 5 for Dr. Md. Rahim Ahmed, Pathology, Dhaka
+Rating: 3/10
+Clinic visited: Uttara Nirapod Polyclinic
+Description: The report was handed over by Dr. Md. Rahim Ahmed with no explanation, and I left frightened and confused about the terminology.
+
+Review 6 for Dr. Md. Rahim Ahmed, Pathology, Dhaka
+Rating: 6/10
+Clinic visited: Shapla Family Care Centre
+Description: The blood draw was painless, but the waiting area at Shapla Family Care Centre was crowded in the early morning.
+
+Review 7 for Dr. Md. Rahim Ahmed, Pathology, Dhaka
+Rating: 4/10
+Clinic visited: Shapla Family Care Centre
+Description: The waiting room at Shapla Family Care Centre was overcrowded and there was nowhere to sit, even for elderly patients. I was billed twice for the same panel and it took a month to get a correction. I left disappointed and will take my business to another clinic.
+
+Review 8 for Dr. Md. Rahim Ahmed, Pathology, Dhaka
+Rating: 6/10
+Clinic visited: Shapla Family Care Centre
+Description: Good explanation of the biopsy, but the invoice arrived before I understood what was being charged. Dr. Md. Rahim Ahmed was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Overall rating for Dr. Md. Rahim Ahmed, Pathology, Dhaka: 5.38/10 from 8 reviews

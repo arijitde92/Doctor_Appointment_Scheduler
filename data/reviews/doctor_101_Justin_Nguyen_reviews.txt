@@ -1,0 +1,49 @@
+Doctor: Dr. Justin Nguyen
+Doctor ID: 101
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 14
+City: Chicago, USA
+Clinics: Lincoln Park Family Clinic (clinic ID 16)
+
+Review 1 for Dr. Justin Nguyen, Pulmonology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 2 for Dr. Justin Nguyen, Pulmonology, Chicago
+Rating: 7/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. I will give it one more visit before I decide whether to stay.
+
+Review 3 for Dr. Justin Nguyen, Pulmonology, Chicago
+Rating: 9/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Nobody made me feel foolish for asking about the difference between my two inhalers, and I now understand each one. Everything was explained in plain English by Dr. Justin Nguyen, and nothing was left to guess.
+
+Review 4 for Dr. Justin Nguyen, Pulmonology, Chicago
+Rating: 10/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Living with COPD is easier now that I have a written action plan and a pulmonary rehab referral from Dr. Justin Nguyen.
+
+Review 5 for Dr. Justin Nguyen, Pulmonology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: After years of poorly controlled asthma, Dr. Justin Nguyen reviewed my inhaler technique and adjusted my plan. I now sleep through the night without wheezing.
+
+Review 6 for Dr. Justin Nguyen, Pulmonology, Chicago
+Rating: 8/10
+Clinic visited: Lincoln Park Family Clinic
+Description: The receptionist at Lincoln Park Family Clinic remembered my name and had my forms ready, so check-in took less than a minute. My sleep apnea diagnosis came with a patient walkthrough of the CPAP machine, mask fitting and troubleshooting.
+
+Review 7 for Dr. Justin Nguyen, Pulmonology, Chicago
+Rating: 6/10
+Clinic visited: Lincoln Park Family Clinic
+Description: The treatment plan from Dr. Justin Nguyen made sense, but I wished it had been written down for me to take away. The sleep study was thorough, yet I waited several weeks for the report and a call to discuss it.
+
+Review 8 for Dr. Justin Nguyen, Pulmonology, Chicago
+Rating: 7/10
+Clinic visited: Lincoln Park Family Clinic
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. Booking was easy online, but the confirmation email contained the wrong address for Lincoln Park Family Clinic.
+
+Overall rating for Dr. Justin Nguyen, Pulmonology, Chicago: 7.88/10 from 8 reviews

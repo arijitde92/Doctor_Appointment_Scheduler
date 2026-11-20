@@ -1,0 +1,64 @@
+Doctor: Dr. Karin Bauer
+Doctor ID: 1507
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 14
+City: Berlin, Germany
+Clinics: Gesundheitspraxis Prenzlauer Tor (clinic ID 197)
+
+Review 1 for Dr. Karin Bauer, Psychiatry, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The receptionist at Gesundheitspraxis Prenzlauer Tor remembered my name and had my forms ready, so check-in took less than a minute.
+
+Review 2 for Dr. Karin Bauer, Psychiatry, Berlin
+Rating: 5/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 3 for Dr. Karin Bauer, Psychiatry, Berlin
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 4 for Dr. Karin Bauer, Psychiatry, Berlin
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. I can ring Gesundheitspraxis Prenzlauer Tor with an urgent question and receive a thoughtful reply the same day.
+
+Review 5 for Dr. Karin Bauer, Psychiatry, Berlin
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Supportive in crisis, but follow-up between visits could have been more regular.
+
+Review 6 for Dr. Karin Bauer, Psychiatry, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: My family was included in a session at my request, and Dr. Karin Bauer handled it with great tact. Sensitive questions were handled by Dr. Karin Bauer with discretion and without a hint of judgment.
+
+Review 7 for Dr. Karin Bauer, Psychiatry, Berlin
+Rating: 9/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Karin Bauer, Psychiatry, Berlin
+Rating: 8/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Telehealth follow-ups at Gesundheitspraxis Prenzlauer Tor are punctual and calm, and refills are dealt with quickly. Dr. Karin Bauer used a calm, steady voice that settled my nerves before a stressful procedure. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 9 for Dr. Karin Bauer, Psychiatry, Berlin
+Rating: 7/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Good listener, yet the refill process at Gesundheitspraxis Prenzlauer Tor is slow and requires several phone calls. I got what I needed, but the next available appointment was three weeks away.
+
+Review 10 for Dr. Karin Bauer, Psychiatry, Berlin
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Good bedside manner from Dr. Karin Bauer, but the parking near Gesundheitspraxis Prenzlauer Tor is limited and I had to circle for fifteen minutes.
+
+Review 11 for Dr. Karin Bauer, Psychiatry, Berlin
+Rating: 6/10
+Clinic visited: Gesundheitspraxis Prenzlauer Tor
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Dr. Karin Bauer is knowledgeable, though I waited several weeks for my first appointment.
+
+Overall rating for Dr. Karin Bauer, Psychiatry, Berlin: 7.09/10 from 11 reviews

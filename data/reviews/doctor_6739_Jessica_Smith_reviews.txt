@@ -1,0 +1,59 @@
+Doctor: Dr. Jessica Smith
+Doctor ID: 6739
+Specialization: Neurology
+Gender: Female
+Years of experience: 4
+City: Wellington, New Zealand
+Clinics: Manuka Health Clinic (clinic ID 873)
+
+Review 1 for Dr. Jessica Smith, Neurology, Wellington
+Rating: 3/10
+Clinic visited: Manuka Health Clinic
+Description: Dr. Jessica Smith did not look up from the notes while I described my seizure, and I felt completely unheard. The prescription from Dr. Jessica Smith was not the one we discussed, and I only noticed when I got home. This visit has left me searching for a second opinion, and I will not book here again.
+
+Review 2 for Dr. Jessica Smith, Neurology, Wellington
+Rating: 5/10
+Clinic visited: Manuka Health Clinic
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 3 for Dr. Jessica Smith, Neurology, Wellington
+Rating: 6/10
+Clinic visited: Manuka Health Clinic
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Decent care overall, and I will probably return unless I find something closer.
+
+Review 4 for Dr. Jessica Smith, Neurology, Wellington
+Rating: 6/10
+Clinic visited: Manuka Health Clinic
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Jessica Smith, Neurology, Wellington
+Rating: 7/10
+Clinic visited: Manuka Health Clinic
+Description: Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 6 for Dr. Jessica Smith, Neurology, Wellington
+Rating: 8/10
+Clinic visited: Manuka Health Clinic
+Description: I appreciated that she offered more than one option and let me choose what suited my life. I felt listened to about my numb hands, and the nerve conduction test was done promptly at Manuka Health Clinic.
+
+Review 7 for Dr. Jessica Smith, Neurology, Wellington
+Rating: 7/10
+Clinic visited: Manuka Health Clinic
+Description: Dr. Jessica Smith explained my results well, although the visit felt short for such a complex condition. Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 8 for Dr. Jessica Smith, Neurology, Wellington
+Rating: 6/10
+Clinic visited: Manuka Health Clinic
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 9 for Dr. Jessica Smith, Neurology, Wellington
+Rating: 7/10
+Clinic visited: Manuka Health Clinic
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Jessica Smith at Manuka Health Clinic are difficult to schedule. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 10 for Dr. Jessica Smith, Neurology, Wellington
+Rating: 8/10
+Clinic visited: Manuka Health Clinic
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Overall rating for Dr. Jessica Smith, Neurology, Wellington: 6.30/10 from 10 reviews

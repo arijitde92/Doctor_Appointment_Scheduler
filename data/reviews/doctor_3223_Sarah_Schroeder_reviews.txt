@@ -1,0 +1,54 @@
+Doctor: Dr. Sarah Schroeder
+Doctor ID: 3223
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 3
+City: Differdange, Luxembourg
+Clinics: Clinique Fousbann (clinic ID 418); Centre de Santé Lasauvage (clinic ID 419)
+
+Review 1 for Dr. Sarah Schroeder, Psychiatry, Differdange
+Rating: 9/10
+Clinic visited: Centre de Santé Lasauvage
+Description: The ADHD assessment by Dr. Sarah Schroeder was careful and detailed, with clear written conclusions and realistic expectations. I felt like a person rather than a case number, and she asked about my life as well as my symptoms.
+
+Review 2 for Dr. Sarah Schroeder, Psychiatry, Differdange
+Rating: 8/10
+Clinic visited: Clinique Fousbann
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. I was called in within five minutes of my appointment time at Clinique Fousbann, which is rare and much appreciated.
+
+Review 3 for Dr. Sarah Schroeder, Psychiatry, Differdange
+Rating: 7/10
+Clinic visited: Clinique Fousbann
+Description: Dr. Sarah Schroeder was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 4 for Dr. Sarah Schroeder, Psychiatry, Differdange
+Rating: 4/10
+Clinic visited: Clinique Fousbann
+Description: My concerns about how I felt on the dose were waved away rather than explored. There was no translator available, and my parent was left unable to follow what was being said.
+
+Review 5 for Dr. Sarah Schroeder, Psychiatry, Differdange
+Rating: 9/10
+Clinic visited: Centre de Santé Lasauvage
+Description: My family was included in a session at my request, and Dr. Sarah Schroeder handled it with great tact. My referral letter was written on the spot, and the specialist's office had my details before I called. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 6 for Dr. Sarah Schroeder, Psychiatry, Differdange
+Rating: 7/10
+Clinic visited: Clinique Fousbann
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. The treatment plan from Dr. Sarah Schroeder made sense, but I wished it had been written down for me to take away. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Sarah Schroeder, Psychiatry, Differdange
+Rating: 9/10
+Clinic visited: Clinique Fousbann
+Description: At my visit, Dr. Sarah Schroeder took notes on my medication list, checked for interactions and explained the changes simply. She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I would happily recommend this doctor to friends and family.
+
+Review 8 for Dr. Sarah Schroeder, Psychiatry, Differdange
+Rating: 7/10
+Clinic visited: Centre de Santé Lasauvage
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 9 for Dr. Sarah Schroeder, Psychiatry, Differdange
+Rating: 8/10
+Clinic visited: Clinique Fousbann
+Description: The practice in Differdange is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. My depression finally has a treatment plan from Dr. Sarah Schroeder that works, with regular check-ins and careful dose changes.
+
+Overall rating for Dr. Sarah Schroeder, Psychiatry, Differdange: 7.56/10 from 9 reviews

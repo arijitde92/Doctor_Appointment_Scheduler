@@ -1,0 +1,49 @@
+Doctor: Dr. Laura De Luca
+Doctor ID: 3417
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 14
+City: Milan, Italy
+Clinics: Clinica Santa Giulia (clinic ID 443)
+
+Review 1 for Dr. Laura De Luca, Psychiatry, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Good listener, yet the refill process at Clinica Santa Giulia is slow and requires several phone calls. I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Laura De Luca, Psychiatry, Milan
+Rating: 5/10
+Clinic visited: Clinica Santa Giulia
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Supportive in crisis, but follow-up between visits could have been more regular. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Laura De Luca, Psychiatry, Milan
+Rating: 9/10
+Clinic visited: Clinica Santa Giulia
+Description: Telehealth follow-ups at Clinica Santa Giulia are punctual and calm, and refills are dealt with quickly.
+
+Review 4 for Dr. Laura De Luca, Psychiatry, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: Quick appointment and a fair price in Milan, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 5 for Dr. Laura De Luca, Psychiatry, Milan
+Rating: 7/10
+Clinic visited: Clinica Santa Giulia
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 6 for Dr. Laura De Luca, Psychiatry, Milan
+Rating: 8/10
+Clinic visited: Clinica Santa Giulia
+Description: I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 7 for Dr. Laura De Luca, Psychiatry, Milan
+Rating: 10/10
+Clinic visited: Clinica Santa Giulia
+Description: The ADHD assessment by Dr. Laura De Luca was careful and detailed, with clear written conclusions and realistic expectations. Prescriptions from Dr. Laura De Luca were sent to my pharmacy before I even left the building, and the dosage instructions were written down. I feel lucky to have found this practice in my area.
+
+Review 8 for Dr. Laura De Luca, Psychiatry, Milan
+Rating: 9/10
+Clinic visited: Clinica Santa Giulia
+Description: Appointments in Milan are always on schedule, and the waiting area is peaceful and private. Dr. Laura De Luca used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Overall rating for Dr. Laura De Luca, Psychiatry, Milan: 7.75/10 from 8 reviews

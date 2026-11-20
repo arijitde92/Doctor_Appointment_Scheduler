@@ -1,0 +1,49 @@
+Doctor: Dr. Robert Thompson
+Doctor ID: 242
+Specialization: General
+Gender: Male
+Years of experience: 11
+City: San Francisco, USA
+Clinics: Sunset District Clinic (clinic ID 33)
+
+Review 1 for Dr. Robert Thompson, General, San Francisco
+Rating: 6/10
+Clinic visited: Sunset District Clinic
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Sunset District Clinic were inconsistent.
+
+Review 2 for Dr. Robert Thompson, General, San Francisco
+Rating: 7/10
+Clinic visited: Sunset District Clinic
+Description: Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 3 for Dr. Robert Thompson, General, San Francisco
+Rating: 7/10
+Clinic visited: Sunset District Clinic
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 4 for Dr. Robert Thompson, General, San Francisco
+Rating: 10/10
+Clinic visited: Sunset District Clinic
+Description: Managing my type 2 diabetes with Dr. Robert Thompson has been steady and practical, with quarterly blood sugar reviews and no lectures.
+
+Review 5 for Dr. Robert Thompson, General, San Francisco
+Rating: 8/10
+Clinic visited: Sunset District Clinic
+Description: I always hear back within a day when I leave a question with the nurse at Sunset District Clinic, and Dr. Robert Thompson follows up on lab results personally. I was called in within five minutes of my appointment time at Sunset District Clinic, which is rare and much appreciated.
+
+Review 6 for Dr. Robert Thompson, General, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: By the time I left the room, Dr. Robert Thompson had sorted the sick note, referral letter and prescription refill. My test results arrived in the portal within two days, together with a short note that made sense.
+
+Review 7 for Dr. Robert Thompson, General, San Francisco
+Rating: 7/10
+Clinic visited: Sunset District Clinic
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work.
+
+Review 8 for Dr. Robert Thompson, General, San Francisco
+Rating: 9/10
+Clinic visited: Sunset District Clinic
+Description: I appreciated that he offered more than one option and let me choose what suited my life. Best family doctor I have had; He treats the whole person and not just the symptom list. Highly recommended, and I have already told two colleagues about it.
+
+Overall rating for Dr. Robert Thompson, General, San Francisco: 7.88/10 from 8 reviews

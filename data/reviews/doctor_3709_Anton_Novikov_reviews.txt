@@ -1,0 +1,59 @@
+Doctor: Dr. Anton Novikov
+Doctor ID: 3709
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 21
+City: Kazan, Russia
+Clinics: Klinika Dostoevsky Street (clinic ID 479)
+
+Review 1 for Dr. Anton Novikov, Psychiatry, Kazan
+Rating: 9/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Never once did Dr. Anton Novikov make me feel weak for asking for help, and the stigma I carried really began to ease. Sensitive questions were handled by Dr. Anton Novikov with discretion and without a hint of judgment.
+
+Review 2 for Dr. Anton Novikov, Psychiatry, Kazan
+Rating: 5/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Supportive in crisis, but follow-up between visits could have been more regular. The treatment plan from Dr. Anton Novikov made sense, but I wished it had been written down for me to take away.
+
+Review 3 for Dr. Anton Novikov, Psychiatry, Kazan
+Rating: 6/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Anton Novikov, Psychiatry, Kazan
+Rating: 5/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Good listener, yet the refill process at Klinika Dostoevsky Street is slow and requires several phone calls. I got what I needed, but the next available appointment was three weeks away.
+
+Review 5 for Dr. Anton Novikov, Psychiatry, Kazan
+Rating: 8/10
+Clinic visited: Klinika Dostoevsky Street
+Description: The waiting room at Klinika Dostoevsky Street was clean, quiet and comfortable, with enough seating and water available. My depression finally has a treatment plan from Dr. Anton Novikov that works, with regular check-ins and careful dose changes.
+
+Review 6 for Dr. Anton Novikov, Psychiatry, Kazan
+Rating: 8/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Excellent at explaining how therapy and medication work together, and Dr. Anton Novikov coordinated with my counselor.
+
+Review 7 for Dr. Anton Novikov, Psychiatry, Kazan
+Rating: 8/10
+Clinic visited: Klinika Dostoevsky Street
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 8 for Dr. Anton Novikov, Psychiatry, Kazan
+Rating: 8/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 9 for Dr. Anton Novikov, Psychiatry, Kazan
+Rating: 7/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 10 for Dr. Anton Novikov, Psychiatry, Kazan
+Rating: 7/10
+Clinic visited: Klinika Dostoevsky Street
+Description: Dr. Anton Novikov is knowledgeable, though I waited several weeks for my first appointment. I would come back, but only if the waiting time improves.
+
+Overall rating for Dr. Anton Novikov, Psychiatry, Kazan: 7.10/10 from 10 reviews

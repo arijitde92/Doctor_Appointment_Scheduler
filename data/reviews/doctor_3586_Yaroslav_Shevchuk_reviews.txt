@@ -1,0 +1,64 @@
+Doctor: Dr. Yaroslav Shevchuk
+Doctor ID: 3586
+Specialization: Pediatrics
+Gender: Male
+Years of experience: 12
+City: Kyiv, Ukraine
+Clinics: Klinika Sofiivska Dobrota (clinic ID 464)
+
+Review 1 for Dr. Yaroslav Shevchuk, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Dr. Yaroslav Shevchuk is thorough with exams, but the after-hours phone line at Klinika Sofiivska Dobrota is hard to reach. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Yaroslav Shevchuk, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 3 for Dr. Yaroslav Shevchuk, Pediatrics, Kyiv
+Rating: 6/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Prescriptions were sent promptly, but nobody checked back on whether the treatment had worked.
+
+Review 4 for Dr. Yaroslav Shevchuk, Pediatrics, Kyiv
+Rating: 6/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: The developmental screening was useful; the paperwork afterwards was confusing and took several calls to sort out.
+
+Review 5 for Dr. Yaroslav Shevchuk, Pediatrics, Kyiv
+Rating: 8/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: He explained my child's ear infection in terms we both understood and told us exactly which signs meant coming back. Appointment reminders came by text and email, and rescheduling took two taps. I will be coming back for all my future check-ups.
+
+Review 6 for Dr. Yaroslav Shevchuk, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Friendly with the kids, yet some of my questions about alternative diets got a hurried answer.
+
+Review 7 for Dr. Yaroslav Shevchuk, Pediatrics, Kyiv
+Rating: 8/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: The waiting room in Kyiv has a play corner and separate seating for sick children, which I really valued. Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor.
+
+Review 8 for Dr. Yaroslav Shevchuk, Pediatrics, Kyiv
+Rating: 2/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Dr. Yaroslav Shevchuk spoke mostly to the computer, and my child clung to me throughout the whole appointment.
+
+Review 9 for Dr. Yaroslav Shevchuk, Pediatrics, Kyiv
+Rating: 6/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Good advice on sleep routines, but I would have liked a bit more time to ask about behavior.
+
+Review 10 for Dr. Yaroslav Shevchuk, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: We love the doctor, but the clinic is busy and a walk-in sick visit usually means a long wait. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 11 for Dr. Yaroslav Shevchuk, Pediatrics, Kyiv
+Rating: 7/10
+Clinic visited: Klinika Sofiivska Dobrota
+Description: Booking was easy online, but the confirmation email contained the wrong address for Klinika Sofiivska Dobrota.
+
+Overall rating for Dr. Yaroslav Shevchuk, Pediatrics, Kyiv: 6.45/10 from 11 reviews

@@ -1,0 +1,54 @@
+Doctor: Dr. Stefano Mancini
+Doctor ID: 3401
+Specialization: Pulmonology
+Gender: Male
+Years of experience: 5
+City: Milan, Italy
+Clinics: Centro Medico Porta Venezia (clinic ID 441)
+
+Review 1 for Dr. Stefano Mancini, Pulmonology, Milan
+Rating: 8/10
+Clinic visited: Centro Medico Porta Venezia
+Description: He took my chronic cough seriously, ordered a chest scan and found the cause within two weeks.
+
+Review 2 for Dr. Stefano Mancini, Pulmonology, Milan
+Rating: 10/10
+Clinic visited: Centro Medico Porta Venezia
+Description: My oxygen levels are monitored carefully at Centro Medico Porta Venezia, and the home equipment was arranged without any hassle.
+
+Review 3 for Dr. Stefano Mancini, Pulmonology, Milan
+Rating: 9/10
+Clinic visited: Centro Medico Porta Venezia
+Description: The visit began with a short, friendly chat that put me at ease before any examination started.
+
+Review 4 for Dr. Stefano Mancini, Pulmonology, Milan
+Rating: 9/10
+Clinic visited: Centro Medico Porta Venezia
+Description: The waiting room at Centro Medico Porta Venezia was clean, quiet and comfortable, with enough seating and water available. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 5 for Dr. Stefano Mancini, Pulmonology, Milan
+Rating: 5/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to.
+
+Review 6 for Dr. Stefano Mancini, Pulmonology, Milan
+Rating: 9/10
+Clinic visited: Centro Medico Porta Venezia
+Description: After a bad bout of pneumonia, the follow-up care was careful and I felt fully recovered by the final scan. I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 7 for Dr. Stefano Mancini, Pulmonology, Milan
+Rating: 9/10
+Clinic visited: Centro Medico Porta Venezia
+Description: The spirometry test was explained step by step, and Dr. Stefano Mancini put the results in context with a clear picture of my lung function. Dr. Stefano Mancini drew a quick sketch to explain what was going on, which helped me remember it afterwards. Highly recommended, and I have already told two colleagues about it.
+
+Review 8 for Dr. Stefano Mancini, Pulmonology, Milan
+Rating: 9/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Paperwork at Centro Medico Porta Venezia was kept to a minimum, and the staff helped me complete the insurance form. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 9 for Dr. Stefano Mancini, Pulmonology, Milan
+Rating: 9/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Dr. Stefano Mancini explained my lung nodule follow-up schedule calmly, which took away weeks of worry.
+
+Overall rating for Dr. Stefano Mancini, Pulmonology, Milan: 8.56/10 from 9 reviews

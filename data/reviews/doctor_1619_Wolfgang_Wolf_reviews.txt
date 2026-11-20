@@ -1,0 +1,64 @@
+Doctor: Dr. Wolfgang Wolf
+Doctor ID: 1619
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 3
+City: Munich, Germany
+Clinics: Praxisgemeinschaft Leopoldpark (clinic ID 210); Ärztezentrum Neuhausen-Nord (clinic ID 212); Praxisklinik Nymphenburger Hof (clinic ID 214)
+
+Review 1 for Dr. Wolfgang Wolf, Psychiatry, Munich
+Rating: 7/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options. I got what I needed, but the next available appointment was three weeks away.
+
+Review 2 for Dr. Wolfgang Wolf, Psychiatry, Munich
+Rating: 5/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: The new medication helped, although side effects were not explained as fully as I would have liked.
+
+Review 3 for Dr. Wolfgang Wolf, Psychiatry, Munich
+Rating: 10/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Never once did Dr. Wolfgang Wolf make me feel weak for asking for help, and the stigma I carried really began to ease.
+
+Review 4 for Dr. Wolfgang Wolf, Psychiatry, Munich
+Rating: 8/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: Dr. Wolfgang Wolf took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 5 for Dr. Wolfgang Wolf, Psychiatry, Munich
+Rating: 9/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: Sensitive questions were handled by Dr. Wolfgang Wolf with discretion and without a hint of judgment. My family was included in a session at my request, and Dr. Wolfgang Wolf handled it with great tact.
+
+Review 6 for Dr. Wolfgang Wolf, Psychiatry, Munich
+Rating: 8/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: I felt heard by Dr. Wolfgang Wolf during a very hard time, and nobody rushed me out of the room.
+
+Review 7 for Dr. Wolfgang Wolf, Psychiatry, Munich
+Rating: 6/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: Good listener, yet the refill process at Praxisklinik Nymphenburger Hof is slow and requires several phone calls.
+
+Review 8 for Dr. Wolfgang Wolf, Psychiatry, Munich
+Rating: 8/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 9 for Dr. Wolfgang Wolf, Psychiatry, Munich
+Rating: 9/10
+Clinic visited: Praxisklinik Nymphenburger Hof
+Description: Getting to Praxisklinik Nymphenburger Hof by public transport in Munich was easy, and there is a step-free entrance for wheelchairs. Clear and non-judgmental about my sleep medication, with a plan for stopping it safely. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 10 for Dr. Wolfgang Wolf, Psychiatry, Munich
+Rating: 8/10
+Clinic visited: Praxisgemeinschaft Leopoldpark
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 11 for Dr. Wolfgang Wolf, Psychiatry, Munich
+Rating: 8/10
+Clinic visited: Ärztezentrum Neuhausen-Nord
+Description: I can ring Ärztezentrum Neuhausen-Nord with an urgent question and receive a thoughtful reply the same day.
+
+Overall rating for Dr. Wolfgang Wolf, Psychiatry, Munich: 7.82/10 from 11 reviews

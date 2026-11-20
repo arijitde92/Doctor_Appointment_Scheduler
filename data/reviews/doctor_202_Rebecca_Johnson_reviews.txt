@@ -1,0 +1,64 @@
+Doctor: Dr. Rebecca Johnson
+Doctor ID: 202
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 1
+City: New York, USA
+Clinics: Brooklyn Heights Wellness Clinic (clinic ID 28); Forest Hills Medical Arts (clinic ID 29)
+
+Review 1 for Dr. Rebecca Johnson, Gastroenterology, New York
+Rating: 8/10
+Clinic visited: Forest Hills Medical Arts
+Description: I received a full summary letter from Forest Hills Medical Arts after my endoscopy, which my regular doctor found very useful. Never once did I feel rushed, even though the clinic was clearly busy that morning. Worth every minute of travel, and I would go again without a second thought.
+
+Review 2 for Dr. Rebecca Johnson, Gastroenterology, New York
+Rating: 7/10
+Clinic visited: Forest Hills Medical Arts
+Description: I got what I needed, but the next available appointment was three weeks away. Worth trying, but I would not call it the best option in the area.
+
+Review 3 for Dr. Rebecca Johnson, Gastroenterology, New York
+Rating: 6/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Knowledgeable about my reflux, Dr. Rebecca Johnson still gave diet advice that felt generic and not tailored to my habits.
+
+Review 4 for Dr. Rebecca Johnson, Gastroenterology, New York
+Rating: 5/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Good care during my endoscopy, although the recovery area was crowded and noisy. Helpful visit overall, although I only found out about an extra charge after I had paid. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Rebecca Johnson, Gastroenterology, New York
+Rating: 4/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: My symptoms were dismissed by Dr. Rebecca Johnson as a diet issue without any exam, and the problem continued for months. Dr. Rebecca Johnson did not seem to have read my notes and asked me to repeat my whole history from the beginning.
+
+Review 6 for Dr. Rebecca Johnson, Gastroenterology, New York
+Rating: 8/10
+Clinic visited: Forest Hills Medical Arts
+Description: The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed. Appointment reminders came by text and email, and rescheduling took two taps.
+
+Review 7 for Dr. Rebecca Johnson, Gastroenterology, New York
+Rating: 7/10
+Clinic visited: Brooklyn Heights Wellness Clinic
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. Dr. Rebecca Johnson was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out. I will give it one more visit before I decide whether to stay.
+
+Review 8 for Dr. Rebecca Johnson, Gastroenterology, New York
+Rating: 7/10
+Clinic visited: Forest Hills Medical Arts
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. Clear explanations, but the follow-up call took a week longer than I had been told. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Rebecca Johnson, Gastroenterology, New York
+Rating: 6/10
+Clinic visited: Forest Hills Medical Arts
+Description: The treatment plan from Dr. Rebecca Johnson made sense, but I wished it had been written down for me to take away.
+
+Review 10 for Dr. Rebecca Johnson, Gastroenterology, New York
+Rating: 8/10
+Clinic visited: Forest Hills Medical Arts
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Helpful dietitian referral from Dr. Rebecca Johnson and written guidance for living with ulcerative colitis.
+
+Review 11 for Dr. Rebecca Johnson, Gastroenterology, New York
+Rating: 7/10
+Clinic visited: Forest Hills Medical Arts
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Skilled with the scope, but communication about the fasting time before the procedure was unclear.
+
+Overall rating for Dr. Rebecca Johnson, Gastroenterology, New York: 6.64/10 from 11 reviews

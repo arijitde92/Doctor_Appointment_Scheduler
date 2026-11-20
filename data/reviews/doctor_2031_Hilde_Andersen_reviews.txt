@@ -1,0 +1,49 @@
+Doctor: Dr. Hilde Andersen
+Doctor ID: 2031
+Specialization: Pulmonology
+Gender: Female
+Years of experience: 9
+City: Stavanger, Norway
+Clinics: Legesenteret Olav V Plus (clinic ID 265); Medisinsk Senter Kongsgård (clinic ID 267)
+
+Review 1 for Dr. Hilde Andersen, Pulmonology, Stavanger
+Rating: 7/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Quick appointment and a fair price in Stavanger, but the staff seemed overwhelmed and a bit curt on the phone. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 2 for Dr. Hilde Andersen, Pulmonology, Stavanger
+Rating: 7/10
+Clinic visited: Legesenteret Olav V Plus
+Description: Good advice about triggers, but the clinic's phone line is difficult to get through to. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 3 for Dr. Hilde Andersen, Pulmonology, Stavanger
+Rating: 9/10
+Clinic visited: Legesenteret Olav V Plus
+Description: Dr. Hilde Andersen double-checked my allergy list before prescribing anything, and that careful habit earned my trust.
+
+Review 4 for Dr. Hilde Andersen, Pulmonology, Stavanger
+Rating: 6/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: My CPAP fitting went well, but the supplier follow-up was slow and the first mask leaked. Dr. Hilde Andersen was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 5 for Dr. Hilde Andersen, Pulmonology, Stavanger
+Rating: 8/10
+Clinic visited: Legesenteret Olav V Plus
+Description: The allergy-related asthma triggers we identified have made a visible difference to my winters in Stavanger. The practice in Stavanger is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 6 for Dr. Hilde Andersen, Pulmonology, Stavanger
+Rating: 8/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Getting to Medisinsk Senter Kongsgård by public transport in Stavanger was easy, and there is a step-free entrance for wheelchairs. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 7 for Dr. Hilde Andersen, Pulmonology, Stavanger
+Rating: 6/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Worth trying, but I would not call it the best option in the area.
+
+Review 8 for Dr. Hilde Andersen, Pulmonology, Stavanger
+Rating: 9/10
+Clinic visited: Medisinsk Senter Kongsgård
+Description: I was given a printed summary of the visit, which I shared with my family at home. She took my chronic cough seriously, ordered a chest scan and found the cause within two weeks.
+
+Overall rating for Dr. Hilde Andersen, Pulmonology, Stavanger: 7.50/10 from 8 reviews

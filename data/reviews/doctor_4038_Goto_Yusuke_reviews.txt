@@ -1,0 +1,59 @@
+Doctor: Dr. Goto Yusuke
+Doctor ID: 4038
+Specialization: Pathology
+Gender: Male
+Years of experience: 17
+City: Osaka, Japan
+Clinics: Namba Hinata Clinic (clinic ID 521); Tennoji Wakaba Family Clinic (clinic ID 522); Honmachi Kaede Health Clinic (clinic ID 523)
+
+Review 1 for Dr. Goto Yusuke, Pathology, Osaka
+Rating: 9/10
+Clinic visited: Namba Hinata Clinic
+Description: The molecular test results were presented with a clear explanation of what they meant and what they did not. Dr. Goto Yusuke used a calm, steady voice that settled my nerves before a stressful procedure.
+
+Review 2 for Dr. Goto Yusuke, Pathology, Osaka
+Rating: 8/10
+Clinic visited: Namba Hinata Clinic
+Description: The waiting room at Namba Hinata Clinic was clean, quiet and comfortable, with enough seating and water available. I was nervous about the biopsy result, and the call from Dr. Goto Yusuke was gentle, honest and unhurried.
+
+Review 3 for Dr. Goto Yusuke, Pathology, Osaka
+Rating: 10/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 4 for Dr. Goto Yusuke, Pathology, Osaka
+Rating: 9/10
+Clinic visited: Tennoji Wakaba Family Clinic
+Description: Even the billing team was helpful, and a mistake on my statement was corrected within a day. Worth every minute of travel, and I would go again without a second thought.
+
+Review 5 for Dr. Goto Yusuke, Pathology, Osaka
+Rating: 6/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Results were on time, although the online portal was hard to navigate and I had to ask for a printed copy. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Goto Yusuke, Pathology, Osaka
+Rating: 9/10
+Clinic visited: Namba Hinata Clinic
+Description: My skin biopsy report included a short summary that my dermatologist said was among the clearest they had seen. The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. This is the first doctor I have trusted completely in years.
+
+Review 7 for Dr. Goto Yusuke, Pathology, Osaka
+Rating: 9/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: The biopsy report was returned in three days, and Dr. Goto Yusuke took time on the phone to explain every term in it.
+
+Review 8 for Dr. Goto Yusuke, Pathology, Osaka
+Rating: 8/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Allergy panel results were explained in detail by Dr. Goto Yusuke, with a note on which results mattered clinically and which did not. Paperwork at Honmachi Kaede Health Clinic was kept to a minimum, and the staff helped me complete the insurance form. Five stars from me, and I would book again tomorrow.
+
+Review 9 for Dr. Goto Yusuke, Pathology, Osaka
+Rating: 8/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 10 for Dr. Goto Yusuke, Pathology, Osaka
+Rating: 10/10
+Clinic visited: Honmachi Kaede Health Clinic
+Description: Fast turnaround at Honmachi Kaede Health Clinic on my thyroid panel, with results in my online account by the next morning. Sensitive questions were handled by Dr. Goto Yusuke with discretion and without a hint of judgment.
+
+Overall rating for Dr. Goto Yusuke, Pathology, Osaka: 8.60/10 from 10 reviews

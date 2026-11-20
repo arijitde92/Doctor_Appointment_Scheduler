@@ -1,0 +1,49 @@
+Doctor: Dr. Sophie Smith
+Doctor ID: 1042
+Specialization: Cardiology
+Gender: Female
+Years of experience: 5
+City: Bristol, UK
+Clinics: Park Street Medical Practice (clinic ID 136)
+
+Review 1 for Dr. Sophie Smith, Cardiology, Bristol
+Rating: 7/10
+Clinic visited: Park Street Medical Practice
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 2 for Dr. Sophie Smith, Cardiology, Bristol
+Rating: 10/10
+Clinic visited: Park Street Medical Practice
+Description: Dr. Sophie Smith explained the difference between my statin options and let me weigh in on the choice.
+
+Review 3 for Dr. Sophie Smith, Cardiology, Bristol
+Rating: 9/10
+Clinic visited: Park Street Medical Practice
+Description: Seeing Dr. Sophie Smith in Bristol meant my whole family history was reviewed, and now my sister is being screened too.
+
+Review 4 for Dr. Sophie Smith, Cardiology, Bristol
+Rating: 10/10
+Clinic visited: Park Street Medical Practice
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill.
+
+Review 5 for Dr. Sophie Smith, Cardiology, Bristol
+Rating: 7/10
+Clinic visited: Park Street Medical Practice
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Great care in the visit itself, but the billing for the tests at Park Street Medical Practice was confusing.
+
+Review 6 for Dr. Sophie Smith, Cardiology, Bristol
+Rating: 10/10
+Clinic visited: Park Street Medical Practice
+Description: My atrial fibrillation is well managed by Dr. Sophie Smith, and I know exactly what symptoms mean I should call. I felt like a person rather than a case number, and she asked about my life as well as my symptoms. My whole family is switching over after seeing how good the care was.
+
+Review 7 for Dr. Sophie Smith, Cardiology, Bristol
+Rating: 9/10
+Clinic visited: Park Street Medical Practice
+Description: She drew a simple diagram of my heart valve to explain the echo result, which finally made it click for me. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Sophie Smith, Cardiology, Bristol
+Rating: 10/10
+Clinic visited: Park Street Medical Practice
+Description: My stress test was supervised carefully, and Dr. Sophie Smith reviewed the results in the same visit with a plan for my cholesterol. Paperwork at Park Street Medical Practice was kept to a minimum, and the staff helped me complete the insurance form. I would happily recommend this doctor to friends and family.
+
+Overall rating for Dr. Sophie Smith, Cardiology, Bristol: 9.00/10 from 8 reviews

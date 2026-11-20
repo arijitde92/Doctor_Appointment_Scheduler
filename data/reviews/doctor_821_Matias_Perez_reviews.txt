@@ -1,0 +1,49 @@
+Doctor: Dr. Matías Pérez
+Doctor ID: 821
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 4
+City: Mendoza, Argentina
+Clinics: Policlínica Godoy Cruz (clinic ID 108)
+
+Review 1 for Dr. Matías Pérez, Gastroenterology, Mendoza
+Rating: 7/10
+Clinic visited: Policlínica Godoy Cruz
+Description: Knowledgeable about my reflux, Dr. Matías Pérez still gave diet advice that felt generic and not tailored to my habits. I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 2 for Dr. Matías Pérez, Gastroenterology, Mendoza
+Rating: 6/10
+Clinic visited: Policlínica Godoy Cruz
+Description: Skilled with the scope, but communication about the fasting time before the procedure was unclear. Good bedside manner from Dr. Matías Pérez, but the parking near Policlínica Godoy Cruz is limited and I had to circle for fifteen minutes.
+
+Review 3 for Dr. Matías Pérez, Gastroenterology, Mendoza
+Rating: 8/10
+Clinic visited: Policlínica Godoy Cruz
+Description: Getting to Policlínica Godoy Cruz by public transport in Mendoza was easy, and there is a step-free entrance for wheelchairs. The colonoscopy prep instructions were clear and easy to follow, and the procedure itself was comfortable and well managed.
+
+Review 4 for Dr. Matías Pérez, Gastroenterology, Mendoza
+Rating: 5/10
+Clinic visited: Policlínica Godoy Cruz
+Description: Dr. Matías Pérez is thorough, but I waited nearly two months to get the first available slot. The doctor was kind, though the clinic's evening hours are very limited for working people. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Matías Pérez, Gastroenterology, Mendoza
+Rating: 9/10
+Clinic visited: Policlínica Godoy Cruz
+Description: Getting to Policlínica Godoy Cruz in Mendoza was simple, and the day-procedure unit was calm and efficient. Booking online at Policlínica Godoy Cruz was simple, and I got a confirmation text with clear directions and a reminder the day before. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 6 for Dr. Matías Pérez, Gastroenterology, Mendoza
+Rating: 7/10
+Clinic visited: Policlínica Godoy Cruz
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable. Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Review 7 for Dr. Matías Pérez, Gastroenterology, Mendoza
+Rating: 8/10
+Clinic visited: Policlínica Godoy Cruz
+Description: Dr. Matías Pérez was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry.
+
+Review 8 for Dr. Matías Pérez, Gastroenterology, Mendoza
+Rating: 8/10
+Clinic visited: Policlínica Godoy Cruz
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms.
+
+Overall rating for Dr. Matías Pérez, Gastroenterology, Mendoza: 7.25/10 from 8 reviews

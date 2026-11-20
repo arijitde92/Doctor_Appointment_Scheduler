@@ -1,0 +1,54 @@
+Doctor: Dr. Beatriz Flores Díaz
+Doctor ID: 433
+Specialization: Psychiatry
+Gender: Female
+Years of experience: 30
+City: Mexico City, Mexico
+Clinics: Clínica Santa Brígida (clinic ID 60); Consultorios Médicos Coyoacán (clinic ID 62)
+
+Review 1 for Dr. Beatriz Flores Díaz, Psychiatry, Mexico City
+Rating: 9/10
+Clinic visited: Consultorios Médicos Coyoacán
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. I will be coming back for all my future check-ups.
+
+Review 2 for Dr. Beatriz Flores Díaz, Psychiatry, Mexico City
+Rating: 5/10
+Clinic visited: Consultorios Médicos Coyoacán
+Description: The new medication helped, although side effects were not explained as fully as I would have liked. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 3 for Dr. Beatriz Flores Díaz, Psychiatry, Mexico City
+Rating: 6/10
+Clinic visited: Clínica Santa Brígida
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 4 for Dr. Beatriz Flores Díaz, Psychiatry, Mexico City
+Rating: 9/10
+Clinic visited: Clínica Santa Brígida
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency.
+
+Review 5 for Dr. Beatriz Flores Díaz, Psychiatry, Mexico City
+Rating: 10/10
+Clinic visited: Consultorios Médicos Coyoacán
+Description: The ADHD assessment by Dr. Beatriz Flores Díaz was careful and detailed, with clear written conclusions and realistic expectations.
+
+Review 6 for Dr. Beatriz Flores Díaz, Psychiatry, Mexico City
+Rating: 5/10
+Clinic visited: Consultorios Médicos Coyoacán
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Helpful diagnosis, though the billing for my first long assessment was confusing. I would come back, but only if the waiting time improves.
+
+Review 7 for Dr. Beatriz Flores Díaz, Psychiatry, Mexico City
+Rating: 8/10
+Clinic visited: Clínica Santa Brígida
+Description: Appointment reminders came by text and email, and rescheduling took two taps. She reduced my dose slowly and gave me a written tapering plan, which made the process far less scary.
+
+Review 8 for Dr. Beatriz Flores Díaz, Psychiatry, Mexico City
+Rating: 8/10
+Clinic visited: Clínica Santa Brígida
+Description: I felt heard by Dr. Beatriz Flores Díaz during a very hard time, and nobody rushed me out of the room. The telehealth appointment started on time, the video was clear, and a prescription was waiting at my pharmacy within the hour.
+
+Review 9 for Dr. Beatriz Flores Díaz, Psychiatry, Mexico City
+Rating: 8/10
+Clinic visited: Consultorios Médicos Coyoacán
+Description: My depression finally has a treatment plan from Dr. Beatriz Flores Díaz that works, with regular check-ins and careful dose changes.
+
+Overall rating for Dr. Beatriz Flores Díaz, Psychiatry, Mexico City: 7.56/10 from 9 reviews

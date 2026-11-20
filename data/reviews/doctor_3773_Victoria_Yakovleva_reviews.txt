@@ -1,0 +1,54 @@
+Doctor: Dr. Victoria Yakovleva
+Doctor ID: 3773
+Specialization: Cardiology
+Gender: Female
+Years of experience: 3
+City: Novosibirsk, Russia
+Clinics: Dimitrova Family Polyclinic (clinic ID 487)
+
+Review 1 for Dr. Victoria Yakovleva, Cardiology, Novosibirsk
+Rating: 3/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful. Dr. Victoria Yakovleva spent most of the appointment looking at the screen and gave very brief answers to my questions. Unfortunately I will be switching to a different doctor for my next appointment.
+
+Review 2 for Dr. Victoria Yakovleva, Cardiology, Novosibirsk
+Rating: 5/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: A competent and pleasant visit, though the waiting area was noisy and the seating uncomfortable.
+
+Review 3 for Dr. Victoria Yakovleva, Cardiology, Novosibirsk
+Rating: 6/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: The echocardiogram staff were kind, but the results took over a week to be explained to me. The treatment plan from Dr. Victoria Yakovleva made sense, but I wished it had been written down for me to take away.
+
+Review 4 for Dr. Victoria Yakovleva, Cardiology, Novosibirsk
+Rating: 5/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: Reassuring about my palpitations, though I felt a bit more discussion of triggers would have helped. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Victoria Yakovleva, Cardiology, Novosibirsk
+Rating: 6/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: Helpful with my cholesterol, Dr. Victoria Yakovleva still gave dietary advice that was a little generic. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 6 for Dr. Victoria Yakovleva, Cardiology, Novosibirsk
+Rating: 7/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 7 for Dr. Victoria Yakovleva, Cardiology, Novosibirsk
+Rating: 6/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: I got what I needed, but the next available appointment was three weeks away. Dr. Victoria Yakovleva adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Review 8 for Dr. Victoria Yakovleva, Cardiology, Novosibirsk
+Rating: 5/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 9 for Dr. Victoria Yakovleva, Cardiology, Novosibirsk
+Rating: 6/10
+Clinic visited: Dimitrova Family Polyclinic
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away.
+
+Overall rating for Dr. Victoria Yakovleva, Cardiology, Novosibirsk: 5.44/10 from 9 reviews

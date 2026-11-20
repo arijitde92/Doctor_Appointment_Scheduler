@@ -1,0 +1,54 @@
+Doctor: Dr. Nico Ferreira
+Doctor ID: 3255
+Specialization: Psychology
+Gender: Male
+Years of experience: 9
+City: Dudelange, Luxembourg
+Clinics: Polyclinique Italiens (clinic ID 422); Clinique Burange (clinic ID 423)
+
+Review 1 for Dr. Nico Ferreira, Psychology, Dudelange
+Rating: 7/10
+Clinic visited: Clinique Burange
+Description: I got what I needed, but the next available appointment was three weeks away. I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 2 for Dr. Nico Ferreira, Psychology, Dudelange
+Rating: 9/10
+Clinic visited: Clinique Burange
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning.
+
+Review 3 for Dr. Nico Ferreira, Psychology, Dudelange
+Rating: 6/10
+Clinic visited: Polyclinique Italiens
+Description: Good bedside manner from Dr. Nico Ferreira, but the parking near Polyclinique Italiens is limited and I had to circle for fifteen minutes.
+
+Review 4 for Dr. Nico Ferreira, Psychology, Dudelange
+Rating: 8/10
+Clinic visited: Clinique Burange
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Nico Ferreira felt well organized from start to finish.
+
+Review 5 for Dr. Nico Ferreira, Psychology, Dudelange
+Rating: 7/10
+Clinic visited: Clinique Burange
+Description: My trauma work felt well paced, although the schedule changed several times at Clinique Burange.
+
+Review 6 for Dr. Nico Ferreira, Psychology, Dudelange
+Rating: 8/10
+Clinic visited: Clinique Burange
+Description: Appointment reminders came by text and email, and rescheduling took two taps. The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Review 7 for Dr. Nico Ferreira, Psychology, Dudelange
+Rating: 7/10
+Clinic visited: Polyclinique Italiens
+Description: The treatment plan from Dr. Nico Ferreira made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Nico Ferreira, Psychology, Dudelange
+Rating: 7/10
+Clinic visited: Clinique Burange
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Dr. Nico Ferreira listens well, though some sessions felt like a recap of the previous one without much new direction. Decent care overall, and I will probably return unless I find something closer.
+
+Review 9 for Dr. Nico Ferreira, Psychology, Dudelange
+Rating: 6/10
+Clinic visited: Clinique Burange
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Overall rating for Dr. Nico Ferreira, Psychology, Dudelange: 7.22/10 from 9 reviews

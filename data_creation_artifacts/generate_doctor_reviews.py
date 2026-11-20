@@ -1,321 +1,169 @@
 #!/usr/bin/env python3
-"""Generate fictitious patient review .txt files per doctor from seed SQL."""
+"""
+Generate fictitious patient-review .txt files, one per doctor, from the seed SQL.
+
+Sentences come from review_bank.json (written by a Claude Sonnet sub-agent:
+per-specialization and generic patient-voice sentences in positive / mixed /
+negative tone, with {doctor} {S} {s} {o} {P} {p} {clinic} {city} placeholders).
+
+Each doctor gets a hidden "quality" score; review ratings scatter around it and
+the tone of each sentence follows its rating, so doctors differ in a way the
+RAG agent can pick up. Every review heading repeats the doctor's name,
+specialization and city so that each retrieved chunk is self-describing.
+
+Doctors in frozen cities (default: Kolkata, see generate_data.py) keep their
+existing review files untouched. Files for doctors that no longer exist are
+removed. Output is deterministic for a given seed SQL.
+
+Usage:
+    python generate_doctor_reviews.py                # write data/reviews/
+    python generate_doctor_reviews.py --regenerate-all
+"""
 from __future__ import annotations
 
-import hashlib
+import argparse
+import json
+import random
 import re
+import unicodedata
+from collections import defaultdict
 from pathlib import Path
 
+from generate_data import DEFAULT_FROZEN_CITIES, OUTPUT_DIR as SQL_DIR, parse_sql_tuples
 
-ROOT = Path(__file__).resolve().parents[1]
-SQL_PATH = ROOT / "data" / "seed_sql" / "insert_doctors.sql"
+HERE = Path(__file__).resolve().parent
+ROOT = HERE.parent
+BANK_PATH = HERE / "review_bank.json"
 OUT_DIR = ROOT / "data" / "reviews"
+SEED = 20261116
 
-
-def parse_doctors() -> list[tuple[int, str, str, int, int, str]]:
-    text = SQL_PATH.read_text(encoding="utf-8")
-    pattern = re.compile(
-        r"\((\d+),\s*'([^']*)',\s*'([^']*)',\s*(\d+),\s*(\d+),\s*'([^']*)'\)"
-    )
-    rows = []
-    for m in pattern.finditer(text):
-        rows.append(
-            (
-                int(m.group(1)),
-                m.group(2),
-                m.group(3),
-                int(m.group(4)),
-                int(m.group(5)),
-                m.group(6),
-            )
-        )
-    return sorted(rows, key=lambda r: r[0])
+PRONOUNS = {
+    "Male": {"S": "He", "s": "he", "o": "him", "P": "His", "p": "his"},
+    "Female": {"S": "She", "s": "she", "o": "her", "P": "Her", "p": "her"},
+}
 
 
 def slug_name(name: str) -> str:
-    return re.sub(r"\s+", "_", name.strip())
+    """ASCII file-name slug: 'José Müller' -> 'Jose_Muller'."""
+    ascii_name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
+    return re.sub(r"[^A-Za-z0-9]+", "_", ascii_name).strip("_") or "doctor"
 
 
-def pronouns_f(gender: str) -> dict[str, str]:
-    if gender == "Male":
-        return {"s": "he", "o": "him", "p": "his", "r": "himself"}
-    return {"s": "she", "o": "her", "p": "her", "r": "herself"}
+def review_filename(doc_id: int, name: str) -> str:
+    return f"doctor_{doc_id}_{slug_name(name)}_reviews.txt"
 
 
-def exp_descriptor(years: int) -> str:
-    if years <= 2:
-        return "relatively new attending with careful habits"
-    if years <= 7:
-        return "a clinician building strong outpatient rhythm"
-    if years <= 14:
-        return "well established with practical, up-to-date judgment"
-    return "very senior, with steady hands in complex discussions"
+def load_catalog() -> tuple[list[dict], dict[int, list[dict]]]:
+    clinics = {r[0]: {"id": r[0], "name": r[1], "city": r[3], "country": r[5]}
+               for r in parse_sql_tuples(SQL_DIR / "insert_clinics.sql")}
+    by_doctor: dict[int, list[dict]] = defaultdict(list)
+    for _, doc_id, clinic_id in parse_sql_tuples(SQL_DIR / "insert_doctor_clinic.sql"):
+        by_doctor[doc_id].append(clinics[clinic_id])
+    doctors = [dict(zip(["id", "name", "gender", "age", "experience", "specialization"], r))
+               for r in parse_sql_tuples(SQL_DIR / "insert_doctors.sql")]
+    return doctors, by_doctor
 
 
-def spec_sentence(spec: str, pr: dict[str, str]) -> str:
-    s, p = pr["s"], pr["p"]
-    lines = {
-        "Obstetrics and Gynecology (OB/GYN)": (
-            f"{s.capitalize()} discussed options without pressure and respected modesty during the exam."
-        ),
-        "Pulmonology": (
-            f"{s.capitalize()} walked through inhaler technique and what my spirometry trend actually meant."
-        ),
-        "Neurology": (
-            f"{s.capitalize()} explained when imaging was warranted versus watchful waiting for my headaches."
-        ),
-        "Pediatrics": (
-            f"{s.capitalize()} spoke directly to my child and still looped us in as parents on every decision."
-        ),
-        "Radiology": (
-            f"{s.capitalize()} oriented me to key findings on the scan and how they matched my symptoms."
-        ),
-        "Psychology": (
-            f"{s.capitalize()} helped me link sleep, mood, and workload with concrete weekly experiments."
-        ),
-        "Psychiatry": (
-            f"{s.capitalize()} titrated medication carefully and checked side effects at each step."
-        ),
-        "Cardiology": (
-            f"{s.capitalize()} clarified family risk, blood pressure targets, and warning signs to act on."
-        ),
-        "Orthopedic": (
-            f"{s.capitalize()} prioritized physical therapy before procedures and set realistic activity limits."
-        ),
-        "Gastroenterology": (
-            f"{s.capitalize()} outlined diet triggers, acid control, and what endoscopy would or would not prove."
-        ),
-        "General": (
-            f"{s.capitalize()} handled screening, chronic issues, and referrals without making me feel bounced around."
-        ),
-        "Pathology": (
-            f"{s.capitalize()} translated biopsy wording and timelines so my treating team and I stayed aligned."
-        ),
-    }
-    return lines.get(
-        spec,
-        f"{s.capitalize()} stayed focused on my questions and mapped sensible next steps.",
-    )
+def tone_for(rating: int) -> str:
+    if rating >= 8:
+        return "positive"
+    if rating >= 5:
+        return "mixed"
+    return "negative"
 
 
-def spec_short_label(spec: str) -> str:
-    return {
-        "Obstetrics and Gynecology (OB/GYN)": "women’s health and pregnancy",
-        "Pulmonology": "lung and breathing care",
-        "Neurology": "neurologic symptoms",
-        "Pediatrics": "pediatric care",
-        "Radiology": "imaging results",
-        "Psychology": "therapy goals",
-        "Psychiatry": "psychiatric treatment",
-        "Cardiology": "heart health",
-        "Orthopedic": "bone and joint problems",
-        "Gastroenterology": "digestive symptoms",
-        "General": "primary care",
-        "Pathology": "lab and pathology coordination",
-    }.get(spec, spec.lower())
+def build_reviews(doc: dict, clinics: list[dict], bank: dict) -> list[tuple[int, str, str]]:
+    """Return [(rating, clinic_name, text)] for one doctor."""
+    rng = random.Random(f"{SEED}:{doc['id']}:{doc['name']}")
+    spec_bank = bank["specializations"][doc["specialization"]]
+    quality = min(9.6, max(4.0, rng.gauss(7.6, 1.1)))
+    used: set[str] = set()
+
+    def pick(pool: list[str]) -> str | None:
+        options = [s for s in pool if s not in used]
+        if not options:
+            return None
+        choice = rng.choice(options)
+        used.add(choice)
+        return choice
+
+    reviews = []
+    for _ in range(rng.randint(8, 12)):
+        rating = int(round(min(10, max(1, rng.gauss(quality, 1.3)))))
+        tone = tone_for(rating)
+        clinic = rng.choice(clinics)
+        first_pool = spec_bank[tone] if rng.random() < 0.6 else bank["generic"][tone]
+        parts = [pick(first_pool) or pick(bank["generic"][tone]) or pick(spec_bank[tone])]
+        if rng.random() < 0.55:
+            parts.append(pick(bank["generic"][tone] if parts[0] in spec_bank[tone] else spec_bank[tone]))
+        if rng.random() < 0.3:
+            parts.append(pick(bank["closers"][tone]))
+        values = {"doctor": f"Dr. {doc['name']}", "clinic": clinic["name"], "city": clinic["city"],
+                  **PRONOUNS[doc["gender"]]}
+        text = " ".join(p.format(**values) for p in parts if p)
+        reviews.append((rating, clinic["name"], text))
+    return reviews
 
 
-def clamp_words(text: str, limit: int = 100) -> str:
-    text = re.sub(r"\s+", " ", text).strip()
-    words = text.split()
-    if len(words) <= limit:
-        return text
-    return " ".join(words[:limit])
-
-
-def second_spec_sentence(spec: str, pr: dict[str, str], topic: str) -> str:
-    s = pr["s"]
-    follow = {
-        "Obstetrics and Gynecology (OB/GYN)": (
-            f"{s.capitalize()} coordinated ultrasound timing and postpartum questions without making me feel silly."
-        ),
-        "Pulmonology": (
-            f"{s.capitalize()} set a clear action plan for flare-ups and when to go to emergency care."
-        ),
-        "Neurology": (
-            f"{s.capitalize()} charted symptom timing carefully, which helped narrow possible triggers."
-        ),
-        "Pediatrics": (
-            f"{s.capitalize()} gave practical dosing guidance and what to watch overnight when fever spiked."
-        ),
-        "Radiology": (
-            f"{s.capitalize()} compared this scan to prior films so the change in a nodule was understandable."
-        ),
-        "Psychology": (
-            f"{s.capitalize()} balanced listening with gentle challenges that kept me accountable week to week."
-        ),
-        "Psychiatry": (
-            f"{s.capitalize()} warned me about early side effects so I did not panic when they appeared briefly."
-        ),
-        "Cardiology": (
-            f"{s.capitalize()} adjusted BP goals to my comorbidities instead of quoting a one-line textbook target."
-        ),
-        "Orthopedic": (
-            f"{s.capitalize()} explained why bracing helped in my case and when to wean off it safely."
-        ),
-        "Gastroenterology": (
-            f"{s.capitalize()} sequenced acid blockers and diet trials logically before escalating tests."
-        ),
-        "General": (
-            f"{s.capitalize()} helped me prioritize which minor complaints to track versus which to ignore for now."
-        ),
-        "Pathology": (
-            f"{s.capitalize()} spelled out what pending stains could still change and what was already firm."
-        ),
-    }
-    return follow.get(
-        spec,
-        f"I could tell {s} stays current in {topic} rather than recycling outdated advice.",
-    )
-
-
-def unique_bank_for_doctor(
-    doc_id: int, name: str, gender: str, age: int, years: int, spec: str
-) -> list[tuple[int, str]]:
-    rng = int(hashlib.sha256(f"{doc_id}:{name}:{spec}".encode()).hexdigest(), 16)
-    pr = pronouns_f(gender)
-    s, p = pr["s"], pr["p"]
-
-    def pick(seq: list, i: int):
-        return seq[(rng >> (i * 3)) % len(seq)]
-
-    topic = spec_short_label(spec)
-    exp_d = exp_descriptor(years)
-    spec_a = spec_sentence(spec, pr)
-    spec_b = second_spec_sentence(spec, pr, topic)
-
-    mild = pick(
-        [
-            (
-                f"Front-desk delays stacked up on a busy morning; once I reached {name}, "
-                f"{s} was thorough and apologized for the system, but I still lost half a day."
-            ),
-            (
-                f"A portal message about refills lingered unanswered longer than promised; "
-                f"when {s} heard, {s} fixed it quickly, yet the silence beforehand rattled me."
-            ),
-            (
-                f"One visit felt compressed—{s} covered essentials but I drove home with leftover questions "
-                f"until a nurse called back later with clarifications."
-            ),
-        ],
-        5,
-    )
-
-    harsher = pick(
-        [
-            (
-                f"I left one appointment feeling unheard about side effects; a later visit went better, "
-                f"but that rough day nearly pushed me to switch clinics."
-            ),
-            (
-                f"Billing confusion on a procedure code took weeks to unwind; clinically I respect {name}, "
-                f"yet administrative friction was exhausting."
-            ),
-            (
-                f"Phone triage once minimized pain I had flagged repeatedly; {s} ultimately corrected course, "
-                f"but trust dipped before it recovered."
-            ),
-        ],
-        6,
-    )
-
-    pairs: list[tuple[int, str]] = [
-        (
-            9,
-            clamp_words(
-                f"My care with {name} centered on {topic}. {spec_a} "
-                f"{s.capitalize()} matched explanations to how much detail I wanted that day."
-            ),
-        ),
-        (
-            pick([8, 9], 9),
-            clamp_words(
-                f"With about {years} years in practice, {s} reads as {exp_d}. "
-                f"I never felt rushed through shared decision-making on the main problem I came in for."
-            ),
-        ),
-        (
-            10,
-            clamp_words(
-                f"{spec_b} Follow-up on labs landed sooner than I expected, which lowered my anxiety between visits."
-            ),
-        ),
-        (
-            9,
-            clamp_words(
-                f"{s.capitalize()} tied my story together across two separate problems instead of treating each visit in isolation. "
-                f"That continuity is rare and noticeable."
-            ),
-        ),
-        (
-            8,
-            clamp_words(
-                f"I brought printouts from the internet; {s} smiled, not scoffed, and pointed me to better sources. "
-                f"Even pushback felt respectful."
-            ),
-        ),
-        (
-            10,
-            clamp_words(
-                f"Preventive advice matched my age ({age}-ish range for many patients {s} sees) "
-                f"without doom-scrolling me about every risk."
-            ),
-        ),
-        (
-            9,
-            clamp_words(
-                f"When I needed a letter for work accommodations, {s} wrote something clear and factual the first time—small thing, huge relief."
-            ),
-        ),
-        (
-            pick([6, 7], 10),
-            clamp_words(mild),
-        ),
-        (
-            pick([4, 5], 11),
-            clamp_words(harsher),
-        ),
-        (
-            pick([8, 9], 12),
-            clamp_words(
-                f"Overall I would recommend {name} for {topic}. The clinic is imperfect like any busy practice, "
-                f"but {p} clinical judgment and willingness to revise a plan when something fails keep me returning."
-            ),
-        ),
+def render(doc: dict, clinics: list[dict], reviews: list[tuple[int, str, str]]) -> str:
+    city = clinics[0]["city"]
+    country = clinics[0]["country"]
+    label = f"Dr. {doc['name']}, {doc['specialization']}, {city}"
+    lines = [
+        f"Doctor: Dr. {doc['name']}",
+        f"Doctor ID: {doc['id']}",
+        f"Specialization: {doc['specialization']}",
+        f"Gender: {doc['gender']}",
+        f"Years of experience: {doc['experience']}",
+        f"City: {city}, {country}",
+        "Clinics: " + "; ".join(f"{c['name']} (clinic ID {c['id']})" for c in clinics),
+        "",
     ]
-
-    order = list(range(10))
-    for i in range(9, 0, -1):
-        j = (rng >> (i * 5)) % (i + 1)
-        order[i], order[j] = order[j], order[i]
-    return [pairs[k] for k in order]
-
-
-def overall_line(ratings: list[int]) -> str:
-    avg = sum(ratings) / len(ratings)
-    return f"Overall rating: {avg:.2f}/10"
-
-
-def write_file(path: Path, pairs: list[tuple[int, str]]) -> None:
-    lines: list[str] = []
-    for i, (rating, desc) in enumerate(pairs, start=1):
-        lines.append(f"Review {i}")
-        lines.append(f"Rating: {rating}/10")
-        lines.append(f"Description: {desc}")
-        lines.append("")
-    lines.append(overall_line([r for r, _ in pairs]))
-    path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+    for i, (rating, clinic_name, text) in enumerate(reviews, start=1):
+        lines += [f"Review {i} for {label}", f"Rating: {rating}/10",
+                  f"Clinic visited: {clinic_name}", f"Description: {text}", ""]
+    avg = sum(r for r, _, _ in reviews) / len(reviews)
+    lines.append(f"Overall rating for {label}: {avg:.2f}/10 from {len(reviews)} reviews")
+    return "\n".join(lines) + "\n"
 
 
 def main() -> None:
+    ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
+    ap.add_argument("--regenerate-all", action="store_true",
+                    help="also rewrite review files of doctors in frozen cities")
+    args = ap.parse_args()
+    frozen_cities = [] if args.regenerate_all else DEFAULT_FROZEN_CITIES
+
+    bank = json.loads(BANK_PATH.read_text(encoding="utf-8"))
+    doctors, by_doctor = load_catalog()
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    doctors = parse_doctors()
-    for doc_id, name, gender, age, years, spec in doctors:
-        pairs = unique_bank_for_doctor(doc_id, name, gender, age, years, spec)
-        fname = f"doctor_{doc_id}_{slug_name(name)}_reviews.txt"
-        write_file(OUT_DIR / fname, pairs)
-    print(f"Wrote {len(doctors)} files to {OUT_DIR}")
+    existing = {p.name for p in OUT_DIR.glob("doctor_*_reviews.txt")}
+
+    expected, written, kept, skipped = set(), 0, 0, []
+    for doc in doctors:
+        clinics = by_doctor.get(doc["id"], [])
+        fname = review_filename(doc["id"], doc["name"])
+        frozen = not clinics or any(c["city"] in frozen_cities for c in clinics)
+        if frozen and fname in existing:
+            expected.add(fname)
+            kept += 1
+            continue
+        if not clinics:
+            skipped.append(doc["id"])       # no clinic -> no city to write about
+            continue
+        reviews = build_reviews(doc, clinics, bank)
+        (OUT_DIR / fname).write_text(render(doc, clinics, reviews), encoding="utf-8", newline="\n")
+        expected.add(fname)
+        written += 1
+
+    stale = sorted(existing - expected)
+    for name in stale:
+        (OUT_DIR / name).unlink()
+
+    print(f"Wrote {written} review files, kept {kept} frozen files, removed {len(stale)} stale files "
+          f"in {OUT_DIR}")
+    if skipped:
+        print(f"Skipped doctors without a clinic and without an existing file: {skipped}")
 
 
 if __name__ == "__main__":

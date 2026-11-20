@@ -1,0 +1,69 @@
+Doctor: Dr. Laura Fortin
+Doctor ID: 306
+Specialization: Orthopedic
+Gender: Female
+Years of experience: 22
+City: Montreal, Canada
+Clinics: Clinique Santé Côte-des-Neiges (clinic ID 42); Polyclinique du Parc (clinic ID 43)
+
+Review 1 for Dr. Laura Fortin, Orthopedic, Montreal
+Rating: 4/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: The appointment lasted five minutes and ended with an injection I had not agreed to beforehand.
+
+Review 2 for Dr. Laura Fortin, Orthopedic, Montreal
+Rating: 6/10
+Clinic visited: Polyclinique du Parc
+Description: Friendly and knowledgeable, though the office was hard to reach by phone for post-operative questions. The doctor was kind, though the clinic's evening hours are very limited for working people.
+
+Review 3 for Dr. Laura Fortin, Orthopedic, Montreal
+Rating: 8/10
+Clinic visited: Polyclinique du Parc
+Description: I appreciated that she offered more than one option and let me choose what suited my life. Getting around Montreal on crutches was hard, but the accessible entrance and short waiting time at Polyclinique du Parc helped a lot. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 4 for Dr. Laura Fortin, Orthopedic, Montreal
+Rating: 6/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: The cast was applied well, but the instructions for showering and sleeping were rushed. Quick appointment and a fair price in Montreal, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 5 for Dr. Laura Fortin, Orthopedic, Montreal
+Rating: 9/10
+Clinic visited: Polyclinique du Parc
+Description: I asked about the cost before the visit and received an honest estimate that matched the final bill. My son's fracture was handled gently, and the explanation was pitched at his level as well as mine.
+
+Review 6 for Dr. Laura Fortin, Orthopedic, Montreal
+Rating: 9/10
+Clinic visited: Polyclinique du Parc
+Description: Clear aftercare instructions from Dr. Laura Fortin and a direct number to call if something felt wrong after my surgery. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 7 for Dr. Laura Fortin, Orthopedic, Montreal
+Rating: 6/10
+Clinic visited: Polyclinique du Parc
+Description: Thorough exam and honest advice, but the X-ray results were not discussed until a second visit. The treatment plan from Dr. Laura Fortin made sense, but I wished it had been written down for me to take away.
+
+Review 8 for Dr. Laura Fortin, Orthopedic, Montreal
+Rating: 5/10
+Clinic visited: Polyclinique du Parc
+Description: Dr. Laura Fortin explained surgery options clearly, though the physiotherapy referral took weeks to arrive. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 9 for Dr. Laura Fortin, Orthopedic, Montreal
+Rating: 5/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. I will give it one more visit before I decide whether to stay.
+
+Review 10 for Dr. Laura Fortin, Orthopedic, Montreal
+Rating: 9/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: At my visit, Dr. Laura Fortin took notes on my medication list, checked for interactions and explained the changes simply. The surgeon at Clinique Santé Côte-des-Neiges spent time on my goals as a runner and shaped the treatment around them.
+
+Review 11 for Dr. Laura Fortin, Orthopedic, Montreal
+Rating: 7/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Very skilled with my knee, but Dr. Laura Fortin's clinic runs behind and the wait was over an hour. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 12 for Dr. Laura Fortin, Orthopedic, Montreal
+Rating: 6/10
+Clinic visited: Clinique Santé Côte-des-Neiges
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Laura Fortin, Orthopedic, Montreal: 6.67/10 from 12 reviews

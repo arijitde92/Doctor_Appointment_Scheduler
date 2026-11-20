@@ -1,0 +1,59 @@
+Doctor: Dr. Barbara Schneider
+Doctor ID: 1667
+Specialization: Psychology
+Gender: Female
+Years of experience: 19
+City: Basel, Switzerland
+Clinics: Gesundheitszentrum Clara (clinic ID 217)
+
+Review 1 for Dr. Barbara Schneider, Psychology, Basel
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Clara
+Description: The practice in Basel is easy to find, has parking nearby and opens early enough for me to fit in a visit before work. The office in Basel is quiet and private, and the receptionist never mentions anything in front of other patients.
+
+Review 2 for Dr. Barbara Schneider, Psychology, Basel
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Clara
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. The assessment for my attention difficulties was detailed and gave me a clear report to share with my employer.
+
+Review 3 for Dr. Barbara Schneider, Psychology, Basel
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Dr. Barbara Schneider used a calm, steady voice that settled my nerves before a stressful procedure. I appreciated the written summary Dr. Barbara Schneider sent after each session and the short worksheets between visits. I have no hesitation sending my own relatives here.
+
+Review 4 for Dr. Barbara Schneider, Psychology, Basel
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Clara
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Barbara Schneider, Psychology, Basel
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Online sessions through Gesundheitszentrum Clara worked just as well as in-person ones, and the video link never once failed.
+
+Review 6 for Dr. Barbara Schneider, Psychology, Basel
+Rating: 8/10
+Clinic visited: Gesundheitszentrum Clara
+Description: I came in skeptical about therapy and left each session feeling lighter. My confidence at work has noticeably grown.
+
+Review 7 for Dr. Barbara Schneider, Psychology, Basel
+Rating: 9/10
+Clinic visited: Gesundheitszentrum Clara
+Description: The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 8 for Dr. Barbara Schneider, Psychology, Basel
+Rating: 10/10
+Clinic visited: Gesundheitszentrum Clara
+Description: Easy to talk to, quick to respond and clear about next steps, which is all I really ask of a doctor. Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 9 for Dr. Barbara Schneider, Psychology, Basel
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Clara
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth.
+
+Review 10 for Dr. Barbara Schneider, Psychology, Basel
+Rating: 7/10
+Clinic visited: Gesundheitszentrum Clara
+Description: My trauma work felt well paced, although the schedule changed several times at Gesundheitszentrum Clara. Booking was easy online, but the confirmation email contained the wrong address for Gesundheitszentrum Clara. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Barbara Schneider, Psychology, Basel: 8.50/10 from 10 reviews

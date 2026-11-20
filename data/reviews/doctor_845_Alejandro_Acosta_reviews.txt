@@ -1,0 +1,54 @@
+Doctor: Dr. Alejandro Acosta
+Doctor ID: 845
+Specialization: Gastroenterology
+Gender: Male
+Years of experience: 14
+City: Rosario, Argentina
+Clinics: Centro Médico Pellegrini (clinic ID 111)
+
+Review 1 for Dr. Alejandro Acosta, Gastroenterology, Rosario
+Rating: 7/10
+Clinic visited: Centro Médico Pellegrini
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time.
+
+Review 2 for Dr. Alejandro Acosta, Gastroenterology, Rosario
+Rating: 8/10
+Clinic visited: Centro Médico Pellegrini
+Description: Dr. Alejandro Acosta was honest about which of my symptoms needed tests and which only needed time, and that saved me a lot of worry. The visit began with a short, friendly chat that put me at ease before any examination started. Five stars from me, and I would book again tomorrow.
+
+Review 3 for Dr. Alejandro Acosta, Gastroenterology, Rosario
+Rating: 7/10
+Clinic visited: Centro Médico Pellegrini
+Description: I liked the advice I got from Dr. Alejandro Acosta, but I would have liked more time to ask follow-up questions before the visit ended. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 4 for Dr. Alejandro Acosta, Gastroenterology, Rosario
+Rating: 7/10
+Clinic visited: Centro Médico Pellegrini
+Description: The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice.
+
+Review 5 for Dr. Alejandro Acosta, Gastroenterology, Rosario
+Rating: 8/10
+Clinic visited: Centro Médico Pellegrini
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. Highly recommended, and I have already told two colleagues about it.
+
+Review 6 for Dr. Alejandro Acosta, Gastroenterology, Rosario
+Rating: 6/10
+Clinic visited: Centro Médico Pellegrini
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Alejandro Acosta, Gastroenterology, Rosario
+Rating: 9/10
+Clinic visited: Centro Médico Pellegrini
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them. I came away understanding my condition better than I have in years of previous appointments. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Alejandro Acosta, Gastroenterology, Rosario
+Rating: 8/10
+Clinic visited: Centro Médico Pellegrini
+Description: Clear explanation from Dr. Alejandro Acosta of fatty liver and exactly which lifestyle changes would make a measurable difference. I was called in within five minutes of my appointment time at Centro Médico Pellegrini, which is rare and much appreciated. I have no hesitation sending my own relatives here.
+
+Review 9 for Dr. Alejandro Acosta, Gastroenterology, Rosario
+Rating: 6/10
+Clinic visited: Centro Médico Pellegrini
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them.
+
+Overall rating for Dr. Alejandro Acosta, Gastroenterology, Rosario: 7.33/10 from 9 reviews

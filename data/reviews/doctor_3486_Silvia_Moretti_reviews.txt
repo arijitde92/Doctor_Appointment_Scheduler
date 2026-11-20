@@ -1,0 +1,49 @@
+Doctor: Dr. Silvia Moretti
+Doctor ID: 3486
+Specialization: General
+Gender: Female
+Years of experience: 8
+City: Rome, Italy
+Clinics: Centro Medico Prati (clinic ID 451); Studio Medico Parioli (clinic ID 452); Clinica Appia Nuova (clinic ID 454)
+
+Review 1 for Dr. Silvia Moretti, General, Rome
+Rating: 9/10
+Clinic visited: Centro Medico Prati
+Description: Getting to Centro Medico Prati from across Rome was easy, and the same-week appointment saved me an urgent care trip. I appreciated that she offered more than one option and let me choose what suited my life.
+
+Review 2 for Dr. Silvia Moretti, General, Rome
+Rating: 7/10
+Clinic visited: Studio Medico Parioli
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Studio Medico Parioli were inconsistent.
+
+Review 3 for Dr. Silvia Moretti, General, Rome
+Rating: 7/10
+Clinic visited: Centro Medico Prati
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I liked the advice I got from Dr. Silvia Moretti, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 4 for Dr. Silvia Moretti, General, Rome
+Rating: 6/10
+Clinic visited: Centro Medico Prati
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Quick appointment and a fair price in Rome, but the staff seemed overwhelmed and a bit curt on the phone. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 5 for Dr. Silvia Moretti, General, Rome
+Rating: 6/10
+Clinic visited: Studio Medico Parioli
+Description: Referrals from Dr. Silvia Moretti are handled well, but getting test results back took longer than I was told to expect. Good bedside manner from Dr. Silvia Moretti, but the parking near Studio Medico Parioli is limited and I had to circle for fifteen minutes. I will give it one more visit before I decide whether to stay.
+
+Review 6 for Dr. Silvia Moretti, General, Rome
+Rating: 7/10
+Clinic visited: Clinica Appia Nuova
+Description: Dr. Silvia Moretti is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 7 for Dr. Silvia Moretti, General, Rome
+Rating: 8/10
+Clinic visited: Studio Medico Parioli
+Description: Dr. Silvia Moretti spotted a mole that looked different from last year and arranged a quick referral. It turned out to be harmless, but I appreciated the care.
+
+Review 8 for Dr. Silvia Moretti, General, Rome
+Rating: 8/10
+Clinic visited: Centro Medico Prati
+Description: Never once did I feel rushed, even though the clinic was clearly busy that morning. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Overall rating for Dr. Silvia Moretti, General, Rome: 7.25/10 from 8 reviews

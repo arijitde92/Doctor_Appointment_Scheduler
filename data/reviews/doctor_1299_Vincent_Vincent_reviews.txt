@@ -1,0 +1,59 @@
+Doctor: Dr. Vincent Vincent
+Doctor ID: 1299
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 2
+City: Paris, France
+Clinics: Polyclinique des Batignolles (clinic ID 169)
+
+Review 1 for Dr. Vincent Vincent, Psychiatry, Paris
+Rating: 9/10
+Clinic visited: Polyclinique des Batignolles
+Description: A translator was arranged for my mother without us asking twice, and Dr. Vincent Vincent spoke directly to her throughout. My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss.
+
+Review 2 for Dr. Vincent Vincent, Psychiatry, Paris
+Rating: 10/10
+Clinic visited: Polyclinique des Batignolles
+Description: Telehealth follow-ups at Polyclinique des Batignolles are punctual and calm, and refills are dealt with quickly. My referral letter was written on the spot, and the specialist's office had my details before I called.
+
+Review 3 for Dr. Vincent Vincent, Psychiatry, Paris
+Rating: 10/10
+Clinic visited: Polyclinique des Batignolles
+Description: The front desk staff were patient with my elderly father and gave him extra time without making a fuss. Clear and non-judgmental about my sleep medication, with a plan for stopping it safely.
+
+Review 4 for Dr. Vincent Vincent, Psychiatry, Paris
+Rating: 8/10
+Clinic visited: Polyclinique des Batignolles
+Description: He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Vincent Vincent, Psychiatry, Paris
+Rating: 9/10
+Clinic visited: Polyclinique des Batignolles
+Description: I can ring Polyclinique des Batignolles with an urgent question and receive a thoughtful reply the same day.
+
+Review 6 for Dr. Vincent Vincent, Psychiatry, Paris
+Rating: 9/10
+Clinic visited: Polyclinique des Batignolles
+Description: Recovery from my severe anxiety has been steady, and I credit the combination of care and consistency. I feel lucky to have found this practice in my area.
+
+Review 7 for Dr. Vincent Vincent, Psychiatry, Paris
+Rating: 10/10
+Clinic visited: Polyclinique des Batignolles
+Description: Sensitive questions were handled by Dr. Vincent Vincent with discretion and without a hint of judgment. Appointments in Paris are always on schedule, and the waiting area is peaceful and private.
+
+Review 8 for Dr. Vincent Vincent, Psychiatry, Paris
+Rating: 10/10
+Clinic visited: Polyclinique des Batignolles
+Description: Staff treated my teenage daughter with respect and gave her a private moment to ask questions. My family was included in a session at my request, and Dr. Vincent Vincent handled it with great tact. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 9 for Dr. Vincent Vincent, Psychiatry, Paris
+Rating: 8/10
+Clinic visited: Polyclinique des Batignolles
+Description: A same-day slot was found for me at Polyclinique des Batignolles when I called with a worrying symptom.
+
+Review 10 for Dr. Vincent Vincent, Psychiatry, Paris
+Rating: 10/10
+Clinic visited: Polyclinique des Batignolles
+Description: He was upfront about what could and could not be treated, and did not oversell any option. The ADHD assessment by Dr. Vincent Vincent was careful and detailed, with clear written conclusions and realistic expectations.
+
+Overall rating for Dr. Vincent Vincent, Psychiatry, Paris: 9.30/10 from 10 reviews

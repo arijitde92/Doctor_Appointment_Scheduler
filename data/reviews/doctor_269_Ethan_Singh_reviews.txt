@@ -1,0 +1,64 @@
+Doctor: Dr. Ethan Singh
+Doctor ID: 269
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 15
+City: Calgary, Canada
+Clinics: Bow Valley Health Practice (clinic ID 37)
+
+Review 1 for Dr. Ethan Singh, Psychiatry, Calgary
+Rating: 8/10
+Clinic visited: Bow Valley Health Practice
+Description: Dr. Ethan Singh looked me in the eye, listened to the whole story and only then started typing. Dr. Ethan Singh took a full history before suggesting any medication and explained the likely side effects honestly.
+
+Review 2 for Dr. Ethan Singh, Psychiatry, Calgary
+Rating: 6/10
+Clinic visited: Bow Valley Health Practice
+Description: Helpful visit overall, although I only found out about an extra charge after I had paid.
+
+Review 3 for Dr. Ethan Singh, Psychiatry, Calgary
+Rating: 7/10
+Clinic visited: Bow Valley Health Practice
+Description: I like the measured approach, but sometimes I wanted more discussion of non-medication options.
+
+Review 4 for Dr. Ethan Singh, Psychiatry, Calgary
+Rating: 6/10
+Clinic visited: Bow Valley Health Practice
+Description: Good listener, yet the refill process at Bow Valley Health Practice is slow and requires several phone calls. I will give it one more visit before I decide whether to stay.
+
+Review 5 for Dr. Ethan Singh, Psychiatry, Calgary
+Rating: 7/10
+Clinic visited: Bow Valley Health Practice
+Description: Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 6 for Dr. Ethan Singh, Psychiatry, Calgary
+Rating: 6/10
+Clinic visited: Bow Valley Health Practice
+Description: Dr. Ethan Singh was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 7 for Dr. Ethan Singh, Psychiatry, Calgary
+Rating: 8/10
+Clinic visited: Bow Valley Health Practice
+Description: My anxiety medication was reviewed carefully, and when it did not suit me we switched without any fuss. I asked about the cost before the visit and received an honest estimate that matched the final bill. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 8 for Dr. Ethan Singh, Psychiatry, Calgary
+Rating: 9/10
+Clinic visited: Bow Valley Health Practice
+Description: Telehealth follow-ups at Bow Valley Health Practice are punctual and calm, and refills are dealt with quickly. I was given a printed summary of the visit, which I shared with my family at home.
+
+Review 9 for Dr. Ethan Singh, Psychiatry, Calgary
+Rating: 7/10
+Clinic visited: Bow Valley Health Practice
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing.
+
+Review 10 for Dr. Ethan Singh, Psychiatry, Calgary
+Rating: 6/10
+Clinic visited: Bow Valley Health Practice
+Description: Careful with prescribing and very kind, but the appointments are short and often feel like medication checks only. Good bedside manner from Dr. Ethan Singh, but the parking near Bow Valley Health Practice is limited and I had to circle for fifteen minutes.
+
+Review 11 for Dr. Ethan Singh, Psychiatry, Calgary
+Rating: 8/10
+Clinic visited: Bow Valley Health Practice
+Description: Sensitive questions were handled by Dr. Ethan Singh with discretion and without a hint of judgment. The diagnosis for my bipolar disorder came after a patient, thorough assessment that made sense of years of confusion.
+
+Overall rating for Dr. Ethan Singh, Psychiatry, Calgary: 7.09/10 from 11 reviews

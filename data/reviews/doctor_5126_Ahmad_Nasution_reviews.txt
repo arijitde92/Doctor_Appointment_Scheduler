@@ -1,0 +1,54 @@
+Doctor: Dr. Ahmad Nasution
+Doctor ID: 5126
+Specialization: Cardiology
+Gender: Male
+Years of experience: 21
+City: Denpasar, Indonesia
+Clinics: Klinik Amanah Medika (clinic ID 662)
+
+Review 1 for Dr. Ahmad Nasution, Cardiology, Denpasar
+Rating: 6/10
+Clinic visited: Klinik Amanah Medika
+Description: I got what I needed, but the next available appointment was three weeks away. Helpful with my cholesterol, Dr. Ahmad Nasution still gave dietary advice that was a little generic. I would come back, but only if the waiting time improves.
+
+Review 2 for Dr. Ahmad Nasution, Cardiology, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Amanah Medika
+Description: Excellent medical knowledge and clear explanations, but appointments run late because of an overloaded schedule. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 3 for Dr. Ahmad Nasution, Cardiology, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Amanah Medika
+Description: Great care in the visit itself, but the billing for the tests at Klinik Amanah Medika was confusing.
+
+Review 4 for Dr. Ahmad Nasution, Cardiology, Denpasar
+Rating: 5/10
+Clinic visited: Klinik Amanah Medika
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart.
+
+Review 5 for Dr. Ahmad Nasution, Cardiology, Denpasar
+Rating: 6/10
+Clinic visited: Klinik Amanah Medika
+Description: I liked the advice I got from Dr. Ahmad Nasution, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 6 for Dr. Ahmad Nasution, Cardiology, Denpasar
+Rating: 7/10
+Clinic visited: Klinik Amanah Medika
+Description: Good communication in the visit, but messages left through the portal sometimes went unanswered for days. The echocardiogram staff were kind, but the results took over a week to be explained to me.
+
+Review 7 for Dr. Ahmad Nasution, Cardiology, Denpasar
+Rating: 6/10
+Clinic visited: Klinik Amanah Medika
+Description: The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 8 for Dr. Ahmad Nasution, Cardiology, Denpasar
+Rating: 8/10
+Clinic visited: Klinik Amanah Medika
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. I would happily recommend this doctor to friends and family.
+
+Review 9 for Dr. Ahmad Nasution, Cardiology, Denpasar
+Rating: 6/10
+Clinic visited: Klinik Amanah Medika
+Description: Dr. Ahmad Nasution adjusted my blood pressure medication carefully, though I had to call twice for a refill.
+
+Overall rating for Dr. Ahmad Nasution, Cardiology, Denpasar: 6.44/10 from 9 reviews

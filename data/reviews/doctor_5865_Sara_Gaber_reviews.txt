@@ -1,0 +1,49 @@
+Doctor: Dr. Sara Gaber
+Doctor ID: 5865
+Specialization: Neurology
+Gender: Female
+Years of experience: 15
+City: Alexandria, Egypt
+Clinics: Sidi Gaber Wellness Practice (clinic ID 758)
+
+Review 1 for Dr. Sara Gaber, Neurology, Alexandria
+Rating: 6/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. I will give it one more visit before I decide whether to stay.
+
+Review 2 for Dr. Sara Gaber, Neurology, Alexandria
+Rating: 10/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Dr. Sara Gaber looked me in the eye, listened to the whole story and only then started typing. This is the first doctor I have trusted completely in years.
+
+Review 3 for Dr. Sara Gaber, Neurology, Alexandria
+Rating: 7/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Supportive about my diagnosis, yet follow-up appointments with Dr. Sara Gaber at Sidi Gaber Wellness Practice are difficult to schedule. Dr. Sara Gaber was patient in the room, but the paperwork and billing afterward took several phone calls to straighten out.
+
+Review 4 for Dr. Sara Gaber, Neurology, Alexandria
+Rating: 4/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: The follow-up call about my test results never happened and I had to track them down myself. I will not be returning and have already started looking for another doctor.
+
+Review 5 for Dr. Sara Gaber, Neurology, Alexandria
+Rating: 7/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 6 for Dr. Sara Gaber, Neurology, Alexandria
+Rating: 6/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 7 for Dr. Sara Gaber, Neurology, Alexandria
+Rating: 6/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Booking was easy online, but the confirmation email contained the wrong address for Sidi Gaber Wellness Practice. The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 8 for Dr. Sara Gaber, Neurology, Alexandria
+Rating: 9/10
+Clinic visited: Sidi Gaber Wellness Practice
+Description: Booking online at Sidi Gaber Wellness Practice was simple, and I got a confirmation text with clear directions and a reminder the day before. I feel lucky to have found this practice in my area.
+
+Overall rating for Dr. Sara Gaber, Neurology, Alexandria: 6.88/10 from 8 reviews

@@ -1,0 +1,59 @@
+Doctor: Dr. Gareth Jones
+Doctor ID: 1074
+Specialization: General
+Gender: Male
+Years of experience: 15
+City: Edinburgh, UK
+Clinics: Princes Street Health Practice (clinic ID 141)
+
+Review 1 for Dr. Gareth Jones, General, Edinburgh
+Rating: 7/10
+Clinic visited: Princes Street Health Practice
+Description: Dr. Gareth Jones is knowledgeable and thorough with my asthma and blood pressure, but the visits always feel a little hurried at the end.
+
+Review 2 for Dr. Gareth Jones, General, Edinburgh
+Rating: 5/10
+Clinic visited: Princes Street Health Practice
+Description: Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first. Referrals from Dr. Gareth Jones are handled well, but getting test results back took longer than I was told to expect.
+
+Review 3 for Dr. Gareth Jones, General, Edinburgh
+Rating: 8/10
+Clinic visited: Princes Street Health Practice
+Description: Cholesterol results were explained by Dr. Gareth Jones with a simple chart, and we agreed on a plan I could realistically follow.
+
+Review 4 for Dr. Gareth Jones, General, Edinburgh
+Rating: 6/10
+Clinic visited: Princes Street Health Practice
+Description: Good clinical judgment on my recurring chest infections, but the follow-up reminders from Princes Street Health Practice were inconsistent. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Review 5 for Dr. Gareth Jones, General, Edinburgh
+Rating: 8/10
+Clinic visited: Princes Street Health Practice
+Description: My blood pressure had crept up and Dr. Gareth Jones walked me through diet changes before suggesting anything else. Three months later my readings were normal.
+
+Review 6 for Dr. Gareth Jones, General, Edinburgh
+Rating: 7/10
+Clinic visited: Princes Street Health Practice
+Description: My annual physical covered a lot of ground, yet some of my questions about supplements got a quick wave-off. Booking was easy online, but the confirmation email contained the wrong address for Princes Street Health Practice. I might recommend this doctor, with the caveat that you should expect delays.
+
+Review 7 for Dr. Gareth Jones, General, Edinburgh
+Rating: 9/10
+Clinic visited: Princes Street Health Practice
+Description: I always hear back within a day when I leave a question with the nurse at Princes Street Health Practice, and Dr. Gareth Jones follows up on lab results personally.
+
+Review 8 for Dr. Gareth Jones, General, Edinburgh
+Rating: 8/10
+Clinic visited: Princes Street Health Practice
+Description: Dr. Gareth Jones drew a quick sketch to explain what was going on, which helped me remember it afterwards.
+
+Review 9 for Dr. Gareth Jones, General, Edinburgh
+Rating: 6/10
+Clinic visited: Princes Street Health Practice
+Description: Friendly manner and careful exam, though I had to ask twice for a copy of my blood work. Clear explanations, but the follow-up call took a week longer than I had been told.
+
+Review 10 for Dr. Gareth Jones, General, Edinburgh
+Rating: 7/10
+Clinic visited: Princes Street Health Practice
+Description: The advice on my weight and sleep was sensible, though I wished for more concrete targets and a written plan. I will give it one more visit before I decide whether to stay.
+
+Overall rating for Dr. Gareth Jones, General, Edinburgh: 7.10/10 from 10 reviews

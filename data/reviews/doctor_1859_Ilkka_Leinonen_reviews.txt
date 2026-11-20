@@ -1,0 +1,59 @@
+Doctor: Dr. Ilkka Leinonen
+Doctor ID: 1859
+Specialization: Neurology
+Gender: Male
+Years of experience: 16
+City: Helsinki, Finland
+Clinics: Lääkärikeskus Hämeentie Kallio (clinic ID 242); Terveyskeskus Kaivopuisto Plus (clinic ID 243)
+
+Review 1 for Dr. Ilkka Leinonen, Neurology, Helsinki
+Rating: 9/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: I was given a printed summary of the visit, which I shared with my family at home. My tremor was assessed carefully and the explanation of the options was balanced and unhurried.
+
+Review 2 for Dr. Ilkka Leinonen, Neurology, Helsinki
+Rating: 10/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: I was impressed by how well the nurse, receptionist and doctor shared information, so I never had to repeat myself. The sleep disorder evaluation was careful, and the diagnosis finally explained years of daytime fatigue.
+
+Review 3 for Dr. Ilkka Leinonen, Neurology, Helsinki
+Rating: 10/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: The neurological exam by Dr. Ilkka Leinonen was thorough, with every reflex test and gait check explained as it happened.
+
+Review 4 for Dr. Ilkka Leinonen, Neurology, Helsinki
+Rating: 10/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: I always leave Dr. Ilkka Leinonen's office with a short written summary of changes, which helps my family keep up. I left feeling better than when I arrived, and I plan to return for my next visit.
+
+Review 5 for Dr. Ilkka Leinonen, Neurology, Helsinki
+Rating: 9/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: My epilepsy medication was adjusted carefully, with clear guidance on driving, sleep and what to do after a missed dose. I would happily recommend this doctor to friends and family.
+
+Review 6 for Dr. Ilkka Leinonen, Neurology, Helsinki
+Rating: 7/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: Careful assessment of my memory issues, though I would have liked more information on support services. I got what I needed, but the next available appointment was three weeks away.
+
+Review 7 for Dr. Ilkka Leinonen, Neurology, Helsinki
+Rating: 9/10
+Clinic visited: Terveyskeskus Kaivopuisto Plus
+Description: I felt like a person rather than a case number, and he asked about my life as well as my symptoms. Excellent follow-up after my head injury, including a gradual return-to-work plan on paper.
+
+Review 8 for Dr. Ilkka Leinonen, Neurology, Helsinki
+Rating: 6/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. Good bedside manner from Dr. Ilkka Leinonen, but the parking near Lääkärikeskus Hämeentie Kallio is limited and I had to circle for fifteen minutes.
+
+Review 9 for Dr. Ilkka Leinonen, Neurology, Helsinki
+Rating: 10/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: The EEG appointment ran on time, and Dr. Ilkka Leinonen reviewed the tracing with me the same week. My test results arrived in the portal within two days, together with a short note that made sense. My whole family is switching over after seeing how good the care was.
+
+Review 10 for Dr. Ilkka Leinonen, Neurology, Helsinki
+Rating: 8/10
+Clinic visited: Lääkärikeskus Hämeentie Kallio
+Description: The memory assessment for my father at Lääkärikeskus Hämeentie Kallio was gentle and respectful, and the family received a clear written summary.
+
+Overall rating for Dr. Ilkka Leinonen, Neurology, Helsinki: 8.80/10 from 10 reviews

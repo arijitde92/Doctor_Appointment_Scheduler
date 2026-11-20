@@ -1,0 +1,59 @@
+Doctor: Dr. Kiri Smith
+Doctor ID: 6677
+Specialization: Gastroenterology
+Gender: Female
+Years of experience: 1
+City: Hamilton, New Zealand
+Clinics: Matai Medical Centre (clinic ID 866)
+
+Review 1 for Dr. Kiri Smith, Gastroenterology, Hamilton
+Rating: 5/10
+Clinic visited: Matai Medical Centre
+Description: Quick appointment and a fair price in Hamilton, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 2 for Dr. Kiri Smith, Gastroenterology, Hamilton
+Rating: 7/10
+Clinic visited: Matai Medical Centre
+Description: Knowledgeable about my reflux, Dr. Kiri Smith still gave diet advice that felt generic and not tailored to my habits.
+
+Review 3 for Dr. Kiri Smith, Gastroenterology, Hamilton
+Rating: 8/10
+Clinic visited: Matai Medical Centre
+Description: Results of the biopsy were shared within a week, with a phone call to walk me through them.
+
+Review 4 for Dr. Kiri Smith, Gastroenterology, Hamilton
+Rating: 8/10
+Clinic visited: Matai Medical Centre
+Description: Dr. Kiri Smith took my acid reflux seriously, ordered an endoscopy and explained every finding with photos afterwards. The waiting room at Matai Medical Centre was clean, quiet and comfortable, with enough seating and water available. Five stars from me, and I would book again tomorrow.
+
+Review 5 for Dr. Kiri Smith, Gastroenterology, Hamilton
+Rating: 7/10
+Clinic visited: Matai Medical Centre
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. The treatment plan helped my IBS somewhat, yet follow-up visits felt brief for the complexity of my case. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 6 for Dr. Kiri Smith, Gastroenterology, Hamilton
+Rating: 7/10
+Clinic visited: Matai Medical Centre
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Skilled with the scope, but communication about the fasting time before the procedure was unclear. Worth trying, but I would not call it the best option in the area.
+
+Review 7 for Dr. Kiri Smith, Gastroenterology, Hamilton
+Rating: 6/10
+Clinic visited: Matai Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 8 for Dr. Kiri Smith, Gastroenterology, Hamilton
+Rating: 5/10
+Clinic visited: Matai Medical Centre
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The procedure itself went smoothly, but the pre-appointment paperwork was confusing and I had to call twice. I would come back, but only if the waiting time improves.
+
+Review 9 for Dr. Kiri Smith, Gastroenterology, Hamilton
+Rating: 7/10
+Clinic visited: Matai Medical Centre
+Description: Dr. Kiri Smith is thorough, but I waited nearly two months to get the first available slot.
+
+Review 10 for Dr. Kiri Smith, Gastroenterology, Hamilton
+Rating: 5/10
+Clinic visited: Matai Medical Centre
+Description: Helpful and kind, but I received results by letter with no explanation and had to book another visit to understand them. The treatment plan from Dr. Kiri Smith made sense, but I wished it had been written down for me to take away.
+
+Overall rating for Dr. Kiri Smith, Gastroenterology, Hamilton: 6.50/10 from 10 reviews

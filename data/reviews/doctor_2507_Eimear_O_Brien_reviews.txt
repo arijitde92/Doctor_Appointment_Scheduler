@@ -1,0 +1,49 @@
+Doctor: Dr. Eimear O'Brien
+Doctor ID: 2507
+Specialization: Cardiology
+Gender: Female
+Years of experience: 24
+City: Galway, Ireland
+Clinics: Dominick Street Medical Centre (clinic ID 327)
+
+Review 1 for Dr. Eimear O'Brien, Cardiology, Galway
+Rating: 6/10
+Clinic visited: Dominick Street Medical Centre
+Description: The telehealth visit was convenient, though the connection dropped twice and we had to restart. Helpful with my cholesterol, Dr. Eimear O'Brien still gave dietary advice that was a little generic.
+
+Review 2 for Dr. Eimear O'Brien, Cardiology, Galway
+Rating: 9/10
+Clinic visited: Dominick Street Medical Centre
+Description: Patient with my many questions about caffeine, alcohol and travel, and gave practical limits instead of blanket bans. I was called in within five minutes of my appointment time at Dominick Street Medical Centre, which is rare and much appreciated.
+
+Review 3 for Dr. Eimear O'Brien, Cardiology, Galway
+Rating: 9/10
+Clinic visited: Dominick Street Medical Centre
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Eimear O'Brien felt well organized from start to finish. Clear and calm advice at Dominick Street Medical Centre about exercise after my stent, including a gradual written schedule.
+
+Review 4 for Dr. Eimear O'Brien, Cardiology, Galway
+Rating: 7/10
+Clinic visited: Dominick Street Medical Centre
+Description: Great care in the visit itself, but the billing for the tests at Dominick Street Medical Centre was confusing. I would come back, but only if the waiting time improves.
+
+Review 5 for Dr. Eimear O'Brien, Cardiology, Galway
+Rating: 6/10
+Clinic visited: Dominick Street Medical Centre
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day.
+
+Review 6 for Dr. Eimear O'Brien, Cardiology, Galway
+Rating: 7/10
+Clinic visited: Dominick Street Medical Centre
+Description: Dr. Eimear O'Brien adjusted my blood pressure medication carefully, though I had to call twice for a refill. Everything about the care was decent, but the cost was higher than I expected for a short appointment.
+
+Review 7 for Dr. Eimear O'Brien, Cardiology, Galway
+Rating: 8/10
+Clinic visited: Dominick Street Medical Centre
+Description: I came away understanding my condition better than I have in years of previous appointments. I was anxious about my chest pain, but she took it seriously and ran the right tests the same morning.
+
+Review 8 for Dr. Eimear O'Brien, Cardiology, Galway
+Rating: 5/10
+Clinic visited: Dominick Street Medical Centre
+Description: Thorough exam and a good plan, yet the stress test appointment was almost a month away. The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. Decent care overall, and I will probably return unless I find something closer.
+
+Overall rating for Dr. Eimear O'Brien, Cardiology, Galway: 7.12/10 from 8 reviews

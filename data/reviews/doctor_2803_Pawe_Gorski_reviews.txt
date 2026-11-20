@@ -1,0 +1,64 @@
+Doctor: Dr. Paweł Górski
+Doctor ID: 2803
+Specialization: Psychology
+Gender: Male
+Years of experience: 15
+City: Warsaw, Poland
+Clinics: Przychodnia Mokotów Park (clinic ID 366); Poliklinika Jerozolimskie Centrum (clinic ID 367)
+
+Review 1 for Dr. Paweł Górski, Psychology, Warsaw
+Rating: 9/10
+Clinic visited: Przychodnia Mokotów Park
+Description: I never felt judged by Dr. Paweł Górski when talking about my burnout, and the sessions gave me language for things I could not explain before. Staff treated my teenage daughter with respect and gave her a private moment to ask questions.
+
+Review 2 for Dr. Paweł Górski, Psychology, Warsaw
+Rating: 7/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The treatment plan from Dr. Paweł Górski made sense, but I wished it had been written down for me to take away. Dr. Paweł Górski listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 3 for Dr. Paweł Górski, Psychology, Warsaw
+Rating: 8/10
+Clinic visited: Przychodnia Mokotów Park
+Description: The practice in Warsaw is easy to find, has parking nearby and opens early enough for me to fit in a visit before work.
+
+Review 4 for Dr. Paweł Górski, Psychology, Warsaw
+Rating: 8/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Dr. Paweł Górski drew a quick sketch to explain what was going on, which helped me remember it afterwards. Finally, a therapist who explained how my sleep problems and my worry loops were connected.
+
+Review 5 for Dr. Paweł Górski, Psychology, Warsaw
+Rating: 6/10
+Clinic visited: Przychodnia Mokotów Park
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions.
+
+Review 6 for Dr. Paweł Górski, Psychology, Warsaw
+Rating: 7/10
+Clinic visited: Przychodnia Mokotów Park
+Description: I liked the advice I got from Dr. Paweł Górski, but I would have liked more time to ask follow-up questions before the visit ended.
+
+Review 7 for Dr. Paweł Górski, Psychology, Warsaw
+Rating: 9/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Sessions with Dr. Paweł Górski start on time and end on time, which is a small thing that made me feel respected. My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed.
+
+Review 8 for Dr. Paweł Górski, Psychology, Warsaw
+Rating: 8/10
+Clinic visited: Przychodnia Mokotów Park
+Description: He has a calm way of asking the difficult questions that makes it feel safe to answer honestly.
+
+Review 9 for Dr. Paweł Górski, Psychology, Warsaw
+Rating: 7/10
+Clinic visited: Przychodnia Mokotów Park
+Description: Good bedside manner from Dr. Paweł Górski, but the parking near Przychodnia Mokotów Park is limited and I had to circle for fifteen minutes. Good tools for managing worry, but cancellations with short notice were handled inflexibly.
+
+Review 10 for Dr. Paweł Górski, Psychology, Warsaw
+Rating: 7/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: Helpful for my stress, though the cost per session adds up and insurance covered only part of it.
+
+Review 11 for Dr. Paweł Górski, Psychology, Warsaw
+Rating: 6/10
+Clinic visited: Poliklinika Jerozolimskie Centrum
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Overall rating for Dr. Paweł Górski, Psychology, Warsaw: 7.45/10 from 11 reviews

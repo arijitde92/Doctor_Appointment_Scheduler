@@ -1,0 +1,49 @@
+Doctor: Dr. Thomas Lejeune
+Doctor ID: 3061
+Specialization: Psychology
+Gender: Male
+Years of experience: 9
+City: Antwerp, Belgium
+Clinics: Medisch Centrum Eilandje (clinic ID 399)
+
+Review 1 for Dr. Thomas Lejeune, Psychology, Antwerp
+Rating: 5/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Insightful and kind, though progress with Dr. Thomas Lejeune felt slow, and I wished for more structured homework between sessions.
+
+Review 2 for Dr. Thomas Lejeune, Psychology, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Eilandje
+Description: The doctor was kind, though the clinic's evening hours are very limited for working people. Dr. Thomas Lejeune listens well, though some sessions felt like a recap of the previous one without much new direction.
+
+Review 3 for Dr. Thomas Lejeune, Psychology, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Eilandje
+Description: My trauma work felt well paced, although the schedule changed several times at Medisch Centrum Eilandje. The nurse was lovely, yet the check-in process involved a lot of repeated paperwork.
+
+Review 4 for Dr. Thomas Lejeune, Psychology, Antwerp
+Rating: 8/10
+Clinic visited: Medisch Centrum Eilandje
+Description: I never felt judged by Dr. Thomas Lejeune when talking about my burnout, and the sessions gave me language for things I could not explain before.
+
+Review 5 for Dr. Thomas Lejeune, Psychology, Antwerp
+Rating: 8/10
+Clinic visited: Medisch Centrum Eilandje
+Description: Helped me set boundaries with my family without any blame, and I have kept using those scripts for months.
+
+Review 6 for Dr. Thomas Lejeune, Psychology, Antwerp
+Rating: 4/10
+Clinic visited: Medisch Centrum Eilandje
+Description: I felt interrupted by Dr. Thomas Lejeune several times while describing my situation and left without feeling heard. I was charged a fee that had not been mentioned when I booked, and the billing staff were unhelpful.
+
+Review 7 for Dr. Thomas Lejeune, Psychology, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Eilandje
+Description: The first assessment was thorough, but I waited almost three weeks for a follow-up slot.
+
+Review 8 for Dr. Thomas Lejeune, Psychology, Antwerp
+Rating: 6/10
+Clinic visited: Medisch Centrum Eilandje
+Description: I like the gentle style, yet I sometimes wanted more direct feedback and fewer open-ended questions. Booking was easy online, but the confirmation email contained the wrong address for Medisch Centrum Eilandje.
+
+Overall rating for Dr. Thomas Lejeune, Psychology, Antwerp: 6.12/10 from 8 reviews

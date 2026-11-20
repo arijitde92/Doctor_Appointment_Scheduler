@@ -1,0 +1,69 @@
+Doctor: Dr. Baek Joo-won
+Doctor ID: 4176
+Specialization: Radiology
+Gender: Male
+Years of experience: 4
+City: Busan, South Korea
+Clinics: Dongnae Sarang Polyclinic (clinic ID 538)
+
+Review 1 for Dr. Baek Joo-won, Radiology, Busan
+Rating: 6/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: The scan itself was quick and the equipment was modern, but the check-in process was slow and disorganized.
+
+Review 2 for Dr. Baek Joo-won, Radiology, Busan
+Rating: 8/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: The office has a dedicated phone line for urgent concerns, and a real person answered within a minute. The report from Dr. Baek Joo-won was detailed but written so a non-medical person could follow it, with a short summary at the top.
+
+Review 3 for Dr. Baek Joo-won, Radiology, Busan
+Rating: 5/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: Dr. Baek Joo-won answered my questions kindly, although I was told that detailed findings had to come from my referring doctor.
+
+Review 4 for Dr. Baek Joo-won, Radiology, Busan
+Rating: 6/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: Great image quality and a fast report, but the booking system sent me to the wrong location first. Good communication in the visit, but messages left through the portal sometimes went unanswered for days.
+
+Review 5 for Dr. Baek Joo-won, Radiology, Busan
+Rating: 5/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: The medical care was good, but the waiting room was crowded and I sat for almost forty minutes past my appointment time. Professional technologist, though the changing room was cramped and the lockers did not work.
+
+Review 6 for Dr. Baek Joo-won, Radiology, Busan
+Rating: 9/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: My ultrasound was unhurried, and Dr. Baek Joo-won took time to show me the images and explain what each measurement meant.
+
+Review 7 for Dr. Baek Joo-won, Radiology, Busan
+Rating: 6/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: Quick appointment and a fair price in Busan, but the staff seemed overwhelmed and a bit curt on the phone.
+
+Review 8 for Dr. Baek Joo-won, Radiology, Busan
+Rating: 8/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: The visit began with a short, friendly chat that put me at ease before any examination started. Booking a CT scan online at Dongnae Sarang Polyclinic took two minutes, and I was in and out within forty minutes.
+
+Review 9 for Dr. Baek Joo-won, Radiology, Busan
+Rating: 6/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: Staff were friendly, yet I waited almost an hour past my appointment time for a simple X-ray. I liked the advice I got from Dr. Baek Joo-won, but I would have liked more time to ask follow-up questions before the visit ended. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 10 for Dr. Baek Joo-won, Radiology, Busan
+Rating: 7/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: The explanation of my results was clear, but the printed report came late and had a typo in my date of birth. The report from Dr. Baek Joo-won was thorough, though full of technical terms that needed my regular doctor to translate.
+
+Review 11 for Dr. Baek Joo-won, Radiology, Busan
+Rating: 10/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: The staff at Dongnae Sarang Polyclinic in Busan explained the contrast dye and its side effects before I signed anything.
+
+Review 12 for Dr. Baek Joo-won, Radiology, Busan
+Rating: 6/10
+Clinic visited: Dongnae Sarang Polyclinic
+Description: I got what I needed, but the next available appointment was three weeks away. My MRI was comfortable, but getting a copy of the images on disc took several requests.
+
+Overall rating for Dr. Baek Joo-won, Radiology, Busan: 6.83/10 from 12 reviews

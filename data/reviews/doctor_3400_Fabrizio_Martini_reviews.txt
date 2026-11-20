@@ -1,0 +1,49 @@
+Doctor: Dr. Fabrizio Martini
+Doctor ID: 3400
+Specialization: Psychiatry
+Gender: Male
+Years of experience: 5
+City: Milan, Italy
+Clinics: Centro Medico Porta Venezia (clinic ID 441)
+
+Review 1 for Dr. Fabrizio Martini, Psychiatry, Milan
+Rating: 8/10
+Clinic visited: Centro Medico Porta Venezia
+Description: My follow-up call came exactly when promised, with a clear next step and a number to ring if anything changed. I will be recommending this clinic to anyone who asks me for advice.
+
+Review 2 for Dr. Fabrizio Martini, Psychiatry, Milan
+Rating: 7/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Helpful diagnosis, though the billing for my first long assessment was confusing. Dr. Fabrizio Martini was thoughtful and clear, though the front desk was disorganized and lost my first referral form.
+
+Review 3 for Dr. Fabrizio Martini, Psychiatry, Milan
+Rating: 8/10
+Clinic visited: Centro Medico Porta Venezia
+Description: I was given a printed summary of the visit, which I shared with my family at home. He reduced my dose slowly and gave me a written tapering plan, which made the process far less scary. Without doubt I will return, and I am glad I stayed with this doctor.
+
+Review 4 for Dr. Fabrizio Martini, Psychiatry, Milan
+Rating: 8/10
+Clinic visited: Centro Medico Porta Venezia
+Description: My family was included in a session at my request, and Dr. Fabrizio Martini handled it with great tact. The staff accommodated my hearing difficulty by speaking clearly and writing down key instructions.
+
+Review 5 for Dr. Fabrizio Martini, Psychiatry, Milan
+Rating: 6/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Dr. Fabrizio Martini is knowledgeable, though I waited several weeks for my first appointment. Quick appointment and a fair price in Milan, but the staff seemed overwhelmed and a bit curt on the phone. Worth trying, but I would not call it the best option in the area.
+
+Review 6 for Dr. Fabrizio Martini, Psychiatry, Milan
+Rating: 7/10
+Clinic visited: Centro Medico Porta Venezia
+Description: I appreciated the thoroughness, though the appointment ran so long that I was late for the next thing in my day. Good enough that I will stay for now, though I will keep an eye on how things go.
+
+Review 7 for Dr. Fabrizio Martini, Psychiatry, Milan
+Rating: 6/10
+Clinic visited: Centro Medico Porta Venezia
+Description: Good listener, yet the refill process at Centro Medico Porta Venezia is slow and requires several phone calls. Friendly reception and a thorough exam, but the prescription was sent to the wrong pharmacy first.
+
+Review 8 for Dr. Fabrizio Martini, Psychiatry, Milan
+Rating: 10/10
+Clinic visited: Centro Medico Porta Venezia
+Description: I can ring Centro Medico Porta Venezia with an urgent question and receive a thoughtful reply the same day. Worth every minute of travel, and I would go again without a second thought.
+
+Overall rating for Dr. Fabrizio Martini, Psychiatry, Milan: 7.50/10 from 8 reviews

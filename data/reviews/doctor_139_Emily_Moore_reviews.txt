@@ -1,0 +1,49 @@
+Doctor: Dr. Emily Moore
+Doctor ID: 139
+Specialization: Neurology
+Gender: Female
+Years of experience: 25
+City: Houston, USA
+Clinics: Bayou City Family Medicine (clinic ID 20); Montrose Wellness Associates (clinic ID 24)
+
+Review 1 for Dr. Emily Moore, Neurology, Houston
+Rating: 3/10
+Clinic visited: Montrose Wellness Associates
+Description: The bill included tests that I had never been told about, and nobody could explain them. The visit felt rushed, and Dr. Emily Moore was already halfway out the door when I started to describe my second symptom.
+
+Review 2 for Dr. Emily Moore, Neurology, Houston
+Rating: 4/10
+Clinic visited: Montrose Wellness Associates
+Description: After a long wait, my appointment with Dr. Emily Moore lasted a few minutes and ended with a new prescription and no discussion. Not a place I would choose again, and I hope others have a better experience.
+
+Review 3 for Dr. Emily Moore, Neurology, Houston
+Rating: 6/10
+Clinic visited: Bayou City Family Medicine
+Description: Good thorough exam, but I had to chase the clinic for the written report that my insurer requested. The doctor was kind, though the clinic's evening hours are very limited for working people. A solid doctor held back by poor admin, and I would give it a three-out-of-five recommendation.
+
+Review 4 for Dr. Emily Moore, Neurology, Houston
+Rating: 6/10
+Clinic visited: Bayou City Family Medicine
+Description: The nerve test was well done, but the technician and doctor gave slightly different explanations.
+
+Review 5 for Dr. Emily Moore, Neurology, Houston
+Rating: 10/10
+Clinic visited: Bayou City Family Medicine
+Description: She patiently explained my MRI findings and calmed my worries about memory problems.
+
+Review 6 for Dr. Emily Moore, Neurology, Houston
+Rating: 8/10
+Clinic visited: Montrose Wellness Associates
+Description: The nurse was friendly and efficient, and the whole visit with Dr. Emily Moore felt well organized from start to finish.
+
+Review 7 for Dr. Emily Moore, Neurology, Houston
+Rating: 6/10
+Clinic visited: Montrose Wellness Associates
+Description: The migraine plan has helped, though the first medication caused side effects that were not fully explained.
+
+Review 8 for Dr. Emily Moore, Neurology, Houston
+Rating: 7/10
+Clinic visited: Montrose Wellness Associates
+Description: Clear explanations, but the follow-up call took a week longer than I had been told. Highly knowledgeable and kind, but the waiting list for a new appointment stretched to nearly two months. I am undecided about returning, since the care was good but the logistics were frustrating.
+
+Overall rating for Dr. Emily Moore, Neurology, Houston: 6.25/10 from 8 reviews
