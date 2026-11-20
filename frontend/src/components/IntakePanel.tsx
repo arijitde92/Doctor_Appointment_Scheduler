@@ -16,15 +16,26 @@ const STEPS = [
 const fieldClass =
   "w-full rounded-xl border border-slate-200 bg-white px-3 text-sm text-ink shadow-xs transition placeholder:text-slate-400 hover:border-slate-300 focus:border-brand-500 focus:ring-4 focus:ring-brand-100 focus:outline-none";
 
-export function IntakePanel({ busy, onSubmit }: { busy: boolean; onSubmit: (prompt: string) => void }) {
+export function IntakePanel({
+  busy,
+  onSubmit,
+  defaultLocation,
+}: {
+  busy: boolean;
+  onSubmit: (prompt: string) => void;
+  /** Pre-filled from the patient's saved address; they can edit or clear it. */
+  defaultLocation?: string;
+}) {
   const id = useId();
   const [specialization, setSpecialization] = useState("");
   const [city, setCity] = useState<string>(CITIES[0]);
-  const [location, setLocation] = useState("");
+  const [location, setLocation] = useState(defaultLocation ?? "");
   // Selected weekdays, kept in week order. All seven selected = "Any".
   const [days, setDays] = useState<Day[]>([...DAYS]);
   const [locating, setLocating] = useState(false);
-  const [locationNote, setLocationNote] = useState<string | null>(null);
+  const [locationNote, setLocationNote] = useState<string | null>(
+    defaultLocation ? "Using the address from your profile. Edit or clear it if you prefer." : null,
+  );
 
   const canSubmit = !!specialization && !!city.trim() && !busy;
   const anyDay = days.length === DAYS.length;
@@ -197,7 +208,7 @@ export function IntakePanel({ busy, onSubmit }: { busy: boolean; onSubmit: (prom
         </ol>
         <p className="mt-4 flex items-start gap-2 rounded-xl bg-slate-50 p-3 text-xs text-slate-500">
           <ShieldCheck className="mt-px size-4 shrink-0 text-brand-600" aria-hidden />
-          Your conversation is linked only to this browser. No account needed.
+          Your consultations are private to your account. You'll find your appointments on your dashboard.
         </p>
       </Card>
     </div>

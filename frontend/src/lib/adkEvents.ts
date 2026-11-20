@@ -25,7 +25,9 @@ export type ConversationAction =
   | { type: "event"; event: AdkEvent }
   | { type: "streamError"; message: string }
   | { type: "streamEnd" }
-  | { type: "hydrate"; events: AdkEvent[] };
+  | { type: "hydrate"; events: AdkEvent[] }
+  /** Pre-select a doctor (rebooking from the dashboard). */
+  | { type: "seedDoctor"; doctor: Pick<Doctor, "id" | "name" | "specialization"> };
 
 export const initialConversation: ConversationState = {
   turns: [],
@@ -60,6 +62,19 @@ export function conversationReducer(state: ConversationState, action: Conversati
       return updateLastTurn(state, (turn) => finalizeTurn(turn));
     case "hydrate":
       return hydrate(action.events);
+    case "seedDoctor": {
+      const { id, name, specialization } = action.doctor;
+      const existing = state.doctors[id];
+      return {
+        ...state,
+        doctors: {
+          ...state.doctors,
+          [id]: { ...existing, id, name, specialization: specialization ?? existing?.specialization, clinicIds: existing?.clinicIds ?? [] },
+        },
+        selectedDoctorId: id,
+        resultsVersion: state.resultsVersion + 1,
+      };
+    }
   }
 }
 
@@ -92,7 +107,9 @@ function startTurn(state: ConversationState, id: string, text: string): Conversa
   return {
     ...state,
     turns: [...state.turns, turn],
-    bookings: booking ? [{ id, details: booking, status: "pending" }, ...state.bookings] : state.bookings,
+    bookings: booking
+      ? [{ id, details: booking, status: "pending", appointmentId: booking.reference }, ...state.bookings]
+      : state.bookings,
     resultsVersion: booking ? state.resultsVersion + 1 : state.resultsVersion,
   };
 }
@@ -318,6 +335,9 @@ function applyFunctionResponse(
       const bookings = state.bookings.slice();
       if (index >= 0) {
         bookings[index] = { ...bookings[index], status: ok ? "confirmed" : "failed", eventLink: link };
+      } else if (ok && bookings[0]?.status === "failed") {
+        // The agent retried the calendar call after a failure in the same request.
+        bookings[0] = { ...bookings[0], status: "confirmed", eventLink: link };
       } else if (ok) {
         bookings.unshift({ id: fr.id ?? nextId("booking"), details: {}, status: "confirmed", eventLink: link });
       } else {

@@ -20,6 +20,8 @@ BACKEND_SERVICE="${BACKEND_SERVICE:-doctor-appointment-api}"
 FRONTEND_SERVICE="${FRONTEND_SERVICE:-doctor-appointment-web}"
 DB_INSTANCE="${DB_INSTANCE:-doctor-db}"
 SESSION_DB_NAME="${SESSION_DB_NAME:-adk_sessions}"
+# Patient accounts, login sessions, consultation logs and appointments
+APP_DB_NAME="${APP_DB_NAME:-careconnect_app}"
 ADK_APP_NAME="${ADK_APP_NAME:-agents}"
 INSTANCE_CONNECTION_NAME="${INSTANCE_CONNECTION_NAME:-$PROJECT:$REGION:$DB_INSTANCE}"
 AGENT_SA="${AGENT_SA:-agent-sa@$PROJECT.iam.gserviceaccount.com}"

@@ -113,6 +113,8 @@ export interface BookingDetails {
   address?: string;
   date?: string;
   time?: string;
+  /** CareConnect appointment id (links the chat booking to the stored appointment). */
+  reference?: string;
 }
 
 export interface Booking {
@@ -120,6 +122,8 @@ export interface Booking {
   details: BookingDetails;
   status: "pending" | "confirmed" | "failed";
   eventLink?: string;
+  /** Appointment row (POST /api/appointments) this booking request belongs to. */
+  appointmentId?: string;
 }
 
 export interface ConversationState {
@@ -133,4 +137,66 @@ export interface ConversationState {
   pendingCalls: Record<string, { name: string; args: Record<string, unknown>; author: string }>;
   /** Monotonic counter so the UI can badge "new results". */
   resultsVersion: number;
+  /** Doctor chosen up front (rebooking from the dashboard). */
+  selectedDoctorId?: number;
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Accounts, appointments and consultation history (BFF /api/*)
+// ─────────────────────────────────────────────────────────────────────────────
+export interface User {
+  id: string;
+  firstName: string;
+  lastName: string;
+  email: string;
+  phone: string;
+  address: string;
+  dateOfBirth: string; // YYYY-MM-DD
+}
+
+export type AppointmentStatus = "pending" | "confirmed" | "failed" | "cancelled";
+
+export interface AppointmentDraft {
+  consultationId?: string | null;
+  doctorId: number;
+  doctorName: string;
+  specialization?: string | null;
+  clinicId: number;
+  clinicName: string;
+  clinicAddress?: string | null;
+  appointmentDate: string; // YYYY-MM-DD
+  slotIndex: number; // 0-6 -> SLOT_TIMES
+  startTime: string;
+  endTime: string;
+}
+
+export interface Appointment extends AppointmentDraft {
+  id: string;
+  status: AppointmentStatus;
+  calendarLink?: string | null;
+  createdAt: string;
+}
+
+export interface ConsultationSummary {
+  id: string;
+  title?: string | null;
+  startedAt: string;
+  lastActivityAt: string;
+  messageCount: number;
+}
+
+export interface LogMessage {
+  id: number;
+  author: string;
+  kind: "user" | "agent" | "tool_call" | "tool_result";
+  toolName?: string | null;
+  content: string;
+  createdAt: string;
+}
+
+/** A doctor to rebook, carried from the dashboard to the consultation page. */
+export interface RebookRequest {
+  doctorId: number;
+  doctorName: string;
+  specialization?: string | null;
 }

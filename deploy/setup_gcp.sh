@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # One-time (safe to re-run) Google Cloud setup for the two-service deployment:
 #   - enables the APIs needed for source deploys
-#   - creates the Cloud SQL database that stores ADK chat sessions
+#   - creates the Cloud SQL databases for ADK chat sessions and for the app
+#     (patient accounts, login sessions, consultation logs, appointments)
 #   - stores backend secrets in Secret Manager
 #   - creates the frontend service account (web-sa)
 #   - lets the backend (agent-sa) write traces to Cloud Trace and metrics to
@@ -25,6 +26,14 @@ else
   gcloud sql databases create "$SESSION_DB_NAME" --instance "$DB_INSTANCE" --project "$PROJECT"
 fi
 echo "ADK creates its tables on first use. DB_USER (${DB_USER:-?}) needs privileges on '$SESSION_DB_NAME'."
+
+log "Creating Cloud SQL database '$APP_DB_NAME' on instance '$DB_INSTANCE' (accounts, consultation logs, appointments)"
+if gcloud sql databases describe "$APP_DB_NAME" --instance "$DB_INSTANCE" --project "$PROJECT" >/dev/null 2>&1; then
+  echo "Database already exists."
+else
+  gcloud sql databases create "$APP_DB_NAME" --instance "$DB_INSTANCE" --project "$PROJECT" --charset utf8mb4
+fi
+echo "The backend creates its tables at startup. DB_USER (${DB_USER:-?}) needs privileges on '$APP_DB_NAME'."
 
 upsert_secret() {
   local name="$1" value="$2"

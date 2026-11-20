@@ -53,3 +53,6 @@ export function agentName(author: string | undefined): string {
 }
 
 export const EMERGENCY_NUMBER = "112";
+
+/** Contact point shown in the footer and on the Contact Us page (mailto link). */
+export const CONTACT_EMAIL = "arijitde2050@gmail.com";

@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Build & deploy the PRIVATE backend API service (FastAPI + ADK) to Cloud Run.
-# Chat sessions are stored in Cloud SQL over the Cloud SQL unix socket.
+# Chat sessions (adk_sessions) and patient accounts / consultation logs /
+# appointments (careconnect_app) are stored in Cloud SQL over the unix socket.
 # Secrets come from Secret Manager (see setup_gcp.sh).
 #
 # Usage (from the repo root):  bash deploy/deploy_backend.sh
@@ -35,6 +36,7 @@ yaml_kv COMPOSIO_USER_ID "$COMPOSIO_USER_ID"
 yaml_kv DB_USER "$DB_USER"
 yaml_kv INSTANCE_CONNECTION_NAME "$INSTANCE_CONNECTION_NAME"
 yaml_kv SESSION_DB_NAME "$SESSION_DB_NAME"
+yaml_kv APP_DB_NAME "$APP_DB_NAME"
 # Cloud Trace: on by default for the deployed backend. Message content stays
 # out of spans unless ADK_CAPTURE_MESSAGE_CONTENT_IN_SPANS=true in .env.
 yaml_kv TRACE_TO_CLOUD "${TRACE_TO_CLOUD:-true}"

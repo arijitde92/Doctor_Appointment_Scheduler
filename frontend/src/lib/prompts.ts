@@ -55,6 +55,7 @@ const BOOKING_FIELDS: Array<[keyof BookingDetails, string]> = [
   ["address", "Address"],
   ["date", "Date"],
   ["time", "Time"],
+  ["reference", "Reference"],
 ];
 
 /** Mirrors the delegation format the root agent uses for scheduler_agent. */
@@ -80,6 +81,21 @@ export function parseBookingPrompt(text: string): BookingDetails | null {
     if (field) details[field[0]] = match[2].trim();
   }
   return details;
+}
+
+/**
+ * Start a consultation with a doctor the patient has seen before (dashboard
+ * "Rebook"). Asks for the profile and clinics so the patient can pick a
+ * clinic, then a date and time slot, through the normal flow.
+ */
+export function rebookPrompt(doctor: { id: number; name: string; specialization?: string | null }): string {
+  const name = `Dr. ${stripDr(doctor.name)}`;
+  const spec = doctor.specialization ? ` (${doctor.specialization})` : "";
+  return (
+    `I'd like to book another appointment with ${name}${spec}, doctor_id ${doctor.id}. ` +
+    `Please show ${name}'s profile and the clinics where they practise so I can choose a clinic, ` +
+    `then help me pick a date and time slot.`
+  );
 }
 
 export function stripDr(name: string): string {

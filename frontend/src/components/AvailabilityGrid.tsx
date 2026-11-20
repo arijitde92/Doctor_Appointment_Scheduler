@@ -53,7 +53,7 @@ export function AvailabilityGrid({
               type="button"
               disabled={!available || busy}
               onClick={() => onSelectSlot(i)}
-              aria-label={`${time.start} to ${time.end}, ${available ? "available, book this slot" : "booked"}`}
+              aria-label={`${time.start} to ${time.end}, ${available ? `available, pick a ${availability.day} to book` : "booked"}`}
               className={clsx(
                 "rounded-lg border px-2 py-1.5 text-left transition-colors",
                 available
@@ -67,6 +67,7 @@ export function AvailabilityGrid({
           );
         })}
       </div>
+      <p className="mt-2.5 text-[0.6875rem] text-slate-500">Weekly schedule. Tap a time, then choose a {availability.day} on the calendar.</p>
     </Card>
   );
 }

@@ -533,6 +533,7 @@ Reference - <https://adk.dev/deploy/cloud-run/> · <https://cloud.google.com/run
    ```
 
    Without `INSTANCE_CONNECTION_NAME` or `SESSION_SERVICE_URI`, sessions are stored in a local SQLite file (`.adk_sessions.db`).
+   Patient accounts, consultation logs and appointments go to `.careconnect_app.db` (SQLite) unless `INSTANCE_CONNECTION_NAME` or `APP_DB_URI` is set. Backend tests: `pip install -r backend/requirements-dev.txt` then `pytest backend`.
 3. **Frontend** (Node 22+):
 
    ```bash
@@ -690,3 +691,51 @@ gcloud logging read 'resource.type=cloud_run_revision AND resource.labels.servic
 Change `service_name` to `doctor-appointment-web` or `toolbox` for the other services. The backend logs at `LOG_LEVEL` (default `INFO`). Python tracebacks are plain text, so each traceback line is a separate log entry.
 
 References - <https://adk.dev/integrations/cloud-trace/> · <https://cloud.google.com/trace/docs/trace-explorer>
+
+## Phase 11 -- Patient Accounts, Dashboard and Calendar Booking
+
+Every consultation now belongs to a signed-in patient. The browser never sends a user id: the BFF resolves an HttpOnly session cookie to a user and uses that user's id for every backend and ADK call.
+
+### Data model (Cloud SQL database `careconnect_app`)
+
+Created by `deploy/setup_gcp.sh`; the backend creates the tables at startup ([backend/app_api/models.py](backend/app_api/models.py)).
+
+| Table | Purpose |
+|---|---|
+| `users` | First/last name, phone, email (unique), current address, date of birth, Argon2 password hash |
+| `auth_sessions` | One row per login: SHA-256 of the session token, expiry (12 h absolute, 2 h idle), revoked time, IP, user agent |
+| `consultations` | One row per consultation (= ADK session id), linked to the user and the login session |
+| `consultation_messages` | Full conversation log: patient messages, agent replies, tool calls and tool results |
+| `appointments` | Appointments booked in the app: doctor, clinic, date, slot, status (`pending` / `confirmed` / `failed` / `cancelled`), Google Calendar link. A unique `slot_lock` prevents double-booking; unconfirmed holds expire after 30 minutes |
+
+Conversation logging is an ADK plugin ([backend/app_api/log_plugin.py](backend/app_api/log_plugin.py)) loaded with `get_fast_api_app(extra_plugins=[...])`, so the agents are unchanged.
+
+### API
+
+The backend routes live under `/app-api` ([backend/app_api/routes.py](backend/app_api/routes.py)) and are only reachable through the BFF (the backend is private on Cloud Run). The BFF ([frontend/server/index.mjs](frontend/server/index.mjs)) exposes:
+
+| Route | Purpose |
+|---|---|
+| `POST /api/auth/register`, `POST /api/auth/login` | Create an account / sign in; sets the `cc_session` cookie (HttpOnly, SameSite=Lax, Secure on HTTPS) |
+| `POST /api/auth/logout`, `GET /api/auth/me` | Revoke the session and clear the cookie / current user |
+| `POST /api/sessions`, `GET /api/sessions/:id`, `POST /api/chat` | Consultations, scoped to the signed-in user |
+| `GET /api/consultations`, `GET /api/consultations/:id/messages` | Consultation history and transcripts |
+| `GET/POST /api/appointments`, `PATCH /api/appointments/:id`, `GET /api/appointments/booked-slots` | Appointments and per-date slot occupancy |
+
+State-changing requests from another origin are rejected, login is rate limited, and all `/api` responses and the SPA shell are sent with `Cache-Control: no-store`.
+
+### Frontend
+
+- Routes (React Router): `/` home, `/login`, `/register`, `/about`, `/contact`, and the signed-in `/dashboard` and `/consult`.
+- Logging out revokes the session on the server, clears local data, signs out other tabs and replaces the history entry. Signed-in pages re-check the session on load, on back/forward-cache restores and when the tab becomes visible, so Back after logout lands on the login page.
+- Booking: **Book at this clinic** → month calendar → time-slot pop-up → the slot is reserved (`pending`) → the scheduler agent creates the Google Calendar event → the appointment becomes `confirmed` (or `failed`, which frees the slot).
+- Dashboard: appointment calendar with doctor names, details, consultation transcripts, and **Book again**, which starts a new consultation with that doctor pre-selected; the agent lists the doctor's clinics and the normal clinic → date → time flow follows.
+- The contact address shown in the footer and on the Contact page is `CONTACT_EMAIL` in [frontend/src/config/catalog.ts](frontend/src/config/catalog.ts).
+
+### Deploy
+
+```bash
+bash deploy/setup_gcp.sh        # creates the careconnect_app database (safe to re-run)
+bash deploy/deploy_backend.sh   # passes APP_DB_NAME to the backend
+bash deploy/deploy_frontend.sh
+```

@@ -51,6 +51,14 @@ METRICS_FLUSH_INTERVAL_S seconds (Cloud Monitoring rejects points written more
 often than every 5 s; values are cumulative, so a skipped flush loses nothing).
 Both are flushed again on shutdown.
 
+Application API (/app-api, see backend/app_api)
+    Patient accounts, login sessions, consultation logs and appointments in a
+    separate database: APP_DB_URI, or Cloud SQL database APP_DB_NAME (default
+    ``careconnect_app``) when INSTANCE_CONNECTION_NAME is set, otherwise a
+    local SQLite file (.careconnect_app.db). Tables are created at startup.
+    ConsultationLogPlugin (an ADK plugin) stores every message, agent reply and
+    tool call of each consultation.
+
 Run locally (from the repository root):
     uvicorn backend.main:app --port 8000
 """
@@ -69,6 +77,9 @@ import anyio
 import dotenv
 from google.adk.cli.fast_api import get_fast_api_app
 from opentelemetry import metrics, trace
+
+from backend.app_api.db import dispose_db, init_db
+from backend.app_api.routes import router as app_api_router
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 
@@ -259,7 +270,9 @@ class FlushTelemetryMiddleware:
 
 @asynccontextmanager
 async def lifespan(_app):
+    await init_db()
     yield
+    await dispose_db()
     # Cloud Run sends SIGTERM and allows a short grace period with CPU before
     # stopping an instance: send whatever is still buffered.
     if TRACE_TO_CLOUD or METRICS_TO_CLOUD:
@@ -291,7 +304,10 @@ app = get_fast_api_app(
     web=False,  # API only — the React frontend is a separate Cloud Run service.
     trace_to_cloud=TRACE_TO_CLOUD,
     lifespan=lifespan,
+    # Stores every consultation turn in the application database.
+    extra_plugins=["backend.app_api.log_plugin.consultation_log_plugin"],
 )
+app.include_router(app_api_router)
 
 if TRACE_TO_CLOUD or METRICS_TO_CLOUD:
     app.add_middleware(FlushTelemetryMiddleware)

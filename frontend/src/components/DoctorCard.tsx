@@ -1,9 +1,7 @@
 import clsx from "clsx";
-import { Building2, CalendarSearch, Car, ChevronDown, Clock, MessageSquareText } from "lucide-react";
-import { useState } from "react";
+import { Building2, CalendarPlus, Car, Clock, MessageSquareText } from "lucide-react";
 
-import { DAYS } from "../config/catalog";
-import { availabilityPrompt, reviewsPrompt } from "../lib/prompts";
+import { reviewsPrompt } from "../lib/prompts";
 import type { Clinic, Doctor, Route } from "../lib/types";
 import { Button, Card, initials } from "./ui";
 
@@ -12,15 +10,14 @@ function ClinicRow({
   clinic,
   route,
   busy,
-  onAsk,
+  onBook,
 }: {
   doctor: Doctor;
   clinic: Clinic;
   route?: Route;
   busy: boolean;
-  onAsk: (prompt: string) => void;
+  onBook: (doctor: Doctor, clinic: Clinic) => void;
 }) {
-  const [open, setOpen] = useState(false);
   return (
     <li className="rounded-xl border border-slate-100 bg-slate-50/60 p-3">
       <div className="flex items-start gap-2.5">
@@ -47,34 +44,10 @@ function ClinicRow({
         </div>
       </div>
 
-      <button
-        type="button"
-        onClick={() => setOpen((o) => !o)}
-        aria-expanded={open}
-        className="mt-2.5 inline-flex items-center gap-1.5 text-[0.8125rem] font-medium text-brand-700 hover:text-brand-900"
-      >
-        <CalendarSearch className="size-3.5" aria-hidden />
-        Check open slots
-        <ChevronDown className={clsx("size-3.5 transition-transform", open && "rotate-180")} aria-hidden />
-      </button>
-      {open && (
-        <div className="mt-2 flex flex-wrap gap-1.5 animate-fade-in" role="group" aria-label={`Choose a day at ${clinic.name}`}>
-          {DAYS.map((day) => (
-            <button
-              key={day}
-              type="button"
-              disabled={busy}
-              onClick={() => {
-                onAsk(availabilityPrompt(doctor, clinic, day));
-                setOpen(false);
-              }}
-              className="h-7 rounded-lg border border-slate-200 bg-white px-2 text-xs font-medium text-slate-600 transition-colors hover:border-brand-400 hover:bg-brand-50 hover:text-brand-800 disabled:opacity-50"
-            >
-              {day.slice(0, 3)}
-            </button>
-          ))}
-        </div>
-      )}
+      <Button size="sm" variant="subtle" className="mt-2.5 w-full" disabled={busy} onClick={() => onBook(doctor, clinic)}>
+        <CalendarPlus className="size-3.5" aria-hidden />
+        Book at this clinic
+      </Button>
     </li>
   );
 }
@@ -85,12 +58,16 @@ export function DoctorCard({
   routes,
   busy,
   onAsk,
+  onBook,
+  highlight = false,
 }: {
   doctor: Doctor;
   clinics: Clinic[];
   routes: Record<number, Route>;
   busy: boolean;
   onAsk: (prompt: string) => void;
+  onBook: (doctor: Doctor, clinic: Clinic) => void;
+  highlight?: boolean;
 }) {
   const meta = [
     doctor.yearsOfExperience !== undefined ? `${doctor.yearsOfExperience} yrs experience` : null,
@@ -99,7 +76,7 @@ export function DoctorCard({
   ].filter(Boolean);
 
   return (
-    <Card className="p-4 animate-fade-in">
+    <Card className={clsx("p-4 animate-fade-in", highlight && "ring-2 ring-brand-300")}>
       <div className="flex items-start gap-3">
         <span className="grid size-11 shrink-0 place-items-center rounded-full bg-gradient-to-br from-brand-50 to-brand-100 font-display text-sm font-bold text-brand-800 ring-1 ring-brand-200">
           {initials(doctor.name)}
@@ -124,7 +101,7 @@ export function DoctorCard({
       {clinics.length > 0 && (
         <ul className="mt-3 flex flex-col gap-2">
           {clinics.map((clinic) => (
-            <ClinicRow key={clinic.id} doctor={doctor} clinic={clinic} route={routes[clinic.id]} busy={busy} onAsk={onAsk} />
+            <ClinicRow key={clinic.id} doctor={doctor} clinic={clinic} route={routes[clinic.id]} busy={busy} onBook={onBook} />
           ))}
         </ul>
       )}

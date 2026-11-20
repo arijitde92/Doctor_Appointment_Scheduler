@@ -227,3 +227,5 @@ frontend/dist/
 .mcp.json
 
 .vscode/
+# Local application database (accounts, consultation logs, appointments)
+.careconnect_app.db

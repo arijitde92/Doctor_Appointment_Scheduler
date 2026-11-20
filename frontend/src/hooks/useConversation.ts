@@ -2,9 +2,10 @@ import { useCallback, useEffect, useReducer, useRef, useState } from "react";
 
 import { conversationReducer, initialConversation } from "../lib/adkEvents";
 import { ApiError, createSession, getSession, streamChat } from "../lib/api";
+import type { Doctor } from "../lib/types";
 
-const USER_KEY = "careconnect.userId";
-const SESSION_KEY = "careconnect.sessionId";
+/** The open consultation is remembered per signed-in user (cleared on logout). */
+const sessionKey = (userId: string) => `careconnect.sessionId.${userId}`;
 
 function storageGet(key: string): string | null {
   try {
@@ -27,24 +28,21 @@ function newId(): string {
   return `u-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 10)}`;
 }
 
-function getUserId(): string {
-  let id = storageGet(USER_KEY);
-  if (!id) {
-    id = newId();
-    storageSet(USER_KEY, id);
-  }
-  return id;
-}
-
 const FRIENDLY_ERROR = "Something went wrong while contacting the assistant. Please try again.";
 
-export function useConversation() {
+export function useConversation(userId: string) {
   const [state, dispatch] = useReducer(conversationReducer, initialConversation);
   const [busy, setBusy] = useState(false);
+  const busyRef = useRef(false);
   const [restoring, setRestoring] = useState(true);
-  const userIdRef = useRef<string>(getUserId());
-  const sessionIdRef = useRef<string | null>(storageGet(SESSION_KEY));
+  const key = sessionKey(userId);
+  const sessionIdRef = useRef<string | null>(storageGet(key));
   const abortRef = useRef<AbortController | null>(null);
+
+  const setBusyBoth = (value: boolean) => {
+    busyRef.current = value;
+    setBusy(value);
+  };
 
   // Restore the previous conversation (sessions are persisted in Cloud SQL).
   useEffect(() => {
@@ -54,34 +52,37 @@ export function useConversation() {
       return;
     }
     let cancelled = false;
-    getSession(userIdRef.current, sessionId)
+    getSession(sessionId)
       .then((session) => {
         if (!cancelled) dispatch({ type: "hydrate", events: session.events ?? [] });
       })
       .catch(() => {
         // Unknown/expired session: start fresh on the next message.
         sessionIdRef.current = null;
-        storageSet(SESSION_KEY, null);
+        storageSet(key, null);
       })
       .finally(() => !cancelled && setRestoring(false));
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [key]);
+
+  // Leaving the page (or logging out) stops any running stream.
+  useEffect(() => () => abortRef.current?.abort(), []);
 
   const ensureSession = useCallback(async (): Promise<string> => {
     if (sessionIdRef.current) return sessionIdRef.current;
-    const session = await createSession(userIdRef.current);
+    const session = await createSession();
     sessionIdRef.current = session.id;
-    storageSet(SESSION_KEY, session.id);
+    storageSet(key, session.id);
     return session.id;
-  }, []);
+  }, [key]);
 
   const send = useCallback(
     async (rawText: string) => {
       const text = rawText.trim();
-      if (!text || busy) return;
-      setBusy(true);
+      if (!text || busyRef.current) return;
+      setBusyBoth(true);
       dispatch({ type: "userMessage", id: newId(), text });
       const controller = new AbortController();
       abortRef.current = controller;
@@ -90,7 +91,7 @@ export function useConversation() {
         const sessionId = await ensureSession();
         try {
           await streamChat(
-            { userId: userIdRef.current, sessionId, message: text },
+            { sessionId, message: text },
             {
               onEvent: (event) => dispatch({ type: "event", event }),
               onError: (message) => {
@@ -103,7 +104,7 @@ export function useConversation() {
         } catch (err) {
           if (retryOnMissingSession && err instanceof ApiError && err.status === 404) {
             sessionIdRef.current = null;
-            storageSet(SESSION_KEY, null);
+            storageSet(key, null);
             return run(false);
           }
           throw err;
@@ -119,31 +120,40 @@ export function useConversation() {
         const message =
           err instanceof ApiError && err.status === 429
             ? "You're sending messages a little too quickly. Please wait a moment and try again."
-            : FRIENDLY_ERROR;
+            : err instanceof ApiError && err.status === 401
+              ? "Your session has expired. Please log in again."
+              : FRIENDLY_ERROR;
         dispatch({ type: "streamError", message });
       } finally {
         if (abortRef.current === controller) abortRef.current = null;
-        setBusy(false);
+        setBusyBoth(false);
       }
     },
-    [busy, ensureSession],
+    [ensureSession, key],
   );
 
   const reset = useCallback(() => {
     abortRef.current?.abort();
     abortRef.current = null;
     sessionIdRef.current = null;
-    storageSet(SESSION_KEY, null);
-    setBusy(false);
+    storageSet(key, null);
+    setBusyBoth(false);
     dispatch({ type: "reset" });
-  }, []);
+  }, [key]);
 
   const stop = useCallback(() => {
     abortRef.current?.abort();
     abortRef.current = null;
-    setBusy(false);
+    setBusyBoth(false);
     dispatch({ type: "streamEnd" });
   }, []);
 
-  return { state, busy, restoring, send, reset, stop };
+  const seedDoctor = useCallback((doctor: Pick<Doctor, "id" | "name" | "specialization">) => {
+    dispatch({ type: "seedDoctor", doctor });
+  }, []);
+
+  /** Current consultation id (null before the first message). */
+  const currentSessionId = useCallback(() => sessionIdRef.current, []);
+
+  return { state, busy, restoring, send, reset, stop, seedDoctor, currentSessionId };
 }

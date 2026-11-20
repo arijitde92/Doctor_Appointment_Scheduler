@@ -1,11 +1,11 @@
 import clsx from "clsx";
-import { CalendarCheck, CalendarDays, MapPin, Stethoscope, Users } from "lucide-react";
+import { CalendarCheck, CalendarDays, Loader2, MapPin, Repeat2, Stethoscope, Users } from "lucide-react";
 import { useEffect, useMemo, useRef } from "react";
 
-import type { ConversationState, Doctor } from "../lib/types";
+import type { Clinic, ConversationState, Doctor } from "../lib/types";
 import { AvailabilityGrid } from "./AvailabilityGrid";
 import { BookingCard } from "./BookingCard";
-import type { SlotSelection } from "./BookingDialog";
+import type { BookingTarget } from "./booking/DatePickerDialog";
 import { DoctorCard } from "./DoctorCard";
 import { Card, SectionTitle } from "./ui";
 
@@ -32,7 +32,7 @@ function EmptyResults() {
           <MapPin className="size-4 text-brand-600" aria-hidden /> See travel time to each clinic
         </li>
         <li className="flex items-center gap-2">
-          <CalendarDays className="size-4 text-brand-600" aria-hidden /> Tap an open slot to book
+          <CalendarDays className="size-4 text-brand-600" aria-hidden /> Pick a date and time to book
         </li>
       </ul>
     </div>
@@ -43,15 +43,17 @@ export function ResultsPanel({
   state,
   busy,
   onAsk,
-  onSelectSlot,
+  onBook,
   className,
 }: {
   state: ConversationState;
   busy: boolean;
   onAsk: (prompt: string) => void;
-  onSelectSlot: (selection: SlotSelection) => void;
+  /** Open the calendar booking flow. */
+  onBook: (target: BookingTarget) => void;
   className?: string;
 }) {
+  const selectedDoctor = state.selectedDoctorId !== undefined ? state.doctors[state.selectedDoctorId] : undefined;
   const doctors = useMemo(() => {
     const list = (state.search?.doctorIds ?? []).map((id) => state.doctors[id]).filter((d): d is Doctor => !!d);
     // Closest first when travel distances are known, otherwise keep search order (experience).
@@ -63,7 +65,8 @@ export function ResultsPanel({
     return list;
   }, [state.search, state.doctors, state.routes]);
 
-  const hasAnything = doctors.length > 0 || state.availability.length > 0 || state.bookings.length > 0;
+  const hasAnything = !!selectedDoctor || doctors.length > 0 || state.availability.length > 0 || state.bookings.length > 0;
+  const book = (doctor: Doctor, clinic: Clinic) => onBook({ doctor, clinic });
 
   // New bookings / slots are inserted at the top: bring them into view.
   const scrollRef = useRef<HTMLDivElement>(null);
@@ -88,6 +91,27 @@ export function ResultsPanel({
           <EmptyResults />
         ) : (
           <div className="flex flex-col gap-6">
+            {selectedDoctor && (
+              <section aria-label="Rebooking">
+                <SectionTitle icon={<Repeat2 className="size-3.5" aria-hidden />}>Booking again with</SectionTitle>
+                <DoctorCard
+                  doctor={selectedDoctor}
+                  clinics={selectedDoctor.clinicIds.map((id) => state.clinics[id]).filter(Boolean)}
+                  routes={state.routes}
+                  busy={busy}
+                  onAsk={onAsk}
+                  onBook={book}
+                  highlight
+                />
+                {selectedDoctor.clinicIds.length === 0 && (
+                  <p className="mt-2 flex items-center gap-2 px-1 text-xs text-slate-500">
+                    {busy && <Loader2 className="size-3.5 animate-spin" aria-hidden />}
+                    {busy ? "Loading this doctor's clinics…" : "Ask the assistant to list this doctor's clinics."}
+                  </p>
+                )}
+              </section>
+            )}
+
             {state.bookings.length > 0 && (
               <section aria-label="Bookings">
                 <SectionTitle icon={<CalendarCheck className="size-3.5" aria-hidden />}>Appointments</SectionTitle>
@@ -110,7 +134,11 @@ export function ResultsPanel({
                       doctor={state.doctors[a.doctorId]}
                       clinic={state.clinics[a.clinicId]}
                       busy={busy}
-                      onSelectSlot={(slotIndex) => onSelectSlot({ availability: a, slotIndex })}
+                      onSelectSlot={(slotIndex) => {
+                        const doctor = state.doctors[a.doctorId];
+                        const clinic = state.clinics[a.clinicId];
+                        if (doctor && clinic) onBook({ doctor, clinic, weekday: a.day, slotIndex });
+                      }}
                     />
                   ))}
                 </div>
@@ -134,6 +162,7 @@ export function ResultsPanel({
                       routes={state.routes}
                       busy={busy}
                       onAsk={onAsk}
+                      onBook={book}
                     />
                   ))}
                 </div>

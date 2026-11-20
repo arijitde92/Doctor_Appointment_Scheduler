@@ -46,19 +46,27 @@ Unlike a typical healthcare chatbot or doctor directory, this solution is action
 - Multi-agent orchestration using a root coordinator, doctor matcher, review agent, and scheduler agent
 - Human-in-the-loop conversational refinement for comparing doctors, checking reviews, verifying slots, and confirming bookings
 - A patient-facing React UI with a guided intake form, live agent activity, doctor cards, a time-slot grid and booking confirmation
+- Patient accounts (register / log in / log out) with per-user isolation of consultations and appointments
+- Calendar-based booking: pick a date on a month calendar, then a time slot in a pop-up; double-booking is prevented
+- A personal dashboard with an appointment calendar, consultation transcripts and one-click rebooking of a past doctor
 
 ## User Interface
 
 The patient-facing web app in [frontend/](frontend) is built with React, TypeScript, Vite and Tailwind CSS. It uses a healthcare look: clinical teal on a soft neutral canvas, with accessible contrast and a layout that works on phones, tablets and desktops.
 
-- **Guided intake.** Pick a speciality and city, optionally share your location (typed or with "Use my current location"), and choose a preferred day. The app turns this into the first message to the agents.
+- **Home, About and Contact pages.** A marketing home page explains the service, with **Log in** and **Register** on separate pages. The site footer links to About Us and Contact Us, and the contact address is a `mailto:` link that opens the default email app.
+- **Accounts.** Registration stores first and last name, phone, email, current address and date of birth. The password must have at least 8 characters with an uppercase letter, a lowercase letter, a number and a special character; a live checklist ticks off each rule and the confirm field shows whether the passwords match.
+- **Guided intake.** Pick a speciality and city, optionally share your location (pre-filled with your saved address, typed, or with "Use my current location"), and choose preferred days. The app turns this into the first message to the agents.
 - **Consultation chat.** Responses stream in as they are generated and render markdown tables. Each reply is labelled with the agent that wrote it (Care Coordinator, Doctor Matcher, Review Analyst, Appointment Scheduler). A collapsible **agent activity timeline** shows each step, such as "Searching Cardiology in Kolkata · Cloud SQL" or "Calculating distance & travel time · Google Maps".
 - **Live results panel**, built from the agents' tool results:
   - Doctor cards with experience and clinics, plus distance and travel time when a location was shared
   - A 7-slot availability grid per doctor, clinic and day
   - Appointment cards that move from *requested* to *confirmed*, with an "Open in Google Calendar" link
-- **One-click actions.** "Patient reviews", "Check open slots" and tapping an open slot all send ordinary chat messages to the root agent. The agents, tools and prompts are unchanged.
-- **Persistent consultations.** Sessions live in Cloud SQL, so reloading the page restores the full conversation and results.
+- **Calendar booking.** "Book at this clinic" opens a month calendar (next 60 days). Choosing a date opens a time-slot pop-up that combines the doctor's weekly schedule (fetched by the agent) with slots already booked through the app on that date. Confirming reserves the slot, then asks the scheduler agent to create the Google Calendar event.
+- **Dashboard.** Appointments on a month calendar with the doctor's name, status colours, details, recent consultations with their full transcripts, and **Book again**, which opens a new consultation with that doctor already selected so you only choose the clinic, date and time.
+- **One-click actions.** "Patient reviews", availability checks and bookings all send ordinary chat messages to the root agent. The agents, tools and prompts are unchanged.
+- **Persistent consultations.** Sessions live in Cloud SQL, so reloading the page restores the full conversation and results. Every message, agent reply and tool call is also logged per user, per login session and per consultation.
+- **Secure logout.** Sessions are HttpOnly cookies revoked on the server at logout; signed-in pages and API responses are never cached, so the Back button can't show a signed-in page afterwards.
 
 The UI derives everything from the ADK event stream ([frontend/src/lib/adkEvents.ts](frontend/src/lib/adkEvents.ts)), so live streaming and session restore share the same code.
 
@@ -102,7 +110,8 @@ This project uses a modular Google Cloud and MCP-first architecture so each part
 
 ```text
 Browser ──▶ doctor-appointment-web  (Cloud Run, public)
-              React UI + Express BFF: /api/sessions, /api/chat (SSE)
+              React UI + Express BFF: /api/auth/*, /api/sessions, /api/chat (SSE),
+              /api/appointments, /api/consultations  (HttpOnly session cookie)
                 │  Google ID token (service account web-sa, roles/run.invoker)
                 ▼
             doctor-appointment-api  (Cloud Run, private)
@@ -112,11 +121,13 @@ Browser ──▶ doctor-appointment-web  (Cloud Run, public)
                 ├─ Vertex AI RAG Engine (doctor reviews)
                 ├─ Composio ─▶ Google Calendar
                 ├─ ADK sessions ─▶ Cloud SQL database adk_sessions
+                ├─ /app-api: accounts, login sessions, consultation logs,
+                │  appointments ─▶ Cloud SQL database careconnect_app
                 └─ OpenTelemetry ─▶ Cloud Trace (spans) · Cloud Monitoring (metrics)
 ```
 
 ```bash
-bash deploy/setup_gcp.sh        # one-time: APIs, sessions DB, secrets, web-sa, trace + metrics access
+bash deploy/setup_gcp.sh        # one-time: APIs, sessions + app DBs, secrets, web-sa, trace + metrics access
 bash deploy/deploy_backend.sh   # private API service (root Dockerfile)
 bash deploy/deploy_frontend.sh  # public web service (frontend/Dockerfile) + invoker binding
 bash deploy/setup_monitoring.sh # Cloud Monitoring dashboard + consultations metric

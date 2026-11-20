@@ -20,3 +20,9 @@ opentelemetry-exporter-gcp-trace>=1.9,<2
 # to telemetry.googleapis.com and tags points with the Cloud Run resource.
 opentelemetry-exporter-otlp-proto-http>=1.36
 opentelemetry-resourcedetector-gcp>=1.9.0a0,<2
+# Patient accounts (backend/app_api): Argon2 password hashing, email validation
+argon2-cffi>=23.1
+email-validator>=2.1
+# IANA time-zone database for zoneinfo (appointment time zones); slim images
+# and Windows don't ship one.
+tzdata>=2025.2
